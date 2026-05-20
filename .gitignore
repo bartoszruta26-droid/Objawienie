@@ -1,1 +1,1 @@
-Nothing should be ignored in this case, as the only added file is a markdown document (`preambula/ROZDZIAL_5_ROSZCZENIA_I_PRAWA_AUTORSKIE.md`), which is source content and not a build artifact, dependency, or temporary file.
+Nothing needs to be added to .gitignore since only a markdown file (.md) was added and no build artifacts, dependencies, or temporary files are present in the changes.
