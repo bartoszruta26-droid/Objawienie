@@ -1,1 +1,1 @@
-(spis_tresci.md is a source file, and there are no build artifacts, dependencies, or temp files in the changes)
+(spis_tresci.md is a markdown file, which is a source/config file, so no need to add anything to .gitignore)
