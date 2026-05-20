@@ -6,7 +6,7 @@
 
 ## 🏛️ Tabela Poziomów
 
-| # | 🎯 Poziom | 🏢 Organizacje | 🌿 Pod-organizacje 1 | 🌱 Pod-organizacje 2 | 
+|  🎯 Poziom | 🏢 Organizacje | 🌿 Pod-organizacje 1 | 🌱 Pod-organizacje 2 | Pod-organizacje 3 |
 |:-:|-----------|----------------|---------------------|---------------------|
 | 1 | **Ja (Jaźń)** 🧘 | Tym | Który | Jestem |
 | 2 | **Jam** 👑 | Alfa | I | Omega |
