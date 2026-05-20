@@ -1,1 +1,1 @@
-(spis_tresci.md is a markdown file, which is a source/config file, so no need to add anything to .gitignore)
+Nothing needs to be added to .gitignore since only a markdown file (.md) was added and no build artifacts, dependencies, or temporary files are present in the changes.
