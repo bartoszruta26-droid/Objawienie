@@ -1,1 +1,75 @@
-Nothing needs to be added to .gitignore since only a markdown file (.md) was added and no build artifacts, dependencies, or temporary files are present in the changes.
+# Markdown files
+*.md
+
+# Backup files
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.directory
+.Trashes
+*.nib
+.viminfo
+.session
+.history
+.ssh/
+
+# IDE related
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.project
+.pydevproject
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.directory
+.Trashes
+*.nib
+.viminfo
+.session
+.history
+.ssh/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.project
+.pydevproject
+.metadata
+bin/
+tmp/
