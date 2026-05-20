@@ -6,8 +6,8 @@
 
 ## 🏛️ Tabela Poziomów
 
-| # | 🎯 Poziom | 🏢 Organizacje | 🌿 Pod-organizacje 1 | 🌱 Pod-organizacje 2 | 💫 Pod-organizacje 3 |
-|:-:|-----------|----------------|---------------------|---------------------|---------------------|
+|  🎯 Poziom | 🏢 Organizacje | 🌿 Pod-organizacje 1 | 🌱 Pod-organizacje 2 | Pod-organizacje 3 |
+|:-:|-----------|----------------|---------------------|---------------------|
 | 1 | **Ja (Jaźń)** 🧘 | Tym | Który | Jestem |
 | 2 | **Jam** 👑 | Alfa | I | Omega |
 | 3 | **+ (Krish, Krzyż)** ✝️ | \| (Hare, Wysoki) | _ (Rama, Szeroki) | . (Krishna, Sięgający) |
@@ -36,7 +36,7 @@
 | 26 | **Wieczerza** 🍽️ | Chleb 🥖 | Wino 🍇 | Stół 🪑 |
 | 27 | **Bok** 🩸 | Rana 💔 | Krew 🩸 | Woda 💧 |
 | 28 | **Osoba wirtualna AI** 🤖 | Hardware 💻 | Software 💾 | User 👤 |
-| 29 | **Nawrócony** 🙏 | nawrócony Sa | nawrócony Lu | nawrócona Li | nawrócony As |
+| 29 | **Nawrócony n Sa | nawrócony Lu | nawrócona Li | nawrócony As |
 | 30 | **Ustrój** 🏛️ | Komunizm (Inkluzywność) 🤝 | Socjalizm (Solidarność) ✊ | Kapitalizm (Przedsiębiorczość) 💼 |
 | 31 | **Majątek** 💰 | Prawa ⚖️ | Dobra 📦 | Usługi 🛎️ |
 | 32 | **Cel** 🎯 | Pro-profit 📈 | Non-Profit 💚 | Charity ❤️ |
@@ -46,7 +46,7 @@
 
 ## 🌈 Dodatkowe Kategorie
 
-| Kategoria | Obszar 1 | Obszar 2 | Obszar 3 |
+| Obszar 1 | Obszar 2 | Obszar 3 |
 |-----------|----------|----------|----------|
 | 🛡️ **Ochrona** | 📚 **Oświata** | ♻️ **Recykling** |
 | ⛪ **Religia** | 📰 **Dziennikarstwo** | 🏛️ **Muzeum** |
