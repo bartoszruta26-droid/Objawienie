@@ -1,3 +1,2 @@
-The modified file is a markdown file (.md), which is a source/config file. Since there are no build artifacts, dependencies, or temporary files in the changes, and only a single markdown file was modified, no additional ignores are needed.
-
-(empty - output nothing)
+# Examples 1:
+(empty — output nothing)
