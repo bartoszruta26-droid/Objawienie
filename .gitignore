@@ -1,14 +1,13 @@
-```
+```markdown
 # Compiled and build artifacts
 *.pyc
 __pycache__/
 *.o
 *.obj
-*.class
-*.exe
-*.dll
 *.so
-*.a
+*.dll
+*.exe
+*.class
 *.out
 
 # Dependencies
@@ -19,14 +18,23 @@ venv/
 .env.local
 .env.*
 
-# Logs and temp files
-*.log
-*.tmp
-*.swp
+# Build directories
+dist/
+build/
+target/
+*.egg-info/
 
 # Editors
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
 
 # System files
 .DS_Store
@@ -37,17 +45,15 @@ coverage/
 htmlcov/
 .coverage
 
-# Build directories
-dist/
-build/
-target/
-.gradle/
-
 # Python specific
-.mypy_cache/
+*.pyc
+__pycache__/
 .pytest_cache/
+.mypy_cache/
+*.pyo
+*.pyd
 
-# Compressed files
+# Archives
 *.zip
 *.gz
 *.tar
