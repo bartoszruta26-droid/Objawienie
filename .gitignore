@@ -23,7 +23,6 @@ venv/
 *.log
 *.tmp
 *.swp
-*.swo
 
 # Editors
 .vscode/
@@ -47,8 +46,6 @@ target/
 # Python specific
 .mypy_cache/
 .pytest_cache/
-*.pyc
-__pycache__/
 
 # Compressed files
 *.zip
