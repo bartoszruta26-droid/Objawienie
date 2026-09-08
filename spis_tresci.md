@@ -70,6 +70,7 @@ Według Struktury Kwantowej – Fraktalnej – Holograficznej oraz Prawa Boskieg
 - 3.2.5 Prawo Państwowe – Konstytucja i ustawy
 - 3.2.6 Prawo Statutowe i Regulaminowe – porządek wewnętrzny
 - 3.2.7 Prawo Kodowe – zasady funkcjonowania narzędzi
+- 3.2.8 Prawo Osobowe Rozszerzone – godność i suwerenność jednostki
 3.3 Cykl obowiązywania praw
 - 3.3.1 Przekazywanie od Boga przez Naturę, Ród, Państwo do Człowieka
 - 3.3.2 Jedność celu wszystkich poziomów istnienia
