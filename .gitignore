@@ -1,7 +1,1 @@
-The file path '"rozdzialy/13_2_przeznaczenie_\\305\\233rodk\\303\\263w.md"' appears to be a markdown file with Polish characters in the filename, which is a source document. Since only a markdown file was deleted and there are no build artifacts, dependencies, or temporary files in the changes, no additional rules need to be added to the .gitignore file.
-
-Therefore, the .gitignore content remains empty.
-
-```
-
-```
+(empty)
