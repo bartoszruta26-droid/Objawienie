@@ -1,3 +1,19 @@
 # Examples 1:
 
-# Example 2 (Project with artifacts):
+# Project with artifacts:
+
+# Compiled and build artifacts
+
+# Dependencies
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+
+# Editors
+
+# Original rules preserved
+*.log
