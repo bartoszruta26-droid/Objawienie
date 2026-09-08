@@ -1,3 +1,7 @@
-(spis_tresci.md is a markdown file, which is source content that should not be ignored)
+The modified file is a markdown document containing Polish characters in its filename. Since it's a source content file and not a build artifact, dependency, or temporary file, no additional entries are required in the .gitignore file.
 
-(empty - output nothing)
+Therefore, the .gitignore remains empty.
+
+```gitignore
+
+```
