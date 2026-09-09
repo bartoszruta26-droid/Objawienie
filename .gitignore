@@ -1,2 +1,5 @@
-# Examples 1:
-(empty — output nothing)
+# Markdown files are source content - no need to ignore
+# The only change is a markdown file addition, which should be tracked
+# No build artifacts, dependencies, or temp files detected in changes
+
+# Keep .gitignore empty since only source files are being added/modified
