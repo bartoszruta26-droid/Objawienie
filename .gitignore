@@ -1,1 +1,2 @@
-Nothing needs to be added to .gitignore since the only change is adding a markdown file (.md), which is a source/config file and should not be ignored.
+# Examples 1:
+(empty — output nothing)
