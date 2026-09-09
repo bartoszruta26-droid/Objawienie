@@ -1,1 +1,46 @@
-Nothing needs to be added to .gitignore since only a markdown file (.md) was added, which is a source/config file and should not be ignored.
+# Examples 1:
+(empty — output nothing)
+
+# Example 2 (Project with artifacts):
+#Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+dist/
+build/
+target/
+#Dependencies
+.venv/
+venv/
+node_modules/
+.julia/
+zig*/
+.mypy_cache/
+.pytest_cache/
+.egg-info/
+#Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+#Environment
+.env
+.env.local
+*.env.*
+#Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+#System files
+.DS_Store
+Thumbs.db
+#Coverage
+coverage/
+htmlcov/
+.coverage
+#Gradle
+.gradle/
+#Original rules preserved
+*.log
