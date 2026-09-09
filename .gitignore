@@ -1,1 +1,8 @@
-Nothing needs to be added to .gitignore since the only change is adding a markdown file (.md), which is a source/config file and should not be ignored.
+# Markdown files and documentation
+*.md
+
+Wait, that's not right - the markdown file is a source file that should be tracked. Since only a markdown file was added and no build artifacts, dependencies, or temp files are present in the changes, the output should be empty.
+
+```markdown
+
+```
