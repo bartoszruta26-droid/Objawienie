@@ -389,6 +389,8 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **Uwagi redakcyjne:**
 
+*Zasada lektury:* numery oznaczone jako „dawne” dotyczą starej numeracji źródłowej i pełnią wyłącznie funkcję historyczno-porządkową; obowiązującymi są numery nowe — zgodnie z przepisami tego kanonu.
+
 1. *Przenumerowanie:* dawne kan. 600–634 → kan. 432–466 (ciągłość po Księdze VI, kończącej się na kan. 431).
 2. *Odesłania wewnętrzne:* dawne odesłania „Kan. 606–612” → kan. 438–444; „Kan. 613–628” → kan. 445–460; „Kan. 621” → kan. 453; „Kan. 606 i 628” → kan. 438 i 460.
 3. *Odesłania zewnętrzne:* dawne odwołania do „Księgi XV” (w tekście źródłowym samoopisującym) zastąpiono wskazaniem niniejszej Księgi; odwołania do „Księgi XVI” o przekazaniu patriarchatu → Księga VIII.

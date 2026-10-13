@@ -426,6 +426,8 @@
 
 ### ANEKS: TABELA KORESPONDENCJI KSIĘGI III Z KODEKSEM PRAWA KANONICZNEGO 1983
 
+*Tabela ma charakter historyczno-porządkowy: kolumna „Odpowiadające kanony KPK 1983” zawiera numery kanonów zewnętrznych (KPK), a kolumna „Nowa numeracja (kan.)” — obowiązujące odesłania wewnętrzne zbioru; dawne odesłania do zniesionej numeracji źródłowej należy czytać zgodnie z przepisami tego kanonu, tj. przez odpowiedniki oznaczone nową, ciągłą numeracją.*
+
 | Tytuł niniejszej Księgi | Nowa numeracja (kan.) | Odpowiadające kanony KPK 1983 | Przedmiot |
 |---|---|---|---|
 | Tytuł I: Ustawy kościelne | Kan. 136–151 | Kan. 7–22 | Leges ecclesiasticae |

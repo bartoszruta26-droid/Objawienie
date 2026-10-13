@@ -36,7 +36,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł I: ZASADA ROZMNAŻANIA DÓBR DUCHOWYCH
 
-**Kan. 521 § 1.** Dobra duchowe Kościoła Domowego — w tym tytuły duchownego, kapłana, szafarza świętego, arcykapłana i biskupa domowego — nie podlegają zasadzie wyłączności ani niepodzielności. Mogą być i winny być rozmnażane, przekazywane i udzielane wszystkim członkom wspólnoty, którzy są do tego zdolni i przygotowani. *(dawny kan. 700 § 1 połączony z dawnym kan. 900 § 1)*
+**Kan. 521 § 1.** Dobra duchowe Kościoła Domowego — w tym tytuły duchownego, kapłana, szafarza świętego, arcykapłana i biskupa domowego — nie podlegają zasadzie wyłączności ani niepodzielności. Mogą być i winny być rozmnażane, przekazywane i udzielane wszystkim członkom wspólnoty, którzy są do tego zdolni i przygotowani. *(przepis scalony z dawnego kan. 700 § 1 oraz dawnego kan. 900 § 1 starej numeracji; zgodnie z przepisami tego kanonu obowiązuje wyłącznie niniejsze, nowe brzmienie)*
 
 **§ 2.** Rozmnażanie dóbr duchowych oznacza, że:
 
@@ -142,7 +142,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Arcykapłan nie może odmówić rozmnażania tytułów bez słusznej przyczyny. Odmowa wymaga uzasadnienia na piśmie i może być zaskarżona przed Triarchią Domową lub biskupa tytularnego subdiecezjalnego.
 
-**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 521–525 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: patriarchat nad subdiecezjami domowymi (kan. 470–472), urząd Biskupa Rzymskiego (por. kan. 331 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 369 KPK) oraz urząd proboszcza w konkretnej parafii. *(dawny kan. 700 § 3 — norma odsyłająca do Księgi VIII)*
+**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 521–525 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: patriarchat nad subdiecezjami domowymi (kan. 470–472), urząd Biskupa Rzymskiego (por. kan. 331 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 369 KPK) oraz urząd proboszcza w konkretnej parafii. *(odpowiednik dawnego kan. 700 § 3 — norma odsyłająca do Księgi VIII; zgodnie z przepisami tego kanonu obowiązuje niniejsze brzmienie)*
 
 ## Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH
 
@@ -611,6 +611,8 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 ---
 
 ## TABELA PRZEKIEROWAŃ (DAWNE NUMERY → NOWA NUMERACJA)
+
+*Tabela ma wyłącznie charakter historyczno-porządkowy. Numery z kolumny „Dawny przepis” należą do zniesionej numeracji źródłowej i nie stanowią obowiązujących odesłań krzyżowych; w sprawach przez nie regulowanych zastosowanie mają odpowiedniki z kolumny „Nowy kanon” — zgodnie z przepisami tego kanonu.*
 
 | Dawny przepis | Przedmiot | Nowy kanon |
 |---|---|---|

@@ -75,7 +75,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego
 
-**Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określa w sposób wyczerpujący **Księga III — Prawo Kościelne** (*De Ecclesiae universae iure*, kan. 136–230). Niniejsza Księga I nie ustanawia w tych sprawach odrębnych regulacji, lecz w całości odsyła do Księgi III, z zastrzeżeniem kan. 9–12 niniejszej Księgi.
+**Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określa w sposób wyczerpujący **Księga III — Prawo Kościelne** (*De Ecclesiae universae iure*, kan. 136–230). Niniejsza Księga I nie ustanawia w tych sprawach odrębnych regulacji, lecz w całości odsyła do Księgi III, z zastrzeżeniem kan. 1–8 i 10–13 niniejszej Księgi.
 
 **Kan. 10 § 1.** Hierarchia źródeł prawa w Kościele Domowym jest następująca:
 1° Prawo Boże — stoi ponad prawem naturalnym;

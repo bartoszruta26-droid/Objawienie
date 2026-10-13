@@ -1764,6 +1764,8 @@
 
 **Uwagi redakcyjne:**
 
+*Zasada lektury:* numery oznaczone poniżej jako „dawne” dotyczą starej numeracji źródłowej i pełnią wyłącznie funkcję historyczno-porządkową; nie stanowią obowiązujących odesłań krzyżowych. W sprawach przez nie regulowanych zastosowanie mają odpowiedniki w nowej, ciągłej numeracji zbioru — zgodnie z przepisami tego kanonu.
+
 1. *Usunięte powtórzenia:* dawne kan. 55–61 (szczegółowe formuły błogosławieństw sakramentaliów rzeczowych) zostały scalone z pełniejszymi odpowiednikami Tytułu IX (sakramentalia rzeczowe); dawne kan. 63–67 (okresy roku liturgicznego) zachowane w skróconej formie jako Tytuł III, ponieważ pełniejsze przepisy celebracyjne mieszczą się w Tytułach IX–XIV; dawne kan. 46–49 (formacja w trzech obrządkach) dublowały dawne kan. 73–84 — zachowano wersję pełną (Tytuł V).
-2. *Poprawki scalone:* kan. 437 (modlitwa rodzinna) przyjęty w brzmieniu źródłowym; literówki „Głowa Rodu” ujednolicone.
-3. *Materia przeniesiona:* kan. 435–439 (miejsca kultu, niedziela) należały tematycznie do niniejszej Księgi — wydzielone z części o relacjach zewnętrznych; dawne kan. 290–291 (respektowanie prawa w trzech obrządkach) włączone strukturalnie w obręb Tytułu V poprzez swe normy ogólne zawarte już w Księdze III.
+2. *Poprawki scalone:* **kan. 437 Poprawek** (modlitwa rodzinna) przyjęty w brzmieniu źródłowym jako kan. 249–250 niniejszej Księgi; literówki „Głowa Rodu” ujednolicone.
+3. *Materia przeniesiona:* **kan. 435–439 Poprawek** (miejsca kultu, niedziela) należały tematycznie do niniejszej Księgi — wydzielone z części o relacjach zewnętrznych i zastąpione w tekście odesłaniem do kan. 268–273; dawne kan. 290–291 (respektowanie prawa w trzech obrządkach) włączone strukturalnie w obręb Tytułu V poprzez swe normy ogólne zawarte już w Księdze III.

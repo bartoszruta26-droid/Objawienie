@@ -248,8 +248,8 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **Uwagi redakcyjne:**
 
-1. *Scalenie z tekstami macierzystymi:* dawne „poprawione” kan. 30 § 1–3, 31–33, 34 § 1, 35–36, 87 §§ 1–3, 440 §§ 1–3 i 441 zastąpiły już teksty macierzyste w Księgach I–III i nie są tu powtarzane (por. kan. 30, 31–33, 34, 35, 36, 87, 116, 117).
-2. *Normy nowe:* kan. 406 przyjmuje brzmienie poprawionego kan. 30 § 1–3 jako norma szczególna ustroju hierarchicznego; kan. 407 łączy dawną poprawkę kan. 87 § 2 pkt 3 i 5 z kan. 601 Księgi VII (uznanie posługi).
-3. *Przenumerowanie:* dawne kan. 500–520 → kan. 408–428; dawne kan. 521–525 (przepisy końcowe, dublujące dawne kan. 454–457 scalone już w Księdze I) zastąpione jednolitymi kan. 429–431.
+1. *Scalenie z tekstami macierzystymi:* dawne „poprawione” kan. 30 § 1–3, 31–33, 34 § 1, 35–36, 87 §§ 1–3, 440 §§ 1–3 i 441 zastąpiły już teksty macierzyste w Księgach I–III i nie są tu powtarzane; ich obowiązującymi odpowiednikami w nowej numeracji są kanony Ksiąg I–III (odpowiedniki wskazane w notatce redakcyjnej `00_notatka_redakcyjna.md`) — zgodnie z przepisami tego kanonu.
+2. *Normy nowe:* kan. 406 przyjmuje brzmienie poprawionego dawnego kan. 30 § 1–3 jako norma szczególna ustroju hierarchicznego; kan. 407 łączy dawną poprawkę dawnego kan. 87 § 2 pkt 3 i 5 z kan. 433 Księgi VII (uznanie posługi).
+3. *Przenumerowanie:* dawne kan. 500–520 → kan. 408–428; dawne kan. 521–525 (przepisy końcowe, dublujące dawne kan. 454–457 scalone już w normach ogólnych — odpowiedniki w nowej numeracji: kan. 11–13 Księgi I oraz kan. 226–230 Księgi III) zastąpione jednolitymi kan. 429–431.
 4. *Literówki źródła:* „Głowa Rodzu” → „Głowa Rodu”; „subdiecezalnemu” → „subdiecezjalnemu”.
 5. *Ujednolicenie terminologii:* źródło używa zamiennie „Synod Patriarchatu” (doradczy, dawny kan. 511–513) i „synod patriarchalny” (wyborczy, Księga VIII) — zachowano to rozróżnienie i wzajemne odesłania (kan. 419 § 2).
