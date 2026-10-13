@@ -1301,7 +1301,7 @@
 **Kan. 341 § 1.** Obrzęd błogosławieństwa sakramentaliów narzędziowych obejmuje:
 1° znak krzyża i wezwanie Ducha Świętego;
 2° czytanie odpowiedniego fragmentu Pisma Świętego;
-3° modlitwę błogosławieństwa (formuły określone w kan. 376-382);
+3° modlitwę błogosławieństwa (formuły określone w kan. 334–340);
 4° połączenie z odpowiednim sakramentalium rzeczowym (woda, sól, chleb, popiół, olej, świeca, ziemia);
 5° nałożenie rąk lub znak krzyża nad narzędziem;
 6° modlitwę o odpowiedni Dar Ducha Świętego;
