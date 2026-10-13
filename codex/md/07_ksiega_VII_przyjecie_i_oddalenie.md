@@ -319,7 +319,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Ewentualny powrót do komunii winien być przygotowany w duchu prawdy, przebaczenia, sprawiedliwości i miłosierdzia, za pośrednictwem Biskupa Rzymskiego lub władzy przez niego upoważnionej.
 
-**Kan. 372 § 1.** Jeżeli oddalony biskup tworzy lub przyjmuje wspólnoty poza strukturą Kościoła Katolickiego, wspólnoty te nie mogą być nazywane „katolickimi” bez zgody kompetentnej władzy kościelnej, z zachowaniem kan. 0 KPK i zasad niniejszego Kanonu.
+**Kan. 372 § 1.** Jeżeli oddalony biskup tworzy lub przyjmuje wspólnoty poza strukturą Kościoła Katolickiego, wspólnoty te nie mogą być nazywane „katolickimi” bez zgody kompetentnej władzy kościelnej, z zachowaniem kan. 300 § 1 KPK i zasad niniejszego Kanonu.
 
 **§ 2.** Mogą one jednak posługiwać się nazwą „Kościół Domowy”, „subdiecezja domowa”, „Ród”, „wspólnota Marii Magdaleny”, „wspólnota Pawłowa”, „wspólnota Tomaszowa” lub innymi nazwami przyjętymi przez biskupa, o ile nie wprowadzają w błąd co do pełnej komunii z Kościołem Katolickim.
 

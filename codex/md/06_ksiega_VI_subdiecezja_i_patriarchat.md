@@ -136,7 +136,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł V: SYNOD PATRIARCHATU
 
-**Kan. 332 § 1.** Synod Patriarchatu Subdiecezji Domowych jest zebraniem biskupów tytularnych subdiecezjalnych oraz wybranych przedstawicieli wspólnot domowych, którzy dla dobra całego patriarchatu świadczą pomoc patriarsze (por. kan. 0 KPK, zastosowany analogicznie).
+**Kan. 332 § 1.** Synod Patriarchatu Subdiecezji Domowych jest zebraniem biskupów tytularnych subdiecezjalnych oraz wybranych przedstawicieli wspólnot domowych, którzy dla dobra całego patriarchatu świadczą pomoc patriarsze (por. kan. 342-348 KPK, zastosowany analogicznie).
 
 **§ 2.** Synod Patriarchatu powinien odbywać się przynajmniej raz w roku, a także wtedy, gdy zdaniem patriarchy i po wysłuchaniu Triarchii Domowej, doradzają to okoliczności. Przepisy o synodzie wyborczym zawiera Księga VIII, Tytuł III.
 
@@ -240,7 +240,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **Kan. 343.** Wszelkie wcześniejsze odniesienia do „biskupa diecezjalnego” w kontekście Kościoła Domowego należy rozumieć jako „biskupa tytularnego subdiecezjalnego” w zakresie dotyczącym subdiecezji domowej, a jako „biskupa diecezjalnego” w zakresie dotyczącym diecezji, na której terytorium znajduje się subdiecezja domowa.
 
-**Kan. 344.** W przypadku sprzeczności między niniejszą Księgą a dotychczasowymi kanonami, pierwszeństwo przysługuje normom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego; reguły kolizji uzupełniają kan. 59 oraz kan. 139–143 Księgi III.
+**Kan. 344.** W przypadku sprzeczności między niniejszą Księgą a dotychczasowymi kanonami, pierwszeństwo przysługuje normom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego; reguły kolizji uzupełniają kan. 58–59 oraz kan. 139–143 Księgi III.
 
 ---
 

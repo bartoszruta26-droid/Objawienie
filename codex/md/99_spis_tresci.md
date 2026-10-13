@@ -5,7 +5,7 @@
 |------|--------|----------------|
 | [`00_preambula.md`](./00_preambula.md) | Preambuła i Uzupełnienia do Księgi I | kan. 1a–1s |
 | [`01_ksiega_I_normy_ogolne.md`](./01_ksiega_I_normy_ogolne.md) | Księga I — Normy Ogólne | kan. 1–13  |
-| [`02_ksiega_II_lud_bozy_cz_I.md`](./02_ksiega_II_lud_bozy_cz_I.md) | Księga II — Lud Boży | kan. 14–48 |
+| [`02_ksiega_II_lud_bozy.md`](./02_ksiega_II_lud_bozy.md) | Księga II — Lud Boży | kan. 14–48 |
 | [`03_ksiega_III_prawo_koscielne.md`](./03_ksiega_III_prawo_koscielne.md) | Księga III — Prawo Kościelne | kan. 49–143 |
 | [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i sakramentalia) | kan. 144–288 |
 | [`05_ksiega_V_prawo_sakramentalne.md`](./05_ksiega_V_prawo_sakramentalne.md) | Księga V — Posługa kapłańska i współudział Małżonki i Potomka | kan. 289–318 |

@@ -33,11 +33,11 @@
 
 ## Tytuł II: SAKRAMENTALIA DOMOWE — PRZEPISY OGÓLNE
 
-**Kan. 148 § 1.** Sakramentalia domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 296 KPK).
+**Kan. 148 § 1.** Sakramentalia domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
 **§ 2.** Szczegółowe formuły błogosławieństw siedmiu sakramentaliów rzeczowych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł VIII niniejszej Księgi (kan. 207–213).
 
-*(Przypis redakcyjny: dawne kan. 149–155, podające te formuły w skróconej formie, zostały scalone z pełniejszymi odpowiednikami Tytułu IX jako materiał powtórzony.)*
+*(Przypis redakcyjny: dawne kan. 149–155, podające te formuły w skróconej formie, zostały scalone z pełniejszymi odpowiednikami Tytułu VIII jako materiał powtórzony.)*
 
 ## Tytuł III: ROK LITURGICZNY W KOŚCIELE DOMOWYM
 
@@ -307,7 +307,7 @@
 
 **Kan. 182 § 1.** Cnoty w Kościele Domowym rozumiane są jako trwałe dyspozycje duchowe, moralne i intelektualne, które uzdalniają wiernych do działania zgodnego z Prawem Bożym i Naturalnym. Cnoty te są zarówno darem łaski, jak i owocem osobistego wysiłku formacyjnego.
 
-**§ 2.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 296 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 5 § 4 KPK) oraz prawa naturalnego.
+**§ 2.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
 
 **§ 3.** Dary Ducha Świętego w Kościele Domowym rozumiane są jako stałe dyspozycje, które czynią człowieka uległym wobec poruszeń Ducha Świętego (por. KKK 1830-1831). Wierni Kościoła Domowego mają prawo i obowiązek prosić o te Dary, przyjmować je i rozwijać w codziennym życiu.
 
@@ -590,7 +590,7 @@
 
 ### Rozdział IX: Podsumowanie cnót — obowiązki Głowy Rodu
 
-**Kan. 203 § 1.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami ustanowionymi przez Kościół, przez które na podobieństwo sakramentów oznaczane i otrzymywane są skutki, zwłaszcza duchowe (por. kan. 296 KPK).
+**Kan. 203 § 1.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami ustanowionymi przez Kościół, przez które na podobieństwo sakramentów oznaczane i otrzymywane są skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
 **§ 2.** W Kościele Domowym sprawowane są następujące sakramentalia rzeczowe:
 1° **Woda** — sakramentalium oczyszczenia i nowego życia;
@@ -604,12 +604,12 @@
 **§ 3.** Sakramentalia te nie zastępują sakramentów świętych, lecz je przedłużają, przygotowują do nich i pogłębiają ich owoce w codziennym życiu rodzinnym.
 
 **Kan. 204 § 1.** Szafarzem sakramentaliów w Kościele Domowym jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy:
-1° powszechnego kapłaństwa wiernych wynikającego z sakramentu chrztu (por. kan. 4 § 1 KPK);
+1° powszechnego kapłaństwa wiernych wynikającego z sakramentu chrztu (por. kan. 204 § 1 KPK);
 2° sakramentu małżeństwa, który czyni małżonków wzajemnymi szafarzami łaski;
 3° prawa naturalnego uznającego ojca za kapłana ogniska domowego;
 4° objawionej misji i nominacji Bożej;
-5° kan. 0 § 3 KPK (funkcje liturgiczne świeckich w przypadku konieczności);
-6° kan. 1 § 2 KPK (udzielanie chrztu w przypadku konieczności).
+5° kan. 230 § 2 KPK (funkcje liturgiczne świeckich w przypadku konieczności);
+6° kan. 861 § 2 KPK (udzielanie chrztu w przypadku konieczności).
 
 **§ 2.** Małżonka jako współszafarka łaski może sprawować sakramentalia domowe:
 1° w nieobecności Głowy Rodu;
@@ -1445,7 +1445,7 @@
 
 ## Tytuł XV: SAKRAMENTALIA KULTOWE W KOŚCIELE DOMOWYM
 
-**Kan. 271 § 1.** Sakramentalia Kultowe są świętymi znakami ustanowionymi w Kościele Domowym, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe, w wymiarze kultu, modlitwy i kontemplacji (por. kan. 296 KPK).
+**Kan. 271 § 1.** Sakramentalia Kultowe są świętymi znakami ustanowionymi w Kościele Domowym, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe, w wymiarze kultu, modlitwy i kontemplacji (por. kan. 1166 KPK).
 
 **§ 2.** Sakramentalia Kultowe różnią się od sakramentaliów rzeczowych tym, że nie są elementami natury (żywiołami), lecz **przedmiotami wykonanymi ludzką ręką i przeznaczonymi wyłącznie do użytku sakralnego**. Różnią się od sakramentaliów narzędziowych tym, że nie służą pracy fizycznej, lecz **bezpośrednio kultowi, modlitwie i kontemplacji**.
 
@@ -1457,7 +1457,7 @@
 5° traktowane z najwyższym szacunkiem i czcią;
 6° odnawiane w błogosławieństwie przynajmniej raz w roku.
 
-**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia sakramentaliów kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 298 KPK, kan. 0 § 3 KPK).
+**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia sakramentaliów kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 204 § 1 KPK, kan. 230 § 2 KPK).
 
 **§ 2.** Małżonka jako współszafarka łaski może błogosławić sakramentalia kultowe w nieobecności Głowy Rodu lub za jego delegacją.
 

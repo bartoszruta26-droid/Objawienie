@@ -775,7 +775,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 **§ 4.** Przewodniczący wybrany przez synod subdiecezji może, ale nie musi, posiadać tytułu patriarchy. Tytuł patriarchy w tym przypadku wynika z woli synodu i tradycji wspólnoty, nie zaś z mandatu papieskiego.
 
-**§ 5.** W przypadku, gdy synod subdiecezji wybierze na przewodniczącego biskupa tytularnego subdiecezjalnego, który nie został przyjęty przez Biskupa Rzymskiego, wybór ten jest ważny w zakresie wewnętrznym wspólnoty subdiecezji, z zachowaniem przepisów Kan. 0f niniejszego Kanonu.
+**§ 5.** W przypadku, gdy synod subdiecezji wybierze na przewodniczącego biskupa tytularnego subdiecezjalnego, który nie został przyjęty przez Biskupa Rzymskiego, wybór ten jest ważny w zakresie wewnętrznym wspólnoty subdiecezji, z zachowaniem przepisów Kan. 1zp niniejszego Kanonu.
 
 ---
 
