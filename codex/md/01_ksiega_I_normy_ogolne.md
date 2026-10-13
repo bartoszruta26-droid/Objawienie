@@ -360,7 +360,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **Kan. 79 § 1.** Kościół Domowy uznaje, że władza rządzenia, która jest w Kościele z Bożego ustanowienia i nazywana jest również władzą jurysdykcji, przysługuje w zakresie powszechnym Biskupowi Rzymskiemu i Kolegium Biskupów, a w zakresie partykularnym biskupom diecezjalnym i innym przełożonym kościelnym zgodnie z prawem (por. kan. 129 KPK).
 
-**§ 2.** Głowa Rodu jako biskup domowy, wyświęcony i przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie diecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów (por. kan. 375 § 2 KPK).
+**§ 2.** Głowa Rodu jako biskup domowy, wyświęcony i przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie diecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów (por. kan. 375 § 2 KPK). Głowa Rodu jako biskup domowy, niewyświęcony i nieprzyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie subdiecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów (por. kan. 375 § 2 KPK).
 
 **§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
 
@@ -458,7 +458,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł XII: Relacja do prawa partykularnego diecezji
 
-**Kan. 98 § 1.** Kościół Domowy, znajdujący się na terytorium określonej diecezji, respektuje prawo partykularne tej diecezji w zakresie, w jakim dotyczy ono:
+**Kan. 98 § 1.** Kościół Domowy subdiecezjalny, znajdujący się na terytorium określonej diecezji, respektuje prawo partykularne tej diecezji w zakresie, w jakim dotyczy ono:
 1° sprawowania sakramentów i sakramentaliów;
 2° dyscypliny kościelnej;
 3° formacji i nauczania;
@@ -466,9 +466,9 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 5° zarządu dobrami kościelnymi;
 6° spraw małżeńskich i rodzinnych.
 
-**§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym Kościoła Domowego, Głowa Rodu jako biskup domowy winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła.
+**§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym subdiecezji Kościoła Domowego, Głowa Rodu jako biskup domowy winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła. W sytuacji przyjęcia przez Biskupa Rzymu biskupa domowego i wyświęcenia go przez obranego zgodnie z prawem biskupa, wyświęcony biskup domowy obejmuje władzę nad diecezją domową i inną ewentualnie przydzieloną przez Stolicę Apostolską.
 
-**Kan. 99 § 1.** Kościół Domowy respektuje zarządzenia biskupa diecezjalnego dotyczące:
+**Kan. 99 § 1.** Kościół Domowy subdiecezjalny respektuje zarządzenia biskupa diecezjalnego dotyczące:
 1° norm katechetycznych i formacyjnych;
 2° dyscypliny sakramentalnej;
 3° przepisów liturgicznych;
@@ -477,10 +477,9 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 6° przepisów dotyczących dóbr doczesnych;
 7° zarządzeń dotyczących stowarzyszeń wiernych.
 
-**§ 2.** Głowa Rodu jako biskup domowy ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym Kościoła Domowego.
+**§ 2.** Głowa Rodu jako biskup domowy tytularny ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym subdiecezjalnego Kościoła Domowego.
 
-**Kan. 100.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 396-398 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
+**Kan. 100.** Kościół Domowy subdiecezjalny respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 396-398 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
 
 ---
 
-*Uwaga redakcyjna: Księgę I opracowano na podstawie kan. 1–11 dawnego Kanonu (ksiegi01.txt), kan. 200–296 dawnej Księgi XII o respektowaniu prawa kościelnego (ksiegi02.txt — normy ogólne scalone z niniejszą Księgą), kan. 42–51 dawnego Kanonu o władzy rządzenia (ksiegi01.txt — materia norm ogólnych przeniesiona z księgi o ustroju) oraz przepisów końcowych poprawek (kan. 454–457 i 521–525, ksiegi04.txt — scalone w kan. 99–100). Usunięto powtórzenia; poprawki naniesione na końcu zbioru scalono z tekstami macierzystymi. Dawne kan. 290–296, błędnie umieszczone na końcu zbioru, przyporządkowano tematycznie: treść normatywna dawnych kan. 292–296 zamieszczona jest w Księdze III (jej Tytuł XIII, nowe kan. 226–230), a reguły interpretacyjne pokrewne zachowano w kan. 5 § 2, kan. 6 i kan. 78–79 niniejszej Księgi; materia dawnych kan. 290–291 (trzy obrządki domowe) zostanie wydana w Księdze o prawie liturgicznym i obrządkach domowych w kolejnej partii opracowania.*
