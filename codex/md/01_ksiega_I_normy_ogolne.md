@@ -63,18 +63,31 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 ### Tytuł II: Definicje i pojęcia
 
 **Kan. 11.** W niniejszym Kanonie:
-1° **Kościół Domowy** (*Ecclesia Domestica*) — kościół partykularny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 368 będąca w szczególności diecezją lub subdiecezją ;
+
+1° **Kościół Domowy** (*Ecclesia Domestica*) — kościół partykularny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 368 będąca w szczególności diecezją lub subdiecezją;
+
 2° **Diecezja Domowa / Subdiecezja** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową; Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub który będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu i w dalszej kolejności wyświęconego. Subiecezją  jest terytorium biskupa domowego niemianowanego i niezatwierdzonego przez Biskupa Rzymu i niewyświęconego a którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa domowego;
+
 3° **Biskup domowy** - biskup rozumiany jako KPK kan. 375 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez Ducha Świętego, który został mu dany jest ustanowiony w Kościele Domowym pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia. Biskup domowy może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu i w dalszej kolejności wyświęcony; 
+
 4° **Głowa Rodu** (*Paterfamilias*, *Caput Familiae*) — mąż, ojciec, głowa szlachetnego Rodu, sprawujący posługę szafarza świętego, arcykapłana i biskupa domowego;
+
 5° **Małżonka** — żona, matka, pełniąca funkcję nadzorczą, dusza wspólnoty i współszafarka łaski;
+
 6° **Potomek** — dziecko, syn lub córka, sekretarz woli Rodu i dziedzic tradycji;
+
 7° **Triarchia Domowa** — trójwładza Ojca, Matki i Potomka, stanowiąca radę decyzyjną Kościoła Domowego;
+
 8° **Obrządek Domowy** — ustalony porządek liturgiczny i duchowy sprawowany w domu;
+
 9° **Obrządek Rodzinny Marii Magdaleny** — wymiar kontemplacyjny i miłosierny wspólnoty;
+
 10° **Obrządek Ducha Świętego Pawłowy** — wymiar misyjny i charyzmatyczny wspólnoty;
+
 11° **Obrządek Osobowy Tomaszowy** — wymiar intelektualny i prawdomówny wspólnoty;
+
 12° **Sakramentalia domowe** — błogosławieństwa i poświęcenia sprawowane przez Głowę Rodu w domu;
+
 13° **Liturgia Życia** — codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu.
 
 ---
