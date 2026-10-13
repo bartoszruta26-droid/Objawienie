@@ -2,7 +2,7 @@
 
 ## *De Ecclesiae Ministris in Ecclesia Domestica*
 
-*(Redakcja: dawna „Księga XIV” z pliku `ksiegi05.txt`, dotycząca posługi kapłańskiej, szafarstwa świętego i biskupstwa domowego oraz współudziału Małżonki i Potomka. Tematycznie należy ona do Księgi o Ludzie Bożym (urzędy i posługi), toteż otrzymała rangę Księgi V i następuje po prawie liturgicznym. Poprawiony Kan. 357 źródła scalono z kan. 34 Księgi II (równość godności) — poniżej zachowano jedynie brzmienie uzupełniające, bez powtórzenia normy już wypowiedzianej. Dawny Kan. 357a oznaczony w źródle literą „a” otrzymał numer właściwy. Literówkę „Głowa Rodzu” ujednolicono w całym tekście na „Głowa Rodu”.)*
+---
 
 ### PREAMBUŁA KSIĘGI
 
