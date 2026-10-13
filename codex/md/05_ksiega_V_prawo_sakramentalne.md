@@ -114,7 +114,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 **Kan. 384 § 1.** W przypadku nieobecności Głowy Rodu, jego niedomagania fizycznego lub psychicznego, przeszkody w sprawowaniu funkcji, lub innej poważnej przyczyny, Małżonka zastępuje go we wszystkich funkcjach kapłańskich, szafarskich i biskupich w Kościele Domowym.
 
-**§ 2.** Zasady ogólne dotyczące władzy i jej wykonywania w Kościele Domowym określa Księga I, Tytuł o władzy rządzenia (kan. 80–81); normy ochronne Księgi II (kan. 134–135) stosuje się do wykładni niniejszego tytułu. Szczegóły zastępstwa uregulowane są jednolicie w Rozdziałach II i III niniejszego Tytułu (kan. 387–390).
+**§ 2.** Zasady ogólne dotyczące władzy i jej wykonywania w Kościele Domowym określa Księga III, Tytuł VI o władzy rządzenia (kan. 204–208); normy ochronne Księgi II (kan. 134–135) stosuje się do wykładni niniejszego tytułu. Szczegóły zastępstwa uregulowane są jednolicie w Rozdziałach II i III niniejszego Tytułu (kan. 387–390).
 
 **Kan. 385.** Małżonka zastępuje Głowę Rodu w przypadku:
 1° nieobecności w domu (podróż, pielgrzymka, pobyt w szpitalu);

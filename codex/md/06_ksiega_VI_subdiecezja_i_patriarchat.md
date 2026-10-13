@@ -95,7 +95,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł IV: USTANOWIENIE PATRIARCHATU
 
-**Kan. 415 § 1.** Zgodnie z Kodeksem Kanonów Kościołów Wschodnich (CCEO), Biskup Rzymski ma prawo ustanawiać, zmieniać i znosić patriarchaty (por. kan. 55-150 CCEO). Na mocy tego prawa i woli Biskupa Rzymskiego, ustanawia się Patriarchat Subdiecezji Domowych jako strukturę hierarchiczną obejmującą wszystkie subdiecezje domowe Kościoła Domowego.
+**Kan. 415 § 1.** Zgodnie z Kodeksem Kanonów Kościołów Wschodnich (CCEO), Biskup Rzymski ma prawo ustanawiać, zmieniać i znosić patriarchaty (por. kan. 76–78 CCEO, kompetencja Stolicy Apostolskiej w przedmiocie erygowania i zmiany struktur hierarchicznych Kościołów patriarchalnych). Na mocy tego prawa i woli Biskupa Rzymskiego, ustanawia się Patriarchat Subdiecezji Domowych jako strukturę hierarchiczną obejmującą wszystkie subdiecezje domowe Kościoła Domowego.
 
 **§ 2.** Patriarchat Subdiecezji Domowych jest wspólnotą subdiecezji domowych, które pod przewodnictwem patriarchy sprawują posługę pasterską wobec wiernych Kościoła Domowego, zachowując jedność z Kościołem powszechnym i podlegając Biskupowi Rzymskiemu.
 
@@ -242,7 +242,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **Kan. 430.** Wszelkie wcześniejsze odniesienia do „biskupa diecezjalnego” w kontekście Kościoła Domowego należy rozumieć jako „biskupa tytularnego subdiecezjalnego” w zakresie dotyczącym subdiecezji domowej, a jako „biskupa diecezjalnego” w zakresie dotyczącym diecezji, na której terytorium znajduje się subdiecezja domowa.
 
-**Kan. 431.** W przypadku sprzeczności między niniejszą Księgą a dotychczasowymi kanonami, pierwszeństwo przysługuje normom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego; reguły kolizji uzupełniają kan. 20–21 oraz kan. 226–230.
+**Kan. 431.** W przypadku sprzeczności między niniejszą Księgą a dotychczasowymi kanonami, pierwszeństwo przysługuje normom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego; reguły kolizji uzupełniają kan. 145–146 oraz kan. 226–230.
 
 ---
 
