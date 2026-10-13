@@ -2,7 +2,7 @@
 
 *Kościół Domowy, jako partykularna wspólnota Ludu Bożego erygowana na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu, uznaje i respektuje cały porządek prawny Kościoła Katolickiego, wyrażony w Kodeksie Prawa Kanonicznego z 1983 roku, w ustawach powszechnych i partykularnych, w dekretach, instrukcjach, zwyczajach, aktach administracyjnych, reskryptach, przywilejach, dyspensach oraz statutach. Niniejsza Księga określa sposób, w jaki Kościół Domowy przyjmuje, stosuje i respektuje każdy z wymienionych elementów porządku prawnego Kościoła, zachowując jednocześnie własną tożsamość, autonomię domową i prawo partykularne wynikające z natury Ecclesia Domestica.*
 
-> **Przypis redakcyjny.** Dawna „Księga XII — Respektowanie prawa kościelnego” (dawne kan. 200–296). Włączono ją do jednolitego ciągu zbioru jako Księgę III: dawne kan. 200–289 → nowe kan. 136–225; dawne kan. 292–296 → nowe kan. 226–230 (Tytuł XIII, przepisy końcowe). Dawne kan. 290–291 (respektowanie prawa w trzech obrządkach domowych) przeniesiono tematycznie do Księgi o prawie liturgicznym i obrządkach domowych. Poprawiono literówki („Głowa Rodzu” → „Głowa Rodu”) i przeliczone odesłania wewnętrzne; odwołania do KPK pozostają nienaruszone.
+> **Przypis redakcyjny.** Dawna „Księga XII — Respektowanie prawa kościelnego” (dawne kan. 200–296). Włączono ją do jednolitego ciągu zbioru jako Księgę III: dawne kan. 200–289 → nowe kan. 136–225; dawne kan. 292–296 → nowe kan. 226–230 (Tytuł XII, przepisy końcowe). Dawne kan. 290–291 (respektowanie prawa w trzech obrządkach domowych) przeniesiono tematycznie do Księgi o prawie liturgicznym i obrządkach domowych. Poprawiono literówki („Głowa Rodzu” → „Głowa Rodu”) i przeliczone odesłania wewnętrzne; odwołania do KPK pozostają nienaruszone.
 
 ---
 
@@ -42,9 +42,6 @@
 **Kan. 143.** Ustawy państwowe, do których odsyła prawo kościelne, Kościół Domowy zachowuje w prawie kanonicznym na tyle, na ile nie są przeciwne prawu Bożemu i o ile prawo kanoniczne czego innego nie zastrzega (por. kan. 22 KPK), z uwzględnieniem Konstytucji Rzeczypospolitej Polskiej, prawa naturalnego i praw człowieka.
 
 ### Rozdział II: Ustawy partykularne
-
-### Rozdział II: Ustawy partykularne
-
 **Kan. 144 § 1.** Ustawy partykularne Kościoła Domowego są promulgowane przez Głowę Rodu jako biskupa domowego i prawodawcę domowego w sposób określony niniejszym Kanonem i zaczynają obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin (por. kan. 8 § 2 KPK, zastosowany analogicznie).
 
 **§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z:
@@ -63,9 +60,6 @@
 **Kan. 147.** Ustawy partykularne Kościoła Domowego posiadają charakter personalny, nie zaś terytorialny, gdyż dotyczą członków wspólnoty domowej niezależnie od miejsca ich aktualnego przebywania (por. kan. 13 § 1 KPK, zastosowany z modyfikacją wynikającą z natury wspólnoty domowej).
 
 ### Rozdział III: Interpretacja ustaw
-
-### Rozdział III: Interpretacja ustaw
-
 **Kan. 148 § 1.** W sposób autentyczny ustawy partykularne Kościoła Domowego interpretuje Głowa Rodu jako prawodawca domowy (por. kan. 16 § 1 KPK, zastosowany analogicznie).
 
 **§ 2.** Interpretacja autentyczna dokonana w formie ustawy posiada taką samą moc co ustawa i wymaga promulgacji; jeśli tylko wyjaśnia słowa ustawy same w sobie pewne, wtedy działa wstecz. Gdy ustawę zawęża lub poszerza albo tłumaczy wątpliwą, nie działa wstecz (por. kan. 16 § 2 KPK).
@@ -126,9 +120,6 @@
 **§ 2.** Dekrety wykonawcze Kościoła Domowego tracą moc na skutek odwołania wyraźnego lub pośredniego, dokonanego przez kompetentną władzę domową, jak również z chwilą wygaśnięcia ustawy, dla wykonania której zostały wydane. Nie wygasają natomiast z ustaniem władzy wydającego, chyba że co innego wyraźnie zastrzeżono (por. kan. 33 § 2 KPK).
 
 ### Rozdział II: Instrukcje
-
-### Rozdział II: Instrukcje
-
 **Kan. 163 § 1.** Kościół Domowy uznaje i stosuje instrukcje wydane przez kompetentną władzę kościelną, które wyjaśniają przepisy ustaw oraz rozwijają i określają racje, które należy uwzględnić przy ich zachowaniu (por. kan. 34 § 1 KPK).
 
 **§ 2.** Instrukcje Stolicy Apostolskiej dotyczące liturgii, sakramentów, formacji i dyscypliny kościelnej są przyjmowane i stosowane w Kościele Domowym z chwilą ich ogłoszenia, z dostosowaniem do warunków domowych.
@@ -174,9 +165,6 @@
 **Kan. 174.** Odwołanie aktu administracyjnego przez inny akt administracyjny kompetentnej władzy osiąga swój skutek dopiero od momentu zgodnego z prawem powiadomienia osoby, dla której był wydany (por. kan. 47 KPK).
 
 ### Rozdział II: Dekrety i poszczególne nakazy
-
-### Rozdział II: Dekrety i poszczególne nakazy
-
 **Kan. 175.** Przez poszczególny dekret w Kościele Domowym należy rozumieć akt administracyjny wydany przez Głowę Rodu jako kompetentną władzę wykonawczą, w którym zgodnie z przepisami niniejszego Kanonu zostaje podjęta decyzja w poszczególnym przypadku albo ma miejsce powierzenie, które ze swej natury nie suponuje wniesienia przez kogoś prośby (por. kan. 48 KPK).
 
 **Kan. 176.** Poszczególny nakaz jest dekretem, który jednej lub określonym osobom spośród członków Kościoła Domowego wprost i zgodnie z prawem coś poleca wykonać lub czegoś zaniechać, przede wszystkim celem przynaglenia do zachowania ustawy (por. kan. 49 KPK).
@@ -192,9 +180,6 @@
 **§ 2.** Poszczególny dekret powierzony do realizacji wykonawcy osiąga swój skutek w momencie wykonania; poza tym od momentu powiadomienia osoby powagą wydającego decyzję (por. kan. 54 § 1 KPK).
 
 ### Rozdział III: Reskrypty
-
-### Rozdział III: Reskrypty
-
 **Kan. 181 § 1.** Kościół Domowy uznaje i respektuje reskrypty wydane przez kompetentną władzę kościelną na piśmie, którymi — zgodnie z ich naturą — na czyjąś prośbę udziela się przywileju, dyspensy czy innej łaski (por. kan. 59 § 1 KPK).
 
 **§ 2.** Przepisy ustanowione w odniesieniu do reskryptów mają zastosowanie także w stosunku do udzielanych ustnie zezwoleń i łask, chyba że stwierdza się coś innego (por. kan. 59 § 2 KPK).
@@ -214,9 +199,6 @@
 **Kan. 187.** Jeśli reskrypt zawiera przywilej lub dyspensę, należy ponadto zachować przepisy kanonów dotyczące przywilejów i dyspens (por. kan. 75 KPK).
 
 ### Rozdział IV: Przywileje
-
-### Rozdział IV: Przywileje
-
 **Kan. 188 § 1.** Kościół Domowy uznaje i respektuje przywileje, czyli łaski udzielone dla pożytku pewnych osób fizycznych lub prawnych, szczególnym aktem, przyznane przez ustawodawcę oraz przez władzę wykonawczą, której prawodawca dał taką władzę (por. kan. 76 § 1 KPK).
 
 **§ 2.** Stuletnie lub niepamiętne posiadanie wprowadza domniemanie udzielenia przywileju (por. kan. 76 § 2 KPK).
@@ -234,9 +216,6 @@
 **Kan. 192.** Kto nadużywa władzy udzielonej mu przywilejem w Kościele Domowym, zasługuje na pozbawienie samego przywileju. Głowa Rodu jako biskup domowy po bezskutecznym upomnieniu posiadacza przywileju, który poważnie go nadużywa, powinien pozbawić go przywileju, którego sam udzielił, a jeśli przywilej został przyznany przez Stolicę Apostolską, Głowa Rodu ma obowiązek powiadomić ją o tym (por. kan. 84 KPK).
 
 ### Rozdział V: Dyspensy
-
-### Rozdział V: Dyspensy
-
 **Kan. 193 § 1.** Kościół Domowy uznaje, że dyspensa, czyli rozluźnienie prawa czysto kościelnego w poszczególnym wypadku, może zostać udzielona przez tych, którzy posiadają władzę wykonawczą w granicach ich kompetencji, a także przez tych, którym wyraźnie lub pośrednio przysługuje władza dyspensowania, bądź mocą samego prawa, bądź mocą zgodnej z prawem delegacji (por. kan. 85 KPK).
 
 **§ 2.** Nie podlegają dyspensie ustawy, o ile definiują to, co jest istotnie konstytutywne dla instytucji albo aktów prawnych (por. kan. 86 KPK).
@@ -413,7 +392,7 @@
 
 **Kan. 225.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 396-398 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
 
-## Tytuł XIII: PRZEPISY KOŃCOWE
+## Tytuł XII: PRZEPISY KOŃCOWE
 
 **Kan. 226.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
@@ -441,7 +420,7 @@
 
 1. *Scalenia powtórzeń:* w korpusie tej Księgi nie stwierdzono kanonów o identycznym sensie — normy pokrewne (dawne kan. 200–207 o ustawach powszechnych oraz 208–215 o ustawach partykularnych i interpretacji) zachowano odrębnie, w nowych numerach 136–143 i 144–151.
 2. *Poprawki naniesione na tekst:* ujednolicono pisownię „Głowa Rodu”; w dawnym kan. 288 § 2 (nowy kan. 224 § 2) poprawiono literówkę „Rodzu”; odesłania wewnętrzne przeliczono zgodnie z nową numeracją (np. dawne „kan. 218” w dawnym kan. 221 → nowy „kan. 154”).
-3. *Kanony z końca, należące na początek:* dawne kan. 290–296 znajdowały się po właściwym korpusie; kan. 290–291 przeniesiono tematycznie do Księgi liturgicznej, a kan. 292–296 pozostają na końcu Księgi III jako jej Tytuł XIII (nowe kan. 226–230) — zgodnie z układem wzorcowym KPK.
+3. *Kanony z końca, należące na początek:* dawne kan. 290–296 znajdowały się po właściwym korpusie; kan. 290–291 przeniesiono tematycznie do Księgi liturgicznej, a kan. 292–296 pozostają na końcu Księgi III jako jej Tytuł XII (nowe kan. 226–230) — zgodnie z układem wzorcowym KPK.
 
 ---
 
@@ -461,4 +440,4 @@
 | Tytuł X: Obowiązek respektowania prawa powszechnego | Kan. 219–222 | Cały KPK | Observantia iuris universalis |
 | Tytuł XI: Relacja do prawa partykularnego diecezji | Kan. 223–225 | Kan. 368–572 | Ecclesiae particulares |
 | Tytuł XII: Trzy obrządki domowe | *(wydane w Księdze IV, kan. 252–265)* | — | Munus sanctificandi |
-| Tytuł XIII: Przepisy końcowe | Kan. 226–230 | Kan. 6 § 2, 14, 1752 | Normae finales |
+| Tytuł XII: Przepisy końcowe | Kan. 226–230 | Kan. 6 § 2, 14, 1752 | Normae finales |

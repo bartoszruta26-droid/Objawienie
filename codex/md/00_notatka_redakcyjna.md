@@ -42,8 +42,18 @@
 
 - [x] Inwentaryzacja i diagnoza (niniejsza notatka)
 - [x] Kanony 1–100 → `01_ksiega_I_normy_ogolne.md` (Księga I, kan. 1–100)
-- [x] Nadto wstęp do Księgi II → `02_ksiega_II_lud_bozy_cz_I.md` (kan. 101–137; kontynuacja od kan. 138 w następnej partii)
-- [ ] Kanony 101+ → kolejne partie
+- [x] Kanony 101–135 → `02_ksiega_II_lud_bozy_cz_I.md` (Księga II — Lud Boży)
+- [x] Kanony 136–230 → `03_ksiega_III_prawo_koscielne.md` (Księga III — prawo kościelne)
+- [x] Kanony 231–375 → `04_ksiega_IV_prawo_liturgiczne.md` (Księga IV — liturgia i sakramentalia)
+- [x] Kanony 376–405 → `05_ksiega_V_prawo_sakramentalne.md` (Księga V — posługa uświęcająca/sakramentalna)
+- [x] Kanony 406–431 → `06_ksiega_VI_subdiecezja_i_patriarchat.md` (Księga VI — subdiecezja i patriarchat)
+- [x] Kanony 432–466 → `07_ksiega_VII_przyjecie_i_oddalenie.md` (Księga VII — przyjęcie i oddalenie)
+- [x] Kanony 467–520 → `08_ksiega_VIII_przekazanie_patriarchatu.md` (Księga VIII — przekazanie patriarchatu i przepisy końcowe)
+- [x] Weryfikacja maszynowa całości: ciąg 1–520 kompletny, 0 luk, 0 duplikatów definicji
+- [x] Naprawy strukturalne partii III–IV: usunięte podwojone nagłówki Rozdziałów (Dary i Charyzmaty), scalony pusty Tytuł VIII „Siedem cnót” z Tytułem VII, jednolita numeracja Tytułów I–XV w Księdze IV, Rozdział I–III zamiast „Art. 2/Art. 3” w Tyt. XIII, naprawiona luka Tytułu XII→XIII w Księdze III, poprawione odesłanie wewnętrzne (kan. 235 § 2 → Tytuł VIII, kan. 294–300)
+- [x] Spis treści całego zbioru → `09_spis_tresci.md`
+
+**STATUS ZAKOŃCZENIA:** opracowanie całego zbioru źródłowego (`ksiegi01.txt`–`ksiegi07.txt`) zakończone. Wszystkie kanony otrzymały jednolitą, ciągłą numerację **1–520**.
 
 ## Postęp prac — partie
 
@@ -51,10 +61,11 @@
 |--------|------------------|----------------|--------------------|
 | I | kan. 1–100 | `01_ksiega_I_normy_ogolne.md` (Księga I) | ✅ ciąg 1–100 |
 | II | kan. 101–230 | `02_ksiega_II_lud_bozy_cz_I.md` (Księga II, cz. I: 101–135); `03_ksiega_III_prawo_koscielne.md` (Księga III: 136–230) | ✅ obie księgi bez luk i duplikatów |
-| III | kan. 231–379 | `04_ksiega_IV_prawo_liturgiczne.md` (Księga IV — uświęcające zadanie: liturgia, sakramentalia, obrządki, cnoty/dary/charyzmaty) | ✅ ciąg 231–379 |
+| III | kan. 231–375 | `04_ksiega_IV_prawo_liturgiczne.md` (Księga IV — uświęcające zadanie: liturgia, sakramentalia, obrządki, cnoty/dary/charyzmaty) | ✅ ciąg 231–375 |
+| IV | kan. 376–520 | `05_ksiega_V_prawo_sakramentalne.md` (376–405); `06_ksiega_VI_subdiecezja_i_patriarchat.md` (406–431); `07_ksiega_VII_przyjecie_i_oddalenie.md` (432–466); `08_ksiega_VIII_przekazanie_patriarchatu.md` (467–520) | ✅ ciąg 376–520 |
 
 ### Zasada numeracji
-Zbiór prowadzi **jednolitą, ciągłą numerację międzyksiężną**: Księga I — kan. 1–100; Księga II (cz. I) — kan. 101–135; Księga III — kan. 136–230; Księga IV — kan. 231–379. Ciąg jest nieprzerwany (1–379, bez luk i duplikatów).
+Zbiór prowadzi **jednolitą, ciągłą numerację międzyksiężną**: Księga I — kan. 1–100; Księga II — kan. 101–135; Księga III — kan. 136–230; Księga IV — kan. 231–375; Księga V — kan. 376–405; Księga VI — kan. 406–431; Księga VII — kan. 432–466; Księga VIII — kan. 467–520. Ciąg jest nieprzerwany (**1–520**, bez luk i duplikatów).
 
 ### Mapowanie dawnej numeracji
 **Księga III** (źródło: ksiegi02.txt, „Księga XII”, kan. 200–296):
@@ -76,7 +87,30 @@ Zbiór prowadzi **jednolitą, ciągłą numerację międzyksiężną**: Księga 
 5. Przywrócono pełne brzmienie kan. 29 w Księdze I; naprawiono odesłanie w kan. 3 (→ kan. 103 § 2 Księgi II).
 
 ### Stan weryfikacji maszynowej
-- `01`: 1–100 ✔ | `02`: 101–135 ✔ | `03`: 136–230 ✔ | `04`: 231–379 ✔ | GLOBAL: ciąg 1–379 kompletny, 0 luk, 0 duplikatów.
+- `01`: 1–100 ✔ | `02`: 101–135 ✔ | `03`: 136–230 ✔ | `04`: 231–375 ✔ | `05`: 376–405 ✔ | `06`: 406–431 ✔ | `07`: 432–466 ✔ | `08`: 467–520 ✔
+- GLOBAL: ciąg **1–520** kompletny, 0 luk, 0 duplikatów definicji kanonów (weryfikacja skryptem `re.finditer(r'\*\*Kan\.\s*(\d+)')` na wszystkich plikach 01–08).
+
+### Wykonane poprawki (partia IV — ksiegi04 reszta, ksiegi05, ksiegi06, ksiegi07)
+1. **Scalono powtórzone przepisy końcowe**: dawne kan. 454–457 ↔ dawne 521–525 (podwójne klauzule vacio / wejścia w życie / interpretacji) — zachowano jedno brzmienie w Księdze VIII (kan. 517–520).
+2. **Usunięto dubel Kan. 444** występujący raz w `ksiegi04.txt` i raz w `ksiegi05.txt` — przyjęto brzmzenie pełniejsze.
+3. **Scalono naniesione „poprawki”** z `ksiegi04.txt` (adnotacje *(poprawiony)* dla kan. 30–36, 87, 104, 440–443) z tekstami macierzystymi; przyjęto wersje późniejsze.
+4. **Rozpoznano i scalone dalsze duble treściowe**: dawne kan. 103 ↔ 440 (komunia z Kościołem Powszechnym — treść zachowana w kan. 103 Księgi II oraz w normach relacyjnych Księgi III/VIII bez powielania definicji); dawne kan. 68–70 ↔ 437 (modlitwa rodzinna — wersja pełna w Księdze IV).
+5. **Przywrócono właściwą przynależność ksiąg** dla materiału przeniesionego: małżeństwo (dawne 420–424) → Księga II; ochrona godności i praw (dawne 430–434, 449–451) → Księga II; miejsca kultu i modlitwa domowa (dawne 435–439) → Księga IV; udział w życiu parafii (dawne 447–448) → normy relacyjne.
+6. **Ujednolicono formatowanie markdown** w całym tomie: pogrubione oznaczenia kanonów i paragrafów, listy punktowane 1°/2°…, kursywa łacińskich maksym, spójne nagłówki Księga/Tytuł/Rozdział.
+7. **Poprawiono literówki źródłowe**: „Głowa Rodzu” → „Głowa Rodu”; „5§” → „5°”; usunięto podwojony nagłówek główny z `ksiegi04.txt`.
+
+### Mapowanie dawnej numeracji — partia IV
+- `ksiegi04.txt` (dawne 420–457 + nowe 500–525): materia rozdzielona tematycznie — małżeństwo/prawa wiernych → Księga II (101–135), relacje i administracja → Księga III (136–230) i IV (231–375), przepisy końcowe → Księga VIII (467–520).
+- `ksiegi05.txt` (dawne 444–472, posługa kapłańska i współudział Małżonki/Potomka) → Księga V, kan. 376–405.
+- `ksiegi06.txt` (dawne 600–634, subdiecezja i patriarchat) → Księga VI, kan. 406–431.
+- `ksiegi07.txt` (dawne 700–753, przekazywanie patriarchatu) → Księga VII, kan. 432–466 (przyjęcie i oddalenie) oraz Księga VIII, kan. 467–520 (przekazanie patriarchatu i przepisy końcowe).
 
 ### Plan dalszych partii
-Partia IV (kontynuacja od **kan. 380**): na podstawie `ksiegi04.txt` (pozostałe: relacje zewnętrzne, prawo karne, środki naprawcze, administracja, archiwum), `ksiegi05.txt`, `ksiegi06.txt`, `ksiegi07.txt` — z jednoczesnym scaleniem poprawek (m.in. Kan. 68–70 ↔ 437 sprawdzone przy Księgach I/IV; 103 ↔ 440; 454–457 ↔ 521–525) i wykryciem kolejnych powtórzeń.
+Brak — opracowanie całego zbioru źródłowego zostało zakończone (kan. 1–520). Ewentualne kolejne prace mogą obejmować jedynie kosmetykę edytorską lub dodanie indeksu rzeczowego na życzenie zamawiającego.
+
+### Partia V — naprawa błędnych odesłań krzyżowych (Księga V, Tytuł III)
+Zgłoszenie redakcyjne dot. kan. 384 § 2 oraz kan. 390 i 392: tekst powoływał się na nieistniejące „kan. 135 § 1–3” rzekomej Księgi II. Kan. 135 Księgi II zawiera jedynie osiem reguł ochronnych wykładni i nie reguluje zastępstwa Głowy Rodu. Naprawiono trzy uszkodzone odesłania:
+1. **Kan. 384 § 2** — usunięto fałszywą klauzulę wykonania; teraz wskazuje właściwe normy ogólne władzy rządzenia (Księga I, kan. 80–81), normy ochronne wykładni (Księga II, kan. 134–135) oraz szczegóły zastępstwa zawarte w Rozdziałach II–III tegoż Tytułu III (kan. 387–390).
+2. **Kan. 390 5°** — „zasady określone w kan. 135 § 3” → gotowość przejęcia funkcji według kan. 392 § 1 4° (pełnoletność) oraz Księgi VIII (opróżnienie urzędu Głowy Rodu).
+3. **Kan. 392 § 1 4°** — analogicznie: możliwość przejęcia funkcji według kan. 387 § 2 (granice sprawowane odpowiednio) i Księgi VIII o przekazaniu patriarchatu.
+Weryfikacja: `grep` potwierdza brak jakichkolwiek dalszych odesłań do nieistniejących paragrafów kan. 135 w całym zbiorze (pozostały wyłącznie oznaczenia „kan. 135 § 1–2 KPK”, tj. odwołania do Kodeksu Prawa Kanonicznego, które są poprawne). Numeracja kanonów bez zmian: ciąg 1–520 zachowany.
