@@ -719,11 +719,140 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 6° **Kapłaństwo** — modlitwa o powołania, wspieranie powołanych;
 7° **Małżeństwo** — przygotowanie narzeczonych, błogosławieństwo rodziców.
 
-**Kan. 87.** W przypadkach zagrożenia życia i braku kapłana:
-1° Głowa Rodu może udzielić chrztu (por. kan. 861 § 2 KPK);
-2° może przewodniczyć modlitwie przy umierającym;
-3° może udzielić błogosławieństwa apostolskiego;
-4° może przyjąć ostatnie wyznanie wiary.
+Kan. 87 § 1. Głowa Rodu, jako biskup domowy i tytularny, któremu prawem naturalnym i przyrodzonym została przydzielona diecezja domowa, posiada pełnię sakramentu święceń w stopniu biskupim, przyjęty i uznany przez Biskupa Rzymskiego oraz wyświęcony ważnie przez innego biskupa w sukcesji apostolskiej, zgodnie z przepisami kan. 1013, 1014 i 377 KPK.
+§ 2. Przyjęcie przez Biskupa Rzymskiego oznacza:
+1° uznanie kandydata za zdatnego do posługi biskupiej zgodnie z kan. 378 KPK;
+2° nadanie mandatu papieskiego do święceń biskupich (kan. 1013 KPK);
+3° przydzielenie stolicy tytularnej lub potwierdzenie jurysdykcji nad diecezją domową jako Kościołem partykularnym w rozumieniu analogicznym do kan. 368-369 KPK;
+4° włączenie do Kolegium Biskupów w zakresie właściwym dla biskupa tytularnego (kan. 336 KPK).
+§ 3. Święcenia biskupie udzielone przez innego biskupa ważnie konsekrowanego, z zachowaniem formy liturgicznej przepisanej w zatwierdzonych księgach liturgicznych, wyciskają niezatarty charakter sakramentalny i udzielają pełni kapłaństwa Chrystusowego (kan. 1008-1009 KPK). Tym samym Głowa Rodu otrzymuje wraz z zadaniem uświęcania także zadanie nauczania i rządzenia, które z natury swojej mogą być wykonywane w hierarchicznej wspólnocie z Głową Kolegium i jego członkami (kan. 375 § 2 KPK).
+Tytuł I: Status kanoniczny biskupa domowego
+Kan. 87a § 1. Głowa Rodu jako biskup domowy i tytularny posiada:
+1° władzę zwyczajną, własną i bezpośrednią w zakresie diecezji domowej, wymaganą do pasterskiego urzędu, z wyłączeniem spraw zarezerwowanych najwyższej lub innej władzy kościelnej (por. kan. 381 § 1 KPK);
+2° pełnię władzy święceń (kan. 1008 KPK), co obejmuje prawo udzielania sakramentu bierzmowania, święceń, konsekracji kościołów, ołtarzy i olejów świętych;
+3° władzę nauczania (munus docendi) w zakresie diecezji domowej (kan. 386 KPK);
+4° władzę uświęcania (munus sanctificandi) jako główny szafarz Bożych tajemnic w Kościele Domowym (kan. 387 KPK);
+5° władzę kierowania (munus regendi) z władzą ustawodawczą, wykonawczą i sądowniczą w zakresie diecezji domowej (kan. 391 KPK).
+§ 2. Jako biskup tytularny Głowa Rodu:
+1° zachowuje łączność hierarchiczną z Biskupem Rzymskim i Kolegium Biskupów (kan. 330, 336 KPK);
+2° posiada prawo uczestniczenia w życiu Kościoła Powszechnego zgodnie ze swoim statusem;
+3° sprawuje jurysdykcję nad diecezją domową jako Kościołem partykularnym przydzielonym prawem naturalnym;
+4° podlega przepisom prawa powszechnego dotyczącym biskupów w zakresie, w jakim nie są one sprzeczne z naturą diecezji domowej i prawem naturalnym.
+§ 3. Prawo naturalne i przyrodzone stanowi, że dom rodzinny Głowy Rodu jest jego diecezją. Przydzielenie to ma charakter:
+1° naturalny — wynikający z faktu bycia głową rodziny i ojcem;
+2° przyrodzony — wpisany w porządek stworzenia i prawo Boże;
+3° potwierdzony — przez akt przyjęcia ze strony Biskupa Rzymskiego;
+4° sakramentalny — przez święcenia biskupie udzielone w sukcesji apostolskiej.
+Tytuł II: Skutki sakramentalne święceń biskupich
+Kan. 87b § 1. Na mocy ważnie przyjętych święceń biskupich Głowa Rodu jako biskup domowy może ważnie:
+1° udzielać sakramentu bierzmowania (kan. 882 KPK) wszystkim wiernym diecezji domowej;
+2° udzielać sakramentu święceń w stopniu diakonatu i prezbiteratu, z zachowaniem przepisów kan. 1010-1054 KPK oraz mandatu papieskiego;
+3° konsekrować kościoły, kaplice i ołtarze w obrębie diecezji domowej (kan. 1205-1239 KPK);
+4° konsekrować olej krzyżma i poświęcać olej chorych oraz olej katechumenów (kan. 880 § 2, 999 KPK);
+5° przewodniczyć wszystkim obrzędom liturgicznym w diecezji domowej z użyciem pontyfikaliów (kan. 390 KPK);
+6° udzielać sakramentu chrztu uroczyście (kan. 861 § 1 KPK);
+7° asystować przy zawieraniu małżeństw w obrębie diecezji domowej (kan. 1108 KPK);
+8° sprawować wszystkie sakramentalia zastrzeżone biskupom (kan. 1169 § 1 KPK);
+9° dokonywać obrzędów egzorcyzmu po uzyskaniu stosownego zezwolenia (kan. 1172 KPK).
+§ 2. Na mocy urzędu biskupiego Głowa Rodu ma prawo:
+1° nosić insygnia biskupie (krzyż pektoralny, pierścień, pastorał, mitrę) podczas sprawowania liturgii w diecezji domowej;
+2° używać tytułu „Ekscelencjo" lub „Biskupie" w korespondencji i dokumentach;
+3° zasiadać na katedrze biskupiej w kaplicy domowej;
+4° udzielać błogosławieństwa pontyfikalnego;
+5° przewodniczyć synodowi domowemu.
+Tytuł III: Władza nauczania (munus docendi)
+Kan. 87c § 1. Głowa Rodu jako biskup domowy ma obowiązek i prawo przedstawiać wiernym diecezji domowej i wyjaśniać prawdy wiary, w które należy wierzyć i stosować w obyczajach (kan. 386 § 1 KPK).
+§ 2. Do władzy nauczania biskupa domowego należy:
+1° głoszenie homilii i kazań podczas liturgii domowej;
+2° nauczanie katechetyczne Potomstwa i członków wspólnoty;
+3° interpretowanie doktryny religijnej i zasad wiary w trzech obrządkach domowych (Marii Magdaleny, Pawłowym i Tomaszowym);
+4° czuwanie nad czystością nauki przekazywanej we wspólnocie;
+5° wydawanie instrukcji i wytycznych doktrynalnych dla diecezji domowej;
+6° obrona wiary przed błędami i ideologiami sprzecznymi z Prawem Bożym;
+7° prowadzenie formacji intelektualnej zgodnie z tradycją Kościoła Tomaszowego.
+§ 3. Nauczanie biskupa domowego winno być zawsze zgodne z Magisterium Kościoła Powszechnego i doktryną katolicką (kan. 386 § 2 KPK). Biskup domowy uznaje nieomylność Biskupa Rzymskiego w sprawach wiary i obyczajów zgodnie z kan. 749 KPK.
+Tytuł IV: Władza uświęcania (munus sanctificandi)
+Kan. 87d § 1. Głowa Rodu jako biskup domowy jest głównym szafarzem Bożych tajemnic w diecezji domowej i moderatorem, promotorem oraz stróżem całego życia liturgicznego (kan. 835 § 1 KPK, kan. 387 KPK).
+§ 2. Do obowiązków biskupa domowego w zakresie uświęcania należy:
+1° codzienne sprawowanie Ofiary Eucharystycznej lub przewodniczenie celebracji Słowa Bożego;
+2° sprawowanie sakramentów i sakramentaliów w trzech obrządkach domowych;
+3° przewodniczenie Liturgii Godzin w wymiarze domowym;
+4° udzielanie błogosławieństw pontyfikalnych;
+5° konsekrowanie i poświęcanie miejsc, przedmiotów i osób;
+6° czuwanie nad godnym sprawowaniem kultu Bożego;
+7° udzielanie odpustów cząstkowych wiernym diecezji domowej zgodnie z przepisami Stolicy Apostolskiej;
+8° przewodniczenie obrzędom roku liturgicznego;
+9° sprawowanie obrzędów związanych z życiem rodziny (narodziny, chrzest, pierwsza komunia, bierzmowanie, małżeństwo, pogrzeb).
+§ 3. Biskup domowy ma obowiązek odprawiać Mszę świętą za powierzony sobie lud (Missa pro populo) w każdą niedzielę i święta nakazane (kan. 388 KPK), a w przypadku braku możliwości sprawowania Eucharystii — przewodniczyć celebracji Słowa Bożego z Komunią duchową.
+Tytuł V: Władza kierowania (munus regendi)
+Kan. 87e § 1. Głowa Rodu jako biskup domowy rządzi diecezją domową z władzą ustawodawczą, wykonawczą i sądowniczą, zgodnie z przepisami niniejszego Kanonu i prawa powszechnego (kan. 391 KPK).
+§ 2. Władzę ustawodawczą wykonuje sam biskup domowy przez wydawanie dekretów, instrukcji i statutów dotyczących diecezji domowej.
+§ 3. Władzę wykonawczą wykonuje biskup domowy osobiście lub przez delegowanych członków wspólnoty (Małżonkę jako współszafarkę, wyznaczonych akolitów lub lektorów domowych).
+§ 4. Władzę sądowniczą wykonuje biskup domowy osobiście lub przez wyznaczonego wikariusza sądowego, zgodnie z przepisami prawa kanonicznego i niniejszego Kanonu.
+§ 5. Do zakresu władzy kierowania należy:
+1° zarządzanie wspólnotą domową i jej strukturą organizacyjną;
+2° mianowanie i odwoływanie posług domowych (lektor, akolita, katecheta, kantor);
+3° wizytacja duchowa członków wspólnoty;
+4° zarządzanie dobrami materialnymi i duchowymi diecezji domowej;
+5° reprezentowanie diecezji domowej wobec Kościoła Powszechnego, władz świeckich i innych wspólnot;
+6° rozstrzyganie sporów wewnętrznych;
+7° przyjmowanie i wykluczanie członków wspólnoty;
+8° ustanawianie i zatwierdzanie obrzędów domowych;
+9° wydawanie dekretów i postanowień dotyczących życia liturgicznego i dyscypliny;
+10° prowadzenie dokumentacji diecezjalnej (księgi ochrzczonych, bierzmowanych, małżeństw, zmarłych).
+Tytuł VI: Obowiązki biskupa domowego
+Kan. 87f. Głowa Rodu jako biskup domowy ma obowiązek:
+1° zachowywać zawsze wspólnotę z Kościołem Powszechnym i Biskupem Rzymskim (kan. 209, 381 KPK);
+2° prowadzić życie święte i dawać przykład świętości (kan. 387 KPK);
+3° troszczyć się o wszystkich wiernych powierzonych jego pieczy (kan. 383 KPK);
+4° bronić nienaruszalności i jedności wiary (kan. 386 § 2 KPK);
+5§ wizytować diecezję domową przynajmniej raz w roku (kan. 396 KPK);
+6° składać sprawozdanie ze stanu diecezji domowej przed Triarchią Domową;
+7° przedkładać Biskupowi Rzymskiemu sprawozdanie o stanie diecezji domowej co pięć lat (kan. 399 KPK), w formie dostosowanej do natury wspólnoty;
+8° rezydować w diecezji domowej (kan. 395 KPK);
+9° odprawiać coroczne rekolekcje (kan. 276 § 2 KPK);
+10° troszczyć się o powołania do służby Bożej (kan. 385 KPK);
+11° otaczać szczególną troską prezbiterów, diakonów i członków wspólnoty (kan. 384 KPK);
+12° popierać ekumenizm i dialog międzyreligijny zgodnie z duchem Kościoła (kan. 383 § 3 KPK).
+Tytuł VII: Relacja z Kościołem Powszechnym
+Kan. 87g § 1. Głowa Rodu jako biskup domowy i tytularny, przyjęty przez Biskupa Rzymskiego, pozostaje w pełnej wspólnocie hierarchicznej z Następcą Piotra i Kolegium Biskupów (kan. 330, 336 KPK).
+§ 2. Biskup domowy:
+1° uznaje najwyższą, pełną, bezpośrednią i powszechną władzę Biskupa Rzymskiego (kan. 331 KPK);
+2° zachowuje przepisy prawa powszechnego Kościoła;
+3° uczestniczy w życiu Kościoła Powszechnego zgodnie ze swoim statusem;
+4° stosuje się do decyzji Konferencji Episkopatu w zakresie, w jakim dotyczą one diecezji domowej;
+5° nie podejmuje działań sprzecznych z doktryną i dyscypliną Kościoła Powszechnego;
+6° składa wyznanie wiary i przysięgę wierności wobec Stolicy Apostolskiej zgodnie z kan. 380 i 833 KPK.
+§ 3. W sprawach dotyczących diecezji domowej, które nie są uregulowane prawem powszechnym, biskup domowy działa zgodnie z niniejszym Kanonem, prawem naturalnym i prawem Bożym, w duchu komunii z Kościołem Powszechnym.
+Tytuł VIII: Trzy obrządki domowe w posłudze biskupiej
+Kan. 87h § 1. Głowa Rodu jako biskup domowy sprawuje posługę pasterską w trzech obrządkach domowych, które stanowią integralną część diecezji domowej:
+§ 2. W Obrządku Marii Magdaleny biskup domowy:
+1° sprawuje posługę miłosierdzia i kontemplacji;
+2° przewodniczy obrzędom namaszczenia, obmywania i pocieszania;
+3° błogosławi olej chorych i sprawuje obrzęd namaszczenia z nałożeniem rąk;
+4° przewodniczy obrzędom pojednania i przebaczenia;
+5° czuwa przy chorych i umierających, udzielając Wiatyku i apostolskiego błogosławieństwa.
+§ 3. W Obrządku Pawłowym biskup domowy:
+1° sprawuje posługę misyjną i charyzmatyczną;
+2° przewodniczy celebracjom Słowa Bożego i modlitwie charyzmatycznej;
+3° udziela sakramentu bierzmowania jako szafarz zwyczajny (kan. 882 KPK);
+4° posyła członków wspólnoty do dzieł ewangelizacyjnych;
+5° przewodniczy obrzędom posłania misyjnego i błogosławieństwa apostolskiego.
+§ 4. W Obrządku Tomaszowym biskup domowy:
+1° sprawuje posługę nauczania i formacji intelektualnej;
+2° przewodniczy katechezie, wykładom i dysputom teologicznym;
+3° czuwa nad czystością doktryny i prawością nauczania;
+4° ustanawia program formacji intelektualnej wspólnoty;
+5° wydaje instrukcje doktrynalne i zatwierdza materiały formacyjne.
+Tytuł IX: Przepisy przejściowe i końcowe
+Kan. 87i § 1. Z chwilą przyjęcia i wyświęcenia biskupiego Głowa Rodu przechodzi ze statusu szafarza świeckiego do statusu biskupa diecezjalnego Kościoła Domowego. Wszelkie wcześniejsze przepisy niniejszego Kanonu dotyczące „biskupa domowego" w sensie funkcjonalnym i naturalnym zachowują moc, lecz zostają podniesione do godności sakramentalnej.
+§ 2. Święcenia biskupie nie znoszą ani nie umniejszają praw wynikających z prawa naturalnego i przyrodzonego, lecz je potwierdzają i podnoszą do porządku sakramentalnego. Głowa Rodu pozostaje jednocześnie:
+1° ojcem rodziny i głową Rodu (prawo naturalne);
+2° biskupem tytularnym i domowym (prawo sakramentalne i kanoniczne);
+3° szafarzem świętym i arcykapłanem Kościoła Domowego (prawo liturgiczne);
+4° prezesem świeckiej organizacji religijnej (prawo cywilne).
+§ 3. W przypadku przeszkody w sprawowaniu funkcji biskupich (choroba, nieobecność, inna poważna przyczyna), funkcje liturgiczne przejmuje Małżonka jako współszafarka w zakresie sakramentaliów i modlitwy, natomiast funkcje sakramentalne wymagające święceń (Eucharystia, bierzmowanie, święcenia) zostają zawieszone do czasu ustania przeszkody lub delegacji innego biskupa lub prezbitera.
+§ 4. Biskup domowy, który ukończył siedemdziesiąty piąty rok życia, jest proszony o złożenie na ręce Biskupa Rzymskiego rezygnacji z urzędu, zgodnie z kan. 401 § 1 KPK, chyba że prawo naturalne i wola wspólnoty stanowią inaczej.
 
 ---
 
