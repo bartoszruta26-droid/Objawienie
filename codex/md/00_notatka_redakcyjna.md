@@ -107,3 +107,10 @@ Zbiór prowadzi **jednolitą, ciągłą numerację międzyksiężną**: Księga 
 
 ### Plan dalszych partii
 Brak — opracowanie całego zbioru źródłowego zostało zakończone (kan. 1–520). Ewentualne kolejne prace mogą obejmować jedynie kosmetykę edytorską lub dodanie indeksu rzeczowego na życzenie zamawiającego.
+
+### Partia V — naprawa błędnych odesłań krzyżowych (Księga V, Tytuł III)
+Zgłoszenie redakcyjne dot. kan. 384 § 2 oraz kan. 390 i 392: tekst powoływał się na nieistniejące „kan. 135 § 1–3” rzekomej Księgi II. Kan. 135 Księgi II zawiera jedynie osiem reguł ochronnych wykładni i nie reguluje zastępstwa Głowy Rodu. Naprawiono trzy uszkodzone odesłania:
+1. **Kan. 384 § 2** — usunięto fałszywą klauzulę wykonania; teraz wskazuje właściwe normy ogólne władzy rządzenia (Księga I, kan. 80–81), normy ochronne wykładni (Księga II, kan. 134–135) oraz szczegóły zastępstwa zawarte w Rozdziałach II–III tegoż Tytułu III (kan. 387–390).
+2. **Kan. 390 5°** — „zasady określone w kan. 135 § 3” → gotowość przejęcia funkcji według kan. 392 § 1 4° (pełnoletność) oraz Księgi VIII (opróżnienie urzędu Głowy Rodu).
+3. **Kan. 392 § 1 4°** — analogicznie: możliwość przejęcia funkcji według kan. 387 § 2 (granice sprawowane odpowiednio) i Księgi VIII o przekazaniu patriarchatu.
+Weryfikacja: `grep` potwierdza brak jakichkolwiek dalszych odesłań do nieistniejących paragrafów kan. 135 w całym zbiorze (pozostały wyłącznie oznaczenia „kan. 135 § 1–2 KPK”, tj. odwołania do Kodeksu Prawa Kanonicznego, które są poprawne). Numeracja kanonów bez zmian: ciąg 1–520 zachowany.
