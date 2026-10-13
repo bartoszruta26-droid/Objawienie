@@ -2,8 +2,6 @@
 
 ## *De Receptione Episcopi Titularis Subdioecesani, Exclusiva Competentia Romani Pontificis ac Possessione Bonorum post Separationem*
 
-*(Redakcja: dawna „Księga XV” z pliku `ksiegi06.txt`, dawne kan. 600–634. Przepisy niniejszej Księgi mają charakter gwarancyjny i stanowią normy szczególnego zabezpieczenia wobec Księgi I (normy ogólne), Księgi VI (ustrój subdiecezji i patriarchatu) oraz Księgi VIII (przekazanie patriarchatu).)*
-
 ### PREAMBUŁA KSIĘGI
 
 Niniejsza Księga ustanawia przepisy dotyczące:
@@ -386,13 +384,3 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 **§ 3.** Najwyższą normą stosowania niniejszej Księgi pozostaje miłość, prawda, sprawiedliwość, miłosierdzie i *salus animarum suprema lex*.
 
 ---
-
-**Uwagi redakcyjne:**
-
-*Zasada lektury:* numery oznaczone jako „dawne” dotyczą starej numeracji źródłowej i pełnią wyłącznie funkcję historyczno-porządkową; obowiązującymi są numery nowe — zgodnie z przepisami tego kanonu.
-
-1. *Przenumerowanie:* dawne kan. 600–634 → kan. 345–379 (ciągłość po Księdze VI, kończącej się na kan. 344).
-2. *Odesłania wewnętrzne:* dawne odesłania „Kan. 606–612” → kan. 351–357; „Kan. 613–628” → kan. 358–373; „Kan. 621” → kan. 366; „Kan. 606 i 628” → kan. 351 oraz kan. 461 Księgi IX.
-3. *Odesłania zewnętrzne:* dawne odwołania do „Księgi XV” (w tekście źródłowym samoopisującym) zastąpiono wskazaniem niniejszej Księgi; odwołania do „Księgi XVI” o przekazaniu patriarchatu → Księga VIII.
-4. *Literówki i obce zapisy źródła:* „Rod” w znaczeniu mianownikowym → „Ród”; „communię” → „komunię”; „subdiecezalnemu” → „subdiecezjalnemu”; „保存ować” → „zachowywać”; „wykazać contraire” → „wykazać przeciwnego”; „patriarchat wakuję” → „patriarchat wakuje” (poprawka dotyczy odpowiednio Księgi VIII).
-5. *Usunięte dublety:* zakończenie źródła („Niniejsze przepisy dopisuje się … jako Księga XV”) miało charakter deklaracji redakcyjnej, nie normy — pominięto je, ponieważ jego treść pokrywająca się z regułami kolizji już istnieje w prawie ogólnym (kan. 59 Księgi III).
