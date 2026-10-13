@@ -2,8 +2,6 @@
 
 *Kościół Domowy, jako partykularna wspólnota Ludu Bożego erygowana na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu, uznaje i respektuje cały porządek prawny Kościoła Katolickiego, wyrażony w Kodeksie Prawa Kanonicznego z 1983 roku, w ustawach powszechnych i partykularnych, w dekretach, instrukcjach, zwyczajach, aktach administracyjnych, reskryptach, przywilejach, dyspensach oraz statutach. Niniejsza Księga określa sposób, w jaki Kościół Domowy przyjmuje, stosuje i respektuje każdy z wymienionych elementów porządku prawnego Kościoła, zachowując jednocześnie własną tożsamość, autonomię domową i prawo partykularne wynikające z natury Ecclesia Domestica.*
 
-> **Przypis redakcyjny.** Dawna „Księga XII — Respektowanie prawa kościelnego” (dawne kan. 113–209). Włączono ją do jednolitego ciągu zbioru jako Księgę III: dawne kan. 113–202 → nowe kan. 49–138; dawne kan. 205–209 → nowe kan. 139–143 (Tytuł XII, przepisy końcowe). Dawne kan. 203–204 (respektowanie prawa w trzech obrządkach domowych) przeniesiono tematycznie do Księgi o prawie liturgicznym i obrządkach domowych. Poprawiono literówki („Głowa Rodzu” → „Głowa Rodu”) i przeliczone odesłania wewnętrzne; odwołania do KPK pozostają nienaruszone.
-
 ---
 
 ## Tytuł I: USTAWY KOŚCIELNE (*Leges Ecclesiasticae*)
