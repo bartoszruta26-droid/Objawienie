@@ -33,7 +33,14 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **Kan. 4.** Ustawy niniejszego Kanonu odnoszą się do przyszłości, nie do przeszłości, chyba że wyraźnie zastrzega się w nich inaczej (por. kan. 9 KPK).
 
-**Kan. 5.** W wątpliwości prawnej kanony niniejszego Kodeksu nie obowiązują. W wątpliwości faktycznej Głowa Rodu jako biskup domowy może rozstrzygać zgodnie z roztropnością, sprawiedliwością i miłością, zawsze na korzyść strony słabszej.
+**Kan. 5 § 1.** W wątpliwości prawnej kanony niniejszego Kodeksu nie obowiązują. W wątpliwości faktycznej Głowa Rodu jako biskup domowy może rozstrzygać zgodnie z roztropnością, sprawiedliwością i miłością, zawsze na korzyść strony słabszej.
+
+**§ 2.** W przypadku wątpliwości co do stosowania prawa powszechnego w Kościele Domowym, Głowa Rodu jako biskup domowy winien:
+1° zwrócić się o wyjaśnienie do kompetentnej władzy kościelnej;
+2° stosować ogólną zasadę, że w wątpliwości prawnej ustawy nie obowiązują (por. kan. 14 KPK);
+3° orzekać na korzyść strony słabszej;
+4° mieć na uwadze dobro wspólnoty i zbawienie dusz;
+5° nie podejmować decyzji, które mogłyby naruszyć jedność z Kościołem Powszechnym (dawny kan. 296).
 
 **Kan. 6.** Kanony niniejszego Kodeksu należy rozumieć według własnego znaczenia słów, rozważanego w tekście i kontekście. Jeśli pozostaje ono wątpliwe, należy uwzględnić cel i okoliczności Kanonu oraz myśl Głowy Rodu jako prawodawcy domowego, a nade wszystko Prawo Boże i Prawo Naturalne.
 
@@ -155,7 +162,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 2.** Zwyczaje domowe, które nie są przeciwne prawu kanonicznemu, zachowują swoją moc i są pielęgnowane jako wyraz tradycji i tożsamości Rodu (por. kan. 5 § 2 KPK).
 
-**Kan. 29.** Zwyczaj przeciwny obowiązującemu prawu kanonicznemu oraz zwyczaj obok prawa kanonicznego jedynie wtedy otrzymuje moc prawa w Kościele Domowym, gdy jest zachowywany zgodnie z prawem w sposób ciągły przez pełnych lat trzydzieści (por. kan. 26 KPK). Zwyczaj przeciwny ustawie kanonicznej zawierającej klauzulę zabraniającą przyszłych zwyczajów tylko wtedy może przeważyć, gdy jest stuletni albo niepamiętny.
+**Kan. 29.** Kościół Domowy uznaje, że tylko ten zwyczaj wprowadzony przez wspólnotę wiernych posiada moc prawną, który spełnia następujące warunki: 1° jest zgodny z Prawem Bożym i Naturalnym; 2° nie jest sprzeczny z prawem kanonicznym powszechnym; 3° został wprowadzony za milczącą lub wyraźną zgodą kompetentnego prawodawcy kościelnego; 4° istnieje przez okres co najmniej trzydziestu lat; 5° nie narusza godności osoby ludzkiej ani praw dziecka; 6° służy dobru duchowemu wspólnoty domowej (por. kan. 23-26 KPK).
 
 **Kan. 30.** Zwyczaj jest najlepszą interpretacją ustaw Kościoła Domowego (por. kan. 27 KPK). Głowa Rodu jako biskup domowy ma obowiązek czuwać, by zwyczaje domowe były zgodne z duchem liturgii, prawem Bożym i tradycją Kościoła.
 
@@ -470,4 +477,4 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ---
 
-*Uwaga redakcyjna: Księgę I opracowano na podstawie kan. 1–11 dawnego Kanonu (ksiegi01.txt), kan. 200–296 Księgi XII o respektowaniu prawa kościelnego (ksiegi02.txt), kan. 42–51 dawnego Kanonu o władzy rządzenia (ksiegi01.txt — materia norm ogólnych przeniesiona z księgi o ustroju) oraz przepisów końcowych poprawek (kan. 454–457 i 521–525, ksiegi04.txt — scalone w kan. 101–102). Usunięto powtórzenia: kan. 208–215 (Księga XII) dublowały kan. 200–207; dawne kan. 27–35 skróconej wersji zastąpiono pełnymi odpowiednikami z Księgi XII.
+*Uwaga redakcyjna: Księgę I opracowano na podstawie kan. 1–11 dawnego Kanonu (ksiegi01.txt), kan. 200–296 Księgi XII o respektowaniu prawa kościelnego (ksiegi02.txt), kan. 42–51 dawnego Kanonu o władzy rządzenia (ksiegi01.txt — materia norm ogólnych przeniesiona z księgi o ustroju) oraz przepisów końcowych poprawek (kan. 454–457 i 521–525, ksiegi04.txt — scalone w kan. 101–102). Usunięto powtórzenia: kan. 208–215 (Księga XII) dublowały kan. 200–207; dawne kan. 27–35 skróconej wersji zastąpiono pełnymi odpowiednikami z Księgi XII. Dawne kan. 290–296, błędnie umieszczone na końcu zbioru, należą tematycznie do norm ogólnych: dawny kan. 292 jest już scalony z kan. 3–6 i kan. 19 § 2; treść dawnego kan. 296 przeniesiono do Księgi III (nowe kan. 192–193), a treść dawnych kan. 293–294 odpowiednio do kan. 191 i 192 tejże Księgi, a treść dawnych kan. 293–294 odpowiednio do kan. 191 i 192 tejże Księgi; materia dawnych kan. 290–291 (trzy obrządki domowe) zostanie przeniesiona do właściwej Księgi o obrządkach w kolejnej partii opracowania.*
