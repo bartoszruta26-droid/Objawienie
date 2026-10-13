@@ -51,7 +51,7 @@
 1° Głowa Rodu — przez przykład wiary, modlitwy i służby;
 2° Małżonka — przez miłość, roztropność i troskę o ognisko domowe;
 3° Potomstwo — przez słuchanie rodziców, naukę i wzrastanie w wierze;
-4° Inni członkowie — przez braterską communię i poszanowanie porządku wspólnoty.
+4° Inni członkowie — przez braterską komunię i poszanowanie porządku wspólnoty.
 
 **§ 2.** Wszyscy wierni Kościoła Domowego mają prawo do otrzymania od wspólnoty pomocy niezbędnej do prowadzenia życia chrześcijańskiego, zwłaszcza dostępu do sakramentów, formacji i modlitwy.
 

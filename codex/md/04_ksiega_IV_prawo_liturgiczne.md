@@ -640,6 +640,8 @@
 
 **§ 2.** Głowa Rodu ma obowiązek dbać o to, by przedmioty sakralne nie były używane do celów świeckich ani nie były traktowane z lekceważeniem.
 
+## Tytuł IX: SIEDEM SAKRAMENTALIÓW RZECZOWYCH
+
 ### Rozdział I: Woda — Sakramentalium Oczyszczenia i Nowego Życia
 
 **Kan. 294 § 1.** Woda jest pierwszym i podstawowym sakramentalium Kościoła Domowego, związanym z sakramentem chrztu i cnotą Nadziei.
@@ -782,7 +784,9 @@
 5° w rocznicę nabycia nieruchomości;
 6° przy sadzeniu nowych roślin lub drzew.
 
-## Tytuł IX: SIEDEM SAKRAMENTALIÓW RZECZOWYCH
+## Tytuł X: SIEDEM DARÓW DUCHA ŚWIĘTEGO
+
+### Rozdział I: Przepisy ogólne o Darach Ducha Świętego
 
 **Kan. 301 § 1.** Kościół Domowy uznaje i naucza, że siedem Darów Ducha Świętego — Mądrość, Rozum, Rada, Miłosierdzie (Pobożność), Moc, Wiedza i Cierpliwość (Bojaźń Boża) — jest udzielanych wiernym w sakramencie bierzmowania i rozwijanych przez całe życie chrześcijańskie.
 
@@ -853,7 +857,7 @@
 3° owocuje zdolnością do właściwego oceniania rzeczy stworzonych;
 4° Głowa Rodu modli się o ten Dar przy zapalaniu świec i obrzędach twórczych.
 
-### Rozdział I: Przepisy ogólne o Darach Ducha Świętego
+### Rozdział II: Poszczególne Dary i ich praktyka
 
 **Kan. 310 — Dar Cierpliwości/Bojaźni Bożej (związany z cnotą Pobożności i sakramentalium ziemi):**
 1° jest udzielany przez błogosławieństwo ziemi i sakramentalium zakorzenienia;
@@ -861,7 +865,9 @@
 3° owocuje zdolnością do cierpliwego znoszenia trudności i ufności w Boży plan;
 4° Głowa Rodu modli się o ten Dar przy błogosławieństwie domu i ogrodu.
 
-## Tytuł X: SIEDEM DARÓW DUCHA ŚWIĘTEGO
+## Tytuł XI: SIEDEM CHARYZMATÓW — PRZEPISY OGÓLNE
+
+### Rozdział I: Przepisy ogólne o charyzmatach
 
 **Kan. 311 § 1.** Kościół Domowy uznaje, że Duch Święty udziela wiernym rozmaitych charyzmatów dla budowania Ciała Chrystusowego i dobra wspólnoty (por. 1 Kor 12,4-11; kan. 204 § 1, 211 KPK).
 
@@ -905,7 +911,7 @@
 5° świadectwo i zachętę;
 6° praktykę i ćwiczenie pod kierunkiem Głowy Rodu.
 
-### Rozdział I: Przepisy ogólne o charyzmatach
+### Rozdział II: Poszczególne charyzmaty i ich praktyka
 
 **Kan. 314 — Charyzmat Proroctwa (związany z cnotą Nadziei, sakramentalium wody i Darem Mądrości):**
 1° jest szczególną łaską do przekazywania Słowa Bożego wspólnocie;
@@ -994,13 +1000,9 @@
 5° Małżonka jako współszafarka ma szczególne powołanie do Charyzmatu Służenia w wymiarze opiekuńczym;
 6° Charyzmat Służenia winien być praktykowany z radością, bez oczekiwania wdzięczności i w duchu Ewangelii.
 
-### Rozdział I: Sakramentalia osobowe
+## Tytuł XII: SAKRAMENTALIA UCZYNKÓW
 
-*(Redakcja usunęła dawny kan. o warunkach sprawowania sakramentaliów jako powtórzenie kan. 295 § 1–2 Tytułu IX; zachowano brzmienie pełne.)*
-
-### Rozdział II: Sakramentalia uczynków
-
-## Tytuł XI: SIEDEM CHARYZMATÓW
+### Rozdział I: Sakramentalia uczynków — przepisy ogólne
 
 **Kan. 321 § 1.** Kościół Domowy uznaje, że codzienne uczynki miłości, pracy i odpowiedzialności mogą być uświęcone i podniesione do rangi sakramentaliów uczynków przez:
 1° intencję ofiarowania ich Bogu;
@@ -1017,11 +1019,9 @@
 
 **§ 3.** Głowa Rodu ma prawo i obowiązek błogosławić codzienne uczynki członków wspólnoty, łącząc je z odpowiednimi sakramentaliami rzeczowymi i modlitwą.
 
-### Rozdział II: Integracja sakramentaliów rzeczowych, osobowych i uczynków
+## Tytuł XIII: INTEGRACJA SAKRAMENTALIÓW OSOBOWYCH I UCZYNKÓW
 
-## Tytuł XII: INTEGRACJA SAKRAMENTALIÓW OSOBOWYCH I UCZYNKÓW
-
-### Rozdział I: Sakramentalia uczynków
+### Rozdział I: Zasada integracji trzech wymiarów
 
 **Kan. 322 § 1.** Pełnia życia sakramentalnego w Kościele Domowym osiąga się przez integrację trzech wymiarów:
 1° **sakramentalium rzeczowego** (przedmiot: woda, sól, chleb, popiół, olej, świeca, ziemia);
@@ -1076,7 +1076,7 @@
 
 **Kan. 328.** Najwyższą zasadą interpretacji i stosowania niniejszej Księgi jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (por. kan. 1752 KPK). Wszystkie przepisy dotyczące cnót, sakramentaliów, Darów i charyzmatów winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
 
-## Tytuł XIII: CELEBRACJE LITURGICZNE I FORMACJA
+## Tytuł XIV: CELEBRACJE LITURGICZNE I FORMACJA
 
 **Kan. 329 § 1.** Szafarzem sakramentaliów narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 204 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
 
@@ -1392,7 +1392,7 @@
 
 **Kan. 348.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące sakramentaliów narzędziowych winny być stosowane w taki sposób, by służyły uświęceniu pracy, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
 
-## Tytuł XIV: SAKRAMENTALIA NARZĘDZIOWE
+## Tytuł XV: SAKRAMENTALIA NARZĘDZIOWE
 
 **Kan. 349 § 1.** Głowa Rodu jako biskup domowy ma obowiązek prowadzić systematyczną formację członków wspólnoty w zakresie cnót, sakramentaliów, Darów i charyzmatów.
 **§ 2.** Formacja ta winna obejmować:
@@ -1449,7 +1449,7 @@
 
 **Kan. 357.** Postanowienia dotyczące celebracji cnót, sakramentaliów, Darów i charyzmatów zawarte w kan. 349–356 stosuje się odpowiednio do Sakramentaliów Kultowych opisanych w Tytule XV.
 
-## Tytuł XV: SAKRAMENTALIA KULTOWE W KOŚCIELE DOMOWYM
+## Tytuł XVI: SAKRAMENTALIA KULTOWE W KOŚCIELE DOMOWYM
 
 **Kan. 358 § 1.** Sakramentalia Kultowe są świętymi znakami ustanowionymi w Kościele Domowym, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe, w wymiarze kultu, modlitwy i kontemplacji (por. kan. 1166 KPK).
 
@@ -1765,10 +1765,6 @@
 **Kan. 374.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
 **Kan. 375.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące Sakramentaliów Kultowych winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
----
-
-7° wyrażać swoje potrzeby duchowe i prosić o odpowiednie sakramentalia;
-8° być traktowanym z godnością i szacunkiem w każdej celebracji.
 
 **Uwagi redakcyjne:**
 
