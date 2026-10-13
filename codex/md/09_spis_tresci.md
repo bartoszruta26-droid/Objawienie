@@ -1,6 +1,6 @@
 # SPIS TREŚCI — Codex Iuris Canonici Ecclesiae Domesticae
 
-*Jednolity ciąg kanonów 1–520 w ośmiu księgach. Zakresy odpowiadają nowej, ciągłej numeracji nadanej przy porządkowaniu zbioru.*
+*Jednolity ciąg kanonów 1–578 w dziesięciu księgach. Zakresy odpowiadają nowej, ciągłej numeracji nadanej przy porządkowaniu zbioru (Księgi IX–X dopełniają ciąg po kan. 520).*
 
 | Plik | Księga | Zakres kanonów |
 |------|--------|----------------|
@@ -12,6 +12,8 @@
 | [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 406–431 |
 | [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 432–466 |
 | [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 467–520 |
+| [`10_ksiega_IX_rozmnazanie_dobr.md`](./10_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 521–549 |
+| [`11_ksiega_X_nieruchomosci.md`](./11_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 550–578 |
 
 ## Księga I — Normy Ogólne
 -   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–10 (kan. 6–8 *vacat*)
@@ -156,3 +158,28 @@
 - **Tytuł XI: INTERPRETACJA I PRZEPISY KOŃCOWE** — kan. 516–520
 - **ANEKS I — TABELA PRZEKAZYWANYCH I NIEPRZEKAZYWANYCH DÓBR**
 - **ANEKS II — CHECKLISTA PRZEKAZANIA PATRIARCHATU**
+
+## Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji
+- **Tytuł I: ZASADA ROZMNAŻANIA DÓBR DUCHOWYCH** — kan. 521–525
+- **Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH** — kan. 526–528
+- **Tytuł III: USTANAWIANIE NOWYCH KOŚCIOŁÓW DOMOWYCH PRZEZ CZŁONKÓW W ZWIĄZKACH** — kan. 529–532
+- **Tytuł IV: TYTUŁ BISKUPA NIEUŚWIĘCONEGO I USTANAWIANIE SUBDIECEZJI** — kan. 533–536
+- **Tytuł V: DĄŻENIE DO PRZYJĘCIA PRZEZ BISKUPA RZYMU I USTANOWIENIE DIECEZJI** — kan. 537–539
+- **Tytuł VI: ROZMNAŻANIE I PODZIAŁ DÓBR MATERIALNYCH** — kan. 540–543
+- **Tytuł VII: SUKCESJA PO ŚMIERCI RODZICÓW** — kan. 544–546
+- **Tytuł VIII: PRZEPISY KOŃCOWE** — kan. 547–549
+-   **ANEKS: TABELA ROZMNAŻANIA DÓBR**
+-   *Dawna numeracja: kan. 900–928 („Księga XVII — Poprawiona”); przekierowania w tabeli na końcu pliku `10_ksiega_IX_rozmnazanie_dobr.md`*
+
+## Księga X — Nieruchomości Kościoła Domowego i subdiecezji
+- **Tytuł I: ZASADY OGÓLNE DOTYCZĄCE NIERUCHOMOŚCI** — kan. 550–552
+- **Tytuł II: DOM RODZINNY JAKO SIEDZIBA KOŚCIOŁA DOMOWEGO** — kan. 553–557
+- **Tytuł III: WSPÓŁWŁASNOŚĆ I PRAWO KORZYSTANIA** — kan. 558–561
+- **Tytuł IV: NIERUCHOMOŚCI SAKRALNE** — kan. 562
+- **Tytuł V: ALIENACJA NIERUCHOMOŚCI** — kan. 563–565
+- **Tytuł VI: SUKCESJA NIERUCHOMOŚCI PO ŚMIERCI RODZICÓW** — kan. 566–568
+- **Tytuł VII: NIERUCHOMOŚCI NOWYCH KOŚCIOŁÓW DOMOWYCH** — kan. 569–571
+- **Tytuł VIII: ZARZĄD, UTRZYMANIE, OCHRONA NIERUCHOMOŚCI I ROZSTRZYGANIE SPORÓW** — kan. 572–576
+- **Tytuł IX: PRZEPISY KOŃCOWE** — kan. 577–578
+-   **ANEKS: TABELA ROZWIĄZAŃ DLA NIERUCHOMOŚCI NIEPODZIELNYCH**
+-   *Dawna numeracja: kan. 930–958 („Księga XVIII — Tytuł III: Nieruchomości”; luka pod dawnym kan. 929 zniesiona); przekierowania w tabeli na końcu pliku `11_ksiega_X_nieruchomosci.md`*
