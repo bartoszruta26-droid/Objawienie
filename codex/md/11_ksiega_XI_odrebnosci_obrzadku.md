@@ -6,7 +6,6 @@
 
 ### PREAMBUŁA
 
-Niniejsza Księga stanowi, wraz z Księgami IX (kan. 434–462) i X (kan. 463–491), kontynuację zbioru poza podstawowym ciągem kan. 1–433; jej kanony otrzymały numerację ciągłą **492–514** w miejsce dawnej numeracji źródłowej (kan. 550–572, tymczasowo zapisanej jako kan. 579–601, która nie była kontynuacją numeracji Księgi X). Ustanawia ona przepisy dotyczące odrębności obrządku domowego od obrządku łacińskiego w zakresie dyscypliny celibatu, podziału posług duchownych oraz innych kwestii wynikających z partykularnej natury trzech obrządków domowych: Marii Magdaleny, Pawłowego i Tomaszowego.
 
 Obrządek domowy, sprawowany w Kościele Domowym jako diecezji partykularnej, nie jest obrządkiem łacińskim w rozumieniu kan. 1 KPK, lecz stanowi odrębną tradycję liturgiczną, duchową i dyscyplinarną, zakorzenioną w:
 
