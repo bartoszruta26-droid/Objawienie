@@ -56,16 +56,16 @@
 **§ 2.** Wszyscy wierni Kościoła Domowego mają prawo do otrzymania od wspólnoty pomocy niezbędnej do prowadzenia życia chrześcijańskiego, zwłaszcza dostępu do sakramentów, formacji i modlitwy.
 
 **Kan. 21.** Każdy wierny Kościoła Domowego ma prawo:
-1° być wolnym od jakiegokolwiek przymusu w wyborze stanu życia (kan. 21 (hist.)9 KPK);
-2° swobodnego wyrażania opinii w sprawach dotyczących dobra wspólnoty (kan. 21 (hist.)2 § 3 KPK);
-3° otrzymywania pomocy duchowej od pasterzy (kan. 21 (hist.)3 KPK);
-4° sprawowania kultu Bożego zgodnie z własnym sumieniem (kan. 21 (hist.)4 KPK);
-5° swobodnego zakładania stowarzyszeń i uczestniczenia w nich (kan. 21 (hist.)5 KPK);
-6° ochrony dobrego imienia i prywatności (kan. 22 (hist.)0 KPK);
-7° legalnego dochodzenia i obrony swoich praw (kan. 22 (hist.)1 KPK);
+1° być wolnym od jakiegokolwiek przymusu w wyborze stanu życia (kan. 21 KPK);
+2° swobodnego wyrażania opinii w sprawach dotyczących dobra wspólnoty (kan. 212 § 3 KPK);
+3° otrzymywania pomocy duchowej od pasterzy (kan. 213 KPK);
+4° sprawowania kultu Bożego zgodnie z własnym sumieniem (kan. 214 KPK);
+5° swobodnego zakładania stowarzyszeń i uczestniczenia w nich (kan. 215 KPK);
+6° ochrony dobrego imienia i prywatności (kan. 220 KPK);
+7° legalnego dochodzenia i obrony swoich praw (kan. 221 KPK);
 8° opuszczenia wspólnoty w każdym czasie bez ponoszenia konsekwencji.
 
-**Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 22 (hist.)0 KPK). Dotyczy to w szczególności:
+**Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 0 KPK). Dotyczy to w szczególności:
 1° zakazu rozpowszechniania informacji o życiu prywatnym członków bez ich zgody;
 2° zakazu używania informacji uzyskanych w spowiedzi lub rozmowie duszpasterskiej;
 3° zakazu publicznego poniżania lub zawstydzania członków wspólnoty;
@@ -157,7 +157,7 @@
 
 ### Tytuł VI: Równość godności i komplementarność ról
 
-**Kan. 30 § 1.** Z racji odrodzenia w Chrystusie wszyscy wierni Kościoła Domowego są równi co do godności i działania (kan. 20 (hist.)8 KPK). Żadna funkcja, rola czy stanowisko w strukturze Kościoła Domowego nie daje przewagi ontologicznej jednej osoby nad drugą.
+**Kan. 30 § 1.** Z racji odrodzenia w Chrystusie wszyscy wierni Kościoła Domowego są równi co do godności i działania (kan. 8 KPK). Żadna funkcja, rola czy stanowisko w strukturze Kościoła Domowego nie daje przewagi ontologicznej jednej osoby nad drugą.
 
 **§ 2.** Każdemu z małżonków przysługują jednakowe obowiązki i prawa w tym, co dotyczy wspólnoty życia małżeńskiego (kan. 245 KPK). Podział ról funkcjonalnych (Głowa Rodu jako zarządzający, Małżonka jako nadzorująca) nie zmienia tej fundamentalnej równości.
 
@@ -174,7 +174,7 @@
 
 ### Tytuł VII: Ochrona godności, życia i zdrowia w Kościele Domowym
 
-**Kan. 32 § 1.** Kościół Domowy uznaje, że przyrodzona i niezbywalna godność człowieka stanowi źródło wolności i praw człowieka i obywatela. Jest ona nienaruszalna, a jej poszanowanie i ochrona jest obowiązkiem każdego członka wspólnoty (por. art. 30 Konstytucji RP, kan. 20 (hist.)8 KPK).
+**Kan. 32 § 1.** Kościół Domowy uznaje, że przyrodzona i niezbywalna godność człowieka stanowi źródło wolności i praw człowieka i obywatela. Jest ona nienaruszalna, a jej poszanowanie i ochrona jest obowiązkiem każdego członka wspólnoty (por. art. 30 Konstytucji RP, kan. 8 KPK).
 
 **§ 2.** Żadna struktura hierarchiczna Kościoła Domowego, żaden podział ról w Triarchii ani żadna tradycja Rodu nie może być użyta jako uzasadnienie dla naruszenia godności, wolności lub nietykalności cielesnej jakiegokolwiek członka wspólnoty.
 
@@ -275,9 +275,9 @@
 
 ### Tytuł IX: Najcięższy obowiązek i pierwsze prawo wychowania Potomstwa
 
-**Kan. 42 § 1.** Rodzice, ponieważ dali dzieciom życie, mają **najcięższy obowiązek i najpierwsze prawo** troszczenia się zgodnie, według swoich możliwości, o wychowanie potomstwa zarówno fizyczne, społeczne i kulturalne, jak i moralne oraz religijne (kan. 246 KPK, kan. 22 (hist.)6 § 2 KPK). Nauczanie cnót w Kościele Domowym jest nie tylko prawem, lecz najcięższym obowiązkiem rodziców; troska o chrześcijańskie wychowanie dzieci należy na pierwszym miejscu do chrześcijańskich rodziców, zgodnie z nauką przekazywaną przez Kościół (por. kan. 139 § 2, 774 § 2 KPK).
+**Kan. 42 § 1.** Rodzice, ponieważ dali dzieciom życie, mają **najcięższy obowiązek i najpierwsze prawo** troszczenia się zgodnie, według swoich możliwości, o wychowanie potomstwa zarówno fizyczne, społeczne i kulturalne, jak i moralne oraz religijne (kan. 246 KPK, kan. 6 § 2 KPK). Nauczanie cnót w Kościele Domowym jest nie tylko prawem, lecz najcięższym obowiązkiem rodziców; troska o chrześcijańskie wychowanie dzieci należy na pierwszym miejscu do chrześcijańskich rodziców, zgodnie z nauką przekazywaną przez Kościół (por. kan. 139 § 2, 774 § 2 KPK).
 
-**§ 2.** Obowiązek ten jest niezbywalny i nie może być w całości delegowany żadnej instytucji zewnętrznej. Rodzice mają prawo doboru środków i instytucji, przy pomocy których mogliby lepiej zadbać o katolickie wychowanie swoich dzieci (kan. 79 (hist.)3 § 1 KPK).
+**§ 2.** Obowiązek ten jest niezbywalny i nie może być w całości delegowany żadnej instytucji zewnętrznej. Rodzice mają prawo doboru środków i instytucji, przy pomocy których mogliby lepiej zadbać o katolickie wychowanie swoich dzieci (kan. 3 § 1 KPK).
 
 **§ 3.** Kościół Domowy jest **pierwszym seminarium** i **pierwszą szkołą cnót** dla Potomstwa. Dom rodzinny jest miejscem, gdzie dziecko po raz pierwszy doświadcza miłości, prawdy, sprawiedliwości i obecności Boga.
 

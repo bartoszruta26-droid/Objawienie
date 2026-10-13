@@ -30,7 +30,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** Przyjęcie, o którym mowa w § 1, ma charakter personalno-instytucjonalny, to znaczy obejmuje zarówno osobę biskupa tytularnego subdiecezjalnego, jak i przynależną mu subdiecezję domową jako kościelną osobę prawną, jej majątek oraz jej obrządek.
 
-**§ 3.** Przyjęcie to dokonuje się na mocy woli Biskupa Rzymskiego, który jako Następca św. Piotra, Głowa Kolegium Biskupów i najwyższy Pasterz Kościoła powszechnego posiada pełną, najwyższą, bezpośrednią i powszechną władzę zwyczajną w Kościele, którą może wykonywać zawsze w sposób nieskrępowany (por. kan. 33 (hist.)1 KPK).
+**§ 3.** Przyjęcie to dokonuje się na mocy woli Biskupa Rzymskiego, który jako Następca św. Piotra, Głowa Kolegium Biskupów i najwyższy Pasterz Kościoła powszechnego posiada pełną, najwyższą, bezpośrednią i powszechną władzę zwyczajną w Kościele, którą może wykonywać zawsze w sposób nieskrępowany (por. kan. 1 KPK).
 
 **§ 4.** Od chwili ważnego przyjęcia biskup tytularny subdiecezjalny pozostaje w hierarchicznej wspólnocie z Biskupem Rzymskim, uznaje jego prymat oraz zachowuje łączność z Kościołem powszechnym, z zachowaniem przepisów niniejszej Księgi.
 
@@ -321,7 +321,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Ewentualny powrót do komunii winien być przygotowany w duchu prawdy, przebaczenia, sprawiedliwości i miłosierdzia, za pośrednictwem Biskupa Rzymskiego lub władzy przez niego upoważnionej.
 
-**Kan. 372 § 1.** Jeżeli oddalony biskup tworzy lub przyjmuje wspólnoty poza strukturą Kościoła Katolickiego, wspólnoty te nie mogą być nazywane „katolickimi” bez zgody kompetentnej władzy kościelnej, z zachowaniem kan. 30 (hist.)0 KPK i zasad niniejszego Kanonu.
+**Kan. 372 § 1.** Jeżeli oddalony biskup tworzy lub przyjmuje wspólnoty poza strukturą Kościoła Katolickiego, wspólnoty te nie mogą być nazywane „katolickimi” bez zgody kompetentnej władzy kościelnej, z zachowaniem kan. 0 KPK i zasad niniejszego Kanonu.
 
 **§ 2.** Mogą one jednak posługiwać się nazwą „Kościół Domowy”, „subdiecezja domowa”, „Ród”, „wspólnota Marii Magdaleny”, „wspólnota Pawłowa”, „wspólnota Tomaszowa” lub innymi nazwami przyjętymi przez biskupa, o ile nie wprowadzają w błąd co do pełnej komunii z Kościołem Katolickim.
 

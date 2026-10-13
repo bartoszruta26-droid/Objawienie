@@ -56,7 +56,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Zasada rozmnażania dóbr duchowych opiera się na:
 
-1° powszechnym kapłaństwie wiernych wynikającym z sakramentu chrztu (por. kan. 20 (hist.)4 § 1 KPK; 1 P 2,9);
+1° powszechnym kapłaństwie wiernych wynikającym z sakramentu chrztu (por. kan. 4 § 1 KPK; 1 P 2,9);
 
 2° sakramencie małżeństwa, który czyni małżonków wzajemnymi szafarzami łaski;
 
@@ -100,7 +100,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° sprawowania obrzędów trzech obrządków domowych.
 
-**§ 3.** Tytuł kapłana domowego jest rozmnażalny. Może go posiadać wielu członków jednocześnie. Nie jest on tożsamy ze święceniami kapłańskimi w rozumieniu kan. 100 (hist.)8–1009 KPK, lecz wynika z powszechnego kapłaństwa wiernych i prawa naturalnego rodziny.
+**§ 3.** Tytuł kapłana domowego jest rozmnażalny. Może go posiadać wielu członków jednocześnie. Nie jest on tożsamy ze święceniami kapłańskimi w rozumieniu kan. 8–1009 KPK, lecz wynika z powszechnego kapłaństwa wiernych i prawa naturalnego rodziny.
 
 **Kan. 437 § 1.** Tytuł szafarza świętego przysługuje członkowi Kościoła Domowego, który:
 
@@ -142,7 +142,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Arcykapłan nie może odmówić rozmnażania tytułów bez słusznej przyczyny. Odmowa wymaga uzasadnienia na piśmie i może być zaskarżona przed Triarchią Domową lub biskupa tytularnego subdiecezjalnego.
 
-**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 434–438 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: patriarchat nad subdiecezjami domowymi (kan. 383–385), urząd Biskupa Rzymskiego (por. kan. 33 (hist.)1 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 36 (hist.)9 KPK) oraz urząd proboszcza w konkretnej parafii. *(odpowiednik dawnego kan. 700 § 3 — norma odsyłająca do Księgi VIII; zgodnie z przepisami tego kanonu obowiązuje niniejsze brzmienie)*
+**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 434–438 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: patriarchat nad subdiecezjami domowymi (kan. 383–385), urząd Biskupa Rzymskiego (por. kan. 1 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 9 KPK) oraz urząd proboszcza w konkretnej parafii. *(odpowiednik dawnego kan. 700 § 3 — norma odsyłająca do Księgi VIII; zgodnie z przepisami tego kanonu obowiązuje niniejsze brzmienie)*
 
 ## Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH
 
@@ -200,7 +200,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° Praw Człowieka — prawa do wolności sumienia, wyznania i zakładania wspólnot (art. 18, 20 Powszechnej Deklaracji Praw Człowieka);
 
-4° prawa kanonicznego — prawa wiernych do swobodnego zakładania stowarzyszeń (por. kan. 21 (hist.)5 KPK) i prawa rodziców do wychowania dzieci (por. kan. 139 § 2, 1136 KPK).
+4° prawa kanonicznego — prawa wiernych do swobodnego zakładania stowarzyszeń (por. kan. 5 KPK) i prawa rodziców do wychowania dzieci (por. kan. 139 § 2, 1136 KPK).
 
 **§ 3.** Założenie nowego Kościoła Domowego nie wymaga zezwolenia arcykapłana Kościoła macierzystego, lecz winno być dokonane z jego błogosławieństwem. W przypadku odmowy błogosławieństwa bez słusznej przyczyny członek może założyć Kościół Domowy bez niego, informując o tym biskupa tytularnego subdiecezjalnego.
 
@@ -270,7 +270,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Tytuł biskupa nieuświęconego:
 
-1° nie jest tożsamy ze święceniami biskupimi w rozumieniu kan. 100 (hist.)8, 1012–1014 KPK;
+1° nie jest tożsamy ze święceniami biskupimi w rozumieniu kan. 8, 1012–1014 KPK;
 
 2° nie daje władzy święceń biskupich (udzielania sakry, bierzmowania jako szafarz zwyczajny, konsekrowania kościołów);
 
@@ -354,7 +354,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° złożenie wyznania wiary i przysięgi wierności;
 
-5° poddanie się ocenie zdatności zgodnie z kan. 37 (hist.)8 KPK.
+5° poddanie się ocenie zdatności zgodnie z kan. 8 KPK.
 
 **Kan. 451 § 1.** W przypadku przyjęcia przez Biskupa Rzymskiego i udzielenia święceń biskupich:
 
@@ -362,7 +362,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° jego Kościół Domowy może zostać uznany jako parafia personalna, prałatura personalna lub inna forma wspólnoty kościelnej;
 
-3° subdiecezja domowa może zostać uznana jako diecezja, wikariat apostolski, prefektura apostolska lub administratura apostolska (por. kan. 281–37 (hist.)1 KPK);
+3° subdiecezja domowa może zostać uznana jako diecezja, wikariat apostolski, prefektura apostolska lub administratura apostolska (por. kan. 1 KPK);
 
 4° trzy obrządki domowe mogą zostać uznane jako własna tradycja liturgiczna wspólnoty;
 
@@ -370,7 +370,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Ustanowienie diecezji z subdiecezji domowej wymaga:
 
-1° mandatu Biskupa Rzymskiego (por. kan. 37 (hist.)3 KPK);
+1° mandatu Biskupa Rzymskiego (por. kan. 3 KPK);
 
 2° wystarczającej liczby wiernych;
 
@@ -384,7 +384,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 1° zachowują pełną autonomię w zakresie prawa naturalnego i niniejszego Kanonu;
 
-2° nie przypisują sobie tytułu „katolicki” bez zgody kompetentnej władzy (por. kan. 30 (hist.)0 KPK);
+2° nie przypisują sobie tytułu „katolicki” bez zgody kompetentnej władzy (por. kan. 0 KPK);
 
 3° nie sprawują sakramentów zastrzeżonych kapłanom wyświęconym;
 

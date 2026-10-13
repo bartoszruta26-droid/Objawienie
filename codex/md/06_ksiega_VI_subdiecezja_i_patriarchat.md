@@ -12,15 +12,15 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł I: BISKUP TYTULARNY SUBDIECEZJALNY
 
-**Kan. 319 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny w rozumieniu analogicznym do kan. 281-36 (hist.)9 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego. *(norma szczególna wobec przepisów Księgi III o prawie partykularnym i władzy rządzenia)*
+**Kan. 319 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny w rozumieniu analogicznym do kan. 9 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego. *(norma szczególna wobec przepisów Księgi III o prawie partykularnym i władzy rządzenia)*
 
 **§ 2.** Biskup tytularny subdiecezjalny:
-1° posiada władzę zwyczajną, własną i bezpośrednią w zakresie subdiecezji domowej, wymaganą do pasterskiego urzędu, z wyłączeniem spraw zarezerwowanych biskupowi diecezjalnemu lub najwyższej władzy kościelnej (por. kan. 38 (hist.)1 § 1 KPK, zastosowany analogicznie);
+1° posiada władzę zwyczajną, własną i bezpośrednią w zakresie subdiecezji domowej, wymaganą do pasterskiego urzędu, z wyłączeniem spraw zarezerwowanych biskupowi diecezjalnemu lub najwyższej władzy kościelnej (por. kan. 1 § 1 KPK, zastosowany analogicznie);
 2° podlega biskupowi diecezjalnemu w sprawach dotyczących dyscypliny kościelnej, sprawowania sakramentów i jedności z Kościołem partykularnym, na którego terytorium znajduje się subdiecezja domowa;
 3° podlega Biskupowi Rzymskiemu w sprawach dotyczących wiary, obyczajów i jedności Kościoła powszechnego;
 4° sprawuje władzę nauczania, uświęcania i kierowania w subdiecezji domowej w hierarchicznej wspólnocie z biskupem diecezjalnym i Biskupem Rzymskim.
 
-**§ 3.** Relacja biskupa tytularnego subdiecezjalnego do biskupa diecezjalnego jest analogiczna do relacji biskupa pomocniczego do biskupa diecezjalnego (por. kan. 316-41 (hist.)1 KPK), z tym że biskup tytularny subdiecezjalny sprawuje władzę w zakresie określonym niniejszym Kanonem i prawem naturalnym rodziny.
+**§ 3.** Relacja biskupa tytularnego subdiecezjalnego do biskupa diecezjalnego jest analogiczna do relacji biskupa pomocniczego do biskupa diecezjalnego (por. kan. 1 KPK), z tym że biskup tytularny subdiecezjalny sprawuje władzę w zakresie określonym niniejszym Kanonem i prawem naturalnym rodziny.
 
 **Kan. 320.** Posługa biskupa tytularnego subdiecezjalnego, jako arcykapłana Kościoła Domowego i szafarza świętego, zostaje przyjęta i uznana w Kościele Katolickim w granicach określonych przez Biskupa Rzymskiego oraz przepisy Księgi VII niniejszego Kanonu.
 
@@ -28,7 +28,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł II: SUBDIECEZJA DOMOWA JAKO KOŚCIÓŁ PARTYKULARNY
 
-**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa tytularnego subdiecezjalnego z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i sakramentalia, tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 36 (hist.)9 KPK, zastosowany analogicznie).
+**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa tytularnego subdiecezjalnego z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i sakramentalia, tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 9 KPK, zastosowany analogicznie).
 
 **§ 2.** Subdiecezja domowa jest podporządkowana diecezji, na której terytorium się znajduje. Biskup tytularny subdiecezjalny sprawuje władzę w subdiecezji domowej pod zwierzchnictwem biskupa diecezjalnego.
 
@@ -49,10 +49,10 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 **§ 2.** Każda „parafia domowa” ma własny charakter i specyfikę, lecz wszystkie trzy tworzą jedną subdiecezję domową pod władzą jednego biskupa tytularnego subdiecezjalnego.
 
 **Kan. 324.** Biskup tytularny subdiecezjalny ma obowiązek:
-1° rezydować w subdiecezji domowej (por. kan. 39 (hist.)5 KPK, zastosowany analogicznie);
+1° rezydować w subdiecezji domowej (por. kan. 5 KPK, zastosowany analogicznie);
 2° sprawować liturgię domową w niedziele i święta nakazane;
 3° wizytować członków wspólnoty przynajmniej raz w roku;
-4° składać sprawozdanie biskupowi diecezjalnemu ze stanu subdiecezji domowej co pięć lat (por. kan. 39 (hist.)9 KPK, zastosowany analogicznie);
+4° składać sprawozdanie biskupowi diecezjalnemu ze stanu subdiecezji domowej co pięć lat (por. kan. 9 KPK, zastosowany analogicznie);
 5° utrzymywać łączność z parafią, na której terytorium znajduje się subdiecezja domowa;
 6° zapewniać członkom wspólnoty dostęp do sakramentów w Kościele Powszechnym.
 
@@ -78,7 +78,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 **§ 3.** W przypadku konfliktu między prawem subdiecezji domowej a prawem diecezjalnym, pierwszeństwo przysługuje prawu diecezjalnemu, chyba że prawo diecezjalne jest sprzeczne z Prawem Bożym lub Naturalnym (por. kan. 72–74 Księgi III).
 
 **Kan. 326.** Biskup diecezjalny ma prawo:
-1° wizytować subdiecezję domową (por. kan. 309-39 (hist.)8 KPK, zastosowany analogicznie);
+1° wizytować subdiecezję domową (por. kan. 8 KPK, zastosowany analogicznie);
 2° wydawać zarządzenia dotyczące dyscypliny kościelnej obowiązujące w subdiecezji domowej;
 3° rozstrzygać spory między biskupem tytularnym subdiecezjalnym a członkami wspólnoty;
 4° przyjmować odwołania od decyzji biskupa tytularnego subdiecezjalnego;
@@ -95,7 +95,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł IV: USTANOWIENIE PATRIARCHATU
 
-**Kan. 328 § 1.** Zgodnie z Kodeksem Kanonów Kościołów Wschodnich (CCEO), Biskup Rzymski ma prawo ustanawiać, zmieniać i znosić patriarchaty (por. kan. 76–7 (hist.)8 CCEO, kompetencja Stolicy Apostolskiej w przedmiocie erygowania i zmiany struktur hierarchicznych Kościołów patriarchalnych). Na mocy tego prawa i woli Biskupa Rzymskiego, ustanawia się Patriarchat Subdiecezji Domowych jako strukturę hierarchiczną obejmującą wszystkie subdiecezje domowe Kościoła Domowego.
+**Kan. 328 § 1.** Zgodnie z Kodeksem Kanonów Kościołów Wschodnich (CCEO), Biskup Rzymski ma prawo ustanawiać, zmieniać i znosić patriarchaty (por. kan. 8 CCEO, kompetencja Stolicy Apostolskiej w przedmiocie erygowania i zmiany struktur hierarchicznych Kościołów patriarchalnych). Na mocy tego prawa i woli Biskupa Rzymskiego, ustanawia się Patriarchat Subdiecezji Domowych jako strukturę hierarchiczną obejmującą wszystkie subdiecezje domowe Kościoła Domowego.
 
 **§ 2.** Patriarchat Subdiecezji Domowych jest wspólnotą subdiecezji domowych, które pod przewodnictwem patriarchy sprawują posługę pasterską wobec wiernych Kościoła Domowego, zachowując jedność z Kościołem powszechnym i podlegając Biskupowi Rzymskiemu.
 
@@ -138,7 +138,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł V: SYNOD PATRIARCHATU
 
-**Kan. 332 § 1.** Synod Patriarchatu Subdiecezji Domowych jest zebraniem biskupów tytularnych subdiecezjalnych oraz wybranych przedstawicieli wspólnot domowych, którzy dla dobra całego patriarchatu świadczą pomoc patriarsze (por. kan. 46 (hist.)0 KPK, zastosowany analogicznie).
+**Kan. 332 § 1.** Synod Patriarchatu Subdiecezji Domowych jest zebraniem biskupów tytularnych subdiecezjalnych oraz wybranych przedstawicieli wspólnot domowych, którzy dla dobra całego patriarchatu świadczą pomoc patriarsze (por. kan. 0 KPK, zastosowany analogicznie).
 
 **§ 2.** Synod Patriarchatu powinien odbywać się przynajmniej raz w roku, a także wtedy, gdy zdaniem patriarchy i po wysłuchaniu Triarchii Domowej, doradzają to okoliczności. Przepisy o synodzie wyborczym zawiera Księga VIII, Tytuł III.
 
@@ -149,7 +149,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 4° przedstawiciele Triarchii Domowych każdej subdiecezji;
 5° inne osoby zaproszone przez patriarchę.
 
-**Kan. 334.** Synod Patriarchatu posiada jedynie głos doradczy. Patriarcha powinien wysłuchać jego zdania w ważniejszych sprawach. Jedynym ustawodawcą na Synodzie Patriarchatu jest patriarcha, który sam podpisuje dekrety synodalne (por. kan. 46 (hist.)6 KPK, zastosowany analogicznie).
+**Kan. 334.** Synod Patriarchatu posiada jedynie głos doradczy. Patriarcha powinien wysłuchać jego zdania w ważniejszych sprawach. Jedynym ustawodawcą na Synodzie Patriarchatu jest patriarcha, który sam podpisuje dekrety synodalne (por. kan. 6 KPK, zastosowany analogicznie).
 
 ---
 
@@ -180,13 +180,13 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 2° na skutek rezygnacji przyjętej przez patriarchę;
 3° na skutek usunięcia przez patriarchę za zgodą Biskupa Rzymskiego;
 4° na skutek utraty wspólnoty z Kościołem katolickim;
-5° po osiągnięciu siedemdziesiątego piątego roku życia, jeśli złoży rezygnację (por. kan. 40 (hist.)1 § 1 KPK, zastosowany analogicznie).
+5° po osiągnięciu siedemdziesiątego piątego roku życia, jeśli złoży rezygnację (por. kan. 1 § 1 KPK, zastosowany analogicznie).
 
 ---
 
 ## Tytuł VII: RELACJA PATRIARCHATU DO KOŚCIOŁA POWSZECHNEGO
 
-**Kan. 338 § 1.** Patriarchat Subdiecezji Domowych pozostaje w pełnej wspólnocie z Kościołem Katolickim i uznaje najwyższą władzę Biskupa Rzymskiego (por. kan. 33 (hist.)1 KPK).
+**Kan. 338 § 1.** Patriarchat Subdiecezji Domowych pozostaje w pełnej wspólnocie z Kościołem Katolickim i uznaje najwyższą władzę Biskupa Rzymskiego (por. kan. 1 KPK).
 
 **§ 2.** Patriarcha ma obowiązek:
 1° utrzymywać łączność z Biskupem Rzymskim;

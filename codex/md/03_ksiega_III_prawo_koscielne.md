@@ -15,9 +15,9 @@
 **§ 2.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by wszyscy członkowie wspólnoty domowej znali treść ustaw powszechnych dotyczących ich stanu i obowiązków, w szczególności:
 1° ustaw dotyczących sakramentów i sakramentaliów;
 2° ustaw dotyczących kultu Bożego i roku liturgicznego;
-3° ustaw dotyczących obowiązków i praw wiernych (kan. 121-23 (hist.)1 KPK);
+3° ustaw dotyczących obowiązków i praw wiernych (kan. 1 KPK);
 4° ustaw dotyczących małżeństwa i rodziny (kan. 185-1165 KPK);
-5° ustaw dotyczących nauczania i formacji (kan. 747-83 (hist.)3 KPK).
+5° ustaw dotyczących nauczania i formacji (kan. 3 KPK).
 
 **Kan. 50 § 1.** Ustawy powszechne Kościoła, które nie obowiązują na określonym terytorium, nie wiążą członków Kościoła Domowego aktualnie przebywających poza tym terytorium (por. kan. 12 § 2 KPK).
 
@@ -158,7 +158,7 @@
 
 **Kan. 84.** Warunki dodane do aktu administracyjnego dotyczącego Kościoła Domowego tylko wtedy wymagane są do ważności, gdy są wyrażone partykułą: *jeśli*, *chyba że*, *o ile* (por. kan. 39 KPK).
 
-**Kan. 85.** Wykonawca aktu administracyjnego dotyczącego Kościoła Domowego winien postępować zgodnie z treścią zlecenia. Nieważne zaś jest wykonanie aktu, jeżeli nie wypełnił istotnych warunków podanych w piśmie i nie zachował istotnej formy postępowania (por. kan. 41-4 (hist.)2 KPK).
+**Kan. 85.** Wykonawca aktu administracyjnego dotyczącego Kościoła Domowego winien postępować zgodnie z treścią zlecenia. Nieważne zaś jest wykonanie aktu, jeżeli nie wypełnił istotnych warunków podanych w piśmie i nie zachował istotnej formy postępowania (por. kan. 2 KPK).
 
 **Kan. 86.** Akt administracyjny nie traci mocy z chwilą ustania prawa tego, który go wydał, chyba że co innego wyraźnie w prawie zastrzeżono (por. kan. 46 KPK).
 
@@ -269,7 +269,7 @@
 
 **Kan. 117 § 1.** Kościół Domowy uznaje, że władza rządzenia, która jest w Kościele z Bożego ustanowienia i nazywana jest również władzą jurysdykcji, przysługuje w zakresie powszechnym Biskupowi Rzymskiemu i Kolegium Biskupów, a w zakresie partykularnym biskupom diecezjalnym i innym przełożonym kościelnym zgodnie z prawem (por. kan. 129 KPK).
 
-**§ 2.** Głowa Rodu jako biskup domowy, wyświęcony i przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie diecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów (por. kan. 37 (hist.)5 § 2 KPK).
+**§ 2.** Głowa Rodu jako biskup domowy, wyświęcony i przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie diecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów (por. kan. 5 § 2 KPK).
 
 **§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
 
@@ -282,29 +282,29 @@
 
 **Kan. 120.** W tym, co dotyczy posługiwania się władzą wykonawczą w Kościele Domowym, należy zachować przepisy kanonów 136-144 KPK, zastosowane analogicznie do warunków wspólnoty domowej.
 
-**Kan. 121.** W przypadku błędu powszechnego, faktycznego czy prawnego, a także w przypadku wątpliwości pozytywnej i prawdopodobnej, prawnej lub faktycznej, Kościół uzupełnia wykonawczą władzę rządzenia Głowy Rodu, zarówno w zakresie zewnętrznym, jak i wewnętrznym (por. kan. 14 (hist.)4 § 1 KPK).
+**Kan. 121.** W przypadku błędu powszechnego, faktycznego czy prawnego, a także w przypadku wątpliwości pozytywnej i prawdopodobnej, prawnej lub faktycznej, Kościół uzupełnia wykonawczą władzę rządzenia Głowy Rodu, zarówno w zakresie zewnętrznym, jak i wewnętrznym (por. kan. 4 § 1 KPK).
 
 ## Tytuł VII: URZĘDY KOŚCIELNE W KOŚCIELE DOMOWYM
 
-**Kan. 122 § 1.** Kościół Domowy uznaje, że urząd kościelny jest jakimkolwiek ustanowionym na stałe zadaniem z postanowienia czy to Bożego, czy kościelnego dla realizacji celu duchowego (por. kan. 14 (hist.)5 § 1 KPK).
+**Kan. 122 § 1.** Kościół Domowy uznaje, że urząd kościelny jest jakimkolwiek ustanowionym na stałe zadaniem z postanowienia czy to Bożego, czy kościelnego dla realizacji celu duchowego (por. kan. 5 § 1 KPK).
 
-**§ 2.** Obowiązki i prawa właściwe każdemu urzędowi kościelnemu w Kościele Domowym są określane albo samym prawem, którym urząd ustanowiono, albo dekretem kompetentnej władzy domowej, którym jest on równocześnie ustanowiony i nadany (por. kan. 14 (hist.)5 § 2 KPK).
+**§ 2.** Obowiązki i prawa właściwe każdemu urzędowi kościelnemu w Kościele Domowym są określane albo samym prawem, którym urząd ustanowiono, albo dekretem kompetentnej władzy domowej, którym jest on równocześnie ustanowiony i nadany (por. kan. 5 § 2 KPK).
 
-**Kan. 123.** Powierzenie urzędów domowych dokonuje się poprzez swobodne nadanie przez Głowę Rodu jako kompetentną władzę kościelną (por. kan. 14 (hist.)7 KPK).
+**Kan. 123.** Powierzenie urzędów domowych dokonuje się poprzez swobodne nadanie przez Głowę Rodu jako kompetentną władzę kościelną (por. kan. 7 KPK).
 
-**Kan. 124.** Ażeby urząd kościelny w Kościele Domowym można komuś powierzyć, powinien on pozostawać we wspólnocie Kościoła i być zdatnym, czyli posiadać przymioty wymagane do tego urzędu prawem powszechnym, partykularnym lub fundacyjnym (por. kan. 14 (hist.)9 § 1 KPK).
+**Kan. 124.** Ażeby urząd kościelny w Kościele Domowym można komuś powierzyć, powinien on pozostawać we wspólnocie Kościoła i być zdatnym, czyli posiadać przymioty wymagane do tego urzędu prawem powszechnym, partykularnym lub fundacyjnym (por. kan. 9 § 1 KPK).
 
-**Kan. 125.** Powierzenia urzędu dokonane symoniacko jest nieważne z mocy samego prawa (por. kan. 14 (hist.)9 § 3 KPK). Kościół Domowy stanowczo odrzuca wszelkie formy symonii.
+**Kan. 125.** Powierzenia urzędu dokonane symoniacko jest nieważne z mocy samego prawa (por. kan. 9 § 3 KPK). Kościół Domowy stanowczo odrzuca wszelkie formy symonii.
 
-**Kan. 126.** Każde powierzenie urzędu domowego powinno być dokonane na piśmie (por. kan. 15 (hist.)6 KPK).
+**Kan. 126.** Każde powierzenie urzędu domowego powinno być dokonane na piśmie (por. kan. 6 KPK).
 
-**Kan. 127.** Urząd kościelny w Kościele Domowym traci się po upływie wyznaczonego czasu, po osiągnięciu określonego prawem wieku, na skutek rezygnacji, przeniesienia, usunięcia a także pozbawienia (por. kan. 18 (hist.)4 § 1 KPK).
+**Kan. 127.** Urząd kościelny w Kościele Domowym traci się po upływie wyznaczonego czasu, po osiągnięciu określonego prawem wieku, na skutek rezygnacji, przeniesienia, usunięcia a także pozbawienia (por. kan. 4 § 1 KPK).
 
 ## Tytuł VIII: PRZEDAWNIENIE W ODNIESIENIU DO PRAWA KOŚCIELNEGO
 
-**Kan. 128.** Przedawnienie jako sposób nabycia lub utraty prawa subiektywnego, jak również uwolnienia się od obowiązków, Kościół Domowy przyjmuje takie, jakie jest w ustawodawstwie cywilnym danego kraju, z zachowaniem wyjątków ustanowionych w kanonach KPK (por. kan. 19 (hist.)7 KPK).
+**Kan. 128.** Przedawnienie jako sposób nabycia lub utraty prawa subiektywnego, jak również uwolnienia się od obowiązków, Kościół Domowy przyjmuje takie, jakie jest w ustawodawstwie cywilnym danego kraju, z zachowaniem wyjątków ustanowionych w kanonach KPK (por. kan. 7 KPK).
 
-**Kan. 129.** Przedawnienie jest ważne, jeśli opiera się na dobrej wierze, nie tylko na początku, lecz przez cały przeciąg czasu wymagany do zaistnienia przedawnienia (por. kan. 19 (hist.)8 KPK).
+**Kan. 129.** Przedawnienie jest ważne, jeśli opiera się na dobrej wierze, nie tylko na początku, lecz przez cały przeciąg czasu wymagany do zaistnienia przedawnienia (por. kan. 8 KPK).
 
 **Kan. 130.** Nie podlegają przedawnieniu w Kościele Domowym:
 1° prawa i obowiązki wynikające z prawa Bożego naturalnego lub pozytywnego;
@@ -313,11 +313,11 @@
 4° ustalone i niewątpliwe granice diecezji domowej;
 5° stypendia i zobowiązania mszalne;
 6° powierzenie urzędu kościelnego, którego wykonywanie zgodnie z przepisami prawa wymaga święceń;
-7° prawo wizytacji i obowiązek posłuszeństwa (por. kan. 19 (hist.)9 KPK).
+7° prawo wizytacji i obowiązek posłuszeństwa (por. kan. 9 KPK).
 
 ## Tytuł IX: OBLICZANIE CZASU
 
-**Kan. 131.** Jeśli prawo czego innego wyraźnie nie zastrzega, czas w Kościele Domowym należy liczyć zgodnie z postanowieniami kan. 113-20 (hist.)3 KPK:
+**Kan. 131.** Jeśli prawo czego innego wyraźnie nie zastrzega, czas w Kościele Domowym należy liczyć zgodnie z postanowieniami kan. 3 KPK:
 1° czas ciągły należy rozumieć jako niedopuszczający żadnej przerwy;
 2° czas użyteczny należy rozumieć, że wykonującemu lub dochodzącemu swego prawa tak przysługuje, iż dla niewiedzącego albo niemogącego działać nie płynie;
 3° dzień oznacza stały czasokres obejmujący 24 kolejno liczone godziny i zaczyna się od północy;
@@ -342,7 +342,7 @@
 **Kan. 133 § 1.** Kościół Domowy respektuje w szczególności następujące obszary prawa powszechnego:
 1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-295 KPK);
 2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliów i pogrzebu kościelnego (kan. 834-383 KPK);
-3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 747-83 (hist.)3 KPK);
+3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 3 KPK);
 4° **Prawo małżeńskie** — wszystkie przepisy dotyczące małżeństwa, jego zawierania, przeszkód, zgody, formy, skutków i separacji (kan. 185-1165 KPK);
 5° **Prawo karne** — przepisy dotyczące przestępstw i kar w Kościele (kan. 441-1399 KPK);
 6° **Prawo procesowe** — przepisy dotyczące postępowań sądowych i administracyjnych (kan. 530-1752 KPK);
@@ -390,7 +390,7 @@
 
 **§ 2.** Głowa Rodu jako biskup domowy ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym Kościoła Domowego.
 
-**Kan. 138.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 309-39 (hist.)8 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
+**Kan. 138.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 8 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
 
 ## Tytuł XII: PRZEPISY KOŃCOWE
 

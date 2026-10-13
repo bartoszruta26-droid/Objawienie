@@ -8,7 +8,7 @@
 
 ## Tytuł I: LITURGIA DOMOWA
 
-**Kan. 144 § 1.** Liturgia domowa jest sprawowaniem kapłańskiego zadania Jezusa Chrystusa w przestrzeni domowej. W niej poprzez znaki widzialne ukazuje się i dokonuje uświęcenie członków wspólnoty (por. kan. 83 (hist.)4 KPK, zastosowane analogicznie).
+**Kan. 144 § 1.** Liturgia domowa jest sprawowaniem kapłańskiego zadania Jezusa Chrystusa w przestrzeni domowej. W niej poprzez znaki widzialne ukazuje się i dokonuje uświęcenie członków wspólnoty (por. kan. 4 KPK, zastosowane analogicznie).
 
 **§ 2.** Liturgia domowa obejmuje:
 1° Liturgię Godzin w wymiarze domowym;
@@ -309,13 +309,13 @@
 
 **Kan. 182 § 1.** Cnoty w Kościele Domowym rozumiane są jako trwałe dyspozycje duchowe, moralne i intelektualne, które uzdalniają wiernych do działania zgodnego z Prawem Bożym i Naturalnym. Cnoty te są zarówno darem łaski, jak i owocem osobistego wysiłku formacyjnego.
 
-**§ 2.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 296 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 83 (hist.)5 § 4 KPK) oraz prawa naturalnego.
+**§ 2.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 296 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 5 § 4 KPK) oraz prawa naturalnego.
 
 **§ 3.** Dary Ducha Świętego w Kościele Domowym rozumiane są jako stałe dyspozycje, które czynią człowieka uległym wobec poruszeń Ducha Świętego (por. KKK 1830-1831). Wierni Kościoła Domowego mają prawo i obowiązek prosić o te Dary, przyjmować je i rozwijać w codziennym życiu.
 
 **§ 4.** Charyzmaty w Kościele Domowym rozumiane są jako szczególne łaski Ducha Świętego udzielane wiernym dla budowania Ciała Chrystusowego i dobra wspólnoty (por. kan. 117 § 1, 211, 215 KPK). Głowa Rodu jako biskup domowy ma prawo i obowiązek rozpoznawać, potwierdzać, zachęcać do rozwoju i koordynować charyzmaty wśród członków wspólnoty.
 
-**Kan. 183 § 1.** Każdy wierny Kościoła Domowego, na mocy sakramentu chrztu i bierzmowania, posiada prawo i obowiązek rozwijania cnót, przyjmowania Darów Ducha Świętego i korzystania z charyzmatów dla dobra własnego i wspólnoty (por. kan. 121, 123, 21 (hist.)1 KPK).
+**Kan. 183 § 1.** Każdy wierny Kościoła Domowego, na mocy sakramentu chrztu i bierzmowania, posiada prawo i obowiązek rozwijania cnót, przyjmowania Darów Ducha Świętego i korzystania z charyzmatów dla dobra własnego i wspólnoty (por. kan. 1 KPK).
 
 **§ 2.** Głowa Rodu jako biskup domowy ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, sakramentaliów, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
 
@@ -327,7 +327,7 @@
 1° winny być zgodne z nauką Kościoła Katolickiego i Magisterium;
 2° nie mogą zastępować sakramentów sprawowanych przez kapłanów wyświęconych;
 3° winny być sprawowane z godnością, powagą i należytym przygotowaniem;
-4° nie mogą być przedmiotem handlu ani symonii (por. kan. 84 (hist.)8 KPK);
+4° nie mogą być przedmiotem handlu ani symonii (por. kan. 8 KPK);
 5° winny respektować wolność sumienia każdego członka wspólnoty;
 6° nie mogą być narzucane wbrew woli osoby zainteresowanej.
 
@@ -606,12 +606,12 @@
 **§ 3.** Sakramentalia te nie zastępują sakramentów świętych, lecz je przedłużają, przygotowują do nich i pogłębiają ich owoce w codziennym życiu rodzinnym.
 
 **Kan. 204 § 1.** Szafarzem sakramentaliów w Kościele Domowym jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy:
-1° powszechnego kapłaństwa wiernych wynikającego z sakramentu chrztu (por. kan. 20 (hist.)4 § 1 KPK);
+1° powszechnego kapłaństwa wiernych wynikającego z sakramentu chrztu (por. kan. 4 § 1 KPK);
 2° sakramentu małżeństwa, który czyni małżonków wzajemnymi szafarzami łaski;
 3° prawa naturalnego uznającego ojca za kapłana ogniska domowego;
 4° objawionej misji i nominacji Bożej;
-5° kan. 23 (hist.)0 § 3 KPK (funkcje liturgiczne świeckich w przypadku konieczności);
-6° kan. 86 (hist.)1 § 2 KPK (udzielanie chrztu w przypadku konieczności).
+5° kan. 0 § 3 KPK (funkcje liturgiczne świeckich w przypadku konieczności);
+6° kan. 1 § 2 KPK (udzielanie chrztu w przypadku konieczności).
 
 **§ 2.** Małżonka jako współszafarka łaski może sprawować sakramentalia domowe:
 1° w nieobecności Głowy Rodu;
@@ -1074,7 +1074,7 @@
 
 ### Rozdział I: Szafarz i warunki sprawowania sakramentaliów narzędziowych
 
-**Kan. 242 § 1.** Szafarzem sakramentaliów narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 20 (hist.)4 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
+**Kan. 242 § 1.** Szafarzem sakramentaliów narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 4 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
 
 **§ 2.** Małżonka jako współszafarka łaski może błogosławić narzędzia pracy domowej (misę, igłę, grzebień) w nieobecności Głowy Rodu lub za jego delegacją.
 
@@ -1459,7 +1459,7 @@
 5° traktowane z najwyższym szacunkiem i czcią;
 6° odnawiane w błogosławieństwie przynajmniej raz w roku.
 
-**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia sakramentaliów kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 298 KPK, kan. 23 (hist.)0 § 3 KPK).
+**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia sakramentaliów kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 298 KPK, kan. 0 § 3 KPK).
 
 **§ 2.** Małżonka jako współszafarka łaski może błogosławić sakramentalia kultowe w nieobecności Głowy Rodu lub za jego delegacją.
 
