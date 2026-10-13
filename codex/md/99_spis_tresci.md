@@ -12,8 +12,8 @@
 | [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 406–431 |
 | [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 432–466 |
 | [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 467–520 |
-| [`10_ksiega_IX_rozmnazanie_dobr.md`](./10_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 521–549 |
-| [`11_ksiega_X_nieruchomosci.md`](./11_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 550–578 |
+| [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 521–549 |
+| [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 550–578 |
 
 ## Księga I — Normy Ogólne
 -   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–10 (kan. 6–8 *vacat*)
