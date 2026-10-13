@@ -2,18 +2,18 @@
 
 ## *De Ecclesiae Ministris in Ecclesia Domestica*
 
-*(Redakcja: dawna „Księga XIV” z pliku `ksiegi05.txt`, dotycząca posługi kapłańskiej, szafarstwa świętego i biskupstwa domowego oraz współudziału Małżonki i Potomka. Tematycznie należy ona do Księgi o Ludzie Bożym (urzędy i posługi), toteż otrzymała rangę Księgi V i następuje po prawie liturgicznym. Poprawiony Kan. 444 źródła scalono z kan. 121 Księgi II (równość godności) — poniżej zachowano jedynie brzmienie uzupełniające, bez powtórzenia normy już wypowiedzianej. Dawny Kan. 444a oznaczony w źródle literą „a” otrzymał numer właściwy. Literówkę „Głowa Rodzu” ujednolicono w całym tekście na „Głowa Rodu”.)*
+*(Redakcja: dawna „Księga XIV” z pliku `ksiegi05.txt`, dotycząca posługi kapłańskiej, szafarstwa świętego i biskupstwa domowego oraz współudziału Małżonki i Potomka. Tematycznie należy ona do Księgi o Ludzie Bożym (urzędy i posługi), toteż otrzymała rangę Księgi V i następuje po prawie liturgicznym. Poprawiony Kan. 357 źródła scalono z kan. 34 Księgi II (równość godności) — poniżej zachowano jedynie brzmienie uzupełniające, bez powtórzenia normy już wypowiedzianej. Dawny Kan. 357a oznaczony w źródle literą „a” otrzymał numer właściwy. Literówkę „Głowa Rodzu” ujednolicono w całym tekście na „Głowa Rodu”.)*
 
 ### PREAMBUŁA KSIĘGI
 
-Niniejsza Księga stanowi rozwinięcie kan. 121–135 (Triarchia Domowa) oraz przepisów pokrewnych Kanonu Prawa Kanonicznego Kościoła Domowego. Ustanawia ona szczegółowe normy dotyczące współudziału Małżonki i Potomka w posłudze kapłańskiej, szafarstwie świętym i biskupstwie domowym Głowy Rodu, z poszanowaniem powszechnego kapłaństwa wiernych (por. kan. 204 § 1, 208, 835 § 4 KPK), apostolstwa świeckich (por. kan. 225-231 KPK) oraz misyjnego charakteru Ludu Bożego (por. kan. 211, 781 KPK).
+Niniejsza Księga stanowi rozwinięcie kan. 34–48 (Triarchia Domowa) oraz przepisów pokrewnych Kanonu Prawa Kanonicznego Kościoła Domowego. Ustanawia ona szczegółowe normy dotyczące współudziału Małżonki i Potomka w posłudze kapłańskiej, szafarstwie świętym i biskupstwie domowym Głowy Rodu, z poszanowaniem powszechnego kapłaństwa wiernych (por. kan. 117 § 1, 208, 835 § 4 KPK), apostolstwa świeckich (por. kan. 138-23 (hist.)1 KPK) oraz misyjnego charakteru Ludu Bożego (por. kan. 124, 78 (hist.)1 KPK).
 
 Podstawą teologiczną niniejszych przepisów jest:
-1° Powszechne kapłaństwo wiernych wynikające z sakramentu chrztu, przez które wszyscy ochrzczeni „stają się uczestnikami kapłańskiego, prorockiego i królewskiego posłannictwa Chrystusa” (kan. 204 § 1 KPK; *Lumen Gentium* 10);
-2° Sakrament małżeństwa, który czyni małżonków „wzajemnymi szafarzami łaski” i „konsekruje ich do obowiązków swego stanu” (kan. 1055 § 1, 1134 KPK);
+1° Powszechne kapłaństwo wiernych wynikające z sakramentu chrztu, przez które wszyscy ochrzczeni „stają się uczestnikami kapłańskiego, prorockiego i królewskiego posłannictwa Chrystusa” (kan. 20 (hist.)4 § 1 KPK; *Lumen Gentium* 10);
+2° Sakrament małżeństwa, który czyni małżonków „wzajemnymi szafarzami łaski” i „konsekruje ich do obowiązków swego stanu” (kan. 185 § 1, 1134 KPK);
 3° Prawo naturalne, które uznaje rodzinę jako pierwszą wspólnotę kultu, w której ojciec i matka są kapłanami domowego ogniska;
 4° Apostolstwo świeckich, które „jest uczestnictwem w samej zbawczej misji Kościoła” (*Apostolicam Actuositatem* 3);
-5° Misyjny charakter Ludu Bożego, który „ze swej natury jest misyjny” (*Ad Gentes* 2; kan. 781 KPK);
+5° Misyjny charakter Ludu Bożego, który „ze swej natury jest misyjny” (*Ad Gentes* 2; kan. 78 (hist.)1 KPK);
 6° Objawiona hierarchia poziomów, w której Rodzina (Ojciec, Matka, Potomek) na poziomie 17 jest obrazem Trójcy Świętej (poziom 8), a Małżeństwo (Mąż, Żona, Dziecko) na poziomie 21 jest przymierzem odzwierciedlającym miłość Boga do ludzkości;
 7° Trzy obrządki domowe: Kościół Rodzinny Marii Magdaleny, Kościół Ducha Świętego Pawłowy i Kościół Osobowy Tomaszowy, które stanowią pełnię życia duchowego wspólnoty domowej.
 
@@ -23,20 +23,20 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ## Tytuł I: ZASADY OGÓLNE WSPÓŁUDZIAŁU W POSŁUDZE KAPŁAŃSKIEJ
 
-**Kan. 376 § 1.** *(uzupełnienie kan. 121)* Głowa Rodu jako biskup domowy, arcykapłan i szafarz święty sprawuje swoją posługę nie jako wyłączny posiadacz władzy duchowej, lecz jako pierwszy wśród równych (*primus inter pares*), w duchu służby i wzajemnego oddania.
+**Kan. 289 § 1.** *(uzupełnienie kan. 34)* Głowa Rodu jako biskup domowy, arcykapłan i szafarz święty sprawuje swoją posługę nie jako wyłączny posiadacz władzy duchowej, lecz jako pierwszy wśród równych (*primus inter pares*), w duchu służby i wzajemnego oddania.
 
 **§ 2.** Małżonka jako współszafarka łaski, na mocy sakramentu małżeństwa i prawa naturalnego, uczestniczy w pełni w kapłaństwie domowym Głowy Rodu. Jej współudział nie jest delegacją ani przywilejem, lecz prawem wynikającym z samej natury przymierza małżeńskiego i powszechnego kapłaństwa wiernych.
 
 **§ 3.** Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), uczestniczy w kapłaństwie domowym stosownie do swojego wieku i dojrzałości, jako dziedzic tradycji Rodu i świadek wiary.
 
 **§ 4.** Współudział Małżonki i Potomka w posłudze kapłańskiej Głowy Rodu jest wyrazem:
-1° powszechnego kapłaństwa wiernych (kan. 204 § 1, 835 § 4 KPK);
-2° apostolstwa świeckich (kan. 225 KPK);
-3° misyjnego posłannictwa Ludu Bożego (kan. 211, 781 KPK);
+1° powszechnego kapłaństwa wiernych (kan. 117 § 1, 835 § 4 KPK);
+2° apostolstwa świeckich (kan. 22 (hist.)5 KPK);
+3° misyjnego posłannictwa Ludu Bożego (kan. 124, 78 (hist.)1 KPK);
 4° prawa naturalnego rodziny jako pierwszej wspólnoty kultu;
 5° sakramentalnej godności małżeństwa jako obrazu miłości Chrystusa do Kościoła.
 
-**Kan. 377 § 1.** Kapłaństwo domowe w Kościele Domowym jest sprawowane kolegialnie przez Triarchię Domową: Głowę Rodu jako arcykapłana i przewodniczącego, Małżonkę jako współszafarkę i nadzorującą, oraz Potomka jako uczestnika i świadka.
+**Kan. 290 § 1.** Kapłaństwo domowe w Kościele Domowym jest sprawowane kolegialnie przez Triarchię Domową: Głowę Rodu jako arcykapłana i przewodniczącego, Małżonkę jako współszafarkę i nadzorującą, oraz Potomka jako uczestnika i świadka.
 
 **§ 2.** Żadne działanie liturgiczne, sakramentalne ani pasterskie w Kościele Domowym nie powinno być podejmowane przez Głowę Rodu bez wysłuchania Małżonki, z wyjątkiem przypadków naglącej konieczności.
 
@@ -50,7 +50,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział I: Wspomaganie w kapłaństwie domowym
 
-**Kan. 378 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w kapłaństwie domowym jako współszafarka łaski, współkapłanka domowego ogniska i partnerka przymierza. Wspomaganie to obejmuje:
+**Kan. 291 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w kapłaństwie domowym jako współszafarka łaski, współkapłanka domowego ogniska i partnerka przymierza. Wspomaganie to obejmuje:
 1° współuczestnictwo w sprawowaniu liturgii domowej;
 2° współprowadzenie modlitwy wspólnotowej;
 3° współbłogosławienie członków rodziny;
@@ -59,7 +59,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 6° współdecydowanie o formach i treściach kultu domowego;
 7° współnauczanie cnót i prawd wiary.
 
-**Kan. 379 § 1.** W obrzędach liturgicznych Kościoła Domowego Małżonka może:
+**Kan. 292 § 1.** W obrzędach liturgicznych Kościoła Domowego Małżonka może:
 1° prowadzić modlitwę wiernych i modlitwy wstawiennicze;
 2° czytać Pismo Święte podczas celebracji domowych;
 3° śpiewać psalmy i pieśni liturgiczne;
@@ -70,7 +70,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział II: Wspomaganie w szafarstwie świętym
 
-**Kan. 380 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w szafarstwie świętym jako współszafarka sakramentaliów i błogosławieństw. Wspomaganie to obejmuje:
+**Kan. 293 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w szafarstwie świętym jako współszafarka sakramentaliów i błogosławieństw. Wspomaganie to obejmuje:
 1° przygotowanie materii sakramentaliów (wody, soli, chleba, popiołu, oleju, świecy, ziemi);
 2° udział w obrzędach błogosławieństw przez odpowiedź, gest i modlitwę;
 3° składanie próśb o błogosławieństwo dla członków wspólnoty;
@@ -79,7 +79,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 6° troskę o godność i estetykę przestrzeni kultu domowego;
 7° modlitwę wstawienniczą za całą wspólnotę Rodu.
 
-**Kan. 381 § 1.** Małżonka jako współszafarka święta ma prawo i obowiązek:
+**Kan. 294 § 1.** Małżonka jako współszafarka święta ma prawo i obowiązek:
 1° otrzymywać wyjaśnienia dotyczące sprawowanych obrzędów;
 2° być informowaną o planowanych celebracjach i błogosławieństwach;
 3° wnosić propozycje co do formy i treści kultu domowego;
@@ -89,7 +89,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział III: Wspomaganie w biskupstwie domowym
 
-**Kan. 382 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w biskupstwie domowym jako współpasterka, współnauczycielka i współzarządczyni diecezji domowej. Wspomaganie to obejmuje:
+**Kan. 295 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w biskupstwie domowym jako współpasterka, współnauczycielka i współzarządczyni diecezji domowej. Wspomaganie to obejmuje:
 1° udział w rozeznawaniu potrzeb duchowych członków wspólnoty;
 2° troskę o chorych, starszych i słabszych członków Rodu;
 3° opiekę nad formacją religijną Potomstwa;
@@ -98,7 +98,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 6° reprezentowanie wspólnoty w sprawach powierzonych jej przez Głowę Rodu;
 7° funkcję mediacyjną w przypadku konfliktów rodzinnych.
 
-**Kan. 383 § 1.** W obrzędach pontyfikalnych Kościoła Domowego Małżonka:
+**Kan. 296 § 1.** W obrzędach pontyfikalnych Kościoła Domowego Małżonka:
 1° zajmuje miejsce wyznaczone obok Głowy Rodu;
 2° odpowiada na wezwania liturgiczne wspólnie ze wspólnotą;
 3° może przyjmować błogosławieństwo wraz z wiernymi;
@@ -112,11 +112,11 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział I: Zasady ogólne zastępstwa
 
-**Kan. 384 § 1.** W przypadku nieobecności Głowy Rodu, jego niedomagania fizycznego lub psychicznego, przeszkody w sprawowaniu funkcji, lub innej poważnej przyczyny, Małżonka zastępuje go we wszystkich funkcjach kapłańskich, szafarskich i biskupich w Kościele Domowym.
+**Kan. 297 § 1.** W przypadku nieobecności Głowy Rodu, jego niedomagania fizycznego lub psychicznego, przeszkody w sprawowaniu funkcji, lub innej poważnej przyczyny, Małżonka zastępuje go we wszystkich funkcjach kapłańskich, szafarskich i biskupich w Kościele Domowym.
 
-**§ 2.** Zasady ogólne dotyczące władzy i jej wykonywania w Kościele Domowym określa Księga III, Tytuł VI o władzy rządzenia (kan. 204–208); normy ochronne Księgi II (kan. 134–135) stosuje się do wykładni niniejszego tytułu. Szczegóły zastępstwa uregulowane są jednolicie w Rozdziałach II i III niniejszego Tytułu (kan. 387–390).
+**§ 2.** Zasady ogólne dotyczące władzy i jej wykonywania w Kościele Domowym określa Księga III, Tytuł VI o władzy rządzenia (kan. 117–121); normy ochronne Księgi II (kan. 47–48) stosuje się do wykładni niniejszego tytułu. Szczegóły zastępstwa uregulowane są jednolicie w Rozdziałach II i III niniejszego Tytułu (kan. 297–302).
 
-**Kan. 385.** Małżonka zastępuje Głowę Rodu w przypadku:
+**Kan. 298.** Małżonka zastępuje Głowę Rodu w przypadku:
 1° nieobecności w domu (podróż, pielgrzymka, pobyt w szpitalu);
 2° choroby uniemożliwiającej sprawowanie funkcji;
 3° podeszłego wieku lub wyczerpania sił;
@@ -124,7 +124,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 5° zasądzonego lub dobrowolnego okresu pokuty uniemożliwiającego sprawowanie funkcji;
 6° każdej innej poważnej przeszkody ocenionej przez Triarchię Domową.
 
-**Kan. 386.** Małżonka zastępująca Głowę Rodu ma prawo i obowiązek:
+**Kan. 299.** Małżonka zastępująca Głowę Rodu ma prawo i obowiązek:
 1° zapewnić ciągłość codziennej modlitwy domowej;
 2° sprawować błogosławieństwa zwykłe (posiłek, praca, podróż, odpoczynek);
 3° przewodniczyć celebracjom niedzielnym i okolicznościowym;
@@ -136,7 +136,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział II: Zastępstwo w kapłaństwie i szafarstwie
 
-**Kan. 387 § 1.** Małżonka zastępująca Głowę Rodu sprawuje funkcje kapłańskie z pełną władzą arcykapłana domowego. Obejmuje to:
+**Kan. 300 § 1.** Małżonka zastępująca Głowę Rodu sprawuje funkcje kapłańskie z pełną władzą arcykapłana domowego. Obejmuje to:
 1° przewodniczenie liturgii domowej według wszystkich trzech obrządków;
 2° prowadzenie modlitwy wspólnotowej i lectio divina;
 3° błogosławienie sakramentaliów rzeczowych zgodnie z zatwierdzonymi formułami;
@@ -150,7 +150,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 2° dokonywać aktów zastrzeżonych wyłącznie Głowie Rodu jako prawodawcy domowemu;
 3° zbywać ani obciążać dóbr stanowiących eks-votum.
 
-**Kan. 388 § 1.** Potomek w przypadku zastępstwa Głowy Rodu przez Małżonkę wspomaga ją w sprawowaniu funkcji kapłańskich i szafarskich. Wspomaganie to obejmuje:
+**Kan. 301 § 1.** Potomek w przypadku zastępstwa Głowy Rodu przez Małżonkę wspomaga ją w sprawowaniu funkcji kapłańskich i szafarskich. Wspomaganie to obejmuje:
 1° funkcję lektora i kantora podczas celebracji;
 2° przygotowanie materii sakramentaliów i przestrzeni kultu;
 3° service liturgiczny (ministratura);
@@ -160,7 +160,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział III: Zastępstwo w biskupstwie domowym
 
-**Kan. 389 § 1.** Małżonka zastępująca Głowę Rodu sprawuje funkcje biskupie z pełną władzą pasterską w diecezji domowej. Obejmuje to:
+**Kan. 302 § 1.** Małżonka zastępująca Głowę Rodu sprawuje funkcje biskupie z pełną władzą pasterską w diecezji domowej. Obejmuje to:
 1° troskę o jedność wiary i dyscypliny wspólnoty;
 2° zarządzanie dobrami materialnymi subdiecezji domowej;
 3° stanowisko decydujące w Triarchii Domowej;
@@ -169,18 +169,18 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 6° udzielanie zgody na celebracje okolicznościowe;
 7° czuwanie nad ochroną godności wszystkich członków wspólnoty.
 
-**Kan. 390 § 1.** Potomek w przypadku zastępstwa Głowy Rodu przez Małżonkę wspomaga ją w sprawowaniu funkcji biskupich. Wspomaganie to obejmuje:
+**Kan. 303 § 1.** Potomek w przypadku zastępstwa Głowy Rodu przez Małżonkę wspomaga ją w sprawowaniu funkcji biskupich. Wspomaganie to obejmuje:
 1° radę i pomoc, stosownie do wieku i dojrzałości;
 2° odpowiedzialność za powierzone zadania domowe i formacyjne;
 3° reprezentowanie wspólnoty wobec rówieśników i w środowisku;
 4° uczestnictwo w posiedzeniach Triarchii Domowej z głosem doradczym (po ukończeniu trzynastu lat);
-5° gotowość do przejęcia funkcji na zasadach określonych w kan. 392 § 1 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu patriarchatu.
+5° gotowość do przejęcia funkcji na zasadach określonych w kan. 303 § 1 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu patriarchatu.
 
 ---
 
 ## Tytuł IV: WSPÓŁUDZIAŁ POTOMKA W OBECNOŚCI GŁOWY RODU
 
-**Kan. 391 § 1.** Potomek w obecności Głowy Rodu i Małżonki uczestniczy w kapłaństwie domowym jako:
+**Kan. 304 § 1.** Potomek w obecności Głowy Rodu i Małżonki uczestniczy w kapłaństwie domowym jako:
 1° świadek wiary — przez udział w celebracjach i modlitwie;
 2° ministrant — przez posługę liturgiczną;
 3° uczeń — przez formację w cnotach i prawdach wiary;
@@ -195,11 +195,11 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 5° dzieła miłosierdzia wobec rodzeństwa i rodziców;
 6° składanie osobistych ofiar modlitewnych.
 
-**Kan. 392 § 1.** Potomek może pełnić następujące funkcje liturgiczne stosownie do wieku:
+**Kan. 305 § 1.** Potomek może pełnić następujące funkcje liturgiczne stosownie do wieku:
 1° od siódmego roku życia: ministrantura, śpiew, czytanie krótkich tekstów, przygotowanie przestrzeni kultu;
 2° od trzynastego roku życia: czytanie Pisma Świętego, prowadzenie modlitwy wiernych, głos doradczy w Triarchii Domowej;
 3° od piętnastego roku życia: prowadzenie rozważań formacyjnych, katecheza młodszych, opieka nad sakramentaliami;
-4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 387 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu patriarchatu.
+4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 299 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu patriarchatu.
 
 ---
 
@@ -207,7 +207,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział I: Obrządek Marii Magdaleny
 
-**Kan. 393 § 1.** W Obrządku Marii Magdaleny Małżonka pełni szczególną rolę jako obraz Marii Magdaleny — kobiety miłości, wierności i świadectwa. Jej współudział obejmuje:
+**Kan. 306 § 1.** W Obrządku Marii Magdaleny Małżonka pełni szczególną rolę jako obraz Marii Magdaleny — kobiety miłości, wierności i świadectwa. Jej współudział obejmuje:
 1° prowadzenie modlitwy kontemplacyjnej i uwielbienia;
 2° troskę o namaszczenie olejem chorej i smutnej części wspólnoty;
 3° nauczanie cnót miłości i wdzięczności;
@@ -217,7 +217,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział II: Obrządek Pawłowy
 
-**Kan. 394 § 1.** W Obrządku Pawłowym Małżonka pełni rolę współmisjonarki i współewangelizatorki. Jej współudział obejmuje:
+**Kan. 307 § 1.** W Obrządku Pawłowym Małżonka pełni rolę współmisjonarki i współewangelizatorki. Jej współudział obejmuje:
 1° formację misyjną domową — czytanie Listów i Dziejów Apostolskich;
 2° przygotowanie wspólnoty do posłania misyjnego wobec parafii i środowiska;
 3° towarzyszenie Potomstwu w rozwoju charyzmatów;
@@ -227,7 +227,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział III: Obrządek Tomaszowy
 
-**Kan. 395 § 1.** W Obrządku Tomaszowym Małżonka pełni rolę współnauczycielki i współformatora. Jej współudział obejmuje:
+**Kan. 308 § 1.** W Obrządku Tomaszowym Małżonka pełni rolę współnauczycielki i współformatora. Jej współudział obejmuje:
 1° nauczanie prawd wiary przez pytanie, wątpienie i dociekliwość;
 2° prowadzenie studium Pisma Świętego i Tradycji;
 3° formację intelektualną Potomstwa;
@@ -239,7 +239,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ## Tytuł VI: KOLEGIALNOŚĆ TRIARCHII W SPRAWOWANIU KAPŁAŃSTWA
 
-**Kan. 396 § 1.** Kapłaństwo domowe w Kościele Domowym jest sprawowane kolegialnie przez Triarchię Domową. Żadna z trzech osób Triarchii nie posiada wyłączności na sprawowanie funkcji kapłańskich, szafarskich ani biskupich.
+**Kan. 309 § 1.** Kapłaństwo domowe w Kościele Domowym jest sprawowane kolegialnie przez Triarchię Domową. Żadna z trzech osób Triarchii nie posiada wyłączności na sprawowanie funkcji kapłańskich, szafarskich ani biskupich.
 
 **§ 2.** Kolegialność Triarchii urzeczywistnia się przez:
 1° wspólną modlitwę przed każdą istotną decyzją;
@@ -248,14 +248,14 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 4° wzajemne upominanie w duchu Ewangelii (por. Mt 18,15-17);
 5° solidarną odpowiedzialność za dobro wspólnoty.
 
-**Kan. 397 § 1.** W sprawowaniu liturgii domowej Triarchia działa wspólnie:
+**Kan. 310 § 1.** W sprawowaniu liturgii domowej Triarchia działa wspólnie:
 1° Głowa Rodu przewodniczy celebracji i wypowiada formuły błogosławieństwa;
 2° Małżonka asystuje, odpowiada i prowadzi modlitwy wspólnotowe;
 3° Potomstwo czyta, śpiewa i służy przy obrzędzie;
 4° cała Triarchia czyni znak krzyża na rozpoczęcie i zakończenie;
 5° w razie nieobecności kogokolwiek celebracja odbywa się w zmniejszonym składzie, z adnotacją w kronice.
 
-**Kan. 398.** W sprawowaniu sakramentaliów Triarchia działa wspólnie:
+**Kan. 311.** W sprawowaniu sakramentaliów Triarchia działa wspólnie:
 1° Głowa Rodu sprawuje egzorcyzm błogosławieństwa i modlitwę poświęcenia;
 2° Małżonka przygotowuje materię i podaje ją do błogosławieństwa;
 3° Potomstwo przyjmuje błogosławieństwo i uczestniczy w pokropieniu;
@@ -266,13 +266,13 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ## Tytuł VII: MISYJNY CHARAKTER POSŁUGI DOMOWEJ
 
-**Kan. 399 § 1.** Kościół Domowy, jako komórka misyjna Ludu Bożego, realizuje swoje posłannictwo misyjne przez współudział wszystkich członków Triarchii Domowej:
+**Kan. 312 § 1.** Kościół Domowy, jako komórka misyjna Ludu Bożego, realizuje swoje posłannictwo misyjne przez współudział wszystkich członków Triarchii Domowej:
 1° Głowa Rodu jest pierwszym misjonarzem domu;
 2° Małżonka jest współmisjonarką przez świadectwo i gościnność;
 3° Potomstwo jest misjonarzem wśród rówieśników przez przykład życia;
 4° cała wspólnota jest znakiem Chrystusa dla parafii i środowiska lokalnego.
 
-**Kan. 400 § 1.** Małżonka jako współmisjonarka ma prawo i obowiązek:
+**Kan. 313 § 1.** Małżonka jako współmisjonarka ma prawo i obowiązek:
 1° formować serce wspólnoty przez modlitwę i posługę miłosierdzia;
 2° otwierać dom na gości, ubogich i potrzebujących;
 3° przekazywać wiarę przez codzienne świadectwo;
@@ -285,7 +285,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ## Tytuł VIII: OCHRONA PRAW I GODNOŚCI MAŁŻONKI I POTOMKA
 
-**Kan. 401 § 1.** Małżonka jako współszafarka łaski i współpasterka Kościoła Domowego ma prawo do:
+**Kan. 314 § 1.** Małżonka jako współszafarka łaski i współpasterka Kościoła Domowego ma prawo do:
 1° poszanowania jej godności osobistej i powołania;
 2° współdecydowania w sprawach wiary, kultu i formacji;
 3° ochrony przed wszelką formą przemocy, manipulacji i przymusu duchowego;
@@ -294,9 +294,9 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 6° otrzymania sprawozdania z zarządzania dobrami wspólnoty;
 7° odwołania do biskupa diecezjalnego lub Stolicy Apostolskiej w sprawach ważnych.
 
-**Kan. 402 § 1.** Potomek jako uczestnik kapłaństwa domowego ma prawo do:
+**Kan. 315 § 1.** Potomek jako uczestnik kapłaństwa domowego ma prawo do:
 1° wychowania zgodnego z Prawem Bożym i nauczaniem Kościoła;
-2° ochrony przed jakimikolwiek formami krzywdy (por. przepisy kan. 123 Księgi II o ochronie dzieci);
+2° ochrony przed jakimikolwiek formami krzywdy (por. przepisy kan. 36 Księgi II o ochronie dzieci);
 3° udziału w życiu liturgycznym stosownie do wieku i dojrzałości;
 4° własnej przestrzeni modlitwy i ciszy;
 5° pytania, wątpliwości i dojrzewania wiary bez przymusu;
@@ -307,13 +307,13 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ## Tytuł IX: PRZEPISY KOŃCOWE
 
-**Kan. 403 § 1.** Niniejsze przepisy wchodzą w życie z dniem ich ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Małżonką jako współszafarką i Triarchią Domową.
+**Kan. 316 § 1.** Niniejsze przepisy wchodzą w życie z dniem ich ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Małżonką jako współszafarką i Triarchią Domową.
 
 **§ 2.** Z chwilą wejścia w życie niniejszej Księgi tracą moc wszelkie wcześniejsze przepisy sprzeczne, w szczególności dawne kanony 444–472 w ich dotychczasowej numeracji, których treść została tu przenumerowana i scalona.
 
-**Kan. 404.** Najwyższą zasadą interpretacji i stosowania niniejszej Księgi jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (por. kan. 1752 KPK). Posługa domowa winna służyć uświęceniu osób, nie panowaniu nad nimi.
+**Kan. 317.** Najwyższą zasadą interpretacji i stosowania niniejszej Księgi jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (por. kan. 882 KPK). Posługa domowa winna służyć uświęceniu osób, nie panowaniu nad nimi.
 
-**Kan. 405.** Niniejsza Księga jest wyrazem wiary Kościoła Domowego w to, że:
+**Kan. 318.** Niniejsza Księga jest wyrazem wiary Kościoła Domowego w to, że:
 1° kapłaństwo powszechne wiernych jest darem Ducha Świętego dla całej wspólnoty;
 2° mężczyzna i kobieta jako małżonkowie są wspólnie szafarzami łaski w swoim domu;
 3° dzieci są żywymi członkami Ludu Bożego, nie przedmiotem władzy rodzicielskiej;
@@ -324,7 +324,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 **Uwagi redakcyjne:**
 
-1. *Scalenie:* dawny Kan. 444 § 1 (równość godności, kan. 208 KPK) dublował kan. 121 Księgi II — zachowano tylko elementy uzupełniające (nowy kan. 376).
-2. *Numeracja:* dawny Kan. 444a (oznaczony literą) otrzymał numer 377; cała Księga objęła kanony 376–405.
-3. *Poprawki tekstu:* literówki „Głowa Rodzu” → „Głowa Rodu”; w dawnym Kan. 449 § 1 pkt 3 „współformatorów” → „współformatora” (rodzaj gramatyczny); w dawnym Kan. 467 pkt 1 usunięto pozostałość obcego zapisu („形成”) i zastąpiono polskim odpowiednikiem „formować”.
-4. *Przeniesienie:* materia niniejszej Księgi (posługi i współudział Triarchii) należała tematycznie do Księgi o Ludzie Bożym; wydzielono ją jako odrębną Księgę V ze względu na rozmiar i autonomię przedmiotu, zachowając odesłania do kan. 121–135.
+1. *Scalenie:* dawny Kan. 357 § 1 (równość godności, kan. 20 (hist.)8 KPK) dublował kan. 34 Księgi II — zachowano tylko elementy uzupełniające (nowy kan. 289).
+2. *Numeracja:* dawny Kan. 357a (oznaczony literą) otrzymał numer 377; cała Księga objęła kanony 376–405.
+3. *Poprawki tekstu:* literówki „Głowa Rodzu” → „Głowa Rodu”; w dawnym Kan. 362 § 1 pkt 3 „współformatorów” → „współformatora” (rodzaj gramatyczny); w dawnym Kan. 380 pkt 1 usunięto pozostałość obcego zapisu („形成”) i zastąpiono polskim odpowiednikiem „formować”.
+4. *Przeniesienie:* materia niniejszej Księgi (posługi i współudział Triarchii) należała tematycznie do Księgi o Ludzie Bożym; wydzielono ją jako odrębną Księgę V ze względu na rozmiar i autonomię przedmiotu, zachowając odesłania do kan. 34–48.

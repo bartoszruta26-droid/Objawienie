@@ -12,7 +12,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ## Tytuł I: ZASADY OGÓLNE PRZEKAZANIA PATRIARCHATU
 
-**Kan. 467 § 1.** Patriarchat nad subdiecezjami domowymi nie jest własnością osoby, Rodu, rodziny ani żadnej grupy, lecz urzędem służby pasterskiej sprawowanym w komunii z Biskupem Rzymskim i Kościołem powszechnym.
+**Kan. 380 § 1.** Patriarchat nad subdiecezjami domowymi nie jest własnością osoby, Rodu, rodziny ani żadnej grupy, lecz urzędem służby pasterskiej sprawowanym w komunii z Biskupem Rzymskim i Kościołem powszechnym.
 
 **§ 2.** Przekazanie patriarchatu następuje przez wybór następcy na synodzie patriarchalnym, zatwierdzenie lub potwierdzenie tego wyboru przez Biskupa Rzymskiego albo kompetentną władzę przez niego upoważnioną, oraz kanoniczne objęcie urzędu przez następcę.
 
@@ -20,7 +20,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 4.** Przekazanie patriarchatu ma charakter osobowy, urzędowy i wspólnotowy: dotyczy urzędu pasterskiego, a nie majątku osobistego poprzedniego patriarchy, jego Małżonki ani Potomstwa.
 
-**Kan. 468 § 1.** Tylko Biskup Rzymski może:
+**Kan. 381 § 1.** Tylko Biskup Rzymski może:
 1° ustanowić, zatwierdzić, zmienić, zawiesić lub znieść patriarchat nad subdiecezjami domowymi;
 2° potwierdzić wybór patriarchy albo odmówić potwierdzenia z słusznej i poważnej przyczyny;
 3° oddalić patriarchę ze wspólnoty Kościoła katolickiego albo pozbawić go urzędu patriarchalnego;
@@ -31,7 +31,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** W razie wątpliwości co do zakresu władzy patriarchalnej, interpretuje się ją ściśle na korzyść wspólnoty, subdiecezji domowych, Małżonki, Potomstwa oraz osób słabszych.
 
-**Kan. 469.** Przekazanie patriarchatu ma na celu:
+**Kan. 382.** Przekazanie patriarchatu ma na celu:
 1° zachowanie jedności subdiecezji domowych w komunii z Kościołem powszechnym;
 2° zapewnienie ciągłości posługi pasterskiej;
 3° ochronę obrządku domowego Marii Magdaleny, Pawłowego i Tomaszowego;
@@ -39,7 +39,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 5° zapobieganie rozprzężeniu, samowoli, symonii, manipulacji i przemocy duchowej;
 6° służbę zbawieniu dusz oraz dobru Rodu i Kościoła Ludzi.
 
-**Kan. 470 § 1.** Należy odróżnić:
+**Kan. 383 § 1.** Należy odróżnić:
 1° **dobra urzędu patriarchalnego** — czyli te, które przynależą do funkcji, wspólnoty patriarchalnej lub subdiecezji domowych jako osób prawnych;
 2° **dobra osobiste patriarchy** — czyli te, które należą do niego jako osoby fizycznej, członka Rodu, małżonka lub ojca;
 3° **dobra Małżonki i Potomstwa** — które nie przechodzą na następcę z racji sukcesji patriarchalnej;
@@ -49,7 +49,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Żaden przepis niniejszej Księgi nie może być interpretowany jako pozwalający na zawłaszczenie majątku osobistego poprzedniego patriarchy, jego Małżonki lub dzieci.
 
-**Kan. 471 § 1.** Zabrania się przekazywania patriarchatu za cenę, przez symonię, przez handel urzędami, przez obietnice korzyści materialnych albo przez jakikolwiek układ sprzeczny ze sprawiedliwością.
+**Kan. 384 § 1.** Zabrania się przekazywania patriarchatu za cenę, przez symonię, przez handel urzędami, przez obietnice korzyści materialnych albo przez jakikolwiek układ sprzeczny ze sprawiedliwością.
 
 **§ 2.** Zabrania się również wyboru patriarchy przez:
 1° przemoc fizyczną lub psychiczną;
@@ -63,7 +63,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Każdy akt wyboru dokonany z naruszeniem §§ 1–2 jest nieważny albo co najmniej bezskuteczny, dopóki nie zostanie potwierdzony przez Biskupa Rzymskiego po usunięciu wady.
 
-**Kan. 472 § 1.** Poprzedni patriarcha zachowuje godność osoby ludzkiej, prawo do obrony, prawo do dobrego imienia, prawo do prywatności oraz prawo do władania dobrami osobistymi, duchowymi i intelektualnymi zgodnie z Księgą VII niniejszego Kanonu.
+**Kan. 385 § 1.** Poprzedni patriarcha zachowuje godność osoby ludzkiej, prawo do obrony, prawo do dobrego imienia, prawo do prywatności oraz prawo do władania dobrami osobistymi, duchowymi i intelektualnymi zgodnie z Księgą VII niniejszego Kanonu.
 
 **§ 2.** Małżonka patriarchy nie dziedziczy patriarchatu ani nie otrzymuje władzy patriarchalnej z racji małżeństwa. Zachowuje jednak swoją godność współszafarki łaski, prawo do obrony oraz prawo do nietykalności osobistej.
 
@@ -75,7 +75,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ## Tytuł II: WAKANS PATRIARCHATU I RZĄDY TYMCZASOWE
 
-**Kan. 473 § 1.** Patriarchat wakuje wskutek:
+**Kan. 386 § 1.** Patriarchat wakuje wskutek:
 1° śmierci patriarchy;
 2° rezygnacji przyjętej przez Biskupa Rzymskiego;
 3° oddalenia patriarchy przez Biskupa Rzymskiego;
@@ -86,7 +86,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 2.** Wakans nie otwiera prawa do samowolnego zajęcia urzędu przez żadną osobę, ani przez Małżonkę, ani przez Potomka, ani przez biskupa tytularnego subdiecezjalnego, ani przez grupę rodową.
 
-**Kan. 474 § 1.** O wakacie patriarchatu należy niezwłocznie powiadomić:
+**Kan. 387 § 1.** O wakacie patriarchatu należy niezwłocznie powiadomić:
 1° Biskupa Rzymskiego albo kompetentną dykasterię Kurii Rzymskiej;
 2° biskupów tytularnych subdiecezjalnych;
 3° Małżonkę patriarchy, jeśli żyje i nie sprzeciwia się słuszna przyczyna;
@@ -97,7 +97,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 2.** Powiadomienie winno być sporządzone na piśmie i zachowane w archiwum patriarchalnym.
 
-**Kan. 475 § 1.** Na czas wakansu patriarchatu zwoływany jest synod patriarchalny w celu wyboru następcy, chyba że Biskup Rzymski postanowi inaczej.
+**Kan. 388 § 1.** Na czas wakansu patriarchatu zwoływany jest synod patriarchalny w celu wyboru następcy, chyba że Biskup Rzymski postanowi inaczej.
 
 **§ 2.** Do czasu wyboru i zatwierdzenia następcy patriarchatem kieruje administrator patriarchalny.
 
@@ -114,13 +114,13 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 5° dokonywać aktów, które wiązałyby następcę poza zwykłym zarządem;
 6° przyjmować darów, obietnic ani korzyści w zamian za wpływy na wybór.
 
-**Kan. 476.** Akty zastrzeżone Biskupowi Rzymskiemu w czasie wakansu patriarchatu pozostają niewykonalne przez administratora, chyba że otrzyma on wyraźny mandat Stolicy Apostolskiej.
+**Kan. 389.** Akty zastrzeżone Biskupowi Rzymskiemu w czasie wakansu patriarchatu pozostają niewykonalne przez administratora, chyba że otrzyma on wyraźny mandat Stolicy Apostolskiej.
 
 ---
 
 ## Tytuł III: SYNOD PATRIARCHALNY WYBORCZY
 
-**Kan. 477 § 1.** Synod patriarchalny do wyboru następcy patriarchy składa się z:
+**Kan. 390 § 1.** Synod patriarchalny do wyboru następcy patriarchy składa się z:
 1° biskupów tytularnych subdiecezjalnych pozostających w pełnej komunii z Kościołem katolickim i niekaranych ważną karą zastrzeżoną;
 2° administratorów subdiecezji domowych, jeśli biskup tytularny subdiecezjalny ma przeszkodę;
 3° zaproszonych przedstawicieli wspólnot domowych, z głosem doradczym;
@@ -132,15 +132,15 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Nikt nie może być pozbawiony prawa głosu decydującego lub doradczego w sposób arbitralny. O wykluczeniu decyduje synod po wysłuchaniu zainteresowanego, z zachowaniem prawa obrony i możliwością odwołania do Biskupa Rzymskiego.
 
-**Kan. 478 § 1.** Synod patriarchalny zwołuje administrator patriarchalny w ciągu dwudziestu dni od pewnej wiadomości o wakacie, chyba że Biskup Rzymski wyznaczy inny termin.
+**Kan. 391 § 1.** Synod patriarchalny zwołuje administrator patriarchalny w ciągu dwudziestu dni od pewnej wiadomości o wakacie, chyba że Biskup Rzymski wyznaczy inny termin.
 
 **§ 2.** Jeśli administrator nie zwoła synodu w terminie, zwołuje go najstarszy wiekiem biskup tytularny subdiecezjalny pozostający w komunii z Kościołem.
 
 **§ 3.** Jeśli i on ma przeszkodę, synod zwołuje Biskup Rzymski albo wyznaczony przez niego delegat.
 
-**Kan. 479.** Do ważnego zebrania synodu patriarchalnego wymagana jest obecność co najmniej dwóch trzecich biskupów tytularnych subdiecezjalnych uprawnionych do głosowania, chyba że prawo partykularne lub Stolica Apostolska postanowi inaczej.
+**Kan. 392.** Do ważnego zebrania synodu patriarchalnego wymagana jest obecność co najmniej dwóch trzecich biskupów tytularnych subdiecezjalnych uprawnionych do głosowania, chyba że prawo partykularne lub Stolica Apostolska postanowi inaczej.
 
-**Kan. 480 § 1.** Przed rozpoczęciem głosowania synod winien:
+**Kan. 393 § 1.** Przed rozpoczęciem głosowania synod winien:
 1° odmówić modlitwę o Ducha Świętego;
 2° wysłuchać Słowa Bożego;
 3° wezwać do rozeznania według cnót, darów i charyzmatów właściwych Kościołowi Domowemu;
@@ -150,13 +150,13 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 2.** Modlitwa nie może zastąpić rozeznania rozumu, prawa i faktów. Nie wolno twierdzić, że Duch Święty działa wbrew Prawu Bożemu, Naturalnemu, prawom człowieka ani nauce Kościoła.
 
-**Kan. 481.** Każdy elektor ma obowiązek głosować zgodnie z sumieniem, prawdą i dobrem wspólnoty, bez obawy, nadziei korzyści, nacisku Rodu, Małżonki, Potomstwa, grupy politycznej, ekonomii ani fałszywego objawienia.
+**Kan. 394.** Każdy elektor ma obowiązek głosować zgodnie z sumieniem, prawdą i dobrem wspólnoty, bez obawy, nadziei korzyści, nacisku Rodu, Małżonki, Potomstwa, grupy politycznej, ekonomii ani fałszywego objawienia.
 
 ---
 
 ## Tytuł IV: KANDYDAT NA PATRIARCHĘ
 
-**Kan. 482 § 1.** Kandydatem na patriarchę subdiecezji domowych może być wierny, który:
+**Kan. 395 § 1.** Kandydatem na patriarchę subdiecezji domowych może być wierny, który:
 1° przyjął ważny chrzest w Kościele katolickim lub został do niego ważnie przyjęty;
 2° pozostaje w komunii z Biskupem Rzymskim i Kościołem powszechnym;
 3° posiada ważnie przyjęte święcenia biskupie albo — za zgodą Biskupa Rzymskiego — przyrzeka je przyjąć przed objęciem urzędu;
@@ -172,7 +172,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Jeśli prawo powszechne Kościoła wymaga szczególnych warunków dla biskupa lub patriarchy, kandydat winien je spełnić albo uzyskać dyspensę Biskupa Rzymskiego. W razie wątpliwości rozstrzyga Stolica Apostolska.
 
-**Kan. 483 § 1.** Nie może być ważnie wybrany ten, kto:
+**Kan. 396 § 1.** Nie może być ważnie wybrany ten, kto:
 1° publicznie odpadł od wiary katolickiej przez herezję, schizmę lub apostazję;
 2° zerwał komunię z Biskupem Rzymskim bez przebaczenia i pojednania;
 3° dopuścił się ciężkiego przestępstwa przeciwko życiu, godności, wolności, czystości, sprawiedliwości lub rodzinie;
@@ -185,7 +185,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 2.** Podejrzenie popełnienia przestępstwa nie może być podstawą wykluczenia bez wysłuchania kandydata i zachowania prawa obrony. W sprawach poważnych synod winien zasięgnąć opinii kompetentnej władzy kościelnej.
 
-**Kan. 484 § 1.** Kandydatury mogą być zgłaszane przez elektorów, przez wspólnoty domowe, przez Małżonki biskupów tytularnych subdiecezjalnych w formie doradczej, przez dorosłych Potomków oraz przez samego kandydata, jeśli wyraża zgodę.
+**Kan. 397 § 1.** Kandydatury mogą być zgłaszane przez elektorów, przez wspólnoty domowe, przez Małżonki biskupów tytularnych subdiecezjalnych w formie doradczej, przez dorosłych Potomków oraz przez samego kandydata, jeśli wyraża zgodę.
 
 **§ 2.** Zgłoszenie kandydatury nie jest wyborem ani zobowiązaniem. Każdy kandydat ma prawo przyjąć lub odmówić kandydatury.
 
@@ -199,7 +199,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 7° gotowość do złożenia wyznania wiary i przysięgi wierności Stolicy Apostolskiej;
 8° opinię wspólnot, bez ulegania presji tłumu.
 
-**Kan. 485.** Kandydat ma prawo do:
+**Kan. 398.** Kandydat ma prawo do:
 1° poznania zarzutów, jeśli są podnoszone;
 2° obrony własnego imienia;
 3° przedstawienia dokumentów i świadków;
@@ -211,7 +211,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ## Tytuł V: WYBÓR NASTĘPCY
 
-**Kan. 486 § 1.** Wybór patriarchy dokonuje się tajnym głosowaniem.
+**Kan. 399 § 1.** Wybór patriarchy dokonuje się tajnym głosowaniem.
 
 **§ 2.** W pierwszych trzech głosowaniach wymagana jest większość bezwzględna ważnie oddanych głosów.
 
@@ -224,25 +224,25 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 5.** W głosowaniu ograniczonym do dwóch kandydatów wystarczy większość bezwzględna, chyba że prawo partykularne wymaga większej większości.
 
-**Kan. 487 § 1.** Wybrany winien zostać powiadomiony o wyborze niezwłocznie.
+**Kan. 400 § 1.** Wybrany winien zostać powiadomiony o wyborze niezwłocznie.
 
 **§ 2.** W ciągu ośmiu dni użytecznych winien oznajmić synodowi, czy przyjmuje wybór. Milczenie lub brak odpowiedzi po upływie terminu uważa się za odmowę, chyba że zachodzi słuszna przeszkoda.
 
 **§ 3.** Przyjęcie wyboru nie oznacza jeszcze objęcia patriarchatu, jeśli wymagane jest potwierdzenie Biskupa Rzymskiego, święcenia biskupie, wyznanie wiary, przysięga albo kanoniczne posiadanie urzędu.
 
-**Kan. 488 § 1.** Wybór patriarchy podlega potwierdzeniu Biskupa Rzymskiego albo władzy przez niego upoważnionej.
+**Kan. 401 § 1.** Wybór patriarchy podlega potwierdzeniu Biskupa Rzymskiego albo władzy przez niego upoważnionej.
 
 **§ 2.** Do czasu potwierdzenia wybrany nie może wykonywać władzy patriarchalnej, chyba że Biskup Rzymski udzieli mu tymczasowego upoważnienia.
 
 **§ 3.** Jeśli Biskup Rzymski odmówi potwierdzenia, wybór nie osiąga skutku, a synod winien dokonać nowego wyboru albo zastosować się do poleceń Stolicy Apostolskiej.
 
-**Kan. 489.** Przed objęciem urzędu wybrany patriarcha winien:
+**Kan. 402.** Przed objęciem urzędu wybrany patriarcha winien:
 1° złożyć publiczne wyznanie wiary według formuły zatwierdzonej przez Stolicę Apostolską;
 2° złożyć przysięgę wierności Biskupowi Rzymskiemu i Kościołowi katolickiemu;
 3° przyjąć sakrę biskupią, jeśli jej nie posiada, w terminie określonym przez prawo;
 4° złożyć przyrzeczenie ochrony Prawa Bożego, Naturalnego, praw człowieka, obrządku domowego oraz praw subdiecezji, Małżonek i Potomstwa.
 
-**Kan. 490 § 1.** Kanoniczne objęcie patriarchatu następuje przez instalację w kościele katedralnym subdiecezji patriarchalnej, w kaplicy domowej patriarchy albo w innym miejscu wskazanym przez synod i zatwierdzonym przez Biskupa Rzymskiego.
+**Kan. 403 § 1.** Kanoniczne objęcie patriarchatu następuje przez instalację w kościele katedralnym subdiecezji patriarchalnej, w kaplicy domowej patriarchy albo w innym miejscu wskazanym przez synod i zatwierdzonym przez Biskupa Rzymskiego.
 
 **§ 2.** Instalacja winna być dokonana w ciągu dwóch miesięcy od potwierdzenia wyboru, chyba że zachodzi słuszna przeszkoda.
 
@@ -252,7 +252,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ## Tytuł VI: PRZEKAZANIE PATRIARCHATU NASTĘPCY
 
-**Kan. 491 § 1.** Przekazanie patriarchatu obejmuje następujące dobra urzędu:
+**Kan. 404 § 1.** Przekazanie patriarchatu obejmuje następujące dobra urzędu:
 1° władzę pasterską nad patriarchatem subdiecezji domowych w granicach określonych przez Biskupa Rzymskiego i niniejszy Kanon;
 2° prawo zwoływania synodu patriarchalnego;
 3° pieczę nad jednością obrządku domowego;
@@ -268,7 +268,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 2.** Przekazanie nie obejmuje automatycznie dóbr osobistych poprzedniego patriarchy, jego Małżonki ani dzieci.
 
-**Kan. 492 § 1.** Dobra osobiste poprzedniego patriarchy pozostają przy nim lub przechodzą zgodnie z jego wolą, prawem naturalnym, prawem cywilnym i statutem Rodu.
+**Kan. 405 § 1.** Dobra osobiste poprzedniego patriarchy pozostają przy nim lub przechodzą zgodnie z jego wolą, prawem naturalnym, prawem cywilnym i statutem Rodu.
 
 **§ 2.** W szczególności nie przechodzą na następcę:
 1° dom rodzinny, jeśli jest własnością osobistą lub rodową, a nie urzędową;
@@ -282,7 +282,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Jeśli poprzedni patriarcha został oddalony przez Biskupa Rzymskiego, zastosowanie mają przepisy Księgi VII o zachowaniu przez oddalonego biskupa władania dobrami doczesnymi, duchowymi i intelektualnymi.
 
-**Kan. 493 § 1.** Dobra duchowe nie są przedmiotem własności ludzkiej. Następcy nie „przekazuje się” charyzmatów w sposób mechaniczny.
+**Kan. 406 § 1.** Dobra duchowe nie są przedmiotem własności ludzkiej. Następcy nie „przekazuje się” charyzmatów w sposób mechaniczny.
 
 **§ 2.** Następca może prosić Boga o dary Ducha Świętego potrzebne do sprawowania urzędu, zwłaszcza o:
 1° mądrość — dla rozeznania woli Bożej;
@@ -295,7 +295,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Objawienia prywatne poprzedniego patriarchy nie wiążą następcy ani wspólnoty, jeśli nie zostały uznane przez kompetentną władzę kościelną. Następca winien je rozeznać zgodnie z wiarą Kościoła, Prawem Naturalnym i prawami człowieka.
 
-**Kan. 494 § 1.** Dobra intelektualne przekazują się następcy tylko w zakresie, w jakim zostały stworzone dla urzędu, powierzone patriarchatowi albo wyraźnie przeznaczone do użytku wspólnoty.
+**Kan. 407 § 1.** Dobra intelektualne przekazują się następcy tylko w zakresie, w jakim zostały stworzone dla urzędu, powierzone patriarchatowi albo wyraźnie przeznaczone do użytku wspólnoty.
 
 **§ 2.** Teksty kanonów, statutów, formularzy liturgicznych, katechez urzędowych, dokumentów synodalnych i archiwów patriarchalnych przechodzą na następcę jako dobra urzędu.
 
@@ -303,7 +303,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 4.** Następcy nie wolno przypisywać sobie autorstwa dzieł poprzednika. Winien szanować prawa autorskie, dobre imię i prawdę historyczną.
 
-**Kan. 495 § 1.** Przed przekazaniem patriarchatu sporządza się inwentarz dóbr urzędu, obejmujący:
+**Kan. 408 § 1.** Przed przekazaniem patriarchatu sporządza się inwentarz dóbr urzędu, obejmujący:
 1° dokumenty urzędowe;
 2° archiwa;
 3° księgi liturgiczne i obrzędowe;
@@ -325,7 +325,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Egzemplarz inwentarza składa się do archiwum patriarchalnego, drugi do archiwum osobistego poprzedniego patriarchy, jeśli tego żąda, a trzeci przekazuje się Biskupowi Rzymskiemu, jeśli wymaga tego prawo lub zwyczaj.
 
-**Kan. 496 § 1.** Obrzęd przekazania patriarchatu winien być godny, prosty i pozbawiony symonii.
+**Kan. 409 § 1.** Obrzęd przekazania patriarchatu winien być godny, prosty i pozbawiony symonii.
 
 **§ 2.** Podstawowe znaki obrzędu mogą obejmować:
 1° Ewangeliarz lub Pismo Święte — znak służby Słowu;
@@ -343,7 +343,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Użycie tych znaków nie ma charakteru magicznego. Są one sakramentaliami i znakami służby, nie talizmanami ani gwarancją władzy.
 
-**Kan. 497 § 1.** Podczas obrzędu przekazania nowy patriarcha wypowiada przysięgę w formie następującej lub podobnej, zatwierdzonej przez synod i zgodnej z prawem Bożym:
+**Kan. 410 § 1.** Podczas obrzędu przekazania nowy patriarcha wypowiada przysięgę w formie następującej lub podobnej, zatwierdzonej przez synod i zgodnej z prawem Bożym:
 
 *„Ja, [imię], wybrany na patriarchę subdiecezji domowych, przyzywając imienia Boga Wszechmogącego, Ojca i Syna, i Ducha Świętego, przyrzekam, że od tej chwili będę służyć Kościołowi Domowemu i Kościołowi Ludzi w komunii z Biskupem Rzymskim.
 Przyrzekam strzec Prawa Bożego, Prawa Naturalnego i praw człowieka.
@@ -358,7 +358,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 3.** Przysięga nie może zobowiązywać do działania sprzecznego z sumieniem, Prawem Bożym, Naturalnym ani prawami człowieka.
 
-**Kan. 498 § 1.** Po przekazaniu patriarchatu nowy patriarcha winien:
+**Kan. 411 § 1.** Po przekazaniu patriarchatu nowy patriarcha winien:
 1° ogłosić wspólnotom objęcie urzędu;
 2° wpisać akt przekazania do księgi patriarchalnej;
 3° powiadomić biskupów tytularnych subdiecezjalnych;
@@ -369,7 +369,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 2.** Ogłoszenie nie może być triumfalne wobec poprzednika. Winno wyrażać wdzięczność za służbę i prośbę o błogosławieństwo, jeśli poprzednik je udziela dobrowolnie.
 
-**Kan. 499 § 1.** Z chwilą kanonicznego objęcia urzędu nowy patriarcha staje się pasterzem patriarchatu subdiecezji domowych w granicach prawa.
+**Kan. 412 § 1.** Z chwilą kanonicznego objęcia urzędu nowy patriarcha staje się pasterzem patriarchatu subdiecezji domowych w granicach prawa.
 
 **§ 2.** Poprzedni patriarcha, jeśli przeszedł na emeryturę lub zrzekł się urzędu za zgodą Biskupa Rzymskiego, zachowuje tytuł patriarchy seniora lub emerita, jeśli tak postanowi prawo lub zwyczaj.
 
@@ -381,7 +381,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 ## Tytuł VII: OCHRONA PRAW POPRZEDNIKA, MAŁŻONKI I POTOMSTWA
 
-**Kan. 500 § 1.** Poprzedni patriarcha ma prawo do:
+**Kan. 413 § 1.** Poprzedni patriarcha ma prawo do:
 1° godnego traktowania;
 2° ochrony dobrego imienia;
 3° prywatności;
@@ -394,7 +394,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 3.** Wszelkie próby upokorzenia, wysiedlenia, ogołocenia lub zemsty wobec poprzedniego patriarchy są sprzeczne z Prawem Bożym, Naturalnym i niniejszym Kanonem.
 
-**Kan. 501 § 1.** Małżonka poprzedniego patriarchy nie traci godności z powodu zmiany urzędu męża.
+**Kan. 414 § 1.** Małżonka poprzedniego patriarchy nie traci godności z powodu zmiany urzędu męża.
 
 **§ 2.** Małżonka nie jest zobowiązana do opuszczenia domu, jeśli jest jego współwłaścicielką, posiadaczką lub mieszka w nim na prawie rodzinnym.
 
@@ -402,7 +402,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 4.** Małżonka ma prawo do obrony przed manipulacją, szantażem duchowym, przymusem ekonomicznym i publicznym zniesławieniem.
 
-**Kan. 502 § 1.** Potomstwo poprzedniego patriarchy nie dziedziczy patriarchatu ani nie ponosi odpowiedzialności za czyny ojca.
+**Kan. 415 § 1.** Potomstwo poprzedniego patriarchy nie dziedziczy patriarchatu ani nie ponosi odpowiedzialności za czyny ojca.
 
 **§ 2.** Potomkowie mają prawo do:
 1° ochrony osobistej;
@@ -415,13 +415,13 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 4.** Jeśli Potomek sam jest biskupem tytularnym subdiecezjalnym, zachowuje swoją własną subdiecezję i prawa, nie podlegając nowemu patriarsze inaczej niż zgodnie z prawem patriarchalnym i powszechnym.
 
-**Kan. 503.** Żaden akt przekazania patriarchatu nie może naruszać praw osób trzecich, fundatorów, darczyńców, wierzycieli, pracowników ani wspólnot cywilnych.
+**Kan. 416.** Żaden akt przekazania patriarchatu nie może naruszać praw osób trzecich, fundatorów, darczyńców, wierzycieli, pracowników ani wspólnot cywilnych.
 
 ---
 
 ## Tytuł VIII: WŁADZA NOWEGO PATRIARCHY WOBEC SUBDIECEZJI DOMOWYCH
 
-**Kan. 504 § 1.** Nowy patriarcha nie wchłania subdiecezji domowych w sposób absolutny. Każda subdiecezja domowa zachowuje własnego biskupa tytularnego subdiecezjalnego, własną Triarchię Domową, własny obrządek domowy i własne dobra, o ile nie zostały prawnie powierzone patriarchatowi.
+**Kan. 417 § 1.** Nowy patriarcha nie wchłania subdiecezji domowych w sposób absolutny. Każda subdiecezja domowa zachowuje własnego biskupa tytularnego subdiecezjalnego, własną Triarchię Domową, własny obrządek domowy i własne dobra, o ile nie zostały prawnie powierzone patriarchatowi.
 
 **§ 2.** Władza patriarchalna polega na jednoczeniu, koordynowaniu, wspieraniu, rozeznawaniu i strzeżeniu komunii subdiecezji domowych, nie zaś na zastępowaniu biskupów tytularnych subdiecezjalnych w ich zwykłej władzy.
 
@@ -434,7 +434,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 6° używać sakramentaliów do manipulacji;
 7° izolować subdiecezji od Kościoła powszechnego.
 
-**Kan. 505 § 1.** Nowy patriarcha ma prawo wizytować subdiecezje domowe w celu sprawdzenia wiary, dyscypliny, liturgii i zarządzania dobrami urzędu.
+**Kan. 418 § 1.** Nowy patriarcha ma prawo wizytować subdiecezje domowe w celu sprawdzenia wiary, dyscypliny, liturgii i zarządzania dobrami urzędu.
 
 **§ 2.** Wizytacja winna być zapowiedziana, godna, proporcjonalna i pozbawiona przemocy psychicznej.
 
@@ -442,7 +442,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 4.** W razie stwierdzenia nadużyć patriarcha winien najpierw upomnieć, potem wezwać do naprawy, a w sprawach poważnych powiadomić Biskupa Rzymskiego lub kompetentną władzę.
 
-**Kan. 506.** Nowy patriarcha może wydawać dekrety patriarchalne dotyczące całego patriarchatu, lecz nie mogą one:
+**Kan. 419.** Nowy patriarcha może wydawać dekrety patriarchalne dotyczące całego patriarchatu, lecz nie mogą one:
 1° być sprzeczne z Prawem Bożym;
 2° naruszać praw człowieka;
 3° łamać Prawa Naturalnego;
@@ -454,17 +454,17 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 ## Tytuł IX: PRZYPADKI SZCZEGÓLNE
 
-**Kan. 507 § 1.** Jeśli wybrany patriarcha umrze przed kanonicznym objęciem urzędu, patriarchat pozostaje wakujący, a synod patriarchalny winien dokonać nowego wyboru.
+**Kan. 420 § 1.** Jeśli wybrany patriarcha umrze przed kanonicznym objęciem urzędu, patriarchat pozostaje wakujący, a synod patriarchalny winien dokonać nowego wyboru.
 
 **§ 2.** Akty przygotowawcze dokonane przez zmarłego wybranego nie rodzą władzy patriarchalnej.
 
-**Kan. 508 § 1.** Patriarcha może złożyć rezygnację z urzędu Biskupowi Rzymskiemu. Rezygnacja osiąga skutek dopiero po jej przyjęciu przez Stolicę Apostolską.
+**Kan. 421 § 1.** Patriarcha może złożyć rezygnację z urzędu Biskupowi Rzymskiemu. Rezygnacja osiąga skutek dopiero po jej przyjęciu przez Stolicę Apostolską.
 
 **§ 2.** Do czasu przyjęcia rezygnacji patriarcha zachowuje urząd i obowiązki, chyba że Biskup Rzymski postanowi inaczej.
 
 **§ 3.** Rezygnacja nie może być wymuszona przez synod, Ród, Małżonkę, Potomstwo, władzę cywilną ani strach przed karą.
 
-**Kan. 509 § 1.** Jeśli Biskup Rzymski oddali patriarchę, przekazanie urzędu następuje dopiero po ogłoszeniu aktu oddalenia i zarządzaniu wakansu.
+**Kan. 422 § 1.** Jeśli Biskup Rzymski oddali patriarchę, przekazanie urzędu następuje dopiero po ogłoszeniu aktu oddalenia i zarządzaniu wakansu.
 
 **§ 2.** Oddalony patriarcha nie może przekazywać urzędu żadnej osobie jako własnej decyzji.
 
@@ -472,7 +472,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 4.** Dobra osobiste, duchowe i intelektualne oddalonego patriarchy pozostają przy nim zgodnie z Księgą VII.
 
-**Kan. 510 § 1.** Jeśli synod patriarchalny nie może wybrać kandydata godnego lub jeśli wszyscy kandydaci są niezdolni, zwraca się do Biskupa Rzymskiego o wskazanie rozwiązania.
+**Kan. 423 § 1.** Jeśli synod patriarchalny nie może wybrać kandydata godnego lub jeśli wszyscy kandydaci są niezdolni, zwraca się do Biskupa Rzymskiego o wskazanie rozwiązania.
 
 **§ 2.** Biskup Rzymski może:
 1° przedłużyć urząd dotychczasowego patriarchy;
@@ -481,31 +481,31 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 4° zawiesić patriarchat;
 5° połączyć subdiecezje domowe z inną strukturą kościelną.
 
-**Kan. 511.** Jeśli patriarcha zostaje przeniesiony na inny urząd kościelny za zgodą Biskupa Rzymskiego, patriarchat wakuje z chwilą kanonicznego objęcia nowego urzędu, chyba że Stolica Apostolska postanowi inaczej.
+**Kan. 424.** Jeśli patriarcha zostaje przeniesiony na inny urząd kościelny za zgodą Biskupa Rzymskiego, patriarchat wakuje z chwilą kanonicznego objęcia nowego urzędu, chyba że Stolica Apostolska postanowi inaczej.
 
-**Kan. 512.** Biskup Rzymski może połączyć patriarchat subdiecezji domowych z inną strukturą kościelną, zawiesić go lub znieść. W takim przypadku przepisy niniejszej Księgi stosuje się odpowiednio do nowego porządku prawnego.
+**Kan. 425.** Biskup Rzymski może połączyć patriarchat subdiecezji domowych z inną strukturą kościelną, zawiesić go lub znieść. W takim przypadku przepisy niniejszej Księgi stosuje się odpowiednio do nowego porządku prawnego.
 
 ---
 
 ## Tytuł X: ODPOWIEDZIALNOŚĆ I KARY ZA NARUSZENIE PRZEPISÓW SUKCESJI
 
-**Kan. 513 § 1.** Kto przez przemoc, podstęp, symonię, fałszerstwo dokumentów, manipulację wyborczą albo szantaż duchowy usiłuje uzyskać patriarchat albo wpłynąć na wybór, podlega sprawiedliwej karze kanonicznej, a w razie potrzeby — odpowiedzialności cywilnej.
+**Kan. 426 § 1.** Kto przez przemoc, podstęp, symonię, fałszerstwo dokumentów, manipulację wyborczą albo szantaż duchowy usiłuje uzyskać patriarchat albo wpłynąć na wybór, podlega sprawiedliwej karze kanonicznej, a w razie potrzeby — odpowiedzialności cywilnej.
 
 **§ 2.** Taki akt jest nieważny albo bezskuteczny, dopóki nie zostanie naprawiony przez kompetentną władzę.
 
 **§ 3.** Ofiary manipulacji mają prawo do obrony, naprawienia szkody i ochrony przed zemstą.
 
-**Kan. 514 § 1.** Kto bez prawa zajmuje dobra urzędu patriarchalnego, ukrywa archiwa, niszczy dokumenty, przywłaszcza insygnia lub odmawia przekazania majątku patriarchalnego, podlega obowiązkowi zwrotu, naprawienia szkody oraz karze właściwej władzy.
+**Kan. 427 § 1.** Kto bez prawa zajmuje dobra urzędu patriarchalnego, ukrywa archiwa, niszczy dokumenty, przywłaszcza insygnia lub odmawia przekazania majątku patriarchalnego, podlega obowiązkowi zwrotu, naprawienia szkody oraz karze właściwej władzy.
 
 **§ 2.** Nie dotyczy to dóbr osobistych poprzedniego patriarchy, Małżonki ani dzieci, chyba że zostały prawnie powierzone urzędowi.
 
-**Kan. 515.** Kto publicznie zniesławia poprzedniego patriarchę, jego Małżonkę lub Potomstwo bez prawdy i miłości, narusza sprawiedliwość i winien dokonać sprostowania, przeprosin oraz naprawienia szkody, jeśli to możliwe.
+**Kan. 428.** Kto publicznie zniesławia poprzedniego patriarchę, jego Małżonkę lub Potomstwo bez prawdy i miłości, narusza sprawiedliwość i winien dokonać sprostowania, przeprosin oraz naprawienia szkody, jeśli to możliwe.
 
 ---
 
 ## Tytuł XI: INTERPRETACJA I PRZEPISY KOŃCOWE
 
-**Kan. 516 § 1.** Przepisy niniejszej Księgi należy interpretować zgodnie z:
+**Kan. 429 § 1.** Przepisy niniejszej Księgi należy interpretować zgodnie z:
 1° Prawem Bożym;
 2° Prawem Naturalnym;
 3° prawami człowieka;
@@ -517,11 +517,11 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 2.** W wątpliwości interpretuje się przepisy na korzyść wspólnoty, Małżonki, Potomstwa, biskupów tytularnych subdiecezjalnych i osób bezbronnych.
 
-**Kan. 517 § 1.** Autentyczna interpretacja przepisów dotyczących ważności wyboru, potwierdzenia patriarchalnego i zakresu władzy patriarchalnej przysługuje Biskupowi Rzymskiemu.
+**Kan. 430 § 1.** Autentyczna interpretacja przepisów dotyczących ważności wyboru, potwierdzenia patriarchalnego i zakresu władzy patriarchalnej przysługuje Biskupowi Rzymskiemu.
 
 **§ 2.** Interpretacja wewnętrzna dotycząca obrządku domowego, sakramentaliów i życia subdiecezji należy do patriarchy w komunii z synodem patriarchalnym i biskupami tytularnymi subdiecezjalnymi, z zachowaniem prawa odwołania do Stolicy Apostolskiej.
 
-**Kan. 518.** Żaden przepis niniejszej Księgi nie może być interpretowany jako:
+**Kan. 431.** Żaden przepis niniejszej Księgi nie może być interpretowany jako:
 1° uzasadniający przemoc;
 2° dopuszczający manipulację sumieniem;
 3° naruszający godność kobiety, mężczyzny, dziecka, osoby chorej lub starszej;
@@ -531,11 +531,11 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 7° podważający prymat Biskupa Rzymskiego;
 8° zamieniający patriarchat w własność prywatną.
 
-**Kan. 519 § 1.** Niniejsza Księga wchodzi w życie z dniem ogłoszenia przez biskupa tytularnego subdiecezjalnego, patriarchy subdiecezji domowych, po konsultacji z synodem patriarchalnym, Małżonką jako współszafarką łaski oraz Triarchią Domową.
+**Kan. 432 § 1.** Niniejsza Księga wchodzi w życie z dniem ogłoszenia przez biskupa tytularnego subdiecezjalnego, patriarchy subdiecezji domowych, po konsultacji z synodem patriarchalnym, Małżonką jako współszafarką łaski oraz Triarchią Domową.
 
 **§ 2.** Ogłoszenie winno zostać zapisane w księdze patriarchalnej, archiwum subdiecezji domowej i przekazane do wiadomości Biskupa Rzymskiego, jeśli wymaga tego prawo lub zwyczaj.
 
-**Kan. 520.** W razie sprzeczności między niniejszą Księgą a wcześniejszymi przepisami Kanonu Kościoła Domowego, pierwszeństwo przysługuje przepisom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego.
+**Kan. 433.** W razie sprzeczności między niniejszą Księgą a wcześniejszymi przepisami Kanonu Kościoła Domowego, pierwszeństwo przysługuje przepisom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego.
 
 ---
 
@@ -605,7 +605,7 @@ Nowy patriarcha otrzymuje urząd, znaki urzędu, archiwa i dobra powierzone patr
 
 **Uwagi redakcyjne:**
 
-1. *Przenumerowanie:* dawne kan. 700–753 → kan. 467–520 (ciągłość po Księdze VII, kończącej się na kan. 466).
+1. *Przenumerowanie:* dawne kan. 700–753 → kan. 380–433 (ciągłość po Księdze VII, kończącej się na kan. 379).
 2. *Odesłania:* dawne odwołania do „Księgi XV” → Księga VII; do „Księgi XVI” → niniejsza Księga.
 3. *Literówki i obce zapisy źródła:* „RZĄDY TIMCZASOWE” → „RZĄDY TYMCZASOWE”; „patriarchat wakuję” → „patriarchat wakuje”; „zerwałcommunię” → „zerwał komunię”; „jako允许ający” → „jako pozwalający na”; „ważnym kanonicznym impedimentem” → „ważnym impedimentem kanonicznym”; „wprowadzać obowiązów” → „wprowadzać obowiązków”; „z słusznej przyczyny” pozostawiono jako kalkę źródła (poprawniej: „z przyczyny słusznej”).
 4. *Usunięte dublety:* zdanie „Niniejsze przepisy dopisuje się … jako Księga XVI” (deklaracja redakcyjna) pominięto; formuły podpisu i pieczęci (*Sigillum…*) zachowano raz, w zakończeniu Księgi.

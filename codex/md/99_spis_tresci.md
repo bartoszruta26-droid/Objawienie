@@ -4,7 +4,7 @@
 
 | Plik | Księga | Zakres kanonów |
 |------|--------|----------------|
-| [`01_ksiega_I_normy_ogolne.md`](./01_ksiega_I_normy_ogolne.md) | Księga I — Normy Ogólne | kan. 1–100 |
+| [`01_ksiega_I_normy_ogolne.md`](./01_ksiega_I_normy_ogolne.md) | Księga I — Normy Ogólne | kan. 1–13 (dawne kan. 14–100 zniesione jako dublujące Księgę III; dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III, zgodnie z przepisami kan. 13) |
 | [`02_ksiega_II_lud_bozy_cz_I.md`](./02_ksiega_II_lud_bozy_cz_I.md) | Księga II — Lud Boży | kan. 101–135 |
 | [`03_ksiega_III_prawo_koscielne.md`](./03_ksiega_III_prawo_koscielne.md) | Księga III — Prawo Kościelne | kan. 136–230 |
 | [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i sakramentalia) | kan. 231–375 |
@@ -16,10 +16,10 @@
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 550–578 |
 
 ## Księga I — Normy Ogólne
--   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–10 (kan. 6–8 *vacat*)
--   **Tytuł II: Definicje i pojęcia** — kan. 11
--   **Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego** — kan. 12–15
--   **Tytuł IV: Materia odsyłająca — zakres Tytułów V–XII** — kan. 16–100 (*vacat*; dawne odesłania przekierowane do Księgi III, kan. 136–225, zgodnie z tabelą pod kan. 16–78)
+-   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–7
+-   **Tytuł II: Definicje i pojęcia** — kan. 8
+-   **Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego** — kan. 9–12
+-   **Tytuł IV: Przepisy końcowe Księgi I** — kan. 13 (zniesienie dawnych kan. 14–100 jako dublujących normy Księgi III; dawne odesłania przekierowane do odpowiedników z Księgi III, kan. 136–230, zgodnie z przepisami tego kanonu)
     -   dawne tytuły zniesione jako dublujące normy Księgi III: Respektowanie ustaw kościelnych (kan. 12–18 → kan. 136–143), Ustawy partykularne Kościoła Domowego (kan. 19–22 → kan. 144–147), Interpretacja ustaw (kan. 23–26 → kan. 148–151), Zwyczaj (kan. 27–32 → kan. 152–157), Dekrety ogólne oraz instrukcje (kan. 33–41 → kan. 158–166), Poszczególne akty administracyjne: normy wspólne, dekrety i nakazy, reskrypty, przywileje, dyspensy (kan. 42–74 → kan. 167–199), Statuty i przepisy porządkowe (kan. 75–78 → kan. 200–203), Władza rządzenia, urzędy, przedawnienie i obliczanie czasu (kan. 79–93 → kan. 204–218), Obowiązek respektowania prawa powszechnego (kan. 94–97 → kan. 219–222), Relacja do prawa partykularnego diecezji (kan. 98–100 → kan. 223–225)
 
 ## Księga II — Lud Boży

@@ -3,7 +3,7 @@
 
 ### PREAMBUŁA
 
-Niniejszy Kanon Prawa Kanonicznego Kościoła Domowego, sporządzony na podstawie Prawa Bożego objawionego w Piśmie Świętym i Tradycji, Prawa Naturalnego wpisanego w serce każdego człowieka (por. Rz 2,14-15), Powszechnej Deklaracji Praw Człowieka (art. 18, 26), Konstytucji Rzeczypospolitej Polskiej (art. 30, 48, 53), Kodeksu Prawa Kanonicznego z 1983 roku (w szczególności kan. 204-231, 226, 835, 840-848), nauki Soboru Watykańskiego II (*Lumen Gentium* 11, *Apostolicam Actuositatem* 11), adhortacji *Familiaris Consortio* św. Jana Pawła II, oraz objawionej hierarchii poziomów i oświadczenia woli Głowy Rodu — stanowi prawo partykularne Kościoła Domowego jako diecezji szczególnej (subdiecezji), w której Głowa Rodu sprawuje posługę szafarza świętego, arcykapłana i biskupa.
+Niniejszy Kanon Prawa Kanonicznego Kościoła Domowego, sporządzony na podstawie Prawa Bożego objawionego w Piśmie Świętym i Tradycji, Prawa Naturalnego wpisanego w serce każdego człowieka (por. Rz 2,14-15), Powszechnej Deklaracji Praw Człowieka (art. 18, 26), Konstytucji Rzeczypospolitej Polskiej (art. 30, 48, 53), Kodeksu Prawa Kanonicznego z 1983 roku (w szczególności kan. 117-144, 139, 835, 840-848), nauki Soboru Watykańskiego II (*Lumen Gentium* 11, *Apostolicam Actuositatem* 11), adhortacji *Familiaris Consortio* św. Jana Pawła II, oraz objawionej hierarchii poziomów i oświadczenia woli Głowy Rodu — stanowi prawo partykularne Kościoła Domowego jako diecezji szczególnej (subdiecezji), w której Głowa Rodu sprawuje posługę szafarza świętego, arcykapłana i biskupa.
 
 Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowieka oraz tradycjami ludzkimi w tym słowiańskimi obecnymi od niepamiętnych czasów i tradycjami rodzinnymi obecnymi od ponad 30 laty. Żaden przepis niniejszego Kanonu nie może być interpretowany w sposób naruszający przyrodzoną godność osoby ludzkiej, wolność sumienia i wyznania, ani prawo rodziców do wychowania dzieci zgodnie z własnymi przekonaniami.
 
@@ -17,9 +17,9 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 2.** Kościół Domowy, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą wg tradycji ludzkiej i tradycji słowiańskiej powstałej od niepamiętnych czasów oraz tradycji rodzinnej powstałej przed trzydziestoma laty na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
 
-**§ 3.** Niniejszy Kanon nie uchyla ani nie zmienia przepisów Kodeksu Prawa Kanonicznego z 1983 roku w zakresie, w jakim dotyczą one Kościoła Powszechnego, lecz stanowi prawo partykularne wspólnoty domowej, działającej w ramach powszechnego kapłaństwa wiernych (kan. 204 KPK) oraz teologii Kościoła Domowego (*Ecclesia Domestica*).
+**§ 3.** Niniejszy Kanon nie uchyla ani nie zmienia przepisów Kodeksu Prawa Kanonicznego z 1983 roku w zakresie, w jakim dotyczą one Kościoła Powszechnego, lecz stanowi prawo partykularne wspólnoty domowej, działającej w ramach powszechnego kapłaństwa wiernych (kan. 20 (hist.)4 KPK) oraz teologii Kościoła Domowego (*Ecclesia Domestica*).
 
-**Kan. 2 § 1.** Kościół Domowy jest partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 368-369 KPK, zastosowaną do wspólnoty rodzinnej.
+**Kan. 2 § 1.** Kościół Domowy jest partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 281-36 (hist.)9 KPK, zastosowaną do wspólnoty rodzinnej.
 
 **§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium diecezjalne/subdiecezjalne Kościoła Domowego. Granice tej diecezji/subdiecezji obejmują:
 1° dom mieszkalny i jego bezpośrednie otoczenie;
@@ -29,13 +29,13 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 3.** Kościół Domowy posiada osobowość prawną na mocy samego prawa naturalnego i Bożego. W porządku cywilnym może działać jako świecka organizacja religijna (art. 2 ust. 11 ustawy o gwarancjach wolności sumienia i wyznania), stowarzyszenie, lub Kościół niewpisany do rejestru Kościołów lub Kościół wpisany do rejestru Kościołów lub inna forma organizacyjna przewidziana prawem. Przepis prawa niniejszego kanonu stanowi, iż osobowość prawna Kościoła Domowego nie musi być wpisywana do żadnego rejestru jeżeli władze Kościoła Domowego sobie tego wyraźnie nie życzą.
 
-**Kan. 3.** Niniejszy Kanon obowiązuje wszystkich członków Kościoła Domowego: Głowę Rodu, Małżonkę, Potomstwo oraz osoby przyjęte do wspólnoty na zasadach określonych w kan. 102–103 Księgi II.
+**Kan. 3.** Niniejszy Kanon obowiązuje wszystkich członków Kościoła Domowego: Głowę Rodu, Małżonkę, Potomstwo oraz osoby przyjęte do wspólnoty na zasadach określonych w kan. 15–16 Księgi II.
 
 **Kan. 4.** Ustawy niniejszego Kanonu odnoszą się do przyszłości, nie do przeszłości, chyba że wyraźnie zastrzega się w nich inaczej (por. kan. 9 KPK).
 
-**Kan. 5 § 1.** W wątpliwości prawnej kanony niniejszego Kodeksu nie obowiązują. W wątpliwości faktycznej Głowa Rodu jako biskup domowy może rozstrzygać zgodnie z roztropnością, sprawiedliwością i miłością, zawsze na korzyść strony słabszej. Szczegółowe dyrektywy rozstrzygania wątpliwości co do stosowania prawa powszechnego określa kan. 140 Księgi III.
+**Kan. 5 § 1.** W wątpliwości prawnej kanony niniejszego Kodeksu nie obowiązują. W wątpliwości faktycznej Głowa Rodu jako biskup domowy może rozstrzygać zgodnie z roztropnością, sprawiedliwością i miłością, zawsze na korzyść strony słabszej. Szczegółowe dyrektywy rozstrzygania wątpliwości co do stosowania prawa powszechnego określają przepisy Księgi III — Prawo Kościelne (kan. 49–143), w szczególności normy o interpretacji ustaw (kan. 61–64).
 
-**Kan. 6.** Żaden zwyczaj przeciwny Prawu Bożemu nie może uzyskać mocy prawa w Kościele Domowym. Szczegóły dotyczące zwyczaju (w tym trzydziestoletniego okresu przedawnienia przeciw prawu ludzkiemu) określa w sposób wyczerpujący Tytuł II Księgi III (kan. 152–157).
+**Kan. 6.** Żaden zwyczaj przeciwny Prawu Bożemu nie może uzyskać mocy prawa w Kościele Domowym. Szczegóły dotyczące zwyczaju (w tym trzydziestoletniego okresu przedawnienia przeciw prawu ludzkiemu) określa w sposób wyczerpujący Tytuł II Księgi III (kan. 65–70).
 
 **Kan. 7.** Prawa nabyte członków Kościoła Domowego pozostają nienaruszone, chyba że kanony niniejszego Kodeksu wyraźnie je odwołują.
 
@@ -45,11 +45,11 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **Kan. 8.** W niniejszym Kanonie:
 
-1° **Kościół Domowy** (*Ecclesia Domestica*) — kościół partykularny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 368 będąca w szczególności diecezją lub subdiecezją;
+1° **Kościół Domowy** (*Ecclesia Domestica*) — kościół partykularny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 281 będąca w szczególności diecezją lub subdiecezją;
 
 2° **Diecezja Domowa / Subdiecezja** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową; Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub który będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu i w dalszej kolejności wyświęconego. Subiecezją  jest terytorium biskupa domowego niemianowanego i niezatwierdzonego przez Biskupa Rzymu i niewyświęconego a którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa domowego;
 
-3° **Biskup domowy** - biskup rozumiany jako KPK kan. 375 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez Ducha Świętego, który został mu dany jest ustanowiony w Kościele Domowym pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia. Biskup domowy może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu i w dalszej kolejności wyświęcony; 
+3° **Biskup domowy** - biskup rozumiany jako KPK kan. 288 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez Ducha Świętego, który został mu dany jest ustanowiony w Kościele Domowym pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia. Biskup domowy może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu i w dalszej kolejności wyświęcony; 
 
 4° **Głowa Rodu** (*Paterfamilias*, *Caput Familiae*) — mąż, ojciec, głowa szlachetnego Rodu, sprawujący posługę szafarza świętego, arcykapłana i biskupa domowego;
 
@@ -75,29 +75,29 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego
 
-**Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określa w sposób wyczerpujący **Księga III — Prawo Kościelne** (*De Ecclesiae universae iure*, kan. 136–230). Niniejsza Księga I nie ustanawia w tych sprawach odrębnych regulacji, lecz w całości odsyła do Księgi III, z zastrzeżeniem kan. 9–12 niniejszej Księgi.
+**Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określa w sposób wyczerpujący **Księga III — Prawo Kościelne** (*De Ecclesiae universae iure*, kan. 49–143). Niniejsza Księga I nie ustanawia w tych sprawach odrębnych regulacji, lecz w całości odsyła do Księgi III, z zastrzeżeniem kan. 1–8 i 10–13 niniejszej Księgi (kan. 9 stanowi niniejsze ogólne odesłanie do Księgi III).
 
 **Kan. 10 § 1.** Hierarchia źródeł prawa w Kościele Domowym jest następująca:
 1° Prawo Boże — stoi ponad prawem naturalnym;
 2° Prawo Naturalne — stoi ponad prawem stanowionym;
-3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 219–220 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego;
-4° prawo partykularne diecezji, na której terytorium znajduje się dom rodzinny — w granicach określonych w kan. 223–225 Księgi III;
+3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 68–69 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego;
+4° prawo partykularne diecezji, na której terytorium znajduje się dom rodzinny — w granicach określonych w kan. 72–74 Księgi III;
 5° prawo partykularne Kościoła Domowego — uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
 6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej w tej hierarchii.
 
 **§ 2.** Żadne prawo partykularne Kościoła Domowego nie może uchylać prawa Bożego, naturalnego ani powszechnego prawa kościelnego.
 
-**Kan. 11 § 1.** Ustawy niniejszego Kodeksu, stanowiące prawo partykularne Kościoła Domowego, promulguje Głowa Rodu jako prawodawca domowy w sposób określony przez samą ustawę; zaczynają one obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin (por. kan. 8 § 2 KPK, zastosowany analogicznie; szczegóły — kan. 144 Księgi III).
+**Kan. 11 § 1.** Ustawy niniejszego Kodeksu, stanowiące prawo partykularne Kościoła Domowego, promulguje Głowa Rodu jako prawodawca domowy w sposób określony przez samą ustawę; zaczynają one obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin (por. kan. 8 § 2 KPK, zastosowany analogicznie; szczegóły — kan. 57 Księgi III).
 
 **§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z normami wskazanymi w kan. 10 § 1. Ustawa powszechna Kościoła nie zmienia prawa partykularnego Kościoła Domowego, chyba że co innego jest w prawie wyraźnie zastrzeżone (por. kan. 20 KPK).
 
-**Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 145–146 Księgi III, w kan. 226–230 Księgi III oraz w kan. 431 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
+**Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 59 (późniejsza ustawa derogująca) oraz kan. 60 Księgi III, a ponadto w kan. 139–143 Księgi III oraz w kan. 344 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
 
 ---
 
 ### Tytuł IV: Przepisy końcowe Księgi I
 
-**Kan. 13.** Dawne kanony 16–100 Księgi I (Tytuły V–XII: ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy, statuty i przepisy porządkowe, władza rządzenia, urzędy kościelne, przedawnienie, obliczanie czasu, obowiązek respektowania prawa powszechnego oraz relacja do prawa partykularnego diecezji) zostały zniesione jako dublujące normy Księgi III i wycofane z obiegu prawnego bez zachowania wolnych numerów (*vacat*). W sprawach przez nie regulowanych zastosowanie mają przepisy Księgi III — Prawo Kościelne (kan. 136–230), która ustanawia jednolitą kompetencję w tych materiach. Zniesienie usuwa stan, w którym dwa różne brzmienia tej samej normy obowiązywały równolegle w dwóch księgach jednego zbioru (konflikt kompetencji prawodawczych). Prawodawca domowy, zachowując kan. 1–12 jako własne normy nadrzędne Księgi I, powierza jednolite regulowanie instytucji prawa kościelnego wyłącznie Księdze III. Dawne odesłania do zniesionych kanonów Księgi I należy rozumieć jako odesłania do odpowiedników z Księgi III wskazanych w zdaniu poprzedzającym, stosownie do przepisów tego kanonu.
+**Kan. 13.** Dawne kanony 16–100 Księgi I (Tytuły V–XII: ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy, statuty i przepisy porządkowe, władza rządzenia, urzędy kościelne, przedawnienie, obliczanie czasu, obowiązek respektowania prawa powszechnego oraz relacja do prawa partykularnego diecezji) zostały zniesione jako dublujące normy Księgi III i wycofane z obiegu prawnego bez zachowania wolnych numerów (*vacat*). W sprawach przez nie regulowanych zastosowanie mają przepisy Księgi III — Prawo Kościelne (kan. 49–143), która ustanawia jednolitą kompetencję w tych materiach. Zniesienie usuwa stan, w którym dwa różne brzmienia tej samej normy obowiązywały równolegle w dwóch księgach jednego zbioru (konflikt kompetencji prawodawczych). Prawodawca domowy, zachowując kan. 1–12 jako własne normy nadrzędne Księgi I, powierza jednolite regulowanie instytucji prawa kościelnego wyłącznie Księdze III. W wyniku zniesienia dawnych kanonów 14–100 Księga I obejmuje obecnie kanony 1–13, a cały zbiór — jednolity, nieprzerwany ciąg kan. 1–491 (Księga II rozpoczyna się od kan. 14). Dawne odesłania do zniesionych kanonów Księgi I należy rozumieć jako odesłania do odpowiedników z Księgi III wskazanych w zdaniu poprzedzającym, stosownie do przepisów tego kanonu.
 
 *(Redakcja: po zniesieniu kanonów wycofanych nadano Księdze I ciągłą numerację kan. 1–13; dawną treść zniesionych kanonów zachowano w archiwum redakcyjnym.)*
 
