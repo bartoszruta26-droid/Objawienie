@@ -338,13 +338,13 @@
 **§ 2.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by żaden przepis prawa partykularnego Kościoła Domowego nie był sprzeczny z prawem powszechnym Kościoła, a w przypadku wątpliwości pierwszeństwo przysługuje prawu powszechnemu.
 
 **Kan. 133 § 1.** Kościół Domowy respektuje w szczególności następujące obszary prawa powszechnego:
-1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-295 KPK);
-2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliów i pogrzebu kościelnego (kan. 834-383 KPK);
+1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-1165 KPK);
+2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliów i pogrzebu kościelnego (kan. 834-839 KPK);
 3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 3 KPK);
 4° **Prawo małżeńskie** — wszystkie przepisy dotyczące małżeństwa, jego zawierania, przeszkód, zgody, formy, skutków i separacji (kan. 185-1165 KPK);
-5° **Prawo karne** — przepisy dotyczące przestępstw i kar w Kościele (kan. 441-1399 KPK);
-6° **Prawo procesowe** — przepisy dotyczące postępowań sądowych i administracyjnych (kan. 530-1752 KPK);
-7° **Prawo dóbr doczesnych** — przepisy dotyczące nabywania, zarządzania i alienacji dóbr kościelnych (kan. 384-1310 KPK).
+5° **Prawo karne** — przepisy dotyczące przestępstw i kar w Kościele (kan. 1311-1752 KPK);
+6° **Prawo procesowe** — przepisy dotyczące postępowań sądowych i administracyjnych (kan. 1400-1752 KPK);
+7° **Prawo dóbr doczesnych** — przepisy dotyczące nabywania, zarządzania i alienacji dóbr kościelnych (kan. 1254-1310 KPK).
 
 **§ 2.** W sprawach nieuregulowanych niniejszym Kanonem Kościoła Domowego stosuje się bezpośrednio przepisy Kodeksu Prawa Kanonicznego z 1983 roku.
 

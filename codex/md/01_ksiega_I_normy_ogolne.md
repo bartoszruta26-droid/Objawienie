@@ -91,7 +91,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z normami wskazanymi w kan. 10 § 1. Ustawa powszechna Kościoła nie zmienia prawa partykularnego Kościoła Domowego, chyba że co innego jest w prawie wyraźnie zastrzeżone (por. kan. 20 KPK).
 
-**Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 59 (późniejsza ustawa derogująca) oraz kan. 60 Księgi III, a ponadto w kan. 139–143 Księgi III oraz w kan. 344 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
+**Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 58–60 Księgi III (porządkowanie ustaw, późniejsza ustawa derogująca, charakter personalny ustaw partykularnych), a ponadto w kan. 139–143 Księgi III oraz w kan. 344 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
 
 ---
 

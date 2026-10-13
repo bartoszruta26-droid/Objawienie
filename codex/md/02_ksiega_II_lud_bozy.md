@@ -64,7 +64,7 @@
 7° legalnego dochodzenia i obrony swoich praw (kan. 221 KPK);
 8° opuszczenia wspólnoty w każdym czasie bez ponoszenia konsekwencji.
 
-**Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 0 KPK). Dotyczy to w szczególności:
+**Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 220 KPK). Dotyczy to w szczególności:
 1° zakazu rozpowszechniania informacji o życiu prywatnym członków bez ich zgody;
 2° zakazu używania informacji uzyskanych w spowiedzi lub rozmowie duszpasterskiej;
 3° zakazu publicznego poniżania lub zawstydzania członków wspólnoty;

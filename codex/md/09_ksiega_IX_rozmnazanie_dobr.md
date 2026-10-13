@@ -370,7 +370,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 1° zachowują pełną autonomię w zakresie prawa naturalnego i niniejszego Kanonu;
 
-2° nie przypisują sobie tytułu „katolicki” bez zgody kompetentnej władzy (por. kan. 0 KPK);
+2° nie przypisują sobie tytułu „katolicki” bez zgody kompetentnej władzy (por. kan. 300 § 1 KPK);
 
 3° nie sprawują sakramentów zastrzeżonych kapłanom wyświęconym;
 
