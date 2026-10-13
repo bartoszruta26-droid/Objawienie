@@ -1,19 +1,21 @@
 # SPIS TREŚCI — Codex Iuris Canonici Ecclesiae Domesticae
 
-*Jednolity ciąg kanonów 1–578 w dziesięciu księgach. Zakresy odpowiadają nowej, ciągłej numeracji nadanej przy porządkowaniu zbioru (Księgi IX–X dopełniają ciąg po kan. 520).*
+*Zbiór obejmuje jednolity ciąg kanonów 1–491 w jedenastu księgach (Księgi I–X) oraz ciąg odrębny kan. 579–601 (Księga XI). Zakresy odpowiadają nowej, ciągłej numeracji nadanej przy porządkowaniu zbioru.*
 
 | Plik | Księga | Zakres kanonów |
 |------|--------|----------------|
+| [`00_preambula.md`](./00_preambula.md) | Preambuła i Uzupełnienia do Księgi I | kan. 1a–1s (normy przedkanoniczne; nie wchodzą w ciąg numeracji zbioru) |
 | [`01_ksiega_I_normy_ogolne.md`](./01_ksiega_I_normy_ogolne.md) | Księga I — Normy Ogólne | kan. 1–13 (dawne kan. 14–100 zniesione jako dublujące Księgę III; dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III, zgodnie z przepisami kan. 13) |
-| [`02_ksiega_II_lud_bozy_cz_I.md`](./02_ksiega_II_lud_bozy_cz_I.md) | Księga II — Lud Boży | kan. 101–135 |
-| [`03_ksiega_III_prawo_koscielne.md`](./03_ksiega_III_prawo_koscielne.md) | Księga III — Prawo Kościelne | kan. 136–230 |
-| [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i sakramentalia) | kan. 231–375 |
-| [`05_ksiega_V_prawo_sakramentalne.md`](./05_ksiega_V_prawo_sakramentalne.md) | Księga V — Posługa kapłańska i współudział Małżonki i Potomka | kan. 376–405 |
-| [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 406–431 |
-| [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 432–466 |
-| [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 467–520 |
-| [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 521–549 |
-| [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 550–578 |
+| [`02_ksiega_II_lud_bozy_cz_I.md`](./02_ksiega_II_lud_bozy_cz_I.md) | Księga II — Lud Boży | kan. 14–48 |
+| [`03_ksiega_III_prawo_koscielne.md`](./03_ksiega_III_prawo_koscielne.md) | Księga III — Prawo Kościelne | kan. 49–143 |
+| [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i sakramentalia) | kan. 144–288 |
+| [`05_ksiega_V_prawo_sakramentalne.md`](./05_ksiega_V_prawo_sakramentalne.md) | Księga V — Posługa kapłańska i współudział Małżonki i Potomka | kan. 289–318 |
+| [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 319–344 |
+| [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 345–379 |
+| [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
+| [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
+| [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
+| [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 579–601 (odrębny ciąg; dawna numeracja źródłowa kan. 550–572 zastąpiona przez kan. 579–601) |
 
 ## Księga I — Normy Ogólne
 -   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–7
