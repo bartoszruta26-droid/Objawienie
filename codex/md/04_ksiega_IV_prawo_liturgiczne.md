@@ -2,8 +2,6 @@
 
 *Liturgia, sakramentalia, rok liturgiczny, modlitwa domowa, trzy obrządki oraz cnoty, dary i charyzmaty stanowią serce uświęcającego zadania Kościoła Domowego.*
 
-> **Przypis redakcyjny.** Dawna „Księga XIII — Cnoty, sakramentalia, dary i charyzmaty” (kan. 213–330) połączona z materialnie należnymi jej częściami dawnego Kanonu: Księgą V o uświęcającym zadaniu (kan. 50–70 (hist.)), Księgą VI o trzech obrządkach domowych (kan. 71–84 (hist.)) oraz przeniesionymi przepisami o miejscach kultu i niedzieli (kan. 348–352 Poprawek). Usunięto stwierdzone powtórzenia: dawne kan. 55–61 (hist.) dublowały szczegółowe przepisy o sakramentaliach (dawne kan. 223–234 → zachowano wersję pełną); dawne kan. 63–67 (hist.) dublowały dawne kan. 244–249; treść modlitwy (dawne kan. 68–70 (hist.)) zachowana jako Tytuł III. Nowa ciągła numeracja: kan. 144–288.
-
 ---
 
 ## Tytuł I: LITURGIA DOMOWA
@@ -1762,10 +1760,3 @@
 
 **Kan. 288.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące Sakramentaliów Kultowych winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
 
-**Uwagi redakcyjne:**
-
-*Zasada lektury:* numery oznaczone poniżej jako „dawne” dotyczą starej numeracji źródłowej i pełnią wyłącznie funkcję historyczno-porządkową; nie stanowią obowiązujących odesłań krzyżowych. W sprawach przez nie regulowanych zastosowanie mają odpowiedniki w nowej, ciągłej numeracji zbioru — zgodnie z przepisami tego kanonu.
-
-1. *Usunięte powtórzenia:* dawne kan. 55–61 (hist.) (szczegółowe formuły błogosławieństw sakramentaliów rzeczowych) zostały scalone z pełniejszymi odpowiednikami Tytułu IX (sakramentalia rzeczowe); dawne kan. 63–67 (hist.) (okresy roku liturgicznego) zachowane w skróconej formie jako Tytuł III, ponieważ pełniejsze przepisy celebracyjne mieszczą się w Tytułach IX–XIV; dawne kan. 46–49 (hist.) (formacja w trzech obrządkach) dublowały dawne kan. 73–84 (hist.) — zachowano wersję pełną (Tytuł V).
-2. *Poprawki scalone:* **kan. 350 Poprawek** (modlitwa rodzinna) przyjęty w brzmieniu źródłowym jako kan. 162–163 niniejszej Księgi; literówki „Głowa Rodu” ujednolicone.
-3. *Materia przeniesiona:* **kan. 348–352 Poprawek** (miejsca kultu, niedziela) należały tematycznie do niniejszej Księgi — wydzielone z części o relacjach zewnętrznych i zastąpione w tekście odesłaniem do kan. 187–192; dawne kan. 203–204 (respektowanie prawa w trzech obrządkach) włączone strukturalnie w obręb Tytułu V poprzez swe normy ogólne zawarte już w Księdze III.
