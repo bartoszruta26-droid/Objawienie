@@ -414,30 +414,3 @@
 4° mieć na uwadze dobro wspólnoty i zbawienie dusz;
 5° nie podejmować decyzji, które mogłyby naruszyć jedność z Kościołem Powszechnym.
 
-**Uwagi redakcyjne:**
-
-1. *Scalenia powtórzeń:* w korpusie tej Księgi nie stwierdzono kanonów o identycznym sensie — normy pokrewne (dawne kan. 113–120 o ustawach powszechnych oraz 208–215 o ustawach partykularnych i interpretacji) zachowano odrębnie, w nowych numerach 49–56 i 57–64.
-2. *Poprawki naniesione na tekst:* ujednolicono pisownię „Głowa Rodu”; w dawnym kan. 201 § 2 (nowy kan. 73 § 2) poprawiono literówkę „Rodzu”; odesłania wewnętrzne przeliczono zgodnie z nową numeracją (np. dawne „kan. 131” w dawnym kan. 134 → nowy „kan. 67”).
-3. *Kanony z końca, należące na początek:* dawne kan. 203–209 znajdowały się po właściwym korpusie; kan. 203–204 przeniesiono tematycznie do Księgi liturgicznej, a kan. 205–209 pozostają na końcu Księgi III jako jej Tytuł XII (nowe kan. 139–143) — zgodnie z układem wzorcowym KPK.
-
----
-
-### ANEKS: TABELA KORESPONDENCJI KSIĘGI III Z KODEKSEM PRAWA KANONICZNEGO 1983
-
-*Tabela ma charakter historyczno-porządkowy: kolumna „Odpowiadające kanony KPK 1983” zawiera numery kanonów zewnętrznych (KPK), a kolumna „Nowa numeracja (kan.)” — obowiązujące odesłania wewnętrzne zbioru; dawne odesłania do zniesionej numeracji źródłowej należy czytać zgodnie z przepisami tego kanonu, tj. przez odpowiedniki oznaczone nową, ciągłą numeracją.*
-
-| Tytuł niniejszej Księgi | Nowa numeracja (kan.) | Odpowiadające kanony KPK 1983 | Przedmiot |
-|---|---|---|---|
-| Tytuł I: Ustawy kościelne | Kan. 49–64 | Kan. 7–22 (hist.) | Leges ecclesiasticae |
-| Tytuł II: Zwyczaj | Kan. 65–70 | Kan. 23–28 (hist.) | Consuetudo |
-| Tytuł III: Dekrety ogólne i instrukcje | Kan. 71–79 | Kan. 29–34 (hist.) | Decreta generalia et instructiones |
-| Tytuł IV: Poszczególne akty administracyjne | Kan. 80–112 | Kan. 35–93 (hist.) | Actus administrativi singulares, rescripta, privilegia, dispensationes |
-| Tytuł V: Statuty i przepisy porządkowe | Kan. 113–116 | Kan. 94–95 (hist.) | Statuta et ordinationes |
-| Tytuł VI: Władza rządzenia | Kan. 117–121 | Kan. 42–57 | Potestas regiminis |
-| Tytuł VII: Urzędy kościelne | Kan. 122–127 | Kan. 58–109 | Officia ecclesiastica |
-| Tytuł VIII: Przedawnienie | Kan. 128–130 | Kan. 110–112 | Praescriptio |
-| Tytuł IX: Obliczanie czasu | Kan. 131 | Kan. 113–116 | Supputatio temporis |
-| Tytuł X: Obowiązek respektowania prawa powszechnego | Kan. 132–135 | Cały KPK | Observantia iuris universalis |
-| Tytuł XI: Relacja do prawa partykularnego diecezji | Kan. 136–138 | Kan. 281–485 | Ecclesiae particulares |
-| Tytuł XIII: Trzy obrządki domowe | *(wydane w Księdze IV, kan. 165–169)* | — | Munus sanctificandi |
-| Tytuł XII: Przepisy końcowe | Kan. 139–143 | Kan. 6 § 2, 14, 1752 | Normae finales |
