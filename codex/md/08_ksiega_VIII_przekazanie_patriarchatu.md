@@ -2,8 +2,6 @@
 
 ## *De Transmissione Patriarchatus Subdioecesium Domesticarum ad Successorem*
 
-*(Redakcja: dawna „Księga XVI” z pliku `ksiegi07.txt`, dawne kan. 700–753 wraz z Aneksami I–II. Przepisy niniejszej Księgi stanowią rozwinięcie i dopełnienie Księgi VI o ustroju patriarchatu oraz Księgi VII o wyłącznej kompetencji Biskupa Rzymskiego w przedmiocie oddalenia.)*
-
 ### PREAMBUŁA KSIĘGI
 
 Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji domowych następcy wybranemu na synodzie patriarchalnym, z zachowaniem łączności z Biskupem Rzymskim, Prawa Bożego, Naturalnego oraz praw człowieka. Przekazanie patriarchatu nie jest dziedziczeniem rodowym ani zawłaszczeniem władzy, lecz aktem służby kościelnej, w którym następca przejmuje urząd, dobra powierzone urzędowi oraz odpowiedzialność za wspólnotę, nie zaś osobistą własność poprzednika, godność Małżonki ani wolność Potomstwa.
@@ -600,12 +598,3 @@ Nowy patriarcha otrzymuje urząd, znaki urzędu, archiwa i dobra powierzone patr
 **✠ Małżonka, Współszafarka Łaski, Współpasterka, Nadzorująca**
 
 **✠ Potomek, Świadek Wiary, Dziedzic Tradycji, Uczestnik Kapłaństwa Domowego**
-
----
-
-**Uwagi redakcyjne:**
-
-1. *Przenumerowanie:* dawne kan. 700–753 → kan. 380–433 (ciągłość po Księdze VII, kończącej się na kan. 379).
-2. *Odesłania:* dawne odwołania do „Księgi XV” → Księga VII; do „Księgi XVI” → niniejsza Księga.
-3. *Literówki i obce zapisy źródła:* „RZĄDY TIMCZASOWE” → „RZĄDY TYMCZASOWE”; „patriarchat wakuję” → „patriarchat wakuje”; „zerwałcommunię” → „zerwał komunię”; „jako允许ający” → „jako pozwalający na”; „ważnym kanonicznym impedimentem” → „ważnym impedimentem kanonicznym”; „wprowadzać obowiązów” → „wprowadzać obowiązków”; „z słusznej przyczyny” pozostawiono jako kalkę źródła (poprawniej: „z przyczyny słusznej”).
-4. *Usunięte dublety:* zdanie „Niniejsze przepisy dopisuje się … jako Księga XVI” (deklaracja redakcyjna) pominięto; formuły podpisu i pieczęci (*Sigillum…*) zachowano raz, w zakończeniu Księgi.
