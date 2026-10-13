@@ -114,7 +114,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 **Kan. 297 § 1.** W przypadku nieobecności Głowy Rodu, jego niedomagania fizycznego lub psychicznego, przeszkody w sprawowaniu funkcji, lub innej poważnej przyczyny, Małżonka zastępuje go we wszystkich funkcjach kapłańskich, szafarskich i biskupich w Kościele Domowym.
 
-**§ 2.** Zasady ogólne dotyczące władzy i jej wykonywania w Kościele Domowym określa Księga III, Tytuł VI o władzy rządzenia (kan. 117–121); normy ochronne Księgi II (kan. 47–48) stosuje się do wykładni niniejszego tytułu. Szczegóły zastępstwa uregulowane są jednolicie w Rozdziałach II i III niniejszego Tytułu (kan. 300–303).
+**§ 2.** Zasady ogólne dotyczące władzy i jej wykonywania w Kościele Domowym określa Księga III, Tytuł VI o władzy rządzenia (kan. 117–121); normy ochronne Księgi II (kan. 47–48) stosuje się do wykładni niniejszego tytułu. Szczegóły zastępstwa uregulowane są jednolicie w Rozdziałach II i III niniejszego Tytułu (kan. 297–302).
 
 **Kan. 298.** Małżonka zastępuje Głowę Rodu w przypadku:
 1° nieobecności w domu (podróż, pielgrzymka, pobyt w szpitalu);
@@ -174,7 +174,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 2° odpowiedzialność za powierzone zadania domowe i formacyjne;
 3° reprezentowanie wspólnoty wobec rówieśników i w środowisku;
 4° uczestnictwo w posiedzeniach Triarchii Domowej z głosem doradczym (po ukończeniu trzynastu lat);
-5° gotowość do przejęcia funkcji na zasadach określonych w kan. 305 § 1 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu patriarchatu.
+5° gotowość do przejęcia funkcji na zasadach określonych w kan. 303 § 1 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu patriarchatu.
 
 ---
 
@@ -199,7 +199,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 1° od siódmego roku życia: ministrantura, śpiew, czytanie krótkich tekstów, przygotowanie przestrzeni kultu;
 2° od trzynastego roku życia: czytanie Pisma Świętego, prowadzenie modlitwy wiernych, głos doradczy w Triarchii Domowej;
 3° od piętnastego roku życia: prowadzenie rozważań formacyjnych, katecheza młodszych, opieka nad sakramentaliami;
-4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 300 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu patriarchatu.
+4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 299 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu patriarchatu.
 
 ---
 

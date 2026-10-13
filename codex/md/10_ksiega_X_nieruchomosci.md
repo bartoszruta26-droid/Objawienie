@@ -2,7 +2,7 @@
 
 ## *De bonis immobilibus Ecclesiae Domesticae et Subdioecesis*
 
-*(Redakcja porządkująca: dawna „Księga XVIII — Tytuł III: Nieruchomości” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 463–491**, zgodnie ze spisem treści (`09_spis_tresci.md`), jako kontynuację ciągu kan. 1–433.)*
+*(Redakcja porządkująca: dawna „Księga XVIII — Tytuł III: Nieruchomości” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 463–491**, zgodnie ze spisem treści (`99_spis_tresci.md`), jako kontynuację ciągu kan. 1–433.)*
 
 ## SPIS TREŚCI KSIĘGI
 
@@ -247,7 +247,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 6° żaden współwłaściciel nie może być pozbawiony dostępu do kaplicy domowej.
 
-**§ 2.** W przypadku sporu między współwłaścicielami sprawę rozstrzyga się według kan. 486.
+**§ 2.** W przypadku sporu między współwłaścicielami sprawę rozstrzyga się zgodnie z przepisami tego kanonu, z zachowaniem trybu określonego w kan. 487.
 
 **Kan. 473 § 1.** Jeśli nieruchomość jest zbyt mała, by wszyscy Potomkowie mogli z niej korzystać jednocześnie, stosuje się następujące rozwiązania, w kolejności pierwszeństwa:
 
@@ -723,7 +723,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 | Sytuacja | Rozwiązanie | Podstawa kanoniczna | Uwagi |
 |---|---|---|---|
-| Jeden Potomek, jedna nieruchomość | Przejmuje całość | kan. 479 § 2 | Z obowiązkiem opieki nad kaplicą |
+| Jeden Potomek, jedna nieruchomość | Przejmuje całość | kan. 479 § 1 | Z obowiązkiem opieki nad kaplicą |
 | Kilku Potomków, jedna nieruchomość | Współwłasność lub wyznaczenie zarządcy | kan. 480 § 2–4 | Z prawem dostępu dla wszystkich |
 | Kilku Potomków chcą podziału | Podział do korzystania lub spłata | kan. 473 | Podział fizyczny zabroniony |
 | Małżonka przeżywa | Dożywotnie prawo zamieszkania | kan. 474 | Niezbywalne, niepodlegające egzekucji |
@@ -754,7 +754,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 ## UWAGI REDAKCYJNE
 
 1. **Numeracja.** Dawny „Tytuł III — Nieruchomości” dawnej „Księgi XVIII” (kan. 930–958, z luką pod kan. 929) otrzymał numerację ciągłą **kan. 463–491**, bezpośrednio po Księdze IX (kan. 434–462). Luka numeracyjna została zniesiona przez przejście na ciągłą numerację zbioru.
-2. **Granica przedmiotowa z Księgą IX.** W dawnym tekście mylono dwa różne reżimy prawne: *rozmnażanie dóbr duchowych i intelektualnych* (Księga IX) oraz *niepodzielność nieruchomości* (Księga X). Dzieli je wyraźna granica: kan. 460 § 2 (kompetencje) i kan. 490 § 3 (kolizja norm — pierwszeństwo norm szczególnych niniejszej Księgi dla dóbr nieruchomych).
+2. **Granica przedmiotowa z Księgą IX.** W dawnym tekście mylono dwa różne reżimy prawne: *rozmnażanie dóbr duchowych i intelektualnych* (Księga IX) oraz *niepodzielność nieruchomości* (Księga X). Dzieli je wyraźna granica: kan. 460 § 2 (wyłączna kompetencja Księgi VIII w sprawach przekazania patriarchatu) oraz kan. 491 (kolizja norm — pierwszeństwo norm szczególnych niniejszej Księgi dla dóbr nieruchomych).
 3. **Powtórzenia.** Dawne kan. 930–958 powtarzały miejscami dawne kan. 919–922 (podział dóbr materialnych); zachowano jedno brzmienie normy w każdym zakresie, a odpowiedniki wskazano w tabeli przekierowań oraz w kan. 458 § 1 5° (odesłanie do Księgi X przy sukcesie nieruchomości).
 4. **Odesłania do prawa zewnętrznego.** Ujednolicono zapisy: kan. 421–1298 KPK (alienacja dóbr kościelnych), kan. 403, kan. 384 § 2, kan. 335–1213 (miejsca święte), stosowane analogicznie; kan. 2 § 2 Księgi I (granice terytorialne Kościoła Domowego).
 5. **Poprawki redakcyjne.** Ujednolicono formę paragrafów („**Kan. X § 1.**”, dalej „**§ 2.**”), wyliczeń („1°, 2°, …”) oraz nagłówków tytułów; usunięto zdania o charakterze deklaracji redakcyjnych źródła („Niniejsze przepisy dopisuje się…”, „Księga XVIII — Poprawiona”).

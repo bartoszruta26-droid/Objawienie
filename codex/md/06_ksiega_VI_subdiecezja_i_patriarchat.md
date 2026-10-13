@@ -75,7 +75,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 5° trzech obrządków domowych;
 6° życia liturgicznego wspólnoty domowej.
 
-**§ 3.** W przypadku konfliktu między prawem subdiecezji domowej a prawem diecezjalnym, pierwszeństwo przysługuje prawu diecezjalnemu, chyba że prawo diecezjalne jest sprzeczne z Prawem Bożym lub Naturalnym (por. kan. 136–138).
+**§ 3.** W przypadku konfliktu między prawem subdiecezji domowej a prawem diecezjalnym, pierwszeństwo przysługuje prawu diecezjalnemu, chyba że prawo diecezjalne jest sprzeczne z Prawem Bożym lub Naturalnym (por. kan. 72–74 Księgi III).
 
 **Kan. 326.** Biskup diecezjalny ma prawo:
 1° wizytować subdiecezję domową (por. kan. 309-39 (hist.)8 KPK, zastosowany analogicznie);
@@ -250,6 +250,6 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 1. *Scalenie z tekstami macierzystymi:* dawne „poprawione” kan. 30 (hist.) § 1–3, 31–33, 34 § 1, 35–36, 87 §§ 1–3, 440 §§ 1–3 i 441 zastąpiły już teksty macierzyste w Księgach I–III i nie są tu powtarzane; ich obowiązującymi odpowiednikami w nowej numeracji są kanony Ksiąg I–III (odpowiedniki wskazane w notatce redakcyjnej `00_notatka_redakcyjna.md`) — zgodnie z przepisami tego kanonu.
 2. *Normy nowe:* kan. 319 przyjmuje brzmienie poprawionego dawnego kan. 30 (hist.) § 1–3 jako norma szczególna ustroju hierarchicznego; kan. 320 łączy dawną poprawkę dawnego kan. 87 (hist.) § 2 pkt 3 i 5 z kan. 346 Księgi VII (uznanie posługi).
-3. *Przenumerowanie:* dawne kan. 413–433 → kan. 321–341; dawne kan. 434–438 (przepisy końcowe, dublujące dawne kan. 367–370 scalone już w normach ogólnych — odpowiedniki w nowej numeracji: kan. 11–13 Księgi I oraz kan. 139–143 Księgi III) zastąpione jednolitymi kan. 342–344.
+3. *Przenumerowanie:* dawne kan. 413–433 → kan. 321–341; dawne kan. 434–438 (przepisy końcowe, dublujące dawne kan. 367–370 scalone już w normach ogólnych — odpowiedniki w nowej numeracji: kan. 9–13 Księgi I oraz kan. 139–143 Księgi III) zastąpione jednolitymi kan. 342–344.
 4. *Literówki źródła:* „Głowa Rodzu” → „Głowa Rodu”; „subdiecezalnemu” → „subdiecezjalnemu”.
 5. *Ujednolicenie terminologii:* źródło używa zamiennie „Synod Patriarchatu” (doradczy, dawny kan. 424–426) i „synod patriarchalny” (wyborczy, Księga VIII) — zachowano to rozróżnienie i wzajemne odesłania (kan. 332 § 2).

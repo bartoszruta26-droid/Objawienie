@@ -80,8 +80,8 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 **Kan. 10 § 1.** Hierarchia źródeł prawa w Kościele Domowym jest następująca:
 1° Prawo Boże — stoi ponad prawem naturalnym;
 2° Prawo Naturalne — stoi ponad prawem stanowionym;
-3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 132–133 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego;
-4° prawo partykularne diecezji, na której terytorium znajduje się dom rodzinny — w granicach określonych w kan. 136–138 Księgi III;
+3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 68–69 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego;
+4° prawo partykularne diecezji, na której terytorium znajduje się dom rodzinny — w granicach określonych w kan. 72–74 Księgi III;
 5° prawo partykularne Kościoła Domowego — uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
 6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej w tej hierarchii.
 
@@ -91,7 +91,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z normami wskazanymi w kan. 10 § 1. Ustawa powszechna Kościoła nie zmienia prawa partykularnego Kościoła Domowego, chyba że co innego jest w prawie wyraźnie zastrzeżone (por. kan. 20 KPK).
 
-**Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 59 (późniejsza ustawa derogująca) oraz kan. 60 Księgi III, w kan. 139–143 Księgi III oraz w kan. 344 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
+**Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 59 (późniejsza ustawa derogująca) oraz kan. 60 Księgi III, a ponadto w kan. 139–143 Księgi III oraz w kan. 344 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
 
 ---
 

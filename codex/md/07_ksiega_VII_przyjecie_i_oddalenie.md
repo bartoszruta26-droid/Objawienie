@@ -365,7 +365,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **Kan. 377 § 1.** Autentyczna interpretacja przepisów dotyczących wyłącznej kompetencji Biskupa Rzymskiego przysługuje Stolicy Apostolskiej.
 
-**§ 2.** Autentyczna interpretacja przepisów dotyczących władania dobrami duchowymi, intelektualnymi i obrządkiem domowym wewnątrz Kościoła Domowego przysługuje biskupowi tytularnemu subdiecezjalnemu, a po jego oddaleniu lub śmierci — Triarchii Domowej lub następcy wskazanemu w kan. 366, z zastrzeżeniem kan. 351 i 460.
+**§ 2.** Autentyczna interpretacja przepisów dotyczących władania dobrami duchowymi, intelektualnymi i obrządkiem domowym wewnątrz Kościoła Domowego przysługuje biskupowi tytularnemu subdiecezjalnemu, a po jego oddaleniu lub śmierci — Triarchii Domowej lub następcy wskazanemu w kan. 366, z zastrzeżeniem kan. 351 oraz kan. 461 Księgi IX.
 
 **Kan. 378 § 1.** Żaden przepis niniejszej Księgi nie może być interpretowany jako zezwalający na:
 1° przemoc fizyczną, psychiczną, duchową lub ekonomiczną;
@@ -392,7 +392,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 *Zasada lektury:* numery oznaczone jako „dawne” dotyczą starej numeracji źródłowej i pełnią wyłącznie funkcję historyczno-porządkową; obowiązującymi są numery nowe — zgodnie z przepisami tego kanonu.
 
 1. *Przenumerowanie:* dawne kan. 600–634 → kan. 345–379 (ciągłość po Księdze VI, kończącej się na kan. 344).
-2. *Odesłania wewnętrzne:* dawne odesłania „Kan. 606–612” → kan. 351–357; „Kan. 613–628” → kan. 358–373; „Kan. 621” → kan. 366; „Kan. 606 i 628” → kan. 351 i 460.
+2. *Odesłania wewnętrzne:* dawne odesłania „Kan. 606–612” → kan. 351–357; „Kan. 613–628” → kan. 358–373; „Kan. 621” → kan. 366; „Kan. 606 i 628” → kan. 351 oraz kan. 461 Księgi IX.
 3. *Odesłania zewnętrzne:* dawne odwołania do „Księgi XV” (w tekście źródłowym samoopisującym) zastąpiono wskazaniem niniejszej Księgi; odwołania do „Księgi XVI” o przekazaniu patriarchatu → Księga VIII.
 4. *Literówki i obce zapisy źródła:* „Rod” w znaczeniu mianownikowym → „Ród”; „communię” → „komunię”; „subdiecezalnemu” → „subdiecezjalnemu”; „保存ować” → „zachowywać”; „wykazać contraire” → „wykazać przeciwnego”; „patriarchat wakuję” → „patriarchat wakuje” (poprawka dotyczy odpowiednio Księgi VIII).
 5. *Usunięte dublety:* zakończenie źródła („Niniejsze przepisy dopisuje się … jako Księga XV”) miało charakter deklaracji redakcyjnej, nie normy — pominięto je, ponieważ jego treść pokrywająca się z regułami kolizji już istnieje w prawie ogólnym (kan. 59 Księgi III).

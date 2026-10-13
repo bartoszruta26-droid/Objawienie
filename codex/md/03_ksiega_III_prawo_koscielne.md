@@ -418,8 +418,8 @@
 
 **Uwagi redakcyjne:**
 
-1. *Scalenia powtórzeń:* w korpusie tej Księgi nie stwierdzono kanonów o identycznym sensie — normy pokrewne (dawne kan. 113–120 o ustawach powszechnych oraz 208–215 o ustawach partykularnych i interpretacji) zachowano odrębnie, w nowych numerach 136–143 i 144–151.
-2. *Poprawki naniesione na tekst:* ujednolicono pisownię „Głowa Rodu”; w dawnym kan. 201 § 2 (nowy kan. 137 § 2) poprawiono literówkę „Rodzu”; odesłania wewnętrzne przeliczono zgodnie z nową numeracją (np. dawne „kan. 131” w dawnym kan. 134 → nowy „kan. 67”).
+1. *Scalenia powtórzeń:* w korpusie tej Księgi nie stwierdzono kanonów o identycznym sensie — normy pokrewne (dawne kan. 113–120 o ustawach powszechnych oraz 208–215 o ustawach partykularnych i interpretacji) zachowano odrębnie, w nowych numerach 49–56 i 57–64.
+2. *Poprawki naniesione na tekst:* ujednolicono pisownię „Głowa Rodu”; w dawnym kan. 201 § 2 (nowy kan. 73 § 2) poprawiono literówkę „Rodzu”; odesłania wewnętrzne przeliczono zgodnie z nową numeracją (np. dawne „kan. 131” w dawnym kan. 134 → nowy „kan. 67”).
 3. *Kanony z końca, należące na początek:* dawne kan. 203–209 znajdowały się po właściwym korpusie; kan. 203–204 przeniesiono tematycznie do Księgi liturgicznej, a kan. 205–209 pozostają na końcu Księgi III jako jej Tytuł XII (nowe kan. 139–143) — zgodnie z układem wzorcowym KPK.
 
 ---
@@ -441,5 +441,5 @@
 | Tytuł IX: Obliczanie czasu | Kan. 131 | Kan. 113–116 | Supputatio temporis |
 | Tytuł X: Obowiązek respektowania prawa powszechnego | Kan. 132–135 | Cały KPK | Observantia iuris universalis |
 | Tytuł XI: Relacja do prawa partykularnego diecezji | Kan. 136–138 | Kan. 281–485 | Ecclesiae particulares |
-| Tytuł XII: Trzy obrządki domowe | *(wydane w Księdze IV, kan. 165–178)* | — | Munus sanctificandi |
+| Tytuł XIII: Trzy obrządki domowe | *(wydane w Księdze IV, kan. 165–169)* | — | Munus sanctificandi |
 | Tytuł XII: Przepisy końcowe | Kan. 139–143 | Kan. 6 § 2, 14, 1752 | Normae finales |

@@ -2,7 +2,7 @@
 
 ## *De multiplicatione et transmissione bonorum spiritualium, intellectualium et materialium necnon de erectione novarum Ecclesiarum Domesticarum, Subdioecesium et Dioecesium*
 
-*(Redakcja porządkująca: dawna „Księga XVII — Poprawiona” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 434–462**, zgodnie ze spisem treści (`09_spis_tresci.md`), jako kontynuację ciągu kan. 1–433.)*
+*(Redakcja porządkująca: dawna „Księga XVII — Poprawiona” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 434–462** jako kontynuację ciągu kan. 1–433; zakres ten potwierdza obowiązujący spis treści (`99_spis_tresci.md`).)*
 
 ## SPIS TREŚCI KSIĘGI
 
@@ -20,7 +20,7 @@
 
 ### PREAMBUŁA KSIĘGI
 
-Niniejsza Księga stanowi, wraz z Księgą X (kan. 463–491), kontynuację zbioru poza podstawowym ciągem kan. 1–433; jej kanony otrzymały numerację ciągłą **521–549** w miejsce dawnej numeracji Księgi XVII (kan. 900–928). Księga poprawia i zastępuje wcześniejsze przepisy dotyczące sukcesji po śmierci rodziców w zakresie, w jakim poprzednie zapisy nie uwzględniały fundamentalnej zasady Prawa Bożego i Prawa Naturalnego: **dobra duchowe i intelektualne nie podlegają uszczupleniu przez dzielenie, lecz rozmnażają się przez przekazywanie**.
+Niniejsza Księga stanowi, wraz z Księgą X (kan. 463–491), kontynuację zbioru poza podstawowym ciągem kan. 1–433; jej kanony otrzymały numerację ciągłą **434–462** w miejsce dawnej numeracji Księgi XVII (kan. 900–928). Księga poprawia i zastępuje wcześniejsze przepisy dotyczące sukcesji po śmierci rodziców w zakresie, w jakim poprzednie zapisy nie uwzględniały fundamentalnej zasady Prawa Bożego i Prawa Naturalnego: **dobra duchowe i intelektualne nie podlegają uszczupleniu przez dzielenie, lecz rozmnażają się przez przekazywanie**.
 
 Zgodnie z objawioną strukturą rzeczywistości (Hierarchia Poziomów), świat stworzony przez Boga ma strukturę holograficzną i fraktalną — bez względu na to, na ile części podzielimy istniejący świat, mniejsza część zawsze odpowiada większej. Z tej zasady wynika, że:
 
@@ -601,7 +601,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 | Charyzmaty | Tak | Modlitwa i nałożenie rąk | Dar Ducha Świętego |
 | Dary Ducha Świętego | Tak | Modlitwa i *invocatio* | Siedem Darów |
 | Dobra materialne | Tak, jeśli możliwe | Podział, uzupełnienie, pozyskanie nowych | Zasada rozmnażania |
-| Dom rodzinny | Nie (fizycznie) | Udostępnienie lub spłata | Pozostaje jako miejsce kultu (kan. 463–470) |
+| Dom rodzinny | Nie (fizycznie) | Udostępnienie lub spłata | Pozostaje jako miejsce kultu (kan. 466–470) |
 | Kaplica domowa | Nie (fizycznie) | Udostępnienie | Centrum życia liturgicznego |
 | Archiwum | Tak | Kopiowanie dokumentów | Oryginał pozostaje w Kościele macierzystym |
 | **Patriarchat subdiecezji domowych** | **Nie** | **Wyłącznie wybór na synodzie i potwierdzenie Biskupa Rzymskiego** | kan. 383–385 (Księga VIII) |
@@ -629,8 +629,8 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## UWAGI REDAKCYJNE
 
-1. **Numeracja.** Dawna „Księga XVII — Poprawiona” (kan. 900–928) otrzymała numerację ciągłą **kan. 434–462**, bezpośrednio po Księdze VIII (kan. 380–433), zgodnie ze spisem treści (`09_spis_tresci.md`).
-2. **Usunięte powtórzenia.** Dawny kan. 700 (zasada mnożenia bez dzielenia) był niemal dosłowną powtórką dawnego kan. 900; zachowano jedno brzmienie normy (kan. 434). Dawne kan. 701–703 powtarzały kan. 383–385 Księgi VIII — pozostawiono jedynie odesłanie (kan. 438 § 4). Dawne kan. 919–922 i 924 § 1 5° pokrywały się z dawnymi kan. 930–958 w zakresie dóbr materialnych i nieruchomości; granicę przedmiotową między Księgą IX a X wyznacza kan. 460 § 2 oraz kan. 490 § 3.
+1. **Numeracja.** Dawna „Księga XVII — Poprawiona” (kan. 900–928) otrzymała numerację ciągłą **kan. 434–462**, bezpośrednio po Księdze VIII (kan. 380–433), zgodnie ze spisem treści (`99_spis_tresci.md`).
+2. **Usunięte powtórzenia.** Dawny kan. 700 (zasada mnożenia bez dzielenia) był niemal dosłowną powtórką dawnego kan. 900; zachowano jedno brzmienie normy (kan. 434). Dawne kan. 701–703 powtarzały kan. 383–385 Księgi VIII — pozostawiono jedynie odesłanie (kan. 438 § 4). Dawne kan. 919–922 i 924 § 1 5° pokrywały się z dawnymi kan. 930–958 w zakresie dóbr materialnych i nieruchomości; granicę przedmiotową między Księgą IX a X wyznacza kan. 460 § 2 oraz kan. 490–491 (przepisy końcowe Księgi X).
 3. **Odesłania wewnętrzne.** Dawnego wskazania „Księga XV” nie ma w zbiorze — zastąpiono je prawidłowym odwołaniem do Księgi VII (kan. 345–379: skutki oddalenia i zachowanie władania dobrami); „Księga XVI” → niniejszy ciąg Księgi VIII (kan. 380–433); dawne numery 900–958 → kan. 434–491.
 4. **Poprawki błędów oczywistych.** „software” → „oprogramowanie”; „sprzeczny z sprawiedliwością” → „sprzeczny ze sprawiedliwością”; „przeniesić” → „przenieść”; ujednolicono pisownię terminów własnych wspólnoty (Głowa Rodu, Małżonka, Potomek, Triarchia Domowa, Kościół Domowy, Ród) oraz formę wyliczeń wewnętrznych „1°, 2°, …”.
 5. **Do decyzji autora.** Tytuł „biskup nieuświęcony” w znaczeniu jurysdykcji deklarowanej (kan. 446–449) może pozostawać w napięciu z Księgą VI (kan. 319–320) i Księgą VII, gdzie władza biskupia wiąże się z przyjęciem sakry lub z urzędem tytularnym subdiecezjalnym; kan. 451 § 1 2° mówi o uznaniu Kościoła Domowego jako parafii personalnej lub prałatury — instytucji prawa powszechnego, których status wobec subdiecezji domowej wymaga odrębnego rozstrzygnięcia.
