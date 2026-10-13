@@ -1,10 +1,6 @@
 # PREAMBUŁA — Codex Iuris Canonici Ecclesiae Domesticae
 ## *Preambulum atque Additamenta ad Librum I — Normae Generales*
 
-*(Redakcja porządkująca: plik źródłowy `codex/ksiega00.txt` posiadał błędną numerację — oznaczenia „Kan. 1”, „Kan. 1a–1t” oraz „Kan. 0a–0j” kolidowały ze sobą wewnątrz pliku (np. „Kan. 1a” oraz „Kan. 1e–1j” użyte dwukrotnie dla różnych przepisów) oraz z numeracją właściwą Księgi I (kan. 1–13 w pliku `01_ksiega_I_normy_ogolne.md`). Całości Preambuły nadano zatem jednolitą numerację literową **kan. 1a–1zt**, niekolidującą z kanonami ksiąg. Schemat przekształcenia: poprawiona Preambuła — dawne Kan. 1→1a, 1a→1b, 2→1c, 2a→1d, 2b→1e, 3→1f, 3a→1g, 4→1h, 4a→1i, 5→1j, 5a→1k, 6→1l, 7→1m, 7a→1n, 8→1o, 9→1p; uzupełnienia o autonomii i dobrowolnym przyjęciu — dawne 1a→1q … 1j→1z; rozróżnienie posług — dawne 1k→1za … 1t→1zj; objęcie diecezji i tytuły biskupie — dawne 0a→1zk … 0j→1zt.)*
-
----
-
 ## POPRAWIONA PREAMBUŁA KSIĘGI I — NORMY OGÓLNE
 ### *Preambulum emendatum Libri I — Normae Generales*
 
