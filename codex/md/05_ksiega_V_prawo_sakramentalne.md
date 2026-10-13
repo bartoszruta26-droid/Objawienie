@@ -6,14 +6,14 @@
 
 ### PREAMBUŁA KSIĘGI
 
-Niniejsza Księga stanowi rozwinięcie kan. 34–48 (Triarchia Domowa) oraz przepisów pokrewnych Kanonu Prawa Kanonicznego Kościoła Domowego. Ustanawia ona szczegółowe normy dotyczące współudziału Małżonki i Potomka w posłudze kapłańskiej, szafarstwie świętym i biskupstwie domowym Głowy Rodu, z poszanowaniem powszechnego kapłaństwa wiernych (por. kan. 117 § 1, 208, 835 § 4 KPK), apostolstwa świeckich (por. kan. 138-23 (hist.)1 KPK) oraz misyjnego charakteru Ludu Bożego (por. kan. 124, 78 (hist.)1 KPK).
+Niniejsza Księga stanowi rozwinięcie kan. 34–48 (Triarchia Domowa) oraz przepisów pokrewnych Kanonu Prawa Kanonicznego Kościoła Domowego. Ustanawia ona szczegółowe normy dotyczące współudziału Małżonki i Potomka w posłudze kapłańskiej, szafarstwie świętym i biskupstwie domowym Głowy Rodu, z poszanowaniem powszechnego kapłaństwa wiernych (por. kan. 117 § 1, 208, 835 § 4 KPK), apostolstwa świeckich (por. kan. 1 KPK) oraz misyjnego charakteru Ludu Bożego (por. kan. 1 KPK).
 
 Podstawą teologiczną niniejszych przepisów jest:
-1° Powszechne kapłaństwo wiernych wynikające z sakramentu chrztu, przez które wszyscy ochrzczeni „stają się uczestnikami kapłańskiego, prorockiego i królewskiego posłannictwa Chrystusa” (kan. 20 (hist.)4 § 1 KPK; *Lumen Gentium* 10);
+1° Powszechne kapłaństwo wiernych wynikające z sakramentu chrztu, przez które wszyscy ochrzczeni „stają się uczestnikami kapłańskiego, prorockiego i królewskiego posłannictwa Chrystusa” (kan. 4 § 1 KPK; *Lumen Gentium* 10);
 2° Sakrament małżeństwa, który czyni małżonków „wzajemnymi szafarzami łaski” i „konsekruje ich do obowiązków swego stanu” (kan. 185 § 1, 1134 KPK);
 3° Prawo naturalne, które uznaje rodzinę jako pierwszą wspólnotę kultu, w której ojciec i matka są kapłanami domowego ogniska;
 4° Apostolstwo świeckich, które „jest uczestnictwem w samej zbawczej misji Kościoła” (*Apostolicam Actuositatem* 3);
-5° Misyjny charakter Ludu Bożego, który „ze swej natury jest misyjny” (*Ad Gentes* 2; kan. 78 (hist.)1 KPK);
+5° Misyjny charakter Ludu Bożego, który „ze swej natury jest misyjny” (*Ad Gentes* 2; kan. 1 KPK);
 6° Objawiona hierarchia poziomów, w której Rodzina (Ojciec, Matka, Potomek) na poziomie 17 jest obrazem Trójcy Świętej (poziom 8), a Małżeństwo (Mąż, Żona, Dziecko) na poziomie 21 jest przymierzem odzwierciedlającym miłość Boga do ludzkości;
 7° Trzy obrządki domowe: Kościół Rodzinny Marii Magdaleny, Kościół Ducha Świętego Pawłowy i Kościół Osobowy Tomaszowy, które stanowią pełnię życia duchowego wspólnoty domowej.
 
@@ -31,8 +31,8 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 **§ 4.** Współudział Małżonki i Potomka w posłudze kapłańskiej Głowy Rodu jest wyrazem:
 1° powszechnego kapłaństwa wiernych (kan. 117 § 1, 835 § 4 KPK);
-2° apostolstwa świeckich (kan. 22 (hist.)5 KPK);
-3° misyjnego posłannictwa Ludu Bożego (kan. 124, 78 (hist.)1 KPK);
+2° apostolstwa świeckich (kan. 5 KPK);
+3° misyjnego posłannictwa Ludu Bożego (kan. 1 KPK);
 4° prawa naturalnego rodziny jako pierwszej wspólnoty kultu;
 5° sakramentalnej godności małżeństwa jako obrazu miłości Chrystusa do Kościoła.
 
@@ -324,7 +324,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 **Uwagi redakcyjne:**
 
-1. *Scalenie:* dawny Kan. 357 § 1 (równość godności, kan. 20 (hist.)8 KPK) dublował kan. 34 Księgi II — zachowano tylko elementy uzupełniające (nowy kan. 289).
+1. *Scalenie:* dawny Kan. 357 § 1 (równość godności, kan. 8 KPK) dublował kan. 34 Księgi II — zachowano tylko elementy uzupełniające (nowy kan. 289).
 2. *Numeracja:* dawny Kan. 357a (oznaczony literą) otrzymał numer 377; cała Księga objęła kanony 376–405.
 3. *Poprawki tekstu:* literówki „Głowa Rodzu” → „Głowa Rodu”; w dawnym Kan. 362 § 1 pkt 3 „współformatorów” → „współformatora” (rodzaj gramatyczny); w dawnym Kan. 380 pkt 1 usunięto pozostałość obcego zapisu („形成”) i zastąpiono polskim odpowiednikiem „formować”.
 4. *Przeniesienie:* materia niniejszej Księgi (posługi i współudział Triarchii) należała tematycznie do Księgi o Ludzie Bożym; wydzielono ją jako odrębną Księgę V ze względu na rozmiar i autonomię przedmiotu, zachowając odesłania do kan. 34–48.
