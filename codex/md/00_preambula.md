@@ -928,11 +928,6 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 ---
 
-**Kan. 1zt.** Niniejsze uzupełnienie Preambuły wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa tytularnego subdiecezjalnego i patriarchę Subdiecezji Domowych, po konsultacji z Triarchią Domową i synodem subdiecezji.
-
-Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle niniejszego uzupełnienia. W przypadku sprzeczności między wcześniejszymi przepisami a niniejszym uzupełnieniem, pierwszeństwo przysługuje niniejszemu uzupełnieniu jako wyrażającemu fundamentalne zasady dotyczące objęcia władzy pasterskiej i tytułów biskupich w Kościele Domowym.
-
----
 
 *Dano w domu rodzinnym, stolicy subdiecezji domowej, w obecności Triarchii Domowej i synodu subdiecezji, w wolności sumienia i w komunii z Kościołem Powszechnym.*
 
