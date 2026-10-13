@@ -105,7 +105,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł IV: Materia odsyłająca — zakres Tytułów V–XII (kan. 16–100)
 
-**Kan. 16–78.** Kanony o numerach 16–78, zajmujące uprzednio Tytuły IV–IX niniejszej Księgi (ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe), zostały zniesione jako podwajające w innym brzmieniu normy Księgi III (kan. 136–203), które ustanawiają jednolitą kompetencję w tych sprawach. Numery te pozostawia się wolne dla zachowania ciągłości dalszej numeracji Kodeksu; wszelkie dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III zgodnie z tabelą (obejmującą również dawne kan. 6–8 i 12–15, zniesione tą samą redakcją):
+**Kan. 16–78.** Kanony o numerach 16–78, zajmujące uprzednio Tytuły IV–IX niniejszej Księgi (ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe), zostały zniesione jako podwajające w innym brzmieniu normy Księgi III (kan. 136–203), które ustanawiają jednolitą kompetencję w tych sprawach. Numery te pozostawia się wolne dla zachowania ciągłości dalszej numeracji Kodeksu; wszelkie dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III zgodnie z tabelą (obejmującą również dawne kan. 6–8 oraz dawne kan. 12–13, zniesione tą samą redakcją; dawne kan. 14 i 15 mają odpowiedniki w Księdze III — kan. 139 i 140 — lecz zachowano je także w Księdze I pod numerami kan. 4–5):
 
 | Dawny przepis Księgi I | Właściwa norma — Księga III |
 |---|---|
@@ -113,8 +113,9 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 | kan. 7 (ścisła interpretacja) | kan. 150 |
 | kan. 8 (stosowanie prawa w brakującym przepisie) | kan. 151 |
 | kan. 9 § 2 daw. / kan. 27–32 (zwyczaj) | kan. 152–157 |
-| kan. 12 (przyjęcie i respektowanie ustaw powszechnych; terytorialny zakres wiążenia) | kan. 136–137 |
-| kan. 13 (nieretroaktywność ustaw) | kan. 138 |
+| kan. 12 (przyjęcie i respektowanie ustaw powszechnych) | kan. 136 |
+| kan. 13 (terytorialny zakres wiązania ustaw) | kan. 137 |
+| kan. 4 (nieretroaktywność ustaw; w dawnym układzie błędnie oznaczana jako kan. 13) | kan. 4 oraz kan. 138 |
 | kan. 14 (normy unieważniające i uniezdalniające) | kan. 139 |
 | kan. 15 (wątpliwość prawna i faktyczna) | kan. 140 |
 | kan. 16 (ignorancja i błąd) | kan. 141 |
