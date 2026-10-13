@@ -1,5 +1,4 @@
-# KSIĘGA II — LUD BOŻY (CZĘŚĆ I)
-
+# KSIĘGA II — LUD BOŻY
 ## *De Populo Dei in Ecclesia Domestica*
 
 ### Tytuł I: Wierni Kościoła Domowego
