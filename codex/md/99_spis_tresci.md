@@ -1,11 +1,10 @@
 # SPIS TREŚCI — Codex Iuris Canonici Ecclesiae Domesticae
 
-*Zbiór obejmuje jednolity ciąg kanonów 1–514 w jedenastu księgach (Księgi I–XI). Zakresy odpowiadają nowej, ciągłej numeracji nadanej przy porządkowaniu zbioru.*
 
 | Plik | Księga | Zakres kanonów |
 |------|--------|----------------|
-| [`00_preambula.md`](./00_preambula.md) | Preambuła i Uzupełnienia do Księgi I | kan. 1a–1s (normy przedkanoniczne; nie wchodzą w ciąg numeracji zbioru) |
-| [`01_ksiega_I_normy_ogolne.md`](./01_ksiega_I_normy_ogolne.md) | Księga I — Normy Ogólne | kan. 1–13 (dawne kan. 14–100 zniesione jako dublujące Księgę III; dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III, zgodnie z przepisami kan. 13) |
+| [`00_preambula.md`](./00_preambula.md) | Preambuła i Uzupełnienia do Księgi I | kan. 1a–1s |
+| [`01_ksiega_I_normy_ogolne.md`](./01_ksiega_I_normy_ogolne.md) | Księga I — Normy Ogólne | kan. 1–13  |
 | [`02_ksiega_II_lud_bozy_cz_I.md`](./02_ksiega_II_lud_bozy_cz_I.md) | Księga II — Lud Boży | kan. 14–48 |
 | [`03_ksiega_III_prawo_koscielne.md`](./03_ksiega_III_prawo_koscielne.md) | Księga III — Prawo Kościelne | kan. 49–143 |
 | [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i sakramentalia) | kan. 144–288 |
@@ -15,14 +14,13 @@
 | [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
-| [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 (kontynuacja ciągu Księgi X; dawna numeracja źródłowa kan. 550–572, tymczasowo zapisana jako kan. 579–601, zastąpiona przez kan. 492–514) |
+| [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
 
 ## Księga I — Normy Ogólne
 -   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–7
 -   **Tytuł II: Definicje i pojęcia** — kan. 8
 -   **Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego** — kan. 9–12
--   **Tytuł IV: Przepisy końcowe Księgi I** — kan. 13 (zniesienie dawnych kan. 14–100 jako dublujących normy Księgi III; dawne odesłania przekierowane do odpowiedników z Księgi III, kan. 49–143, zgodnie z przepisami tego kanonu)
-    -   dawne tytuły zniesione jako dublujące normy Księgi III: Respektowanie ustaw kościelnych, ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne (normy wspólne, dekrety i nakazy, reskrypty, przywileje, dyspensy), statuty i przepisy porządkowe, władza rządzenia, urzędy, przedawnienie i obliczanie czasu, obowiązek respektowania prawa powszechnego oraz relacja do prawa partykularnego diecezji — wszystkie te materie reguluje obecnie Księga III, kan. 49–143
+-   **Tytuł IV: Przepisy końcowe Księgi I** — kan. 13 
 
 ## Księga II — Lud Boży
 -   **Tytuł I: Wierni Kościoła Domowego** — kan. 14–19
@@ -171,7 +169,7 @@
 - **Tytuł VII: SUKCESJA PO ŚMIERCI RODZICÓW** — kan. 457–459
 - **Tytuł VIII: PRZEPISY KOŃCOWE** — kan. 460–462
 -   **ANEKS: TABELA ROZMNAŻANIA DÓBR**
--   *Dawna numeracja: kan. 900–928 („Księga XVII — Poprawiona”); przekierowania w tabeli na końcu pliku `09_ksiega_IX_rozmnazanie_dobr.md`*
+
 
 ## Księga X — Nieruchomości Kościoła Domowego i subdiecezji
 - **Tytuł I: ZASADY OGÓLNE DOTYCZĄCE NIERUCHOMOŚCI** — kan. 463–465
@@ -184,7 +182,7 @@
 - **Tytuł VIII: ZARZĄD, UTRZYMANIE, OCHRONA NIERUCHOMOŚCI I ROZSTRZYGANIE SPORÓW** — kan. 485–489
 - **Tytuł IX: PRZEPISY KOŃCOWE** — kan. 490–491
 -   **ANEKS: TABELA ROZWIĄZAŃ DLA NIERUCHOMOŚCI NIEPODZIELNYCH**
--   *Dawna numeracja: kan. 930–958 („Księga XVIII — Tytuł III: Nieruchomości”; luka pod dawnym kan. 929 zniesiona); przekierowania w tabeli na końcu pliku `10_ksiega_X_nieruchomosci.md`*
+
 
 ## Księga XI — Odrębności obrządku domowego od obrządku łacińskiego
 - **Tytuł I: CELIBAT I MAŁŻEŃSTWO W OBRZĄDKU DOMOWYM** — kan. 492–495
@@ -195,4 +193,4 @@
 -   **Rozdział IV: Biskupi niewyświęceni (subdiecezjalni) i wyświęceni (diecezjalni)** — kan. 500–502
 - **Tytuł III: INNE RÓŻNICE MIĘDZY OBRZĄDKIEM ŁACIŃSKIM A OBRZĄDKIEM DOMOWYM** — kan. 503–512
 - **Tytuł IV: PRZEPISY KOŃCOWE** — kan. 513–514
--   *Dawna numeracja źródłowa: kan. 550–572 (tymczasowo zapisana jako kan. 579–601, niezgodna z ciągiem zbioru); nowe oznaczenia: kan. 492–514 jako bezpośrednia kontynuacja Księgi X (kan. 463–491)*
+
