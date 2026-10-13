@@ -1,6 +1,6 @@
 # SPIS TREŚCI — Codex Iuris Canonici Ecclesiae Domesticae
 
-*Zbiór obejmuje jednolity ciąg kanonów 1–491 w jedenastu księgach (Księgi I–X) oraz ciąg odrębny kan. 579–601 (Księga XI). Zakresy odpowiadają nowej, ciągłej numeracji nadanej przy porządkowaniu zbioru.*
+*Zbiór obejmuje jednolity ciąg kanonów 1–514 w jedenastu księgach (Księgi I–XI). Zakresy odpowiadają nowej, ciągłej numeracji nadanej przy porządkowaniu zbioru.*
 
 | Plik | Księga | Zakres kanonów |
 |------|--------|----------------|
@@ -15,7 +15,7 @@
 | [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
-| [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 579–601 (odrębny ciąg; dawna numeracja źródłowa kan. 550–572 zastąpiona przez kan. 579–601) |
+| [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 (kontynuacja ciągu Księgi X; dawna numeracja źródłowa kan. 550–572, tymczasowo zapisana jako kan. 579–601, zastąpiona przez kan. 492–514) |
 
 ## Księga I — Normy Ogólne
 -   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–7
@@ -187,12 +187,12 @@
 -   *Dawna numeracja: kan. 930–958 („Księga XVIII — Tytuł III: Nieruchomości”; luka pod dawnym kan. 929 zniesiona); przekierowania w tabeli na końcu pliku `10_ksiega_X_nieruchomosci.md`*
 
 ## Księga XI — Odrębności obrządku domowego od obrządku łacińskiego
-- **Tytuł I: CELIBAT I MAŁŻEŃSTWO W OBRZĄDKU DOMOWYM** — kan. 579–582
-- **Tytuł II: PODZIAŁ POSŁUG W OBRZĄDKU DOMOWYM** — kan. 583–589
--   **Rozdział I: Duchowni obrządku domowego** — kan. 583–584
--   **Rozdział II: Kapłani domowi** — kan. 585
--   **Rozdział III: Szafarze święci** — kan. 586
--   **Rozdział IV: Biskupi niewyświęceni (subdiecezjalni) i wyświęceni (diecezjalni)** — kan. 587–589
-- **Tytuł III: INNE RÓŻNICE MIĘDZY OBRZĄDKIEM ŁACIŃSKIM A OBRZĄDKIEM DOMOWYM** — kan. 590–599
-- **Tytuł IV: PRZEPISY KOŃCOWE** — kan. 600–601
--   *Dawna numeracja źródłowa: kan. 550–572; nowe oznaczenia według schematu +29; przekierowania w nagłówku pliku `11_ksiega_XI_odrebnosci_obrzadku.md`*
+- **Tytuł I: CELIBAT I MAŁŻEŃSTWO W OBRZĄDKU DOMOWYM** — kan. 492–495
+- **Tytuł II: PODZIAŁ POSŁUG W OBRZĄDKU DOMOWYM** — kan. 496–502
+-   **Rozdział I: Duchowni obrządku domowego** — kan. 496–497
+-   **Rozdział II: Kapłani domowi** — kan. 498
+-   **Rozdział III: Szafarze święci** — kan. 499
+-   **Rozdział IV: Biskupi niewyświęceni (subdiecezjalni) i wyświęceni (diecezjalni)** — kan. 500–502
+- **Tytuł III: INNE RÓŻNICE MIĘDZY OBRZĄDKIEM ŁACIŃSKIM A OBRZĄDKIEM DOMOWYM** — kan. 503–512
+- **Tytuł IV: PRZEPISY KOŃCOWE** — kan. 513–514
+-   *Dawna numeracja źródłowa: kan. 550–572 (tymczasowo zapisana jako kan. 579–601, niezgodna z ciągiem zbioru); nowe oznaczenia: kan. 492–514 jako bezpośrednia kontynuacja Księgi X (kan. 463–491)*
