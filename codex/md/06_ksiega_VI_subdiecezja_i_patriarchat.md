@@ -2,8 +2,6 @@
 
 ## *De Subdioecesi Domestica et Patriarchatu Subdioecesium Domesticarum*
 
-*(Redakcja: druga część „Poprawek i Uzupełnień” z pliku `ksiegi04.txt` (tzw. Correctio secunda — De Episcopo Titulari Subdioecesano et Patriarchatu, dawne kan. 30–36 (hist.), 87 (hist.), 353–356 poprawione oraz nowe kan. 413–438). Poprawki naniesione na teksty macierzyste scalono uprzednio z Księgami I–V; niniejsza Księga obejmuje normy nowe, które nie miały tekstu macierzystego: ustrój subdiecezji domowej, patriarchat, synod patriarchatu, insygnia. Dawne odesłania do „kan. 1–99 (hist.) / kan. 100–112 (hist.) / kan. 113–212” zastąpiono nowymi numerami ksiąg.)*
-
 ### PREAMBUŁA KSIĘGI
 
 Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego niniejsza Księga ustanawia przepisy dotyczące godności biskupa tytularnego subdiecezjalnego (*episcopus titularis subdioecesanus*), struktury subdiecezji domowej oraz Patriarchatu Subdiecezji Domowych, zgodnie z wolą Biskupa Rzymskiego i przepisami prawa kościelnego, w tym Kodeksu Kanonów Kościołów Wschodnich (CCEO).
@@ -246,10 +244,3 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-**Uwagi redakcyjne:**
-
-1. *Scalenie z tekstami macierzystymi:* dawne „poprawione” kan. 30 (hist.) § 1–3, 31–33, 34 § 1, 35–36, 87 §§ 1–3, 440 §§ 1–3 i 441 zastąpiły już teksty macierzyste w Księgach I–III i nie są tu powtarzane; ich obowiązującymi odpowiednikami w nowej numeracji są kanony Ksiąg I–III (odpowiedniki wskazane w notatce redakcyjnej `00_notatka_redakcyjna.md`) — zgodnie z przepisami tego kanonu.
-2. *Normy nowe:* kan. 319 przyjmuje brzmienie poprawionego dawnego kan. 30 (hist.) § 1–3 jako norma szczególna ustroju hierarchicznego; kan. 320 łączy dawną poprawkę dawnego kan. 87 (hist.) § 2 pkt 3 i 5 z kan. 346 Księgi VII (uznanie posługi).
-3. *Przenumerowanie:* dawne kan. 413–433 → kan. 321–341; dawne kan. 434–438 (przepisy końcowe, dublujące dawne kan. 367–370 scalone już w normach ogólnych — odpowiedniki w nowej numeracji: kan. 9–13 Księgi I oraz kan. 139–143 Księgi III) zastąpione jednolitymi kan. 342–344.
-4. *Literówki źródła:* „Głowa Rodzu” → „Głowa Rodu”; „subdiecezalnemu” → „subdiecezjalnemu”.
-5. *Ujednolicenie terminologii:* źródło używa zamiennie „Synod Patriarchatu” (doradczy, dawny kan. 424–426) i „synod patriarchalny” (wyborczy, Księga VIII) — zachowano to rozróżnienie i wzajemne odesłania (kan. 332 § 2).
