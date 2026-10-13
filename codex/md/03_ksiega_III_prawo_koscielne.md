@@ -2,7 +2,7 @@
 
 *Kościół Domowy, jako partykularna wspólnota Ludu Bożego erygowana na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu, uznaje i respektuje cały porządek prawny Kościoła Katolickiego, wyrażony w Kodeksie Prawa Kanonicznego z 1983 roku, w ustawach powszechnych i partykularnych, w dekretach, instrukcjach, zwyczajach, aktach administracyjnych, reskryptach, przywilejach, dyspensach oraz statutach. Niniejsza Księga określa sposób, w jaki Kościół Domowy przyjmuje, stosuje i respektuje każdy z wymienionych elementów porządku prawnego Kościoła, zachowując jednocześnie własną tożsamość, autonomię domową i prawo partykularne wynikające z natury Ecclesia Domestica.*
 
-> **Przypis redakcyjny.** Dawna „Księga XII — Respektowanie prawa kościelnego” (dawne kan. 200–296). Włączono ją do jednolitego ciągu zbioru jako Księgę III: dawne kan. 200–289 → nowe kan. 136–225; dawne kan. 292–296 → nowe kan. 226–230 (Tytuł XIII, przepisy końcowe). Dawne kan. 290–291 (respektowanie prawa w trzech obrządkach domowych) przeniesiono tematycznie do Księgi o prawie liturgicznym i obrządkach domowych. Poprawiono literówki („Głowa Rodzu” → „Głowa Rodu”) i przeliczone odesłania wewnętrzne; odwołania do KPK pozostają nienaruszone.
+> **Przypis redakcyjny.** Dawna „Księga XII — Respektowanie prawa kościelnego” (dawne kan. 200–296). Włączono ją do jednolitego ciągu zbioru jako Księgę III: dawne kan. 200–289 → nowe kan. 136–225; dawne kan. 292–296 → nowe kan. 226–230 (Tytuł XII, przepisy końcowe). Dawne kan. 290–291 (respektowanie prawa w trzech obrządkach domowych) przeniesiono tematycznie do Księgi o prawie liturgicznym i obrządkach domowych. Poprawiono literówki („Głowa Rodzu” → „Głowa Rodu”) i przeliczone odesłania wewnętrzne; odwołania do KPK pozostają nienaruszone.
 
 ---
 
@@ -392,7 +392,7 @@
 
 **Kan. 225.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 396-398 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
 
-## Tytuł XIII: PRZEPISY KOŃCOWE
+## Tytuł XII: PRZEPISY KOŃCOWE
 
 **Kan. 226.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
@@ -420,7 +420,7 @@
 
 1. *Scalenia powtórzeń:* w korpusie tej Księgi nie stwierdzono kanonów o identycznym sensie — normy pokrewne (dawne kan. 200–207 o ustawach powszechnych oraz 208–215 o ustawach partykularnych i interpretacji) zachowano odrębnie, w nowych numerach 136–143 i 144–151.
 2. *Poprawki naniesione na tekst:* ujednolicono pisownię „Głowa Rodu”; w dawnym kan. 288 § 2 (nowy kan. 224 § 2) poprawiono literówkę „Rodzu”; odesłania wewnętrzne przeliczono zgodnie z nową numeracją (np. dawne „kan. 218” w dawnym kan. 221 → nowy „kan. 154”).
-3. *Kanony z końca, należące na początek:* dawne kan. 290–296 znajdowały się po właściwym korpusie; kan. 290–291 przeniesiono tematycznie do Księgi liturgicznej, a kan. 292–296 pozostają na końcu Księgi III jako jej Tytuł XIII (nowe kan. 226–230) — zgodnie z układem wzorcowym KPK.
+3. *Kanony z końca, należące na początek:* dawne kan. 290–296 znajdowały się po właściwym korpusie; kan. 290–291 przeniesiono tematycznie do Księgi liturgicznej, a kan. 292–296 pozostają na końcu Księgi III jako jej Tytuł XII (nowe kan. 226–230) — zgodnie z układem wzorcowym KPK.
 
 ---
 
@@ -440,4 +440,4 @@
 | Tytuł X: Obowiązek respektowania prawa powszechnego | Kan. 219–222 | Cały KPK | Observantia iuris universalis |
 | Tytuł XI: Relacja do prawa partykularnego diecezji | Kan. 223–225 | Kan. 368–572 | Ecclesiae particulares |
 | Tytuł XII: Trzy obrządki domowe | *(wydane w Księdze IV, kan. 252–265)* | — | Munus sanctificandi |
-| Tytuł XIII: Przepisy końcowe | Kan. 226–230 | Kan. 6 § 2, 14, 1752 | Normae finales |
+| Tytuł XII: Przepisy końcowe | Kan. 226–230 | Kan. 6 § 2, 14, 1752 | Normae finales |
