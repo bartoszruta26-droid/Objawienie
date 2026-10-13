@@ -97,7 +97,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł IV: Przepisy końcowe Księgi I
 
-**Kan. 13.** Dawne kanony 16–100 Księgi I (Tytuły V–XII: ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy, statuty i przepisy porządkowe, władza rządzenia, urzędy kościelne, przedawnienie, obliczanie czasu, obowiązek respektowania prawa powszechnego oraz relacja do prawa partykularnego diecezji) zostały zniesione jako dublujące normy Księgi III i wycofane z obiegu prawnego bez zachowania wolnych numerów (*vacat*). W sprawach przez nie regulowanych zastosowanie mają przepisy Księgi III — Prawo Kościelne (kan. 49–143), która ustanawia jednolitą kompetencję w tych materiach. Zniesienie usuwa stan, w którym dwa różne brzmienia tej samej normy obowiązywały równolegle w dwóch księgach jednego zbioru (konflikt kompetencji prawodawczych). Prawodawca domowy, zachowując kan. 1–12 jako własne normy nadrzędne Księgi I, powierza jednolite regulowanie instytucji prawa kościelnego wyłącznie Księdze III. W wyniku zniesienia dawnych kanonów 14–100 Księga I obejmuje obecnie kanony 1–13, a cały zbiór — jednolity, nieprzerwany ciąg kan. 1–491 (Księga II rozpoczyna się od kan. 14). Dawne odesłania do zniesionych kanonów Księgi I należy rozumieć jako odesłania do odpowiedników z Księgi III wskazanych w zdaniu poprzedzającym, stosownie do przepisów tego kanonu.
+**Kan. 13.** ...
 
 *(Redakcja: po zniesieniu kanonów wycofanych nadano Księdze I ciągłą numerację kan. 1–13; dawną treść zniesionych kanonów zachowano w archiwum redakcyjnym.)*
 
