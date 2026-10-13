@@ -105,7 +105,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł IV: Materia odsyłająca — zakres Tytułów V–XII (kan. 16–100)
 
-**Kan. 16–78.** Kanony o numerach 16–78, zajmujące uprzednio Tytuły IV–IX niniejszej Księgi (ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe), zostały zniesione jako podwajające w innym brzmieniu normy Księgi III (kan. 136–203), które ustanawiają jednolitą kompetencję w tych sprawach. Numery te pozostawia się wolne dla zachowania ciągłości dalszej numeracji Kodeksu; wszelkie dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III zgodnie z tabelą:
+**Kan. 16–78.** Kanony o numerach 16–78, zajmujące uprzednio Tytuły IV–IX niniejszej Księgi (ustawy partykularne, interpretacja ustaw, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe), zostały zniesione jako podwajające w innym brzmieniu normy Księgi III (kan. 136–203), które ustanawiają jednolitą kompetencję w tych sprawach. Numery te pozostawia się wolne dla zachowania ciągłości dalszej numeracji Kodeksu; wszelkie dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III zgodnie z tabelą (obejmującą również dawne kan. 6–8 i 12–15, zniesione tą samą redakcją):
 
 | Dawny przepis Księgi I | Właściwa norma — Księga III |
 |---|---|
@@ -113,7 +113,13 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 | kan. 7 (ścisła interpretacja) | kan. 150 |
 | kan. 8 (stosowanie prawa w brakującym przepisie) | kan. 151 |
 | kan. 9 § 2 daw. / kan. 27–32 (zwyczaj) | kan. 152–157 |
-| kan. 12–18 (respektowanie ustaw kościelnych) | kan. 136–143 |
+| kan. 12 (przyjęcie i respektowanie ustaw powszechnych; terytorialny zakres wiążenia) | kan. 136–137 |
+| kan. 13 (nieretroaktywność ustaw) | kan. 138 |
+| kan. 14 (normy unieważniające i uniezdalniające) | kan. 139 |
+| kan. 15 (wątpliwość prawna i faktyczna) | kan. 140 |
+| kan. 16 (ignorancja i błąd) | kan. 141 |
+| kan. 17 (promulgacja i obowiązywanie ustaw powszechnych) | kan. 142 |
+| kan. 18 (stosowanie prawa państwowego) | kan. 143 |
 | kan. 19–22 (ustawy partykularne) | kan. 144–147 |
 | kan. 23–26 (interpretacja ustaw) | kan. 148–151 |
 | kan. 33–41 (dekrety ogólne i instrukcje) | kan. 158–166 |
@@ -126,7 +132,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 | kan. 94–97 (obowiązek respektowania prawa powszechnego) | kan. 219–222 |
 | kan. 98–100 (relacja do prawa partykularnego diecezji) | kan. 223–225 |
 
-*(Redakcja: zmiana usuwa konflikty kompetencji między kanonami Księgi I a Księgą III, która — jako późniejsza i szczególna — wyczerpująco reguluje te same instytucje prawne; dawną treść zachowano w archiwum redakcyjnym (`usuniete_ksiega_I_rodzIII-IX.bak`). Zniesione zostały również dawne kan. 6–8 i 12–18 oraz powtórzone normy Tytułów X–XII (kan. 79–100), które dublowały odpowiednio kan. 149–151 i 136–143 oraz Tytuły VI–XI Księgi III (kan. 204–225). Numery zniesionych kanonów pozostawia się wolne (vacat) dla zachowania ciągłości dalszej numeracji Kodeksu; wszelkie dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III zgodnie z powyższą tabelą.)*
+*(Redakcja: zmiana usuwa konflikty kompetencji między kanonami Księgi I a Księgą III, która — jako późniejsza i szczególna — wyczerpująco reguluje te same instytucje prawne; dawną treść zachowano w archiwum redakcyjnym (`usuniete_ksiega_I_rodzIII-IX.bak`). Zniesione zostały również dawne kan. 6–8 oraz 12–18 (które dublowały odpowiednio kan. 149–151 oraz kan. 136–143), a także powtórzone normy Tytułów X–XII (kan. 79–100), dublujące Tytuły VI–XI Księgi III (kan. 204–225). Numery zniesionych kanonów pozostawia się wolne (vacat) dla zachowania ciągłości dalszej numeracji Kodeksu; wszelkie dawne odesłania do nich należy rozumieć jako odesłania do odpowiedników z Księgi III zgodnie z powyższą tabelą.)*
 
 ---
 

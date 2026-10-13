@@ -14,23 +14,11 @@
 | [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 467–520 |
 
 ## Księga I — Normy Ogólne
--   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–10
+-   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–10 (kan. 6–8 *vacat*)
 -   **Tytuł II: Definicje i pojęcia** — kan. 11
--   **Tytuł III: Respektowanie ustaw kościelnych** — kan. 12–18
--   **Tytuł IV: Ustawy partykularne Kościoła Domowego** — kan. 19–22
--   **Tytuł V: Interpretacja ustaw** — kan. 23–26
--   **Tytuł VI: Zwyczaj** — kan. 27–32
--   **Tytuł VII: Dekrety ogólne oraz instrukcje** — kan. 33–41
--   **Tytuł VIII: Poszczególne akty administracyjne**
-- **Rozdział I: Normy wspólne** — kan. 42–49
-- **Rozdział II: Dekrety i poszczególne nakazy** — kan. 50–55
-- **Rozdział III: Reskrypty** — kan. 56–62
-- **Rozdział IV: Przywileje** — kan. 63–67
-- **Rozdział V: Dyspensy** — kan. 68–74
--   **Tytuł IX: Statuty i przepisy porządkowe** — kan. 75–78
--   **Tytuł X: Władza rządzenia, urzędy, przedawnienie i obliczanie czasu** — kan. 79–93
--   **Tytuł XI: Obowiązek respektowania prawa powszechnego** — kan. 94–97
--   **Tytuł XII: Relacja do prawa partykularnego diecezji** — kan. 98–100
+-   **Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego** — kan. 12–15
+-   **Tytuł IV: Materia odsyłająca — zakres Tytułów V–XII** — kan. 16–100 (*vacat*; dawne odesłania przekierowane do Księgi III, kan. 136–225, zgodnie z tabelą pod kan. 16–78)
+    -   dawne tytuły zniesione jako dublujące normy Księgi III: Respektowanie ustaw kościelnych (kan. 12–18 → kan. 136–143), Ustawy partykularne Kościoła Domowego (kan. 19–22 → kan. 144–147), Interpretacja ustaw (kan. 23–26 → kan. 148–151), Zwyczaj (kan. 27–32 → kan. 152–157), Dekrety ogólne oraz instrukcje (kan. 33–41 → kan. 158–166), Poszczególne akty administracyjne: normy wspólne, dekrety i nakazy, reskrypty, przywileje, dyspensy (kan. 42–74 → kan. 167–199), Statuty i przepisy porządkowe (kan. 75–78 → kan. 200–203), Władza rządzenia, urzędy, przedawnienie i obliczanie czasu (kan. 79–93 → kan. 204–218), Obowiązek respektowania prawa powszechnego (kan. 94–97 → kan. 219–222), Relacja do prawa partykularnego diecezji (kan. 98–100 → kan. 223–225)
 
 ## Księga II — Lud Boży
 -   **Tytuł I: Wierni Kościoła Domowego** — kan. 101–106
