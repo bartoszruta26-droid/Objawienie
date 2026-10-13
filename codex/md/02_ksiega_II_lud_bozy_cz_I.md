@@ -19,7 +19,7 @@
 1° **Głowę Rodu** (*Caput Familiae*) — mąż i ojciec, sprawujący posługę szafarza świętego, arcykapłana i biskupa domowego;
 2° **Małżonkę** (*Coniunx*) — żonę i matkę, pełniącą funkcję nadzorczą, współszafarkę łaski i współpasterkę;
 3° **Potomstwo** (*Proles*) — dzieci zrodzone lub adoptowane, uczestników kapłaństwa domowego stosownie do wieku i dojrzałości;
-4° **Innych członków** — krewnych, przyjaciół i osoby potrzebujące przyjęte do wspólnoty na zasadach określonych w kan. 102 § 2.
+4° **Innych członków** — krewnych, przyjaciół i osoby potrzebujące przyjęte do wspólnoty na zasadach określonych w kan. 103 § 2.
 
 **Kan. 103 § 1.** Do Kościoła Domowego należą z mocy prawa naturalnego:
 1° Głowa Rodu — mąż i ojciec;
