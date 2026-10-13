@@ -2,21 +2,6 @@
 
 ## *De bonis immobilibus Ecclesiae Domesticae et Subdioecesis*
 
-*(Redakcja porządkująca: dawna „Księga XVIII — Tytuł III: Nieruchomości” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 463–491**, zgodnie ze spisem treści (`99_spis_tresci.md`), jako kontynuację ciągu kan. 1–433.)*
-
-## SPIS TREŚCI KSIĘGI
-
-- **Tytuł I: ZASADY OGÓLNE DOTYCZĄCE NIERUCHOMOŚCI** — kan. 463–465
-- **Tytuł II: DOM RODZINNY JAKO SIEDZIBA KOŚCIOŁA DOMOWEGO** — kan. 466–470
-- **Tytuł III: WSPÓŁWŁASNOŚĆ I PRAWO KORZYSTANIA** — kan. 471–474
-- **Tytuł IV: NIERUCHOMOŚCI SAKRALNE** — kan. 475
-- **Tytuł V: ALIENACJA NIERUCHOMOŚCI** — kan. 476–478
-- **Tytuł VI: SUKCESJA NIERUCHOMOŚCI PO ŚMIERCI RODZICÓW** — kan. 479–481
-- **Tytuł VII: NIERUCHOMOŚCI NOWYCH KOŚCIOŁÓW DOMOWYCH** — kan. 482–484
-- **Tytuł VIII: ZARZĄD, UTRZYMANIE, OCHRONA NIERUCHOMOŚCI I ROZSTRZYGANIE SPORÓW** — kan. 485–489
-- **Tytuł IX: PRZEPISY KOŃCOWE** — kan. 490–491
--   **ANEKS DO KSIĘGI X — TABELA ROZWIĄZAŃ DLA NIERUCHOMOŚCI NIEPODZIELNYCH**
-
 ---
 
 ### PREAMBUŁA KSIĘGI
@@ -718,44 +703,4 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 5° dyskryminujący Potomków ze względu na płeć, kolejność urodzenia lub stan;
 
 6° uzasadniający przemoc, manipulację lub przymus w sprawach majątkowych.
-
-## ANEKS DO KSIĘGI X — TABELA ROZWIĄZAŃ DLA NIERUCHOMOŚCI NIEPODZIELNYCH
-
-| Sytuacja | Rozwiązanie | Podstawa kanoniczna | Uwagi |
-|---|---|---|---|
-| Jeden Potomek, jedna nieruchomość | Przejmuje całość | kan. 479 § 1 | Z obowiązkiem opieki nad kaplicą |
-| Kilku Potomków, jedna nieruchomość | Współwłasność lub wyznaczenie zarządcy | kan. 480 § 2–4 | Z prawem dostępu dla wszystkich |
-| Kilku Potomków chcą podziału | Podział do korzystania lub spłata | kan. 473 | Podział fizyczny zabroniony |
-| Małżonka przeżywa | Dożywotnie prawo zamieszkania | kan. 474 | Niezbywalne, niepodlegające egzekucji |
-| Potomek zakłada nowy Kościół Domowy | Pomoc z Kościoła macierzystego | kan. 482–484 | Bez prawa do nieruchomości macierzystej |
-| Nieruchomość sakralna | Dodatkowa ochrona | kan. 475 | Obrzędowe zamknięcie przed alienacją |
-| Konieczność sprzedaży | Ostateczność, zgoda wszystkich | kan. 476–478, 480 § 6 | Z zabezpieczeniem kaplicy i archiwum |
-| Spór między Potomkami | Mediacja → arbiter → sąd | kan. 487 | Z ochroną kaplicy w trakcie sporu |
-| Zadłużenie nieruchomości | Działania ochronne | kan. 467 § 2 | Z zabezpieczeniem kaplicy i archiwum |
-| Nadwyżka nieruchomości w Kościele macierzystym | Przekazanie nowemu Kościołowi Domowemu | kan. 483 | Z zachowaniem prawa dostępu |
-
----
-
-## TABELA PRZEKIEROWAŃ (DAWNE NUMERY → NOWA NUMERACJA)
-
-| Dawny przepis | Przedmiot | Nowy kanon |
-|---|---|---|
-| kan. 929 | *(przerwa w dawnej numeracji — zniesiona)* | — |
-| kan. 930–932 | Pojęcia i charakter nieruchomości; własność | kan. 463–465 |
-| kan. 933–937 | Dom rodzinny jako siedziba Kościoła Domowego; ziemia | kan. 466–470 |
-| kan. 938–941 | Współwłasność i prawo korzystania; Małżonka przeżywająca | kan. 471–474 |
-| kan. 942 | Nieruchomości sakralne | kan. 475 |
-| kan. 943–945 | Alienacja nieruchomości i przychód | kan. 476–478 |
-| kan. 946–948 | Sukcesja nieruchomości po śmierci rodziców | kan. 479–481 |
-| kan. 949–951 | Nieruchomości nowych Kościołów Domowych | kan. 482–484 |
-| kan. 952–956 | Zarząd, utrzymanie, ochrona nieruchomości; spory | kan. 485–489 |
-| kan. 957–958 | Przepisy końcowe i interpretacyjne Księgi X | kan. 490–491 |
-
-## UWAGI REDAKCYJNE
-
-1. **Numeracja.** Dawny „Tytuł III — Nieruchomości” dawnej „Księgi XVIII” (kan. 930–958, z luką pod kan. 929) otrzymał numerację ciągłą **kan. 463–491**, bezpośrednio po Księdze IX (kan. 434–462). Luka numeracyjna została zniesiona przez przejście na ciągłą numerację zbioru.
-2. **Granica przedmiotowa z Księgą IX.** W dawnym tekście mylono dwa różne reżimy prawne: *rozmnażanie dóbr duchowych i intelektualnych* (Księga IX) oraz *niepodzielność nieruchomości* (Księga X). Dzieli je wyraźna granica: kan. 460 § 2 (wyłączna kompetencja Księgi VIII w sprawach przekazania patriarchatu) oraz kan. 491 (kolizja norm — pierwszeństwo norm szczególnych niniejszej Księgi dla dóbr nieruchomych).
-3. **Powtórzenia.** Dawne kan. 930–958 powtarzały miejscami dawne kan. 919–922 (podział dóbr materialnych); zachowano jedno brzmienie normy w każdym zakresie, a odpowiedniki wskazano w tabeli przekierowań oraz w kan. 458 § 1 5° (odesłanie do Księgi X przy sukcesie nieruchomości).
-4. **Odesłania do prawa zewnętrznego.** Ujednolicono zapisy: kan. 421–1298 KPK (alienacja dóbr kościelnych), kan. 403, kan. 384 § 2, kan. 335–1213 (miejsca święte), stosowane analogicznie; kan. 2 § 2 Księgi I (granice terytorialne Kościoła Domowego).
-5. **Poprawki redakcyjne.** Ujednolicono formę paragrafów („**Kan. X § 1.**”, dalej „**§ 2.**”), wyliczeń („1°, 2°, …”) oraz nagłówków tytułów; usunięto zdania o charakterze deklaracji redakcyjnych źródła („Niniejsze przepisy dopisuje się…”, „Księga XVIII — Poprawiona”).
 
