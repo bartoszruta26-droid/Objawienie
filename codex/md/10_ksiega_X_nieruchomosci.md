@@ -689,7 +689,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 5° statut Kościoła Domowego.
 
-**§ 3.** W razie sprzeczności między niniejszą Księgą a Księgą IX (kan. 521–549) co do dóbr, które są jednocześnie materialne i nieruchome (dom, kaplica, ziemia), pierwszeństwo mają przepisy niniejszej Księgi jako bardziej szczególne (por. kan. 15 Księgi I oraz kan. 148–151 Księgi III — interpretacja ustaw; kan. 144–147 — ustawy partykularne).
+**§ 3.** W razie sprzeczności między niniejszą Księgą a Księgą IX (kan. 521–549) co do dóbr, które są jednocześnie materialne i nieruchome (dom, kaplica, ziemia), pierwszeństwo mają przepisy niniejszej Księgi jako bardziej szczególne (por. kan. 12 Księgi I o regułach kolizji oraz kan. 148–151 Księgi III — interpretacja ustaw; kan. 144–147 Księgi III — ustawy partykularne).
 
 **Kan. 578.** Najwyższą zasadą interpretacji niniejszej Księgi jest:
 

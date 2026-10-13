@@ -12,7 +12,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł I: BISKUP TYTULARNY SUBDIECEZJALNY
 
-**Kan. 406 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny w rozumieniu analogicznym do kan. 368-369 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego. *(norma szczególna wobec kan. 30 i 87)*
+**Kan. 406 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny w rozumieniu analogicznym do kan. 368-369 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego. *(norma szczególna wobec przepisów Księgi III o prawie partykularnym i władzy rządzenia)*
 
 **§ 2.** Biskup tytularny subdiecezjalny:
 1° posiada władzę zwyczajną, własną i bezpośrednią w zakresie subdiecezji domowej, wymaganą do pasterskiego urzędu, z wyłączeniem spraw zarezerwowanych biskupowi diecezjalnemu lub najwyższej władzy kościelnej (por. kan. 381 § 1 KPK, zastosowany analogicznie);
@@ -242,7 +242,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **Kan. 430.** Wszelkie wcześniejsze odniesienia do „biskupa diecezjalnego” w kontekście Kościoła Domowego należy rozumieć jako „biskupa tytularnego subdiecezjalnego” w zakresie dotyczącym subdiecezji domowej, a jako „biskupa diecezjalnego” w zakresie dotyczącym diecezji, na której terytorium znajduje się subdiecezja domowa.
 
-**Kan. 431.** W przypadku sprzeczności między niniejszą Księgą a dotychczasowymi kanonami, pierwszeństwo przysługuje normom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego; reguły kolizji uzupełniają kan. 145–146 oraz kan. 226–230.
+**Kan. 431.** W przypadku sprzeczności między niniejszą Księgą a dotychczasowymi kanonami, pierwszeństwo przysługuje normom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego; reguły kolizji uzupełniają kan. 145–146 oraz kan. 226–230 Księgi III.
 
 ---
 

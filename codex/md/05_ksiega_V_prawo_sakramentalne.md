@@ -174,7 +174,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 2° odpowiedzialność za powierzone zadania domowe i formacyjne;
 3° reprezentowanie wspólnoty wobec rówieśników i w środowisku;
 4° uczestnictwo w posiedzeniach Triarchii Domowej z głosem doradczym (po ukończeniu trzynastu lat);
-5° gotowość do przejęcia funkcji na zasadach określonych w kan. 392 § 1 4° oraz, w razie opróżnienia urzędu Głowy Rodu, w Księdze VIII o przekazaniu patriarchatu.
+5° gotowość do przejęcia funkcji na zasadach określonych w kan. 392 § 1 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu patriarchatu.
 
 ---
 
@@ -199,7 +199,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 1° od siódmego roku życia: ministrantura, śpiew, czytanie krótkich tekstów, przygotowanie przestrzeni kultu;
 2° od trzynastego roku życia: czytanie Pisma Świętego, prowadzenie modlitwy wiernych, głos doradczy w Triarchii Domowej;
 3° od piętnastego roku życia: prowadzenie rozważań formacyjnych, katecheza młodszych, opieka nad sakramentaliami;
-4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji na zasadach kan. 387 § 2 (granice zastępstwa, stosowane odpowiednio) oraz Księgi VIII o przekazaniu patriarchatu.
+4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 387 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu patriarchatu.
 
 ---
 
@@ -296,7 +296,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 **Kan. 402 § 1.** Potomek jako uczestnik kapłaństwa domowego ma prawo do:
 1° wychowania zgodnego z Prawem Bożym i nauczaniem Kościoła;
-2° ochrony przed jakimikolwiek formami krzywdy (por. kan. 130 niniejszego Kanonu);
+2° ochrony przed jakimikolwiek formami krzywdy (por. przepisy kan. 123 Księgi II o ochronie dzieci);
 3° udziału w życiu liturgycznym stosownie do wieku i dojrzałości;
 4° własnej przestrzeni modlitwy i ciszy;
 5° pytania, wątpliwości i dojrzewania wiary bez przymusu;
