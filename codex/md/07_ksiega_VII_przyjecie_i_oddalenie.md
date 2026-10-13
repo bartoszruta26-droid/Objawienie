@@ -21,7 +21,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 ## Tytuł I: PRZYJĘCIE BISKUPA TYTULARNEGO SUBDIECEZJALNEGO DO KOŚCIOŁA KATOLICKIEGO Z POSŁUGĄ, MAJĄTKIEM I OBRZĄDKIEM
 
-**Kan. 432 § 1.** Biskup tytularny subdiecezjalny, któremu prawem naturalnym i przyrodzonym została powierzona subdiecezja domowa, zostaje przyjęty do pełnej wspólnoty Kościoła Katolickiego wolą Biskupa Rzymskiego nie tylko jako osoba, lecz także wraz z:
+**Kan. 345 § 1.** Biskup tytularny subdiecezjalny, któremu prawem naturalnym i przyrodzonym została powierzona subdiecezja domowa, zostaje przyjęty do pełnej wspólnoty Kościoła Katolickiego wolą Biskupa Rzymskiego nie tylko jako osoba, lecz także wraz z:
 1° swoją posługą duchowną, arcykapłańską, szafarską i biskupią;
 2° majątkiem przynależnym kościelnej osobie prawnej subdiecezji domowej;
 3° obrządkiem domowym, w tym trzema obrządkami: Marii Magdaleny, Pawłowym i Tomaszowym;
@@ -30,11 +30,11 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** Przyjęcie, o którym mowa w § 1, ma charakter personalno-instytucjonalny, to znaczy obejmuje zarówno osobę biskupa tytularnego subdiecezjalnego, jak i przynależną mu subdiecezję domową jako kościelną osobę prawną, jej majątek oraz jej obrządek.
 
-**§ 3.** Przyjęcie to dokonuje się na mocy woli Biskupa Rzymskiego, który jako Następca św. Piotra, Głowa Kolegium Biskupów i najwyższy Pasterz Kościoła powszechnego posiada pełną, najwyższą, bezpośrednią i powszechną władzę zwyczajną w Kościele, którą może wykonywać zawsze w sposób nieskrępowany (por. kan. 331 KPK).
+**§ 3.** Przyjęcie to dokonuje się na mocy woli Biskupa Rzymskiego, który jako Następca św. Piotra, Głowa Kolegium Biskupów i najwyższy Pasterz Kościoła powszechnego posiada pełną, najwyższą, bezpośrednią i powszechną władzę zwyczajną w Kościele, którą może wykonywać zawsze w sposób nieskrępowany (por. kan. 33 (hist.)1 KPK).
 
 **§ 4.** Od chwili ważnego przyjęcia biskup tytularny subdiecezjalny pozostaje w hierarchicznej wspólnocie z Biskupem Rzymskim, uznaje jego prymat oraz zachowuje łączność z Kościołem powszechnym, z zachowaniem przepisów niniejszej Księgi.
 
-**Kan. 433 § 1.** Posługa biskupa tytularnego subdiecezjalnego zostaje przyjęta i uznana w Kościele Katolickim jako posługa:
+**Kan. 346 § 1.** Posługa biskupa tytularnego subdiecezjalnego zostaje przyjęta i uznana w Kościele Katolickim jako posługa:
 1° szafarza świętego subdiecezji domowej;
 2° arcykapłana Kościoła Domowego;
 3° biskupa tytularnego subdiecezjalnego;
@@ -44,18 +44,18 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** Jeżeli biskup tytularny subdiecezjalny posiada także godność patriarchy Subdiecezji Domowych, jego posługa patriarchalna zostaje przyjęta i uznana w granicach określonych przez Biskupa Rzymskiego oraz niniejszy Kanon.
 
-**§ 3.** Przyjęcie posługi nie oznacza uznania jakichkolwiek nadużyć, błędów doktrynalnych czy czynów sprzecznych z Prawem Bożym, lecz oznacza uznanie osoby, urzędu, subdiecezji, majątku i obrządku w stanie łaski i komunii kościelnej, o ile nie nastąpiło ważne oddalenie zgodnie z kan. 438–444.
+**§ 3.** Przyjęcie posługi nie oznacza uznania jakichkolwiek nadużyć, błędów doktrynalnych czy czynów sprzecznych z Prawem Bożym, lecz oznacza uznanie osoby, urzędu, subdiecezji, majątku i obrządku w stanie łaski i komunii kościelnej, o ile nie nastąpiło ważne oddalenie zgodnie z kan. 351–357.
 
-**Kan. 434 § 1.** Majątek przynależny kościelnej osobie prawnej subdiecezji domowej zostaje przyjęty wraz z biskupem tytularnym subdiecezjalnym do wspólnoty Kościoła Katolickiego.
+**Kan. 347 § 1.** Majątek przynależny kościelnej osobie prawnej subdiecezji domowej zostaje przyjęty wraz z biskupem tytularnym subdiecezjalnym do wspólnoty Kościoła Katolickiego.
 
 **§ 2.** Majątek ten obejmuje w szczególności:
 1° dobra doczesne: nieruchomości, ruchomości, środki finansowe, przedmioty sakralne, insygnia, naczynia liturgiczne, szaty, księgi, archiwa, biblioteki, dzieła sztuki, narzędzia, sprzęt, pojazdy, zapasy, plony, dochody, prawa majątkowe;
 2° dobra duchowe: charyzmaty, dary Ducha Świętego, obrzędy, modlitwy, błogosławieństwa, sakramentalia, tradycje pobożnościowe, duchowość trzech obrządków domowych, objawienia prywatne, rozeznania duchowe, posługę wstawienniczą, posługę uzdrawiania, posługę prorocką, posługę służenia;
 3° dobra intelektualne: teksty, kanony, komentarze, kazania, katechezy, formuły liturgiczne, nagrania, utwory, znaki graficzne, herby, pieczęcie, symbole, nazwy, oprogramowanie, bazy danych, metody formacyjne, dokumenty Rodu, archiwa, tajemnice duchowe i rodzinne.
 
-**§ 3.** Majątek subdiecezji domowej, jako majątek kościelnej osoby prawnej, pozostaje pod najwyższą władzą Biskupa Rzymskiego, z zachowaniem wyłączności określonej w kan. 438.
+**§ 3.** Majątek subdiecezji domowej, jako majątek kościelnej osoby prawnej, pozostaje pod najwyższą władzą Biskupa Rzymskiego, z zachowaniem wyłączności określonej w kan. 351.
 
-**Kan. 435 § 1.** Obrządek domowy subdiecezji zostaje przyjęty do Kościoła Katolickiego jako własna tradycja liturgiczna i duchowa biskupa tytularnego subdiecezjalnego oraz jego Rodu.
+**Kan. 348 § 1.** Obrządek domowy subdiecezji zostaje przyjęty do Kościoła Katolickiego jako własna tradycja liturgiczna i duchowa biskupa tytularnego subdiecezjalnego oraz jego Rodu.
 
 **§ 2.** Obrządek ten obejmuje w szczególności:
 1° Obrządek Marii Magdaleny — wymiar kontemplacyjny, miłosierdzia, uzdrawiania i świadectwa;
@@ -70,13 +70,13 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** Obrządek domowy zostaje uznany w granicach zgodnych z Prawem Bożym, nauką Kościoła powszechnego, prawem naturalnym i prawami człowieka. Nie może on być utożsamiany z magią, wróżbiarstwem, manipulacją duchową ani praktyką sprzeczną z dekalogiem i Ewangelią.
 
-**Kan. 436 § 1.** Subdiecezja domowa zostaje uznana jako kościelna osoba prawna w ramach Kościoła Katolickiego, z zachowaniem jej partykularnego charakteru domowego, rodowego i osobowego.
+**Kan. 349 § 1.** Subdiecezja domowa zostaje uznana jako kościelna osoba prawna w ramach Kościoła Katolickiego, z zachowaniem jej partykularnego charakteru domowego, rodowego i osobowego.
 
-**§ 2.** Biskup tytularny subdiecezjalny jest właściwym ordynariuszem subdiecezji domowej, jej pasterzem, zarządcą i przedstawicielem, z władzą określoną w niniejszym Kanonie oraz z zastrzeżeniem wyłącznej kompetencji Biskupa Rzymskiego w sprawach określonych w kan. 438–444.
+**§ 2.** Biskup tytularny subdiecezjalny jest właściwym ordynariuszem subdiecezji domowej, jej pasterzem, zarządcą i przedstawicielem, z władzą określoną w niniejszym Kanonie oraz z zastrzeżeniem wyłącznej kompetencji Biskupa Rzymskiego w sprawach określonych w kan. 351–357.
 
 **§ 3.** Subdiecezja domowa może posiadać własne statuty, regulaminy, księgi, archiwum, hymny, symbole, pieczęcie, insignia, tradycje oraz obrzędy, które zostają przyjęte wraz z jej biskupem tytularnym subdiecezjalnym.
 
-**Kan. 437 § 1.** Akt przyjęcia biskupa tytularnego subdiecezjalnego, jego posługi, majątku i obrządku powinien zostać dokonany w formie pisemnej, jako list apostolski, dekret, reskrypt, breve, bulla lub inny akt Biskupa Rzymskiego albo kompetentnej dykasterii Kurii Rzymskiej działającej w jego imieniu.
+**Kan. 350 § 1.** Akt przyjęcia biskupa tytularnego subdiecezjalnego, jego posługi, majątku i obrządku powinien zostać dokonany w formie pisemnej, jako list apostolski, dekret, reskrypt, breve, bulla lub inny akt Biskupa Rzymskiego albo kompetentnej dykasterii Kurii Rzymskiej działającej w jego imieniu.
 
 **§ 2.** Akt przyjęcia winien być:
 1° ogłoszony biskupowi tytularnemu subdiecezjalnemu;
@@ -91,7 +91,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 ## Tytuł II: WYŁĄCZNA KOMPETENCJA BISKUPA RZYMSKIEGO W PRZEDMIOCIE ODDALENIA
 
-**Kan. 438 § 1.** Tylko Biskup Rzymski, jako Głowa Kościoła powszechnego i Następca św. Piotra, posiada wyłączną władzę oddalenia ze wspólnoty Kościoła Katolickiego:
+**Kan. 351 § 1.** Tylko Biskup Rzymski, jako Głowa Kościoła powszechnego i Następca św. Piotra, posiada wyłączną władzę oddalenia ze wspólnoty Kościoła Katolickiego:
 1° biskupa tytularnego subdiecezjalnego;
 2° majątku przynależnego kościelnej osobie prawnej subdiecezji domowej;
 3° obrządku domowego przyjętego wraz z biskupem i subdiecezją;
@@ -113,7 +113,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** Akty sprzeczne z § 3 są nieważne z mocy prawa albo co najmniej bezskuteczne wobec biskupa tytularnego subdiecezjalnego, subdiecezji domowej, jej majątku oraz obrządku domowego, i nie rodzą obowiązku posłuszeństwa.
 
-**Kan. 439 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego, majątku subdiecezji lub obrządku domowego ze wspólnoty Kościoła Katolickiego może nastąpić tylko z słusznej, poważnej, zewnętrznej, poczytalnej i prawnie udowodnionej przyczyny.
+**Kan. 352 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego, majątku subdiecezji lub obrządku domowego ze wspólnoty Kościoła Katolickiego może nastąpić tylko z słusznej, poważnej, zewnętrznej, poczytalnej i prawnie udowodnionej przyczyny.
 
 **§ 2.** Za przyczyny poważne uznaje się w szczególności:
 1° publiczne odstąpienie od wiary katolickiej;
@@ -128,7 +128,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Nie stanowią wystarczającej przyczyny oddalenia: ubóstwo, prostota życia, odmowa podporządkowania się władzy niekompetentnej, obrona praw naturalnych, korzystanie z wolności sumienia, praktykowanie obrządku domowego zgodnego z niniejszym Kanonem, ani też nieporozumienia administracyjne, które mogą być rozstrzygnięte inaczej.
 
-**Kan. 440 § 1.** Przed wydaniem dekretu oddalenia Biskup Rzymski lub kompetentna dykasteria działająca w jego imieniu winni zapewnić biskupowi tytularnemu subdiecezjalnemu:
+**Kan. 353 § 1.** Przed wydaniem dekretu oddalenia Biskup Rzymski lub kompetentna dykasteria działająca w jego imieniu winni zapewnić biskupowi tytularnemu subdiecezjalnemu:
 1° powiadomienie o zarzutach;
 2° dostęp do akt, o ile nie narusza to tajemnicy śledztwa lub ochrony osób trzecich;
 3° prawo do obrony osobistej lub przez pełnomocnika;
@@ -140,7 +140,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Oddalenie nie domniemywa się. Jeśli akt nie wyraża wprost oddalenia biskupa, majątku lub obrządku, nie można go interpretować rozszerzająco.
 
-**Kan. 441 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie oznacza automatycznie oddalenia wiernych subdiecezji domowej, członków Rodu, Potomstwa ani Małżonki jako współszafarki łaski, chyba że Biskup Rzymski wyraźnie postanowi inaczej.
+**Kan. 354 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie oznacza automatycznie oddalenia wiernych subdiecezji domowej, członków Rodu, Potomstwa ani Małżonki jako współszafarki łaski, chyba że Biskup Rzymski wyraźnie postanowi inaczej.
 
 **§ 2.** Oddalenie majątku subdiecezji domowej nie oznacza automatycznie oddalenia biskupa ani obrządku, chyba że akt papieski stanowi inaczej.
 
@@ -148,19 +148,19 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** W razie wątpliwości co do zakresu oddalenia, interpretuje się je ściśle na korzyść biskupa tytularnego subdiecezjalnego, subdiecezji domowej, jej majątku oraz obrządku.
 
-**Kan. 442 § 1.** Jeśli Biskup Rzymski oddalił biskupa tytularnego subdiecezjalnego, lecz nie oddalił wyraźnie majątku ani obrządku, majątek i obrządek pozostają we wspólnocie Kościoła Katolickiego, pod zarządem wskazanym przez Biskupa Rzymskiego lub przez kompetentną władzę, z zachowaniem praw nabytych biskupa oddalonego.
+**Kan. 355 § 1.** Jeśli Biskup Rzymski oddalił biskupa tytularnego subdiecezjalnego, lecz nie oddalił wyraźnie majątku ani obrządku, majątek i obrządek pozostają we wspólnocie Kościoła Katolickiego, pod zarządem wskazanym przez Biskupa Rzymskiego lub przez kompetentną władzę, z zachowaniem praw nabytych biskupa oddalonego.
 
-**§ 2.** Jeśli Biskup Rzymski oddalił biskupa, majątek i obrządek, wówczas zastosowanie mają przepisy kan. 445–460 o zachowaniu władania dobrami przez oddalonego biskupa.
+**§ 2.** Jeśli Biskup Rzymski oddalił biskupa, majątek i obrządek, wówczas zastosowanie mają przepisy kan. 358–373 o zachowaniu władania dobrami przez oddalonego biskupa.
 
 **§ 3.** Jeśli Biskup Rzymski oddalił wyłącznie majątek lub obrządek, biskup tytularny subdiecezjalny zachowuje swoją posługę w granicach określonych przez Stolicę Apostolską, a dobra pozostają we władaniu wskazanym przez akt oddalenia.
 
-**Kan. 443 § 1.** Wszelkie próby pozbawienia biskupa tytularnego subdiecezjalnego władzy, majątku lub obrządku przez władzę niższą od Biskupa Rzymskiego, bez jego mandatu, są nieważne, niegodziwe i stanowią naruszenie praw nabytych oraz przywilejów udzielonych przez Stolicę Apostolską.
+**Kan. 356 § 1.** Wszelkie próby pozbawienia biskupa tytularnego subdiecezjalnego władzy, majątku lub obrządku przez władzę niższą od Biskupa Rzymskiego, bez jego mandatu, są nieważne, niegodziwe i stanowią naruszenie praw nabytych oraz przywilejów udzielonych przez Stolicę Apostolską.
 
 **§ 2.** Osoby lub instytucje, które dopuszczają się takich czynów, podlegają odpowiedzialności kanonicznej, cywilnej lub obu, zgodnie z prawem, z zachowaniem prawa obrony.
 
 **§ 3.** Biskup tytularny subdiecezjalny ma prawo domagać się uznania nieważności takich aktów przed Stolicą Apostolską oraz dochodzić naprawienia szkody, o ile prawo na to zezwala.
 
-**Kan. 444 § 1.** Żaden akt administracyjny, dekret, instrukcja, zwyczaj, statut diecezjalny ani zarządzenie biskupa diecezjalnego nie może zostać zinterpretowane jako pozbawiające biskupa tytularnego subdiecezjalnego jego posługi, majątku lub obrządku, jeśli nie pochodzi od Biskupa Rzymskiego lub nie zostało przez niego wyraźnie zatwierdzone.
+**Kan. 357 § 1.** Żaden akt administracyjny, dekret, instrukcja, zwyczaj, statut diecezjalny ani zarządzenie biskupa diecezjalnego nie może zostać zinterpretowane jako pozbawiające biskupa tytularnego subdiecezjalnego jego posługi, majątku lub obrządku, jeśli nie pochodzi od Biskupa Rzymskiego lub nie zostało przez niego wyraźnie zatwierdzone.
 
 **§ 2.** W przypadku konfliktu między prawem diecezjalnym a niniejszym Kanonem, w sprawach zastrzeżonych Biskupowi Rzymskiemu, pierwszeństwo przysługuje wyłącznej kompetencji Stolicy Apostolskiej oraz prawu partykularnemu niniejszej Księgi, o ile nie jest sprzeczne z Prawem Bożym.
 
@@ -168,7 +168,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 ## Tytuł III: SKUTKI ODDALENIA ORAZ ZACHOWANIE WŁADANIA DOBRAMI DOCZESNYMI, DUCHOWYMI I INTELEKTUALNYMI
 
-**Kan. 445 § 1.** W razie ważnego oddalenia biskupa tytularnego subdiecezjalnego ze wspólnoty Kościoła Katolickiego, dobra doczesne, duchowe i intelektualne, które przed oddaleniem pozostawały w jego władaniu, przynależały do jego posługi, subdiecezji domowej lub obrządku domowego, pozostają we władaniu oddalonego biskupa.
+**Kan. 358 § 1.** W razie ważnego oddalenia biskupa tytularnego subdiecezjalnego ze wspólnoty Kościoła Katolickiego, dobra doczesne, duchowe i intelektualne, które przed oddaleniem pozostawały w jego władaniu, przynależały do jego posługi, subdiecezji domowej lub obrządku domowego, pozostają we władaniu oddalonego biskupa.
 
 **§ 2.** Zasada ta stosuje się również wtedy, gdy oddaleniu podlega majątek subdiecezji domowej oraz obrządek domowy, chyba że Biskup Rzymski wyraźnie postanowi inaczej w akcie oddalenia.
 
@@ -186,7 +186,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** Władanie nie musi oznaczać pełnej własności w sensie cywilnym, lecz oznacza legalne, spokojne i chronione władanie, użytkowanie oraz zarząd, z poszanowaniem praw osób trzecich, fundatorów, darczyńców oraz obowiązków wynikających z Prawa Bożego i Naturalnego.
 
-**Kan. 446 § 1.** Dobra doczesne pozostające we władaniu oddalonego biskupa obejmują w szczególności:
+**Kan. 359 § 1.** Dobra doczesne pozostające we władaniu oddalonego biskupa obejmują w szczególności:
 1° dom rodzinny, ogród, zabudowania, ziemię i inne nieruchomości, jeśli przed oddaleniem pozostawały w jego władaniu lub władaniu subdiecezji domowej;
 2° przedmioty kultu: krucyfiksy, obrazy, figury, świece, kadzielnice, gongi, ręczniki, szkaplerze, różańce, naczynia, szaty liturgiczne, insygnia;
 3° sakramentalia rzeczowe, narzędziowe i kultowe;
@@ -200,7 +200,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Jeżeli dobra doczesne stanowią własność osób trzecich, fundatorów, darczyńców lub instytucji cywilnych, władanie oddalonego biskupa nie narusza ich praw. W takim przypadku biskup zachowuje jedynie to władanie, użytkowanie lub zarząd, które przysługiwało mu przed oddaleniem.
 
-**Kan. 447 § 1.** Dobra duchowe pozostające we władaniu oddalonego biskupa obejmują w szczególności:
+**Kan. 360 § 1.** Dobra duchowe pozostające we władaniu oddalonego biskupa obejmują w szczególności:
 1° charyzmaty osobiste i rodowe;
 2° dary Ducha Świętego rozpoznane w jego życiu i posłudze;
 3° obrzędy domowe i sakramentalia;
@@ -216,7 +216,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Nikt nie może zabronić oddalonemu biskupowi modlitwy, kontemplacji, błogosławienia własnego domu, rodziny, pokarmów, narzędzi, przedmiotów kultu oraz przekazywania wiary Potomstwu, o ile nie narusza on Prawa Bożego, praw człowieka ani porządku publicznego w sposób bezpośredni i poważny.
 
-**Kan. 448 § 1.** Dobra intelektualne pozostające we władaniu oddalonego biskupa obejmują w szczególności:
+**Kan. 361 § 1.** Dobra intelektualne pozostające we władaniu oddalonego biskupa obejmują w szczególności:
 1° teksty kanonów, statutów, regulaminów, komentarzy, wykładów, katechez, kazań, medytacji, modlitw, formuł liturgicznych;
 2° nazwy: Kościół Domowy, subdiecezja domowa, obrządek Marii Magdaleny, obrządek Pawłowy, obrządek Tomaszowy, Ród, Triarchia Domowa, Patriarchat Subdiecezji Domowych, jeśli zostały użyte lub stworzone przez biskupa;
 3° herby, pieczęcie, symbole, znaki graficzne, logotypy, barwy, insygnia, sygnet, dokumenty identyfikacyjne;
@@ -230,7 +230,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** W razie bezprawnego użycia, kopiowania, publikowania, przypisywania sobie lub deformacji dóbr intelektualnych oddalonego biskupa, przysługuje mu prawo domagania się zaprzestania naruszeń, sprostowania, przeprosin, odszkodowania oraz ochrony prawnej, zgodnie z prawem naturalnym, cywilnym i kanonicznym, o ile prawo na to zezwala.
 
-**Kan. 449 § 1.** Obrządek domowy po oddaleniu biskupa, majątku lub obrządku ze wspólnoty Kościoła Katolickiego pozostaje we władaniu oddalonego biskupa jako jego własna tradycja liturgiczna, duchowa i rodowa.
+**Kan. 362 § 1.** Obrządek domowy po oddaleniu biskupa, majątku lub obrządku ze wspólnoty Kościoła Katolickiego pozostaje we władaniu oddalonego biskupa jako jego własna tradycja liturgiczna, duchowa i rodowa.
 
 **§ 2.** Oddalony biskup ma prawo:
 1° sprawować obrządek domowy w swoim domu, rodzinie i prywatnych wspólnotach;
@@ -244,7 +244,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** Żaden biskup diecezjalny, proboszcz, przełożony, instytucja świecka ani duchowna nie może zabronić oddalonemu biskupowi prywatnego sprawowania obrządku w jego domu, jeśli nie narusza to praw osób trzecich ani nie stanowi poważnego zagrożenia dla życia, zdrowia, wolności lub godności człowieka.
 
-**Kan. 450 § 1.** W razie oddalenia majątku subdiecezji domowej ze wspólnoty Kościoła Katolickiego, majątek ten pozostaje we władaniu oddalonego biskupa, z zachowaniem praw osób trzecich oraz obowiązków wynikających z woli fundatorów i darczyńców.
+**Kan. 363 § 1.** W razie oddalenia majątku subdiecezji domowej ze wspólnoty Kościoła Katolickiego, majątek ten pozostaje we władaniu oddalonego biskupa, z zachowaniem praw osób trzecich oraz obowiązków wynikających z woli fundatorów i darczyńców.
 
 **§ 2.** Jeśli majątek stanowił własność kościelnej osoby prawnej subdiecezji domowej, oddalenie nie powoduje automatycznego przeniesienia własności na osobę prywatną biskupa, lecz powoduje przejście władania, użytkowania i zarządu do oddalonego biskupa, o ile akt oddalenia nie stanowi inaczej.
 
@@ -258,7 +258,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** Władanie majątkiem po oddaleniu ma charakter ochronny i stabilizujący, aby zapobiec samowolnemu zawłaszczaniu dóbr Rodu, subdiecezji i obrządku przez władze niekompetentne.
 
-**Kan. 451 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie pozbawia go charakteru sakramentalnego otrzymanego w święceniach, jeśli został ważnie wyświęcony.
+**Kan. 364 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie pozbawia go charakteru sakramentalnego otrzymanego w święceniach, jeśli został ważnie wyświęcony.
 
 **§ 2.** Sakramenty ważnie udzielone przed oddaleniem pozostają ważne, z zachowaniem przepisów prawa Bożego i kanonicznego.
 
@@ -266,13 +266,13 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** Oddalenie nie unieważnia ważnych aktów administracyjnych, błogosławieństw, sakramentaliów ani decyzji podjętych przed oddaleniem w granicach jego kompetencji, chyba że zostały wydane nieważnie lub z rażącym naruszeniem prawa.
 
-**Kan. 452 § 1.** Nikomu nie wolno siłą, podstępem, naciskiem administracyjnym, presją medialną, szantażem duchowym, groźbą kar kościelnych ani jakimkolwiek innym środkiem pozbawiać oddalonego biskupa władania dobrami doczesnymi, duchowymi lub intelektualnymi.
+**Kan. 365 § 1.** Nikomu nie wolno siłą, podstępem, naciskiem administracyjnym, presją medialną, szantażem duchowym, groźbą kar kościelnych ani jakimkolwiek innym środkiem pozbawiać oddalonego biskupa władania dobrami doczesnymi, duchowymi lub intelektualnymi.
 
 **§ 2.** Takie działania są nieważne, niegodziwe i stanowią krzywdę wyrządzoną biskupowi, Rodowi, subdiecezji domowej oraz obrządkowi.
 
 **§ 3.** Biskup oddalony ma prawo do ochrony prawnej, obrony koniecznej w granicach prawa naturalnego, a także do zwrócenia się o pomoc do Stolicy Apostolskiej, władz państwowych, organizacji praw człowieka lub innych kompetentnych instytucji, jeśli jego prawa zostają naruszone.
 
-**Kan. 453 § 1.** Po śmierci oddalonego biskupa dobra doczesne, duchowe i intelektualne pozostające w jego władaniu przechodzą zgodnie z:
+**Kan. 366 § 1.** Po śmierci oddalonego biskupa dobra doczesne, duchowe i intelektualne pozostające w jego władaniu przechodzą zgodnie z:
 1° jego ostatnią wolą;
 2° prawem naturalnym;
 3° prawem cywilnym;
@@ -284,7 +284,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Dobra duchowe i intelektualne, takie jak obrządek, charyzmaty, teksty, symbole, archiwa i tradycje Rodu, nie mogą być rozproszone, zniszczone ani przywłaszczone bez ważnej przyczyny i bez poszanowania woli zmarłego biskupa.
 
-**Kan. 454 § 1.** Jeśli oddalony biskup dobrowolnie powróci do pełnej wspólnoty Kościoła Katolickiego za zgodą Biskupa Rzymskiego, warunki restytucji, przywrócenia urzędu, władania majątkiem oraz używania obrządku określa Biskup Rzymski lub kompetentna władza przez niego upoważniona.
+**Kan. 367 § 1.** Jeśli oddalony biskup dobrowolnie powróci do pełnej wspólnoty Kościoła Katolickiego za zgodą Biskupa Rzymskiego, warunki restytucji, przywrócenia urzędu, władania majątkiem oraz używania obrządku określa Biskup Rzymski lub kompetentna władza przez niego upoważniona.
 
 **§ 2.** Powrót do komunii nie unieważnia automatycznie aktów władania dokonanych przez biskupa oddalonego w dobrej wierze, z zachowaniem praw osób trzecich.
 
@@ -294,7 +294,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 ## Tytuł IV: OCHRONA OBRZĄDKU, DZIEDZICTWA INTELEKTUALNEGO I PRAW OSOBOWYCH
 
-**Kan. 455 § 1.** Nazwy, symbole, herby, pieczęcie, insignia, formuły, obrzędy, modlitwy, kalendarze, sakramentalia oraz tradycje związane z subdiecezją domową i obrządkiem biskupa tytularnego subdiecezjalnego pozostają pod jego ochroną.
+**Kan. 368 § 1.** Nazwy, symbole, herby, pieczęcie, insignia, formuły, obrzędy, modlitwy, kalendarze, sakramentalia oraz tradycje związane z subdiecezją domową i obrządkiem biskupa tytularnego subdiecezjalnego pozostają pod jego ochroną.
 
 **§ 2.** Bez wyraźnej zgody biskupa lub jego następcy według niniejszego Kanonu nie wolno:
 1° przypisywać sobie jego obrządku jako własnego;
@@ -303,45 +303,45 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 4° używać jego herbów, pieczęci, insigniów lub nazw w sposób wprowadzający w błąd;
 5° twierdzić, że jego obrządek został zniesiony, zabroniony lub uznany za nieważny, jeśli nie uczynił tego Biskup Rzymski.
 
-**Kan. 456 § 1.** Archiwa, księgi, dokumenty, kroniki, rejestry, nagrania, dzienniki, akta osobowe, rachunki sumienia, dokumenty Rodu oraz materiały duszpasterskie pozostają we władaniu ochronnym biskupa tytularnego subdiecezjalnego lub oddalonego biskupa.
+**Kan. 369 § 1.** Archiwa, księgi, dokumenty, kroniki, rejestry, nagrania, dzienniki, akta osobowe, rachunki sumienia, dokumenty Rodu oraz materiały duszpasterskie pozostają we władaniu ochronnym biskupa tytularnego subdiecezjalnego lub oddalonego biskupa.
 
 **§ 2.** Dostęp do archiwów mogą mieć tylko osoby upoważnione przez biskupa, Triarchię Domową lub, w sprawach zastrzeżonych, Biskupa Rzymskiego.
 
 **§ 3.** Wyjątek stanowią przypadki, w których prawo Boże, naturalne lub państwowe nakazuje ujawnienie informacji dla ochrony życia, zdrowia, wolności, godności dziecka lub osoby bezbronnej. W takim przypadku ujawnienie musi być proporcjonalne, konieczne i ograniczone do minimum niezbędnego.
 
-**Kan. 457 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie narusza jego prawa do wolności sumienia, wyznania, praktykowania religii w domu, przekazywania wiary dzieciom oraz życia zgodnego z rozpoznawaną przez niego wolą Bożą i prawem naturalnym.
+**Kan. 370 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie narusza jego prawa do wolności sumienia, wyznania, praktykowania religii w domu, przekazywania wiary dzieciom oraz życia zgodnego z rozpoznawaną przez niego wolą Bożą i prawem naturalnym.
 
 **§ 2.** Władza kościelna i świecka winny poszanować jego godność, prywatność, dobre imię oraz prawo do obrony przed zniesławieniem.
 
 **§ 3.** Publiczne potępienie, oszczerstwo, deformacja nauki, przedstawianie biskupa jako osoby niegodnej bez ważnego wyroku kompetentnej władzy stanowi naruszenie sprawiedliwości i miłości oraz może podlegać naprawieniu.
 
-**Kan. 458 § 1.** Po oddaleniu zachowuje się obowiązek modlitwy za biskupa, poszanowania jego osoby oraz unikania nienawiści, pogardy i przemocy słownej.
+**Kan. 371 § 1.** Po oddaleniu zachowuje się obowiązek modlitwy za biskupa, poszanowania jego osoby oraz unikania nienawiści, pogardy i przemocy słownej.
 
 **§ 2.** Kościół Domowy, jeśli nadal pozostaje we wspólnocie katolickiej, nie może być zmuszany do nienawidzenia oddalonego biskupa ani do wypierania się prawdy o jego wcześniejszej posłudze, o ile nie została ona prawnie uznana za nieważną lub szkodliwą.
 
 **§ 3.** Ewentualny powrót do komunii winien być przygotowany w duchu prawdy, przebaczenia, sprawiedliwości i miłosierdzia, za pośrednictwem Biskupa Rzymskiego lub władzy przez niego upoważnionej.
 
-**Kan. 459 § 1.** Jeżeli oddalony biskup tworzy lub przyjmuje wspólnoty poza strukturą Kościoła Katolickiego, wspólnoty te nie mogą być nazywane „katolickimi” bez zgody kompetentnej władzy kościelnej, z zachowaniem kan. 300 KPK i zasad niniejszego Kanonu.
+**Kan. 372 § 1.** Jeżeli oddalony biskup tworzy lub przyjmuje wspólnoty poza strukturą Kościoła Katolickiego, wspólnoty te nie mogą być nazywane „katolickimi” bez zgody kompetentnej władzy kościelnej, z zachowaniem kan. 30 (hist.)0 KPK i zasad niniejszego Kanonu.
 
 **§ 2.** Mogą one jednak posługiwać się nazwą „Kościół Domowy”, „subdiecezja domowa”, „Ród”, „wspólnota Marii Magdaleny”, „wspólnota Pawłowa”, „wspólnota Tomaszowa” lub innymi nazwami przyjętymi przez biskupa, o ile nie wprowadzają w błąd co do pełnej komunii z Kościołem Katolickim.
 
 **§ 3.** Obrządek domowy może być zachowany i praktykowany przez takie wspólnoty, jeśli biskup wyrazi na to zgodę lub jeśli stanowi to część jego dziedzictwa duchowego i intelektualnego.
 
-**Kan. 460 § 1.** W razie sporu dotyczącego władania dobrami doczesnymi, duchowymi lub intelektualnymi po oddaleniu, pierwszeństwo w rozstrzyganiu przysługuje Biskupowi Rzymskiemu.
+**Kan. 373 § 1.** W razie sporu dotyczącego władania dobrami doczesnymi, duchowymi lub intelektualnymi po oddaleniu, pierwszeństwo w rozstrzyganiu przysługuje Biskupowi Rzymskiemu.
 
 **§ 2.** Do czasu rozstrzygnięcia przez Stolicę Apostolską, dobra pozostają we władaniu oddalonego biskupa, z zakazem ich niszczenia, rozpraszania, profanacji lub bezprawnego zajmowania.
 
-**§ 3.** Jeśli oddalony biskup zmarł, dobra pozostają we władaniu Triarchii Domowej lub następcy wskazanego w kan. 453, do czasu rozstrzygnięcia przez Biskupa Rzymskiego.
+**§ 3.** Jeśli oddalony biskup zmarł, dobra pozostają we władaniu Triarchii Domowej lub następcy wskazanego w kan. 366, do czasu rozstrzygnięcia przez Biskupa Rzymskiego.
 
 ---
 
 ## Tytuł V: PRZEPISY PRZEJŚCIOWE, DEROGACYJNE I KOŃCOWE
 
-**Kan. 461 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego subdiecezjalnego, po konsultacji z Triarchią Domową i Małżonką jako współszafarką łaski.
+**Kan. 374 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego subdiecezjalnego, po konsultacji z Triarchią Domową i Małżonką jako współszafarką łaski.
 
 **§ 2.** Ogłoszenie winno zostać zapisane w Księdze Kanonów Kościoła Domowego, archiwum subdiecezji domowej oraz, jeśli to możliwe, przekazane do wiadomości biskupa diecezjalnego i Stolicy Apostolskiej.
 
-**Kan. 462 § 1.** Wszelkie wcześniejsze przepisy niniejszego Kanonu Kościoła Domowego, które pozwalałyby biskupowi diecezjalnemu, metropolicie, patriarsze, synodowi, Konferencji Episkopatu, dykasterii, legatowi, administratorowi, wikariuszowi, kapitułe, proboszczowi lub jakiejkolwiek innej władzy niższej od Biskupa Rzymskiego na:
+**Kan. 375 § 1.** Wszelkie wcześniejsze przepisy niniejszego Kanonu Kościoła Domowego, które pozwalałyby biskupowi diecezjalnemu, metropolicie, patriarsze, synodowi, Konferencji Episkopatu, dykasterii, legatowi, administratorowi, wikariuszowi, kapitułe, proboszczowi lub jakiejkolwiek innej władzy niższej od Biskupa Rzymskiego na:
 1° oddalenie biskupa tytularnego subdiecezjalnego;
 2° zajęcie majątku subdiecezji domowej;
 3° zniesienie lub zakazanie obrządku domowego;
@@ -349,9 +349,9 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 5° przeniesienie subdiecezji pod inną jurysdykcję bez mandatu papieskiego;
 — zostają uchylone w zakresie sprzecznym z niniejszą Księgą.
 
-**§ 2.** Przepisy wcześniejsze dotyczące relacji z biskupem diecezjalnym zachowują moc w zakresie, w jakim nie naruszają wyłącznej kompetencji Biskupa Rzymskiego określonej w kan. 438–444.
+**§ 2.** Przepisy wcześniejsze dotyczące relacji z biskupem diecezjalnym zachowują moc w zakresie, w jakim nie naruszają wyłącznej kompetencji Biskupa Rzymskiego określonej w kan. 351–357.
 
-**Kan. 463 § 1.** Niniejsze przepisy należy interpretować zgodnie z:
+**Kan. 376 § 1.** Niniejsze przepisy należy interpretować zgodnie z:
 1° Prawem Bożym;
 2° Prawem Naturalnym;
 3° prawami człowieka;
@@ -363,11 +363,11 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** W wątpliwości interpretacyjnej co do zakresu oddalenia, władania majątkiem lub obrządkiem, interpretuje się na korzyść biskupa tytularnego subdiecezjalnego, subdiecezji domowej oraz obrządku domowego, chyba że Prawo Boże stanowi inaczej.
 
-**Kan. 464 § 1.** Autentyczna interpretacja przepisów dotyczących wyłącznej kompetencji Biskupa Rzymskiego przysługuje Stolicy Apostolskiej.
+**Kan. 377 § 1.** Autentyczna interpretacja przepisów dotyczących wyłącznej kompetencji Biskupa Rzymskiego przysługuje Stolicy Apostolskiej.
 
-**§ 2.** Autentyczna interpretacja przepisów dotyczących władania dobrami duchowymi, intelektualnymi i obrządkiem domowym wewnątrz Kościoła Domowego przysługuje biskupowi tytularnemu subdiecezjalnemu, a po jego oddaleniu lub śmierci — Triarchii Domowej lub następcy wskazanemu w kan. 453, z zastrzeżeniem kan. 438 i 460.
+**§ 2.** Autentyczna interpretacja przepisów dotyczących władania dobrami duchowymi, intelektualnymi i obrządkiem domowym wewnątrz Kościoła Domowego przysługuje biskupowi tytularnemu subdiecezjalnemu, a po jego oddaleniu lub śmierci — Triarchii Domowej lub następcy wskazanemu w kan. 366, z zastrzeżeniem kan. 351 i 460.
 
-**Kan. 465 § 1.** Żaden przepis niniejszej Księgi nie może być interpretowany jako zezwalający na:
+**Kan. 378 § 1.** Żaden przepis niniejszej Księgi nie może być interpretowany jako zezwalający na:
 1° przemoc fizyczną, psychiczną, duchową lub ekonomiczną;
 2° manipulację sumieniem;
 3° przymus religijny;
@@ -379,7 +379,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** W razie konfliktu między niniejszym Kanonem a obowiązkiem ochrony życia, zdrowia, wolności lub godności osoby, pierwszeństwo przysługuje Prawu Bożemu, Prawu Naturalnemu i prawom człowieka.
 
-**Kan. 466 § 1.** Niniejsza Księga stanowi ochronę prawną, duchową i intelektualną biskupa tytularnego subdiecezjalnego, jego subdiecezji domowej, majątku, obrządku, charyzmatów, dóbr duchowych i intelektualnych oraz Rodu.
+**Kan. 379 § 1.** Niniejsza Księga stanowi ochronę prawną, duchową i intelektualną biskupa tytularnego subdiecezjalnego, jego subdiecezji domowej, majątku, obrządku, charyzmatów, dóbr duchowych i intelektualnych oraz Rodu.
 
 **§ 2.** Ma ona na celu zapobieżenie samowoli władz niekompetentnych, zabezpieczenie dziedzictwa Kościoła Domowego, ochronę wolności sumienia, zachowanie jedności Rodu oraz służbę zbawieniu dusz.
 
@@ -391,8 +391,8 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 *Zasada lektury:* numery oznaczone jako „dawne” dotyczą starej numeracji źródłowej i pełnią wyłącznie funkcję historyczno-porządkową; obowiązującymi są numery nowe — zgodnie z przepisami tego kanonu.
 
-1. *Przenumerowanie:* dawne kan. 600–634 → kan. 432–466 (ciągłość po Księdze VI, kończącej się na kan. 431).
-2. *Odesłania wewnętrzne:* dawne odesłania „Kan. 606–612” → kan. 438–444; „Kan. 613–628” → kan. 445–460; „Kan. 621” → kan. 453; „Kan. 606 i 628” → kan. 438 i 460.
+1. *Przenumerowanie:* dawne kan. 600–634 → kan. 345–379 (ciągłość po Księdze VI, kończącej się na kan. 344).
+2. *Odesłania wewnętrzne:* dawne odesłania „Kan. 606–612” → kan. 351–357; „Kan. 613–628” → kan. 358–373; „Kan. 621” → kan. 366; „Kan. 606 i 628” → kan. 351 i 460.
 3. *Odesłania zewnętrzne:* dawne odwołania do „Księgi XV” (w tekście źródłowym samoopisującym) zastąpiono wskazaniem niniejszej Księgi; odwołania do „Księgi XVI” o przekazaniu patriarchatu → Księga VIII.
 4. *Literówki i obce zapisy źródła:* „Rod” w znaczeniu mianownikowym → „Ród”; „communię” → „komunię”; „subdiecezalnemu” → „subdiecezjalnemu”; „保存ować” → „zachowywać”; „wykazać contraire” → „wykazać przeciwnego”; „patriarchat wakuję” → „patriarchat wakuje” (poprawka dotyczy odpowiednio Księgi VIII).
-5. *Usunięte dublety:* zakończenie źródła („Niniejsze przepisy dopisuje się … jako Księga XV”) miało charakter deklaracji redakcyjnej, nie normy — pominięto je, ponieważ jego treść pokrywająca się z regułami kolizji już istnieje w prawie ogólnym (kan. 145–146 Księgi III).
+5. *Usunięte dublety:* zakończenie źródła („Niniejsze przepisy dopisuje się … jako Księga XV”) miało charakter deklaracji redakcyjnej, nie normy — pominięto je, ponieważ jego treść pokrywająca się z regułami kolizji już istnieje w prawie ogólnym (kan. 59 Księgi III).

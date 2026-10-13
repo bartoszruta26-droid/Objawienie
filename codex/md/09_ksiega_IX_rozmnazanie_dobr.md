@@ -2,25 +2,25 @@
 
 ## *De multiplicatione et transmissione bonorum spiritualium, intellectualium et materialium necnon de erectione novarum Ecclesiarum Domesticarum, Subdioecesium et Dioecesium*
 
-*(Redakcja porządkująca: dawna „Księga XVII — Poprawiona” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 521–549**, zgodnie ze spisem treści (`09_spis_tresci.md`), jako kontynuację ciągu kan. 1–520.)*
+*(Redakcja porządkująca: dawna „Księga XVII — Poprawiona” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 434–462**, zgodnie ze spisem treści (`09_spis_tresci.md`), jako kontynuację ciągu kan. 1–433.)*
 
 ## SPIS TREŚCI KSIĘGI
 
-- **Tytuł I: ZASADA ROZMNAŻANIA DÓBR DUCHOWYCH** — kan. 521–525
-- **Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH** — kan. 526–528
-- **Tytuł III: USTANAWIANIE NOWYCH KOŚCIOŁÓW DOMOWYCH PRZEZ CZŁONKÓW W ZWIĄZKACH** — kan. 529–532
-- **Tytuł IV: TYTUŁ BISKUPA NIEUŚWIĘCONEGO I USTANAWIANIE SUBDIECEZJI** — kan. 533–536
-- **Tytuł V: DĄŻENIE DO PRZYJĘCIA PRZEZ BISKUPA RZYMU I USTANOWIENIE DIECEZJI** — kan. 537–539
-- **Tytuł VI: ROZMNAŻANIE I PODZIAŁ DÓBR MATERIALNYCH** — kan. 540–543
-- **Tytuł VII: SUKCESJA PO ŚMIERCI RODZICÓW** — kan. 544–546
-- **Tytuł VIII: PRZEPISY KOŃCOWE** — kan. 547–549
+- **Tytuł I: ZASADA ROZMNAŻANIA DÓBR DUCHOWYCH** — kan. 434–438
+- **Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH** — kan. 439–441
+- **Tytuł III: USTANAWIANIE NOWYCH KOŚCIOŁÓW DOMOWYCH PRZEZ CZŁONKÓW W ZWIĄZKACH** — kan. 442–445
+- **Tytuł IV: TYTUŁ BISKUPA NIEUŚWIĘCONEGO I USTANAWIANIE SUBDIECEZJI** — kan. 446–449
+- **Tytuł V: DĄŻENIE DO PRZYJĘCIA PRZEZ BISKUPA RZYMU I USTANOWIENIE DIECEZJI** — kan. 450–452
+- **Tytuł VI: ROZMNAŻANIE I PODZIAŁ DÓBR MATERIALNYCH** — kan. 453–456
+- **Tytuł VII: SUKCESJA PO ŚMIERCI RODZICÓW** — kan. 457–459
+- **Tytuł VIII: PRZEPISY KOŃCOWE** — kan. 460–462
 -   **ANEKS DO KSIĘGI IX — TABELA ROZMNAŻANIA DÓBR**
 
 ---
 
 ### PREAMBUŁA KSIĘGI
 
-Niniejsza Księga stanowi, wraz z Księgą X (kan. 550–578), kontynuację zbioru poza podstawowym ciągem kan. 1–520; jej kanony otrzymały numerację ciągłą **521–549** w miejsce dawnej numeracji Księgi XVII (kan. 900–928). Księga poprawia i zastępuje wcześniejsze przepisy dotyczące sukcesji po śmierci rodziców w zakresie, w jakim poprzednie zapisy nie uwzględniały fundamentalnej zasady Prawa Bożego i Prawa Naturalnego: **dobra duchowe i intelektualne nie podlegają uszczupleniu przez dzielenie, lecz rozmnażają się przez przekazywanie**.
+Niniejsza Księga stanowi, wraz z Księgą X (kan. 463–491), kontynuację zbioru poza podstawowym ciągem kan. 1–433; jej kanony otrzymały numerację ciągłą **521–549** w miejsce dawnej numeracji Księgi XVII (kan. 900–928). Księga poprawia i zastępuje wcześniejsze przepisy dotyczące sukcesji po śmierci rodziców w zakresie, w jakim poprzednie zapisy nie uwzględniały fundamentalnej zasady Prawa Bożego i Prawa Naturalnego: **dobra duchowe i intelektualne nie podlegają uszczupleniu przez dzielenie, lecz rozmnażają się przez przekazywanie**.
 
 Zgodnie z objawioną strukturą rzeczywistości (Hierarchia Poziomów), świat stworzony przez Boga ma strukturę holograficzną i fraktalną — bez względu na to, na ile części podzielimy istniejący świat, mniejsza część zawsze odpowiada większej. Z tej zasady wynika, że:
 
@@ -36,7 +36,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł I: ZASADA ROZMNAŻANIA DÓBR DUCHOWYCH
 
-**Kan. 521 § 1.** Dobra duchowe Kościoła Domowego — w tym tytuły duchownego, kapłana, szafarza świętego, arcykapłana i biskupa domowego — nie podlegają zasadzie wyłączności ani niepodzielności. Mogą być i winny być rozmnażane, przekazywane i udzielane wszystkim członkom wspólnoty, którzy są do tego zdolni i przygotowani. *(przepis scalony z dawnego kan. 700 § 1 oraz dawnego kan. 900 § 1 starej numeracji; zgodnie z przepisami tego kanonu obowiązuje wyłącznie niniejsze, nowe brzmienie)*
+**Kan. 434 § 1.** Dobra duchowe Kościoła Domowego — w tym tytuły duchownego, kapłana, szafarza świętego, arcykapłana i biskupa domowego — nie podlegają zasadzie wyłączności ani niepodzielności. Mogą być i winny być rozmnażane, przekazywane i udzielane wszystkim członkom wspólnoty, którzy są do tego zdolni i przygotowani. *(przepis scalony z dawnego kan. 700 § 1 oraz dawnego kan. 900 § 1 starej numeracji; zgodnie z przepisami tego kanonu obowiązuje wyłącznie niniejsze, nowe brzmienie)*
 
 **§ 2.** Rozmnażanie dóbr duchowych oznacza, że:
 
@@ -56,7 +56,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Zasada rozmnażania dóbr duchowych opiera się na:
 
-1° powszechnym kapłaństwie wiernych wynikającym z sakramentu chrztu (por. kan. 204 § 1 KPK; 1 P 2,9);
+1° powszechnym kapłaństwie wiernych wynikającym z sakramentu chrztu (por. kan. 20 (hist.)4 § 1 KPK; 1 P 2,9);
 
 2° sakramencie małżeństwa, który czyni małżonków wzajemnymi szafarzami łaski;
 
@@ -66,7 +66,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° zasadzie, że Duch Święty udziela darów bez miary (J 3,34).
 
-**Kan. 522 § 1.** Tytuł duchownego w Kościele Domowym przysługuje każdemu członkowi wspólnoty, który:
+**Kan. 435 § 1.** Tytuł duchownego w Kościele Domowym przysługuje każdemu członkowi wspólnoty, który:
 
 1° przyjął sakramenty inicjacji chrześcijańskiej (chrzest, bierzmowanie, Eucharystia);
 
@@ -78,7 +78,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Tytuł duchownego nie jest wyłączny. Może go posiadać jednocześnie wielu członków Kościoła Domowego. Udzielenie go nowemu członkowi nie pozbawia go dotychczasowych posiadaczy.
 
-**Kan. 523 § 1.** Tytuł kapłana domowego przysługuje członkowi Kościoła Domowego, który:
+**Kan. 436 § 1.** Tytuł kapłana domowego przysługuje członkowi Kościoła Domowego, który:
 
 1° posiada tytuł duchownego;
 
@@ -100,9 +100,9 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° sprawowania obrzędów trzech obrządków domowych.
 
-**§ 3.** Tytuł kapłana domowego jest rozmnażalny. Może go posiadać wielu członków jednocześnie. Nie jest on tożsamy ze święceniami kapłańskimi w rozumieniu kan. 1008–1009 KPK, lecz wynika z powszechnego kapłaństwa wiernych i prawa naturalnego rodziny.
+**§ 3.** Tytuł kapłana domowego jest rozmnażalny. Może go posiadać wielu członków jednocześnie. Nie jest on tożsamy ze święceniami kapłańskimi w rozumieniu kan. 100 (hist.)8–1009 KPK, lecz wynika z powszechnego kapłaństwa wiernych i prawa naturalnego rodziny.
 
-**Kan. 524 § 1.** Tytuł szafarza świętego przysługuje członkowi Kościoła Domowego, który:
+**Kan. 437 § 1.** Tytuł szafarza świętego przysługuje członkowi Kościoła Domowego, który:
 
 1° posiada tytuł kapłana domowego;
 
@@ -126,7 +126,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Tytuł szafarza świętego jest rozmnażalny i może być udzielony wielu członkom jednocześnie, z zachowaniem zasady, że każdy szafarz święty sprawuje te sakramentalia, do których został wyznaczony.
 
-**Kan. 525 § 1.** Arcykapłan Kościoła Domowego ma prawo i obowiązek rozmnażania tytułów duchownych, kapłańskich i szafarskich wśród członków wspólnoty, którzy są do tego zdolni.
+**Kan. 438 § 1.** Arcykapłan Kościoła Domowego ma prawo i obowiązek rozmnażania tytułów duchownych, kapłańskich i szafarskich wśród członków wspólnoty, którzy są do tego zdolni.
 
 **§ 2.** Rozmnażanie tytułów winno być dokonywane:
 
@@ -142,11 +142,11 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Arcykapłan nie może odmówić rozmnażania tytułów bez słusznej przyczyny. Odmowa wymaga uzasadnienia na piśmie i może być zaskarżona przed Triarchią Domową lub biskupa tytularnego subdiecezjalnego.
 
-**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 521–525 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: patriarchat nad subdiecezjami domowymi (kan. 470–472), urząd Biskupa Rzymskiego (por. kan. 331 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 369 KPK) oraz urząd proboszcza w konkretnej parafii. *(odpowiednik dawnego kan. 700 § 3 — norma odsyłająca do Księgi VIII; zgodnie z przepisami tego kanonu obowiązuje niniejsze brzmienie)*
+**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 434–438 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: patriarchat nad subdiecezjami domowymi (kan. 383–385), urząd Biskupa Rzymskiego (por. kan. 33 (hist.)1 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 36 (hist.)9 KPK) oraz urząd proboszcza w konkretnej parafii. *(odpowiednik dawnego kan. 700 § 3 — norma odsyłająca do Księgi VIII; zgodnie z przepisami tego kanonu obowiązuje niniejsze brzmienie)*
 
 ## Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH
 
-**Kan. 526 § 1.** Dobra intelektualne Kościoła Domowego — obejmujące kanony, obrządki, formuły liturgiczne, katechezy, tradycje, metody formacyjne, symbole, herby i dokumentację — nie podlegają zasadzie wyłączności. Mogą i winny być rozmnażane przez przekazywanie, nauczanie i udostępnianie wszystkim członkom wspólnoty oraz nowo powstającym Kościołom Domowym.
+**Kan. 439 § 1.** Dobra intelektualne Kościoła Domowego — obejmujące kanony, obrządki, formuły liturgiczne, katechezy, tradycje, metody formacyjne, symbole, herby i dokumentację — nie podlegają zasadzie wyłączności. Mogą i winny być rozmnażane przez przekazywanie, nauczanie i udostępnianie wszystkim członkom wspólnoty oraz nowo powstającym Kościołom Domowym.
 
 **§ 2.** Rozmnażanie dóbr intelektualnych oznacza, że:
 
@@ -158,7 +158,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° kopiowanie dokumentów i formuł dla nowych wspólnot nie umniejsza oryginału.
 
-**Kan. 527 § 1.** Każdy członek Kościoła Domowego ma prawo do:
+**Kan. 440 § 1.** Każdy członek Kościoła Domowego ma prawo do:
 
 1° dostępu do ksiąg liturgicznych i obrzędowych;
 
@@ -186,11 +186,11 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 6° błogosławieństwo arcykapłana na nową drogę.
 
-**Kan. 528.** Dobra intelektualne przekazane nowemu Kościołowi Domowemu stają się jego własnością. Nie mogą być odebrane ani ograniczone przez Kościół macierzysty, chyba że nowy Kościół Domowy działa w sposób sprzeczny z Prawem Bożym, Naturalnym lub prawami człowieka.
+**Kan. 441.** Dobra intelektualne przekazane nowemu Kościołowi Domowemu stają się jego własnością. Nie mogą być odebrane ani ograniczone przez Kościół macierzysty, chyba że nowy Kościół Domowy działa w sposób sprzeczny z Prawem Bożym, Naturalnym lub prawami człowieka.
 
 ## Tytuł III: USTANAWIANIE NOWYCH KOŚCIOŁÓW DOMOWYCH PRZEZ CZŁONKÓW W ZWIĄZKACH
 
-**Kan. 529 § 1.** Każdy członek Kościoła Domowego, który wchodzi w związek małżeński (sakramentalny lub naturalny), ma prawo i powołanie do założenia własnego Kościoła Domowego jako nowej komórki Ludu Bożego.
+**Kan. 442 § 1.** Każdy członek Kościoła Domowego, który wchodzi w związek małżeński (sakramentalny lub naturalny), ma prawo i powołanie do założenia własnego Kościoła Domowego jako nowej komórki Ludu Bożego.
 
 **§ 2.** Założenie nowego Kościoła Domowego jest realizacją:
 
@@ -200,11 +200,11 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° Praw Człowieka — prawa do wolności sumienia, wyznania i zakładania wspólnot (art. 18, 20 Powszechnej Deklaracji Praw Człowieka);
 
-4° prawa kanonicznego — prawa wiernych do swobodnego zakładania stowarzyszeń (por. kan. 215 KPK) i prawa rodziców do wychowania dzieci (por. kan. 226 § 2, 1136 KPK).
+4° prawa kanonicznego — prawa wiernych do swobodnego zakładania stowarzyszeń (por. kan. 21 (hist.)5 KPK) i prawa rodziców do wychowania dzieci (por. kan. 139 § 2, 1136 KPK).
 
 **§ 3.** Założenie nowego Kościoła Domowego nie wymaga zezwolenia arcykapłana Kościoła macierzystego, lecz winno być dokonane z jego błogosławieństwem. W przypadku odmowy błogosławieństwa bez słusznej przyczyny członek może założyć Kościół Domowy bez niego, informując o tym biskupa tytularnego subdiecezjalnego.
 
-**Kan. 530 § 1.** Nowy Kościół Domowy zostaje ustanowiony przez:
+**Kan. 443 § 1.** Nowy Kościół Domowy zostaje ustanowiony przez:
 
 1° zawarcie związku małżeńskiego (sakramentalnego lub naturalnego);
 
@@ -234,7 +234,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 7° osobowość prawną na mocy prawa naturalnego.
 
-**Kan. 531 § 1.** Nowo ustanowiony Kościół Domowy otrzymuje z Kościoła macierzystego:
+**Kan. 444 § 1.** Nowo ustanowiony Kościół Domowy otrzymuje z Kościoła macierzystego:
 
 1° błogosławieństwo założycielskie;
 
@@ -250,7 +250,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Kościół macierzysty ma obowiązek uzupełnić braki w wyposażeniu nowego Kościoła Domowego ze swojego majątku, jeśli nowy Kościół nie jest w stanie samodzielnie pozyskać niezbędnych elementów.
 
-**Kan. 532.** Nowy Kościół Domowy zachowuje łączność z Kościołem macierzystym przez:
+**Kan. 445.** Nowy Kościół Domowy zachowuje łączność z Kościołem macierzystym przez:
 
 1° modlitwę wzajemną;
 
@@ -266,11 +266,11 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł IV: TYTUŁ BISKUPA NIEUŚWIĘCONEGO I USTANAWIANIE SUBDIECEZJI
 
-**Kan. 533 § 1.** Członek Kościoła Domowego, który założył własny Kościół Domowy i sprawuje w nim funkcję arcykapłana, może przybrać tytuł **biskupa nieuświęconego** (*episcopus non consecratus*) jako wyraz swojej posługi pasterskiej wobec własnej wspólnoty domowej.
+**Kan. 446 § 1.** Członek Kościoła Domowego, który założył własny Kościół Domowy i sprawuje w nim funkcję arcykapłana, może przybrać tytuł **biskupa nieuświęconego** (*episcopus non consecratus*) jako wyraz swojej posługi pasterskiej wobec własnej wspólnoty domowej.
 
 **§ 2.** Tytuł biskupa nieuświęconego:
 
-1° nie jest tożsamy ze święceniami biskupimi w rozumieniu kan. 1008, 1012–1014 KPK;
+1° nie jest tożsamy ze święceniami biskupimi w rozumieniu kan. 100 (hist.)8, 1012–1014 KPK;
 
 2° nie daje władzy święceń biskupich (udzielania sakry, bierzmowania jako szafarz zwyczajny, konsekrowania kościołów);
 
@@ -278,7 +278,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° wynika z prawa naturalnego rodziny i powszechnego kapłaństwa wiernych;
 
-5° jest analogiczny do funkcji biskupa domowego opisanej w Księdze VI (kan. 406–407).
+5° jest analogiczny do funkcji biskupa domowego opisanej w Księdze VI (kan. 319–320).
 
 **§ 3.** Biskup nieuświęcony sprawuje w swoim Kościele Domowym:
 
@@ -288,7 +288,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° władzę kierowania (*munus regendi*) — zarządzanie wspólnotą, podejmowanie decyzji, reprezentację.
 
-**Kan. 534 § 1.** Biskup nieuświęcony, który założył Kościół Domowy, może ustanowić wokół niego **subdiecezję domową** jako wspólnotę kilku Kościołów Domowych połączonych więzią duchową, terytorialną lub rodową.
+**Kan. 447 § 1.** Biskup nieuświęcony, który założył Kościół Domowy, może ustanowić wokół niego **subdiecezję domową** jako wspólnotę kilku Kościołów Domowych połączonych więzią duchową, terytorialną lub rodową.
 
 **§ 2.** Subdiecezja domowa może być ustanowiona, gdy:
 
@@ -312,7 +312,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° powiadomienia biskupa diecezjalnego, na którego terytorium znajduje się subdiecezja.
 
-**Kan. 535 § 1.** Biskup nieuświęcony, który zostaje ustanowiony biskupem tytularnym subdiecezjalnym, zachowuje swój tytuł biskupa nieuświęconego w zakresie własnego Kościoła Domowego oraz uzyskuje tytuł biskupa tytularnego subdiecezjalnego w zakresie subdiecezji.
+**Kan. 448 § 1.** Biskup nieuświęcony, który zostaje ustanowiony biskupem tytularnym subdiecezjalnym, zachowuje swój tytuł biskupa nieuświęconego w zakresie własnego Kościoła Domowego oraz uzyskuje tytuł biskupa tytularnego subdiecezjalnego w zakresie subdiecezji.
 
 **§ 2.** Biskup tytularny subdiecezjalny ustanowiony przez biskupów nieuświęconych:
 
@@ -330,11 +330,11 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Biskup tytularny subdiecezjalny ustanowiony w ten sposób nie posiada święceń biskupich. Jego władza jest władzą jurysdykcyjną wynikającą z prawa naturalnego, zgody wspólnoty i niniejszego Kanonu, nie zaś z sakramentu święceń.
 
-**Kan. 536.** Tytuł biskupa nieuświęconego jest rozmnażalny. Każdy członek Kościoła Domowego, który założy własny Kościół Domowy, może go przybrać. Nie jest on ograniczony do jednej osoby w Rodzie ani w subdiecezji.
+**Kan. 449.** Tytuł biskupa nieuświęconego jest rozmnażalny. Każdy członek Kościoła Domowego, który założy własny Kościół Domowy, może go przybrać. Nie jest on ograniczony do jednej osoby w Rodzie ani w subdiecezji.
 
 ## Tytuł V: DĄŻENIE DO PRZYJĘCIA PRZEZ BISKUPA RZYMU I USTANOWIENIE DIECEZJI
 
-**Kan. 537 § 1.** Biskup nieuświęcony lub biskup tytularny subdiecezjalny Kościoła Domowego ma prawo dążyć do:
+**Kan. 450 § 1.** Biskup nieuświęcony lub biskup tytularny subdiecezjalny Kościoła Domowego ma prawo dążyć do:
 
 1° przyjęcia do pełnej wspólnoty hierarchicznej Kościoła Katolickiego przez Biskupa Rzymskiego;
 
@@ -354,15 +354,15 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° złożenie wyznania wiary i przysięgi wierności;
 
-5° poddanie się ocenie zdatności zgodnie z kan. 378 KPK.
+5° poddanie się ocenie zdatności zgodnie z kan. 37 (hist.)8 KPK.
 
-**Kan. 538 § 1.** W przypadku przyjęcia przez Biskupa Rzymskiego i udzielenia święceń biskupich:
+**Kan. 451 § 1.** W przypadku przyjęcia przez Biskupa Rzymskiego i udzielenia święceń biskupich:
 
 1° biskup nieuświęcony staje się biskupem konsekrowanym w sukcesji apostolskiej;
 
 2° jego Kościół Domowy może zostać uznany jako parafia personalna, prałatura personalna lub inna forma wspólnoty kościelnej;
 
-3° subdiecezja domowa może zostać uznana jako diecezja, wikariat apostolski, prefektura apostolska lub administratura apostolska (por. kan. 368–371 KPK);
+3° subdiecezja domowa może zostać uznana jako diecezja, wikariat apostolski, prefektura apostolska lub administratura apostolska (por. kan. 281–37 (hist.)1 KPK);
 
 4° trzy obrządki domowe mogą zostać uznane jako własna tradycja liturgiczna wspólnoty;
 
@@ -370,7 +370,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Ustanowienie diecezji z subdiecezji domowej wymaga:
 
-1° mandatu Biskupa Rzymskiego (por. kan. 373 KPK);
+1° mandatu Biskupa Rzymskiego (por. kan. 37 (hist.)3 KPK);
 
 2° wystarczającej liczby wiernych;
 
@@ -380,11 +380,11 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° zgody lub przynajmniej wysłuchania biskupa diecezjalnego, na którego terytorium znajduje się nowa diecezja.
 
-**Kan. 539 § 1.** W okresie oczekiwania na przyjęcie przez Biskupa Rzymskiego biskup nieuświęcony i jego wspólnota:
+**Kan. 452 § 1.** W okresie oczekiwania na przyjęcie przez Biskupa Rzymskiego biskup nieuświęcony i jego wspólnota:
 
 1° zachowują pełną autonomię w zakresie prawa naturalnego i niniejszego Kanonu;
 
-2° nie przypisują sobie tytułu „katolicki” bez zgody kompetentnej władzy (por. kan. 300 KPK);
+2° nie przypisują sobie tytułu „katolicki” bez zgody kompetentnej władzy (por. kan. 30 (hist.)0 KPK);
 
 3° nie sprawują sakramentów zastrzeżonych kapłanom wyświęconym;
 
@@ -396,7 +396,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł VI: ROZMNAŻANIE I PODZIAŁ DÓBR MATERIALNYCH
 
-**Kan. 540 § 1.** Dobra materialne Kościoła Domowego podlegają zasadzie rozmnażania. Jeśli dobro materialne można rozmnożyć (podzielić, skopiować, uzupełnić), należy to uczynić, tak aby każdy członek wspólnoty i każdy nowy Kościół Domowy posiadał to, co niezbędne do sprawowania kultu i życia wspólnotowego.
+**Kan. 453 § 1.** Dobra materialne Kościoła Domowego podlegają zasadzie rozmnażania. Jeśli dobro materialne można rozmnożyć (podzielić, skopiować, uzupełnić), należy to uczynić, tak aby każdy członek wspólnoty i każdy nowy Kościół Domowy posiadał to, co niezbędne do sprawowania kultu i życia wspólnotowego.
 
 **§ 2.** Rozmnażanie dóbr materialnych oznacza:
 
@@ -410,7 +410,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° tworzenie nowych przedmiotów kultu na wzór istniejących.
 
-**Kan. 541 § 1.** Przy podziale dóbr materialnych po śmierci rodziców lub przy ustanawianiu nowego Kościoła Domowego stosuje się następujące zasady:
+**Kan. 454 § 1.** Przy podziale dóbr materialnych po śmierci rodziców lub przy ustanawianiu nowego Kościoła Domowego stosuje się następujące zasady:
 
 1° dobra, które można podzielić bez utraty wartości (pieniądze, zapasy, materiały), dzieli się na części równe między uprawnionych;
 
@@ -434,7 +434,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° dokumentacji formacyjnej.
 
-**Kan. 542 § 1.** Majątek Kościoła Domowego jako kościelnej osoby prawnej nie podlega podziałowi spadkowemu w sensie ścisłym. Jednakże jego owoce, dochody i dobra ruchome mogą być rozdzielane między członków wspólnoty i nowe Kościoły Domowe zgodnie z zasadą rozmnażania.
+**Kan. 455 § 1.** Majątek Kościoła Domowego jako kościelnej osoby prawnej nie podlega podziałowi spadkowemu w sensie ścisłym. Jednakże jego owoce, dochody i dobra ruchome mogą być rozdzielane między członków wspólnoty i nowe Kościoły Domowe zgodnie z zasadą rozmnażania.
 
 **§ 2.** Przy rozmnażaniu majątku Kościoła Domowego należy zachować:
 
@@ -460,7 +460,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° tworzyć rezerwę na wypadek konieczności.
 
-**Kan. 543 § 1.** Dobra materialne, które można rozmnożyć przez pracę (np. uprawa ziemi, hodowla, rzemiosło, twórczość), winny być rozmnażane. Zasada ta wynika z Prawa Bożego: „Bądźcie płodni i rozmnażajcie się, i czyńcie sobie ziemię poddaną” (Rdz 1,28).
+**Kan. 456 § 1.** Dobra materialne, które można rozmnożyć przez pracę (np. uprawa ziemi, hodowla, rzemiosło, twórczość), winny być rozmnażane. Zasada ta wynika z Prawa Bożego: „Bądźcie płodni i rozmnażajcie się, i czyńcie sobie ziemię poddaną” (Rdz 1,28).
 
 **§ 2.** Rozmnażanie dóbr materialnych przez pracę obejmuje:
 
@@ -486,7 +486,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł VII: SUKCESJA PO ŚMIERCI RODZICÓW
 
-**Kan. 544 § 1.** Po śmierci Ojca — arcykapłana i biskupa domowego — jego tytuły i funkcje nie wygasają, lecz przechodzą na wspólnotę i mogą być rozmnażane:
+**Kan. 457 § 1.** Po śmierci Ojca — arcykapłana i biskupa domowego — jego tytuły i funkcje nie wygasają, lecz przechodzą na wspólnotę i mogą być rozmnażane:
 
 1° tytuł arcykapłana przechodzi na Małżonkę jako współszafarkę lub najstarszego pełnoletniego Potomka;
 
@@ -506,7 +506,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° jej tytuły, jeśli były rozmnożone na inne osoby, pozostają przy nich.
 
-**Kan. 545 § 1.** Po śmierci obojga rodziców:
+**Kan. 458 § 1.** Po śmierci obojga rodziców:
 
 1° najstarszy pełnoletni Potomek przejmuje funkcję arcykapłana Kościoła Domowego;
 
@@ -516,7 +516,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° dobra duchowe i intelektualne rodziców są rozmnażane między wszystkich Potomków;
 
-5° dobra materialne są dzielone zgodnie z kan. 540–543, a nieruchomości — zgodnie z Księgą X (kan. 550–578).
+5° dobra materialne są dzielone zgodnie z kan. 453–456, a nieruchomości — zgodnie z Księgą X (kan. 463–491).
 
 **§ 2.** Jeśli Potomkowie są małoletni:
 
@@ -528,7 +528,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° po osiągnięciu pełnoletności Potomkowie przejmują zarządzanie Kościołem Domowym.
 
-**Kan. 546.** Po śmierci rodziców każdy Potomek ma prawo:
+**Kan. 459.** Po śmierci rodziców każdy Potomek ma prawo:
 
 1° założyć własny Kościół Domowy po wejściu w związek;
 
@@ -546,11 +546,11 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł VIII: PRZEPISY KOŃCOWE
 
-**Kan. 547 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego subdiecezjalnego, patriarcę Subdiecezji Domowych, po konsultacji z Triarchią Domową.
+**Kan. 460 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego subdiecezjalnego, patriarcę Subdiecezji Domowych, po konsultacji z Triarchią Domową.
 
-**§ 2.** Wszelkie wcześniejsze przepisy dotyczące sukcesji, które są sprzeczne z niniejszą Księgą, tracą moc w zakresie sprzeczności. Przepisy o przekazaniu patriarchatu w wąskim rozumieniu (urząd, dobór, wybór) pozostają w wyłącznej kompetencji Księgi VIII (kan. 467–520); niniejsza Księga reguluje jedynie rozmnażanie i przekazywanie dóbr oraz ustanawianie nowych struktur domowych.
+**§ 2.** Wszelkie wcześniejsze przepisy dotyczące sukcesji, które są sprzeczne z niniejszą Księgą, tracą moc w zakresie sprzeczności. Przepisy o przekazaniu patriarchatu w wąskim rozumieniu (urząd, dobór, wybór) pozostają w wyłącznej kompetencji Księgi VIII (kan. 380–433); niniejsza Księga reguluje jedynie rozmnażanie i przekazywanie dóbr oraz ustanawianie nowych struktur domowych.
 
-**Kan. 548.** Najwyższą zasadą interpretacji niniejszej Księgi jest:
+**Kan. 461.** Najwyższą zasadą interpretacji niniejszej Księgi jest:
 
 1° *bonum est diffusivum sui* — dobro z natury jest rozlewne;
 
@@ -564,7 +564,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 6° zasada ochrony najsłabszych — podział dóbr winien przede wszystkim zabezpieczać potrzeby najsłabszych.
 
-**Kan. 549.** Żaden przepis niniejszej Księgi nie może być interpretowany w sposób:
+**Kan. 462.** Żaden przepis niniejszej Księgi nie może być interpretowany w sposób:
 
 1° sprzeczny z Prawem Bożym;
 
@@ -601,10 +601,10 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 | Charyzmaty | Tak | Modlitwa i nałożenie rąk | Dar Ducha Świętego |
 | Dary Ducha Świętego | Tak | Modlitwa i *invocatio* | Siedem Darów |
 | Dobra materialne | Tak, jeśli możliwe | Podział, uzupełnienie, pozyskanie nowych | Zasada rozmnażania |
-| Dom rodzinny | Nie (fizycznie) | Udostępnienie lub spłata | Pozostaje jako miejsce kultu (kan. 550–557) |
+| Dom rodzinny | Nie (fizycznie) | Udostępnienie lub spłata | Pozostaje jako miejsce kultu (kan. 463–470) |
 | Kaplica domowa | Nie (fizycznie) | Udostępnienie | Centrum życia liturgicznego |
 | Archiwum | Tak | Kopiowanie dokumentów | Oryginał pozostaje w Kościele macierzystym |
-| **Patriarchat subdiecezji domowych** | **Nie** | **Wyłącznie wybór na synodzie i potwierdzenie Biskupa Rzymskiego** | kan. 470–472 (Księga VIII) |
+| **Patriarchat subdiecezji domowych** | **Nie** | **Wyłącznie wybór na synodzie i potwierdzenie Biskupa Rzymskiego** | kan. 383–385 (Księga VIII) |
 | Urząd Biskupa Rzymskiego | Nie | — | Jeden w jednym czasie |
 | Urząd biskupa diecezjalnego | Nie | — | Jeden na jedną diecezję |
 
@@ -616,22 +616,22 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 | Dawny przepis | Przedmiot | Nowy kanon |
 |---|---|---|
-| kan. 700 § 1; kan. 900 § 1 | Zasada rozmnażania dóbr duchowych | kan. 521 |
-| kan. 700 § 2; kan. 901–904 | Tytuły rozmnażalne: duchownego, kapłana domowego, szafarza świętego, arcykapłana | kan. 522–525 |
-| kan. 700 § 3 | Wyłączenie urzędów niepodzielnych (patriarchat) | kan. 525 § 4 (odesłanie do kan. 470–472) |
-| kan. 905–908 | Rozmnażanie dóbr intelektualnych; prawo dostępu do ksiąg i kopii | kan. 526–528 |
-| kan. 909–912 | Ustanawianie nowych Kościołów Domowych przez członków w związkach | kan. 529–532 |
-| kan. 913–916 | Tytuł biskupa nieuświęconego; ustanawianie subdiecezji | kan. 533–536 |
-| kan. 917–918 | Dążenie do przyjęcia przez Biskupa Rzymskiego; ustanowienie diecezji | kan. 537–539 |
-| kan. 919–922 | Rozmnażanie i podział dóbr materialnych | kan. 540–543 |
-| kan. 923–926 | Sukcesja po śmierci rodziców (tytuły i funkcje) | kan. 544–546 |
-| kan. 927–928 | Przepisy końcowe i interpretacyjne Księgi IX | kan. 547–549 |
+| kan. 700 § 1; kan. 900 § 1 | Zasada rozmnażania dóbr duchowych | kan. 434 |
+| kan. 700 § 2; kan. 901–904 | Tytuły rozmnażalne: duchownego, kapłana domowego, szafarza świętego, arcykapłana | kan. 435–438 |
+| kan. 700 § 3 | Wyłączenie urzędów niepodzielnych (patriarchat) | kan. 438 § 4 (odesłanie do kan. 383–385) |
+| kan. 905–908 | Rozmnażanie dóbr intelektualnych; prawo dostępu do ksiąg i kopii | kan. 439–441 |
+| kan. 909–912 | Ustanawianie nowych Kościołów Domowych przez członków w związkach | kan. 442–445 |
+| kan. 913–916 | Tytuł biskupa nieuświęconego; ustanawianie subdiecezji | kan. 446–449 |
+| kan. 917–918 | Dążenie do przyjęcia przez Biskupa Rzymskiego; ustanowienie diecezji | kan. 450–452 |
+| kan. 919–922 | Rozmnażanie i podział dóbr materialnych | kan. 453–456 |
+| kan. 923–926 | Sukcesja po śmierci rodziców (tytuły i funkcje) | kan. 457–459 |
+| kan. 927–928 | Przepisy końcowe i interpretacyjne Księgi IX | kan. 460–462 |
 
 ## UWAGI REDAKCYJNE
 
-1. **Numeracja.** Dawna „Księga XVII — Poprawiona” (kan. 900–928) otrzymała numerację ciągłą **kan. 521–549**, bezpośrednio po Księdze VIII (kan. 467–520), zgodnie ze spisem treści (`09_spis_tresci.md`).
-2. **Usunięte powtórzenia.** Dawny kan. 700 (zasada mnożenia bez dzielenia) był niemal dosłowną powtórką dawnego kan. 900; zachowano jedno brzmienie normy (kan. 521). Dawne kan. 701–703 powtarzały kan. 470–472 Księgi VIII — pozostawiono jedynie odesłanie (kan. 525 § 4). Dawne kan. 919–922 i 924 § 1 5° pokrywały się z dawnymi kan. 930–958 w zakresie dóbr materialnych i nieruchomości; granicę przedmiotową między Księgą IX a X wyznacza kan. 547 § 2 oraz kan. 577 § 3.
-3. **Odesłania wewnętrzne.** Dawnego wskazania „Księga XV” nie ma w zbiorze — zastąpiono je prawidłowym odwołaniem do Księgi VII (kan. 432–466: skutki oddalenia i zachowanie władania dobrami); „Księga XVI” → niniejszy ciąg Księgi VIII (kan. 467–520); dawne numery 900–958 → kan. 521–578.
+1. **Numeracja.** Dawna „Księga XVII — Poprawiona” (kan. 900–928) otrzymała numerację ciągłą **kan. 434–462**, bezpośrednio po Księdze VIII (kan. 380–433), zgodnie ze spisem treści (`09_spis_tresci.md`).
+2. **Usunięte powtórzenia.** Dawny kan. 700 (zasada mnożenia bez dzielenia) był niemal dosłowną powtórką dawnego kan. 900; zachowano jedno brzmienie normy (kan. 434). Dawne kan. 701–703 powtarzały kan. 383–385 Księgi VIII — pozostawiono jedynie odesłanie (kan. 438 § 4). Dawne kan. 919–922 i 924 § 1 5° pokrywały się z dawnymi kan. 930–958 w zakresie dóbr materialnych i nieruchomości; granicę przedmiotową między Księgą IX a X wyznacza kan. 460 § 2 oraz kan. 490 § 3.
+3. **Odesłania wewnętrzne.** Dawnego wskazania „Księga XV” nie ma w zbiorze — zastąpiono je prawidłowym odwołaniem do Księgi VII (kan. 345–379: skutki oddalenia i zachowanie władania dobrami); „Księga XVI” → niniejszy ciąg Księgi VIII (kan. 380–433); dawne numery 900–958 → kan. 434–491.
 4. **Poprawki błędów oczywistych.** „software” → „oprogramowanie”; „sprzeczny z sprawiedliwością” → „sprzeczny ze sprawiedliwością”; „przeniesić” → „przenieść”; ujednolicono pisownię terminów własnych wspólnoty (Głowa Rodu, Małżonka, Potomek, Triarchia Domowa, Kościół Domowy, Ród) oraz formę wyliczeń wewnętrznych „1°, 2°, …”.
-5. **Do decyzji autora.** Tytuł „biskup nieuświęcony” w znaczeniu jurysdykcji deklarowanej (kan. 533–536) może pozostawać w napięciu z Księgą VI (kan. 406–407) i Księgą VII, gdzie władza biskupia wiąże się z przyjęciem sakry lub z urzędem tytularnym subdiecezjalnym; kan. 538 § 1 2° mówi o uznaniu Kościoła Domowego jako parafii personalnej lub prałatury — instytucji prawa powszechnego, których status wobec subdiecezji domowej wymaga odrębnego rozstrzygnięcia.
+5. **Do decyzji autora.** Tytuł „biskup nieuświęcony” w znaczeniu jurysdykcji deklarowanej (kan. 446–449) może pozostawać w napięciu z Księgą VI (kan. 319–320) i Księgą VII, gdzie władza biskupia wiąże się z przyjęciem sakry lub z urzędem tytularnym subdiecezjalnym; kan. 451 § 1 2° mówi o uznaniu Kościoła Domowego jako parafii personalnej lub prałatury — instytucji prawa powszechnego, których status wobec subdiecezji domowej wymaga odrębnego rozstrzygnięcia.
 
