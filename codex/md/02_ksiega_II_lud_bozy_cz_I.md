@@ -338,6 +338,8 @@
 
 ---
 
+
+
 ---
 
 *Uwaga redakcyjna: kanony niniejszej części Księgi II scalono z dawnego Kanonu: ksiegi01.txt (kan. 12–22), ksiegi04.txt (poprawiony Kan. 104 → kan. 54 § 3 i 61; kan. 420–434 → kan. 56–65, 61–64; kan. 425–429 → kan. 66–70; kan. 444–446 → kan. 54–55; kan. 449–451 → kan. 45–47), z poprawką literówek („Głowa Rodu” → „Głowa Rodu”) i przeniesieniem materii małżeńskiej, wychowawczej i ochronnej z ksiąg poprawek do właściwej Księgi o Ludzie Bożym.*
