@@ -3,9 +3,9 @@
 
 ### PREAMBUŁA
 
-Niniejszy Kanon Prawa Kanonicznego Kościoła Domowego, sporządzony na podstawie Prawa Bożego objawionego w Piśmie Świętym i Tradycji, Prawa Naturalnego wpisanego w serce każdego człowieka (por. Rz 2,14-15), Powszechnej Deklaracji Praw Człowieka (art. 18, 26), Konstytucji Rzeczypospolitej Polskiej (art. 30, 48, 53), Kodeksu Prawa Kanonicznego z 1983 roku (w szczególności kan. 204-231, 226, 835, 840-848), nauki Soboru Watykańskiego II (*Lumen Gentium* 11, *Apostolicam Actuositatem* 11), adhortacji *Familiaris Consortio* św. Jana Pawła II, oraz objawionej hierarchii poziomów i oświadczenia woli Głowy Rodu — stanowi prawo partykularne Kościoła Domowego jako diecezji szczególnej, w której Głowa Rodu sprawuje posługę szafarza świętego, arcykapłana i biskupa.
+Niniejszy Kanon Prawa Kanonicznego Kościoła Domowego, sporządzony na podstawie Prawa Bożego objawionego w Piśmie Świętym i Tradycji, Prawa Naturalnego wpisanego w serce każdego człowieka (por. Rz 2,14-15), Powszechnej Deklaracji Praw Człowieka (art. 18, 26), Konstytucji Rzeczypospolitej Polskiej (art. 30, 48, 53), Kodeksu Prawa Kanonicznego z 1983 roku (w szczególności kan. 204-231, 226, 835, 840-848), nauki Soboru Watykańskiego II (*Lumen Gentium* 11, *Apostolicam Actuositatem* 11), adhortacji *Familiaris Consortio* św. Jana Pawła II, oraz objawionej hierarchii poziomów i oświadczenia woli Głowy Rodu — stanowi prawo partykularne Kościoła Domowego jako diecezji szczególnej (subdiecezji), w której Głowa Rodu sprawuje posługę szafarza świętego, arcykapłana i biskupa.
 
-Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowieka. Żaden przepis niniejszego Kanonu nie może być interpretowany w sposób naruszający przyrodzoną godność osoby ludzkiej, wolność sumienia i wyznania, ani prawo rodziców do wychowania dzieci zgodnie z własnymi przekonaniami.
+Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowieka oraz tradycjami ludzkimi w tym słowiańskimi obecnymi od niepamiętnych czasów i tradycjami rodzinnymi obecnymi od ponad 30 laty. Żaden przepis niniejszego Kanonu nie może być interpretowany w sposób naruszający przyrodzoną godność osoby ludzkiej, wolność sumienia i wyznania, ani prawo rodziców do wychowania dzieci zgodnie z własnymi przekonaniami.
 
 ---
 
@@ -15,19 +15,19 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **Kan. 1 § 1.** Kanony niniejszego Kodeksu dotyczą Kościoła Domowego jako partykularnej wspólnoty wiernych, erygowanej na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu, i regulują jego ustrój, liturgię, posługi, zadania oraz porządek prawny.
 
-**§ 2.** Kościół Domowy, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą wg tradycji ludzkiej powstałej od niepamiętnych czasów i tradycji rodzinnej powstałej przed trzydziestoma laty na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
+**§ 2.** Kościół Domowy, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą wg tradycji ludzkiej i tradycji słowiańskiej powstałej od niepamiętnych czasów oraz tradycji rodzinnej powstałej przed trzydziestoma laty na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
 
 **§ 3.** Niniejszy Kanon nie uchyla ani nie zmienia przepisów Kodeksu Prawa Kanonicznego z 1983 roku w zakresie, w jakim dotyczą one Kościoła Powszechnego, lecz stanowi prawo partykularne wspólnoty domowej, działającej w ramach powszechnego kapłaństwa wiernych (kan. 204 KPK) oraz teologii Kościoła Domowego (*Ecclesia Domestica*).
 
 **Kan. 2 § 1.** Kościół Domowy jest partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 368-369 KPK, zastosowaną do wspólnoty rodzinnej.
 
-**§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium diecezjalne Kościoła Domowego. Granice tej diecezji obejmują:
+**§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium diecezjalne/subdiecezjalne Kościoła Domowego. Granice tej diecezji/subdiecezji obejmują:
 1° dom mieszkalny i jego bezpośrednie otoczenie;
 2° ziemię, ogród i zabudowania należące do Rodu;
 3° miejsca czasowego pobytu rodziny podczas pielgrzymek, podróży i rekolekcji;
 4° przestrzeń wirtualną, w której wspólnota sprawuje łączność modlitewną i formacyjną.
 
-**§ 3.** Kościół Domowy posiada osobowość prawną na mocy samego prawa naturalnego i Bożego. W porządku cywilnym może działać jako świecka organizacja religijna (art. 2 ust. 11 ustawy o gwarancjach wolności sumienia i wyznania), stowarzyszenie, lub inna forma organizacyjna przewidziana prawem.
+**§ 3.** Kościół Domowy posiada osobowość prawną na mocy samego prawa naturalnego i Bożego. W porządku cywilnym może działać jako świecka organizacja religijna (art. 2 ust. 11 ustawy o gwarancjach wolności sumienia i wyznania), stowarzyszenie, lub Kościół niewpisany do rejestru Kościołów lub Kościół wpisany do rejestru Kościołów lub inna forma organizacyjna przewidziana prawem. Przepis prawa niniejszego kanonu stanowi, iż osobowość prawna Kościoła Domowego nie musi być wpisywana do żadnego rejestru jeżeli władze Kościoła Domowego sobie tego wyraźnie nie życzą.
 
 **Kan. 3.** Niniejszy Kanon obowiązuje wszystkich członków Kościoła Domowego: Głowę Rodu, Małżonkę, Potomstwo oraz osoby przyjęte do wspólnoty na zasadach określonych w Kan. 15-20.
 
@@ -64,15 +64,15 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **Kan. 11.** W niniejszym Kanonie:
 1° **Kościół Domowy** (*Ecclesia Domestica*) — partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi;
-2° **Diecezja Domowa** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową;
+2° **Diecezja Domowa/ Subdiecezja** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową;
 3° **Głowa Rodu** (*Paterfamilias*, *Caput Familiae*) — mąż, ojciec, głowa szlachetnego Rodu, sprawujący posługę szafarza świętego, arcykapłana i biskupa domowego;
 4° **Małżonka** — żona, matka, pełniąca funkcję nadzorczą, dusza wspólnoty i współszafarka łaski;
 5° **Potomek** — dziecko, syn lub córka, sekretarz woli Rodu i dziedzic tradycji;
 6° **Triarchia Domowa** — trójwładza Ojca, Matki i Potomka, stanowiąca radę decyzyjną Kościoła Domowego;
 7° **Obrządek Domowy** — ustalony porządek liturgiczny i duchowy sprawowany w domu;
-8° **Kościół Rodzinny Marii Magdaleny** — wymiar kontemplacyjny i miłosierny wspólnoty;
-9° **Kościół Ducha Świętego Pawłowy** — wymiar misyjny i charyzmatyczny wspólnoty;
-10° **Kościół Osobowy Tomaszowy** — wymiar intelektualny i prawdomówny wspólnoty;
+8° **Obrządek Rodzinny Marii Magdaleny** — wymiar kontemplacyjny i miłosierny wspólnoty;
+9° **Obrządek Ducha Świętego Pawłowy** — wymiar misyjny i charyzmatyczny wspólnoty;
+10° **Obrządek Osobowy Tomaszowy** — wymiar intelektualny i prawdomówny wspólnoty;
 11° **Sakramentalia domowe** — błogosławieństwa i poświęcenia sprawowane przez Głowę Rodu w domu;
 12° **Liturgia Życia** — codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu.
 
@@ -162,7 +162,13 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 2.** Zwyczaje domowe, które nie są przeciwne prawu kanonicznemu, zachowują swoją moc i są pielęgnowane jako wyraz tradycji i tożsamości Rodu (por. kan. 5 § 2 KPK).
 
-**Kan. 29.** Kościół Domowy uznaje, że tylko ten zwyczaj wprowadzony przez wspólnotę wiernych posiada moc prawną, który spełnia następujące warunki: 1° jest zgodny z Prawem Bożym i Naturalnym; 2° nie jest sprzeczny z prawem kanonicznym powszechnym; 3° został wprowadzony za milczącą lub wyraźną zgodą kompetentnego prawodawcy kościelnego; 4° istnieje przez okres co najmniej trzydziestu lat; 5° nie narusza godności osoby ludzkiej ani praw dziecka; 6° służy dobru duchowemu wspólnoty domowej (por. kan. 23-26 KPK).
+**Kan. 29.** Kościół Domowy uznaje, że tylko ten zwyczaj wprowadzony przez wspólnotę wiernych posiada moc prawną, który spełnia następujące warunki: 
+1° jest zgodny z Prawem Bożym i Naturalnym; 
+2° nie jest sprzeczny z prawem kanonicznym powszechnym; 
+3° został wprowadzony za milczącą lub wyraźną zgodą kompetentnego prawodawcy kościelnego; 
+4° istnieje przez okres co najmniej trzydziestu lat; 
+5° nie narusza godności osoby ludzkiej ani praw dziecka; 6
+° służy dobru duchowemu wspólnoty domowej (por. kan. 23-26 KPK).
 
 **Kan. 30.** Zwyczaj jest najlepszą interpretacją ustaw Kościoła Domowego (por. kan. 27 KPK). Głowa Rodu jako biskup domowy ma obowiązek czuwać, by zwyczaje domowe były zgodne z duchem liturgii, prawem Bożym i tradycją Kościoła.
 
