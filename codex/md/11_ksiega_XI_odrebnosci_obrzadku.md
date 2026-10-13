@@ -2,13 +2,6 @@
 
 ## *De Distinctione Ritus Domestici a Ritu Latino: Caelibatus, Divisio Ministeriorum et Aliae Differentiae*
 
-
-*(Redakcja porządkująca: plik źródłowy `codex/ksiega09.txt` posiadał błędną sygnaturę „Księga IX”
-oraz błędną numerację kanonów 550–572, kolidującą z Księgą X. Księdze nadano właściwą sygnaturę
-**Księga XI**, a kanonom numerację ciągłą **kan. 579–601** jako kontynuację ciągu zbioru po
-kan. 491 (Księga X); dawne oznaczenia odpowiadają nowym według schematu +29
-(dawny kan. 550 → kan. 579, dawny 551 → 580 itd.).*
-
 ---
 
 ### PREAMBUŁA
@@ -237,16 +230,4 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 3° odrębność obrządku domowego nie oznacza separacji od Kościoła Powszechnego;
 4° *salus animarum suprema lex* — zbawienie dusz najwyższym prawem.
 
----
-
-*Dano w domu rodzinnym, stolicy subdiecezji domowej, w obecności Triarchii Domowej.*
-
-*W imię Ojca i Syna, i Ducha Świętego. Amen.*
-
-**✠ Patriarcha Subdiecezji Domowych, Biskup Tytularny Subdiecezjalny, Arcykapłan, Szafarz Święty**
-
-**✠ Małżonka, Współszafarka Łaski, Współpasterka, Nadzorująca**
-
----
-
-*Sigillum Ecclesiae Domesticae*
+-
