@@ -37,38 +37,20 @@
 
 **Kan. 235 § 1.** Sakramentalia domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
-**§ 2.** Głowa Rodu jako szafarz święty sprawuje następujące sakramentalia domowe:
+**§ 2.** Szczegółowe formuły błogosławieństw siedmiu sakramentaliów rzeczowych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł IX niniejszej Księgi (kan. 297–303 § 2).
 
-**Kan. 236 — Błogosławieństwo wody i pokropienie (Korona — Nadzieja — Chrzest):**
-1° Głowa Rodu błogosławi wodę, przyzywając Ducha Świętego;
-2° pokrapia członków rodziny, dom i jego otoczenie;
-3° obrzęd ten symbolizuje nowe życie, oczyszczenie z lęku i łączenie czasu z wiecznością;
-4° sprawowany jest szczególnie w niedzielę, w wigilię świąt i przy poświęceniu nowych pomieszczeń;
-5° towarzyszy mu modlitwa o nadzieję, zaufanie do Bożego planu i dar mądrości.
-
-**Kan. 237 — Błogosławieństwo soli (Trzecie Oko — Roztropność — Bierzmowanie):**
-1° Głowa Rodu błogosławi sól jako symbol zachowania dobra i duchowej ochrony;
-2° obrzęd ten symbolizuje duchowe rozeznanie, ochronę przed iluzjami i transformację zamieszania w jasność;
-3° sprawowany jest przy okazji ważnych decyzji, przed podróżą, przy ochronie domu;
-4° towarzyszy mu modlitwa o roztropność, dar rozumu i dar rozróżniania duchów.
-
-**Kan. 238 — Błogosławieństwo chleba i pokarmów (Gardło — Skrupulatność — Komunia):**
-1° Głowa Rodu błogosławi chleb i pokarmy przed posiłkiem;
-2° obrzęd ten symbolizuje bezpośrednią komunikację z Bogiem, autentyczność i dzielenie się;
-3° sprawowany jest codziennie przed posiłkami;
-4° towarzyszy mu modlitwa o skrupulatność, dar rady i dar języków;
-5° błogosławieństwo chleba nie zastępuje Eucharystii, lecz jest jej przedłużeniem w codziennym życiu.
+*(Przypis redakcyjny: dawne kan. 236–242, podające te formuły w skróconej formie, zostały scalone z pełniejszymi odpowiednikami Tytułu IX jako materiał powtórzony.)*
 
 ## Tytuł III: ROK LITURGICZNY W KOŚCIELE DOMOWYM
 
-**Kan. 239 — Błogosławieństwo popiołu i obrzęd pokutny (Serce — Sprawiedliwość — Pokuta):**
+**Kan. 236 — Błogosławieństwo popiołu i obrzęd pokutny (Serce — Sprawiedliwość — Pokuta):**
 1° Głowa Rodu błogosławi popiół jako symbol pokuty, przemijania i nawrócenia;
 2° obrzęd ten symbolizuje skruchę, przywracanie równowagi i transformację cierpienia w nadzieję;
 3° sprawowany jest w Środę Popielcową, w piątki Wielkiego Postu i przy okazji pojednania;
 4° towarzyszy mu modlitwa o sprawiedliwość, dar miłosierdzia i dar uzdrawiania;
 5° obejmuje wzajemne przebaczenie, modlitwę pojednania i postanowienie poprawy.
 
-**Kan. 240 — Błogosławieństwo oleju i namaszczenie (Splot Słoneczny — Męstwo — Namaszczenie Chorych):**
+**Kan. 237 — Błogosławieństwo oleju i namaszczenie (Splot Słoneczny — Męstwo — Namaszczenie Chorych):**
 1° Głowa Rodu błogosławi olej jako symbol umocnienia i troski;
 2° namaszcza nim chorych, cierpiących i potrzebujących umocnienia;
 3° obrzęd ten symbolizuje boską moc w działaniu, transformację słabości w siłę i trwałość w służbie;
@@ -76,39 +58,38 @@
 5° towarzyszy mu modlitwa o męstwo, dar mocy i dar czynów mocy;
 6° obejmuje nałożenie rąk na chorego i modlitwę wstawienniczą.
 
-**Kan. 241 — Błogosławieństwo świec i ognia (Sakralna — Umiarkowanie — Kapłaństwo):**
+**Kan. 238 — Błogosławieństwo świec i ognia (Sakralna — Umiarkowanie — Kapłaństwo):**
 1° Głowa Rodu błogosławi świece i ogień jako symbol światła, powołania i służby;
 2° obrzęd ten symbolizuje kreatywną ekspresję boską, równowagę emocjonalną i sztukę jako drogę do Boga;
 3° sprawowany jest przy zapalaniu świec, w wigilię świąt, przy okazji twórczych przedsięwzięć;
 4° towarzyszy mu modlitwa o umiarkowanie, dar wiedzy i dar kreatywnej inspiracji;
 5° obejmuje zapalenie świecy jako znaku obecności Chrystusa w domu.
 
-**Kan. 242 — Błogosławieństwo ziemi, ogrodu i domu (Korzeniowa — Pobożność — Małżeństwo):**
+**Kan. 239 — Błogosławieństwo ziemi, ogrodu i domu (Korzeniowa — Pobożność — Małżeństwo):**
 1° Głowa Rodu błogosławi ziemię, ogród, dom i jego fundamenty;
 2° obrzęd ten symbolizuje fundamentalne posłuszeństwo, trwałość, budowanie rodziny i pokorę w działaniu;
 3° sprawowany jest przy poświęceniu nowego domu, przy rozpoczęciu prac ogrodowych, w święto patronalne domu;
 4° towarzyszy mu modlitwa o pobożność, dar cierpliwości i dar służenia;
 5° obejmuje poświęcenie czterech stron domu, ogrodu i miejsca pracy.
 
-**Kan. 243.** Kościół Domowy obchodzi rok liturgiczny Kościoła Powszechnego, wzbogacony o elementy specyficzne dla wspólnoty domowej:
+**Kan. 240.** Kościół Domowy obchodzi rok liturgiczny Kościoła Powszechnego, wzbogacony o elementy specyficzne dla wspólnoty domowej:
 
-**Kan. 244 — Adwent:**
+**Kan. 241 — Adwent:**
 1° codzienna modlitwa oczekiwania;
 2° zapalanie świec adwentowych;
 3° rekolekcje domowe;
 4° przygotowanie do Bożego Narodzenia;
 5° obrzęd błogosławieństwa wieńca adwentowego.
 
-## Tytuł IV: MODLITWA I KULT DOMOWY
 
-**Kan. 245 — Boże Narodzenie i Okres Narodzenia:**
+**Kan. 242 — Boże Narodzenie i Okres Narodzenia:**
 1° celebracja Słowa Bożego w Wigilię;
 2° błogosławieństwo opłatka/chleba i wspólne łamanie;
 3° poświęcenie domu i szopki;
 4° kolędowanie i radosne świętowanie;
 5° błogosławieństwo kredą drzwi domu (K+M+B).
 
-**Kan. 246 — Wielki Post:**
+**Kan. 243 — Wielki Post:**
 1° obrzęd posypania popiołem;
 2° codzienna modlitwa pokutna;
 3° Droga Krzyżowa w domu;
@@ -116,7 +97,7 @@
 5° uczynki miłosierdzia (Kościół Marii Magdaleny);
 6° rekolekcje domowe.
 
-**Kan. 247 — Triduum Paschalne i Okres Wielkanocny:**
+**Kan. 244 — Triduum Paschalne i Okres Wielkanocny:**
 1° celebracja Wieczerzy Pańskiej w domu;
 2° adoracja krzyża w Wielki Piątek;
 3° Wigilia Paschalna w wymiarze domowym;
@@ -124,16 +105,16 @@
 5° radosne świętowanie Zmartwychwstania;
 6° nowenna przed Zesłaniem Ducha Świętego.
 
-**Kan. 248 — Okres Zwykły:**
+**Kan. 245 — Okres Zwykły:**
 1° codzienna liturgia domowa;
 2° obchodzenie wspomnień i uroczystości;
 3° dni skupienia i rekolekcje;
 4° świętowanie patronalne wspólnoty;
 5° obrzędy związane z życiem rodziny.
 
-**Kan. 249.** Modlitwa jest fundamentem życia Kościoła Domowego. Głowa Rodu jako arcykapłan ma obowiązek organizować i przewodniczyć modlitwie wspólnotowej.
+**Kan. 246.** Modlitwa jest fundamentem życia Kościoła Domowego. Głowa Rodu jako arcykapłan ma obowiązek organizować i przewodniczyć modlitwie wspólnotowej.
 
-**Kan. 250.** Modlitwa wspólnotowa obejmuje:
+**Kan. 247.** Modlitwa wspólnotowa obejmuje:
 1° **Modlitwę poranną** — poświęcenie dnia, jutrznia;
 2° **Modlitwę przed posiłkiem** — błogosławieństwo pokarmów;
 3° **Modlitwę po posiłku** — dziękczynienie;
@@ -142,18 +123,18 @@
 6° **Różaniec** lub inną modlitwę maryjną;
 7° **Lectio Divina** — modlitewne czytanie Pisma Świętego.
 
-**Kan. 251.** Głowa Rodu ma obowiązek zapewnić, by modlitwa była:
+**Kan. 248.** Głowa Rodu ma obowiązek zapewnić, by modlitwa była:
 1° regularna i wierna;
 2° dostosowana do możliwości członków;
 3° angażująca wszystkich uczestników;
 4° zgodna z duchem liturgii Kościoła;
 5° otwarta na działanie Ducha Świętego.
 
-## Tytuł V: TRZY OBRZĄDKI DOMOWE
+## Tytuł IV: MODLITWA I KULT DOMOWY
 
 ### Rozdział I: Przepisy ogólne
 
-**Kan. 252 § 1.** W Kościele Domowym sprawowane są trzy obrządki domowe, które wspólnie tworzą pełnię życia duchowego wspólnoty:
+**Kan. 249 § 1.** W Kościele Domowym sprawowane są trzy obrządki domowe, które wspólnie tworzą pełnię życia duchowego wspólnoty:
 1° Obrządek Marii Magdaleny — wymiar kontemplacyjny, miłosierny i świadectwa;
 2° Obrządek Pawłowy — wymiar misyjny, charyzmatyczny i ewangelizacyjny;
 3° Obrządek Tomaszowy — wymiar intelektualny, prawdomówny i formacyjny.
@@ -162,7 +143,7 @@
 
 **§ 3.** Głowa Rodu jako biskup domowy czuwa nad harmonijnym rozwojem wszystkich trzech obrządków, nie dopuszczając do dominacji jednego kosztem pozostałych.
 
-**Kan. 253.** Proporcje między obrządkami w życiu wspólnoty powinny odpowiadać proporcjom:
+**Kan. 250.** Proporcje między obrządkami w życiu wspólnoty powinny odpowiadać proporcjom:
 1° 33% — Kościół Katolicki (fundament);
 2° 22% — Kościół Chrześcijański (rozszerzenie);
 3° 11% — Judaizm i Islam (korzenie);
@@ -172,9 +153,9 @@
 
 ### Rozdział II: Obrządek Marii Magdaleny
 
-**Kan. 254.** Obrządek Marii Magdaleny jest wymiarem kontemplacyjnym i miłosiernym Kościoła Domowego. Jego patronką jest Maria Magdalena, Apostołka Apostołów, świadek Zmartwychwstania, kobieta miłości i wierności.
+**Kan. 251.** Obrządek Marii Magdaleny jest wymiarem kontemplacyjnym i miłosiernym Kościoła Domowego. Jego patronką jest Maria Magdalena, Apostołka Apostołów, świadek Zmartwychwstania, kobieta miłości i wierności.
 
-**Kan. 255.** Teologia Obrządku Marii Magdaleny obejmuje:
+**Kan. 252.** Teologia Obrządku Marii Magdaleny obejmuje:
 1° pierwszeństwo miłości w życiu duchowym;
 2° wierność pod krzyżem i w cierpieniu;
 3° radość Zmartwychwstania jako centrum wiary;
@@ -183,7 +164,7 @@
 6° kontemplację jako drogę do zjednoczenia z Bogiem;
 7° kobiecy wymiar Kościoła i duchowości.
 
-**Kan. 256.** Praktyki Obrządku Marii Magdaleny obejmują:
+**Kan. 253.** Praktyki Obrządku Marii Magdaleny obejmują:
 1° codzienną modlitwę kontemplacyjną (meditatio, oratio, contemplatio);
 2° praktykę miłosierdzia wobec członków rodziny i potrzebujących;
 3° obrzędy namaszczenia, obmywania i pocieszania;
@@ -194,7 +175,7 @@
 8° czuwanie przy chorych i umierających;
 9° obrzęd pocieszania strapionych.
 
-**Kan. 257.** Celebracje Obrządku Marii Magdaleny:
+**Kan. 254.** Celebracje Obrządku Marii Magdaleny:
 1° **Celebracja Miłości** — w każdy pierwszy piątek miesiąca;
 2° **Celebracja Miłosierdzia** — w Święto Miłosierdzia Bożego;
 3° **Celebracja Świadectwa** — w święto Marii Magdaleny (22 lipca);
@@ -203,9 +184,9 @@
 
 ### Rozdział III: Obrządek Pawłowy
 
-**Kan. 258.** Obrządek Pawłowy jest wymiarem misyjnym i charyzmatycznym Kościoła Domowego. Jego patronem jest Święty Paweł z Tarsu, Apostoł Narodów, głosiciel łaski i mocy Ducha Świętego.
+**Kan. 255.** Obrządek Pawłowy jest wymiarem misyjnym i charyzmatycznym Kościoła Domowego. Jego patronem jest Święty Paweł z Tarsu, Apostoł Narodów, głosiciel łaski i mocy Ducha Świętego.
 
-**Kan. 259.** Teologia Obrządku Pawłowego obejmuje:
+**Kan. 256.** Teologia Obrządku Pawłowego obejmuje:
 1° powszechne powołanie do ewangelizacji;
 2° działanie Ducha Świętego i Jego darów;
 3° łaskę jako fundament zbawienia;
@@ -214,7 +195,7 @@
 6° wspólnotę jako ciało Chrystusa;
 7° krzyż jako moc i mądrość Bożą.
 
-**Kan. 260.** Praktyki Obrządku Pawłowego obejmują:
+**Kan. 257.** Praktyki Obrządku Pawłowego obejmują:
 1° codzienne czytanie i rozważanie Słowa Bożego (Lectio Divina);
 2° modlitwę charyzmatyczną i wstawienniczą;
 3° ewangelizację przez świadectwo życia;
@@ -225,7 +206,7 @@
 8° dzieła miłosierdzia i sprawiedliwości społecznej;
 9° obrzęd posłania misyjnego.
 
-**Kan. 261.** Celebracje Obrządku Pawłowego:
+**Kan. 258.** Celebracje Obrządku Pawłowego:
 1° **Celebracja Posłania** — w Święto Nawrócenia św. Pawła (25 stycznia);
 2° **Celebracja Ducha Świętego** — w Wigilię i Święto Zesłania Ducha Świętego;
 3° **Celebracja Misji** — w Niedzielę Misyjną i Papieskich Dzieł Misyjnych;
@@ -234,9 +215,9 @@
 
 ### Rozdział IV: Obrządek Tomaszowy
 
-**Kan. 262.** Obrządek Tomaszowy jest wymiarem intelektualnym i prawdomównym Kościoła Domowego. Jego patronem jest Święty Tomasz z Akwinu, Doktor Anielski, mistrz syntezy wiary i rozumu.
+**Kan. 259.** Obrządek Tomaszowy jest wymiarem intelektualnym i prawdomównym Kościoła Domowego. Jego patronem jest Święty Tomasz z Akwinu, Doktor Anielski, mistrz syntezy wiary i rozumu.
 
-**Kan. 263.** Teologia Obrządku Tomaszowego obejmuje:
+**Kan. 260.** Teologia Obrządku Tomaszowego obejmuje:
 1° harmonię wiary i rozumu (*Fides et Ratio*);
 2° poszukiwanie Prawdy (*Veritas*) jako najwyższej wartości intelektualnej;
 3° prawo naturalne jako fundament etyki;
@@ -245,7 +226,7 @@
 6° porządek i hierarchię jako wyraz mądrości;
 7° wątpienie jako drogę do głębszej wiary.
 
-**Kan. 264.** Praktyki Obrządku Tomaszowego obejmują:
+**Kan. 261.** Praktyki Obrządku Tomaszowego obejmują:
 1° systematyczne studium teologii, filozofii i prawa naturalnego;
 2° katechezę racjonalną i apologetykę;
 3° dyskusje i debaty teologiczne w rodzinie;
@@ -256,20 +237,20 @@
 8° obrzęd pytania i odpowiedzi (quaestio disputata);
 9° studium Praw Wszelakich.
 
-**Kan. 265.** Celebracje Obrządku Tomaszowego:
+**Kan. 262.** Celebracje Obrządku Tomaszowego:
 1° **Celebracja Prawdy** — w święto św. Tomasza z Akwinu (28 stycznia);
 2° **Celebracja Rozumu i Wiary** — w pierwszy wtorek miesiąca;
 3° **Celebracja Prawa Naturalnego** — w rocznicę ogłoszenia niniejszego Kanonu;
 4° **Celebracja Mądrości** — w Święto Podwyższenia Krzyża (14 września);
 5° **Celebracja Pytania** — w każdy piątek jako dzień rozeznania i poszukiwania.
 
-## Tytuł VI: MIEJSCA KULTU I DZIEŃ PAŃSKI
+## Tytuł V: TRZY OBRZĄDKI DOMOWE
 
-**Kan. 266 § 1.** Dom rodzinny jako diecezja Kościoła Domowego jest miejscem świętym, w którym sprawowany jest kult Boży. Kościół Domowy uznaje, że przestrzeń domu winna być uświęcona przez modlitwę, błogosławieństwo i codzienną obecność Boga (por. kan. 1205, 1226 KPK).
+**Kan. 263 § 1.** Dom rodzinny jako diecezja Kościoła Domowego jest miejscem świętym, w którym sprawowany jest kult Boży. Kościół Domowy uznaje, że przestrzeń domu winna być uświęcona przez modlitwę, błogosławieństwo i codzienną obecność Boga (por. kan. 1205, 1226 KPK).
 
 **§ 2.** W każdym Kościele Domowym winno być przynajmniej jedno miejsce przeznaczone na modlitwę i sprawowanie obrzędów — kaplica domowa, kącik modlitewny lub ołtarzyk domowy (por. kan. 1226-1229 KPK).
 
-**Kan. 267.** Kaplica domowa lub kącik modlitewny winny zawierać:
+**Kan. 264.** Kaplica domowa lub kącik modlitewny winny zawierać:
 1° krzyż lub krucyfiks jako centralny znak wiary;
 2° Pismo Święte;
 3° świece;
@@ -277,7 +258,7 @@
 5° wodę święconą;
 6° inne przedmioty kultu stosowne do tradycji Rodu.
 
-**Kan. 268 § 1.** Modlitwa rodzinna jest sercem życia Kościoła Domowego. Głowa Rodu i Małżonka mają obowiązek organizować i przewodniczyć codziennej modlitwie wspólnoty.
+**Kan. 265 § 1.** Modlitwa rodzinna jest sercem życia Kościoła Domowego. Głowa Rodu i Małżonka mają obowiązek organizować i przewodniczyć codziennej modlitwie wspólnoty.
 
 **§ 2.** Modlitwa rodzinna obejmuje:
 1° **modlitwę poranną** — poświęcenie dnia Bogu, jutrznia;
@@ -295,7 +276,7 @@
 5° otwarta na działanie Ducha Świętego;
 6° nigdy nie narzucana wbrew woli dorosłych członków wspólnoty.
 
-**Kan. 269 § 1.** Głowa Rodu jako arcykapłan ma obowiązek:
+**Kan. 266 § 1.** Głowa Rodu jako arcykapłan ma obowiązek:
 1° błogosławić dom przynajmniej raz w roku;
 2° święcić wodę na potrzeby domowe;
 3° poświęcać nowe pomieszczenia, przedmioty i narzędzia;
@@ -310,7 +291,7 @@
 4° organizowania modlitwy w intencjach rodziny;
 5° czuwania nad duchową atmosferą domu.
 
-**Kan. 270 § 1.** Kościół Domowy obchodzi niedzielę jako dzień Pański. W niedzielę członkowie wspólnoty:
+**Kan. 267 § 1.** Kościół Domowy obchodzi niedzielę jako dzień Pański. W niedzielę członkowie wspólnoty:
 1° uczestniczą we Mszy Świętej w Kościele Powszechnym;
 2° powstrzymują się od prac niekoniecznych;
 3° poświęcają czas na modlitwę, odpoczynek i budowanie wspólnoty;
@@ -318,15 +299,15 @@
 
 **§ 2.** Głowa Rodu ma obowiązek czuwać nad tym, by niedziela była rzeczywiście dniem świętym, a nie jedynie dniem organizacyjnym czy zarządczym.
 
-## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, SAKRAMENTALIACH, DARACH I CHARYZMATACH
+## Tytuł VI: MIEJSCA KULTU I DZIEŃ PAŃSKI
 
-**Kan. 271 § 1.** Kościół Domowy uznaje i naucza, że życie duchowe wiernych opiera się na harmonijnej integracji siedmiu cnót, siedmiu sakramentaliów rzeczowych, siedmiu Darów Ducha Świętego i siedmiu Charyzmatów, które wspólnie tworzą pełnię formacji chrześcijańskiej w przestrzeni domowej.
+**Kan. 268 § 1.** Kościół Domowy uznaje i naucza, że życie duchowe wiernych opiera się na harmonijnej integracji siedmiu cnót, siedmiu sakramentaliów rzeczowych, siedmiu Darów Ducha Świętego i siedmiu Charyzmatów, które wspólnie tworzą pełnię formacji chrześcijańskiej w przestrzeni domowej.
 
 **§ 2.** Integracja ta odpowiada siedmiu poziomom duchowego rozwoju osoby ludzkiej — od korzenia (fundament wiary i pobożności) po koronę (transcendencja i nadzieja eschatologiczna) — i odzwierciedla fraktalną, holograficzną strukturę stworzenia, w której każda część odpowiada całości.
 
 **§ 3.** Głowa Rodu jako biskup domowy, arcykapłan i szafarz święty ma obowiązek czuwać nad tym, by wszystkie siedem wymiarów było nauczanych, sprawowanych i przekazywanych wiernym Kościoła Domowego w sposób harmonijny, bez pomijania lub nadmiernego akcentowania któregokolwiek z nich.
 
-**Kan. 272 § 1.** Cnoty w Kościele Domowym rozumiane są jako trwałe dyspozycje duchowe, moralne i intelektualne, które uzdalniają wiernych do działania zgodnego z Prawem Bożym i Naturalnym. Cnoty te są zarówno darem łaski, jak i owocem osobistego wysiłku formacyjnego.
+**Kan. 269 § 1.** Cnoty w Kościele Domowym rozumiane są jako trwałe dyspozycje duchowe, moralne i intelektualne, które uzdalniają wiernych do działania zgodnego z Prawem Bożym i Naturalnym. Cnoty te są zarówno darem łaski, jak i owocem osobistego wysiłku formacyjnego.
 
 **§ 2.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
 
@@ -334,7 +315,7 @@
 
 **§ 4.** Charyzmaty w Kościele Domowym rozumiane są jako szczególne łaski Ducha Świętego udzielane wiernym dla budowania Ciała Chrystusowego i dobra wspólnoty (por. kan. 204 § 1, 211, 215 KPK). Głowa Rodu jako biskup domowy ma prawo i obowiązek rozpoznawać, potwierdzać, zachęcać do rozwoju i koordynować charyzmaty wśród członków wspólnoty.
 
-**Kan. 273 § 1.** Każdy wierny Kościoła Domowego, na mocy sakramentu chrztu i bierzmowania, posiada prawo i obowiązek rozwijania cnót, przyjmowania Darów Ducha Świętego i korzystania z charyzmatów dla dobra własnego i wspólnoty (por. kan. 208, 210, 211 KPK).
+**Kan. 270 § 1.** Każdy wierny Kościoła Domowego, na mocy sakramentu chrztu i bierzmowania, posiada prawo i obowiązek rozwijania cnót, przyjmowania Darów Ducha Świętego i korzystania z charyzmatów dla dobra własnego i wspólnoty (por. kan. 208, 210, 211 KPK).
 
 **§ 2.** Głowa Rodu jako biskup domowy ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, sakramentaliów, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
 
@@ -342,7 +323,7 @@
 
 **§ 4.** Potomstwo, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo do stopniowego wprowadzania w życie cnót, sakramentaliów, Darów i charyzmatów, stosownie do swojego wieku i dojrzałości.
 
-**Kan. 274.** Wszystkie czynności związane z nauczaniem cnót, sprawowaniem sakramentaliów, wzywaniem Darów Ducha Świętego i przekazywaniem charyzmatów w Kościele Domowym:
+**Kan. 271.** Wszystkie czynności związane z nauczaniem cnót, sprawowaniem sakramentaliów, wzywaniem Darów Ducha Świętego i przekazywaniem charyzmatów w Kościele Domowym:
 1° winny być zgodne z nauką Kościoła Katolickiego i Magisterium;
 2° nie mogą zastępować sakramentów sprawowanych przez kapłanów wyświęconych;
 3° winny być sprawowane z godnością, powagą i należytym przygotowaniem;
@@ -350,7 +331,7 @@
 5° winny respektować wolność sumienia każdego członka wspólnoty;
 6° nie mogą być narzucane wbrew woli osoby zainteresowanej.
 
-**Kan. 275 § 1.** Głowa Rodu jako biskup domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, sakramentaliami, Darami i charyzmatami, pod warunkiem że:
+**Kan. 272 § 1.** Głowa Rodu jako biskup domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, sakramentaliami, Darami i charyzmatami, pod warunkiem że:
 1° są zgodne z duchem liturgii Kościoła;
 2° nie zawierają treści sprzecznych z wiarą katolicką;
 3° nie naśladują w sposób mylący obrzędów sakramentalnych zastrzeżonych kapłanom;
@@ -358,7 +339,7 @@
 
 **§ 2.** Formuły te winny być zapisane w Księdze Obrzędów Domowych i przechowywane w archiwum Kościoła Domowego.
 
-**Kan. 276.** Rok liturgiczny Kościoła Domowego winien uwzględniać szczególne okresy formacji w zakresie cnót, sakramentaliów, Darów i charyzmatów:
+**Kan. 273.** Rok liturgiczny Kościoła Domowego winien uwzględniać szczególne okresy formacji w zakresie cnót, sakramentaliów, Darów i charyzmatów:
 1° **Adwent** — formacja w cnocie Nadziei i Pobożności; przygotowanie na przyjście Pana;
 2° **Okres Bożego Narodzenia** — celebracja sakramentaliów światła (świeca, ogień) i ziemi;
 3° **Wielki Post** — formacja w cnocie Sprawiedliwości i Męstwa; obrzędy pokutne z popiołem;
@@ -367,11 +348,11 @@
 6° **Zesłanie Ducha Świętego** — szczególne wzywanie Darów i charyzmatów;
 7° **Uroczystość Wszystkich Świętych** — celebracja soli (mądrość świętych) i świadectwa.
 
-## Tytuł VIII: SIEDEM CNÓT W KOŚCIELE DOMOWYM
+## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, SAKRAMENTALIACH, DARACH I CHARYZMATACH
 
 ### Rozdział I: Przepisy ogólne o nauczaniu cnót
 
-**Kan. 277 § 1.** Nauczanie cnót w Kościele Domowym jest obowiązkiem Głowy Rodu jako biskupa domowego i pierwszego katechety wspólnoty (por. kan. 226 § 2, 774 § 2, 776 KPK).
+**Kan. 274 § 1.** Nauczanie cnót w Kościele Domowym jest obowiązkiem Głowy Rodu jako biskupa domowego i pierwszego katechety wspólnoty (por. kan. 226 § 2, 774 § 2, 776 KPK).
 
 **§ 2.** Nauczanie cnót winno obejmować:
 1° wyjaśnienie natury i znaczenia każdej cnoty;
@@ -387,16 +368,15 @@
 3° młodzież od czternastego do osiemnastego roku życia — pogłębiona formacja z elementami dyskusji i osobistego rozeznania;
 4° dorośli — formacja ciągła, rekolekcje, lectio divina i praktyka życia.
 
-**Kan. 278.** Głowa Rodu ma obowiązek prowadzić Księgę Formacji Cnót, w której zapisuje:
+**Kan. 275.** Głowa Rodu ma obowiązek prowadzić Księgę Formacji Cnót, w której zapisuje:
 1° tematy i daty przeprowadzonych katechez o cnotach;
 2° postępy członków wspólnoty w rozwoju cnót;
 3° szczególne praktyki i ćwiczenia podejmowane przez członków;
 4° świadectwa działania cnót w życiu codziennym rodziny.
 
-
 ### Rozdział II: Cnota Pobożności (Poziom Korzeniowy)
 
-**Kan. 279 § 1.** Cnota Pobożności (*Pietas*) jest fundamentem życia duchowego w Kościele Domowym. Oznacza trwałą dyspozycję do oddawania Bogu należnej czci, miłości i posłuszeństwa, oraz do traktowania każdego człowieka jako Dziecka Bożego.
+**Kan. 276 § 1.** Cnota Pobożności (*Pietas*) jest fundamentem życia duchowego w Kościele Domowym. Oznacza trwałą dyspozycję do oddawania Bogu należnej czci, miłości i posłuszeństwa, oraz do traktowania każdego człowieka jako Dziecka Bożego.
 
 **§ 2.** Pobożność w Kościele Domowym wyraża się przez:
 1° codzienną modlitwę osobistą i rodzinną;
@@ -417,17 +397,16 @@
 
 **§ 5.** Charyzmat związany z cnotą Pobożności to **Służenie** (*Diakonia*) — szczególna łaska do bezinteresownej pomocy bliźnim, opieki nad słabymi i chorymi oraz budowania wspólnoty.
 
-**Kan. 280.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 277.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° codziennie praktykować modlitwę poranną i wieczorną jako wyraz Pobożności;
 2° błogosławić ziemię, dom i jego otoczenie przynajmniej raz w roku;
 3° nauczać Potomstwo szacunku wobec stworzenia i tradycji Rodu;
 4° organizować raz w miesiącu szczególną modlitwę o Dar Cierpliwości;
 5° zachęcać członków wspólnoty do praktykowania Charyzmatu Służenia wobec sąsiadów i potrzebujących.
 
-
 ### Rozdział III: Cnota Umiarkowania (Poziom Sakralny)
 
-**Kan. 281 § 1.** Cnota Umiarkowania (*Temperantia*) jest dyspozycją do utrzymania równowagi emocjonalnej, panowania nad pożądliwościami i używania dóbr stworzonych w sposób uporządkowany.
+**Kan. 278 § 1.** Cnota Umiarkowania (*Temperantia*) jest dyspozycją do utrzymania równowagi emocjonalnej, panowania nad pożądliwościami i używania dóbr stworzonych w sposób uporządkowany.
 
 **§ 2.** Umiarkowanie w Kościele Domowym wyraża się przez:
 1° panowanie nad emocjami i gniewem;
@@ -448,17 +427,16 @@
 
 **§ 5.** Charyzmat związany z cnotą Umiarkowania to **Kreatywna Inspiracja** (*Inspiratio Creativa*) — szczególna łaska do tworzenia dzieł piękna, sztuki i kultury na chwałę Bożą i dla dobra wspólnoty.
 
-**Kan. 282.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 279.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° nauczać członków wspólnoty umiarkowania w korzystaniu z dóbr materialnych;
 2° błogosławić świece i ogień przy każdej większej celebracji domowej;
 3° organizować przynajmniej raz w kwartale wieczór twórczy, podczas którego członkowie wspólnoty mogą rozwijać Charyzmat Kreatywnej Inspiracji;
 4° modlić się o Dar Wiedzy dla siebie i członków wspólnoty;
 5° czuwać nad tym, by w domu panowała atmosfera równowagi, spokoju i wzajemnego szacunku.
 
-
 ### Rozdział IV: Cnota Męstwa (Poziom Splotu Słonecznego)
 
-**Kan. 283 § 1.** Cnota Męstwa (*Fortitudo*) jest dyspozycją do odważnego działania w obliczu trudności, wytrwałości w dobru mimo przeciwności oraz gotowości do poświęcenia dla prawdy i sprawiedliwości.
+**Kan. 280 § 1.** Cnota Męstwa (*Fortitudo*) jest dyspozycją do odważnego działania w obliczu trudności, wytrwałości w dobru mimo przeciwności oraz gotowości do poświęcenia dla prawdy i sprawiedliwości.
 
 **§ 2.** Męstwo w Kościele Domowym wyraża się przez:
 1° odwagę wyznawania wiary w środowisku nieprzyjaznym;
@@ -479,17 +457,16 @@
 
 **§ 5.** Charyzmat związany z cnotą Męstwa to **Czyny Mocy** (*Virtutes*) — szczególna łaska do dokonywania znaków i cudów potwierdzających obecność i działanie Boga.
 
-**Kan. 284.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 281.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° nauczać członków wspólnoty odwagi wiary i wytrwałości;
 2° błogosławić olej i namaszczać chorych lub cierpiących członków rodziny;
 3° organizować modlitwę wstawienniczą o Dar Mocy w sytuacjach trudnych;
 4° zachęcać do praktykowania Charyzmatu Czynów Mocy przez wiarę i modlitwę;
 5° dawać osobisty przykład męstwa w obliczu przeciwności.
 
-
 ### Rozdział V: Cnota Sprawiedliwości (Poziom Serca)
 
-**Kan. 285 § 1.** Cnota Sprawiedliwości (*Iustitia*) jest trwałą dyspozycją do oddawania każdemu tego, co mu się należy, oraz do przywracania naruszonego porządku i równowagi w relacjach międzyludzkich.
+**Kan. 282 § 1.** Cnota Sprawiedliwości (*Iustitia*) jest trwałą dyspozycją do oddawania każdemu tego, co mu się należy, oraz do przywracania naruszonego porządku i równowagi w relacjach międzyludzkich.
 
 **§ 2.** Sprawiedliwość w Kościele Domowym wyraża się przez:
 1° wzajemny szacunek i równość godności małżonków;
@@ -511,7 +488,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Sprawiedliwości to **Uzdrawianie** (*Sanatio*) — szczególna łaska do przywracania zdrowia fizycznego, psychicznego, duchowego i relacyjnego.
 
-**Kan. 286.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 283.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° nauczać członków wspólnoty sprawiedliwości, przebaczenia i miłosierdzia;
 2° sprawować obrzęd pokutny z popiołem w Środę Popielcową i w piątki Wielkiego Postu;
 3° przewodniczyć obrzędom pojednania w przypadku konfliktów rodzinnych;
@@ -519,10 +496,9 @@
 5° czuwać nad sprawiedliwym podziałem obowiązków i dóbr w rodzinie;
 6° praktykować uczynki miłosierdzia co do ciała i co do duszy.
 
-
 ### Rozdział VI: Cnota Skrupulatności (Poziom Gardłowy)
 
-**Kan. 287 § 1.** Cnota Skrupulatności (*Sollicitudo*) jest dyspozycją do czystości sumienia, autentyczności w mowie i działaniu oraz troski o prawdę w każdej sytuacji.
+**Kan. 284 § 1.** Cnota Skrupulatności (*Sollicitudo*) jest dyspozycją do czystości sumienia, autentyczności w mowie i działaniu oraz troski o prawdę w każdej sytuacji.
 
 **§ 2.** Skrupulatność w Kościele Domowym wyraża się przez:
 1° prawdomówność i autentyczność w komunikacji;
@@ -543,7 +519,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Skrupulatności to **Języki** (*Linguae*) — szczególna łaska modlitwy, uwielbienia i głoszenia Słowa Bożego w sposób natchniony.
 
-**Kan. 288.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 285.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° błogosławić chleb i pokarmy przed każdym posiłkiem rodzinnym;
 2° nauczać członków wspólnoty prawdomówności i autentyczności;
 3° organizować modlitwę o Dar Rady i Charyzmat Języków;
@@ -551,10 +527,9 @@
 5° dawać osobisty przykład czystości sumienia i autentyczności;
 6° organizować raz w tygodniu wspólną modlitwę uwielbienia.
 
-
 ### Rozdział VII: Cnota Roztropności (Poziom Trzeciego Oka)
 
-**Kan. 289 § 1.** Cnota Roztropności (*Prudentia*) jest dyspozycją do rozpoznawania dobra i zła, właściwego rozeznawania sytuacji oraz podejmowania decyzji zgodnych z wolą Bożą i prawym rozumem.
+**Kan. 286 § 1.** Cnota Roztropności (*Prudentia*) jest dyspozycją do rozpoznawania dobra i zła, właściwego rozeznawania sytuacji oraz podejmowania decyzji zgodnych z wolą Bożą i prawym rozumem.
 
 **§ 2.** Roztropność w Kościele Domowym wyraża się przez:
 1° rozeznawanie duchowe w codziennych decyzjach;
@@ -575,7 +550,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Roztropności to **Rozróżnianie Duchów** (*Discretio Spirituum*) — szczególna łaska do rozpoznawania działania Ducha Bożego, ducha ludzkiego i ducha złego.
 
-**Kan. 290.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 287.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° nauczać członków wspólnoty rozeznania duchowego;
 2° błogosławić sól przy obrzędach ochrony i ważnych decyzjach;
 3° organizować modlitwę o Dar Rozumu i Charyzmat Rozróżniania Duchów;
@@ -583,10 +558,9 @@
 5° chronić wspólnotę przed wpływem ideologii sprzecznych z Prawem Bożym;
 6° prowadzić regularne rachunki sumienia wspólnoty.
 
-
 ### Rozdział VIII: Cnota Nadziei (Poziom Koronny)
 
-**Kan. 291 § 1.** Cnota Nadziei (*Spes*) jest dyspozycją do ufności w Boży plan zbawienia, oczekiwania na wypełnienie obietnic Bożych oraz działania w perspektywie życia wiecznego.
+**Kan. 288 § 1.** Cnota Nadziei (*Spes*) jest dyspozycją do ufności w Boży plan zbawienia, oczekiwania na wypełnienie obietnic Bożych oraz działania w perspektywie życia wiecznego.
 
 **§ 2.** Nadzieja w Kościele Domowym wyraża się przez:
 1° ufność w Bożą Opatrzność mimo trudności;
@@ -608,7 +582,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Nadziei to **Proroctwo** (*Prophetia*) — szczególna łaska do przekazywania Słowa Bożego, objawiania Bożego zamysłu i wzywania do nawrócenia.
 
-**Kan. 292.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 289.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° nauczać członków wspólnoty ufności w Boży plan i perspektywy wieczności;
 2° błogosławić wodę i pokrapiać dom przynajmniej raz w tygodniu;
 3° organizować modlitwę o Dar Mądrości i Charyzmat Proroctwa;
@@ -616,11 +590,11 @@
 5° dawać świadectwo nadziei w obliczu cierpienia i śmierci;
 6° prowadzić wspólnotę w modlitwie kontemplacyjnej.
 
-## Tytuł IX: SIEDEM SAKRAMENTALIÓW RZECZOWYCH
+## Tytuł VIII: SIEDEM CNÓT W KOŚCIELE DOMOWYM
 
-### Rozdział I: Przepisy ogólne o sakramentaliach domowych
+### Rozdział IX: Podsumowanie cnót — obowiązki Głowy Rodu
 
-**Kan. 293 § 1.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami ustanowionymi przez Kościół, przez które na podobieństwo sakramentów oznaczane i otrzymywane są skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
+**Kan. 290 § 1.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami ustanowionymi przez Kościół, przez które na podobieństwo sakramentów oznaczane i otrzymywane są skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
 **§ 2.** W Kościele Domowym sprawowane są następujące sakramentalia rzeczowe:
 1° **Woda** — sakramentalium oczyszczenia i nowego życia;
@@ -633,7 +607,7 @@
 
 **§ 3.** Sakramentalia te nie zastępują sakramentów świętych, lecz je przedłużają, przygotowują do nich i pogłębiają ich owoce w codziennym życiu rodzinnym.
 
-**Kan. 294 § 1.** Szafarzem sakramentaliów w Kościele Domowym jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy:
+**Kan. 291 § 1.** Szafarzem sakramentaliów w Kościele Domowym jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy:
 1° powszechnego kapłaństwa wiernych wynikającego z sakramentu chrztu (por. kan. 204 § 1 KPK);
 2° sakramentu małżeństwa, który czyni małżonków wzajemnymi szafarzami łaski;
 3° prawa naturalnego uznającego ojca za kapłana ogniska domowego;
@@ -649,7 +623,7 @@
 
 **§ 3.** Potomstwo, po osiągnięciu odpowiedniego wieku i za zgodą Głowy Rodu, może uczestniczyć w sprawowaniu sakramentaliów jako ministranci, lektorzy lub pomocnicy.
 
-**Kan. 295.** Do sprawowania sakramentaliów domowych wymagane jest:
+**Kan. 292.** Do sprawowania sakramentaliów domowych wymagane jest:
 1° odpowiednie przygotowanie przez modlitwę i skupienie;
 2° używanie zatwierdzonych formuł błogosławieństw;
 3° zachowanie godności i powagi obrzędu;
@@ -657,7 +631,7 @@
 5° stosowanie odpowiednich przedmiotów (woda, sól, chleb, popiół, olej, świeca, ziemia);
 6° intencja zgodna z duchem Kościoła.
 
-**Kan. 296 § 1.** Przedmioty używane jako sakramentalia rzeczowe winny być:
+**Kan. 293 § 1.** Przedmioty używane jako sakramentalia rzeczowe winny być:
 1° czyste i godne;
 2° przeznaczone wyłącznie do użytku sakralnego (w przypadku wody święconej, oleju błogosławionego, świec liturgicznych);
 3° przechowywane w odpowiednim miejscu w domu (kaplica domowa, kącik modlitewny);
@@ -666,9 +640,9 @@
 
 **§ 2.** Głowa Rodu ma obowiązek dbać o to, by przedmioty sakralne nie były używane do celów świeckich ani nie były traktowane z lekceważeniem.
 
-### Rozdział II: Woda — Sakramentalium Oczyszczenia i Nowego Życia
+### Rozdział I: Woda — Sakramentalium Oczyszczenia i Nowego Życia
 
-**Kan. 297 § 1.** Woda jest pierwszym i podstawowym sakramentalium Kościoła Domowego, związanym z sakramentem chrztu i cnotą Nadziei.
+**Kan. 294 § 1.** Woda jest pierwszym i podstawowym sakramentalium Kościoła Domowego, związanym z sakramentem chrztu i cnotą Nadziei.
 
 **§ 2.** Błogosławieństwo wody w Kościele Domowym obejmuje:
 1° wezwanie Ducha Świętego nad wodą;
@@ -688,9 +662,9 @@
 4° odnawiana, gdy się wyczerpie lub straci świeżość;
 5° nie wylewana do kanalizacji, lecz do ziemi lub ogrodu.
 
-### Rozdział III: Sól — Sakramentalium Ochrony i Rozeznania
+### Rozdział II: Sól — Sakramentalium Ochrony i Rozeznania
 
-**Kan. 298 § 1.** Sól jest sakramentalium ochrony duchowej, mądrości i rozeznania, związanym z sakramentem bierzmowania i cnotą Roztropności.
+**Kan. 295 § 1.** Sól jest sakramentalium ochrony duchowej, mądrości i rozeznania, związanym z sakramentem bierzmowania i cnotą Roztropności.
 
 **§ 2.** Błogosławieństwo soli w Kościele Domowym obejmuje:
 1° wezwanie Ducha Świętego nad solą;
@@ -707,11 +681,9 @@
 4° w modlitwie o mądrość i ochronę Potomstwa;
 5° jako symbol wierności przymierzu.
 
-### Rozdział IV: Chleb — Sakramentalium Wspólnoty i Dziękczynienia
+### Rozdział III: Chleb — Sakramentalium Wspólnoty i Dziękczynienia
 
-### Rozdział II: Woda — Sakramentalium Oczyszczenia i Nowego Życia *(brzmienie starsze — materiał powtórzony)*
-
-**Kan. 299 § 1.** Chleb jest sakramentalium wspólnoty, wdzięczności i codziennego trudu, związanym z sakramentem Eucharystii i cnotą Skrupulatności.
+**Kan. 296 § 1.** Chleb jest sakramentalium wspólnoty, wdzięczności i codziennego trudu, związanym z sakramentem Eucharystii i cnotą Skrupulatności.
 
 **§ 2.** Błogosławieństwo chleba i pokarmów w Kościele Domowym obejmuje:
 1° znak krzyża nad pokarmem;
@@ -730,9 +702,9 @@
 4° przy obrzędach dziękczynienia;
 5° w sytuacjach szczególnego błogosławieństwa dla pracy.
 
-### Rozdział V: Popiół — Sakramentalium Pokuty i Nawrócenia
+### Rozdział IV: Popiół — Sakramentalium Pokuty i Nawrócenia
 
-**Kan. 300 § 1.** Popiół jest sakramentalium pokuty, przemijania, skruchy i nawrócenia, związanym z sakramentem pokuty i pojednania oraz cnotą Sprawiedliwości.
+**Kan. 297 § 1.** Popiół jest sakramentalium pokuty, przemijania, skruchy i nawrócenia, związanym z sakramentem pokuty i pojednania oraz cnotą Sprawiedliwości.
 
 **§ 2.** Obrzęd pokutny z popiołem w Kościele Domowym obejmuje:
 1° błogosławieństwo popiołu;
@@ -750,11 +722,9 @@
 4° w rocznicę śmierci członków Rodu;
 5° w sytuacjach szczególnego nawrócenia lub odnowienia życia duchowego.
 
-### Rozdział VI: Olej — Sakramentalium Umocnienia i Uzdrawiania
+### Rozdział V: Olej — Sakramentalium Umocnienia i Uzdrawiania
 
-### Rozdział III: Sól — Sakramentalium Ochrony i Rozeznania *(brzmienie starsze — materiał powtórzony)*
-
-**Kan. 301 § 1.** Olej jest sakramentalium umocnienia, uzdrowienia i troski, związanym z sakramentem namaszczenia chorych i cnotą Męstwa.
+**Kan. 298 § 1.** Olej jest sakramentalium umocnienia, uzdrowienia i troski, związanym z sakramentem namaszczenia chorych i cnotą Męstwa.
 
 **§ 2.** Błogosławieństwo oleju i namaszczenie w Kościele Domowym obejmuje:
 1° błogosławieństwo oleju (oliwy z oliwek lub innego oleju roślinnego);
@@ -771,9 +741,9 @@
 4° jest szczególnie wskazane przy chorobie, cierpieniu, przed trudnymi zadaniami i w podeszłym wieku;
 5° winno być połączone z modlitwą całej rodziny, jeśli to możliwe.
 
-### Rozdział VII: Świeca i Ogień — Sakramentalium Światła i Powołania
+### Rozdział VI: Świeca i Ogień — Sakramentalium Światła i Powołania
 
-**Kan. 302 § 1.** Świeca i ogień są sakramentalium światła, powołania, świadectwa i służby, związanymi z sakramentem kapłaństwa i cnotą Umiarkowania.
+**Kan. 299 § 1.** Świeca i ogień są sakramentalium światła, powołania, świadectwa i służby, związanymi z sakramentem kapłaństwa i cnotą Umiarkowania.
 
 **§ 2.** Błogosławieństwo świec i ognia w Kościele Domowym obejmuje:
 1° zapalenie świecy jako znaku obecności Chrystusa;
@@ -792,11 +762,9 @@
 6° w intencji zmarłych członków Rodu;
 7° przy podejmowaniu nowych przedsięwzięć.
 
-### Rozdział VIII: Ziemia — Sakramentalium Zakorzenienia i Płodności
+### Rozdział VII: Ziemia — Sakramentalium Zakorzenienia i Płodności
 
-### Rozdział IV: Chleb — Sakramentalium Wspólnoty i Dziękczynienia *(brzmienie starsze — materiał powtórzony)*
-
-**Kan. 303 § 1.** Ziemia jest sakramentalium zakorzenienia, odpowiedzialności za stworzenie i płodności, związanym z sakramentem małżeństwa i cnotą Pobożności.
+**Kan. 300 § 1.** Ziemia jest sakramentalium zakorzenienia, odpowiedzialności za stworzenie i płodności, związanym z sakramentem małżeństwa i cnotą Pobożności.
 
 **§ 2.** Błogosławieństwo ziemi, ogrodu i domu w Kościele Domowym obejmuje:
 1° modlitwę dziękczynną za dar ziemi i stworzenia;
@@ -814,7 +782,9 @@
 5° w rocznicę nabycia nieruchomości;
 6° przy sadzeniu nowych roślin lub drzew.
 
-**Kan. 304 § 1.** Kościół Domowy uznaje i naucza, że siedem Darów Ducha Świętego — Mądrość, Rozum, Rada, Miłosierdzie (Pobożność), Moc, Wiedza i Cierpliwość (Bojaźń Boża) — jest udzielanych wiernym w sakramencie bierzmowania i rozwijanych przez całe życie chrześcijańskie.
+## Tytuł IX: SIEDEM SAKRAMENTALIÓW RZECZOWYCH
+
+**Kan. 301 § 1.** Kościół Domowy uznaje i naucza, że siedem Darów Ducha Świętego — Mądrość, Rozum, Rada, Miłosierdzie (Pobożność), Moc, Wiedza i Cierpliwość (Bojaźń Boża) — jest udzielanych wiernym w sakramencie bierzmowania i rozwijanych przez całe życie chrześcijańskie.
 
 **§ 2.** Głowa Rodu jako biskup domowy ma prawo i obowiązek:
 1° nauczać o Darach Ducha Świętego;
@@ -830,9 +800,7 @@
 4° rozwijać otrzymane Dary w codziennym życiu;
 5° dzielić się owocami Darów ze wspólnotą.
 
-### Rozdział V: Popiół — Sakramentalium Pokuty i Nawrócenia *(brzmienie starsze — materiał powtórzony)*
-
-**Kan. 305.** Modlitwa o Dary Ducha Świętego w Kościele Domowym winna obejmować:
+**Kan. 302.** Modlitwa o Dary Ducha Świętego w Kościele Domowym winna obejmować:
 1° wezwanie Ducha Świętego (*Veni Creator Spiritus* lub modlitwa własna);
 2° wymienienie Daru, o który wspólnota prosi;
 3° czytanie odpowiedniego fragmentu Pisma Świętego;
@@ -840,68 +808,62 @@
 5° modlitwę wstawienniczą Głowy Rodu z nałożeniem rąk;
 6° znak krzyża i błogosławieństwo.
 
-**Kan. 306.** Szczególna celebracja Darów Ducha Świętego odbywa się:
+**Kan. 303.** Szczególna celebracja Darów Ducha Świętego odbywa się:
 1° w Wigilię i Święto Zesłania Ducha Świętego;
 2° w rocznicę bierzmowania członków wspólnoty;
 3° w pierwszy czwartek każdego miesiąca (Obrządek Pawłowy);
 4° przy okazji ważnych decyzji wymagających rozeznania;
 5° w okresach szczególnego działania Ducha Świętego we wspólnocie.
 
-### Rozdział II: Poszczególne Dary i ich praktyka
+### Rozdział I: Przepisy ogólne o Darach Ducha Świętego
 
-### Rozdział VI: Olej — Sakramentalium Umocnienia i Uzdrawiania *(brzmienie starsze — materiał powtórzony)*
-
-**Kan. 307 — Dar Mądrości (związany z cnotą Nadziei i sakramentalium wody):**
+**Kan. 304 — Dar Mądrości (związany z cnotą Nadziei i sakramentalium wody):**
 1° jest udzielany przez modlitwę kontemplacyjną i sakramentalię wody;
 2° rozwijany jest przez lectio divina, adorację i ciszę;
 3° owocuje zdolnością do widzenia rzeczywistości z perspektywy Bożej;
 4° Głowa Rodu modli się o ten Dar dla siebie i wspólnoty przy każdym błogosławieństwie wody.
 
-**Kan. 308 — Dar Rozumu (związany z cnotą Roztropności i sakramentalium soli):**
+**Kan. 305 — Dar Rozumu (związany z cnotą Roztropności i sakramentalium soli):**
 1° jest udzielany przez modlitwę o rozeznanie i sakramentalię soli;
 2° rozwijany jest przez studium Pisma Świętego i nauki Kościoła;
 3° owocuje zdolnością do głębokiego zrozumienia prawd wiary;
 4° Głowa Rodu modli się o ten Dar przy obrzędach ochrony i ważnych decyzjach.
 
-### Rozdział VII: Świeca i Ogień — Sakramentalium Światła i Powołania *(brzmienie starsze — materiał powtórzony)*
-
-**Kan. 309 — Dar Rady (związany z cnotą Skrupulatności i sakramentalium chleba):**
+**Kan. 306 — Dar Rady (związany z cnotą Skrupulatności i sakramentalium chleba):**
 1° jest udzielany przez modlitwę przed posiłkiem i sakramentalię chleba;
 2° rozwijany jest przez praktykę prawdomówności i autentyczności;
 3° owocuje zdolnością do właściwego doradzania i podejmowania decyzji;
 4° Głowa Rodu modli się o ten Dar przy każdym błogosławieństwie pokarmów.
 
-**Kan. 310 — Dar Miłosierdzia/Pobożności (związany z cnotą Sprawiedliwości i sakramentalium popiołu):**
+**Kan. 307 — Dar Miłosierdzia/Pobożności (związany z cnotą Sprawiedliwości i sakramentalium popiołu):**
 1° jest udzielany przez obrzędy pokutne i sakramentalię popiołu;
 2° rozwijany jest przez praktykę przebaczenia i uczynki miłosierdzia;
 3° owocuje zdolnością do współczucia i czynnej miłości;
 4° Głowa Rodu modli się o ten Dar przy każdym obrzędzie pojednania.
 
-### Rozdział VIII: Ziemia — Sakramentalium Zakorzenienia i Płodności *(brzmienie starsze — materiał powtórzony)*
-
-**Kan. 311 — Dar Mocy (związany z cnotą Męstwa i sakramentalium oleju):**
+**Kan. 308 — Dar Mocy (związany z cnotą Męstwa i sakramentalium oleju):**
 1° jest udzielany przez namaszczenie i sakramentalię oleju;
 2° rozwijany jest przez wytrwałość w cierpieniu i odwagę świadectwa;
 3° owocuje zdolnością do przezwyciężania trudności i wypełniania woli Bożej;
 4° Głowa Rodu modli się o ten Dar przy każdym namaszczeniu.
 
-**Kan. 312 — Dar Wiedzy (związany z cnotą Umiarkowania i sakramentalium świecy):**
+**Kan. 309 — Dar Wiedzy (związany z cnotą Umiarkowania i sakramentalium świecy):**
 1° jest udzielany przez błogosławieństwo świec i sakramentalię ognia;
 2° rozwijany jest przez twórczość, sztukę i kontemplację piękna;
 3° owocuje zdolnością do właściwego oceniania rzeczy stworzonych;
 4° Głowa Rodu modli się o ten Dar przy zapalaniu świec i obrzędach twórczych.
 
-## Tytuł X: SIEDEM DARÓW DUCHA ŚWIĘTEGO
-
 ### Rozdział I: Przepisy ogólne o Darach Ducha Świętego
 
-**Kan. 313 — Dar Cierpliwości/Bojaźni Bożej (związany z cnotą Pobożności i sakramentalium ziemi):**
+**Kan. 310 — Dar Cierpliwości/Bojaźni Bożej (związany z cnotą Pobożności i sakramentalium ziemi):**
 1° jest udzielany przez błogosławieństwo ziemi i sakramentalium zakorzenienia;
 2° rozwijany jest przez wierność, wytrwałość i szacunek wobec Boga;
 3° owocuje zdolnością do cierpliwego znoszenia trudności i ufności w Boży plan;
 4° Głowa Rodu modli się o ten Dar przy błogosławieństwie domu i ogrodu.
 
-**Kan. 314 § 1.** Kościół Domowy uznaje, że Duch Święty udziela wiernym rozmaitych charyzmatów dla budowania Ciała Chrystusowego i dobra wspólnoty (por. 1 Kor 12,4-11; kan. 204 § 1, 211 KPK).
+## Tytuł X: SIEDEM DARÓW DUCHA ŚWIĘTEGO
+
+**Kan. 311 § 1.** Kościół Domowy uznaje, że Duch Święty udziela wiernym rozmaitych charyzmatów dla budowania Ciała Chrystusowego i dobra wspólnoty (por. 1 Kor 12,4-11; kan. 204 § 1, 211 KPK).
 
 **§ 2.** Głowa Rodu jako biskup domowy ma prawo i obowiązek:
 1° rozpoznawać charyzmaty wśród członków wspólnoty;
@@ -919,7 +881,7 @@
 5° potwierdzenie przez innych członków wspólnoty;
 6° zgodność z Prawem Bożym i Naturalnym.
 
-**Kan. 315 § 1.** Każdy wierny Kościoła Domowego ma prawo:
+**Kan. 312 § 1.** Każdy wierny Kościoła Domowego ma prawo:
 1° modlić się o charyzmaty;
 2° otrzymać modlitwę wstawienniczą o charyzmaty;
 3° rozwijać otrzymane charyzmaty;
@@ -935,7 +897,7 @@
 
 ### Rozdział II: Poszczególne Dary i ich praktyka
 
-**Kan. 316.** Przekazywanie charyzmatów w Kościele Domowym odbywa się przez:
+**Kan. 313.** Przekazywanie charyzmatów w Kościele Domowym odbywa się przez:
 1° modlitwę wstawienniczą Głowy Rodu;
 2° nałożenie rąk na osobę, o której charyzmat się modli;
 3° błogosławieństwo pontyfikalne;
@@ -943,11 +905,9 @@
 5° świadectwo i zachętę;
 6° praktykę i ćwiczenie pod kierunkiem Głowy Rodu.
 
-## Tytuł XI: SIEDEM CHARYZMATÓW
-
 ### Rozdział I: Przepisy ogólne o charyzmatach
 
-**Kan. 317 — Charyzmat Proroctwa (związany z cnotą Nadziei, sakramentalium wody i Darem Mądrości):**
+**Kan. 314 — Charyzmat Proroctwa (związany z cnotą Nadziei, sakramentalium wody i Darem Mądrości):**
 1° jest szczególną łaską do przekazywania Słowa Bożego wspólnocie;
 2° obejmuje objawienia o Bożym zamyśle, wezwania do nawrócenia i umocnienie w wierze;
 3° w Kościele Domowym sprawowany jest przez:
@@ -959,8 +919,7 @@
 5° inni członkowie wspólnoty mogą korzystać z tego charyzmatu za zgodą i pod kierunkiem Głowy Rodu;
 6° każde proroctwo winno być badane i rozeznawane (por. 1 Tes 5,20-21).
 
-
-**Kan. 318 — Charyzmat Rozróżniania Duchów (związany z cnotą Roztropności, sakramentalium soli i Darem Rozumu):**
+**Kan. 315 — Charyzmat Rozróżniania Duchów (związany z cnotą Roztropności, sakramentalium soli i Darem Rozumu):**
 1° jest szczególną łaską do rozpoznawania działania Ducha Bożego, ducha ludzkiego i ducha złego;
 2° obejmuje zdolność do identyfikacji źródeł natchnień, myśli i impulsów;
 3° w Kościele Domowym sprawowany jest przez:
@@ -972,8 +931,7 @@
 5° Małżonka jako współszafarka ma prawo i obowiązek współuczestniczenia w rozeznawaniu;
 6° rozeznawanie winno być zawsze potwierdzane modlitwą i konsultacją.
 
-
-**Kan. 319 — Charyzmat Języków (związany z cnotą Skrupulatności, sakramentalium chleba i Darem Rady):**
+**Kan. 316 — Charyzmat Języków (związany z cnotą Skrupulatności, sakramentalium chleba i Darem Rady):**
 1° jest szczególną łaską modlitwy, uwielbienia i głoszenia Słowa Bożego w sposób natchniony;
 2° obejmuje modlitwę w językach, uwielbienie, dziękczynienie i głoszenie wielkich dzieł Bożych;
 3° w Kościele Domowym sprawowany jest przez:
@@ -985,8 +943,7 @@
 5° Charyzmat Języków winien być sprawowany w duchu miłości i budowania wspólnoty (por. 1 Kor 14,1-5);
 6° w przypadku modlitwy w językach wymagane jest tłumaczenie lub wyjaśnienie dla budowania wspólnoty.
 
-
-**Kan. 320 — Charyzmat Uzdrawiania (związany z cnotą Sprawiedliwości, sakramentalium popiołu i Darem Miłosierdzia):**
+**Kan. 317 — Charyzmat Uzdrawiania (związany z cnotą Sprawiedliwości, sakramentalium popiołu i Darem Miłosierdzia):**
 1° jest szczególną łaską do przywracania zdrowia fizycznego, psychicznego, duchowego i relacyjnego;
 2° obejmuje modlitwę za chorych, nałożenie rąk, namaszczenie i wstawiennictwo;
 3° w Kościele Domowym sprawowany jest przez:
@@ -999,8 +956,7 @@
 5° Charyzmat Uzdrawiania nie zastępuje opieki medycznej ani sakramentu namaszczenia chorych;
 6° uzdrowienie jest zawsze darem Bożym i nie może być traktowane jako prawo lub technika.
 
-
-**Kan. 321 — Charyzmat Czynów Mocy (związany z cnotą Męstwa, sakramentalium oleju i Darem Mocy):**
+**Kan. 318 — Charyzmat Czynów Mocy (związany z cnotą Męstwa, sakramentalium oleju i Darem Mocy):**
 1° jest szczególną łaską do dokonywania znaków potwierdzających obecność i działanie Boga;
 2° obejmuje cuda, znaki i nadzwyczajne interwencje Boże;
 3° w Kościele Domowym sprawowany jest przez:
@@ -1012,8 +968,7 @@
 5° Charyzmat Czynów Mocy jest zawsze suwerennym działaniem Boga i nie może być wymuszany ani kontrolowany;
 6° wszelkie znaki i cuda winny być rozeznawane przez Głowę Rodu i potwierdzane owocami duchowymi.
 
-
-**Kan. 322 — Charyzmat Kreatywnej Inspiracji (związany z cnotą Umiarkowania, sakramentalium świecy i Darem Wiedzy):**
+**Kan. 319 — Charyzmat Kreatywnej Inspiracji (związany z cnotą Umiarkowania, sakramentalium świecy i Darem Wiedzy):**
 1° jest szczególną łaską do tworzenia dzieł piękna, sztuki i kultury na chwałę Bożą;
 2° obejmuje twórczość artystyczną, literacką, muzyczną, rzemieślniczą i intelektualną;
 3° w Kościele Domowym sprawowany jest przez:
@@ -1026,8 +981,7 @@
 5° Charyzmat Kreatywnej Inspiracji winien być zawsze ukierunkowany na chwałę Bożą i dobro wspólnoty;
 6° twórczość nie może być sprzeczna z wiarą, moralnością ani godnością osoby ludzkiej.
 
-
-**Kan. 323 — Charyzmat Służenia (związany z cnotą Pobożności, sakramentalium ziemi i Darem Cierpliwości):**
+**Kan. 320 — Charyzmat Służenia (związany z cnotą Pobożności, sakramentalium ziemi i Darem Cierpliwości):**
 1° jest szczególną łaską do bezinteresownej pomocy bliźnim i budowania wspólnoty;
 2° obejmuje opiekę nad chorymi, pomoc ubogim, służbę wobec słabych i wykluczonych;
 3° w Kościele Domowym sprawowany jest przez:
@@ -1040,27 +994,15 @@
 5° Małżonka jako współszafarka ma szczególne powołanie do Charyzmatu Służenia w wymiarze opiekuńczym;
 6° Charyzmat Służenia winien być praktykowany z radością, bez oczekiwania wdzięczności i w duchu Ewangelii.
 
-
-
-## Tytuł XII: INTEGRACJA SAKRAMENTALIÓW OSOBOWYCH I UCZYNKÓW
-
 ### Rozdział I: Sakramentalia osobowe
 
-**Kan. 324.** Do sprawowania sakramentaliów domowych wymagane jest:
-1° odpowiednie przygotowanie przez modlitwę i skupienie;
-2° używanie zatwierdzonych formuł błogosławieństw;
-3° zachowanie godności i powagi obrzędu;
-4° obecność przynajmniej jednego członka wspólnoty (z wyjątkiem osobistego błogosławieństwa);
-5° stosowanie odpowiednich przedmiotów (woda, sól, chleb, popiół, olej, świeca, ziemia);
-6° intencja zgodna z duchem Kościoła.
-
-
-
-
+*(Redakcja usunęła dawny kan. o warunkach sprawowania sakramentaliów jako powtórzenie kan. 295 § 1–2 Tytułu IX; zachowano brzmienie pełne.)*
 
 ### Rozdział II: Sakramentalia uczynków
 
-**Kan. 325 § 1.** Kościół Domowy uznaje, że codzienne uczynki miłości, pracy i odpowiedzialności mogą być uświęcone i podniesione do rangi sakramentaliów uczynków przez:
+## Tytuł XI: SIEDEM CHARYZMATÓW
+
+**Kan. 321 § 1.** Kościół Domowy uznaje, że codzienne uczynki miłości, pracy i odpowiedzialności mogą być uświęcone i podniesione do rangi sakramentaliów uczynków przez:
 1° intencję ofiarowania ich Bogu;
 2° modlitwę przed i po ich wykonaniu;
 3° znak krzyża lub błogosławieństwo;
@@ -1075,10 +1017,13 @@
 
 **§ 3.** Głowa Rodu ma prawo i obowiązek błogosławić codzienne uczynki członków wspólnoty, łącząc je z odpowiednimi sakramentaliami rzeczowymi i modlitwą.
 
+### Rozdział II: Integracja sakramentaliów rzeczowych, osobowych i uczynków
 
-### Rozdział III: Integracja sakramentaliów rzeczowych, osobowych i uczynków
+## Tytuł XII: INTEGRACJA SAKRAMENTALIÓW OSOBOWYCH I UCZYNKÓW
 
-**Kan. 326 § 1.** Pełnia życia sakramentalnego w Kościele Domowym osiąga się przez integrację trzech wymiarów:
+### Rozdział I: Sakramentalia uczynków
+
+**Kan. 322 § 1.** Pełnia życia sakramentalnego w Kościele Domowym osiąga się przez integrację trzech wymiarów:
 1° **sakramentalium rzeczowego** (przedmiot: woda, sól, chleb, popiół, olej, świeca, ziemia);
 2° **sakramentalium osobowego** (osoba: Głowa Rodu, Małżonka, Potomek);
 3° **sakramentalium uczynku** (działanie: praca, modlitwa, służba, odpoczynek).
@@ -1090,21 +1035,9 @@
 4° **Obrzęd pojednania:** Triarchia Domowa (osoby) używa popiołu (rzecz) jako znaku skruchy i przebaczenia, przywracając jedność rodziny (uczynek);
 5° **Błogosławieństwo nowego przedsięwzięcia:** Głowa Rodu (osoba) zapala świecę (rzecz) i błogosławi nowe dzieło lub projekt (uczynek).
 
+### Rozdział III: Celebracje i obowiązki wiernych
 
-### Rozdział IV: Celebracje i obowiązki wiernych
-
-**Kan. 337.** Każdy wierny Kościoła Domowego ma prawo:
-1° być nauczany o cnotach, sakramentaliach, Darach i charyzmatach;
-2° uczestniczyć w celebracjach i obrzędach domowych;
-3° otrzymywać błogosławieństwa i sakramentalia;
-4° modlić się o Dary Ducha Świętego i charyzmaty;
-5° rozwijać swoje dary i talenty;
-6° korzystać z posługi Głowy Rodu jako szafarza świętego;
-7° wyrażać swoje potrzeby duchowe i prosić o odpowiednie sakramentalia;
-8° być traktowanym z godnością i szacunkiem w każdej celebracji.
-
-
-**Kan. 338.** Każdy wierny Kościoła Domowego ma obowiązek:
+**Kan. 323.** Każdy wierny Kościoła Domowego ma obowiązek:
 1° uczestniczyć w formacji duchowej stosownie do swojego wieku i stanu;
 2° szanować sakramentalia i przedmioty kultu;
 3° praktykować cnoty w codziennym życiu;
@@ -1114,35 +1047,44 @@
 7° zachowywać godność i powagę podczas celebracji;
 8° wspierać innych członków wspólnoty w ich rozwoju duchowym.
 
+**Kan. 324.** Głowa Rodu jako biskup domowy ma obowiązek:
+1° codziennie sprawować przynajmniej jedno błogosławieństwo integrujące wszystkie trzy wymiary;
+2° nauczać członków wspólnoty o znaczeniu integracji sakramentaliów;
+3° prowadzić Księgę Sakramentaliów, w której zapisuje sprawowane obrzędy;
+4° czuwać nad godnością i poprawnością sprawowanych sakramentaliów;
+5° dostosowywać formę sakramentaliów do okoliczności i potrzeb wspólnoty.
 
-## Tytuł XIII: FORMACJA I NAUCZANIE
-
-**Kan. 339 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
+**Kan. 325.** Każdy wierny Kościoła Domowego ma prawo:
+1° być nauczany o cnotach, sakramentaliach, Darach i charyzmatach;
+2° uczestniczyć w celebracjach i obrzędach domowych;
+3° otrzymywać błogosławieństwa i sakramentalia;
+4° modlić się o Dary Ducha Świętego i charyzmaty;
+5° rozwijać swoje dary i talenty;
+6° korzystać z posługi Głowy Rodu jako szafarza świętego;
+**Kan. 326 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
 **§ 2.** W sprawach nieuregulowanych niniejszą Księgą stosuje się przepisy Kodeksu Prawa Kanonicznego z 1983 roku, Prawo Boże, Prawo Naturalne i prawa człowieka.
 
 **§ 3.** Żaden przepis niniejszej Księgi nie może być interpretowany w sposób sprzeczny z Prawem Bożym, naruszający godność osoby ludzkiej lub ograniczający wolność sumienia.
 
-**Kan. 340.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 327.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° czuwać nad wiernym stosowaniem przepisów niniejszej Księgi;
 2° rozstrzygać wątpliwości interpretacyjne;
 3° dokonywać okresowych przeglądów i aktualizacji;
 4° konsultować zmiany z Triarchią Domową;
 5° zapewniać, by wszystkie przepisy były stosowane w duchu miłości, sprawiedliwości i miłosierdzia.
 
-**Kan. 341.** Najwyższą zasadą interpretacji i stosowania niniejszej Księgi jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (por. kan. 1752 KPK). Wszystkie przepisy dotyczące cnót, sakramentaliów, Darów i charyzmatów winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
+**Kan. 328.** Najwyższą zasadą interpretacji i stosowania niniejszej Księgi jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (por. kan. 1752 KPK). Wszystkie przepisy dotyczące cnót, sakramentaliów, Darów i charyzmatów winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
 
-## Tytuł XIV: CELEBRACJE I OBRZĘDY
+## Tytuł XIII: CELEBRACJE LITURGICZNE I FORMACJA
 
-**Kan. 327.** Głowa Rodu jako biskup domowy ma obowiązek:1° codziennie sprawować przynajmniej jedno błogosławieństwo integrujące wszystkie trzy wymiary;2° nauczać członków wspólnoty o znaczeniu integracji sakramentaliów;3° prowadzić Księgę Sakramentaliów, w której zapisuje sprawowane obrzędy;4° czuwać nad godnością i poprawnością sprawowanych sakramentaliów;5° dostosowywać formę sakramentaliów do okoliczności i potrzeb wspólnoty.
-
-**Kan. 342 § 1.** Szafarzem sakramentaliów narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 204 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
+**Kan. 329 § 1.** Szafarzem sakramentaliów narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 204 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
 
 **§ 2.** Małżonka jako współszafarka łaski może błogosławić narzędzia pracy domowej (misę, igłę, grzebień) w nieobecności Głowy Rodu lub za jego delegacją.
 
 **§ 3.** Potomstwo, po osiągnięciu używania rozumu, może uczestniczyć w obrzędach błogosławieństwa narzędzi jako ministranci i świadkowie.
 
-**Kan. 343.** Do sprawowania sakramentaliów narzędziowych wymagane jest:
+**Kan. 330.** Do sprawowania sakramentaliów narzędziowych wymagane jest:
 1° odpowiednie przygotowanie przez modlitwę i skupienie;
 2° używanie zatwierdzonych formuł błogosławieństw;
 3° obecność przynajmniej jednego członka wspólnoty domowej;
@@ -1150,14 +1092,14 @@
 5° intencja zgodna z duchem Kościoła;
 6° połączenie sakramentalium narzędziowego z odpowiednim sakramentalium rzeczowym.
 
-**Kan. 344.** Narzędzia pobłogosławione jako sakramentalia winny być:
+**Kan. 331.** Narzędzia pobłogosławione jako sakramentalia winny być:
 1° przechowywane w odpowiednim miejscu w domu (kaplica domowa, kącik modlitewny, warsztat);
 2° używane z szacunkiem i godnością;
 3° nieprofanowane ani nieużywane do celów sprzecznych z prawem Bożym;
 4° odnawiane w błogosławieństwie przynajmniej raz w roku;
 5° traktowane jako znaki Bożej obecności w codziennej pracy.
 
-**Kan. 345.** Sakramentalia narzędziowe sprawowane są:
+**Kan. 332.** Sakramentalia narzędziowe sprawowane są:
 1° przy poświęceniu nowego warsztatu, kuchni, ogrodu lub miejsca pracy;
 2° przy rozpoczęciu nowego przedsięwzięcia lub projektu;
 3° przy błogosławieństwie codziennej pracy;
@@ -1166,7 +1108,7 @@
 6° w okresach liturgicznych (Adwent, Wielki Post, Okres Zwykły);
 7° przy poświęceniu nowego domu lub mieszkania.
 
-**Kan. 346.** Ustanawia się następujące przyporządkowanie sakramentaliów narzędziowych do siedmiu poziomów duchowej integracji:
+**Kan. 333.** Ustanawia się następujące przyporządkowanie sakramentaliów narzędziowych do siedmiu poziomów duchowej integracji:
 
 | Lp. | Poziom / Czakra | Cnota | Sakrament | Sakramentalium rzeczowe | Sakramentalium narzędziowe | Dar | Charyzmat | Czynność błogosławieństwa |
 |-----|----------------|-------|-----------|------------------------|---------------------------|-----|-----------|--------------------------|
@@ -1178,7 +1120,7 @@
 | 6 | SAKRALNA (Swadhisthana) | Umiarkowanie | Kapłaństwo | Świeca/Ogień | **Grzebień** | Wiedza | Kreatywna Inspiracja | Błogosławieństwo grzebienia i świecy |
 | 7 | KORZENIOWA (Muladhara) | Pobożność | Małżeństwo | Ziemia | **Motyka** | Cierpliwość | Służenie | Błogosławieństwo motyki i ziemi |
 
-**Kan. 347 § 1.** Misa jest sakramentalium narzędziowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, sakramentalium rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
+**Kan. 334 § 1.** Misa jest sakramentalium narzędziowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, sakramentalium rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
 
 **§ 2.** Symbolika misy obejmuje:
 1° **Przyjmowanie z góry** — misa jest otwarta ku niebu, przyjmuje to, co spada z wysokości; jest obrazem duszy otwartej na łaskę Bożą;
@@ -1204,34 +1146,7 @@
 3° Darem **Mądrości** — misa przyjmuje i rozlewa mądrość Bożą;
 4° Charyzmatem **Proroctwa** — misa jest naczyniem objawienia, przyjmuje Słowo z góry.
 
-## Tytuł XV: CELEBRACJE LITURGICZNE
-
-**Kan. 328 § 1.** Głowa Rodu jako biskup domowy ma obowiązek prowadzić systematyczną formację członków wspólnoty w zakresie cnót, sakramentaliów, Darów i charyzmatów.**§ 2.** Formacja ta winna obejmować:1° cotygodniową katechezę domową (Obrządek Tomaszowy);2° codzienną modlitwę z elementami formacyjnymi (Obrządek Marii Magdaleny);3° miesięczne rekolekcje domowe (Obrządek Pawłowy);4° roczne podsumowanie formacji i planowanie na kolejny rok.**§ 3.** Program formacyjny winien być dostosowany do trzech obrządków domowych:1° w Obrządku Marii Magdaleny — akcent na kontemplację, miłosierdzie i świadectwo;2° w Obrządku Pawłowym — akcent na misję, ewangelizację i działanie Ducha Świętego;3° w Obrządku Tomaszowym — akcent na prawdę, rozum i systematyczne studium.
-
-**Kan. 329.** Formacja Potomstwa w zakresie cnót, sakramentaliów, Darów i charyzmatów winna przebiegać stopniowo:1° **do 7 roku życia:** wprowadzenie przez symbole, opowieści i proste błogosławieństwa;2° **od 7 do 10 roku życia:** podstawowa katecheza o sakramentaliach i cnotach;3° **od 10 do 14 roku życia:** systematyczna formacja w Darach Ducha Świętego;4° **od 14 do 18 roku życia:** pogłębiona formacja w charyzmatach i rozeznaniu powołania;5° **od 18 roku życia:** pełna odpowiedzialność za własne życie duchowe i formację.
-
-**Kan. 330.** Głowa Rodu ma prawo ustanawiać:1° dni szczególnej formacji w zakresie cnót;2° okresy ćwiczeń duchowych i praktyk sakramentaliów;3° celebracje związane z Darami Ducha Świętego;4° obrzędy potwierdzenia charyzmatów;5° nagrody i wyróżnienia za rozwój duchowy członków wspólnoty.
-
-**Kan. 331.** W Kościele Domowym ustanawia się następujące celebracje związane z cnotami, sakramentaliami, Darami i charyzmatami:
-
-**Kan. 332 — Celebracja Siedmiu Sakramentaliów (raz w roku, w święto patronalne Kościoła Domowego):**1° Głowa Rodu błogosławi kolejno wszystkie siedem sakramentaliów rzeczowych;2° każdy członek wspólnoty otrzymuje błogosławieństwo każdym sakramentalium;3° odmawiana jest modlitwa o wszystkie siedem Darów Ducha Świętego;4° Głowa Rodu potwierdza charyzmaty obecne we wspólnocie;5° celebracja kończy się wspólnym posiłkiem (chleb) i zapaleniem świecy.
-
-**Kan. 333 — Celebracja Odnowienia Przyrzeczeń (w Wigilię Paschalną lub rocznicę chrztu):**1° Głowa Rodu błogosławi wodę i odnawia przyrzeczenia chrzcielne wspólnoty;2° każdy członek wspólnoty odnawia swoje przyrzeczenia;3° następuje pokropienie wodą święconą;4° odmawiana jest modlitwa o Dar Mądrości i Charyzmat Proroctwa;5° celebracja kończy się błogosławieństwem pontyfikalnym.
-
-**Kan. 334 — Celebracja Pojednania (w Wielkim Poście lub w razie potrzeby):**1° Głowa Rodu błogosławi popiół;2° następuje rachunek sumienia wspólnoty;3° każdy członek wyznaje swoje winy i prosi o przebaczenie;4° Głowa Rodu udziela błogosławieństwa przebaczenia;5° następuje obrzęd pokoju i wspólna modlitwa;6° celebracja kończy się postanowieniem poprawy.
-
-**Kan. 335 — Celebracja Posłania Misyjnego (w Niedzielę Misyjną lub przy okazji ewangelizacji):**
-1° Głowa Rodu błogosławi sól i olej;
-2° odmawiana jest modlitwa o Dar Mocy i Charyzmat Języków;
-3° następuje nałożenie rąk na posyłanych;
-4° Głowa Rodu udziela błogosławieństwa apostolskiego;
-5° posyłani otrzymują znak krzyża na czole.
-
-**Kan. 336.** Postanowienia dotyczące celebracji cnót, sakramentaliów, Darów i charyzmatów zawarte w kan. 327–335 stosuje się odpowiednio do Sakramentaliów Kultowych opisanych w Tytule XVII.
-
-## Tytuł XVI: PRAWA I OBOWIĄZKI WIERNYCH
-
-**Kan. 348 § 1.** Siekiera jest sakramentalium narzędziowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, sakramentalium rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
+**Kan. 335 § 1.** Siekiera jest sakramentalium narzędziowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, sakramentalium rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
 
 **§ 2.** Symbolika siekiery obejmuje:
 1° **Odcinanie** — siekiera odcina to, co martwe, chore, niepotrzebne; jest obrazem rozeznania, które oddziela prawdę od fałszu;
@@ -1257,7 +1172,7 @@
 3° Darem **Rozumu** — siekiera jest narzędziem głębokiego zrozumienia, które przecina powierzchnię;
 4° Charyzmatem **Rozróżniania Duchów** — siekiera oddziela, rozpoznaje, decyduje.
 
-**Kan. 349 § 1.** Nóż jest sakramentalium narzędziowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, sakramentalium rzeczowym chleba, Darem Rady i Charyzmatem Języków.
+**Kan. 336 § 1.** Nóż jest sakramentalium narzędziowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, sakramentalium rzeczowym chleba, Darem Rady i Charyzmatem Języków.
 
 **§ 2.** Symbolika noża obejmuje:
 1° **Dzielenie chleba** — nóż kroi chleb Eucharystii i codziennego posiłku; jest obrazem dzielenia się Słowem Bożym i pokarmem;
@@ -1283,9 +1198,7 @@
 3° Darem **Rady** — nóż jest narzędziem właściwych decyzji, które „odcinają" to, co zbędne;
 4° Charyzmatem **Języków** — nóż jest obrazem słowa, które dzieli, komunikuje, karmi.
 
-## Tytuł XVII: PRZEPISY KOŃCOWE TYTUŁÓW VII–XII
-
-**Kan. 350 § 1.** Igła jest sakramentalium narzędziowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, sakramentalium rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
+**Kan. 337 § 1.** Igła jest sakramentalium narzędziowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, sakramentalium rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
 
 **§ 2.** Symbolika igły obejmuje:
 1° **Łączenie** — igła łączy to, co rozdarte; jest obrazem miłosierdzia, które przywraca jedność;
@@ -1311,7 +1224,7 @@
 3° Darem **Miłosierdzia** — igła jest narzędziem miłosierdzia, które nie rani, lecz leczy;
 4° Charyzmatem **Uzdrawiania** — igła zszywa rany, przywraca całość, leczy.
 
-**Kan. 351 § 1.** Młotek jest sakramentalium narzędziowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, sakramentalium rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
+**Kan. 338 § 1.** Młotek jest sakramentalium narzędziowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, sakramentalium rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
 
 **§ 2.** Symbolika młotka obejmuje:
 1° **Budowanie** — młotek buduje dom, tworzy strukturę; jest obrazem Męstwa, które buduje Królestwo Boże;
@@ -1337,7 +1250,7 @@
 3° Darem **Mocy** — młotek jest narzędziem mocy, która przekształca rzeczywistość;
 4° Charyzmatem **Czynów Mocy** — młotek tworzy dzieła, które są znakami Bożej obecności.
 
-**Kan. 352 § 1.** Grzebień jest sakramentalium narzędziowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, sakramentalium rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
+**Kan. 339 § 1.** Grzebień jest sakramentalium narzędziowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, sakramentalium rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
 
 **§ 2.** Symbolika grzebienia obejmuje:
 1° **Porządkowanie** — grzebień porządkuje, nadaje kształt; jest obrazem Umiarkowania, które wprowadza harmonię;
@@ -1363,7 +1276,7 @@
 3° Darem **Wiedzy** — grzebień jest narzędziem twórczej mądrości, która zna miarę i kształt;
 4° Charyzmatem **Kreatywnej Inspiracji** — grzebień tworzy piękno, porządkuje chaos, inspiruje.
 
-**Kan. 353 § 1.** Motyka jest sakramentalium narzędziowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, sakramentalium rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
+**Kan. 340 § 1.** Motyka jest sakramentalium narzędziowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, sakramentalium rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
 
 **§ 2.** Symbolika motyki obejmuje:
 1° **Uprawa ziemi** — motyka uprawia ziemię, przygotowuje ją na zasiew; jest obrazem cierpliwej pracy i wierności;
@@ -1389,7 +1302,7 @@
 3° Darem **Cierpliwości** — motyka wymaga codziennego, cierpliwego trudu;
 4° Charyzmatem **Służenia** — motyka służy wzrostowi, karmi, buduje wspólnotę.
 
-**Kan. 354 § 1.** Obrzęd błogosławieństwa sakramentaliów narzędziowych obejmuje:
+**Kan. 341 § 1.** Obrzęd błogosławieństwa sakramentaliów narzędziowych obejmuje:
 1° znak krzyża i wezwanie Ducha Świętego;
 2° czytanie odpowiedniego fragmentu Pisma Świętego;
 3° modlitwę błogosławieństwa (formuły określone w kan. 376-382);
@@ -1406,7 +1319,7 @@
 
 ### Art. 2 — Obrzęd zbiorowy siedmiu narzędzi
 
-**Kan. 355 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu sakramentaliów narzędziowych.
+**Kan. 342 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu sakramentaliów narzędziowych.
 
 **§ 2.** Obrzęd zbiorowy obejmuje:
 1° przygotowanie miejsca obrzędu (kaplica domowa lub stół rodzinny);
@@ -1431,7 +1344,7 @@
 
 ### Art. 3 — Obrzęd codzienny
 
-**Kan. 356 § 1.** Głowa Rodu lub Małżonka może codziennie sprawować krótki obrzęd błogosławieństwa narzędzia używanego danego dnia w pracy.
+**Kan. 343 § 1.** Głowa Rodu lub Małżonka może codziennie sprawować krótki obrzęd błogosławieństwa narzędzia używanego danego dnia w pracy.
 
 **§ 2.** Obrzęd codzienny obejmuje:
 1° znak krzyża;
@@ -1440,7 +1353,7 @@
 
 **§ 3.** Obrzęd codzienny trwa nie dłużej niż jedną minutę i może być sprawowany w milczeniu, w intencji serca.
 
-**Kan. 357 § 1.** Głowa Rodu jako biskup domowy ma obowiązek nauczać członków wspólnoty o znaczeniu sakramentaliów narzędziowych i ich związku z życiem duchowym.
+**Kan. 344 § 1.** Głowa Rodu jako biskup domowy ma obowiązek nauczać członków wspólnoty o znaczeniu sakramentaliów narzędziowych i ich związku z życiem duchowym.
 
 **§ 2.** Nauczanie o sakramentaliach narzędziowych winno obejmować:
 1° wyjaśnienie symboliki każdego narzędzia;
@@ -1456,13 +1369,13 @@
 4° od 14 do 18 roku życia — praktyczne zastosowanie w pracy i powołaniu;
 5° od 18 roku życia — pełna odpowiedzialność za własne sakramentalia narzędziowe.
 
-**Kan. 358.** Głowa Rodu ma obowiązek prowadzić Księgę Sakramentaliów Narzędziowych, w której zapisuje:
+**Kan. 345.** Głowa Rodu ma obowiązek prowadzić Księgę Sakramentaliów Narzędziowych, w której zapisuje:
 1° daty błogosławieństw poszczególnych narzędzi;
 2° okoliczności i intencje błogosławieństw;
 3° uczestników obrzędów;
 4° szczególne łaski i owoce duchowe związane z sakramentaliami.
 
-**Kan. 359 § 1.** Sakramentalia narzędziowe nie mogą być:
+**Kan. 346 § 1.** Sakramentalia narzędziowe nie mogą być:
 1° sprzedawane ani używane do celów handlowych;
 2° używane do celów sprzecznych z prawem Bożym;
 3° traktowane jako przedmioty magiczne lub talizmany;
@@ -1475,13 +1388,70 @@
 3° używane w obrzędach liturgicznych Kościoła Domowego;
 4° łączone z sakramentaliami rzeczowymi i osobowymi.
 
-**Kan. 360.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
+**Kan. 347.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
-**Kan. 361.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące sakramentaliów narzędziowych winny być stosowane w taki sposób, by służyły uświęceniu pracy, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
+**Kan. 348.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące sakramentaliów narzędziowych winny być stosowane w taki sposób, by służyły uświęceniu pracy, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
 
-## Tytuł XVIII: SAKRAMENTALIA KULTOWE W KOŚCIELE DOMOWYM
+## Tytuł XIV: SAKRAMENTALIA NARZĘDZIOWE
 
-**Kan. 362 § 1.** Sakramentalia Kultowe są świętymi znakami ustanowionymi w Kościele Domowym, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe, w wymiarze kultu, modlitwy i kontemplacji (por. kan. 1166 KPK).
+**Kan. 349 § 1.** Głowa Rodu jako biskup domowy ma obowiązek prowadzić systematyczną formację członków wspólnoty w zakresie cnót, sakramentaliów, Darów i charyzmatów.
+**§ 2.** Formacja ta winna obejmować:
+1° cotygodniową katechezę domową (Obrządek Tomaszowy);
+2° codzienną modlitwę z elementami formacyjnymi (Obrządek Marii Magdaleny);
+3° miesięczne rekolekcje domowe (Obrządek Pawłowy);
+4° roczne podsumowanie formacji i planowanie na kolejny rok.
+**§ 3.** Program formacyjny winien być dostosowany do trzech obrządków domowych:
+1° w Obrządku Marii Magdaleny — akcent na kontemplację, miłosierdzie i świadectwo;
+2° w Obrządku Pawłowym — akcent na misję, ewangelizację i działanie Ducha Świętego;
+3° w Obrządku Tomaszowym — akcent na prawdę, rozum i systematyczne studium.
+
+**Kan. 350.** Formacja Potomstwa w zakresie cnót, sakramentaliów, Darów i charyzmatów winna przebiegać stopniowo:
+1° **do 7 roku życia:** wprowadzenie przez symbole, opowieści i proste błogosławieństwa;
+2° **od 7 do 10 roku życia:** podstawowa katecheza o sakramentaliach i cnotach;
+3° **od 10 do 14 roku życia:** systematyczna formacja w Darach Ducha Świętego;
+4° **od 14 do 18 roku życia:** pogłębiona formacja w charyzmatach i rozeznaniu powołania;
+5° **od 18 roku życia:** pełna odpowiedzialność za własne życie duchowe i formację.
+
+**Kan. 351.** Głowa Rodu ma prawo ustanawiać:
+1° dni szczególnej formacji w zakresie cnót;
+2° okresy ćwiczeń duchowych i praktyk sakramentaliów;
+3° celebracje związane z Darami Ducha Świętego;
+4° obrzędy potwierdzenia charyzmatów;
+5° nagrody i wyróżnienia za rozwój duchowy członków wspólnoty.
+
+**Kan. 352.** W Kościele Domowym ustanawia się następujące celebracje związane z cnotami, sakramentaliami, Darami i charyzmatami:
+
+**Kan. 353 — Celebracja Siedmiu Sakramentaliów (raz w roku, w święto patronalne Kościoła Domowego):**1° Głowa Rodu błogosławi kolejno wszystkie siedem sakramentaliów rzeczowych;
+2° każdy członek wspólnoty otrzymuje błogosławieństwo każdym sakramentalium;
+3° odmawiana jest modlitwa o wszystkie siedem Darów Ducha Świętego;
+4° Głowa Rodu potwierdza charyzmaty obecne we wspólnocie;
+5° celebracja kończy się wspólnym posiłkiem (chleb) i zapaleniem świecy.
+
+**Kan. 354 — Celebracja Odnowienia Przyrzeczeń (w Wigilię Paschalną lub rocznicę chrztu):**1° Głowa Rodu błogosławi wodę i odnawia przyrzeczenia chrzcielne wspólnoty;
+2° każdy członek wspólnoty odnawia swoje przyrzeczenia;
+3° następuje pokropienie wodą święconą;
+4° odmawiana jest modlitwa o Dar Mądrości i Charyzmat Proroctwa;
+5° celebracja kończy się błogosławieństwem pontyfikalnym.
+
+**Kan. 355 — Celebracja Pojednania (w Wielkim Poście lub w razie potrzeby):**1° Głowa Rodu błogosławi popiół;
+2° następuje rachunek sumienia wspólnoty;
+3° każdy członek wyznaje swoje winy i prosi o przebaczenie;
+4° Głowa Rodu udziela błogosławieństwa przebaczenia;
+5° następuje obrzęd pokoju i wspólna modlitwa;
+6° celebracja kończy się postanowieniem poprawy.
+
+**Kan. 356 — Celebracja Posłania Misyjnego (w Niedzielę Misyjną lub przy okazji ewangelizacji):**
+1° Głowa Rodu błogosławi sól i olej;
+2° odmawiana jest modlitwa o Dar Mocy i Charyzmat Języków;
+3° następuje nałożenie rąk na posyłanych;
+4° Głowa Rodu udziela błogosławieństwa apostolskiego;
+5° posyłani otrzymują znak krzyża na czole.
+
+**Kan. 357.** Postanowienia dotyczące celebracji cnót, sakramentaliów, Darów i charyzmatów zawarte w kan. 349–356 stosuje się odpowiednio do Sakramentaliów Kultowych opisanych w Tytule XV.
+
+## Tytuł XV: SAKRAMENTALIA KULTOWE W KOŚCIELE DOMOWYM
+
+**Kan. 358 § 1.** Sakramentalia Kultowe są świętymi znakami ustanowionymi w Kościele Domowym, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe, w wymiarze kultu, modlitwy i kontemplacji (por. kan. 1166 KPK).
 
 **§ 2.** Sakramentalia Kultowe różnią się od sakramentaliów rzeczowych tym, że nie są elementami natury (żywiołami), lecz **przedmiotami wykonanymi ludzką ręką i przeznaczonymi wyłącznie do użytku sakralnego**. Różnią się od sakramentaliów narzędziowych tym, że nie służą pracy fizycznej, lecz **bezpośrednio kultowi, modlitwie i kontemplacji**.
 
@@ -1493,13 +1463,13 @@
 5° traktowane z najwyższym szacunkiem i czcią;
 6° odnawiane w błogosławieństwie przynajmniej raz w roku.
 
-**Kan. 363 § 1.** Szafarzem błogosławieństwa i poświęcenia sakramentaliów kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 1168 KPK, kan. 230 § 3 KPK).
+**Kan. 359 § 1.** Szafarzem błogosławieństwa i poświęcenia sakramentaliów kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 1168 KPK, kan. 230 § 3 KPK).
 
 **§ 2.** Małżonka jako współszafarka łaski może błogosławić sakramentalia kultowe w nieobecności Głowy Rodu lub za jego delegacją.
 
 **§ 3.** Potomstwo, po osiągnięciu używania rozumu, może uczestniczyć w obrzędach błogosławieństwa jako ministranci i świadkowie.
 
-**Kan. 364.** Sakramentalia Kultowe nie mogą być:
+**Kan. 360.** Sakramentalia Kultowe nie mogą być:
 1° sprzedawane dla zysku (por. kan. 1190 § 1 KPK);
 2° używane do celów świeckich lub niewłaściwych (por. kan. 1210 KPK);
 3° profanowane ani niszczone z braku szacunku;
@@ -1507,13 +1477,13 @@
 5° zastępować sakramentów świętych;
 6° przedmiotem handlu lub spekulacji.
 
-**Kan. 365.** W przypadku zniszczenia lub zużycia sakramentalium kultowego, należy je:
+**Kan. 361.** W przypadku zniszczenia lub zużycia sakramentalium kultowego, należy je:
 1° spalić z godnością (krucyfiks, obraz, różaniec, ręcznik, szkaplerz);
 2° zakopać w ziemi poświęconej (krucyfiks, obraz);
 3° oddać do kościoła parafialnego w celu godnego zniszczenia;
 4° nigdy nie wyrzucać do śmieci ani nie porzucać.
 
-**Kan. 366.** Ustanawia się następujące przyporządkowanie Sakramentaliów Kultowych do siedmiu poziomów duchowej integracji:
+**Kan. 362.** Ustanawia się następujące przyporządkowanie Sakramentaliów Kultowych do siedmiu poziomów duchowej integracji:
 
 | Lp. | Poziom / Czakra | Cnota | Sakrament | Sakr. rzeczowe | **Sakramentalium Kultowe** | Dar | Charyzmat | Czynność |
 |-----|----------------|-------|-----------|---------------|---------------------------|-----|-----------|----------|
@@ -1525,7 +1495,7 @@
 | 6 | SAKRALNA (Swadhisthana) | Umiarkowanie | Kapłaństwo | Świeca/Ogień | **Różaniec** | Wiedza | Kreatywna Inspiracja | Modlitwa rytmiczna i medytacja |
 | 7 | KORZENIOWA (Muladhara) | Pobożność | Małżeństwo | Ziemia | **Szkaplerz** | Cierpliwość | Służenie | Nałożenie i przyjęcie przymierza |
 
-**Kan. 367 § 1.** Ręcznik jest sakramentalium kultowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, sakramentalium rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
+**Kan. 363 § 1.** Ręcznik jest sakramentalium kultowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, sakramentalium rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
 
 **§ 2.** Symbolika ręcznika obejmuje:
 1° **Obmycie** — ręcznik jest znakiem oczyszczenia, nowego życia i odrodzenia w Chrystusie; jest przedłużeniem sakramentu chrztu w codziennym życiu;
@@ -1555,7 +1525,7 @@
 
 **§ 6.** Ręcznik łączy się z sakramentalium rzeczowym **wody** — ręcznik jest przedłużeniem wody, znakiem dopełnienia obmycia; z cnotą **Nadziei** — ręcznik jest znakiem nowego życia, ku któremu zmierzamy; z Darem **Mądrości** — ręcznik jest znakiem mądrości Krzyża, która wyraża się w służbie; z Charyzmatem **Proroctwa** — ręcznik jest znakiem przyszłego Królestwa, w którym służba jest najwyższą godnością.
 
-**Kan. 368 § 1.** Obraz jest sakramentalium kultowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, sakramentalium rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
+**Kan. 364 § 1.** Obraz jest sakramentalium kultowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, sakramentalium rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
 
 **§ 2.** Symbolika obrazu obejmuje:
 1° **Widzenie** — obraz jest znakiem duchowego widzenia, zdolności dostrzegania Bożej obecności w świecie; jest oknem ku Niewidzialnemu;
@@ -1592,7 +1562,7 @@
 4° nie mogą być przedmiotem kultu sam w sobie, lecz winny kierować ku Temu, kogo przedstawiają;
 5° w przypadku zniszczenia — spalone lub zakopane z godnością.
 
-**Kan. 369 § 1.** Gong jest sakramentalium kultowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, sakramentalium rzeczowym chleba, Darem Rady i Charyzmatem Języków.
+**Kan. 365 § 1.** Gong jest sakramentalium kultowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, sakramentalium rzeczowym chleba, Darem Rady i Charyzmatem Języków.
 
 **§ 2.** Symbolika gongu obejmuje:
 1° **Głos** — gong jest znakiem głosu Bożego, który wzywa, gromadzi i przemawia; jest obrazem Słowa, które staje się słyszalne;
@@ -1622,7 +1592,7 @@
 
 **§ 6.** Gong łączy się z sakramentalium rzeczowym **chleba** — chleb jest łamany i dzielony, gong jest uderzany i rozbrzmiewa; oba są znakiem dzielenia się i komunikacji; z cnotą **Skrupulatności** — gong wymaga czystego uderzenia, czystego dźwięku, autentyczności; z Darem **Rady** — gong jest głosem, który doradza, wzywa, kieruje; z Charyzmatem **Języków** — gong jest dźwiękiem, który przemawia językiem ducha, gromadzi i jednoczy.
 
-**Kan. 370 § 1.** Krucyfiks jest sakramentalium kultowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, sakramentalium rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
+**Kan. 366 § 1.** Krucyfiks jest sakramentalium kultowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, sakramentalium rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
 
 **§ 2.** Symbolika krucyfiksa obejmuje:
 1° **Ofiara** — krucyfiks jest znakiem najwyższej Ofiary, Chrystusa ukrzyżowanego za grzechy świata; jest obrazem miłości, która oddaje życie za drugiego;
@@ -1662,7 +1632,7 @@
 5° być miejscem, przy którym rodzina gromadzi się na modlitwę;
 6° być znakiem, wobec którego dokonuje się obrzęd pojednania.
 
-**Kan. 371 § 1.** Kadzielnica jest sakramentalium kultowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, sakramentalium rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
+**Kan. 367 § 1.** Kadzielnica jest sakramentalium kultowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, sakramentalium rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
 
 **§ 2.** Symbolika kadzielnicy obejmuje:
 1° **Wstępowanie** — kadzielnica jest znakiem modlitwy wstępującej do Boga; „Niech moja modlitwa będzie jak kadzidło przed Tobą" (Ps 141,2); jest obrazem wznoszenia się ku Absolutowi;
@@ -1693,7 +1663,7 @@
 
 **§ 6.** Kadzielnica łączy się z sakramentalium rzeczowym **oleju** — olej namaszcza i umacnia, kadzielnica wznosi i przemienia; oba są znakiem umocnienia i przemiany; z cnotą **Męstwa** — kadzielnica wymaga odwagi, by modlitwa wstąpiła ku Bogu mimo przeszkód; z Darem **Mocy** — kadzielnica jest znakiem mocy modlitwy, która przenika niebiosa; z Charyzmatem **Czynów Mocy** — kadzielnica jest znakiem obecności Boga, która przemienia rzeczywistość.
 
-**Kan. 372 § 1.** Różaniec jest sakramentalium kultowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, sakramentalium rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
+**Kan. 368 § 1.** Różaniec jest sakramentalium kultowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, sakramentalium rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
 
 **§ 2.** Symbolika różańca obejmuje:
 1° **Rytm** — różaniec jest znakiem rytmu modlitwy, powtarzalności, która nie jest monotonią, lecz pogłębianiem; jest obrazem bicia serca, które nie ustaje;
@@ -1725,7 +1695,7 @@
 
 **§ 6.** Różaniec łączy się z sakramentalium rzeczowym **świecy i ognia** — ogień oświetla i inspiruje, różaniec prowadzi i pogłębia; oba są znakiem światła i ciepła modlitwy; z cnotą **Umiarkowania** — różaniec wymaga umiarkowania, rytmu, równowagi między powtarzalnością a nowością; z Darem **Wiedzy** — różaniec jest narzędziem twórczej mądrości, która poznaje przez powtarzanie i medytację; z Charyzmatem **Kreatywnej Inspiracji** — różaniec jest źródłem inspiracji, która rodzi nowe zrozumienie starych tajemnic.
 
-**Kan. 373 § 1.** Szkaplerz jest sakramentalium kultowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, sakramentalium rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
+**Kan. 369 § 1.** Szkaplerz jest sakramentalium kultowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, sakramentalium rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
 
 **§ 2.** Symbolika szkaplerza obejmuje:
 1° **Przymierze** — szkaplerz jest znakiem przymierza, przynależności do rodziny Bożej; jest obrazem więzi, która łączy człowieka z Bogiem i ze wspólnotą;
@@ -1758,7 +1728,7 @@
 
 **§ 6.** Szkaplerz łączy się z sakramentalium rzeczowym **ziemi** — ziemia jest fundamentem, szkaplerz jest okryciem; oba są znakiem zakorzenienia i przynależności; z cnotą **Pobożności** — szkaplerz jest znakiem codziennej, wiernej, pokornej pobożności; z Darem **Cierpliwości** — szkaplerz wymaga codziennego, cierpliwego noszenia, trwania w przymierzu; z Charyzmatem **Służenia** — szkaplerz jest znakiem służby, noszenia jarzma Chrystusowego w codziennym życiu.
 
-**Kan. 374 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu Sakramentaliów Kultowych.
+**Kan. 370 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu Sakramentaliów Kultowych.
 
 **§ 2.** Obrzęd zbiorowy obejmuje:
 1° przygotowanie miejsca obrzędu (kaplica domowa lub ołtarzyk);
@@ -1774,7 +1744,7 @@
 11° błogosławieństwo pontyfikalne;
 12° wspólny posiłek (chleb i wino/woda).
 
-**Kan. 375.** Głowa Rodu ma obowiązek prowadzić **Księgę Sakramentaliów Kultowych**, w której zapisuje:
+**Kan. 371.** Głowa Rodu ma obowiązek prowadzić **Księgę Sakramentaliów Kultowych**, w której zapisuje:
 1° daty błogosławieństw poszczególnych sakramentaliów;
 2° okoliczności i intencje błogosławieństw;
 3° uczestników obrzędów;
@@ -1782,9 +1752,9 @@
 5° daty odnowienia błogosławieństw;
 6° daty zniszczenia lub wymiany sakramentaliów.
 
-**Kan. 376.** Sakramentalia Kultowe winny być traktowane z najwyższą czcią i szacunkiem, jako znaki obecności Bożej w domu. Ich profanacja lub celowe zniszczenie stanowi ciężkie naruszenie Prawa Bożego i podlega przepisom kan. 1376 KPK (profanacja rzeczy świętej).
+**Kan. 372.** Sakramentalia Kultowe winny być traktowane z najwyższą czcią i szacunkiem, jako znaki obecności Bożej w domu. Ich profanacja lub celowe zniszczenie stanowi ciężkie naruszenie Prawa Bożego i podlega przepisom kan. 1376 KPK (profanacja rzeczy świętej).
 
-**Kan. 377.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 373.** Głowa Rodu jako biskup domowy ma obowiązek:
 1° czuwać nad godnym przechowywaniem i używaniem sakramentaliów kultowych;
 2° nauczać członków wspólnoty o znaczeniu i symbolice każdego sakramentalium;
 3° odnawiać błogosławieństwa sakramentaliów przynajmniej raz w roku;
@@ -1792,9 +1762,13 @@
 5° dbać o to, by sakramentalia nie były używane do celów świeckich;
 6° przekazywać wiedzę o sakramentaliach Potomstwu.
 
-**Kan. 378.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
+**Kan. 374.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
-**Kan. 379.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące Sakramentaliów Kultowych winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
+**Kan. 375.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące Sakramentaliów Kultowych winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
+---
+
+7° wyrażać swoje potrzeby duchowe i prosić o odpowiednie sakramentalia;
+8° być traktowanym z godnością i szacunkiem w każdej celebracji.
 
 **Uwagi redakcyjne:**
 
