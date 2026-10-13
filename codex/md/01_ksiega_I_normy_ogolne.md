@@ -15,7 +15,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **Kan. 1 § 1.** Kanony niniejszego Kodeksu dotyczą Kościoła Domowego jako partykularnej wspólnoty wiernych, erygowanej na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu, i regulują jego ustrój, liturgię, posługi, zadania oraz porządek prawny.
 
-**§ 2.** Kościół Domowy, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
+**§ 2.** Kościół Domowy, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą wg tradycji ludzkiej powstałej od niepamiętnych czasów i tradycji rodzinnej powstałej przed trzydziestoma laty na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
 
 **§ 3.** Niniejszy Kanon nie uchyla ani nie zmienia przepisów Kodeksu Prawa Kanonicznego z 1983 roku w zakresie, w jakim dotyczą one Kościoła Powszechnego, lecz stanowi prawo partykularne wspólnoty domowej, działającej w ramach powszechnego kapłaństwa wiernych (kan. 204 KPK) oraz teologii Kościoła Domowego (*Ecclesia Domestica*).
 
