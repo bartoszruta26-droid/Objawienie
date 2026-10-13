@@ -319,12 +319,3 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 3° dzieci są żywymi członkami Ludu Bożego, nie przedmiotem władzy rodzicielskiej;
 4° władza w Kościele Domowym jest służbą, a każda forma dominacji duchowej jest sprzeczna z Ewangelią;
 5° jedność z Kościołem Powszechnym pozostaje normą i gwarancją autentyczności domowego kapłaństwa.
-
----
-
-**Uwagi redakcyjne:**
-
-1. *Scalenie:* dawny Kan. 357 § 1 (równość godności, kan. 8 KPK) dublował kan. 34 Księgi II — zachowano tylko elementy uzupełniające (nowy kan. 289).
-2. *Numeracja:* dawny Kan. 357a (oznaczony literą) otrzymał numer 377; cała Księga objęła kanony 376–405.
-3. *Poprawki tekstu:* literówki „Głowa Rodzu” → „Głowa Rodu”; w dawnym Kan. 362 § 1 pkt 3 „współformatorów” → „współformatora” (rodzaj gramatyczny); w dawnym Kan. 380 pkt 1 usunięto pozostałość obcego zapisu („形成”) i zastąpiono polskim odpowiednikiem „formować”.
-4. *Przeniesienie:* materia niniejszej Księgi (posługi i współudział Triarchii) należała tematycznie do Księgi o Ludzie Bożym; wydzielono ją jako odrębną Księgę V ze względu na rozmiar i autonomię przedmiotu, zachowając odesłania do kan. 34–48.
