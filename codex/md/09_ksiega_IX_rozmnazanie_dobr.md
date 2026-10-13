@@ -2,20 +2,6 @@
 
 ## *De multiplicatione et transmissione bonorum spiritualium, intellectualium et materialium necnon de erectione novarum Ecclesiarum Domesticarum, Subdioecesium et Dioecesium*
 
-*(Redakcja porządkująca: dawna „Księga XVII — Poprawiona” z pliku `ksiegi08.txt`, opracowana w `codex/ksiegi08b.txt`. Kanonom nadano numerację ciągłą **kan. 434–462** jako kontynuację ciągu kan. 1–433; zakres ten potwierdza obowiązujący spis treści (`99_spis_tresci.md`).)*
-
-## SPIS TREŚCI KSIĘGI
-
-- **Tytuł I: ZASADA ROZMNAŻANIA DÓBR DUCHOWYCH** — kan. 434–438
-- **Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH** — kan. 439–441
-- **Tytuł III: USTANAWIANIE NOWYCH KOŚCIOŁÓW DOMOWYCH PRZEZ CZŁONKÓW W ZWIĄZKACH** — kan. 442–445
-- **Tytuł IV: TYTUŁ BISKUPA NIEUŚWIĘCONEGO I USTANAWIANIE SUBDIECEZJI** — kan. 446–449
-- **Tytuł V: DĄŻENIE DO PRZYJĘCIA PRZEZ BISKUPA RZYMU I USTANOWIENIE DIECEZJI** — kan. 450–452
-- **Tytuł VI: ROZMNAŻANIE I PODZIAŁ DÓBR MATERIALNYCH** — kan. 453–456
-- **Tytuł VII: SUKCESJA PO ŚMIERCI RODZICÓW** — kan. 457–459
-- **Tytuł VIII: PRZEPISY KOŃCOWE** — kan. 460–462
--   **ANEKS DO KSIĘGI IX — TABELA ROZMNAŻANIA DÓBR**
-
 ---
 
 ### PREAMBUŁA KSIĘGI
@@ -581,57 +567,4 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 7° uzasadniający przemoc, manipulację czy przymus;
 
 8° naruszający jedność z Biskupem Rzymskim i Kościołem Powszechnym.
-
-## ANEKS DO KSIĘGI IX — TABELA ROZMNAŻANIA DÓBR
-
-| Rodzaj dobra | Czy można rozmnożyć? | Sposób rozmnażania | Uwagi |
-|---|---|---|---|
-| Tytuł duchownego | Tak | Błogosławieństwo z nałożeniem rąk | Nie wymaga święceń |
-| Tytuł kapłana domowego | Tak | Błogosławieństwo kapłańskie domowe | Wynika z powszechnego kapłaństwa |
-| Tytuł szafarza świętego | Tak | Błogosławieństwo szafarskie | Wymaga formacji |
-| Tytuł arcykapłana | Tak | Przekazanie urzędu lub ustanowienie nowego | Jeden na Kościół Domowy |
-| Tytuł biskupa nieuświęconego | Tak | Założenie nowego Kościoła Domowego | Nie wymaga święceń |
-| Tytuł biskupa tytularnego subdiecezjalnego | Tak | Ustanowienie subdiecezji | Wymaga mandatu lub wyboru |
-| Sakramentalia rzeczowe | Tak | Błogosławienie nowych przedmiotów | Woda, sól, chleb, popiół, olej, świeca, ziemia |
-| Sakramentalia narzędziowe | Tak | Błogosławienie nowych narzędzi | Igła, siekiera, nóż, misa, młotek, grzebień, motyka |
-| Sakramentalia kultowe | Tak | Poświęcenie nowych przedmiotów | Krucyfiks, szkaplerz, obraz, różaniec, gong, kadzielnica, ręcznik |
-| Obrządki domowe | Tak | Przekazanie ksiąg i tradycji | Trzy obrządki: Marii Magdaleny, Pawłowy, Tomaszowy |
-| Kanony i statuty | Tak | Kopiowanie i adaptacja | Z zachowaniem istoty |
-| Wiedza i formacja | Tak | Nauczanie i katecheza | Nie wyczerpuje się przez przekazywanie |
-| Charyzmaty | Tak | Modlitwa i nałożenie rąk | Dar Ducha Świętego |
-| Dary Ducha Świętego | Tak | Modlitwa i *invocatio* | Siedem Darów |
-| Dobra materialne | Tak, jeśli możliwe | Podział, uzupełnienie, pozyskanie nowych | Zasada rozmnażania |
-| Dom rodzinny | Nie (fizycznie) | Udostępnienie lub spłata | Pozostaje jako miejsce kultu (kan. 466–470) |
-| Kaplica domowa | Nie (fizycznie) | Udostępnienie | Centrum życia liturgicznego |
-| Archiwum | Tak | Kopiowanie dokumentów | Oryginał pozostaje w Kościele macierzystym |
-| **Patriarchat subdiecezji domowych** | **Nie** | **Wyłącznie wybór na synodzie i potwierdzenie Biskupa Rzymskiego** | kan. 383–385 (Księga VIII) |
-| Urząd Biskupa Rzymskiego | Nie | — | Jeden w jednym czasie |
-| Urząd biskupa diecezjalnego | Nie | — | Jeden na jedną diecezję |
-
----
-
-## TABELA PRZEKIEROWAŃ (DAWNE NUMERY → NOWA NUMERACJA)
-
-*Tabela ma wyłącznie charakter historyczno-porządkowy. Numery z kolumny „Dawny przepis” należą do zniesionej numeracji źródłowej i nie stanowią obowiązujących odesłań krzyżowych; w sprawach przez nie regulowanych zastosowanie mają odpowiedniki z kolumny „Nowy kanon” — zgodnie z przepisami tego kanonu.*
-
-| Dawny przepis | Przedmiot | Nowy kanon |
-|---|---|---|
-| kan. 700 § 1; kan. 900 § 1 | Zasada rozmnażania dóbr duchowych | kan. 434 |
-| kan. 700 § 2; kan. 901–904 | Tytuły rozmnażalne: duchownego, kapłana domowego, szafarza świętego, arcykapłana | kan. 435–438 |
-| kan. 700 § 3 | Wyłączenie urzędów niepodzielnych (patriarchat) | kan. 438 § 4 (odesłanie do kan. 383–385) |
-| kan. 905–908 | Rozmnażanie dóbr intelektualnych; prawo dostępu do ksiąg i kopii | kan. 439–441 |
-| kan. 909–912 | Ustanawianie nowych Kościołów Domowych przez członków w związkach | kan. 442–445 |
-| kan. 913–916 | Tytuł biskupa nieuświęconego; ustanawianie subdiecezji | kan. 446–449 |
-| kan. 917–918 | Dążenie do przyjęcia przez Biskupa Rzymskiego; ustanowienie diecezji | kan. 450–452 |
-| kan. 919–922 | Rozmnażanie i podział dóbr materialnych | kan. 453–456 |
-| kan. 923–926 | Sukcesja po śmierci rodziców (tytuły i funkcje) | kan. 457–459 |
-| kan. 927–928 | Przepisy końcowe i interpretacyjne Księgi IX | kan. 460–462 |
-
-## UWAGI REDAKCYJNE
-
-1. **Numeracja.** Dawna „Księga XVII — Poprawiona” (kan. 900–928) otrzymała numerację ciągłą **kan. 434–462**, bezpośrednio po Księdze VIII (kan. 380–433), zgodnie ze spisem treści (`99_spis_tresci.md`).
-2. **Usunięte powtórzenia.** Dawny kan. 700 (zasada mnożenia bez dzielenia) był niemal dosłowną powtórką dawnego kan. 900; zachowano jedno brzmienie normy (kan. 434). Dawne kan. 701–703 powtarzały kan. 383–385 Księgi VIII — pozostawiono jedynie odesłanie (kan. 438 § 4). Dawne kan. 919–922 i 924 § 1 5° pokrywały się z dawnymi kan. 930–958 w zakresie dóbr materialnych i nieruchomości; granicę przedmiotową między Księgą IX a X wyznacza kan. 460 § 2 oraz kan. 490–491 (przepisy końcowe Księgi X).
-3. **Odesłania wewnętrzne.** Dawnego wskazania „Księga XV” nie ma w zbiorze — zastąpiono je prawidłowym odwołaniem do Księgi VII (kan. 345–379: skutki oddalenia i zachowanie władania dobrami); „Księga XVI” → niniejszy ciąg Księgi VIII (kan. 380–433); dawne numery 900–958 → kan. 434–491.
-4. **Poprawki błędów oczywistych.** „software” → „oprogramowanie”; „sprzeczny z sprawiedliwością” → „sprzeczny ze sprawiedliwością”; „przeniesić” → „przenieść”; ujednolicono pisownię terminów własnych wspólnoty (Głowa Rodu, Małżonka, Potomek, Triarchia Domowa, Kościół Domowy, Ród) oraz formę wyliczeń wewnętrznych „1°, 2°, …”.
-5. **Do decyzji autora.** Tytuł „biskup nieuświęcony” w znaczeniu jurysdykcji deklarowanej (kan. 446–449) może pozostawać w napięciu z Księgą VI (kan. 319–320) i Księgą VII, gdzie władza biskupia wiąże się z przyjęciem sakry lub z urzędem tytularnym subdiecezjalnym; kan. 451 § 1 2° mówi o uznaniu Kościoła Domowego jako parafii personalnej lub prałatury — instytucji prawa powszechnego, których status wobec subdiecezji domowej wymaga odrębnego rozstrzygnięcia.
 
