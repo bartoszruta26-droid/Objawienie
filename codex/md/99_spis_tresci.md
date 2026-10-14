@@ -9,7 +9,7 @@
 | [`03_ksiega_III_prawo_koscielne.md`](./03_ksiega_III_prawo_koscielne.md) | Księga III — Prawo Kościelne | kan. 49–143 |
 | [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i przedmioty błogosławione) | kan. 144–288 |
 | [`05_ksiega_V_prawo_sakramentalne.md`](./05_ksiega_V_prawo_sakramentalne.md) | Księga V — Posługa kapłańska i współudział Małżonki i Potomka | kan. 289–318 |
-| [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 319–344 |
+| [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja z hierarchą biskupa i Związek Subdiecezjatów z hierarchą związku | kan. 319–344 |
 | [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 345–379 |
 | [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
@@ -126,15 +126,15 @@
 - **Tytuł VIII: OCHRONA PRAW I GODNOŚCI MAŁŻONKI I POTOMKA** — kan. 314–315
 - **Tytuł IX: PRZEPISY KOŃCOWE** — kan. 316–318
 
-## Księga VI — Subdiecezja domowa i patriarchat
+## Księga VI — Subdiecezja z hierarchą biskupa i Związek Subdiecezjatów z hierarchą związku
 - **Tytuł I: BISKUP TYTULARNY SUBDIECEZJALNY** — kan. 319–320
 - **Tytuł II: SUBDIECEZJA DOMOWA JAKO KOŚCIÓŁ PARTYKULARNY** — kan. 321–324
 - **Tytuł III: RELACJA SUBDIECEZJI DOMOWEJ DO DIECEZJI** — kan. 325–327
-- **Tytuł IV: USTANOWIENIE PATRIARCHATU** — kan. 328–331
-- **Tytuł V: SYNOD PATRIARCHATU** — kan. 332–334
-- **Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJALNI W PATRIARCHACIE** — kan. 335–337
-- **Tytuł VII: RELACJA PATRIARCHATU DO KOŚCIOŁA POWSZECHNEGO** — kan. 338–339
-- **Tytuł VIII: INSYGNIA I TYTUŁY PATRIARCHY** — kan. 340–341
+- **Tytuł IV: USTANOWIENIE ZWIĄZKU SUBDIECEZJATÓW** — kan. 328–331
+- **Tytuł V: SYNOD ZWIĄZKU SUBDIECEZJATÓW** — kan. 332–334
+- **Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJALNI (HIERARCHOWIE) W ZWIĄZKU SUBDIECEZJATÓW** — kan. 335–337
+- **Tytuł VII: RELACJA ZWIĄZKU SUBDIECEZJATÓW DO KOŚCIOŁA POWSZECHNEGO** — kan. 338–339
+- **Tytuł VIII: INSYGNIA I TYTUŁY HIERARCHY ZWIĄZKU SUBDIECEZJATÓW** — kan. 340–341
 - **Tytuł IX: PRZEPISY KOŃCOWE** — kan. 342–344
 
 ## Księga VII — Przyjęcie biskupa i oddalenie
