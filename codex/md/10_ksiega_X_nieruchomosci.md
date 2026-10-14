@@ -12,7 +12,7 @@ Nieruchomości, z uwagi na swoją naturę fizyczną, prawną i duchową, są z z
 
 2° **Prawa Naturalnego** — nieruchomość jako dobro fizyczne ma charakter jednostkowy i niepowtarzalny; jej podział niszczy jej funkcję i wartość użytkową;
 
-3° **Prawa kanonicznego** — kan. 421 KPK wymaga zezwolenia kompetentnej władzy na alienację dóbr stanowiących stały majątek osoby prawnej; kan. 403 KPK uznaje Biskupa Rzymskiego za najwyższego zarządcę dóbr kościelnych; kan. 384 § 2 KPK wskazuje na cele własne Kościoła, do których nieruchomości są przeznaczone;
+3° **Prawa kanonicznego** — KPK wymaga zezwolenia kompetentnej władzy na alienację dóbr stanowiących stały majątek osoby prawnej; KPK uznaje Biskupa Rzymskiego za najwyższego zarządcę dóbr kościelnych; KPK wskazuje na cele własne Kościoła, do których nieruchomości są przeznaczone; Kompetentną władzą jest również Bóg i jego objawiona i rozpoznana wola.
 
 4° **Prawa cywilnego** — nieruchomość jako rzecz oznaczona indywidualnie nie podlega podziałowi fizycznemu bez zgody właścicieli i bez naruszenia jej przeznaczenia;
 
