@@ -9,6 +9,8 @@ Niniejszy Kanon Prawa Kościoła Partykularnego Domowego zostaje ustanowiony w i
 
 Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka,w związku z powyższym niniejszy kodeks prawa kanonicznego kościoła domowego opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do tłumaczenia w języku polskim.
 
+W razie konfliktu przepisów kodeksu prawa kanonicznego kościoła domowego z kodeksem prawa kanonicznego dla obrządku łacińskiego należy zapisy kodeksu prawa kanonicznego kościoła domowego odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich.
+
 ---
 
 ### Tytuł I: BOSKIE ŹRÓDŁO POWOŁANIA I WŁADZY DUCHOWEJ
