@@ -6,7 +6,6 @@
 
 ### PREAMBUŁA KSIĘGI
 
-Niniejsza Księga stanowi, wraz z Księgą X (kan. 463–491), kontynuację zbioru poza podstawowym ciągem kan. 1–433; jej kanony otrzymały numerację ciągłą **434–462** w miejsce dawnej numeracji Księgi XVII (kan. 900–928). Księga poprawia i zastępuje wcześniejsze przepisy dotyczące sukcesji po śmierci rodziców w zakresie, w jakim poprzednie zapisy nie uwzględniały fundamentalnej zasady Prawa Bożego i Prawa Naturalnego: **dobra duchowe i intelektualne nie podlegają uszczupleniu przez dzielenie, lecz rozmnażają się przez przekazywanie**.
 
 Zgodnie z objawioną strukturą rzeczywistości (Hierarchia Poziomów), świat stworzony przez Boga ma strukturę holograficzną i fraktalną — bez względu na to, na ile części podzielimy istniejący świat, mniejsza część zawsze odpowiada większej. Z tej zasady wynika, że:
 
