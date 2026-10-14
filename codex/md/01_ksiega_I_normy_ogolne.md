@@ -105,10 +105,8 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ---
 
-### Tytuł IV: Przepisy końcowe Księgi I
+### Tytuł IV: Celibat
 
-**Kan. 13.** ...
-
-*(Redakcja: po zniesieniu kanonów wycofanych nadano Księdze I ciągłą numerację kan. 1–13; dawną treść zniesionych kanonów zachowano w archiwum redakcyjnym.)*
+**Kan. 13.** Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze wzglêdu na Królestwo niebieskie i tak stosowny kap³añstwu, wszêdzie powinien byæ tak wysoko ceniony jak nakazuje tradycja Kocio³a powszechnego; równie¿ powinien byæ w powa¿aniu stan duchownych zwi¹zanych ma³¿eñstwem, usankcjonowany przez praktykê Kocio³a pierwotnego i Kocio³ów wschodnich.
 
 ---
