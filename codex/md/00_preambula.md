@@ -1,14 +1,13 @@
 # PREAMBUŁA — Codex Iuris Canonici Ecclesiae Domesticae
 ## *Preambulum atque Additamenta ad Librum I — Normae Generales*
 
-## POPRAWIONA PREAMBUŁA KSIĘGI I — NORMY OGÓLNE
-### *Preambulum emendatum Libri I — Normae Generales*
-
 ---
 
 ### PREAMBUŁA
 
 Niniejszy Kanon Prawa Kościoła Partykularnego Domowego zostaje ustanowiony w imię Boga Wszechmogącego, Ojca i Syna, i Ducha Świętego, na podstawie Prawa Bożego, Prawa Naturalnego oraz praw człowieka, jako wyraz wolnej woli i objawionego powołania.
+
+Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka,w związku z powyższym niniejszy kodeks prawa kanonicznego kościoła domowego opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do tłumaczenia w języku polskim.
 
 ---
 
