@@ -268,7 +268,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 4° uczestnictwo w posiedzeniach Triarchii Domowej z głosem doradczym (po ukończeniu trzynastu lat);
 
-5° gotowość do przejęcia funkcji na zasadach określonych w kan. 303 § 1, 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu patriarchatu.
+5° gotowość do przejęcia funkcji na zasadach określonych w kan. 303 § 1, 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu urzędu hierarchy subdiecezji (a w odniesieniu do struktur ustanowionych przez Biskupa Rzymu — o przekazaniu patriarchatu).
 
 ---
 
@@ -308,7 +308,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 3° od piętnastego roku życia: prowadzenie rozważań formacyjnych, katecheza młodszych, opieka nad przedmiotami błogosławionymi;
 
-4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 299 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu patriarchatu.
+4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 299 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu urzędu hierarchy subdiecezji (a w odniesieniu do struktur ustanowionych przez Biskupa Rzymu — o przekazaniu patriarchatu).
 
 ---
 

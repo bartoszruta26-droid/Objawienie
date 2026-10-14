@@ -309,6 +309,8 @@
 
 **§ 2.** Głowa Rodu jako biskup domowy, wyświęcony i przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie diecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów (por. kan. 5 § 2 KPK).
 
+**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezjalny nieprzyjęty przez Biskupa Rzymskiego) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej i ustanowienia hierarchy subdiecezji macierzystej; rozróżnia się przy tym: patriarchat i patriarchę, których ustanawia wyłącznie Biskup Rzymu, oraz subdiecezję z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn).
+
 **§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
 
 **Kan. 118.** Władza rządzenia w Kościele Domowym dzieli się na ustawodawczą, wykonawczą i sądowniczą (por. kan. 135 § 1 KPK):
