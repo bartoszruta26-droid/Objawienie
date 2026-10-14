@@ -10,5 +10,24 @@ Księga XI — Odrebności obrządku (11_ksiega_XI_odrebnosci_obrzadku.md):
 - Kan. 502
 - Kan. 508 (ust. 4°: „...z rąk kapłana niewyświęconego, biskupa niewyświęconego...”)
 
-Łączna lista numerów kanonów:
+Łączna lista numerów kanonów (biskup niewyświęcony):
 8, 496, 500, 501, 502, 508
+
+============================================================
+DOPISANO — wystąpienia sformułowania „kapłan niewyświęcony”
+(w tym przypadków i liczby mnogiej: kapłana/kapłanom/kapłani niewyświęcony(-ego,-ym,-i);
+ujęto również równoznaczne „kapłan niekonsekrowany”)
+============================================================
+
+Księga XI — Odrebności obrządku (11_ksiega_XI_odrebnosci_obrzadku.md):
+- Kan. 508 (ust. 4°: „...z rąk kapłana niewyświęconego, biskupa niewyświęconego...”)
+- Kan. 513 (§ 2: „...od szafarzy niekatolickich w tym biskupa subdiecezjalnego lub kapłana niewyświęconego Kościoła Domowego...”;
+  § 4: „...nawet, jeżeli kapłan w tym kapłan niewyświęcony jest nieznany rektorowi kościoła...”;
+  § 5: „...szafarzem sakramentu pokuty jest kapłan także kapłan niekonsekrowany...” oraz „...udzielać tylko kapłanom także tym niewyświęconym...”;
+  § 6 [namaszczenie chorych]: „Namaszczenia chorych ważnie udziela każdy kapłan w tym kapłan niewyświęcony...”)
+
+Łączna lista numerów kanonów (kapłan niewyświęcony):
+508, 513
+
+Łączna lista numerów kanonów (biskup lub kapłan niewyświęcony):
+8, 496, 500, 501, 502, 508, 513
