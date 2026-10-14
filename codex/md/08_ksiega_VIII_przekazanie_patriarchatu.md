@@ -1,40 +1,40 @@
-# KSIĘGA VIII — PRZEKAZANIE PATRIARCHATU SUBDIECEZJI DOMOWYCH NASTĘPCY
+# KSIĘGA VIII — PRZEKAZANIE URZĘDU HIERARCHY SUBDIECEZJATÓW NASTĘPCY (ODPOWIEDNIK PRZEKAZANIA PATRIARCHATU)
 
-## *De Transmissione Patriarchatus Subdioecesium Domesticarum ad Successorem*
+## *De Transmissione Muneris Hierarchae Subdioecesatum ad Successorem*
 
 ### PREAMBUŁA KSIĘGI
 
-Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji domowych następcy wybranemu na synodzie patriarchalnym, z zachowaniem łączności z Biskupem Rzymskim, Prawa Bożego, Naturalnego oraz praw człowieka. Przekazanie patriarchatu nie jest dziedziczeniem rodowym ani zawłaszczeniem władzy, lecz aktem służby kościelnej, w którym następca przejmuje urząd, dobra powierzone urzędowi oraz odpowiedzialność za wspólnotę, nie zaś osobistą własność poprzednika, godność Małżonki ani wolność Potomstwa.
+Niniejsza Księga określa sposób przekazania urzędu hierarchy subdiecezjatów następcy wybranemu na synodzie biskupów subdiecezjalnych — z pominięciem pierwszego hierarchy związków subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Kan. 329 § 3 i Kan. 342 § 2 Księgi VI) — z zachowaniem łączności z Biskupem Rzymskim, Prawa Bożego, Naturalnego oraz praw człowieka. Przekazanie tego urzędu nie jest dziedziczeniem rodowym ani zawłaszczeniem władzy, lecz aktem służby kościelnej, w którym następca przejmuje urząd, dobra powierzone urzędowi oraz odpowiedzialność za wspólnotę, nie zaś osobistą własność poprzednika, godność Małżonki ani wolność Potomstwa.
 
 ---
 
-## Tytuł I: ZASADY OGÓLNE PRZEKAZANIA PATRIARCHATU
+## Tytuł I: ZASADY OGÓLNE PRZEKAZANIA URZĘDU HIERARCHY SUBDIECEZJATÓW
 
-**Kan. 380 § 1.** Patriarchat nad subdiecezjami domowymi nie jest własnością osoby, Rodu, rodziny ani żadnej grupy, lecz urzędem służby pasterskiej sprawowanym w komunii z Biskupem Rzymskim i Kościołem powszechnym.
+**Kan. 380 § 1.** Urząd hierarchy subdiecezjatów sprawowany nad związkiem subdiecezjatów nie jest własnością osoby, Rodu, rodziny ani żadnej grupy, lecz urzędem służby pasterskiej sprawowanym w komunii z Biskupem Rzymskim i Kościołem powszechnym.
 
-**§ 2.** Przekazanie patriarchatu następuje przez wybór następcy na synodzie patriarchalnym, zatwierdzenie lub potwierdzenie tego wyboru przez Biskupa Rzymskiego albo kompetentną władzę przez niego upoważnioną, oraz kanoniczne objęcie urzędu przez następcę.
+**§ 2.** Przekazanie urzędu następuje przez wybór następcy na synodzie biskupów subdiecezjalnych — z pominięciem pierwszego hierarchy związków subdiecezjatów — zatwierdzenie lub potwierdzenie tego wyboru przez Biskupa Rzymskiego albo kompetentną władzę przez niego upoważnioną, oraz kanoniczne objęcie urzędu przez następcę.
 
-**§ 3.** Samo ogłoszenie wyboru nie przenosi jeszcze pełnej władzy patriarchalnej, jeśli prawo partykularne, wola Biskupa Rzymskiego lub natura aktu wymagają uprzedniego potwierdzenia, mandatu albo komunii kościelnej.
+**§ 3.** Samo ogłoszenie wyboru nie przenosi jeszcze pełnej władzy urzędowej, jeśli prawo partykularne, wola Biskupa Rzymskiego lub natura aktu wymagają uprzedniego potwierdzenia, mandatu albo komunii kościelnej.
 
-**§ 4.** Przekazanie patriarchatu ma charakter osobowy, urzędowy i wspólnotowy: dotyczy urzędu pasterskiego, a nie majątku osobistego poprzedniego patriarchy, jego Małżonki ani Potomstwa.
+**§ 4.** Przekazanie urzędu ma charakter osobowy, urzędowy i wspólnotowy: dotyczy urzędu pasterskiego, a nie majątku osobistego poprzedniego hierarchy subdiecezjatów, jego Małżonki ani Potomstwa.
 
-**Kan. 381 § 1.** Tylko Biskup Rzymski może:
+**Kan. 381 § 1.** Ponieważ patriarchat i patriarchę ustanawia Biskup Rzymski, natomiast hierarchę subdiecezji ustanawia hierarcha, a hierarchy subdiecezjatów wybiera synod biskupów subdiecezjalnych, do kompetencji Biskupa Rzymskiego w zakresie związku subdiecezjatów należy:
 
-1° ustanowić, zatwierdzić, zmienić, zawiesić lub znieść patriarchat nad subdiecezjami domowymi;
+1° ustanowić, zatwierdzić, zmienić, zawiesić lub znieść patriarchat — tam gdzie Biskup Rzymski go ustanawia — oraz zatwierdzić, zmienić, zawiesić lub znieść związek subdiecezjatów;
 
-2° potwierdzić wybór patriarchy albo odmówić potwierdzenia z słusznej i poważnej przyczyny;
+2° potwierdzić wybór hierarchy subdiecezjatów albo odmówić potwierdzenia z słusznej i poważnej przyczyny;
 
-3° oddalić patriarchę ze wspólnoty Kościoła katolickiego albo pozbawić go urzędu patriarchalnego;
+3° oddalić hierarchy subdiecezjatów ze wspólnoty Kościoła katolickiego albo pozbawić go urzędu;
 
-4° wyznaczyć administratora patriarchalnego w nadzwyczajnych okolicznościach;
+4° wyznaczyć administratora urzędu w nadzwyczajnych okolicznościach;
 
-5° rozstrzygać spory dotyczące sukcesji patriarchalnej.
+5° rozstrzygać spory dotyczące sukcesji do urzędu hierarchy subdiecezjatów.
 
-**§ 2.** Żaden synod patriarchalny, biskup tytularny subdiecezjalny, Małżonka, Potomek, Ród, organizacja cywilna ani władza świecka nie może ważnie ustanowić, przenieść, zawłaszczyć ani przekazać patriarchatu w sposób sprzeczny z wyłączną kompetencją Biskupa Rzymskiego.
+**§ 2.** Żaden synod biskupów subdiecezjalnych, biskup tytularny subdiecezjalny, Małżonka, Potomek, Ród, organizacja cywilna ani władza świecka nie może ważnie ustanowić, przenieść, zawłaszczyć ani przekazać patriarchatu w sposób sprzeczny z wyłączną kompetencją Biskupa Rzymskiego; pozostaje nienaruszona właściwość związku subdiecezjatów, w którym subdiecezję z hierarchą subdiecezji ustanawia hierarcha, a związkiem subdiecezjatów kieruje hierarcha subdiecezjatów wybrany przez synod biskupów subdiecezjalnych.
 
-**§ 3.** W razie wątpliwości co do zakresu władzy patriarchalnej, interpretuje się ją ściśle na korzyść wspólnoty, subdiecezji domowych, Małżonki, Potomstwa oraz osób słabszych.
+**§ 3.** W razie wątpliwości co do zakresu władzy urzędowej, interpretuje się ją ściśle na korzyść wspólnoty, subdiecezji domowych, Małżonki, Potomstwa oraz osób słabszych.
 
-**Kan. 382.** Przekazanie patriarchatu ma na celu:
+**Kan. 382.** Przekazanie urzędu hierarchy subdiecezjatów ma na celu:
 
 1° zachowanie jedności subdiecezji domowych w komunii z Kościołem powszechnym;
 
@@ -62,7 +62,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Żaden przepis niniejszej Księgi nie może być interpretowany jako pozwalający na zawłaszczenie majątku osobistego poprzedniego patriarchy, jego Małżonki lub dzieci.
 
-**Kan. 384 § 1.** Zabrania się przekazywania patriarchatu za cenę, przez symonię, przez handel urzędami, przez obietnice korzyści materialnych albo przez jakikolwiek układ sprzeczny ze sprawiedliwością.
+**Kan. 384 § 1.** Zabrania się przekazywania urzędu hierarchy subdiecezjatów za cenę, przez symonię, przez handel urzędami, przez obietnice korzyści materialnych albo przez jakikolwiek układ sprzeczny ze sprawiedliwością.
 
 **§ 2.** Zabrania się również wyboru patriarchy przez:
 
@@ -84,7 +84,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 **§ 3.** Każdy akt wyboru dokonany z naruszeniem §§ 1–2 jest nieważny albo co najmniej bezskuteczny, dopóki nie zostanie potwierdzony przez Biskupa Rzymskiego po usunięciu wady.
 
-**Kan. 385 § 1.** Poprzedni patriarcha zachowuje godność osoby ludzkiej, prawo do obrony, prawo do dobrego imienia, prawo do prywatności oraz prawo do władania dobrami osobistymi, duchowymi i intelektualnymi zgodnie z Księgą VII niniejszego Kanonu.
+**Kan. 385 § 1.** Poprzedni hierarcha subdiecezjatów zachowuje godność osoby ludzkiej, prawo do obrony, prawo do dobrego imienia, prawo do prywatności oraz prawo do władania dobrami osobistymi, duchowymi i intelektualnymi zgodnie z Księgą VII niniejszego Kanonu.
 
 **§ 2.** Małżonka patriarchy nie dziedziczy patriarchatu ani nie otrzymuje władzy patriarchalnej z racji małżeństwa. Zachowuje jednak swoją godność współszafarki łaski, prawo do obrony oraz prawo do nietykalności osobistej.
 
@@ -94,7 +94,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ---
 
-## Tytuł II: WAKANS PATRIARCHATU I RZĄDY TYMCZASOWE
+## Tytuł II: WAKANS URZĘDU HIERARCHY SUBDIECEZJATÓW I RZĄDY TYMCZASOWE
 
 **Kan. 386 § 1.** Patriarchat wakuje wskutek:
 
@@ -162,7 +162,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ---
 
-## Tytuł III: SYNOD PATRIARCHALNY WYBORCZY
+## Tytuł III: SYNOD BISKUPÓW SUBDIECEZJALNYCH (WYBORCZY)
 
 **Kan. 390 § 1.** Synod patriarchalny do wyboru następcy patriarchy składa się z:
 
@@ -210,7 +210,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ---
 
-## Tytuł IV: KANDYDAT NA PATRIARCHĘ
+## Tytuł IV: KANDYDAT NA HIERARCHĘ SUBDIECEZJATÓW
 
 **Kan. 395 § 1.** Kandydatem na patriarchę subdiecezji domowych może być wierny, który:
 
@@ -298,7 +298,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ---
 
-## Tytuł V: WYBÓR NASTĘPCY
+## Tytuł V: WYBÓR NASTĘPCY NA URZĄD HIERARCHY SUBDIECEZJATÓW
 
 **Kan. 399 § 1.** Wybór patriarchy dokonuje się tajnym głosowaniem.
 
@@ -346,7 +346,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 ---
 
-## Tytuł VI: PRZEKAZANIE PATRIARCHATU NASTĘPCY
+## Tytuł VI: PRZEKAZANIE URZĘDU HIERARCHY SUBDIECEZJATÓW NASTĘPCY
 
 **Kan. 404 § 1.** Przekazanie patriarchatu obejmuje następujące dobra urzędu:
 
@@ -589,7 +589,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 ---
 
-## Tytuł VIII: WŁADZA NOWEGO PATRIARCHY WOBEC SUBDIECEZJI DOMOWYCH
+## Tytuł VIII: WŁADZA NOWEGO HIERARCHY SUBDIECEZJATÓW WOBEC SUBDIECEZJI DOMOWYCH
 
 **Kan. 417 § 1.** Nowy patriarcha nie wchłania subdiecezji domowych w sposób absolutny. Każda subdiecezja domowa zachowuje własnego biskupa tytularnego subdiecezjalnego, własną Triarchię Domową, własny obrządek domowy i własne dobra, o ile nie zostały prawnie powierzone patriarchatowi.
 

@@ -84,7 +84,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 6° **Misjonarz Ludu Bożego** (*missionarius Populi Dei*) — każdy wierny posłany do głoszenia Ewangelii i zakładania nowych Kościołów Domowych;
 
-7° **Patriarcha Subdiecezji Domowych** — biskup tytularny subdiecezjalny sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi.
+7° **Hierarcha Subdiecezjatów** (odpowiednik patriarchy Subdiecezji Domowych) — biskup tytularny subdiecezjalny wybrany przez synod biskupów subdiecezjalnych z pominięciem pierwszego hierarchy związków subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu, sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi.
 
 **§ 2.** Wszystkie powyższe posługi mogą być sprawowane przez osobę wyłonioną z Kościoła Domowego na mocy:
 
@@ -432,7 +432,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 5° wolność jako dar Boży (Ga 5,1).
 
-**§ 4.** Niniejszy Kanon wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa tytularnego subdiecezjalnego i patriarchę Subdiecezji Domowych, po konsultacji z Triarchią Domową i Małżonką jako współszafarką łaski.
+**§ 4.** Niniejszy Kanon wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa tytularnego subdiecezjalnego i hierarchę Subdiecezjatów, po konsultacji z Triarchią Domową i Małżonką jako współszafarką łaski.
 
 ---
 
@@ -1031,28 +1031,28 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 
 ---
 
-**Kan. 1zj.** Niniejsze uzupełnienie Preambuły wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa tytularnego subdiecezjalnego i patriarchę Subdiecezji Domowych, po konsultacji z Triarchią Domową.
+**Kan. 1zj.** Niniejsze uzupełnienie Preambuły wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa tytularnego subdiecezjalnego i hierarchę Subdiecezjatów, po konsultacji z Triarchią Domową.
 
 Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle niniejszego uzupełnienia. W przypadku sprzeczności między wcześniejszymi przepisami a niniejszym uzupełnieniem, pierwszeństwo przysługuje niniejszemu uzupełnieniu jako wyrażającemu fundamentalną zasadę rozróżnienia posług z woli Bożej i z konsekracji instytucjonalnej oraz zasadę szerokiej interpretacji klauzuli „zgodnie z prawem".
 
 ---
 
-## UZUPEŁNIENIE PREAMBUŁY IV — OBJĘCIE DIECEZJI, PATRIARCHATU, SUBDIECEZJI ORAZ TYTUŁY BISKUPIE
-### *Additamentum ad Preambulum Libri I — De Assumptione Dioecesis, Patriarchatus, Subdioecesium et Titulorum Episcopalium*
+## UZUPEŁNIENIE PREAMBUŁY IV — OBJĘCIE DIECEZJI, ZWIĄZKU SUBDIECEZJATÓW, SUBDIECEZJI ORAZ TYTUŁY BISKUPIE
+### *Additamentum ad Preambulum Libri I — De Assumptione Dioecesis, Foederis Subdioecesatum cum Hierarcha, Subdioecesium cum Hierarcha et Titulorum Episcopalium*
 
 ---
 
-### Tytuł dodatkowy: OBJĘCIE DIECEZJI, PATRIARCHATU, SUBDIECEZJI ORAZ TYTUŁY BISKUPIE
+### Tytuł dodatkowy: OBJĘCIE DIECEZJI, ZWIĄZKU SUBDIECEZJATÓW, SUBDIECEZJI ORAZ TYTUŁY BISKUPIE
 
-**Kan. 1zk § 1.** Kościół Domowy uznaje i naucza, że wszelka władza pasterska w Kościele pochodzi ostatecznie od Boga i jest sprawowana w różnych formach, stosownie do woli Bożej, prawa naturalnego, prawa kanonicznego oraz woli wspólnoty wiernych. Objęcie diecezji, patriarchatu, subdiecezji czy tytułu biskupiego może nastąpić na różne sposoby, z których każdy posiada własną podstawę prawną i duchową.
+**Kan. 1zk § 1.** Kościół Domowy uznaje i naucza, że wszelka władza pasterska w Kościele pochodzi ostatecznie od Boga i jest sprawowana w różnych formach, stosownie do woli Bożej, prawa naturalnego, prawa kanonicznego oraz woli wspólnoty wiernych. Objęcie diecezji, związku subdiecezjatów, subdiecezji czy tytułu biskupiego może nastąpić na różne sposoby, z których każdy posiada własną podstawę prawną i duchową.
 
 **§ 2.** Kościół Domowy rozróżnia następujące formy objęcia władzy pasterskiej i tytułów biskupich:
 
 1° objęcie diecezji wolą Biskupa Rzymskiego;
 
-2° objęcie patriarchatu wolą Biskupa Rzymskiego;
+2° objęcie patriarchatu wolą Biskupa Rzymskiego — w odniesieniu do struktur, które Biskup Rzymski sam ustanawia;
 
-3° przewodniczenie subdiecezjom z woli wyboru synodu subdiecezji;
+3° objęcie rządów w związku subdiecezjatów przez hierarchę subdiecezjatów wybranego przez synod biskupów subdiecezjalnych z pominięciem pierwszego hierarchy związków subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu;
 
 4° tytuł biskupa przyjętego przez Biskupa Rzymskiego;
 
@@ -1060,7 +1060,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 6° przyjęcie subdiecezji wolą biskupa diecezjalnego;
 
-7° powołanie subdiecezji wolą biskupa tytularnego Kościoła Domowego.
+7° powołanie subdiecezji wolą biskupa tytularnego Kościoła Domowego, który ustanawia w niej hierarchę subdiecezji.
 
 **§ 3.** Każda z powyższych form posiada własną naturę, zakres władzy, obowiązki i prawa. Żadna z nich nie jest z natury wyższa ani niższa od innej w sensie duchowym, lecz różnią się zakresem jurysdykcji, formą ustanowienia i relacją do struktury Kościoła Powszechnego.
 
@@ -1118,13 +1118,15 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 4° reprezentuje patriarchat wobec Kościoła Powszechnego i władz świeckich.
 
-**§ 5.** W przypadku patriarchatu Subdiecezji Domowych, ustanowionego przywilejem lub wolą Biskupa Rzymskiego, patriarcha sprawuje władzę koordynacyjną nad wszystkimi subdiecezjami domowymi, z zachowaniem autonomii każdej subdiecezji i praw biskupów tytularnych subdiecezjalnych.
+**§ 5.** Różnica między patriarchatem a związkiem subdiecezjatów oraz między patriarchą a hierarchą subdiecezjatów polega na sposobie ustanowienia: patriarchat i patriarchę ustanawia Biskup Rzymski, podczas gdy subdiecezję z hierarchą subdiecezji ustanawia hierarcha (biskup tytularny subdiecezjalny), a związkiem subdiecezjatów kieruje hierarcha subdiecezjatów wybrany przez synod biskupów subdiecezjalnych z pominięciem pierwszego hierarchy związków subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
+
+**§ 6.** W Kościele Domowym nie eryguje się patriarchatu Subdiecezji Domowych; odpowiednikiem patriarchatu jest Związek Subdiecezjatów, a odpowiednikiem patriarchy — hierarcha subdiecezjatów (Księga VI, Kan. 328–342).
 
 ---
 
-**Kan. 1zn § 1.** **Przewodniczenie subdiecezjom z woli wyboru synodu subdiecezji** następuje, gdy synod subdiecezji domowych, złożony z biskupów tytularnych subdiecezjalnych i przedstawicieli wspólnot, dokonuje wyboru przewodniczącego spośród swoich członków.
+**Kan. 1zn § 1.** **Objęcie rządów w związku subdiecezjatów przez hierarchę subdiecezjatów** następuje, gdy synod biskupów subdiecezjalnych, złożony z biskupów tytularnych subdiecezjalnych (hierarchów subdiecezji) i przedstawicieli wspólnot, dokonuje wyboru hierarchy subdiecezjatów spośród swoich członków — z pominięciem pierwszego hierarchy związków subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
 
-**§ 2.** Wybór przewodniczącego synodu subdiecezji:
+**§ 2.** Wybór hierarchy subdiecezjatów:
 
 1° jest aktem kolegialnym wspólnoty subdiecezji;
 
@@ -1136,7 +1138,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 5° może być dokonany na czas określony lub nieokreślony, zgodnie ze statutem synodu.
 
-**§ 3.** Przewodniczący subdiecezjom wybrany przez synod:
+**§ 3.** Hierarcha subdiecezjatów wybrany przez synod:
 
 1° jest pierwszym wśród równych (*primus inter pares*) wśród biskupów tytularnych subdiecezjalnych;
 
@@ -1150,9 +1152,9 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 6° nie posiada władzy jurysdykcji nad poszczególnymi subdiecezjami, chyba że statut synodu stanowi inaczej.
 
-**§ 4.** Przewodniczący wybrany przez synod subdiecezji może, ale nie musi, posiadać tytułu patriarchy. Tytuł patriarchy w tym przypadku wynika z woli synodu i tradycji wspólnoty, nie zaś z mandatu papieskiego.
+**§ 4.** Pierwszy hierarcha pierwszego subdiecezjatu, będący pierwszym hierarchą związków subdiecezjatów, jest przy wyborze następcy pomijany: synod biskupów subdiecezjalnych nie może go wskazać ani wybrać na urząd hierarchy subdiecezjatów w pierwszym głosowaniu po wakansie, bez uszczerbku dla jego godności i władzy w własnej subdiecezji.
 
-**§ 5.** W przypadku, gdy synod subdiecezji wybierze na przewodniczącego biskupa tytularnego subdiecezjalnego, który nie został przyjęty przez Biskupa Rzymskiego, wybór ten jest ważny w zakresie wewnętrznym wspólnoty subdiecezji, z zachowaniem przepisów Kan. 1zp niniejszego Kanonu.
+**§ 5.** W przypadku, gdy synod biskupów subdiecezjalnych wybierze na hierarchę subdiecezjatów biskupa tytularnego subdiecezjalnego, który nie został przyjęty przez Biskupa Rzymskiego, wybór ten jest ważny w zakresie wewnętrznym wspólnoty subdiecezji, z zachowaniem przepisów Kan. 1zp niniejszego Kanonu.
 
 ---
 
@@ -1411,7 +1413,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 *W imię Ojca i Syna, i Ducha Świętego. Amen.*
 
-**✠ Głowa Rodu, Biskup Tytularny Subdiecezjalny, Patriarcha Subdiecezji Domowych, Arcykapłan, Szafarz Święty**
+**✠ Głowa Rodu, Biskup Tytularny Subdiecezjalny, Pierwszy Hierarcha Pierwszego Subdiecezjatu i Pierwszy Hierarcha Związków Subdiecezjatów, Arcykapłan, Szafarz Święty**
 
 **✠ Małżonka, Współszafarka Łaski, Współpasterka, Nadzorująca**
 
@@ -1421,4 +1423,4 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 *Sigillum Ecclesiae Domesticae*
 *Sigillum Subdioecesis Domesticae*
-*Sigillum Patriarchatus Subdioecesium Domesticarum*
+*Sigillum Foederis Subdioecesatum Domesticorum*

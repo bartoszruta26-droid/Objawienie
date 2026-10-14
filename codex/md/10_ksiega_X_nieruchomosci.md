@@ -142,7 +142,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 1° podjąć wszelkie działania prawne w celu ochrony domu;
 
-2° zwrócić się o pomoc do biskupa tytularnego subdiecezjalnego lub patriarchy;
+2° zwrócić się o pomoc do biskupa tytularnego subdiecezjalnego lub hierarchy subdiecezjatów;
 
 3° zabezpieczyć kaplicę domową, archiwum i przedmioty kultu;
 
@@ -586,7 +586,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 3° Kościół Domowy jako wspólnota, w zakresie dotyczącym kaplicy i miejsc wspólnych;
 
-4° subdiecezja domowa lub patriarchat, jeśli nieruchomość przynależy do kościelnej osoby prawnej.
+4° subdiecezja domowa lub związek subdiecezjatów, jeśli nieruchomość przynależy do kościelnej osoby prawnej.
 
 **§ 2.** W przypadku, gdy koszty utrzymania przekraczają możliwości finansowe wspólnoty:
 
@@ -602,7 +602,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 2° arbiter wyznaczony przez biskupa tytularnego subdiecezjalnego;
 
-3° synod patriarchalny, jeśli nieruchomość przynależy do patriarchatu;
+3° synod związku subdiecezjatów, jeśli nieruchomość przynależy do związku subdiecezjatów;
 
 4° w ostateczności sąd cywilny.
 
@@ -642,7 +642,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 2° biskup tytularny subdiecezjalny może interweniować w obronie nieruchomości;
 
-3° patriarcha może wydać dekret ochronny;
+3° hierarcha subdiecezjatów może wydać dekret ochronny;
 
 4° w przypadku zagrożenia ze strony władz świeckich wspólnota ma prawo zwrócić się o pomoc do organizacji praw człowieka i rzeczników praw obywatelskich.
 

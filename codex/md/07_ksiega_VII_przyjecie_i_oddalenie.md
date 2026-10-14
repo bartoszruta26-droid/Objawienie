@@ -56,7 +56,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 6° zarządcy dóbr doczesnych, duchowych i intelektualnych subdiecezji domowej.
 
-**§ 2.** Jeżeli biskup tytularny subdiecezjalny posiada także godność patriarchy Subdiecezji Domowych, jego posługa patriarchalna zostaje przyjęta i uznana w granicach określonych przez Biskupa Rzymskiego oraz niniejszy Kanon.
+**§ 2.** Jeżeli biskup tytularny subdiecezjalny posiada także godność pierwszego hierarchy pierwszego subdiecezjatu albo urzędowanie w związku subdiecezjatów jako hierarcha subdiecezjatów, jego posługa zostaje przyjęta i uznana w granicach określonych przez Biskupa Rzymskiego oraz niniejszy Kanon.
 
 **§ 3.** Przyjęcie posługi nie oznacza uznania jakichkolwiek nadużyć, błędów doktrynalnych czy czynów sprzecznych z Prawem Bożym, lecz oznacza uznanie osoby, urzędu, subdiecezji, majątku i obrządku w stanie łaski i komunii kościelnej, o ile nie nastąpiło ważne oddalenie zgodnie z kan. 351–357.
 
@@ -142,7 +142,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 5° oddalenie obrządku domowego ze wspólnoty Kościoła Katolickiego;
 
-6° zakaz używania tytułu biskupa tytularnego subdiecezjalnego, patriarchy, arcykapłana, szafarza świętego lub innego tytułu kościelnego;
+6° zakaz używania tytułu biskupa tytularnego subdiecezjalnego, hierarchy subdiecezji, hierarchy subdiecezjatów, patriarchy (jeśli został osobiście ustanowiony przez Biskupa Rzymskiego), arcykapłana, szafarza świętego lub innego tytułu kościelnego;
 
 7° zakaz sprawowania obrządku domowego w przestrzeni publicznej kościelnej;
 
@@ -306,7 +306,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 1° teksty kanonów, statutów, regulaminów, komentarzy, wykładów, katechez, kazań, medytacji, modlitw, formuł liturgicznych;
 
-2° nazwy: Kościół Domowy, subdiecezja domowa, obrządek Marii Magdaleny, obrządek Pawłowy, obrządek Tomaszowy, Ród, Triarchia Domowa, Patriarchat Subdiecezji Domowych, jeśli zostały użyte lub stworzone przez biskupa;
+2° nazwy: Kościół Domowy, subdiecezja domowa, obrządek Marii Magdaleny, obrządek Pawłowy, obrządek Tomaszowy, Ród, Triarchia Domowa, Związek Subdiecezjatów (Patriarchat Subdiecezji Domowych), jeśli zostały użyte lub stworzone przez biskupa;
 
 3° herby, pieczęcie, symbole, znaki graficzne, logotypy, barwy, insygnia, sygnet, dokumenty identyfikacyjne;
 

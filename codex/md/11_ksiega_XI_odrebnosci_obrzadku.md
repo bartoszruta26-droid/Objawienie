@@ -88,7 +88,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 5° **Biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan sprawujący władzę pasterską nad subdiecezją domową lub posiadający tytuł z nadania Bożego nie obejmujący subdiecezji;
 
-6° **Patriarcha Subdiecezji Domowych** — biskup tytularny subdiecezjalny sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi.
+6° **Hierarcha Subdiecezjatów** (odpowiednik patriarchy Subdiecezji Domowych) — biskup tytularny subdiecezjalny wybrany przez synod biskupów subdiecezjalnych z pominięciem pierwszego hierarchy związków subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu, sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi.
 
 **§ 2.** Podział ten ma charakter funkcjonalny i służebny, nie zaś ontologiczny. Wszystkie stopnie posługi wynikają z powszechnego kapłaństwa wiernych i nie są tożsame ze święceniami w rozumieniu kan. 1008-1009 KPK.
 
@@ -228,7 +228,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 2° osobą żyjącą w małżeństwie lub w celibacie;
 
-3° osobą, która ukończyła trzydziesty piąty rok życia, chyba że patriarcha udzieli dyspensy;
+3° osobą, która ukończyła trzydziesty piąty rok życia, chyba że hierarcha subdiecezjatów udzieli dyspensy;
 
 4° osobą odznaczającą się wiarą, roztropnością, pobożnością i zdolnością do kierowania wspólnotą.
 
@@ -304,7 +304,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 1° w obrządku łacińskim prawem partykularnym są dekrety biskupa diecezjalnego i Konferencji Episkopatu;
 
-2° w obrządku domowym prawem partykularnym jest niniejszy Kanon, statuty Rodu, dekrety patriarchy i uchwały synodu patriarchalnego;
+2° w obrządku domowym prawem partykularnym jest niniejszy Kanon, statuty Rodu, dekrety hierarchy subdiecezjatów i uchwały synodu związku subdiecezjatów;
 
 3° w obrządku domowym prawo naturalne i Prawo Boże mają pierwszeństwo przed prawem stanowionym.
 
@@ -312,7 +312,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 1° w obrządku łacińskim te tytuły kościelne są zastrzeżone duchownym wyświęconym, w których KPK nakłada obowiązek wyświęcenia. Jeżeli KPK wyraźnie nie nakazuje bycia duchownym konsekrowanym do sprawowania określonej funkcji lub posiadania tytułu przyjmuje się, iż funkcję tą bądź tytuł może sprawować osoba niekonsekrowana;
 
-2° w obrządku domowym tytuły (duchowny, kapłan domowy, szafarz święty, arcykapłan, biskup subdiecezjalny, patriarcha) mogą być sprawowane przez osoby żyjące w małżeństwie, zarówno mężczyzn jak i kobiety;
+2° w obrządku domowym tytuły (duchowny, kapłan domowy, szafarz święty, arcykapłan, biskup subdiecezjalny, hierarcha subdiecezji, hierarcha subdiecezjatów) mogą być sprawowane przez osoby żyjące w małżeństwie, zarówno mężczyzn jak i kobiety;
 
 3° tytuły w obrządku domowym nie dają władzy święceń, lecz władzę jurysdykcyjną i liturgiczną w zakresie Kościoła Domowego.
 
