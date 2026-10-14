@@ -91,7 +91,7 @@
 **Kan. 69.** Zwyczaj, czy to przeciwny prawu, czy obok niego, zostaje odwołany przez zwyczaj przeciwny lub ustawę. Ustawa powszechna nie odwołuje zwyczajów partykularnych Kościoła Domowego, chyba że wyraźnie o nich wspomina (por. kan. 28 KPK).
 
 **Kan. 70.** Do zatwierdzenia zwyczaju domowego wymagana jest:
-1° praktyka ciągła przez okres określony w kan. 67;
+1° praktyka ciągła przez okres trzech lat;
 2° świadomość wspólnoty domowej co do istnienia zwyczaju;
 3° intencja wprowadzenia prawa (*animus iuris inducendi*);
 4° wyraźne lub milczące zatwierdzenie przez Głowę Rodu;
