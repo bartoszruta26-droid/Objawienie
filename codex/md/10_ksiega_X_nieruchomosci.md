@@ -36,7 +36,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 5° **wspólnotowym** — służą całej wspólnocie Kościoła Domowego, nie zaś jednej osobie.
 
-**§ 2.** Nieruchomość, w której znajduje się kaplica domowa, ołtarz domowy lub miejsce sprawowania sakramentaliów, posiada szczególny charakter sakralny i podlega dodatkowej ochronie zgodnie z kan. 335–1213 KPK, zastosowanym analogicznie.
+**§ 2.** Nieruchomość, w której znajduje się kaplica domowa, ołtarz domowy lub miejsce sprawowania sakramentaliów, posiada szczególny charakter sakralny i podlega dodatkowej ochronie zgodnie z KPK, zastosowanym analogicznie.
 
 **§ 3.** Nieruchomość nie jest przedmiotem obrotu handlowego w rozumieniu czysto ekonomicznym. Jest ona przede wszystkim miejscem życia, modlitwy i służby, a jej wartość duchowa, rodowa i wspólnotowa przewyższa wartość materialną.
 
