@@ -395,3 +395,4 @@ natury rzeczy.
 którzy otrzymali święcenia, także Ci, którzy otrzymali święcenia z rąk Biskupa i wypowiedzianą modlitwą oraz Ci, którzy otrzymali święcenia Duchem świętym bez udziału rąk ani modlitwy § 2. W wykonywaniu w³adzy rz¹dzenia mog¹ wspó³pracowaæ stosownie do przepisów prawa pozostali chrzecijanie
 
 -
+*Kan. 516.** Zgodnie z KKKW Kan. 984  § 1. Hierarchami są: oprócz Biskupa Rzymskiego, przede wszystkim wymienione w tym kanionie 984 KKKW osoby pełniące urzędy kościelne i ci, którzy czasowo go zastêpuj¹ w rz¹dzeniu, stosownie do przepisów prawa, oraz Ci, których przede wszystkim nie wymienono jak Hierarchowie Kościoła partykularnego Domowego.
