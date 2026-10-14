@@ -24,7 +24,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 ## Tytuł I: CELIBAT I MAŁŻEŃSTWO W OBRZĄDKU DOMOWYM
 
-**Kan. 492 § 1.** W obrządku domowym celibat nie jest wymagany do sprawowania jakiejkolwiek posługi: duchownego, kapłana domowego, szafarza świętego, arcykapłana, biskupa tytularnego subdiecezjalnego ani patriarchy Subdiecezji Domowych.
+**Kan. 492 § 1.** W obrządku domowym celibat nie jest wymagany do sprawowania jakiejkolwiek posługi: duchownego, kapłana domowego, szafarza świętego, arcykapłana, biskupa tytularnego subdiecezjalnego ani hierarchy związku subdiecezjatów (w patriarchacie ustanowionym przez Biskupa Rzymskiego — patriarchy).
 
 **§ 2.** Małżeństwo sakramentalne lub naturalne jest stanem właściwym i zalecanym dla wszystkich sprawujących posługi w obrządku domowym, zgodnie ze słowami: „Nie jest dobrze, żeby mężczyzna był sam" (Rdz 2,18) oraz wzorem Apostołów, z których „większość miała żony" (por. 1 Kor 9,5).
 
@@ -48,7 +48,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **Kan. 494 § 1.** Małżonka sprawującego posługę w obrządku domowym pełni rolę współszafarki łaski i współpasterki, zgodnie z przepisami Księgi IX niniejszego Kodeksu.
 
-**§ 2.** Małżeństwo osoby sprawującej posługę nie stanowi przeszkody do pełnienia żadnej funkcji w Kościele Domowym, włącznie z funkcją arcykapłana, biskupa tytularnego subdiecezjalnego i patriarchy.
+**§ 2.** Małżeństwo osoby sprawującej posługę nie stanowi przeszkody do pełnienia żadnej funkcji w Kościele Domowym, włącznie z funkcją arcykapłana, biskupa tytularnego subdiecezjalnego i hierarchy związku subdiecezjatów (a także patriarchy, gdzie patriarchat ustanowił Biskup Rzymski).
 
 **§ 3.** W przypadku śmierci małżonki, osoba sprawująca posługę może:
 
@@ -88,7 +88,9 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 5° **Biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan sprawujący władzę pasterską nad subdiecezją domową lub posiadający tytuł z nadania Bożego nie obejmujący subdiecezji;
 
-6° **Patriarcha Subdiecezji Domowych** — biskup tytularny subdiecezjalny sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi.
+6° **Hierarcha Związku Subdiecezjatów** (*hierarcha foederis subdioecesuatuum*, dawniej: Patriarcha Subdiecezji Domowych) — biskup tytularny subdiecezjalny wybrany spośród synodu biskupów subdiecezjalnych, sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi zrzeszonymi w związku subdiecezjatów; pierwszy hierarcha związku subdiecezjatów jest pierwszym hierarchą pierwszego subdiecezjatu i jako taki nie bierze udziału w głosowaniu nad swoim następcą.
+
+7° **Patriarcha** — tytuł i urząd ustanawiane przez Biskupa Rzymskiego wraz z patriarchatem; różni się od hierarchy związku subdiecezjatów tym, że ten ostatni wynika z ustanowienia dokonanego przez hierarchę subdiecezji oraz z wyboru synodu biskupów subdiecezjalnych, a nie z decyzji Biskupa Rzymskiego.
 
 **§ 2.** Podział ten ma charakter funkcjonalny i służebny, nie zaś ontologiczny. Wszystkie stopnie posługi wynikają z powszechnego kapłaństwa wiernych i nie są tożsame ze święceniami w rozumieniu kan. 1008-1009 KPK.
 
@@ -228,7 +230,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 2° osobą żyjącą w małżeństwie lub w celibacie;
 
-3° osobą, która ukończyła trzydziesty piąty rok życia, chyba że patriarcha udzieli dyspensy;
+3° osobą, która ukończyła trzydziesty piąty rok życia, chyba że hierarcha związku subdiecezjatów udzieli dyspensy (w patriarchacie ustanowionym przez Biskupa Rzymskiego — patriarca);
 
 4° osobą odznaczającą się wiarą, roztropnością, pobożnością i zdolnością do kierowania wspólnotą.
 
@@ -304,7 +306,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 1° w obrządku łacińskim prawem partykularnym są dekrety biskupa diecezjalnego i Konferencji Episkopatu;
 
-2° w obrządku domowym prawem partykularnym jest niniejszy Kanon, statuty Rodu, dekrety patriarchy i uchwały synodu patriarchalnego;
+2° w obrządku domowym prawem partykularnym jest niniejszy Kanon, statuty Rodu, dekrety hierarchy związku subdiecezjatów i uchwały synodu związku subdiecezjatów; w patriarchacie ustanowionym przez Biskupa Rzymskiego — także dekrety patriarchy i uchwały synodu patriarchalnego;
 
 3° w obrządku domowym prawo naturalne i Prawo Boże mają pierwszeństwo przed prawem stanowionym.
 
@@ -312,7 +314,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 1° w obrządku łacińskim te tytuły kościelne są zastrzeżone duchownym wyświęconym, w których KPK nakłada obowiązek wyświęcenia. Jeżeli KPK wyraźnie nie nakazuje bycia duchownym konsekrowanym do sprawowania określonej funkcji lub posiadania tytułu przyjmuje się, iż funkcję tą bądź tytuł może sprawować osoba niekonsekrowana;
 
-2° w obrządku domowym tytuły (duchowny, kapłan domowy, szafarz święty, arcykapłan, biskup subdiecezjalny, patriarcha) mogą być sprawowane przez osoby żyjące w małżeństwie, zarówno mężczyzn jak i kobiety;
+2° w obrządku domowym tytuły (duchowny, kapłan domowy, szafarz święty, arcykapłan, biskup subdiecezjalny, hierarcha związku subdiecezjatów — a w patriarchacie ustanowionym przez Biskupa Rzymskiego także patriarca) mogą być sprawowane przez osoby żyjące w małżeństwie, zarówno mężczyzn jak i kobiety;
 
 3° tytuły w obrządku domowym nie dają władzy święceń, lecz władzę jurysdykcyjną i liturgiczną w zakresie Kościoła Domowego.
 
@@ -371,6 +373,8 @@ lub Metropolita Kościoóa metropolitalnego sui iuris  za zgodą Rady Hierarchó
 **§ 3.** Zgodnei z KKKW Kan. 899  Duchowny każdego Kościoóa wschodniego akatolickiego
 przystępujący do peónej wspólnoty z Kościoóem katolickim może wykonywać swoje święcenia wedóug norm ustanowionych przez kompetentną
 wóadzę. Natomiast biskup nie może ważnie wykonywać wóadzy rządzenia bez zgody Biskupa Rzymskiego, który jest góową Kolegium Biskupów.
+
+**§ 4.** Przepisy § 1–3 odnoszą się do patriarchatu i patriarchy ustanawianych przez Biskupa Rzymskiego. Związek subdiecezjatów oraz subdiecezje z hierarchą biskupa ustanawia hierarcha subdiecezji; związkiem subdiecezjatów kieruje natomiast hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI i VIII).
 
 **Kan. 514.** Zgodnie z KKKW Kan. 921  § 1. Osoby prawne są ustanowione dla celu odpowiadają-
 cego misji Kościoóa, albo na mocy samego przepisu prawa, albo przez

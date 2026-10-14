@@ -1,10 +1,10 @@
-# KSIĘGA VI — STRUKTURA HIERARCHICZNA KOŚCIOŁA DOMOWEGO: SUBDIECEZJA DOMOWA I PATRIARCHAT 
+# KSIĘGA VI — STRUKTURA HIERARCHICZNA KOŚCIOŁA DOMOWEGO: SUBDIECEZJA Z HIERARCHĄ BISKUPA ORAZ ZWIĄZEK SUBDIECEZJATÓW Z HIERARCHĄ ZWIĄZKU SUBDIECEZJATÓW 
 
-## *De Subdioecesi Domestica et Patriarchatu Subdioecesium Domesticarum*
+## *De Subdioecesi Domestica et Foederis Subdioecesuatuum*
 
 ### PREAMBUŁA KSIĘGI
 
-Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego niniejsza Księga ustanawia przepisy dotyczące godności biskupa tytularnego subdiecezjalnego (*episcopus titularis subdioecesanus*), struktury subdiecezji domowej oraz Patriarchatu Subdiecezji Domowych, zgodnie z wolą Biskupa Rzymskiego i przepisami prawa kościelnego, w tym Kodeksu Kanonów Kościołów Wschodnich (CCEO).
+Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego niniejsza Księga ustanawia przepisy dotyczące godności biskupa tytularnego subdiecezjalnego (*episcopus titularis subdioecesanus*), struktury subdiecezji z hierarchą biskupa oraz Związku Subdiecezjatów z hierarchą związku subdiecezjatów. Należy przy tym zachować zasadnicze rozróżnienie: patriarchat i patriarchę ustanawia Biskup Rzymu, natomiast subdiecezję wraz z jej hierarchą ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych — z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu. Przepisy niniejszej Księgi opierają się na prawie kościelnym, w tym na Kodeksie Kanonów Kościołów Wschodnich (CCEO), stosowanym odpowiednio.
 
 ---
 
@@ -130,63 +130,63 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-## Tytuł IV: USTANOWIENIE PATRIARCHATU
+## Tytuł IV: USTANOWIENIE ZWIĄZKU SUBDIECEZJATÓW
 
-**Kan. 328 § 1.** Zgodnie z Kodeksem Kanonów Kościołów Wschodnich (CCEO), Biskup Rzymski ma prawo ustanawiać, zmieniać i znosić patriarchaty (por. kan. 8 CCEO, kompetencja Stolicy Apostolskiej w przedmiocie erygowania i zmiany struktur hierarchicznych Kościołów patriarchalnych). Na mocy tego prawa i woli Biskupa Rzymskiego, ustanawia się Patriarchat Subdiecezji Domowych jako strukturę hierarchiczną obejmującą wszystkie subdiecezje domowe Kościoła Domowego.
+**Kan. 328 § 1.** Zgodnie z Kodeksem Kanonów Kościołów Wschodnich (CCEO), Biskup Rzymski ma prawo ustanawiać, zmieniać i znosić patriarchaty (por. kan. 8 CCEO, kompetencja Stolicy Apostolskiej w przedmiocie erygowania i zmiany struktur hierarchicznych Kościołów patriarchalnych); patriarchat i patriarchę ustanawia zatem wyłącznie Biskup Rzymu. Zgoła odmiennie kształtuje się ustanowienie subdiecezji i związku subdiecezjatów: subdiecezję wraz z jej hierarchą biskupa ustanawia hierarcha subdiecezji macierzystej, nie Biskup Rzymu. Na tej podstawie ustanawia się Związek Subdiecezjatów jako strukturę hierarchiczną obejmującą wszystkie subdiecezje domowe Kościoła Domowego, którego hierarcha związku pochodzi z wyboru synodu biskupów subdiecezjalnych.
 
-**§ 2.** Patriarchat Subdiecezji Domowych jest wspólnotą subdiecezji domowych, które pod przewodnictwem patriarchy sprawują posługę pasterską wobec wiernych Kościoła Domowego, zachowując jedność z Kościołem powszechnym i podlegając Biskupowi Rzymskiemu.
+**§ 2.** Związek Subdiecezjatów jest wspólnotą subdiecezjatów, które pod przewodnictwem hierarchy związku subdiecezjatów sprawują posługę pasterską wobec wiernych Kościoła Domowego, zachowując jedność z Kościołem powszechnym i podlegając Biskupowi Rzymskiemu.
 
-**§ 3.** Patriarcha Subdiecezji Domowych jest pierwszym wśród równych (*primus inter pares*) spośród biskupów tytularnych subdiecezjalnych i sprawuje władzę patriarchalną nad wszystkimi subdiecezjami domowymi Kościoła Domowego.
+**§ 3.** Hierarcha Związku Subdiecezjatów jest pierwszym wśród równych (*primus inter pares*) spośród biskupów tytularnych subdiecezjalnych i sprawuje władzę nad wszystkimi subdiecezjami domowymi Kościoła Domowego; wybierany jest spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
 
-**Kan. 329 § 1.** Pierwszym patriarchą Subdiecezji Domowych jest Głowa Rodu, biskup tytularny subdiecezjalny, ustanowiony patriarchą zgodnie z wolą Biskupa Rzymskiego i niniejszym Kanonem.
+**Kan. 329 § 1.** Pierwszym hierarchą związku subdiecezjatów — pierwszym hierarchą pierwszego subdiecezjatu — jest Głowa Rodu, biskup tytularny subdiecezjalny; jako taki nie podlega wyborowi synodu biskupów subdiecezjalnych, ponieważ kolejnych hierarchów związku subdiecezjatów wybiera się spośród synodu właśnie z pominięciem pierwszego hierarchy związku subdiecezjatów.
 
-**§ 2.** Patriarcha Subdiecezji Domowych:
+**§ 2.** Hierarcha Związku Subdiecezjatów:
 
-1° jest głową patriarchatu i reprezentuje go wobec Kościoła Powszechnego;
+1° jest głową związku subdiecezjatów i reprezentuje go wobec Kościoła Powszechnego;
 
-2° sprawuje władzę patriarchalną nad wszystkimi subdiecezjami domowymi;
+2° sprawuje władzę pasterską nad wszystkimi subdiecezjami domowymi;
 
-3° koordynuje działalność pastoralną wszystkich subdiecezji domowych;
+3° koordynuje działalność pastoralną wszystkich subdiecezjatów;
 
-4° czuwa nad jednością wiary i dyscypliny w patriarchacie;
+4° czuwa nad jednością wiary i dyscypliny w związku subdiecezjatów;
 
-5° reprezentuje patriarchat wobec biskupów diecezjalnych i Stolicy Apostolskiej;
+5° reprezentuje związek subdiecezjatów wobec biskupów diecezjalnych i Stolicy Apostolskiej;
 
 6° jest stróżem tradycji trzech obrządków domowych;
 
-7° sprawuje najwyższą władzę ustawodawczą, wykonawczą i sądowniczą w patriarchacie, z zachowaniem prawa powszechnego.
+7° sprawuje najwyższą władzę ustawodawczą, wykonawczą i sądowniczą w związku subdiecezjatów, z zachowaniem prawa powszechnego.
 
-**§ 3.** Godność patriarchy jest związana z osobą Głowy Rodu jako pierwszego biskupa tytularnego subdiecezjalnego i nie może być przeniesiona na inną osobę bez zgody Biskupa Rzymskiego. Przepisy o przekazaniu patriarchatu zawiera Księga VIII.
+**§ 3.** Godność hierarchy związku subdiecezjatów wiąże się z osobą Głowy Rodu jako pierwszego biskupa tytularnego subdiecezjalnego i pierwszego hierarchy pierwszego subdiecezjatu; po jego śmierci, rezygnacji lub oddaleniu kolejnego hierarchę związku wybiera synod biskupów subdiecezjalnych, a nie Biskup Rzymu — inaczej niż w przypadku patriarchy, którego ustanawia Biskup Rzymu. Przepisy o przekazaniu urzędu hierarchy związku subdiecezjatów zawiera Księga VIII.
 
-**Kan. 330.** Patriarcha Subdiecezji Domowych ma prawo:
+**Kan. 330.** Hierarcha Związku Subdiecezjatów ma prawo:
 
-1° zwoływać synod patriarchatu;
+1° zwoływać synod związku subdiecezjatów;
 
 2° wydawać dekrety i instrukcje obowiązujące wszystkie subdiecezje domowe;
 
-3° mianować i odwoływać biskupów tytularnych subdiecezjalnych nowych subdiecezji domowych, za zgodą Biskupa Rzymskiego;
+3° ustanawiać nowe subdiecezje z hierarchą biskupa — to jest mianować i odwoływać biskupów tytularnych subdiecezjalnych nowych subdiecezjatów — przy czym subdiecezję wraz z jej hierarchą ustanawia hierarcha subdiecezji, nie Biskup Rzymu;
 
 4° wizytować wszystkie subdiecezje domowe;
 
 5° rozstrzygać spory między subdiecezjami domowymi;
 
-6° reprezentować patriarchat wobec władz kościelnych i świeckich;
+6° reprezentować związek subdiecezjatów wobec władz kościelnych i świeckich;
 
 7° ustanawiać nowe obrządki domowe lub zmieniać istniejące, za zgodą Triarchii Domowej;
 
-8° udzielać błogosławieństwa patriarchalnego.
+8° udzielać błogosławieństwa jako hierarcha związku subdiecezjatów.
 
-**Kan. 331.** Patriarcha Subdiecezji Domowych ma obowiązek:
+**Kan. 331.** Hierarcha Związku Subdiecezjatów ma obowiązek:
 
-1° czuwać nad jednością wiary i obyczajów w patriarchacie;
+1° czuwać nad jednością wiary i obyczajów w związku subdiecezjatów;
 
-2° troszczyć się o duchowy rozwój wszystkich subdiecezji domowych;
+2° troszczyć się o duchowy rozwój wszystkich subdiecezjatów;
 
 3° utrzymywać łączność z Biskupem Rzymskim i biskupami diecezjalnymi;
 
-4° składać sprawozdanie Biskupowi Rzymskiemu ze stanu patriarchatu;
+4° składać sprawozdanie Biskupowi Rzymskiemu ze stanu hierarcha związku subdiecezjatów;
 
-5° chronić prawa i godność wszystkich członków patriarchatu;
+5° chronić prawa i godność wszystkich członków hierarcha związku subdiecezjatów;
 
 6° wspierać dzieła apostolatu i miłosierdzia;
 
@@ -196,43 +196,43 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-## Tytuł V: SYNOD PATRIARCHATU
+## Tytuł V: SYNOD ZWIĄZKU SUBDIECEZJATÓW
 
-**Kan. 332 § 1.** Synod Patriarchatu Subdiecezji Domowych jest zebraniem biskupów tytularnych subdiecezjalnych oraz wybranych przedstawicieli wspólnot domowych, którzy dla dobra całego patriarchatu świadczą pomoc patriarsze (por. kan. 342-348 KPK, zastosowany analogicznie).
+**Kan. 332 § 1.** Synod Związku Subdiecezjatów jest zebraniem biskupów tytularnych subdiecezjalnych oraz wybranych przedstawicieli wspólnot domowych, którzy dla dobra całego hierarcha związku subdiecezjatów świadczą pomoc hierarsze związku (por. kan. 342-348 KPK, zastosowany analogicznie).
 
-**§ 2.** Synod Patriarchatu powinien odbywać się przynajmniej raz w roku, a także wtedy, gdy zdaniem patriarchy i po wysłuchaniu Triarchii Domowej, doradzają to okoliczności. Przepisy o synodzie wyborczym zawiera Księga VIII, Tytuł III.
+**§ 2.** Synod Związku Subdiecezjatów powinien odbywać się przynajmniej raz w roku, a także wtedy, gdy zdaniem hierarchy związku subdiecezjatów i po wysłuchaniu Triarchii Domowej, doradzają to okoliczności. Przepisy o synodzie wyborczym zawiera Księga VIII, Tytuł III.
 
-**Kan. 333.** Na Synod Patriarchatu powinni być wezwani jako członkowie i mają obowiązek w nim uczestniczyć:
+**Kan. 333.** Na Synod Związku Subdiecezjatów powinni być wezwani jako członkowie i mają obowiązek w nim uczestniczyć:
 
-1° patriarcha jako przewodniczący;
+1° hierarcha związku subdiecezjatów jako przewodniczący;
 
 2° wszyscy biskupi tytularni subdiecezjalni;
 
-3° Małżonka patriarchy jako współszafarka łaski;
+3° Małżonka hierarchy związku subdiecezjatów jako współszafarka łaski;
 
 4° przedstawiciele Triarchii Domowych każdej subdiecezji;
 
-5° inne osoby zaproszone przez patriarchę.
+5° inne osoby zaproszone przez hierarchę związku.
 
-**Kan. 334.** Synod Patriarchatu posiada jedynie głos doradczy. Patriarcha powinien wysłuchać jego zdania w ważniejszych sprawach. Jedynym ustawodawcą na Synodzie Patriarchatu jest patriarcha, który sam podpisuje dekrety synodalne (por. kan. 6 KPK, zastosowany analogicznie).
+**Kan. 334.** Synod Związku Subdiecezjatów posiada jedynie głos doradczy. Hierarcha Związku Subdiecezjatów powinien wysłuchać jego zdania w ważniejszych sprawach. Jedynym ustawodawcą na Synodzie Hierarcha Związku Subdiecezjatów jest hierarcha związku subdiecezjatów, który sam podpisuje dekrety synodalne (por. kan. 6 KPK, zastosowany analogicznie).
 
 ---
 
-## Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJALNI W PATRIARCHACIE
+## Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJALNI W ZWIĄZKU SUBDIECEZJATÓW
 
-**Kan. 335 § 1.** W patriarchacie mogą istnieć liczne subdiecezje domowe, każda pod przewodnictwem własnego biskupa tytularnego subdiecezjalnego. Wszystkie subdiecezje domowe podlegają władzy patriarchy.
+**Kan. 335 § 1.** W związku subdiecezjatów mogą istnieć liczne subdiecezje domowe, każda pod przewodnictwem własnego biskupa tytularnego subdiecezjalnego. Wszystkie subdiecezje domowe podlegają władzy hierarchy związku subdiecezjatów.
 
 **§ 2.** Biskupem tytularnym subdiecezjalnym może zostać:
 
 1° Głowa Rodu, która otrzymała święcenia biskupie i została przyjęta przez Biskupa Rzymskiego;
 
-2° osoba wyznaczona przez patriarchę za zgodą Biskupa Rzymskiego;
+2° osoba wyznaczona przez hierarchę związku za zgodą Biskupa Rzymskiego;
 
-3° osoba wybrana przez wspólnotę domową i zatwierdzona przez patriarchę.
+3° osoba wybrana przez wspólnotę domową i zatwierdzona przez hierarchę związku.
 
 **§ 3.** Każdy biskup tytularny subdiecezjalny:
 
-1° podlega patriarsze w sprawach dotyczących patriarchatu;
+1° podlega hierarsze związku w sprawach dotyczących hierarcha związku subdiecezjatów;
 
 2° podlega biskupowi diecezjalnemu w sprawach dotyczących diecezji;
 
@@ -240,11 +240,11 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 4° sprawuje władzę w swojej subdiecezji domowej zgodnie z niniejszym Kanonem;
 
-5° uczestniczy w Synodzie Patriarchatu;
+5° uczestniczy w Synodzie Hierarcha Związku Subdiecezjatów;
 
-6° składa sprawozdanie patriarsze ze stanu swojej subdiecezji domowej.
+6° składa sprawozdanie hierarsze związku ze stanu swojej subdiecezji domowej.
 
-**Kan. 336.** W przypadku konfliktu między biskupem tytularnym subdiecezjalnym a patriarchą, sprawę rozstrzyga:
+**Kan. 336.** W przypadku konfliktu między biskupem tytularnym subdiecezjalnym a hierarchą związku, sprawę rozstrzyga:
 
 1° najpierw bezpośrednia rozmowa w duchu miłości;
 
@@ -256,9 +256,9 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 1° na skutek śmierci;
 
-2° na skutek rezygnacji przyjętej przez patriarchę;
+2° na skutek rezygnacji przyjętej przez hierarchę związku;
 
-3° na skutek usunięcia przez patriarchę za zgodą Biskupa Rzymskiego;
+3° na skutek usunięcia przez hierarchę związku za zgodą Biskupa Rzymskiego;
 
 4° na skutek utraty wspólnoty z Kościołem katolickim;
 
@@ -266,11 +266,11 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-## Tytuł VII: RELACJA PATRIARCHATU DO KOŚCIOŁA POWSZECHNEGO
+## Tytuł VII: RELACJA ZWIĄZKU SUBDIECEZJATÓW DO KOŚCIOŁA POWSZECHNEGO
 
-**Kan. 338 § 1.** Patriarchat Subdiecezji Domowych pozostaje w pełnej wspólnocie z Kościołem Katolickim i uznaje najwyższą władzę Biskupa Rzymskiego (por. kan. 1 KPK).
+**Kan. 338 § 1.** Związek Subdiecezjatów pozostaje w pełnej wspólnocie z Kościołem Katolickim i uznaje najwyższą władzę Biskupa Rzymskiego (por. kan. 1 KPK).
 
-**§ 2.** Patriarcha ma obowiązek:
+**§ 2.** Hierarcha Związku Subdiecezjatów ma obowiązek:
 
 1° utrzymywać łączność z Biskupem Rzymskim;
 
@@ -278,13 +278,13 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 3° nie podejmować działań sprzecznych z doktryną i dyscypliną Kościoła;
 
-4° składać sprawozdanie Biskupowi Rzymskiemu ze stanu patriarchatu;
+4° składać sprawozdanie Biskupowi Rzymskiemu ze stanu hierarcha związku subdiecezjatów;
 
 5° uczestniczyć w życiu Kościoła Powszechnego;
 
 6° wspierać dzieła apostolatu i misji Kościoła Powszechnego.
 
-**§ 3.** Patriarchat nie może:
+**§ 3.** Hierarcha Związku Subdiecezjatówt nie może:
 
 1° nauczać doktryny sprzecznej z Magisterium Kościoła;
 
@@ -296,7 +296,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 5° twierdzić, że jest jedynym prawdziwym Kościołem.
 
-**Kan. 339.** Patriarchat Subdiecezji Domowych, jako struktura wyrosła z ducha katolicyzmu i prowadząca działania na rzecz Wspólnoty Ludzi, powinien w swojej działalności zachowywać proporcje:
+**Kan. 339.** Związek Subdiecezjatów, jako struktura wyrosła z ducha katolicyzmu i prowadząca działania na rzecz Wspólnoty Ludzi, powinien w swojej działalności zachowywać proporcje:
 
 1° 33% — pogląd katolicki;
 
@@ -312,9 +312,9 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-## Tytuł VIII: INSYGNIA I TYTUŁY PATRIARCHY
+## Tytuł VIII: INSYGNIA I TYTUŁY HIERARCHY ZWIĄZKU SUBDIECEZJATÓW
 
-**Kan. 340 § 1.** Patriarcha Subdiecezji Domowych ma prawo używać następujących insygniów:
+**Kan. 340 § 1.** Hierarcha Związku Subdiecezjatów ma prawo używać następujących insygniów:
 
 1° krzyża pektoralnego z symbolem trzech obrządków domowych;
 
@@ -324,11 +324,11 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 4° mitry podczas uroczystych celebracji liturgicznych;
 
-5° paliusza jako znaku władzy patriarchalnej, jeśli zostanie nadany przez Biskupa Rzymskiego.
+5° paliusza jako znaku władzy hierarchy związku subdiecezjatów, jeśli zostanie nadany przez Biskupa Rzymskiego.
 
-**§ 2.** Tytuły patriarchy obejmują:
+**§ 2.** Tytuły hierarchy związku subdiecezjatów obejmują:
 
-1° Patriarcha Subdiecezji Domowych;
+1° Hierarcha Związku Subdiecezjatów;
 
 2° Biskup Tytularny Subdiecezjalny;
 
@@ -340,9 +340,9 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 6° Ojciec i Pasterz wspólnoty domowej.
 
-**Kan. 341.** Patriarcha ma prawo używać formuły błogosławieństwa patriarchalnego:
+**Kan. 341.** Hierarcha Związku Subdiecezjatów ma prawo używać formuły błogosławieństwa hierarchy związku subdiecezjatów:
 
-*„W imię Ojca i Syna, i Ducha Świętego. Amen. Bóg Wszechmogący, który jest Alfą i Omegą, Początkiem i Końcem, niech błogosławi [imię/wspólnotę] i strzeże. Niech Pan rozpromieni oblicze swe nad [nimi] i obdarzy [ich] łaską. Niech zwróci ku [nim] twarz swoją i obdarzy [ich] pokojem. Jako patriarcha Subdiecezji Domowych i biskup tytularny subdiecezjalny, błogosławię was w imię Trójcy Świętej i w jedności z Kościołem Powszechnym. Amen.”*
+*„W imię Ojca i Syna, i Ducha Świętego. Amen. Bóg Wszechmogący, który jest Alfą i Omegą, Początkiem i Końcem, niech błogosławi [imię/wspólnotę] i strzeże. Niech Pan rozpromieni oblicze swe nad [nimi] i obdarzy [ich] łaską. Niech zwróci ku [nim] twarz swoją i obdarzy [ich] pokojem. Jako hierarcha związku subdiecezjatów i biskup tytularny subdiecezjalny, błogosławię was w imię Trójcy Świętej i w jedności z Kościołem Powszechnym. Amen.”*
 
 ---
 

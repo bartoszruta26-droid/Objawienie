@@ -16,7 +16,7 @@ Niniejsza Księga ustanawia przepisy dotyczące:
 
 5° zakazu samowolnego pozbawiania biskupa tytularnego subdiecezjalnego władzy, majątku lub obrządku przez jakąkolwiek władzę kościelną niższą od Biskupa Rzymskiego.
 
-Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w granicach dopuszczalnych przez Prawo Boże, Prawo Naturalne, prawa człowieka oraz z poszanowaniem powszechnego prawa kościelnego, w szczególności Kodeksu Prawa Kanonicznego z 1983 roku oraz, w zakresie obrządków wschodnich i patriarchalnych, Kodeksu Kanonów Kościołów Wschodnich.
+Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w granicach dopuszczalnych przez Prawo Boże, Prawo Naturalne, prawa człowieka oraz z poszanowaniem powszechnego prawa kościelnego, w szczególności Kodeksu Prawa Kanonicznego z 1983 roku oraz, w zakresie obrządków wschodnich i struktur hierarchicznych związku subdiecezjatów, Kodeksu Kanonów Kościołów Wschodnich.
 
 Żaden przepis niniejszej Księgi nie może być interpretowany w sposób sprzeczny z Prawem Bożym, Prawem Naturalnym, godnością osoby ludzkiej, wolnością sumienia, prawami dziecka, prawami osób trzecich ani z najwyższą zasadą *salus animarum suprema lex*.
 
@@ -56,7 +56,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 6° zarządcy dóbr doczesnych, duchowych i intelektualnych subdiecezji domowej.
 
-**§ 2.** Jeżeli biskup tytularny subdiecezjalny posiada także godność patriarchy Subdiecezji Domowych, jego posługa patriarchalna zostaje przyjęta i uznana w granicach określonych przez Biskupa Rzymskiego oraz niniejszy Kanon.
+**§ 2.** Jeżeli biskup tytularny subdiecezjalny posiada także godność hierarchy związku subdiecezjatów (wybranego spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu), jego posługa hierarchy związku subdiecezjatów zostaje przyjęta i uznana w granicach określonych przez Biskupa Rzymskiego oraz niniejszy Kanon.
 
 **§ 3.** Przyjęcie posługi nie oznacza uznania jakichkolwiek nadużyć, błędów doktrynalnych czy czynów sprzecznych z Prawem Bożym, lecz oznacza uznanie osoby, urzędu, subdiecezji, majątku i obrządku w stanie łaski i komunii kościelnej, o ile nie nastąpiło ważne oddalenie zgodnie z kan. 351–357.
 
@@ -142,7 +142,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 5° oddalenie obrządku domowego ze wspólnoty Kościoła Katolickiego;
 
-6° zakaz używania tytułu biskupa tytularnego subdiecezjalnego, patriarchy, arcykapłana, szafarza świętego lub innego tytułu kościelnego;
+6° zakaz używania tytułu biskupa tytularnego subdiecezjalnego, hierarchy związku subdiecezjatów, arcykapłana, szafarza świętego lub innego tytułu kościelnego;
 
 7° zakaz sprawowania obrządku domowego w przestrzeni publicznej kościelnej;
 
@@ -152,7 +152,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 10° decyzję o losie dóbr doczesnych, duchowych i intelektualnych po oddaleniu.
 
-**§ 3.** Żaden biskup diecezjalny, metropolita, patriarcha, synod partykularny, synod prowincjalny, Konferencja Episkopatu, legat papieski, dykasteria Kurii Rzymskiej, administrator diecezji, wikariusz generalny, wikariusz biskupi, wikariusz sądowy, kapituła, proboszcz ani jakakolwiek inna władza kościelna niższa od Biskupa Rzymskiego nie może ważnie ani godziwie dokonać aktu, o którym mowa w §§ 1–2, bez wyraźnego mandatu, aprobaty lub upoważnienia Biskupa Rzymskiego.
+**§ 3.** Żaden biskup diecezjalny, metropolita, hierarcha związku subdiecezjatów, synod partykularny, synod prowincjalny, Konferencja Episkopatu, legat papieski, dykasteria Kurii Rzymskiej, administrator diecezji, wikariusz generalny, wikariusz biskupi, wikariusz sądowy, kapituła, proboszcz ani jakakolwiek inna władza kościelna niższa od Biskupa Rzymskiego nie może ważnie ani godziwie dokonać aktu, o którym mowa w §§ 1–2, bez wyraźnego mandatu, aprobaty lub upoważnienia Biskupa Rzymskiego.
 
 **§ 4.** Akty sprzeczne z § 3 są nieważne z mocy prawa albo co najmniej bezskuteczne wobec biskupa tytularnego subdiecezjalnego, subdiecezji domowej, jej majątku oraz obrządku domowego, i nie rodzą obowiązku posłuszeństwa.
 
@@ -306,7 +306,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 1° teksty kanonów, statutów, regulaminów, komentarzy, wykładów, katechez, kazań, medytacji, modlitw, formuł liturgicznych;
 
-2° nazwy: Kościół Domowy, subdiecezja domowa, obrządek Marii Magdaleny, obrządek Pawłowy, obrządek Tomaszowy, Ród, Triarchia Domowa, Patriarchat Subdiecezji Domowych, jeśli zostały użyte lub stworzone przez biskupa;
+2° nazwy: Kościół Domowy, subdiecezja domowa, obrządek Marii Magdaleny, obrządek Pawłowy, obrządek Tomaszowy, Ród, Triarchia Domowa, Związek Subdiecezjatów, jeśli zostały użyte lub stworzone przez biskupa;
 
 3° herby, pieczęcie, symbole, znaki graficzne, logotypy, barwy, insygnia, sygnet, dokumenty identyfikacyjne;
 
@@ -458,7 +458,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** Ogłoszenie winno zostać zapisane w Księdze Kanonów Kościoła Domowego, archiwum subdiecezji domowej oraz, jeśli to możliwe, przekazane do wiadomości biskupa diecezjalnego i Stolicy Apostolskiej.
 
-**Kan. 375 § 1.** Wszelkie wcześniejsze przepisy niniejszego Kanonu Kościoła Domowego, które pozwalałyby biskupowi diecezjalnemu, metropolicie, patriarsze, synodowi, Konferencji Episkopatu, dykasterii, legatowi, administratorowi, wikariuszowi, kapitułe, proboszczowi lub jakiejkolwiek innej władzy niższej od Biskupa Rzymskiego na:
+**Kan. 375 § 1.** Wszelkie wcześniejsze przepisy niniejszego Kanonu Kościoła Domowego, które pozwalałyby biskupowi diecezjalnemu, metropolicie, hierarsze związku, synodowi, Konferencji Episkopatu, dykasterii, legatowi, administratorowi, wikariuszowi, kapitułe, proboszczowi lub jakiejkolwiek innej władzy niższej od Biskupa Rzymskiego na:
 
 1° oddalenie biskupa tytularnego subdiecezjalnego;
 
@@ -484,7 +484,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 4° Kodeksem Prawa Kanonicznego z 1983 roku, w zakresie nie sprzecznym z Prawem Bożym;
 
-5° Kodeksem Kanonów Kościołów Wschodnich, w zakresie dotyczącym obrządków i patriarchatów;
+5° Kodeksem Kanonów Kościołów Wschodnich, w zakresie dotyczącym obrządków i struktur hierarchicznych;
 
 6° zwyczajem Rodu i tradycją Kościoła Domowego;
 
