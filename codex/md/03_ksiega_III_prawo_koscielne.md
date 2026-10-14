@@ -11,10 +11,15 @@
 **Kan. 49 § 1.** Kościół Domowy uznaje, że ustawy kościelne powszechne, promulgowane zgodnie z kan. 7-8 KPK, obowiązują wszystkich wiernych wspólnoty domowej, którzy zostali ochrzczeni w Kościele katolickim lub do niego przyjęci, posiadają wystarczające używanie rozumu i ukończyli siódmy rok życia (por. kan. 11 KPK), o ile prawo wyraźnie nie zastrzega inaczej.
 
 **§ 2.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by wszyscy członkowie wspólnoty domowej znali treść ustaw powszechnych dotyczących ich stanu i obowiązków, w szczególności:
+
 1° ustaw dotyczących sakramentów i sakramentaliów;
+
 2° ustaw dotyczących kultu Bożego i roku liturgicznego;
+
 3° ustaw dotyczących obowiązków i praw wiernych (kan. 1 KPK);
+
 4° ustaw dotyczących małżeństwa i rodziny (kan. 185-1165 KPK);
+
 5° ustaw dotyczących nauczania i formacji (kan. 3 KPK).
 
 **Kan. 50 § 1.** Ustawy powszechne Kościoła, które nie obowiązują na określonym terytorium, nie wiążą członków Kościoła Domowego aktualnie przebywających poza tym terytorium (por. kan. 12 § 2 KPK).
@@ -43,10 +48,15 @@
 **Kan. 57 § 1.** Ustawy partykularne Kościoła Domowego są promulgowane przez Głowę Rodu jako biskupa domowego i prawodawcę domowego w sposób określony niniejszym Kanonem i zaczynają obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin (por. kan. 8 § 2 KPK, zastosowany analogicznie).
 
 **§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z:
+
 1° Prawem Bożym naturalnym i pozytywnym;
+
 2° ustawami powszechnymi Kościoła;
+
 3° dekretami Stolicy Apostolskiej;
+
 4° prawem naturalnym i prawami człowieka;
+
 5° niniejszym Kanonem Prawa Kościoła Domowego.
 
 **§ 3.** Ustawa powszechna Kościoła nie zmienia prawa partykularnego Kościoła Domowego, chyba że co innego jest w prawie wyraźnie zastrzeżone (por. kan. 20 KPK).
@@ -75,9 +85,13 @@
 **Kan. 65 § 1.** Kościół Domowy uznaje, że tylko ten zwyczaj wprowadzony przez wspólnotę wiernych posiada moc prawa, który został zatwierdzony przez prawodawcę, zgodnie z kanonami KPK (por. kan. 23 KPK).
 
 **§ 2.** W Kościele Domowym zwyczaj domowy może uzyskać moc prawa partykularnego, jeśli:
+
 1° nie jest przeciwny Prawu Bożemu (por. kan. 24 § 1 KPK);
+
 2° jest rozumny i nie został wyraźnie odrzucony przez prawo (por. kan. 24 § 2 KPK);
+
 3° jest zachowywany z zamiarem wprowadzenia prawa przez wspólnotę domową zdolną przynajmniej do jego przyjęcia (por. kan. 25 KPK);
+
 4° został zatwierdzony przez Głowę Rodu jako prawodawcę domowego.
 
 **Kan. 66 § 1.** Istniejące dotychczas zwyczaje przeciwne przepisom Kodeksu Prawa Kanonicznego, tak powszechne jak i partykularne, zostają w Kościele Domowym całkowicie zniesione i nie dopuszcza się do ich wznowienia, jeśli zostały odrzucone przez kanony Kodeksu (por. kan. 5 § 1 KPK).
@@ -91,10 +105,15 @@
 **Kan. 69.** Zwyczaj, czy to przeciwny prawu, czy obok niego, zostaje odwołany przez zwyczaj przeciwny lub ustawę. Ustawa powszechna nie odwołuje zwyczajów partykularnych Kościoła Domowego, chyba że wyraźnie o nich wspomina (por. kan. 28 KPK).
 
 **Kan. 70.** Do zatwierdzenia zwyczaju domowego wymagana jest:
+
 1° praktyka ciągła przez okres trzech lat;
+
 2° świadomość wspólnoty domowej co do istnienia zwyczaju;
+
 3° intencja wprowadzenia prawa (*animus iuris inducendi*);
+
 4° wyraźne lub milczące zatwierdzenie przez Głowę Rodu;
+
 5° zgodność zwyczaju z Prawem Bożym, Naturalnym i niniejszym Kanonem.
 
 ## Tytuł III: DEKRETY OGÓLNE ORAZ INSTRUKCJE
@@ -131,11 +150,17 @@
 **§ 2.** Instrukcje domowe tracą moc nie tylko przez odwołanie wyraźne lub pośrednie przez kompetentną władzę domową lub wyższą, lecz także przez wygaśnięcie ustawy, dla której wyjaśnienia czy wprowadzenia jej w życie zostały wydane (por. kan. 34 § 3 KPK).
 
 **Kan. 79.** Kościół Domowy respektuje w szczególności następujące instrukcje Stolicy Apostolskiej, dostosowując je do warunków domowych:
+
 1° instrukcje liturgiczne dotyczące sprawowania sakramentów i sakramentaliów;
+
 2° instrukcje dotyczące formacji katechetycznej i nauczania;
+
 3° instrukcje dotyczące kultu Bożego i roku liturgicznego;
+
 4° instrukcje dotyczące spraw małżeńskich i rodzinnych;
+
 5° instrukcje dotyczące dóbr doczesnych Kościoła i ich zarządzania;
+
 6° instrukcje dotyczące środków społecznego przekazu.
 
 ## Tytuł IV: POSZCZEGÓLNE AKTY ADMINISTRACYJNE
@@ -245,22 +270,37 @@
 **§ 2.** Podczas zgromadzeń i obchodów domowych przepisami porządkowymi są związane osoby, które biorą w nich udział (por. kan. 95 § 2 KPK).
 
 **Kan. 115.** Statuty Kościoła Domowego obejmują w szczególności:
+
 1° niniejszy Kanon Prawa Kanonicznego Kościoła Domowego jako statut fundamentalny;
+
 2° regulamin liturgiczny trzech obrządków domowych;
+
 3° regulamin formacji i katechezy domowej;
+
 4° regulamin zarządu dobrami materialnymi i duchowymi wspólnoty;
+
 5° regulamin archiwum i dokumentacji;
+
 6° przepisy dotyczące przyjmowania i wykluczania członków;
+
 7° przepisy dotyczące Triarchii Domowej i jej funkcjonowania;
+
 8° przepisy dotyczące relacji z Kościołem Powszechnym.
 
 **Kan. 116.** Statuty Kościoła Domowego winny być:
+
 1° zgodne z Prawem Bożym, Naturalnym i prawami człowieka;
+
 2° zgodne z Kodeksem Prawa Kanonicznego z 1983 roku;
+
 3° zgodne z nauką Kościoła Powszechnego;
+
 4° zatwierdzone przez Triarchię Domową;
+
 5° promulgowane przez Głowę Rodu jako biskupa domowego;
+
 6° dostępne dla wszystkich członków wspólnoty;
+
 7° przechowywane w archiwum domowym.
 
 ## Tytuł VI: WŁADZA RZĄDZENIA W ODNIESIENIU DO PRAWA KOŚCIELNEGO
@@ -272,8 +312,11 @@
 **§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
 
 **Kan. 118.** Władza rządzenia w Kościele Domowym dzieli się na ustawodawczą, wykonawczą i sądowniczą (por. kan. 135 § 1 KPK):
+
 1° władzę ustawodawczą wykonuje Głowa Rodu jako prawodawca domowy;
+
 2° władzę wykonawczą wykonuje Głowa Rodu osobiście lub przez delegowanych członków wspólnoty;
+
 3° władzę sądowniczą wykonuje Głowa Rodu osobiście lub przez wyznaczonego sędziego domowego.
 
 **Kan. 119.** Władza ustawodawcza w Kościele Domowym winna być wykonywana w sposób przepisany niniejszym Kanonem. Niższy prawodawca domowy nie może ważnie wydać ustawy przeciwnej wyższemu prawu (por. kan. 135 § 2 KPK).
@@ -305,85 +348,137 @@
 **Kan. 129.** Przedawnienie jest ważne, jeśli opiera się na dobrej wierze, nie tylko na początku, lecz przez cały przeciąg czasu wymagany do zaistnienia przedawnienia (por. kan. 8 KPK).
 
 **Kan. 130.** Nie podlegają przedawnieniu w Kościele Domowym:
+
 1° prawa i obowiązki wynikające z prawa Bożego naturalnego lub pozytywnego;
+
 2° uprawnienia, które można uzyskać jedynie na mocy apostolskiego przywileju;
+
 3° prawa i obowiązki dotyczące bezpośrednio duchowego życia wiernych;
+
 4° ustalone i niewątpliwe granice diecezji domowej;
+
 5° stypendia i zobowiązania mszalne;
+
 6° powierzenie urzędu kościelnego, którego wykonywanie zgodnie z przepisami prawa wymaga święceń;
+
 7° prawo wizytacji i obowiązek posłuszeństwa (por. kan. 9 KPK).
 
 ## Tytuł IX: OBLICZANIE CZASU
 
 **Kan. 131.** Jeśli prawo czego innego wyraźnie nie zastrzega, czas w Kościele Domowym należy liczyć zgodnie z postanowieniami kan. 3 KPK:
+
 1° czas ciągły należy rozumieć jako niedopuszczający żadnej przerwy;
+
 2° czas użyteczny należy rozumieć, że wykonującemu lub dochodzącemu swego prawa tak przysługuje, iż dla niewiedzącego albo niemogącego działać nie płynie;
+
 3° dzień oznacza stały czasokres obejmujący 24 kolejno liczone godziny i zaczyna się od północy;
+
 4° tygodnia to okres 7 dni, miesiąc okres 30 dni, a rok 365 dni;
+
 5° pierwszego dnia nie wlicza się do terminu, chyba że jego początek zbiega się z początkiem dnia.
 
 ## Tytuł X: OBOWIĄZEK RESPEKTOWANIA PRAWA POWSZECHNEGO
 
 **Kan. 132 § 1.** Kościół Domowy jako partykularna wspólnota Ludu Bożego uznaje i respektuje cały porządek prawny Kościoła Katolickiego, wyrażony w szczególności w:
+
 1° Kodeksie Prawa Kanonicznego z 1983 roku;
+
 2° Konstytucjach Apostolskich;
+
 3° Encyklikach i Adhortacjach Apostolskich;
+
 4° Dekretach Soborowych;
+
 5° Dekretach i Deklaracjach Dykasterii Kurii Rzymskiej;
+
 6° Instrukcjach Stolicy Apostolskiej;
+
 7° Dekretach Konferencji Episkopatu;
+
 8° Ustawach i dekretach biskupa diecezjalnego, na którego terytorium znajduje się dom rodzinny;
+
 9° Prawie partykularnym diecezji, na której terytorium znajduje się Kościół Domowy.
 
 **§ 2.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by żaden przepis prawa partykularnego Kościoła Domowego nie był sprzeczny z prawem powszechnym Kościoła, a w przypadku wątpliwości pierwszeństwo przysługuje prawu powszechnemu.
 
 **Kan. 133 § 1.** Kościół Domowy respektuje w szczególności następujące obszary prawa powszechnego:
+
 1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-1165 KPK);
+
 2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliów i pogrzebu kościelnego (kan. 834-839 KPK);
+
 3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 3 KPK);
+
 4° **Prawo małżeńskie** — wszystkie przepisy dotyczące małżeństwa, jego zawierania, przeszkód, zgody, formy, skutków i separacji (kan. 185-1165 KPK);
+
 5° **Prawo karne** — przepisy dotyczące przestępstw i kar w Kościele (kan. 1311-1752 KPK);
+
 6° **Prawo procesowe** — przepisy dotyczące postępowań sądowych i administracyjnych (kan. 1400-1752 KPK);
+
 7° **Prawo dóbr doczesnych** — przepisy dotyczące nabywania, zarządzania i alienacji dóbr kościelnych (kan. 1254-1310 KPK).
 
 **§ 2.** W sprawach nieuregulowanych niniejszym Kanonem Kościoła Domowego stosuje się bezpośrednio przepisy Kodeksu Prawa Kanonicznego z 1983 roku.
 
 **Kan. 134 § 1.** Głowa Rodu jako biskup domowy ma obowiązek:
+
 1° znać i stosować prawo powszechne Kościoła w zakresie dotyczącym wspólnoty domowej;
+
 2° czuwać nad tym, by członkowie wspólnoty domowej przestrzegali prawa powszechnego;
+
 3° informować członków wspólnoty o zmianach w prawie powszechnym;
+
 4° dostosowywać prawo partykularne Kościoła Domowego do zmian w prawie powszechnym;
+
 5° rozstrzygać wątpliwości prawne zgodnie z ogólnymi zasadami prawa kanonicznego.
 
 **§ 2.** Małżonka jako współszafarka łaski ma obowiązek współdziałać z Głową Rodu w respektowaniu prawa powszechnego i czuwać nad jego przestrzeganiem w codziennym życiu wspólnoty.
 
 **Kan. 135.** Kościół Domowy uznaje, że:
+
 1° prawo Boże stoi ponad prawem naturalnym;
+
 2° prawo naturalne stoi ponad prawem stanowionym;
+
 3° prawo powszechne Kościoła stoi ponad prawem partykularnym Kościoła Domowego;
+
 4° prawo partykularne Kościoła Domowego uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
+
 5° żadne prawo partykularne nie może uchylać prawa Bożego, naturalnego ani powszechnego prawa kościelnego;
+
 6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej.
 
 ## Tytuł XI: RELACJA DO PRAWA PARTYKULARNEGO DIECEZJI
 
 **Kan. 136 § 1.** Kościół Domowy, znajdujący się na terytorium określonej diecezji, respektuje prawo partykularne tej diecezji w zakresie, w jakim dotyczy ono:
+
 1° sprawowania sakramentów i sakramentaliów;
+
 2° dyscypliny kościelnej;
+
 3° formacji i nauczania;
+
 4° kultu Bożego i roku liturgicznego;
+
 5° zarządu dobrami kościelnymi;
+
 6° spraw małżeńskich i rodzinnych.
 
 **§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym Kościoła Domowego, Głowa Rodu jako biskup domowy winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła.
 
 **Kan. 137 § 1.** Kościół Domowy respektuje zarządzenia biskupa diecezjalnego dotyczące:
+
 1° norm katechetycznych i formacyjnych;
+
 2° dyscypliny sakramentalnej;
+
 3° przepisów liturgicznych;
+
 4° zarządzeń dotyczących kultu Bożego;
+
 5° norm dotyczących środków społecznego przekazu;
+
 6° przepisów dotyczących dóbr doczesnych;
+
 7° zarządzeń dotyczących stowarzyszeń wiernych.
 
 **§ 2.** Głowa Rodu jako biskup domowy ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym Kościoła Domowego.
@@ -397,20 +492,31 @@
 **Kan. 140.** W sprawach nieuregulowanych niniejszą Księgą stosuje się bezpośrednio przepisy Kodeksu Prawa Kanonicznego z 1983 roku, a w sprawach nieuregulowanych także przez Kodeks — przepisy Prawa Bożego, Naturalnego i praw człowieka.
 
 **Kan. 141.** Żaden przepis niniejszej Księgi nie może być interpretowany w sposób:
+
 1° sprzeczny z Prawem Bożym;
+
 2° naruszający przyrodzoną godność osoby ludzkiej;
+
 3° ograniczający wolność sumienia i wyznania;
+
 4° naruszający prawa dziecka;
+
 5° sprzeczny z nauką Kościoła Powszechnego;
+
 6° dyskryminujący jakąkolwiek osobę;
+
 7° naruszający jedność z Biskupem Rzymskim i Kościołem Powszechnym.
 
 **Kan. 142.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by wszystkie przepisy niniejszej Księgi były stosowane w duchu miłości, sprawiedliwości i miłosierdzia, mając zawsze przed oczyma najwyższą zasadę: *salus animarum suprema lex* (zbawienie dusz najwyższym prawem, por. kan. 882 KPK).
 
 **Kan. 143.** W przypadku wątpliwości co do stosowania prawa powszechnego w Kościele Domowym, Głowa Rodu jako biskup domowy winien:
-1° zwrócić się o wyjaśnienie do kompetentnej władzy kościelnej;
-2° stosować ogólną zasadę, że w wątpliwości prawnej ustawy nie obowiązują (kan. 14 KPK);
-3° orzekać na korzyść strony słabszej;
-4° mieć na uwadze dobro wspólnoty i zbawienie dusz;
-5° nie podejmować decyzji, które mogłyby naruszyć jedność z Kościołem Powszechnym.
 
+1° zwrócić się o wyjaśnienie do kompetentnej władzy kościelnej;
+
+2° stosować ogólną zasadę, że w wątpliwości prawnej ustawy nie obowiązują (kan. 14 KPK);
+
+3° orzekać na korzyść strony słabszej;
+
+4° mieć na uwadze dobro wspólnoty i zbawienie dusz;
+
+5° nie podejmować decyzji, które mogłyby naruszyć jedność z Kościołem Powszechnym.
