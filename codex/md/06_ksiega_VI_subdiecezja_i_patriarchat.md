@@ -1,4 +1,4 @@
-# KSIĘGA VI — STRUKTURA HIERARCHICZNA KOŚCIOŁA DOMOWEGO: SUBDIECEZJA DOMOWA I PATRIARCHAT
+# KSIĘGA VI — STRUKTURA HIERARCHICZNA KOŚCIOŁA DOMOWEGO: SUBDIECEZJA DOMOWA, PATRIARCHAT i METROPOLITA
 
 ## *De Subdioecesi Domestica et Patriarchatu Subdioecesium Domesticarum*
 
@@ -346,12 +346,22 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-## Tytuł IX: PRZEPISY KOŃCOWE
+## Tytuł IX: METROPOLITA
+**Kan. 342.** 1. Zgodnie z Kan. 151 KKKW Arcybiskupem wiêkszym jest Metropolita stolicy okrelonejlub uznanej przez najwy¿sz¹ w³adzê kocieln¹, który przewodniczy Ko-
+cio³owi wschodniemu sui iuris, któremu nie zosta³ nadany tytu³ patriarszy.
 
-**Kan. 342.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako patriarchę Subdiecezji Domowych i biskupa tytularnego subdiecezjalnego, po konsultacji z Triarchią Domową.
+2. Zgodnie z Kan. 152 KKKW To, co w prawie wspólnym odnosi siê do Kocio³ów patriarchalnych lub do Patriarchów, ma zastosowanie do Kocio³ów arcybiskupich wiêkszych i do Arcybiskupów wiêkszych, chyba ¿e co innego prawo wspólne wyranie zastrzega albo wynika to z natury rzeczy.
 
-**Kan. 343.** Wszelkie wcześniejsze odniesienia do „biskupa diecezjalnego” w kontekście Kościoła Domowego należy rozumieć jako „biskupa tytularnego subdiecezjalnego” w zakresie dotyczącym subdiecezji domowej, a jako „biskupa diecezjalnego” w zakresie dotyczącym diecezji, na której terytorium znajduje się subdiecezja domowa.
+3. Zgodnie z KKKW Kan. 153  § 1. Arcybiskup wiêkszy jest wybierany wed³ug kan. 63-74.
+§ 2. Po przyjêciu wyboru Synod Kocio³a arcybiskupiego wiêkszego przez
+list synodalny zawiadamia Biskupa Rzymskiego o kanonicznie dokonanym wyborze; sam za elekt przez w³asnorêcznie podpisany list powinien poprosiæ Biskupa Rzymskiego o zatwierdzenie swojego wyboru.
+§ 3. Otrzymawszy zatwierdzenie, elekt powinien przed Synodem Biskupów Kocio³a arcybiskupiego wiêkszego z³o¿yæ wyznanie wiary i przyrzeczenie wiernego wype³nienia swojego urzêdu, potem nastêpuje jego
+og³oszenie i intronizacja; jeli za elekt nie ma wiêceñ biskupich, intronizacja nie mo¿e wa¿nie nast¹piæ, zanim elekt nie przyjmie wiêceñ biskupich.
+§ 4. Jeli za zatwierdzenia odmówiono, nowy wybór powinien zostaæ
+dokonany w czasie okrelonym przez Biskupa Rzymskiego.
 
-**Kan. 344.** W przypadku sprzeczności między niniejszą Księgą a dotychczasowymi kanonami, pierwszeństwo przysługuje normom bardziej zgodnym z Prawem Bożym, Naturalnym, prawami człowieka i jednością Kościoła powszechnego; reguły kolizji uzupełniają kan. 58–59 oraz kan. 139–143 Księgi III.
+4.Zgodnie z KKKW **Kan. 343.** Wszelkie wcześniejsze odniesienia do „biskupa diecezjalnego” w kontekście Kościoła Domowego należy rozumieć jako „biskupa tytularnego subdiecezjalnego” w zakresie dotyczącym subdiecezji domowej, a jako „biskupa diecezjalnego” w zakresie dotyczącym diecezji, na której terytorium znajduje się subdiecezja domowa.
+
+**Kan. 344.** ...
 
 ---
