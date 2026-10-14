@@ -1,6 +1,6 @@
 # KSIĘGA IV — UŚWIĘCAJĄCE ZADANIE KOŚCIOŁA DOMOWEGO (*De Ecclesiae domesticae munere sanctificandi*)
 
-*Liturgia, sakramentalia, rok liturgiczny, modlitwa domowa, trzy obrządki oraz cnoty, dary i charyzmaty stanowią serce uświęcającego zadania Kościoła Domowego.*
+*Liturgia, przedmioty błogosławione, rok liturgiczny, modlitwa domowa, trzy obrządki oraz cnoty, dary i charyzmaty stanowią serce uświęcającego zadania Kościoła Domowego.*
 
 ---
 
@@ -14,7 +14,7 @@
 
 2° celebracje Słowa Bożego;
 
-3° sakramentalia i błogosławieństwa;
+3° przedmioty błogosławione i błogosławieństwa;
 
 4° obrzędy roku liturgicznego;
 
@@ -46,11 +46,11 @@
 
 5° dostosowanie do możliwości i wieku uczestników.
 
-## Tytuł II: SAKRAMENTALIA DOMOWE — PRZEPISY OGÓLNE
+## Tytuł II: PRZEDMIOTY BŁOGOSŁAWIONE DOMOWE — PRZEPISY OGÓLNE
 
-**Kan. 148 § 1.** Sakramentalia domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
+**Kan. 148 § 1.** Przedmioty błogosławione domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
-**§ 2.** Szczegółowe formuły błogosławieństw siedmiu sakramentaliów rzeczowych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł VIII niniejszej Księgi (kan. 207–213).
+**§ 2.** Szczegółowe formuły błogosławieństw siedmiu przedmiotów błogosławionych rzeczowych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł VIII niniejszej Księgi (kan. 207–213).
 
 ## Tytuł III: ROK LITURGICZNY W KOŚCIELE DOMOWYM
 
@@ -476,7 +476,7 @@
 
 ## Tytuł VI: MIEJSCA KULTU I DZIEŃ PAŃSKI
 
-**Kan. 181 § 1.** Kościół Domowy uznaje i naucza, że życie duchowe wiernych opiera się na harmonijnej integracji siedmiu cnót, siedmiu sakramentaliów rzeczowych, siedmiu Darów Ducha Świętego i siedmiu Charyzmatów, które wspólnie tworzą pełnię formacji chrześcijańskiej w przestrzeni domowej.
+**Kan. 181 § 1.** Kościół Domowy uznaje i naucza, że życie duchowe wiernych opiera się na harmonijnej integracji siedmiu cnót, siedmiu przedmiotów błogosławionych rzeczowych, siedmiu Darów Ducha Świętego i siedmiu Charyzmatów, które wspólnie tworzą pełnię formacji chrześcijańskiej w przestrzeni domowej.
 
 **§ 2.** Integracja ta odpowiada siedmiu poziomom duchowego rozwoju osoby ludzkiej — od korzenia (fundament wiary i pobożności) po koronę (transcendencja i nadzieja eschatologiczna) — i odzwierciedla fraktalną, holograficzną strukturę stworzenia, w której każda część odpowiada całości.
 
@@ -484,7 +484,7 @@
 
 **Kan. 182 § 1.** Cnoty w Kościele Domowym rozumiane są jako trwałe dyspozycje duchowe, moralne i intelektualne, które uzdalniają wiernych do działania zgodnego z Prawem Bożym i Naturalnym. Cnoty te są zarówno darem łaski, jak i owocem osobistego wysiłku formacyjnego.
 
-**§ 2.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
+**§ 2.** Przedmioty błogosławione rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
 
 **§ 3.** Dary Ducha Świętego w Kościele Domowym rozumiane są jako stałe dyspozycje, które czynią człowieka uległym wobec poruszeń Ducha Świętego (por. KKK 1830-1831). Wierni Kościoła Domowego mają prawo i obowiązek prosić o te Dary, przyjmować je i rozwijać w codziennym życiu.
 
@@ -492,13 +492,13 @@
 
 **Kan. 183 § 1.** Każdy wierny Kościoła Domowego, na mocy sakramentu chrztu i bierzmowania, posiada prawo i obowiązek rozwijania cnót, przyjmowania Darów Ducha Świętego i korzystania z charyzmatów dla dobra własnego i wspólnoty (por. kan. 1 KPK).
 
-**§ 2.** Głowa Rodu jako biskup domowy ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, sakramentaliów, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
+**§ 2.** Głowa Rodu jako biskup domowy ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, przedmiotów błogosławionych, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
 
-**§ 3.** Małżonka jako współszafarka łaski ma prawo i obowiązek współuczestniczenia w nauczaniu cnót, sprawowaniu sakramentaliów i rozpoznawaniu Darów oraz charyzmatów w Kościele Domowym.
+**§ 3.** Małżonka jako współszafarka łaski ma prawo i obowiązek współuczestniczenia w nauczaniu cnót, sprawowaniu przedmiotów błogosławionych i rozpoznawaniu Darów oraz charyzmatów w Kościele Domowym.
 
-**§ 4.** Potomstwo, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo do stopniowego wprowadzania w życie cnót, sakramentaliów, Darów i charyzmatów, stosownie do swojego wieku i dojrzałości.
+**§ 4.** Potomstwo, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo do stopniowego wprowadzania w życie cnót, przedmiotów błogosławionych, Darów i charyzmatów, stosownie do swojego wieku i dojrzałości.
 
-**Kan. 184.** Wszystkie czynności związane z nauczaniem cnót, sprawowaniem sakramentaliów, wzywaniem Darów Ducha Świętego i przekazywaniem charyzmatów w Kościele Domowym:
+**Kan. 184.** Wszystkie czynności związane z nauczaniem cnót, sprawowaniem przedmiotów błogosławionych, wzywaniem Darów Ducha Świętego i przekazywaniem charyzmatów w Kościele Domowym:
 
 1° winny być zgodne z nauką Kościoła Katolickiego i Magisterium;
 
@@ -512,7 +512,7 @@
 
 6° nie mogą być narzucane wbrew woli osoby zainteresowanej.
 
-**Kan. 185 § 1.** Głowa Rodu jako biskup domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, sakramentaliami, Darami i charyzmatami, pod warunkiem że:
+**Kan. 185 § 1.** Głowa Rodu jako biskup domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, przedmiotami błogosławionymi, Darami i charyzmatami, pod warunkiem że:
 
 1° są zgodne z duchem liturgii Kościoła;
 
@@ -524,11 +524,11 @@
 
 **§ 2.** Formuły te winny być zapisane w Księdze Obrzędów Domowych i przechowywane w archiwum Kościoła Domowego.
 
-**Kan. 186.** Rok liturgiczny Kościoła Domowego winien uwzględniać szczególne okresy formacji w zakresie cnót, sakramentaliów, Darów i charyzmatów:
+**Kan. 186.** Rok liturgiczny Kościoła Domowego winien uwzględniać szczególne okresy formacji w zakresie cnót, przedmiotów błogosławionych, Darów i charyzmatów:
 
 1° **Adwent** — formacja w cnocie Nadziei i Pobożności; przygotowanie na przyjście Pana;
 
-2° **Okres Bożego Narodzenia** — celebracja sakramentaliów światła (świeca, ogień) i ziemi;
+2° **Okres Bożego Narodzenia** — celebracja przedmiotów błogosławionych światła (świeca, ogień) i ziemi;
 
 3° **Wielki Post** — formacja w cnocie Sprawiedliwości i Męstwa; obrzędy pokutne z popiołem;
 
@@ -540,7 +540,7 @@
 
 7° **Uroczystość Wszystkich Świętych** — celebracja soli (mądrość świętych) i świadectwa.
 
-## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, SAKRAMENTALIACH, DARACH I CHARYZMATACH
+## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, PRZEDMIOTACH BŁOGOSŁAWIONYCH, DARACH I CHARYZMATACH
 
 ### Rozdział I: Przepisy ogólne o nauczaniu cnót
 
@@ -552,7 +552,7 @@
 
 2° wskazanie jej źródła w Piśmie Świętym i Tradycji;
 
-3° powiązanie z odpowiednim sakramentem i sakramentalium;
+3° powiązanie z odpowiednim sakramentem i przedmiotów błogosławionych;
 
 4° wskazanie praktycznych zastosowań w codziennym życiu rodzinnym;
 
@@ -598,7 +598,7 @@
 
 6° praktykę błogosławieństwa ziemi, domu i ogrodu.
 
-**§ 3.** Sakramentalium związane z cnotą Pobożności to **ziemia** — symbol zakorzenienia, odpowiedzialności za stworzenie i płodności. Błogosławieństwo ziemi sprawowane jest przez Głowę Rodu przy:
+**§ 3.** Przedmiotów błogosławionych związane z cnotą Pobożności to **ziemia** — symbol zakorzenienia, odpowiedzialności za stworzenie i płodności. Błogosławieństwo ziemi sprawowane jest przez Głowę Rodu przy:
 
 1° poświęceniu nowego domu lub mieszkania;
 
@@ -644,7 +644,7 @@
 
 6° twórcze wykorzystanie energii emocjonalnej dla chwały Bożej.
 
-**§ 3.** Sakramentalium związane z cnotą Umiarkowania to **świeca i ogień** — symbol światła, powołania, świadectwa i służby. Błogosławieństwo świec i ognia sprawowane jest przez Głowę Rodu przy:
+**§ 3.** Przedmiotów błogosławionych związane z cnotą Umiarkowania to **świeca i ogień** — symbol światła, powołania, świadectwa i służby. Błogosławieństwo świec i ognia sprawowane jest przez Głowę Rodu przy:
 
 1° zapalaniu świec podczas modlitwy rodzinnej;
 
@@ -690,7 +690,7 @@
 
 6° odwagę ewangelizacji i świadectwa.
 
-**§ 3.** Sakramentalium związane z cnotą Męstwa to **olej** — symbol umocnienia, uzdrowienia i troski. Błogosławieństwo oleju i namaszczenie sprawowane jest przez Głowę Rodu przy:
+**§ 3.** Przedmiotów błogosławionych związane z cnotą Męstwa to **olej** — symbol umocnienia, uzdrowienia i troski. Błogosławieństwo oleju i namaszczenie sprawowane jest przez Głowę Rodu przy:
 
 1° chorobie lub cierpieniu członka rodziny;
 
@@ -738,7 +738,7 @@
 
 7° praktykę miłosierdzia jako najwyższego wyrazu sprawiedliwości.
 
-**§ 3.** Sakramentalium związane z cnotą Sprawiedliwości to **popiół** — symbol pokuty, przemijania, skruchy i nawrócenia. Obrzęd pokutny z popiołem sprawowany jest przez Głowę Rodu przy:
+**§ 3.** Przedmiotów błogosławionych związane z cnotą Sprawiedliwości to **popiół** — symbol pokuty, przemijania, skruchy i nawrócenia. Obrzęd pokutny z popiołem sprawowany jest przez Głowę Rodu przy:
 
 1° Środzie Popielcowej i okresie Wielkiego Postu;
 
@@ -786,7 +786,7 @@
 
 6° dzielenie się prawdą z miłością i szacunkiem.
 
-**§ 3.** Sakramentalium związane z cnotą Skrupulatności to **chleb** — symbol wspólnoty, wdzięczności, codziennego trudu i dzielenia się. Błogosławieństwo chleba i pokarmów sprawowane jest przez Głowę Rodu przy:
+**§ 3.** Przedmiotów błogosławionych związane z cnotą Skrupulatności to **chleb** — symbol wspólnoty, wdzięczności, codziennego trudu i dzielenia się. Błogosławieństwo chleba i pokarmów sprawowane jest przez Głowę Rodu przy:
 
 1° każdym posiłku rodzinnym;
 
@@ -834,7 +834,7 @@
 
 6° szukanie rady i konsultacji przed ważnymi decyzjami.
 
-**§ 3.** Sakramentalium związane z cnotą Roztropności to **sól** — symbol zachowania dobra, mądrości, duchowej ochrony i rozeznania. Błogosławieństwo soli sprawowane jest przez Głowę Rodu przy:
+**§ 3.** Przedmiotów błogosławionych związane z cnotą Roztropności to **sól** — symbol zachowania dobra, mądrości, duchowej ochrony i rozeznania. Błogosławieństwo soli sprawowane jest przez Głowę Rodu przy:
 
 1° obrzędach ochrony domu przed złem;
 
@@ -882,7 +882,7 @@
 
 6° świadectwo nadziei wobec świata.
 
-**§ 3.** Sakramentalium związane z cnotą Nadziei to **woda** — symbol oczyszczenia, odrodzenia, nowego życia i transcendencji. Błogosławieństwo wody i pokropienie sprawowane jest przez Głowę Rodu przy:
+**§ 3.** Przedmiotów błogosławionych związane z cnotą Nadziei to **woda** — symbol oczyszczenia, odrodzenia, nowego życia i transcendencji. Błogosławieństwo wody i pokropienie sprawowane jest przez Głowę Rodu przy:
 
 1° niedzielnej modlitwie rodzinnej;
 
@@ -916,27 +916,27 @@
 
 ### Rozdział IX: Podsumowanie cnót — obowiązki Głowy Rodu
 
-**Kan. 203 § 1.** Sakramentalia rzeczowe w Kościele Domowym są świętymi znakami ustanowionymi przez Kościół, przez które na podobieństwo sakramentów oznaczane i otrzymywane są skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
+**Kan. 203 § 1.** Przedmioty błogosławione rzeczowe w Kościele Domowym są świętymi znakami ustanowionymi przez Kościół, przez które na podobieństwo sakramentów oznaczane i otrzymywane są skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
-**§ 2.** W Kościele Domowym sprawowane są następujące sakramentalia rzeczowe:
+**§ 2.** W Kościele Domowym sprawowane są następujące przedmioty błogosławione rzeczowe:
 
-1° **Woda** — sakramentalium oczyszczenia i nowego życia;
+1° **Woda** — przedmiotów błogosławionych oczyszczenia i nowego życia;
 
-2° **Sól** — sakramentalium ochrony i rozeznania;
+2° **Sól** — przedmiotów błogosławionych ochrony i rozeznania;
 
-3° **Chleb** — sakramentalium wspólnoty i dziękczynienia;
+3° **Chleb** — przedmiotów błogosławionych wspólnoty i dziękczynienia;
 
-4° **Popiół** — sakramentalium pokuty i nawrócenia;
+4° **Popiół** — przedmiotów błogosławionych pokuty i nawrócenia;
 
-5° **Olej** — sakramentalium umocnienia i uzdrowienia;
+5° **Olej** — przedmiotów błogosławionych umocnienia i uzdrowienia;
 
-6° **Świeca/Ogień** — sakramentalium światła i powołania;
+6° **Świeca/Ogień** — przedmiotów błogosławionych światła i powołania;
 
-7° **Ziemia** — sakramentalium zakorzenienia i płodności.
+7° **Ziemia** — przedmiotów błogosławionych zakorzenienia i płodności.
 
-**§ 3.** Sakramentalia te nie zastępują sakramentów świętych, lecz je przedłużają, przygotowują do nich i pogłębiają ich owoce w codziennym życiu rodzinnym.
+**§ 3.** Przedmioty błogosławione te nie zastępują sakramentów świętych, lecz je przedłużają, przygotowują do nich i pogłębiają ich owoce w codziennym życiu rodzinnym.
 
-**Kan. 204 § 1.** Szafarzem sakramentaliów w Kościele Domowym jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy:
+**Kan. 204 § 1.** Szafarzem przedmiotów błogosławionych w Kościele Domowym jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy:
 
 1° powszechnego kapłaństwa wiernych wynikającego z sakramentu chrztu (por. kan. 204 § 1 KPK);
 
@@ -950,7 +950,7 @@
 
 6° kan. 861 § 2 KPK (udzielanie chrztu w przypadku konieczności).
 
-**§ 2.** Małżonka jako współszafarka łaski może sprawować sakramentalia domowe:
+**§ 2.** Małżonka jako współszafarka łaski może sprawować przedmioty błogosławione domowe:
 
 1° w nieobecności Głowy Rodu;
 
@@ -960,9 +960,9 @@
 
 4° w przypadku zagrożenia życia lub innej konieczności.
 
-**§ 3.** Potomstwo, po osiągnięciu odpowiedniego wieku i za zgodą Głowy Rodu, może uczestniczyć w sprawowaniu sakramentaliów jako ministranci, lektorzy lub pomocnicy.
+**§ 3.** Potomstwo, po osiągnięciu odpowiedniego wieku i za zgodą Głowy Rodu, może uczestniczyć w sprawowaniu przedmiotów błogosławionych jako ministranci, lektorzy lub pomocnicy.
 
-**Kan. 205.** Do sprawowania sakramentaliów domowych wymagane jest:
+**Kan. 205.** Do sprawowania przedmiotów błogosławionych domowych wymagane jest:
 
 1° odpowiednie przygotowanie przez modlitwę i skupienie;
 
@@ -976,7 +976,7 @@
 
 6° intencja zgodna z duchem Kościoła.
 
-**Kan. 206 § 1.** Przedmioty używane jako sakramentalia rzeczowe winny być:
+**Kan. 206 § 1.** Przedmioty używane jako przedmioty błogosławione rzeczowe winny być:
 
 1° czyste i godne;
 
@@ -990,11 +990,11 @@
 
 **§ 2.** Głowa Rodu ma obowiązek dbać o to, by przedmioty sakralne nie były używane do celów świeckich ani nie były traktowane z lekceważeniem.
 
-## Tytuł VIII: SIEDEM SAKRAMENTALIÓW RZECZOWYCH
+## Tytuł VIII: SIEDEM PRZEDMIOTÓW BŁOGOSŁAWIONYCH RZECZOWYCH
 
-### Rozdział I: Woda — Sakramentalium Oczyszczenia i Nowego Życia
+### Rozdział I: Woda — Przedmiotów błogosławionych Oczyszczenia i Nowego Życia
 
-**Kan. 207 § 1.** Woda jest pierwszym i podstawowym sakramentalium Kościoła Domowego, związanym z sakramentem chrztu i cnotą Nadziei.
+**Kan. 207 § 1.** Woda jest pierwszym i podstawowym przedmiotów błogosławionych Kościoła Domowego, związanym z sakramentem chrztu i cnotą Nadziei.
 
 **§ 2.** Błogosławieństwo wody w Kościele Domowym obejmuje:
 
@@ -1025,9 +1025,9 @@
 
 5° nie wylewana do kanalizacji, lecz do ziemi lub ogrodu.
 
-### Rozdział II: Sól — Sakramentalium Ochrony i Rozeznania
+### Rozdział II: Sól — Przedmiotów błogosławionych Ochrony i Rozeznania
 
-**Kan. 208 § 1.** Sól jest sakramentalium ochrony duchowej, mądrości i rozeznania, związanym z sakramentem bierzmowania i cnotą Roztropności.
+**Kan. 208 § 1.** Sól jest przedmiotów błogosławionych ochrony duchowej, mądrości i rozeznania, związanym z sakramentem bierzmowania i cnotą Roztropności.
 
 **§ 2.** Błogosławieństwo soli w Kościele Domowym obejmuje:
 
@@ -1055,9 +1055,9 @@
 
 5° jako symbol wierności przymierzu.
 
-### Rozdział III: Chleb — Sakramentalium Wspólnoty i Dziękczynienia
+### Rozdział III: Chleb — Przedmiotów błogosławionych Wspólnoty i Dziękczynienia
 
-**Kan. 209 § 1.** Chleb jest sakramentalium wspólnoty, wdzięczności i codziennego trudu, związanym z sakramentem Eucharystii i cnotą Skrupulatności.
+**Kan. 209 § 1.** Chleb jest przedmiotów błogosławionych wspólnoty, wdzięczności i codziennego trudu, związanym z sakramentem Eucharystii i cnotą Skrupulatności.
 
 **§ 2.** Błogosławieństwo chleba i pokarmów w Kościele Domowym obejmuje:
 
@@ -1087,9 +1087,9 @@
 
 5° w sytuacjach szczególnego błogosławieństwa dla pracy.
 
-### Rozdział IV: Popiół — Sakramentalium Pokuty i Nawrócenia
+### Rozdział IV: Popiół — Przedmiotów błogosławionych Pokuty i Nawrócenia
 
-**Kan. 210 § 1.** Popiół jest sakramentalium pokuty, przemijania, skruchy i nawrócenia, związanym z sakramentem pokuty i pojednania oraz cnotą Sprawiedliwości.
+**Kan. 210 § 1.** Popiół jest przedmiotów błogosławionych pokuty, przemijania, skruchy i nawrócenia, związanym z sakramentem pokuty i pojednania oraz cnotą Sprawiedliwości.
 
 **§ 2.** Obrzęd pokutny z popiołem w Kościele Domowym obejmuje:
 
@@ -1119,9 +1119,9 @@
 
 5° w sytuacjach szczególnego nawrócenia lub odnowienia życia duchowego.
 
-### Rozdział V: Olej — Sakramentalium Umocnienia i Uzdrawiania
+### Rozdział V: Olej — Przedmiotów błogosławionych Umocnienia i Uzdrawiania
 
-**Kan. 211 § 1.** Olej jest sakramentalium umocnienia, uzdrowienia i troski, związanym z sakramentem namaszczenia chorych i cnotą Męstwa.
+**Kan. 211 § 1.** Olej jest przedmiotów błogosławionych umocnienia, uzdrowienia i troski, związanym z sakramentem namaszczenia chorych i cnotą Męstwa.
 
 **§ 2.** Błogosławieństwo oleju i namaszczenie w Kościele Domowym obejmuje:
 
@@ -1149,9 +1149,9 @@
 
 5° winno być połączone z modlitwą całej rodziny, jeśli to możliwe.
 
-### Rozdział VI: Świeca i Ogień — Sakramentalium Światła i Powołania
+### Rozdział VI: Świeca i Ogień — Przedmiotów błogosławionych Światła i Powołania
 
-**Kan. 212 § 1.** Świeca i ogień są sakramentalium światła, powołania, świadectwa i służby, związanymi z sakramentem kapłaństwa i cnotą Umiarkowania.
+**Kan. 212 § 1.** Świeca i ogień są przedmiotów błogosławionych światła, powołania, świadectwa i służby, związanymi z sakramentem kapłaństwa i cnotą Umiarkowania.
 
 **§ 2.** Błogosławieństwo świec i ognia w Kościele Domowym obejmuje:
 
@@ -1183,9 +1183,9 @@
 
 7° przy podejmowaniu nowych przedsięwzięć.
 
-### Rozdział VII: Ziemia — Sakramentalium Zakorzenienia i Płodności
+### Rozdział VII: Ziemia — Przedmiotów błogosławionych Zakorzenienia i Płodności
 
-**Kan. 213 § 1.** Ziemia jest sakramentalium zakorzenienia, odpowiedzialności za stworzenie i płodności, związanym z sakramentem małżeństwa i cnotą Pobożności.
+**Kan. 213 § 1.** Ziemia jest przedmiotów błogosławionych zakorzenienia, odpowiedzialności za stworzenie i płodności, związanym z sakramentem małżeństwa i cnotą Pobożności.
 
 **§ 2.** Błogosławieństwo ziemi, ogrodu i domu w Kościele Domowym obejmuje:
 
@@ -1273,9 +1273,9 @@
 
 ### Rozdział II: Poszczególne Dary i ich praktyka
 
-**Kan. 217 — Dar Mądrości (związany z cnotą Nadziei i sakramentalium wody):**
+**Kan. 217 — Dar Mądrości (związany z cnotą Nadziei i przedmiotów błogosławionych wody):**
 
-1° jest udzielany przez modlitwę kontemplacyjną i sakramentalię wody;
+1° jest udzielany przez modlitwę kontemplacyjną i przedmiot błogosławiony wody;
 
 2° rozwijany jest przez lectio divina, adorację i ciszę;
 
@@ -1283,9 +1283,9 @@
 
 4° Głowa Rodu modli się o ten Dar dla siebie i wspólnoty przy każdym błogosławieństwie wody.
 
-**Kan. 218 — Dar Rozumu (związany z cnotą Roztropności i sakramentalium soli):**
+**Kan. 218 — Dar Rozumu (związany z cnotą Roztropności i przedmiotów błogosławionych soli):**
 
-1° jest udzielany przez modlitwę o rozeznanie i sakramentalię soli;
+1° jest udzielany przez modlitwę o rozeznanie i przedmiot błogosławiony soli;
 
 2° rozwijany jest przez studium Pisma Świętego i nauki Kościoła;
 
@@ -1293,9 +1293,9 @@
 
 4° Głowa Rodu modli się o ten Dar przy obrzędach ochrony i ważnych decyzjach.
 
-**Kan. 219 — Dar Rady (związany z cnotą Skrupulatności i sakramentalium chleba):**
+**Kan. 219 — Dar Rady (związany z cnotą Skrupulatności i przedmiotów błogosławionych chleba):**
 
-1° jest udzielany przez modlitwę przed posiłkiem i sakramentalię chleba;
+1° jest udzielany przez modlitwę przed posiłkiem i przedmiot błogosławiony chleba;
 
 2° rozwijany jest przez praktykę prawdomówności i autentyczności;
 
@@ -1303,9 +1303,9 @@
 
 4° Głowa Rodu modli się o ten Dar przy każdym błogosławieństwie pokarmów.
 
-**Kan. 220 — Dar Miłosierdzia/Pobożności (związany z cnotą Sprawiedliwości i sakramentalium popiołu):**
+**Kan. 220 — Dar Miłosierdzia/Pobożności (związany z cnotą Sprawiedliwości i przedmiotów błogosławionych popiołu):**
 
-1° jest udzielany przez obrzędy pokutne i sakramentalię popiołu;
+1° jest udzielany przez obrzędy pokutne i przedmiot błogosławiony popiołu;
 
 2° rozwijany jest przez praktykę przebaczenia i uczynki miłosierdzia;
 
@@ -1313,9 +1313,9 @@
 
 4° Głowa Rodu modli się o ten Dar przy każdym obrzędzie pojednania.
 
-**Kan. 221 — Dar Mocy (związany z cnotą Męstwa i sakramentalium oleju):**
+**Kan. 221 — Dar Mocy (związany z cnotą Męstwa i przedmiotów błogosławionych oleju):**
 
-1° jest udzielany przez namaszczenie i sakramentalię oleju;
+1° jest udzielany przez namaszczenie i przedmiot błogosławiony oleju;
 
 2° rozwijany jest przez wytrwałość w cierpieniu i odwagę świadectwa;
 
@@ -1323,9 +1323,9 @@
 
 4° Głowa Rodu modli się o ten Dar przy każdym namaszczeniu.
 
-**Kan. 222 — Dar Wiedzy (związany z cnotą Umiarkowania i sakramentalium świecy):**
+**Kan. 222 — Dar Wiedzy (związany z cnotą Umiarkowania i przedmiotów błogosławionych świecy):**
 
-1° jest udzielany przez błogosławieństwo świec i sakramentalię ognia;
+1° jest udzielany przez błogosławieństwo świec i przedmiot błogosławiony ognia;
 
 2° rozwijany jest przez twórczość, sztukę i kontemplację piękna;
 
@@ -1333,9 +1333,9 @@
 
 4° Głowa Rodu modli się o ten Dar przy zapalaniu świec i obrzędach twórczych.
 
-**Kan. 223 — Dar Cierpliwości/Bojaźni Bożej (związany z cnotą Pobożności i sakramentalium ziemi):**
+**Kan. 223 — Dar Cierpliwości/Bojaźni Bożej (związany z cnotą Pobożności i przedmiotów błogosławionych ziemi):**
 
-1° jest udzielany przez błogosławieństwo ziemi i sakramentalium zakorzenienia;
+1° jest udzielany przez błogosławieństwo ziemi i przedmiotów błogosławionych zakorzenienia;
 
 2° rozwijany jest przez wierność, wytrwałość i szacunek wobec Boga;
 
@@ -1417,7 +1417,7 @@
 
 ### Rozdział II: Poszczególne charyzmaty i ich praktyka
 
-**Kan. 227 — Charyzmat Proroctwa (związany z cnotą Nadziei, sakramentalium wody i Darem Mądrości):**
+**Kan. 227 — Charyzmat Proroctwa (związany z cnotą Nadziei, przedmiotów błogosławionych wody i Darem Mądrości):**
 
 1° jest szczególną łaską do przekazywania Słowa Bożego wspólnocie;
 
@@ -1439,7 +1439,7 @@
 
 6° każde proroctwo winno być badane i rozeznawane (por. 1 Tes 5,20-21).
 
-**Kan. 228 — Charyzmat Rozróżniania Duchów (związany z cnotą Roztropności, sakramentalium soli i Darem Rozumu):**
+**Kan. 228 — Charyzmat Rozróżniania Duchów (związany z cnotą Roztropności, przedmiotów błogosławionych soli i Darem Rozumu):**
 
 1° jest szczególną łaską do rozpoznawania działania Ducha Bożego, ducha ludzkiego i ducha złego;
 
@@ -1461,7 +1461,7 @@
 
 6° rozeznawanie winno być zawsze potwierdzane modlitwą i konsultacją.
 
-**Kan. 229 — Charyzmat Języków (związany z cnotą Skrupulatności, sakramentalium chleba i Darem Rady):**
+**Kan. 229 — Charyzmat Języków (związany z cnotą Skrupulatności, przedmiotów błogosławionych chleba i Darem Rady):**
 
 1° jest szczególną łaską modlitwy, uwielbienia i głoszenia Słowa Bożego w sposób natchniony;
 
@@ -1483,7 +1483,7 @@
 
 6° w przypadku modlitwy w językach wymagane jest tłumaczenie lub wyjaśnienie dla budowania wspólnoty.
 
-**Kan. 230 — Charyzmat Uzdrawiania (związany z cnotą Sprawiedliwości, sakramentalium popiołu i Darem Miłosierdzia):**
+**Kan. 230 — Charyzmat Uzdrawiania (związany z cnotą Sprawiedliwości, przedmiotów błogosławionych popiołu i Darem Miłosierdzia):**
 
 1° jest szczególną łaską do przywracania zdrowia fizycznego, psychicznego, duchowego i relacyjnego;
 
@@ -1507,7 +1507,7 @@
 
 6° uzdrowienie jest zawsze darem Bożym i nie może być traktowane jako prawo lub technika.
 
-**Kan. 231 — Charyzmat Czynów Mocy (związany z cnotą Męstwa, sakramentalium oleju i Darem Mocy):**
+**Kan. 231 — Charyzmat Czynów Mocy (związany z cnotą Męstwa, przedmiotów błogosławionych oleju i Darem Mocy):**
 
 1° jest szczególną łaską do dokonywania znaków potwierdzających obecność i działanie Boga;
 
@@ -1529,7 +1529,7 @@
 
 6° wszelkie znaki i cuda winny być rozeznawane przez Głowę Rodu i potwierdzane owocami duchowymi.
 
-**Kan. 232 — Charyzmat Kreatywnej Inspiracji (związany z cnotą Umiarkowania, sakramentalium świecy i Darem Wiedzy):**
+**Kan. 232 — Charyzmat Kreatywnej Inspiracji (związany z cnotą Umiarkowania, przedmiotów błogosławionych świecy i Darem Wiedzy):**
 
 1° jest szczególną łaską do tworzenia dzieł piękna, sztuki i kultury na chwałę Bożą;
 
@@ -1553,7 +1553,7 @@
 
 6° twórczość nie może być sprzeczna z wiarą, moralnością ani godnością osoby ludzkiej.
 
-**Kan. 233 — Charyzmat Służenia (związany z cnotą Pobożności, sakramentalium ziemi i Darem Cierpliwości):**
+**Kan. 233 — Charyzmat Służenia (związany z cnotą Pobożności, przedmiotów błogosławionych ziemi i Darem Cierpliwości):**
 
 1° jest szczególną łaską do bezinteresownej pomocy bliźnim i budowania wspólnoty;
 
@@ -1577,11 +1577,11 @@
 
 6° Charyzmat Służenia winien być praktykowany z radością, bez oczekiwania wdzięczności i w duchu Ewangelii.
 
-## Tytuł XI: SAKRAMENTALIA UCZYNKÓW
+## Tytuł XI: PRZEDMIOTY BŁOGOSŁAWIONE UCZYNKÓW
 
-### Rozdział I: Sakramentalia uczynków — przepisy ogólne
+### Rozdział I: Przedmioty błogosławione uczynków — przepisy ogólne
 
-**Kan. 234 § 1.** Kościół Domowy uznaje, że codzienne uczynki miłości, pracy i odpowiedzialności mogą być uświęcone i podniesione do rangi sakramentaliów uczynków przez:
+**Kan. 234 § 1.** Kościół Domowy uznaje, że codzienne uczynki miłości, pracy i odpowiedzialności mogą być uświęcone i podniesione do rangi przedmiotów błogosławionych uczynków przez:
 
 1° intencję ofiarowania ich Bogu;
 
@@ -1589,9 +1589,9 @@
 
 3° znak krzyża lub błogosławieństwo;
 
-4° połączenie z odpowiednim sakramentalium rzeczowym.
+4° połączenie z odpowiednim przedmiotów błogosławionych rzeczowym.
 
-**§ 2.** Sakramentalia uczynków obejmują:
+**§ 2.** Przedmioty błogosławione uczynków obejmują:
 
 1° **błogosławieństwo pracy** — poświęcenie narzędzi, miejsca pracy i samego trudu;
 
@@ -1603,19 +1603,19 @@
 
 5° **błogosławieństwo służby** — uświęcenie pracy na rzecz innych.
 
-**§ 3.** Głowa Rodu ma prawo i obowiązek błogosławić codzienne uczynki członków wspólnoty, łącząc je z odpowiednimi sakramentaliami rzeczowymi i modlitwą.
+**§ 3.** Głowa Rodu ma prawo i obowiązek błogosławić codzienne uczynki członków wspólnoty, łącząc je z odpowiednimi przedmiotami błogosławionymi rzeczowymi i modlitwą.
 
-## Tytuł XII: INTEGRACJA SAKRAMENTALIÓW OSOBOWYCH I UCZYNKÓW
+## Tytuł XII: INTEGRACJA PRZEDMIOTÓW BŁOGOSŁAWIONYCH OSOBOWYCH I UCZYNKÓW
 
 ### Rozdział I: Zasada integracji trzech wymiarów
 
 **Kan. 235 § 1.** Pełnia życia sakramentalnego w Kościele Domowym osiąga się przez integrację trzech wymiarów:
 
-1° **sakramentalium rzeczowego** (przedmiot: woda, sól, chleb, popiół, olej, świeca, ziemia);
+1° **przedmiotów błogosławionych rzeczowego** (przedmiot: woda, sól, chleb, popiół, olej, świeca, ziemia);
 
-2° **sakramentalium osobowego** (osoba: Głowa Rodu, Małżonka, Potomek);
+2° **przedmiotów błogosławionych osobowego** (osoba: Głowa Rodu, Małżonka, Potomek);
 
-3° **sakramentalium uczynku** (działanie: praca, modlitwa, służba, odpoczynek).
+3° **przedmiotów błogosławionych uczynku** (działanie: praca, modlitwa, służba, odpoczynek).
 
 **§ 2.** Przykład pełnej integracji:
 
@@ -1635,7 +1635,7 @@
 
 1° uczestniczyć w formacji duchowej stosownie do swojego wieku i stanu;
 
-2° szanować sakramentalia i przedmioty kultu;
+2° szanować przedmioty błogosławione i przedmioty kultu;
 
 3° praktykować cnoty w codziennym życiu;
 
@@ -1643,7 +1643,7 @@
 
 5° używać otrzymanych charyzmatów dla dobra wspólnoty;
 
-6° nie profanować sakramentaliów ani nie używać ich do celów sprzecznych z wiarą;
+6° nie profanować przedmiotów błogosławionych ani nie używać ich do celów sprzecznych z wiarą;
 
 7° zachowywać godność i powagę podczas celebracji;
 
@@ -1653,21 +1653,21 @@
 
 1° codziennie sprawować przynajmniej jedno błogosławieństwo integrujące wszystkie trzy wymiary;
 
-2° nauczać członków wspólnoty o znaczeniu integracji sakramentaliów;
+2° nauczać członków wspólnoty o znaczeniu integracji przedmiotów błogosławionych;
 
-3° prowadzić Księgę Sakramentaliów, w której zapisuje sprawowane obrzędy;
+3° prowadzić Księgę Przedmiotów błogosławionych, w której zapisuje sprawowane obrzędy;
 
-4° czuwać nad godnością i poprawnością sprawowanych sakramentaliów;
+4° czuwać nad godnością i poprawnością sprawowanych przedmiotów błogosławionych;
 
-5° dostosowywać formę sakramentaliów do okoliczności i potrzeb wspólnoty.
+5° dostosowywać formę przedmiotów błogosławionych do okoliczności i potrzeb wspólnoty.
 
 **Kan. 238.** Każdy wierny Kościoła Domowego ma prawo:
 
-1° być nauczany o cnotach, sakramentaliach, Darach i charyzmatach;
+1° być nauczany o cnotach, przedmiotach błogosławionych, Darach i charyzmatach;
 
 2° uczestniczyć w celebracjach i obrzędach domowych;
 
-3° otrzymywać błogosławieństwa i sakramentalia;
+3° otrzymywać błogosławieństwa i przedmioty błogosławione;
 
 4° modlić się o Dary Ducha Świętego i charyzmaty;
 
@@ -1693,19 +1693,19 @@
 
 5° zapewniać, by wszystkie przepisy były stosowane w duchu miłości, sprawiedliwości i miłosierdzia.
 
-**Kan. 241.** Najwyższą zasadą interpretacji i stosowania niniejszej Księgi jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (por. kan. 882 KPK). Wszystkie przepisy dotyczące cnót, sakramentaliów, Darów i charyzmatów winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
+**Kan. 241.** Najwyższą zasadą interpretacji i stosowania niniejszej Księgi jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (por. kan. 882 KPK). Wszystkie przepisy dotyczące cnót, przedmiotów błogosławionych, Darów i charyzmatów winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
 
 ## Tytuł XIII: CELEBRACJE LITURGICZNE I FORMACJA
 
-### Rozdział I: Szafarz i warunki sprawowania sakramentaliów narzędziowych
+### Rozdział I: Szafarz i warunki sprawowania przedmiotów błogosławionych narzędziowych
 
-**Kan. 242 § 1.** Szafarzem sakramentaliów narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 4 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
+**Kan. 242 § 1.** Szafarzem przedmiotów błogosławionych narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 4 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
 
 **§ 2.** Małżonka jako współszafarka łaski może błogosławić narzędzia pracy domowej (misę, igłę, grzebień) w nieobecności Głowy Rodu lub za jego delegacją.
 
 **§ 3.** Potomstwo, po osiągnięciu używania rozumu, może uczestniczyć w obrzędach błogosławieństwa narzędzi jako ministranci i świadkowie.
 
-**Kan. 243.** Do sprawowania sakramentaliów narzędziowych wymagane jest:
+**Kan. 243.** Do sprawowania przedmiotów błogosławionych narzędziowych wymagane jest:
 
 1° odpowiednie przygotowanie przez modlitwę i skupienie;
 
@@ -1717,9 +1717,9 @@
 
 5° intencja zgodna z duchem Kościoła;
 
-6° połączenie sakramentalium narzędziowego z odpowiednim sakramentalium rzeczowym.
+6° połączenie przedmiotów błogosławionych narzędziowego z odpowiednim przedmiotów błogosławionych rzeczowym.
 
-**Kan. 244.** Narzędzia pobłogosławione jako sakramentalia winny być:
+**Kan. 244.** Narzędzia pobłogosławione jako przedmioty błogosławione winny być:
 
 1° przechowywane w odpowiednim miejscu w domu (kaplica domowa, kącik modlitewny, warsztat);
 
@@ -1731,7 +1731,7 @@
 
 5° traktowane jako znaki Bożej obecności w codziennej pracy.
 
-**Kan. 245.** Sakramentalia narzędziowe sprawowane są:
+**Kan. 245.** Przedmioty błogosławione narzędziowe sprawowane są:
 
 1° przy poświęceniu nowego warsztatu, kuchni, ogrodu lub miejsca pracy;
 
@@ -1747,9 +1747,9 @@
 
 7° przy poświęceniu nowego domu lub mieszkania.
 
-**Kan. 246.** Ustanawia się następujące przyporządkowanie sakramentaliów narzędziowych do siedmiu poziomów duchowej integracji:
+**Kan. 246.** Ustanawia się następujące przyporządkowanie przedmiotów błogosławionych narzędziowych do siedmiu poziomów duchowej integracji:
 
-| Lp. | Poziom / Czakra | Cnota | Sakrament | Sakramentalium rzeczowe | Sakramentalium narzędziowe | Dar | Charyzmat | Czynność błogosławieństwa |
+| Lp. | Poziom / Czakra | Cnota | Sakrament | Przedmiotów błogosławionych rzeczowe | Przedmiotów błogosławionych narzędziowe | Dar | Charyzmat | Czynność błogosławieństwa |
 |-----|----------------|-------|-----------|------------------------|---------------------------|-----|-----------|--------------------------|
 | 1 | KORONNA (Sahasrara) | Nadzieja | Chrzest | Woda | **Misa** | Mądrość | Proroctwa | Błogosławieństwo misy i wody |
 | 2 | TRZECIE OKO (Ajna) | Roztropność | Bierzmowanie | Sól | **Siekiera** | Rozum | Rozróżniania Duchów | Błogosławieństwo siekiery i soli |
@@ -1759,7 +1759,7 @@
 | 6 | SAKRALNA (Swadhisthana) | Umiarkowanie | Kapłaństwo | Świeca/Ogień | **Grzebień** | Wiedza | Kreatywna Inspiracja | Błogosławieństwo grzebienia i świecy |
 | 7 | KORZENIOWA (Muladhara) | Pobożność | Małżeństwo | Ziemia | **Motyka** | Cierpliwość | Służenie | Błogosławieństwo motyki i ziemi |
 
-**Kan. 247 § 1.** Misa jest sakramentalium narzędziowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, sakramentalium rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
+**Kan. 247 § 1.** Misa jest przedmiotów błogosławionych narzędziowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, przedmiotów błogosławionych rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
 
 **§ 2.** Symbolika misy obejmuje:
 
@@ -1790,9 +1790,9 @@
 **§ 4.** Formuła błogosławieństwa misy:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który w misie wody chrzcielnej odradzasz nas do nowego życia, pobłogosław tę misę i uczyń ją znakiem Twojej obecności w naszym domu. Niech przyjmuje Twoje łaski jak ziemia przyjmuje deszcz. Niech będzie naczyniem gościnności, obfitości i nadziei. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Misa jako sakramentalium narzędziowe łączy się z:
+**§ 5.** Misa jako przedmiotów błogosławionych narzędziowe łączy się z:
 
-1° sakramentalium rzeczowym **wody** — misa zawiera wodę, błogosławi się ją wodą święconą;
+1° przedmiotów błogosławionych rzeczowym **wody** — misa zawiera wodę, błogosławi się ją wodą święconą;
 
 2° cnotą **Nadziei** — misa jest otwarta ku przyszłości, ku temu, co ma nadejść;
 
@@ -1800,7 +1800,7 @@
 
 4° Charyzmatem **Proroctwa** — misa jest naczyniem objawienia, przyjmuje Słowo z góry.
 
-**Kan. 248 § 1.** Siekiera jest sakramentalium narzędziowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, sakramentalium rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
+**Kan. 248 § 1.** Siekiera jest przedmiotów błogosławionych narzędziowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, przedmiotów błogosławionych rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
 
 **§ 2.** Symbolika siekiery obejmuje:
 
@@ -1831,9 +1831,9 @@
 **§ 4.** Formuła błogosławieństwa siekiery:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który dałeś nam rozum do rozeznania dobra od zła, pobłogosław tę siekierę i uczyń ją znakiem Twojej mądrości w naszym domu. Niech odcina to, co martwe i niepotrzebne. Niech oczyszcza drogę ku prawdzie. Niech chroni przed iluzją i złem. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Siekiera jako sakramentalium narzędziowe łączy się z:
+**§ 5.** Siekiera jako przedmiotów błogosławionych narzędziowe łączy się z:
 
-1° sakramentalium rzeczowym **soli** — sól chroni i konserwuje, siekiera oczyszcza i przygotowuje;
+1° przedmiotów błogosławionych rzeczowym **soli** — sól chroni i konserwuje, siekiera oczyszcza i przygotowuje;
 
 2° cnotą **Roztropności** — siekiera wymaga roztropnego użycia, by nie zniszczyć tego, co cenne;
 
@@ -1841,7 +1841,7 @@
 
 4° Charyzmatem **Rozróżniania Duchów** — siekiera oddziela, rozpoznaje, decyduje.
 
-**Kan. 249 § 1.** Nóż jest sakramentalium narzędziowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, sakramentalium rzeczowym chleba, Darem Rady i Charyzmatem Języków.
+**Kan. 249 § 1.** Nóż jest przedmiotów błogosławionych narzędziowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, przedmiotów błogosławionych rzeczowym chleba, Darem Rady i Charyzmatem Języków.
 
 **§ 2.** Symbolika noża obejmuje:
 
@@ -1872,9 +1872,9 @@
 **§ 4.** Formuła błogosławieństwa noża:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, którego Słowo jest jak miecz obosieczny, przenikające aż do rozdzielenia duszy i ducha (Hbr 4,12), pobłogosław ten nóż i uczyń go znakiem Twojej prawdy w naszym domu. Niech dzieli chleb sprawiedliwie. Niech odcina kłamstwo od prawdy. Niech przygotowuje nas do Komunii z Tobą. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Nóż jako sakramentalium narzędziowe łączy się z:
+**§ 5.** Nóż jako przedmiotów błogosławionych narzędziowe łączy się z:
 
-1° sakramentalium rzeczowym **chleba** — nóż kroi chleb, dzieli go, przygotowuje do spożycia;
+1° przedmiotów błogosławionych rzeczowym **chleba** — nóż kroi chleb, dzieli go, przygotowuje do spożycia;
 
 2° cnotą **Skrupulatności** — nóż wymaga czystości, precyzji, autentyczności;
 
@@ -1882,7 +1882,7 @@
 
 4° Charyzmatem **Języków** — nóż jest obrazem słowa, które dzieli, komunikuje, karmi.
 
-**Kan. 250 § 1.** Igła jest sakramentalium narzędziowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, sakramentalium rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
+**Kan. 250 § 1.** Igła jest przedmiotów błogosławionych narzędziowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, przedmiotów błogosławionych rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
 
 **§ 2.** Symbolika igły obejmuje:
 
@@ -1913,9 +1913,9 @@
 **§ 4.** Formuła błogosławieństwa igły:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który zszywasz rany naszych serc i łączysz to, co rozdarte grzechem, pobłogosław tę igłę i uczyń ją znakiem Twojego miłosierdzia w naszym domu. Niech łączy to, co rozdarte. Niech uzdrawia to, co zranione. Niech naprawia to, co zniszczone. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Igła jako sakramentalium narzędziowe łączy się z:
+**§ 5.** Igła jako przedmiotów błogosławionych narzędziowe łączy się z:
 
-1° sakramentalium rzeczowym **popiołu** — popiół jest znakiem pokuty i nawrócenia, igła jest znakiem naprawy i uzdrowienia;
+1° przedmiotów błogosławionych rzeczowym **popiołu** — popiół jest znakiem pokuty i nawrócenia, igła jest znakiem naprawy i uzdrowienia;
 
 2° cnotą **Sprawiedliwości** — igła przywraca sprawiedliwy porządek, łączy to, co powinno być razem;
 
@@ -1923,7 +1923,7 @@
 
 4° Charyzmatem **Uzdrawiania** — igła zszywa rany, przywraca całość, leczy.
 
-**Kan. 251 § 1.** Młotek jest sakramentalium narzędziowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, sakramentalium rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
+**Kan. 251 § 1.** Młotek jest przedmiotów błogosławionych narzędziowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, przedmiotów błogosławionych rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
 
 **§ 2.** Symbolika młotka obejmuje:
 
@@ -1954,9 +1954,9 @@
 **§ 4.** Formuła błogosławieństwa młotka:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który jesteś Skałą i Twierdzą naszą, pobłogosław ten młotek i uczyń go znakiem Twojej mocy w naszym domu. Niech buduje to, co dobre. Niech kuje charaktery w ogniu doświadczeń. Niech tworzy nowe dzieła na Twoją chwałę. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Młotek jako sakramentalium narzędziowe łączy się z:
+**§ 5.** Młotek jako przedmiotów błogosławionych narzędziowe łączy się z:
 
-1° sakramentalium rzeczowym **oleju** — olej umacnia i namaszcza, młotek buduje i tworzy z mocą;
+1° przedmiotów błogosławionych rzeczowym **oleju** — olej umacnia i namaszcza, młotek buduje i tworzy z mocą;
 
 2° cnotą **Męstwa** — młotek wymaga odwagi, siły i zdecydowania;
 
@@ -1964,7 +1964,7 @@
 
 4° Charyzmatem **Czynów Mocy** — młotek tworzy dzieła, które są znakami Bożej obecności.
 
-**Kan. 252 § 1.** Grzebień jest sakramentalium narzędziowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, sakramentalium rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
+**Kan. 252 § 1.** Grzebień jest przedmiotów błogosławionych narzędziowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, przedmiotów błogosławionych rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
 
 **§ 2.** Symbolika grzebienia obejmuje:
 
@@ -1995,9 +1995,9 @@
 **§ 4.** Formuła błogosławieństwa grzebienia:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który jesteś pięknem i harmonią wszelkiego stworzenia, pobłogosław ten grzebień i uczyń go znakiem Twojej kreatywnej inspiracji w naszym domu. Niech porządkuje chaos. Niech przygotowuje do piękna. Niech przywraca godność Twoim dzieciom. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Grzebień jako sakramentalium narzędziowe łączy się z:
+**§ 5.** Grzebień jako przedmiotów błogosławionych narzędziowe łączy się z:
 
-1° sakramentalium rzeczowym **świecy i ognia** — ogień oświetla i inspiruje, grzebień porządkuje i przygotowuje do piękna;
+1° przedmiotów błogosławionych rzeczowym **świecy i ognia** — ogień oświetla i inspiruje, grzebień porządkuje i przygotowuje do piękna;
 
 2° cnotą **Umiarkowania** — grzebień wymaga umiaru, delikatności, harmonii;
 
@@ -2005,7 +2005,7 @@
 
 4° Charyzmatem **Kreatywnej Inspiracji** — grzebień tworzy piękno, porządkuje chaos, inspiruje.
 
-**Kan. 253 § 1.** Motyka jest sakramentalium narzędziowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, sakramentalium rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
+**Kan. 253 § 1.** Motyka jest przedmiotów błogosławionych narzędziowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, przedmiotów błogosławionych rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
 
 **§ 2.** Symbolika motyki obejmuje:
 
@@ -2036,9 +2036,9 @@
 **§ 4.** Formuła błogosławieństwa motyki:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który postawiłeś człowieka w ogrodzie Eden, aby go uprawiał i doglądał (Rdz 2,15), pobłogosław tę motykę i uczyń ją znakiem Twojej cierpliwej miłości w naszym domu. Niech uprawia ziemię naszych serc. Niech przygotowuje glebę na zasiew Twojego Słowa. Niech służy wzrostowi Twojego Królestwa. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Motyka jako sakramentalium narzędziowe łączy się z:
+**§ 5.** Motyka jako przedmiotów błogosławionych narzędziowe łączy się z:
 
-1° sakramentalium rzeczowym **ziemi** — ziemia jest fundamentem, motyka ją uprawia i przygotowuje;
+1° przedmiotów błogosławionych rzeczowym **ziemi** — ziemia jest fundamentem, motyka ją uprawia i przygotowuje;
 
 2° cnotą **Pobożności** — motyka jest narzędziem codziennej, wiernej, pokornej pracy;
 
@@ -2046,7 +2046,7 @@
 
 4° Charyzmatem **Służenia** — motyka służy wzrostowi, karmi, buduje wspólnotę.
 
-**Kan. 254 § 1.** Obrzęd błogosławieństwa sakramentaliów narzędziowych obejmuje:
+**Kan. 254 § 1.** Obrzęd błogosławieństwa przedmiotów błogosławionych narzędziowych obejmuje:
 
 1° znak krzyża i wezwanie Ducha Świętego;
 
@@ -2054,7 +2054,7 @@
 
 3° modlitwę błogosławieństwa (formuły określone w kan. 247–253);
 
-4° połączenie z odpowiednim sakramentalium rzeczowym (woda, sól, chleb, popiół, olej, świeca, ziemia);
+4° połączenie z odpowiednim przedmiotów błogosławionych rzeczowym (woda, sól, chleb, popiół, olej, świeca, ziemia);
 
 5° nałożenie rąk lub znak krzyża nad narzędziem;
 
@@ -2064,7 +2064,7 @@
 
 8° znak krzyża i błogosławieństwo końcowe.
 
-**§ 2.** Obrzęd błogosławieństwa sakramentaliów narzędziowych może być sprawowany:
+**§ 2.** Obrzęd błogosławieństwa przedmiotów błogosławionych narzędziowych może być sprawowany:
 
 1° indywidualnie — Głowa Rodu błogosławi jedno narzędzie;
 
@@ -2074,7 +2074,7 @@
 
 ### Rozdział II: Obrzęd zbiorowy siedmiu narzędzi
 
-**Kan. 255 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu sakramentaliów narzędziowych.
+**Kan. 255 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu przedmiotów błogosławionych narzędziowych.
 
 **§ 2.** Obrzęd zbiorowy obejmuje:
 
@@ -2082,7 +2082,7 @@
 
 2° ułożenie siedmiu narzędzi w porządku od korony do korzenia;
 
-3° ułożenie obok każdego narzędzia odpowiedniego sakramentalium rzeczowego;
+3° ułożenie obok każdego narzędzia odpowiedniego przedmiotów błogosławionych rzeczowego;
 
 4° zapalenie siedmiu świec (jedna przy każdym narzędziu);
 
@@ -2128,9 +2128,9 @@
 
 **§ 3.** Obrzęd codzienny trwa nie dłużej niż jedną minutę i może być sprawowany w milczeniu, w intencji serca.
 
-**Kan. 257 § 1.** Głowa Rodu jako biskup domowy ma obowiązek nauczać członków wspólnoty o znaczeniu sakramentaliów narzędziowych i ich związku z życiem duchowym.
+**Kan. 257 § 1.** Głowa Rodu jako biskup domowy ma obowiązek nauczać członków wspólnoty o znaczeniu przedmiotów błogosławionych narzędziowych i ich związku z życiem duchowym.
 
-**§ 2.** Nauczanie o sakramentaliach narzędziowych winno obejmować:
+**§ 2.** Nauczanie o przedmiotach błogosławionych narzędziowych winno obejmować:
 
 1° wyjaśnienie symboliki każdego narzędzia;
 
@@ -2142,7 +2142,7 @@
 
 5° ćwiczenia duchowe związane z każdym narzędziem.
 
-**§ 3.** Formacja Potomstwa w zakresie sakramentaliów narzędziowych winna przebiegać stopniowo:
+**§ 3.** Formacja Potomstwa w zakresie przedmiotów błogosławionych narzędziowych winna przebiegać stopniowo:
 
 1° do 7 roku życia — wprowadzenie przez zabawę i opowieści o narzędziach;
 
@@ -2152,9 +2152,9 @@
 
 4° od 14 do 18 roku życia — praktyczne zastosowanie w pracy i powołaniu;
 
-5° od 18 roku życia — pełna odpowiedzialność za własne sakramentalia narzędziowe.
+5° od 18 roku życia — pełna odpowiedzialność za własne przedmioty błogosławione narzędziowe.
 
-**Kan. 258.** Głowa Rodu ma obowiązek prowadzić Księgę Sakramentaliów Narzędziowych, w której zapisuje:
+**Kan. 258.** Głowa Rodu ma obowiązek prowadzić Księgę Przedmiotów błogosławionych Narzędziowych, w której zapisuje:
 
 1° daty błogosławieństw poszczególnych narzędzi;
 
@@ -2162,9 +2162,9 @@
 
 3° uczestników obrzędów;
 
-4° szczególne łaski i owoce duchowe związane z sakramentaliami.
+4° szczególne łaski i owoce duchowe związane z przedmiotami błogosławionymi.
 
-**Kan. 259 § 1.** Sakramentalia narzędziowe nie mogą być:
+**Kan. 259 § 1.** Przedmioty błogosławione narzędziowe nie mogą być:
 
 1° sprzedawane ani używane do celów handlowych;
 
@@ -2176,7 +2176,7 @@
 
 5° zastępować sakramentów świętych.
 
-**§ 2.** Sakramentalia narzędziowe mogą być:
+**§ 2.** Przedmioty błogosławione narzędziowe mogą być:
 
 1° przekazywane w darze członkom wspólnoty;
 
@@ -2184,15 +2184,15 @@
 
 3° używane w obrzędach liturgicznych Kościoła Domowego;
 
-4° łączone z sakramentaliami rzeczowymi i osobowymi.
+4° łączone z przedmiotami błogosławionymi rzeczowymi i osobowymi.
 
 **Kan. 260.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
-**Kan. 261.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące sakramentaliów narzędziowych winny być stosowane w taki sposób, by służyły uświęceniu pracy, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
+**Kan. 261.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące przedmiotów błogosławionych narzędziowych winny być stosowane w taki sposób, by służyły uświęceniu pracy, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
 
-## Tytuł XIV: SAKRAMENTALIA NARZĘDZIOWE
+## Tytuł XIV: PRZEDMIOTY BŁOGOSŁAWIONE NARZĘDZIOWE
 
-**Kan. 262 § 1.** Głowa Rodu jako biskup domowy ma obowiązek prowadzić systematyczną formację członków wspólnoty w zakresie cnót, sakramentaliów, Darów i charyzmatów.
+**Kan. 262 § 1.** Głowa Rodu jako biskup domowy ma obowiązek prowadzić systematyczną formację członków wspólnoty w zakresie cnót, przedmiotów błogosławionych, Darów i charyzmatów.
 **§ 2.** Formacja ta winna obejmować:
 
 1° cotygodniową katechezę domową (Obrządek Tomaszowy);
@@ -2211,11 +2211,11 @@
 
 3° w Obrządku Tomaszowym — akcent na prawdę, rozum i systematyczne studium.
 
-**Kan. 263.** Formacja Potomstwa w zakresie cnót, sakramentaliów, Darów i charyzmatów winna przebiegać stopniowo:
+**Kan. 263.** Formacja Potomstwa w zakresie cnót, przedmiotów błogosławionych, Darów i charyzmatów winna przebiegać stopniowo:
 
 1° **do 7 roku życia:** wprowadzenie przez symbole, opowieści i proste błogosławieństwa;
 
-2° **od 7 do 10 roku życia:** podstawowa katecheza o sakramentaliach i cnotach;
+2° **od 7 do 10 roku życia:** podstawowa katecheza o przedmiotach błogosławionych i cnotach;
 
 3° **od 10 do 14 roku życia:** systematyczna formacja w Darach Ducha Świętego;
 
@@ -2227,7 +2227,7 @@
 
 1° dni szczególnej formacji w zakresie cnót;
 
-2° okresy ćwiczeń duchowych i praktyk sakramentaliów;
+2° okresy ćwiczeń duchowych i praktyk przedmiotów błogosławionych;
 
 3° celebracje związane z Darami Ducha Świętego;
 
@@ -2235,13 +2235,13 @@
 
 5° nagrody i wyróżnienia za rozwój duchowy członków wspólnoty.
 
-**Kan. 265.** W Kościele Domowym ustanawia się następujące celebracje związane z cnotami, sakramentaliami, Darami i charyzmatami:
+**Kan. 265.** W Kościele Domowym ustanawia się następujące celebracje związane z cnotami, przedmiotami błogosławionymi, Darami i charyzmatami:
 
-**Kan. 266 — Celebracja Siedmiu Sakramentaliów (raz w roku, w święto patronalne Kościoła Domowego):**
+**Kan. 266 — Celebracja Siedmiu Przedmiotów błogosławionych (raz w roku, w święto patronalne Kościoła Domowego):**
 
-1° Głowa Rodu błogosławi kolejno wszystkie siedem sakramentaliów rzeczowych;
+1° Głowa Rodu błogosławi kolejno wszystkie siedem przedmiotów błogosławionych rzeczowych;
 
-2° każdy członek wspólnoty otrzymuje błogosławieństwo każdym sakramentalium;
+2° każdy członek wspólnoty otrzymuje błogosławieństwo każdym przedmiotów błogosławionych;
 
 3° odmawiana jest modlitwa o wszystkie siedem Darów Ducha Świętego;
 
@@ -2287,15 +2287,15 @@
 
 5° posyłani otrzymują znak krzyża na czole.
 
-**Kan. 270.** Postanowienia dotyczące celebracji cnót, sakramentaliów, Darów i charyzmatów zawarte w kan. 262–269 stosuje się odpowiednio do Sakramentaliów Kultowych opisanych w Tytule XV.
+**Kan. 270.** Postanowienia dotyczące celebracji cnót, przedmiotów błogosławionych, Darów i charyzmatów zawarte w kan. 262–269 stosuje się odpowiednio do Przedmiotów błogosławionych Kultowych opisanych w Tytule XV.
 
-## Tytuł XV: SAKRAMENTALIA KULTOWE W KOŚCIELE DOMOWYM
+## Tytuł XV: PRZEDMIOTY BŁOGOSŁAWIONE KULTOWE W KOŚCIELE DOMOWYM
 
-**Kan. 271 § 1.** Sakramentalia Kultowe są świętymi znakami ustanowionymi w Kościele Domowym, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe, w wymiarze kultu, modlitwy i kontemplacji (por. kan. 1166 KPK).
+**Kan. 271 § 1.** Przedmioty błogosławione Kultowe są świętymi znakami ustanowionymi w Kościele Domowym, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe, w wymiarze kultu, modlitwy i kontemplacji (por. kan. 1166 KPK).
 
-**§ 2.** Sakramentalia Kultowe różnią się od sakramentaliów rzeczowych tym, że nie są elementami natury (żywiołami), lecz **przedmiotami wykonanymi ludzką ręką i przeznaczonymi wyłącznie do użytku sakralnego**. Różnią się od sakramentaliów narzędziowych tym, że nie służą pracy fizycznej, lecz **bezpośrednio kultowi, modlitwie i kontemplacji**.
+**§ 2.** Przedmioty błogosławione Kultowe różnią się od przedmiotów błogosławionych rzeczowych tym, że nie są elementami natury (żywiołami), lecz **przedmiotami wykonanymi ludzką ręką i przeznaczonymi wyłącznie do użytku sakralnego**. Różnią się od przedmiotów błogosławionych narzędziowych tym, że nie służą pracy fizycznej, lecz **bezpośrednio kultowi, modlitwie i kontemplacji**.
 
-**§ 3.** Sakramentalia Kultowe winny być:
+**§ 3.** Przedmioty błogosławione Kultowe winny być:
 
 1° wykonane z materiałów godnych i trwałych;
 
@@ -2309,13 +2309,13 @@
 
 6° odnawiane w błogosławieństwie przynajmniej raz w roku.
 
-**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia sakramentaliów kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 204 § 1 KPK, kan. 230 § 2 KPK).
+**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia przedmiotów błogosławionych kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 204 § 1 KPK, kan. 230 § 2 KPK).
 
-**§ 2.** Małżonka jako współszafarka łaski może błogosławić sakramentalia kultowe w nieobecności Głowy Rodu lub za jego delegacją.
+**§ 2.** Małżonka jako współszafarka łaski może błogosławić przedmioty błogosławione kultowe w nieobecności Głowy Rodu lub za jego delegacją.
 
 **§ 3.** Potomstwo, po osiągnięciu używania rozumu, może uczestniczyć w obrzędach błogosławieństwa jako ministranci i świadkowie.
 
-**Kan. 273.** Sakramentalia Kultowe nie mogą być:
+**Kan. 273.** Przedmioty błogosławione Kultowe nie mogą być:
 
 1° sprzedawane dla zysku (por. kan. 320 § 1 KPK);
 
@@ -2329,7 +2329,7 @@
 
 6° przedmiotem handlu lub spekulacji.
 
-**Kan. 274.** W przypadku zniszczenia lub zużycia sakramentalium kultowego, należy je:
+**Kan. 274.** W przypadku zniszczenia lub zużycia przedmiotów błogosławionych kultowego, należy je:
 
 1° spalić z godnością (krucyfiks, obraz, różaniec, ręcznik, szkaplerz);
 
@@ -2339,9 +2339,9 @@
 
 4° nigdy nie wyrzucać do śmieci ani nie porzucać.
 
-**Kan. 275.** Ustanawia się następujące przyporządkowanie Sakramentaliów Kultowych do siedmiu poziomów duchowej integracji:
+**Kan. 275.** Ustanawia się następujące przyporządkowanie Przedmiotów błogosławionych Kultowych do siedmiu poziomów duchowej integracji:
 
-| Lp. | Poziom / Czakra | Cnota | Sakrament | Sakr. rzeczowe | **Sakramentalium Kultowe** | Dar | Charyzmat | Czynność |
+| Lp. | Poziom / Czakra | Cnota | Sakrament | Sakr. rzeczowe | **Przedmiotów błogosławionych Kultowe** | Dar | Charyzmat | Czynność |
 |-----|----------------|-------|-----------|---------------|---------------------------|-----|-----------|----------|
 | 1 | KORONNA (Sahasrara) | Nadzieja | Chrzest | Woda | **Ręcznik** | Mądrość | Proroctwa | Obmycie i błogosławieństwo służby |
 | 2 | TRZECIE OKO (Ajna) | Roztropność | Bierzmowanie | Sól | **Obraz** | Rozum | Rozróżniania Duchów | Kontemplacja i rozeznanie |
@@ -2351,7 +2351,7 @@
 | 6 | SAKRALNA (Swadhisthana) | Umiarkowanie | Kapłaństwo | Świeca/Ogień | **Różaniec** | Wiedza | Kreatywna Inspiracja | Modlitwa rytmiczna i medytacja |
 | 7 | KORZENIOWA (Muladhara) | Pobożność | Małżeństwo | Ziemia | **Szkaplerz** | Cierpliwość | Służenie | Nałożenie i przyjęcie przymierza |
 
-**Kan. 276 § 1.** Ręcznik jest sakramentalium kultowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, sakramentalium rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
+**Kan. 276 § 1.** Ręcznik jest przedmiotów błogosławionych kultowym poziomu Koronnego, związanym z cnotą Nadziei, sakramentem Chrztu, przedmiotów błogosławionych rzeczowym wody, Darem Mądrości i Charyzmatem Proroctwa.
 
 **§ 2.** Symbolika ręcznika obejmuje:
 
@@ -2382,7 +2382,7 @@
 **§ 4.** Formuła błogosławieństwa ręcznika:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który w Chrystusie Jezusie obmyłeś nas z grzechów i uczyniłeś nas nowym stworzeniem, pobłogosław ten ręcznik i uczyń go znakiem Twojej mądrości i służby w naszym domu. Niech przypomina nam, że Chrystus przyszedł nie po to, aby Mu służono, lecz aby służyć (Mk 10,45). Niech obmywa nasze serca z pychy i napełnia je nadzieją życia wiecznego. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Ręcznik jako sakramentalium kultowe używany jest:
+**§ 5.** Ręcznik jako przedmiotów błogosławionych kultowe używany jest:
 
 1° przy obrzędach obmycia nóg w Wielki Czwartek;
 
@@ -2396,9 +2396,9 @@
 
 6° przy przygotowaniu do posiłku wspólnotowego (obmycie rąk).
 
-**§ 6.** Ręcznik łączy się z sakramentalium rzeczowym **wody** — ręcznik jest przedłużeniem wody, znakiem dopełnienia obmycia; z cnotą **Nadziei** — ręcznik jest znakiem nowego życia, ku któremu zmierzamy; z Darem **Mądrości** — ręcznik jest znakiem mądrości Krzyża, która wyraża się w służbie; z Charyzmatem **Proroctwa** — ręcznik jest znakiem przyszłego Królestwa, w którym służba jest najwyższą godnością.
+**§ 6.** Ręcznik łączy się z przedmiotów błogosławionych rzeczowym **wody** — ręcznik jest przedłużeniem wody, znakiem dopełnienia obmycia; z cnotą **Nadziei** — ręcznik jest znakiem nowego życia, ku któremu zmierzamy; z Darem **Mądrości** — ręcznik jest znakiem mądrości Krzyża, która wyraża się w służbie; z Charyzmatem **Proroctwa** — ręcznik jest znakiem przyszłego Królestwa, w którym służba jest najwyższą godnością.
 
-**Kan. 277 § 1.** Obraz jest sakramentalium kultowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, sakramentalium rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
+**Kan. 277 § 1.** Obraz jest przedmiotów błogosławionych kultowym poziomu Trzeciego Oka, związanym z cnotą Roztropności, sakramentem Bierzmowania, przedmiotów błogosławionych rzeczowym soli, Darem Rozumu i Charyzmatem Rozróżniania Duchów.
 
 **§ 2.** Symbolika obrazu obejmuje:
 
@@ -2429,7 +2429,7 @@
 **§ 4.** Formuła błogosławieństwa obrazu:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który w Chrystusie objawiłeś nam swoje Oblicze i uczyniłeś nas zdolnymi do kontemplacji Twojej chwały, pobłogosław ten obraz i uczyń go znakiem Twojej obecności w naszym domu. Niech otwiera nasze oczy na prawdę. Niech uczy nas rozeznawać duchy. Niech prowadzi nas ku kontemplacji Twojego Oblicza. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Obraz jako sakramentalium kultowe używany jest:
+**§ 5.** Obraz jako przedmiotów błogosławionych kultowe używany jest:
 
 1° przy codziennej modlitwie kontemplacyjnej;
 
@@ -2443,7 +2443,7 @@
 
 6° przy medytacji i lectio divina.
 
-**§ 6.** Obraz łączy się z sakramentalium rzeczowym **soli** — sól chroni i konserwuje, obraz chroni pamięć i konserwuje widzenie duchowe; z cnotą **Roztropności** — obraz wymaga roztropnego patrzenia, rozeznania tego, co widzialne i niewidzialne; z Darem **Rozumu** — obraz jest narzędziem głębokiego zrozumienia, przenikania powierzchni ku głębi; z Charyzmatem **Rozróżniania Duchów** — obraz jest oknem, przez które rozeznajemy działanie Ducha Bożego.
+**§ 6.** Obraz łączy się z przedmiotów błogosławionych rzeczowym **soli** — sól chroni i konserwuje, obraz chroni pamięć i konserwuje widzenie duchowe; z cnotą **Roztropności** — obraz wymaga roztropnego patrzenia, rozeznania tego, co widzialne i niewidzialne; z Darem **Rozumu** — obraz jest narzędziem głębokiego zrozumienia, przenikania powierzchni ku głębi; z Charyzmatem **Rozróżniania Duchów** — obraz jest oknem, przez które rozeznajemy działanie Ducha Bożego.
 
 **§ 7.** Obrazy w Kościele Domowym winny być:
 
@@ -2457,7 +2457,7 @@
 
 5° w przypadku zniszczenia — spalone lub zakopane z godnością.
 
-**Kan. 278 § 1.** Gong jest sakramentalium kultowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, sakramentalium rzeczowym chleba, Darem Rady i Charyzmatem Języków.
+**Kan. 278 § 1.** Gong jest przedmiotów błogosławionych kultowym poziomu Gardłowego, związanym z cnotą Skrupulatności, sakramentem Komunii Świętej, przedmiotów błogosławionych rzeczowym chleba, Darem Rady i Charyzmatem Języków.
 
 **§ 2.** Symbolika gongu obejmuje:
 
@@ -2488,7 +2488,7 @@
 **§ 4.** Formuła błogosławieństwa gongu:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który przemówiłeś do nas przez Syna (Hbr 1,2) i wezwałeś nas do wspólnoty ze sobą, pobłogosław ten gong i uczyń go znakiem Twojego głosu w naszym domu. Niech wzywa nas do modlitwy. Niech gromadzi nas w jedno. Niech budzi nas ze snu obojętności. Niech jego dźwięk będzie czysty jak Twoje Słowo. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Gong jako sakramentalium kultowe używany jest:
+**§ 5.** Gong jako przedmiotów błogosławionych kultowe używany jest:
 
 1° do wzywania wspólnoty na modlitwę poranną i wieczorną;
 
@@ -2502,9 +2502,9 @@
 
 6° do oznajmiania ważnych wydarzeń w życiu wspólnoty.
 
-**§ 6.** Gong łączy się z sakramentalium rzeczowym **chleba** — chleb jest łamany i dzielony, gong jest uderzany i rozbrzmiewa; oba są znakiem dzielenia się i komunikacji; z cnotą **Skrupulatności** — gong wymaga czystego uderzenia, czystego dźwięku, autentyczności; z Darem **Rady** — gong jest głosem, który doradza, wzywa, kieruje; z Charyzmatem **Języków** — gong jest dźwiękiem, który przemawia językiem ducha, gromadzi i jednoczy.
+**§ 6.** Gong łączy się z przedmiotów błogosławionych rzeczowym **chleba** — chleb jest łamany i dzielony, gong jest uderzany i rozbrzmiewa; oba są znakiem dzielenia się i komunikacji; z cnotą **Skrupulatności** — gong wymaga czystego uderzenia, czystego dźwięku, autentyczności; z Darem **Rady** — gong jest głosem, który doradza, wzywa, kieruje; z Charyzmatem **Języków** — gong jest dźwiękiem, który przemawia językiem ducha, gromadzi i jednoczy.
 
-**Kan. 279 § 1.** Krucyfiks jest sakramentalium kultowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, sakramentalium rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
+**Kan. 279 § 1.** Krucyfiks jest przedmiotów błogosławionych kultowym poziomu Serca, związanym z cnotą Sprawiedliwości, sakramentem Pokuty, przedmiotów błogosławionych rzeczowym popiołu, Darem Miłosierdzia i Charyzmatem Uzdrawiania.
 
 **§ 2.** Symbolika krucyfiksa obejmuje:
 
@@ -2537,7 +2537,7 @@
 **§ 4.** Formuła błogosławieństwa krucyfiksa:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który w Krzyżu Twojego Syna objawiłeś nam pełnię miłości i sprawiedliwości, pobłogosław ten krucyfiks i uczyń go znakiem Twojego Miłosierdzia w naszym domu. Niech przypomina nam, że w Jego ranach jest nasze zdrowie. Niech uczy nas przebaczać, jak On przebaczył. Niech leczy nasze serca i przywraca sprawiedliwy porządek miłości. Przez Chrystusa ukrzyżowanego i zmartwychwstałego, Pana naszego. Amen."*
 
-**§ 5.** Krucyfiks jako sakramentalium kultowe używany jest:
+**§ 5.** Krucyfiks jako przedmiotów błogosławionych kultowe używany jest:
 
 1° jako centralny znak kaplicy domowej i ołtarzyka;
 
@@ -2553,7 +2553,7 @@
 
 7° jako znak obecności Chrystusa w domu.
 
-**§ 6.** Krucyfiks łączy się z sakramentalium rzeczowym **popiołu** — popiół jest znakiem pokuty i przemijania, krucyfiks jest znakiem odkupienia i wiecznego życia; z cnotą **Sprawiedliwości** — krucyfiks jest miejscem, gdzie sprawiedliwość spotyka się z miłosierdziem; z Darem **Miłosierdzia** — krucyfiks jest źródłem miłosierdzia, które płynie z Ran Chrystusa; z Charyzmatem **Uzdrawiania** — krucyfiks jest znakiem uzdrowienia, które płynie z Ofiary Krzyża.
+**§ 6.** Krucyfiks łączy się z przedmiotów błogosławionych rzeczowym **popiołu** — popiół jest znakiem pokuty i przemijania, krucyfiks jest znakiem odkupienia i wiecznego życia; z cnotą **Sprawiedliwości** — krucyfiks jest miejscem, gdzie sprawiedliwość spotyka się z miłosierdziem; z Darem **Miłosierdzia** — krucyfiks jest źródłem miłosierdzia, które płynie z Ran Chrystusa; z Charyzmatem **Uzdrawiania** — krucyfiks jest znakiem uzdrowienia, które płynie z Ofiary Krzyża.
 
 **§ 7.** Krucyfiks w Kościele Domowym winien:
 
@@ -2569,7 +2569,7 @@
 
 6° być znakiem, wobec którego dokonuje się obrzęd pojednania.
 
-**Kan. 280 § 1.** Kadzielnica jest sakramentalium kultowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, sakramentalium rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
+**Kan. 280 § 1.** Kadzielnica jest przedmiotów błogosławionych kultowym poziomu Splotu Słonecznego, związanym z cnotą Męstwa, sakramentem Namaszczenia Chorych, przedmiotów błogosławionych rzeczowym oleju, Darem Mocy i Charyzmatem Czynów Mocy.
 
 **§ 2.** Symbolika kadzielnicy obejmuje:
 
@@ -2600,7 +2600,7 @@
 **§ 4.** Formuła błogosławieństwa kadzielnicy:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który przyjmujesz modlitwy Twoich dzieci jak kadzidło wstępujące przed Twoje Oblicze, pobłogosław tę kadzielnicę i uczyń ją znakiem Twojej mocy w naszym domu. Niech nasza modlitwa wstępuje do Ciebie jak dym kadzidła. Niech uświęca naszą przestrzeń. Niech przemienia nasze cierpienie w ofiarę. Niech napełnia nasz dom Twoją obecnością. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Kadzielnica jako sakramentalium kultowe używana jest:
+**§ 5.** Kadzielnica jako przedmiotów błogosławionych kultowe używana jest:
 
 1° przy uroczystych celebracjach liturgicznych w Kościele Domowym;
 
@@ -2616,9 +2616,9 @@
 
 7° przy błogosławieństwie nowych przedsięwzięć.
 
-**§ 6.** Kadzielnica łączy się z sakramentalium rzeczowym **oleju** — olej namaszcza i umacnia, kadzielnica wznosi i przemienia; oba są znakiem umocnienia i przemiany; z cnotą **Męstwa** — kadzielnica wymaga odwagi, by modlitwa wstąpiła ku Bogu mimo przeszkód; z Darem **Mocy** — kadzielnica jest znakiem mocy modlitwy, która przenika niebiosa; z Charyzmatem **Czynów Mocy** — kadzielnica jest znakiem obecności Boga, która przemienia rzeczywistość.
+**§ 6.** Kadzielnica łączy się z przedmiotów błogosławionych rzeczowym **oleju** — olej namaszcza i umacnia, kadzielnica wznosi i przemienia; oba są znakiem umocnienia i przemiany; z cnotą **Męstwa** — kadzielnica wymaga odwagi, by modlitwa wstąpiła ku Bogu mimo przeszkód; z Darem **Mocy** — kadzielnica jest znakiem mocy modlitwy, która przenika niebiosa; z Charyzmatem **Czynów Mocy** — kadzielnica jest znakiem obecności Boga, która przemienia rzeczywistość.
 
-**Kan. 281 § 1.** Różaniec jest sakramentalium kultowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, sakramentalium rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
+**Kan. 281 § 1.** Różaniec jest przedmiotów błogosławionych kultowym poziomu Sakralnego, związanym z cnotą Umiarkowania, sakramentem Kapłaństwa, przedmiotów błogosławionych rzeczowym świecy i ognia, Darem Wiedzy i Charyzmatem Kreatywnej Inspiracji.
 
 **§ 2.** Symbolika różańca obejmuje:
 
@@ -2651,7 +2651,7 @@
 **§ 4.** Formuła błogosławieństwa różańca:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który dałeś nam modlitwę jako drogę do Twojego Serca, pobłogosław ten różaniec i uczyń go znakiem Twojej kreatywnej inspiracji w naszym domu. Niech każdy paciorek będzie jak iskra Twojej miłości. Niech każda tajemnica otwiera nas na głębię Twojej mądrości. Niech rytm modlitwy różańcowej napełnia nasz dom pokojem i pięknem. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Różaniec jako sakramentalium kultowe używany jest:
+**§ 5.** Różaniec jako przedmiotów błogosławionych kultowe używany jest:
 
 1° przy codziennej modlitwie różańcowej wspólnoty domowej;
 
@@ -2667,9 +2667,9 @@
 
 7° przy przygotowaniu do sakramentu Kapłaństwa.
 
-**§ 6.** Różaniec łączy się z sakramentalium rzeczowym **świecy i ognia** — ogień oświetla i inspiruje, różaniec prowadzi i pogłębia; oba są znakiem światła i ciepła modlitwy; z cnotą **Umiarkowania** — różaniec wymaga umiarkowania, rytmu, równowagi między powtarzalnością a nowością; z Darem **Wiedzy** — różaniec jest narzędziem twórczej mądrości, która poznaje przez powtarzanie i medytację; z Charyzmatem **Kreatywnej Inspiracji** — różaniec jest źródłem inspiracji, która rodzi nowe zrozumienie starych tajemnic.
+**§ 6.** Różaniec łączy się z przedmiotów błogosławionych rzeczowym **świecy i ognia** — ogień oświetla i inspiruje, różaniec prowadzi i pogłębia; oba są znakiem światła i ciepła modlitwy; z cnotą **Umiarkowania** — różaniec wymaga umiarkowania, rytmu, równowagi między powtarzalnością a nowością; z Darem **Wiedzy** — różaniec jest narzędziem twórczej mądrości, która poznaje przez powtarzanie i medytację; z Charyzmatem **Kreatywnej Inspiracji** — różaniec jest źródłem inspiracji, która rodzi nowe zrozumienie starych tajemnic.
 
-**Kan. 282 § 1.** Szkaplerz jest sakramentalium kultowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, sakramentalium rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
+**Kan. 282 § 1.** Szkaplerz jest przedmiotów błogosławionych kultowym poziomu Korzeniowego, związanym z cnotą Pobożności, sakramentem Małżeństwa, przedmiotów błogosławionych rzeczowym ziemi, Darem Cierpliwości i Charyzmatem Służenia.
 
 **§ 2.** Symbolika szkaplerza obejmuje:
 
@@ -2704,7 +2704,7 @@
 **§ 4.** Formuła błogosławieństwa i nałożenia szkaplerza:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który zawarłeś z nami wieczne przymierze i okryłeś nas płaszczem Twojej miłości, pobłogosław ten szkaplerz i uczyń go znakiem Twojego przymierza w naszym domu. Niech przypomina nam o naszej przynależności do Twojego Rodu. Niech okrywa nas Twoją ochroną. Niech uczy nas cierpliwości i wierności. Niech wzywa nas do służby Tobie i bliźnim. Przez Chrystusa, Pana naszego. Amen."*
 
-**§ 5.** Szkaplerz jako sakramentalium kultowe używany jest:
+**§ 5.** Szkaplerz jako przedmiotów błogosławionych kultowe używany jest:
 
 1° przy obrzędzie przyjęcia do wspólnoty Kościoła Domowego;
 
@@ -2720,25 +2720,25 @@
 
 7° jako codzienny znak przynależności do wspólnoty.
 
-**§ 6.** Szkaplerz łączy się z sakramentalium rzeczowym **ziemi** — ziemia jest fundamentem, szkaplerz jest okryciem; oba są znakiem zakorzenienia i przynależności; z cnotą **Pobożności** — szkaplerz jest znakiem codziennej, wiernej, pokornej pobożności; z Darem **Cierpliwości** — szkaplerz wymaga codziennego, cierpliwego noszenia, trwania w przymierzu; z Charyzmatem **Służenia** — szkaplerz jest znakiem służby, noszenia jarzma Chrystusowego w codziennym życiu.
+**§ 6.** Szkaplerz łączy się z przedmiotów błogosławionych rzeczowym **ziemi** — ziemia jest fundamentem, szkaplerz jest okryciem; oba są znakiem zakorzenienia i przynależności; z cnotą **Pobożności** — szkaplerz jest znakiem codziennej, wiernej, pokornej pobożności; z Darem **Cierpliwości** — szkaplerz wymaga codziennego, cierpliwego noszenia, trwania w przymierzu; z Charyzmatem **Służenia** — szkaplerz jest znakiem służby, noszenia jarzma Chrystusowego w codziennym życiu.
 
-**Kan. 283 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu Sakramentaliów Kultowych.
+**Kan. 283 § 1.** Raz w roku, w święto patronalne Kościoła Domowego, Głowa Rodu jako biskup domowy sprawuje obrzęd zbiorowego błogosławieństwa siedmiu Przedmiotów błogosławionych Kultowych.
 
 **§ 2.** Obrzęd zbiorowy obejmuje:
 
 1° przygotowanie miejsca obrzędu (kaplica domowa lub ołtarzyk);
 
-2° ułożenie siedmiu sakramentaliów kultowych w porządku od korony do korzenia;
+2° ułożenie siedmiu przedmiotów błogosławionych kultowych w porządku od korony do korzenia;
 
-3° ułożenie obok każdego sakramentalium odpowiedniego sakramentalium rzeczowego;
+3° ułożenie obok każdego przedmiotów błogosławionych odpowiedniego przedmiotów błogosławionych rzeczowego;
 
-4° zapalenie siedmiu świec (jedna przy każdym sakramentalium);
+4° zapalenie siedmiu świec (jedna przy każdym przedmiotów błogosławionych);
 
 5° wezwanie Ducha Świętego;
 
 6° czytanie siedmiu fragmentów Pisma Świętego;
 
-7° błogosławieństwo każdego sakramentalium z odpowiednią formułą;
+7° błogosławieństwo każdego przedmiotów błogosławionych z odpowiednią formułą;
 
 8° modlitwę o wszystkie siedem Darów Ducha Świętego;
 
@@ -2750,36 +2750,36 @@
 
 12° wspólny posiłek (chleb i wino/woda).
 
-**Kan. 284.** Głowa Rodu ma obowiązek prowadzić **Księgę Sakramentaliów Kultowych**, w której zapisuje:
+**Kan. 284.** Głowa Rodu ma obowiązek prowadzić **Księgę Przedmiotów błogosławionych Kultowych**, w której zapisuje:
 
-1° daty błogosławieństw poszczególnych sakramentaliów;
+1° daty błogosławieństw poszczególnych przedmiotów błogosławionych;
 
 2° okoliczności i intencje błogosławieństw;
 
 3° uczestników obrzędów;
 
-4° szczególne łaski i owoce duchowe związane z sakramentaliami;
+4° szczególne łaski i owoce duchowe związane z przedmiotami błogosławionymi;
 
 5° daty odnowienia błogosławieństw;
 
-6° daty zniszczenia lub wymiany sakramentaliów.
+6° daty zniszczenia lub wymiany przedmiotów błogosławionych.
 
-**Kan. 285.** Sakramentalia Kultowe winny być traktowane z najwyższą czcią i szacunkiem, jako znaki obecności Bożej w domu. Ich profanacja lub celowe zniszczenie stanowi ciężkie naruszenie Prawa Bożego i podlega przepisom kan. 506 KPK (profanacja rzeczy świętej).
+**Kan. 285.** Przedmioty błogosławione Kultowe winny być traktowane z najwyższą czcią i szacunkiem, jako znaki obecności Bożej w domu. Ich profanacja lub celowe zniszczenie stanowi ciężkie naruszenie Prawa Bożego i podlega przepisom kan. 506 KPK (profanacja rzeczy świętej).
 
 **Kan. 286.** Głowa Rodu jako biskup domowy ma obowiązek:
 
-1° czuwać nad godnym przechowywaniem i używaniem sakramentaliów kultowych;
+1° czuwać nad godnym przechowywaniem i używaniem przedmiotów błogosławionych kultowych;
 
-2° nauczać członków wspólnoty o znaczeniu i symbolice każdego sakramentalium;
+2° nauczać członków wspólnoty o znaczeniu i symbolice każdego przedmiotów błogosławionych;
 
-3° odnawiać błogosławieństwa sakramentaliów przynajmniej raz w roku;
+3° odnawiać błogosławieństwa przedmiotów błogosławionych przynajmniej raz w roku;
 
-4° wymieniać zużyte lub zniszczone sakramentalia na nowe;
+4° wymieniać zużyte lub zniszczone przedmioty błogosławione na nowe;
 
-5° dbać o to, by sakramentalia nie były używane do celów świeckich;
+5° dbać o to, by przedmioty błogosławione nie były używane do celów świeckich;
 
-6° przekazywać wiedzę o sakramentaliach Potomstwu.
+6° przekazywać wiedzę o przedmiotach błogosławionych Potomstwu.
 
 **Kan. 287.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
 
-**Kan. 288.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące Sakramentaliów Kultowych winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.
+**Kan. 288.** Najwyższą zasadą interpretacji i stosowania niniejszego Tytułu jest: *salus animarum suprema lex* — zbawienie dusz najwyższym prawem. Wszystkie przepisy dotyczące Przedmiotów błogosławionych Kultowych winny być stosowane w taki sposób, by służyły uświęceniu wiernych, budowaniu wspólnoty i chwale Boga w Trójcy Jedynego.

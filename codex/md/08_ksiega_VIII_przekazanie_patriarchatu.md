@@ -80,7 +80,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 7° nacisk Rodu, Małżonki, Potomstwa lub osób trzecich, jeśli pozbawia wolności głosujących;
 
-8° użycie sakramentaliów, modlitw, objawień prywatnych lub autorytetu duchowego do wymuszenia wyniku wyborów.
+8° użycie przedmiotów błogosławionych, modlitw, objawień prywatnych lub autorytetu duchowego do wymuszenia wyniku wyborów.
 
 **§ 3.** Każdy akt wyboru dokonany z naruszeniem §§ 1–2 jest nieważny albo co najmniej bezskuteczny, dopóki nie zostanie potwierdzony przez Biskupa Rzymskiego po usunięciu wady.
 
@@ -364,7 +364,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 7° insygnia urzędowe: pierścień patriarchalny, pastorał, krzyż pektoralny, mitrę lub inne znaki używane w sprawowaniu urzędu, jeśli zostały przeznaczone na patriarchat;
 
-8° naczynia, szaty, przedmioty kultu i sakramentalia powierzone urzędowi patriarchalnemu;
+8° naczynia, szaty, przedmioty kultu i przedmioty błogosławione powierzone urzędowi patriarchalnemu;
 
 9° dobra ruchome i nieruchomości należące do osoby prawnej patriarchatu, jeśli takie istnieją;
 
@@ -492,7 +492,7 @@ Niniejsza Księga określa sposób przekazania urzędu patriarchy subdiecezji do
 
 12° księgi urzędowe — znak ciągłości prawa.
 
-**§ 3.** Użycie tych znaków nie ma charakteru magicznego. Są one sakramentaliami i znakami służby, nie talizmanami ani gwarancją władzy.
+**§ 3.** Użycie tych znaków nie ma charakteru magicznego. Są one przedmiotami błogosławionymi i znakami służby, nie talizmanami ani gwarancją władzy.
 
 **Kan. 410 § 1.** Podczas obrzędu przekazania nowy patriarcha wypowiada przysięgę w formie następującej lub podobnej, zatwierdzonej przez synod i zgodnej z prawem Bożym:
 
@@ -607,7 +607,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 5° kontrolować sumień Małżonek i Potomstwa;
 
-6° używać sakramentaliów do manipulacji;
+6° używać przedmiotów błogosławionych do manipulacji;
 
 7° izolować subdiecezji od Kościoła powszechnego.
 
@@ -715,7 +715,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **Kan. 430 § 1.** Autentyczna interpretacja przepisów dotyczących ważności wyboru, potwierdzenia patriarchalnego i zakresu władzy patriarchalnej przysługuje Biskupowi Rzymskiemu.
 
-**§ 2.** Interpretacja wewnętrzna dotycząca obrządku domowego, sakramentaliów i życia subdiecezji należy do patriarchy w komunii z synodem patriarchalnym i biskupami tytularnymi subdiecezjalnymi, z zachowaniem prawa odwołania do Stolicy Apostolskiej.
+**§ 2.** Interpretacja wewnętrzna dotycząca obrządku domowego, przedmiotów błogosławionych i życia subdiecezji należy do patriarchy w komunii z synodem patriarchalnym i biskupami tytularnymi subdiecezjalnymi, z zachowaniem prawa odwołania do Stolicy Apostolskiej.
 
 **Kan. 431.** Żaden przepis niniejszej Księgi nie może być interpretowany jako:
 

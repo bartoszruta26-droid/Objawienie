@@ -70,7 +70,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 3° współbłogosławienie członków rodziny;
 
-4° współsprawowanie sakramentaliów domowych;
+4° współsprawowanie przedmiotów błogosławionych domowych;
 
 5° współudział w obrzędach trzech obrządków domowych;
 
@@ -86,7 +86,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 3° śpiewać psalmy i pieśni liturgiczne;
 
-4° przygotowywać sakramentalia rzeczowe do błogosławieństwa;
+4° przygotowywać przedmioty błogosławione rzeczowe do błogosławieństwa;
 
 5° pobłogosławić posiłek, pracę i odpoczynek;
 
@@ -96,17 +96,17 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 ### Rozdział II: Wspomaganie w szafarstwie świętym
 
-**Kan. 293 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w szafarstwie świętym jako współszafarka sakramentaliów i błogosławieństw. Wspomaganie to obejmuje:
+**Kan. 293 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w szafarstwie świętym jako współszafarka przedmiotów błogosławionych i błogosławieństw. Wspomaganie to obejmuje:
 
-1° przygotowanie materii sakramentaliów (wody, soli, chleba, popiołu, oleju, świecy, ziemi);
+1° przygotowanie materii przedmiotów błogosławionych (wody, soli, chleba, popiołu, oleju, świecy, ziemi);
 
 2° udział w obrzędach błogosławieństw przez odpowiedź, gest i modlitwę;
 
 3° składanie próśb o błogosławieństwo dla członków wspólnoty;
 
-4° przechowywanie sakramentaliów z należytą czcią;
+4° przechowywanie przedmiotów błogosławionych z należytą czcią;
 
-5° nauczanie dzieci o znaczeniu sakramentaliów;
+5° nauczanie dzieci o znaczeniu przedmiotów błogosławionych;
 
 6° troskę o godność i estetykę przestrzeni kultu domowego;
 
@@ -192,7 +192,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 4° udzielać błogosławieństw Potomstwu i członkom wspólnoty;
 
-5° dbać o przechowywanie i nienaruszalność sakramentaliów;
+5° dbać o przechowywanie i nienaruszalność przedmiotów błogosławionych;
 
 6° zwoływać Triarchię Domową w sprawach pilnych;
 
@@ -208,7 +208,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 2° prowadzenie modlitwy wspólnotowej i lectio divina;
 
-3° błogosławienie sakramentaliów rzeczowych zgodnie z zatwierdzonymi formułami;
+3° błogosławienie przedmiotów błogosławionych rzeczowych zgodnie z zatwierdzonymi formułami;
 
 4° sprawowanie obrzędów roku liturgicznego (Adwent, Boże Narodzenie, Wielki Post, Triduum, Okres Wielkanocny);
 
@@ -230,7 +230,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 1° funkcję lektora i kantora podczas celebracji;
 
-2° przygotowanie materii sakramentaliów i przestrzeni kultu;
+2° przygotowanie materii przedmiotów błogosławionych i przestrzeni kultu;
 
 3° service liturgiczny (ministratura);
 
@@ -292,7 +292,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 2° powierzane mu czytania i modlitwy wiernych;
 
-3° przygotowywanie darów i sakramentaliów;
+3° przygotowywanie darów i przedmiotów błogosławionych;
 
 4° śpiew i muzykę domową;
 
@@ -306,7 +306,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 2° od trzynastego roku życia: czytanie Pisma Świętego, prowadzenie modlitwy wiernych, głos doradczy w Triarchii Domowej;
 
-3° od piętnastego roku życia: prowadzenie rozważań formacyjnych, katecheza młodszych, opieka nad sakramentaliami;
+3° od piętnastego roku życia: prowadzenie rozważań formacyjnych, katecheza młodszych, opieka nad przedmiotami błogosławionymi;
 
 4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 299 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu patriarchatu.
 
@@ -392,7 +392,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 5° w razie nieobecności kogokolwiek celebracja odbywa się w zmniejszonym składzie, z adnotacją w kronice.
 
-**Kan. 311.** W sprawowaniu sakramentaliów Triarchia działa wspólnie:
+**Kan. 311.** W sprawowaniu przedmiotów błogosławionych Triarchia działa wspólnie:
 
 1° Głowa Rodu sprawuje egzorcyzm błogosławieństwa i modlitwę poświęcenia;
 
@@ -400,9 +400,9 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 3° Potomstwo przyjmuje błogosławieństwo i uczestniczy w pokropieniu;
 
-4° każdy członek Triarchii może otrzymać własne sakramentalium ku budowaniu wspólnoty;
+4° każdy członek Triarchii może otrzymać własne przedmiotów błogosławionych ku budowaniu wspólnoty;
 
-5° zaniedbanie wspólnoty przy sprawowaniu sakramentaliów wymaga napomnienia, nie kary.
+5° zaniedbanie wspólnoty przy sprawowaniu przedmiotów błogosławionych wymaga napomnienia, nie kary.
 
 ---
 

@@ -36,7 +36,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 5° **wspólnotowym** — służą całej wspólnocie Kościoła Domowego, nie zaś jednej osobie.
 
-**§ 2.** Nieruchomość, w której znajduje się kaplica domowa, ołtarz domowy lub miejsce sprawowania sakramentaliów, posiada szczególny charakter sakralny i podlega dodatkowej ochronie zgodnie z KPK, zastosowanym analogicznie.
+**§ 2.** Nieruchomość, w której znajduje się kaplica domowa, ołtarz domowy lub miejsce sprawowania przedmiotów błogosławionych, posiada szczególny charakter sakralny i podlega dodatkowej ochronie zgodnie z KPK, zastosowanym analogicznie.
 
 **§ 3.** Nieruchomość nie jest przedmiotem obrotu handlowego w rozumieniu czysto ekonomicznym. Jest ona przede wszystkim miejscem życia, modlitwy i służby, a jej wartość duchowa, rodowa i wspólnotowa przewyższa wartość materialną.
 
@@ -44,7 +44,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 1° **niepodzielne fizycznie** — nie można ich podzielić na części bez zniszczenia ich funkcji, wartości lub charakteru sakralnego;
 
-2° **nierozmnażalne** — nie można ich rozmnożyć w sposób, w jaki rozmnaża się dobra duchowe, intelektualne czy sakramentalia;
+2° **nierozmnażalne** — nie można ich rozmnożyć w sposób, w jaki rozmnaża się dobra duchowe, intelektualne czy przedmioty błogosławione;
 
 3° **jednostkowe** — każda nieruchomość jest niepowtarzalna i niezastępowalna;
 
@@ -150,7 +150,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 **Kan. 468.** W domu rodzinnym wyodrębnia się następujące strefy funkcjonalne:
 
-1° **kaplica domowa** (kącik modlitewny, oratorium) — miejsce sprawowania kultu, modlitwy i sakramentaliów; strefa ta jest nienaruszalna i nie może być przeznaczona na inne cele;
+1° **kaplica domowa** (kącik modlitewny, oratorium) — miejsce sprawowania kultu, modlitwy i przedmiotów błogosławionych; strefa ta jest nienaruszalna i nie może być przeznaczona na inne cele;
 
 2° **refektarz** (stół rodzinny) — miejsce wspólnych posiłków, błogosławieństwa chleba i rozmów;
 
@@ -162,7 +162,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 6° **przestrzeń gościnna** — miejsce przyjmowania gości i potrzebujących.
 
-**Kan. 469 § 1.** Ziemia przynależna do domu rodzinnego (ogród, pole, łąka) jest sakramentalium ziemi (poziom korzeniowy — Pobożność — Małżeństwo — Ziemia — Cierpliwość — Służenie) i podlega szczególnej ochronie.
+**Kan. 469 § 1.** Ziemia przynależna do domu rodzinnego (ogród, pole, łąka) jest przedmiotów błogosławionych ziemi (poziom korzeniowy — Pobożność — Małżeństwo — Ziemia — Cierpliwość — Służenie) i podlega szczególnej ochronie.
 
 **§ 2.** Ziemia ta służy:
 
@@ -494,7 +494,7 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 2° otrzymania kopii ksiąg liturgicznych, obrzędów i tradycji Rodu;
 
-3° otrzymania sakramentaliów rzeczowych, narzędziowych i kultowych niezbędnych do sprawowania kultu;
+3° otrzymania przedmiotów błogosławionych rzeczowych, narzędziowych i kultowych niezbędnych do sprawowania kultu;
 
 4° błogosławieństwa arcykapłana Kościoła macierzystego na nowe miejsce;
 

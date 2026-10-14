@@ -71,7 +71,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 11° **Obrządek Osobowy Tomaszowy** — wymiar intelektualny i prawdomówny wspólnoty;
 
-12° **Sakramentalia domowe** — błogosławieństwa i poświęcenia sprawowane przez Głowę Rodu w domu;
+12° **Przedmioty błogosławione domowe** — błogosławieństwa i poświęcenia sprawowane przez Głowę Rodu w domu;
 
 13° **Liturgia Życia** — codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu.
 

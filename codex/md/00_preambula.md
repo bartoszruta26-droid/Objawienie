@@ -48,7 +48,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 2° głoszenia Słowa Bożego i dawania świadectwa wiary (Mt 28,19-20; Dz 1,8);
 
-3° uświęcania siebie i innych przez modlitwę, sakramentalia i uczynki miłości;
+3° uświęcania siebie i innych przez modlitwę, przedmioty błogosławione i uczynki miłości;
 
 4° sprawowania funkcji kapłańskich, prorockich i królewskich w przestrzeni własnego domu, rodziny i wspólnoty;
 
@@ -60,9 +60,9 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 1° **Duchowny Kościoła Domowego** (*clericus domesticus*) — każdy ochrzczony członek wspólnoty, który przyjął błogosławieństwo do służby;
 
-2° **Kapłan domowy** (*sacerdos domesticus*) — duchowny wyznaczony do sprawowania sakramentaliów i przewodniczenia liturgii domowej;
+2° **Kapłan domowy** (*sacerdos domesticus*) — duchowny wyznaczony do sprawowania przedmiotów błogosławionych i przewodniczenia liturgii domowej;
 
-3° **Szafarz święty** (*minister sacri*) — kapłan domowy upoważniony do sprawowania określonych sakramentaliów rzeczowych, narzędziowych i kultowych;
+3° **Szafarz święty** (*minister sacri*) — kapłan domowy upoważniony do sprawowania określonych przedmiotów błogosławionych rzeczowych, narzędziowych i kultowych;
 
 4° **Arcykapłan Kościoła Domowego** (*archipresbyter domesticus*) — najwyższy szafarz święty wspólnoty domowej, pasterz i nauczyciel;
 
@@ -477,13 +477,13 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 4° ograniczyć prawa rodziny do samostanowienia i samoograniczenia w sprawach wiary, kultu i wychowania;
 
-5° uzależnić ważności sakramentaliów domowych, błogosławieństw ani obrzędów trzech obrządków domowych od zatwierdzenia przez władzę zewnętrzną.
+5° uzależnić ważności przedmiotów błogosławionych domowych, błogosławieństw ani obrzędów trzech obrządków domowych od zatwierdzenia przez władzę zewnętrzną.
 
 **§ 3.** Wszelkie próby ingerencji w strukturę organizacyjną Kościoła Domowego, w tym:
 
 1° narzucanie form liturgicznych;
 
-2° ograniczanie prawa do sprawowania sakramentaliów;
+2° ograniczanie prawa do sprawowania przedmiotów błogosławionych;
 
 3° wymuszanie zmian w Triarchii Domowej;
 
@@ -713,7 +713,7 @@ d) podlega dyscyplinie kościelnej wynikającej z Kodeksu Prawa Kanonicznego;
 
 e) sprawuje sakramenty zastrzeżone kapłanom wyświęconym (Eucharystia w sensie konsekracji, spowiedź sakramentalna w sensie rozgrzeszenia).
 
-**§ 2.** Duchowny z woli Bożej nie jest pozbawiony prawa do sprawowania sakramentaliów, błogosławieństw, modlitwy wstawienniczej, nauczania, ewangelizacji i posługi charytatywnej. Wręcz przeciwnie — powszechne kapłaństwo wiernych daje mu pełne prawo do tych działań (kan. 210, 211, 225 KPK).
+**§ 2.** Duchowny z woli Bożej nie jest pozbawiony prawa do sprawowania przedmiotów błogosławionych, błogosławieństw, modlitwy wstawienniczej, nauczania, ewangelizacji i posługi charytatywnej. Wręcz przeciwnie — powszechne kapłaństwo wiernych daje mu pełne prawo do tych działań (kan. 210, 211, 225 KPK).
 
 **§ 3.** Duchowny konsekrowany nie jest pozbawiony godności wynikającej z powszechnego kapłaństwa wiernych. Konsekracja dodaje do jego posługi wymiar sakramentalny, nie odbierając mu wymiaru wynikającego z woli Bożej.
 
@@ -729,7 +729,7 @@ a) osoba powołana przez Boga do sprawowania funkcji kapłańskich we wspólnoci
 
 b) jej kapłaństwo wynika z powszechnego kapłaństwa wiernych (1 P 2,9; kan. 204 § 1 KPK) oraz z prawa naturalnego rodziny;
 
-c) sprawuje sakramentalia, błogosławieństwa, przewodniczy modlitwie i liturgii domowej;
+c) sprawuje przedmioty błogosławione, błogosławieństwa, przewodniczy modlitwie i liturgii domowej;
 
 d) nie wymaga dla swojej ważności święceń kapłańskich w rozumieniu kan. 1008-1009 KPK;
 
@@ -753,7 +753,7 @@ e) jest zobowiązany do zachowania przepisów kan. 273-289 KPK.
 
 1° błogosławieństwa osób, miejsc i przedmiotów;
 
-2° sakramentalia rzeczowe, narzędziowe i kultowe;
+2° przedmioty błogosławione rzeczowe, narzędziowe i kultowe;
 
 3° obrzędy trzech obrządków domowych (Marii Magdaleny, Pawłowego i Tomaszowego);
 
@@ -815,7 +815,7 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 
 2° nauczać prawd wiary i moralności;
 
-3° sprawować sakramentalia i błogosławieństwa;
+3° sprawować przedmioty błogosławione i błogosławieństwa;
 
 4° kierować wspólnotą i zarządzać jej dobrami;
 
@@ -1212,7 +1212,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 2° zachować swój tytuł i władzę pasterską w zakresie wspólnoty domowej;
 
-3° sprawować sakramentalia i błogosławieństwa;
+3° sprawować przedmioty błogosławione i błogosławieństwa;
 
 4° nauczać prawd wiary i moralności w zakresie swojej wspólnoty;
 
