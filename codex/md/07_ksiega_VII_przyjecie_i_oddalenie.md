@@ -32,7 +32,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 3° obrządkiem domowym, w tym trzema obrządkami: Marii Magdaleny, Pawłowym i Tomaszowym;
 
-4° charyzmatami, darami Ducha Świętego, tradycją Rodu, insigniami, archiwami, księgami, dokumentami, przedmiotami kultu, sakramentaliami rzeczowymi, narzędziowymi i kultowymi;
+4° charyzmatami, darami Ducha Świętego, tradycją Rodu, insigniami, archiwami, księgami, dokumentami, przedmiotami kultu, przedmiotami błogosławionymi rzeczowymi, narzędziowymi i kultowymi;
 
 5° wszelkimi dobrami duchowymi i intelektualnymi związanymi z jego osobą, urzędem, subdiecezją oraz obrządkiem domowym.
 
@@ -66,7 +66,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 1° dobra doczesne: nieruchomości, ruchomości, środki finansowe, przedmioty sakralne, insygnia, naczynia liturgiczne, szaty, księgi, archiwa, biblioteki, dzieła sztuki, narzędzia, sprzęt, pojazdy, zapasy, plony, dochody, prawa majątkowe;
 
-2° dobra duchowe: charyzmaty, dary Ducha Świętego, obrzędy, modlitwy, błogosławieństwa, sakramentalia, tradycje pobożnościowe, duchowość trzech obrządków domowych, objawienia prywatne, rozeznania duchowe, posługę wstawienniczą, posługę uzdrawiania, posługę prorocką, posługę służenia;
+2° dobra duchowe: charyzmaty, dary Ducha Świętego, obrzędy, modlitwy, błogosławieństwa, przedmioty błogosławione, tradycje pobożnościowe, duchowość trzech obrządków domowych, objawienia prywatne, rozeznania duchowe, posługę wstawienniczą, posługę uzdrawiania, posługę prorocką, posługę służenia;
 
 3° dobra intelektualne: teksty, kanony, komentarze, kazania, katechezy, formuły liturgiczne, nagrania, utwory, znaki graficzne, herby, pieczęcie, symbole, nazwy, oprogramowanie, bazy danych, metody formacyjne, dokumenty Rodu, archiwa, tajemnice duchowe i rodzinne.
 
@@ -84,11 +84,11 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Obrządek domowy zawiera również:
 
-1° sakramentalia rzeczowe: wodę, sól, chleb, popiół, olej, świecę, ogień, ziemię;
+1° przedmioty błogosławione rzeczowe: wodę, sól, chleb, popiół, olej, świecę, ogień, ziemię;
 
-2° sakramentalia narzędziowe: misę, siekierę, nóż, igłę, młotek, grzebień, motykę;
+2° przedmioty błogosławione narzędziowe: misę, siekierę, nóż, igłę, młotek, grzebień, motykę;
 
-3° sakramentalia kultowe: krucyfiks, szkaplerz, obraz, różaniec, gong, kadzielnicę, ręcznik;
+3° przedmioty błogosławione kultowe: krucyfiks, szkaplerz, obraz, różaniec, gong, kadzielnicę, ręcznik;
 
 4° formuły błogosławieństw, modlitwy, obrzędy roku liturgicznego, kalendarz domowy, zwyczaje Rodu, znaki, gesty, pieśni, czytania, rachunki sumienia, obrzędy pojednania, namaszczenia, posłania, przyjęcia i przejścia.
 
@@ -260,7 +260,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 2° przedmioty kultu: krucyfiksy, obrazy, figury, świece, kadzielnice, gongi, ręczniki, szkaplerze, różańce, naczynia, szaty liturgiczne, insygnia;
 
-3° sakramentalia rzeczowe, narzędziowe i kultowe;
+3° przedmioty błogosławione rzeczowe, narzędziowe i kultowe;
 
 4° księgi, archiwa, dokumenty, kroniki, rejestry, dzienniki, rachunki, umowy, testamenty, pieczęcie;
 
@@ -282,7 +282,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 2° dary Ducha Świętego rozpoznane w jego życiu i posłudze;
 
-3° obrzędy domowe i sakramentalia;
+3° obrzędy domowe i przedmioty błogosławione;
 
 4° modlitwy, błogosławieństwa, egzorcyzmy domowe w granicach dopuszczalnych prawem;
 
@@ -332,7 +332,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 2° przekazywać obrządek Potomstwu, członkom Rodu oraz osobom dobrowolnie przyłączającym się;
 
-3° zachowywać księgi liturgiczne, formuły, modlitwy, znaki, sakramentalia i zwyczaje;
+3° zachowywać księgi liturgiczne, formuły, modlitwy, znaki, przedmioty błogosławione i zwyczaje;
 
 4° rozwijać obrządek w granicach zgodnych z Prawem Bożym i Naturalnym;
 
@@ -370,7 +370,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Po oddaleniu biskup nie może wykonywać władzy jurysdykcyjnej w Kościele Katolickim, chyba że Biskup Rzymski przywróci mu pełną komunię lub udzieli szczególnego upoważnienia.
 
-**§ 4.** Oddalenie nie unieważnia ważnych aktów administracyjnych, błogosławieństw, sakramentaliów ani decyzji podjętych przed oddaleniem w granicach jego kompetencji, chyba że zostały wydane nieważnie lub z rażącym naruszeniem prawa.
+**§ 4.** Oddalenie nie unieważnia ważnych aktów administracyjnych, błogosławieństw, przedmiotów błogosławionych ani decyzji podjętych przed oddaleniem w granicach jego kompetencji, chyba że zostały wydane nieważnie lub z rażącym naruszeniem prawa.
 
 **Kan. 365 § 1.** Nikomu nie wolno siłą, podstępem, naciskiem administracyjnym, presją medialną, szantażem duchowym, groźbą kar kościelnych ani jakimkolwiek innym środkiem pozbawiać oddalonego biskupa władania dobrami doczesnymi, duchowymi lub intelektualnymi.
 
@@ -406,7 +406,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 ## Tytuł IV: OCHRONA OBRZĄDKU, DZIEDZICTWA INTELEKTUALNEGO I PRAW OSOBOWYCH
 
-**Kan. 368 § 1.** Nazwy, symbole, herby, pieczęcie, insignia, formuły, obrzędy, modlitwy, kalendarze, sakramentalia oraz tradycje związane z subdiecezją domową i obrządkiem biskupa tytularnego subdiecezjalnego pozostają pod jego ochroną.
+**Kan. 368 § 1.** Nazwy, symbole, herby, pieczęcie, insignia, formuły, obrzędy, modlitwy, kalendarze, przedmioty błogosławione oraz tradycje związane z subdiecezją domową i obrządkiem biskupa tytularnego subdiecezjalnego pozostają pod jego ochroną.
 
 **§ 2.** Bez wyraźnej zgody biskupa lub jego następcy według niniejszego Kanonu nie wolno:
 

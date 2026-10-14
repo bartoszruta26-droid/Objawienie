@@ -12,7 +12,7 @@
 
 **§ 2.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by wszyscy członkowie wspólnoty domowej znali treść ustaw powszechnych dotyczących ich stanu i obowiązków, w szczególności:
 
-1° ustaw dotyczących sakramentów i sakramentaliów;
+1° ustaw dotyczących sakramentów i przedmiotów błogosławionych;
 
 2° ustaw dotyczących kultu Bożego i roku liturgicznego;
 
@@ -151,7 +151,7 @@
 
 **Kan. 79.** Kościół Domowy respektuje w szczególności następujące instrukcje Stolicy Apostolskiej, dostosowując je do warunków domowych:
 
-1° instrukcje liturgiczne dotyczące sprawowania sakramentów i sakramentaliów;
+1° instrukcje liturgiczne dotyczące sprawowania sakramentów i przedmiotów błogosławionych;
 
 2° instrukcje dotyczące formacji katechetycznej i nauczania;
 
@@ -405,7 +405,7 @@
 
 1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-1165 KPK);
 
-2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliów i pogrzebu kościelnego (kan. 834-839 KPK);
+2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, przedmiotów błogosławionych i pogrzebu kościelnego (kan. 834-839 KPK);
 
 3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 3 KPK);
 
@@ -451,7 +451,7 @@
 
 **Kan. 136 § 1.** Kościół Domowy, znajdujący się na terytorium określonej diecezji, respektuje prawo partykularne tej diecezji w zakresie, w jakim dotyczy ono:
 
-1° sprawowania sakramentów i sakramentaliów;
+1° sprawowania sakramentów i przedmiotów błogosławionych;
 
 2° dyscypliny kościelnej;
 

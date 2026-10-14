@@ -9,7 +9,7 @@
 
 Zgodnie z objawioną strukturą rzeczywistości (Hierarchia Poziomów), świat stworzony przez Boga ma strukturę holograficzną i fraktalną — bez względu na to, na ile części podzielimy istniejący świat, mniejsza część zawsze odpowiada większej. Z tej zasady wynika, że:
 
-1° dobra duchowe (charyzmaty, dary, tytuły, błogosławieństwa, sakramentalia) nie tracą wartości przez przekazywanie, lecz zyskują nowe owoce;
+1° dobra duchowe (charyzmaty, dary, tytuły, błogosławieństwa, przedmioty błogosławione) nie tracą wartości przez przekazywanie, lecz zyskują nowe owoce;
 
 2° dobra intelektualne (wiedza, tradycja, obrządki, formuły, kanony) rozmnażają się przez nauczanie i przekazywanie;
 
@@ -31,7 +31,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° nałożenie rąk na jedną osobę nie wyczerpuje mocy nałożenia rąk;
 
-4° sprawowanie sakramentalium dla jednego wiernego nie ogranicza możliwości sprawowania ich dla drugiego;
+4° sprawowanie przedmiotów błogosławionych dla jednego wiernego nie ogranicza możliwości sprawowania ich dla drugiego;
 
 5° charyzmat udzielony jednej osobie nie odbiera charyzmatu innej;
 
@@ -67,7 +67,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 1° posiada tytuł duchownego;
 
-2° ukończył formację kapłańską domową (obejmującą znajomość trzech obrządków, sakramentaliów i liturgii domowej);
+2° ukończył formację kapłańską domową (obejmującą znajomość trzech obrządków, przedmiotów błogosławionych i liturgii domowej);
 
 3° został wyznaczony przez arcykapłana lub Triarchię Domową;
 
@@ -75,7 +75,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Tytuł kapłana domowego uprawnia do:
 
-1° sprawowania sakramentaliów domowych;
+1° sprawowania przedmiotów błogosławionych domowych;
 
 2° błogosławienia osób, miejsc i przedmiotów;
 
@@ -91,7 +91,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 1° posiada tytuł kapłana domowego;
 
-2° został wyznaczony do sprawowania konkretnych sakramentaliów;
+2° został wyznaczony do sprawowania konkretnych przedmiotów błogosławionych;
 
 3° przyjął błogosławieństwo szafarskie z nałożeniem rąk;
 
@@ -99,17 +99,17 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Tytuł szafarza świętego uprawnia do:
 
-1° sprawowania sakramentaliów rzeczowych (woda, sól, chleb, popiół, olej, świeca, ziemia);
+1° sprawowania przedmiotów błogosławionych rzeczowych (woda, sól, chleb, popiół, olej, świeca, ziemia);
 
-2° sprawowania sakramentaliów narzędziowych (igła, siekiera, nóż, misa, młotek, grzebień, motyka);
+2° sprawowania przedmiotów błogosławionych narzędziowych (igła, siekiera, nóż, misa, młotek, grzebień, motyka);
 
-3° sprawowania sakramentaliów kultowych (krucyfiks, szkaplerz, obraz, różaniec, gong, kadzielnica, ręcznik);
+3° sprawowania przedmiotów błogosławionych kultowych (krucyfiks, szkaplerz, obraz, różaniec, gong, kadzielnica, ręcznik);
 
 4° błogosławienia osób i uczynków;
 
 5° przewodniczenia obrzędom przejścia.
 
-**§ 3.** Tytuł szafarza świętego jest rozmnażalny i może być udzielony wielu członkom jednocześnie, z zachowaniem zasady, że każdy szafarz święty sprawuje te sakramentalia, do których został wyznaczony.
+**§ 3.** Tytuł szafarza świętego jest rozmnażalny i może być udzielony wielu członkom jednocześnie, z zachowaniem zasady, że każdy szafarz święty sprawuje te przedmioty błogosławione, do których został wyznaczony.
 
 **Kan. 438 § 1.** Arcykapłan Kościoła Domowego ma prawo i obowiązek rozmnażania tytułów duchownych, kapłańskich i szafarskich wśród członków wspólnoty, którzy są do tego zdolni.
 
@@ -153,7 +153,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° otrzymania kopii dokumentów dotyczących jego formacji;
 
-5° nauki formuł błogosławieństw i sakramentaliów;
+5° nauki formuł błogosławieństw i przedmiotów błogosławionych;
 
 6° dostępu do archiwum domowego w zakresie dotyczącym jego osoby i formacji.
 
@@ -163,7 +163,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° kopię ksiąg liturgicznych trzech obrządków;
 
-3° kopię formuł błogosławieństw i sakramentaliów;
+3° kopię formuł błogosławieństw i przedmiotów błogosławionych;
 
 4° kopię tradycji i zwyczajów Rodu;
 
@@ -209,7 +209,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° prawo do sprawowania trzech obrządków domowych;
 
-3° prawo do błogosławienia sakramentaliów;
+3° prawo do błogosławienia przedmiotów błogosławionych;
 
 4° prawo do nauczania cnót i prawd wiary;
 
@@ -227,7 +227,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° kopię kanonów i statutów (z możliwością adaptacji);
 
-4° sakramentalia rzeczowe, narzędziowe i kultowe w ilości wystarczającej do sprawowania obrzędów;
+4° przedmioty błogosławione rzeczowe, narzędziowe i kultowe w ilości wystarczającej do sprawowania obrzędów;
 
 5° wodę święconą, olej błogosławiony, sól błogosławioną;
 
@@ -269,7 +269,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 1° władzę nauczania (*munus docendi*) — nauczanie prawd wiary, katechezę, formację;
 
-2° władzę uświęcania (*munus sanctificandi*) — sprawowanie sakramentaliów, błogosławieństw, liturgii domowej;
+2° władzę uświęcania (*munus sanctificandi*) — sprawowanie przedmiotów błogosławionych, błogosławieństw, liturgii domowej;
 
 3° władzę kierowania (*munus regendi*) — zarządzanie wspólnotą, podejmowanie decyzji, reprezentację.
 
@@ -351,7 +351,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° trzy obrządki domowe mogą zostać uznane jako własna tradycja liturgiczna wspólnoty;
 
-5° sakramentalia domowe mogą zostać zatwierdzone jako sakramentalia partykularne.
+5° przedmioty błogosławione domowe mogą zostać zatwierdzone jako przedmioty błogosławione partykularne.
 
 **§ 2.** Ustanowienie diecezji z subdiecezji domowej wymaga:
 
@@ -409,9 +409,9 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Kościół macierzysty ma obowiązek uzupełnić braki nowego Kościoła Domowego w zakresie:
 
-1° sakramentaliów rzeczowych (woda, sól, chleb, popiół, olej, świeca, ziemia);
+1° przedmiotów błogosławionych rzeczowych (woda, sól, chleb, popiół, olej, świeca, ziemia);
 
-2° sakramentaliów kultowych (krucyfiks, świece, kadzielnica);
+2° przedmiotów błogosławionych kultowych (krucyfiks, świece, kadzielnica);
 
 3° ksiąg liturgicznych i obrzędowych;
 
@@ -449,13 +449,13 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 2.** Rozmnażanie dóbr materialnych przez pracę obejmuje:
 
-1° uprawę ziemi i ogrodu (sakramentalium ziemi — poziom korzeniowy);
+1° uprawę ziemi i ogrodu (przedmiotów błogosławionych ziemi — poziom korzeniowy);
 
 2° hodowlę zwierząt;
 
-3° rzemiosło i wytwórczość (sakramentalia narzędziowe);
+3° rzemiosło i wytwórczość (przedmioty błogosławione narzędziowe);
 
-4° twórczość artystyczną i intelektualną (sakramentalium świecy — poziom sakralny);
+4° twórczość artystyczną i intelektualną (przedmiotów błogosławionych świecy — poziom sakralny);
 
 5° usługi i handel w duchu sprawiedliwości;
 

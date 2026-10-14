@@ -30,7 +30,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł II: SUBDIECEZJA DOMOWA JAKO KOŚCIÓŁ PARTYKULARNY
 
-**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa tytularnego subdiecezjalnego z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i sakramentalia, tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 9 KPK, zastosowany analogicznie).
+**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa tytularnego subdiecezjalnego z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i przedmioty błogosławione, tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 9 KPK, zastosowany analogicznie).
 
 **§ 2.** Subdiecezja domowa jest podporządkowana diecezji, na której terytorium się znajduje. Biskup tytularny subdiecezjalny sprawuje władzę w subdiecezji domowej pod zwierzchnictwem biskupa diecezjalnego.
 
@@ -94,7 +94,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 2° formacji duchowej członków wspólnoty;
 
-3° sprawowania sakramentaliów i błogosławieństw domowych;
+3° sprawowania przedmiotów błogosławionych i błogosławieństw domowych;
 
 4° zarządzania dobrami materialnymi i duchowymi subdiecezji domowej;
 
@@ -190,7 +190,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 6° wspierać dzieła apostolatu i miłosierdzia;
 
-7° czuwać nad prawidłowym sprawowaniem sakramentaliów i liturgii domowej;
+7° czuwać nad prawidłowym sprawowaniem przedmiotów błogosławionych i liturgii domowej;
 
 8° dbać o formację duchową i intelektualną biskupów tytularnych subdiecezjalnych.
 

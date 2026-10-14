@@ -80,9 +80,9 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 1° **Duchowny** (*clericus domesticus*) — każdy członek Kościoła Domowego, który przyjął sakramenty inicjacji chrześcijańskiej i został błogosławiony do służby wspólnotowej;
 
-2° **Kapłan domowy** (*sacerdos domesticus*) — duchowny, który ukończył formację kapłańską domową i został wyznaczony do sprawowania sakramentaliów oraz przewodniczenia liturgii domowej;
+2° **Kapłan domowy** (*sacerdos domesticus*) — duchowny, który ukończył formację kapłańską domową i został wyznaczony do sprawowania przedmiotów błogosławionych oraz przewodniczenia liturgii domowej;
 
-3° **Szafarz święty** (*minister sacri*) — kapłan domowy wyznaczony do sprawowania określonych sakramentaliów i błogosławieństw;
+3° **Szafarz święty** (*minister sacri*) — kapłan domowy wyznaczony do sprawowania określonych przedmiotów błogosławionych i błogosławieństw;
 
 4° **Arcykapłan Kościoła Domowego** (*archipresbyter domesticus*) — szafarz święty sprawujący najwyższą władzę kapłańską w Kościele Domowym;
 
@@ -114,7 +114,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 1° ukończył formację kapłańską obejmującą znajomość trzech obrządków domowych;
 
-2° wykazuje się roztropnością, pobożnością i znajomością sakramentaliów;
+2° wykazuje się roztropnością, pobożnością i znajomością przedmiotów błogosławionych;
 
 3° został wyznaczony przez arcykapłana lub Triarchię Domową;
 
@@ -130,7 +130,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **§ 3.** Kapłan domowy sprawuje:
 
-1° sakramentalia rzeczowe, narzędziowe i kultowe;
+1° przedmioty błogosławione rzeczowe, narzędziowe i kultowe;
 
 2° błogosławieństwa osób, miejsc i przedmiotów;
 
@@ -142,7 +142,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 ### Rozdział III: Szafarze święci
 
-**Kan. 499 § 1.** Szafarzem świętym zostaje kapłan domowy wyznaczony do sprawowania określonych sakramentaliów lub funkcji liturgicznych.
+**Kan. 499 § 1.** Szafarzem świętym zostaje kapłan domowy wyznaczony do sprawowania określonych przedmiotów błogosławionych lub funkcji liturgicznych.
 
 **§ 2.** W obrządku domowym rozróżnia się szafarzy świętych według specjalizacji:
 
@@ -176,7 +176,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
    d) może być osobą żyjącą w małżeństwie lub w celibacie;
 
-   e) sprawuje sakramentalia, błogosławieństwa i liturgię domową;
+   e) sprawuje przedmioty błogosławione, błogosławieństwa i liturgię domową;
 
    f) nie sprawuje sakramentów zastrzeżonych biskupom wyświęconym (sakrament święceń, bierzmowanie jako szafarz zwyczajny, konsekracja kościołów).
    
@@ -270,7 +270,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 3° w obrządku domowym istnieją trzy odrębne tradycje liturgiczne (Marii Magdaleny, Pawłowy, Tomaszowy), które są sprawowane równolegle;
 
-4° w obrządku domowym sakramentalia rzeczowe, narzędziowe i kultowe mają własne formuły i obrzędy odrębne od łacińskich.
+4° w obrządku domowym przedmioty błogosławione rzeczowe, narzędziowe i kultowe mają własne formuły i obrzędy odrębne od łacińskich.
 
 5° w obrządku domowym można wydzielić kaplicę domową, salę kościelną, salę katechetyczną a nawet przeznaczyć cały dom rodzinny na kościół. 
 
@@ -280,7 +280,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 2° w obrządku domowym sakramenty są najchętniej przyjmowane w Kościele Powszechnym (parafia, diecezja);
 
-3° w obrządku domowym sprawowane są sakramentalia, błogosławieństwa i obrzędy domowe przez kapłanów domowych i szafarzy świętych;
+3° w obrządku domowym sprawowane są przedmioty błogosławione, błogosławieństwa i obrzędy domowe przez kapłanów domowych i szafarzy świętych;
 
 4° w przypadkach przewidzianych w KPK, wobec istotnej przyczyny, jeżeli kanony KPK pozwalają i wyraźne nie zabraniają z rąk kapłana niewyświęconego, biskupa niewyświęconego, biskupa wyświęconego w Kościele Domowym szafarzem sakramentów mogą być te wymienione osoby.
 

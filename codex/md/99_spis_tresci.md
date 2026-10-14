@@ -7,7 +7,7 @@
 | [`01_ksiega_I_normy_ogolne.md`](./01_ksiega_I_normy_ogolne.md) | Księga I — Normy Ogólne | kan. 1–13  |
 | [`02_ksiega_II_lud_bozy.md`](./02_ksiega_II_lud_bozy.md) | Księga II — Lud Boży | kan. 14–48 |
 | [`03_ksiega_III_prawo_koscielne.md`](./03_ksiega_III_prawo_koscielne.md) | Księga III — Prawo Kościelne | kan. 49–143 |
-| [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i sakramentalia) | kan. 144–288 |
+| [`04_ksiega_IV_prawo_liturgiczne.md`](./04_ksiega_IV_prawo_liturgiczne.md) | Księga IV — Uświęcające Zadanie (liturgia i przedmioty błogosławione) | kan. 144–288 |
 | [`05_ksiega_V_prawo_sakramentalne.md`](./05_ksiega_V_prawo_sakramentalne.md) | Księga V — Posługa kapłańska i współudział Małżonki i Potomka | kan. 289–318 |
 | [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 319–344 |
 | [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 345–379 |
@@ -59,9 +59,9 @@
 - **Tytuł XII: PRZEPISY KOŃCOWE** — kan. 139–143
 -   **ANEKS: TABELA KORESPONDENCJI KSIĘGI III Z KODEKSEM PRAWA KANONICZNEGO 1983**
 
-## Księga IV — Uświęcające Zadanie (liturgia i sakramentalia)
+## Księga IV — Uświęcające Zadanie (liturgia i przedmioty błogosławione)
 - **Tytuł I: LITURGIA DOMOWA** — kan. 144–147
-- **Tytuł II: SAKRAMENTALIA DOMOWE — PRZEPISY OGÓLNE** — kan. 148
+- **Tytuł II: PRZEDMIOTY BŁOGOSŁAWIONE DOMOWE — PRZEPISY OGÓLNE** — kan. 148
 - **Tytuł III: ROK LITURGICZNY W KOŚCIELE DOMOWYM** — kan. 149–161
 - **Tytuł IV: MODLITWA I KULT DOMOWY** — kan. 162–175
 -   **Rozdział I: Przepisy ogólne** — kan. 162–163
@@ -70,7 +70,7 @@
 -   **Rozdział IV: Obrządek Tomaszowy** — kan. 172–175
 - **Tytuł V: TRZY OBRZĄDKI DOMOWE** — kan. 176–180
 - **Tytuł VI: MIEJSCA KULTU I DZIEŃ PAŃSKI** — kan. 181–186
-- **Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, SAKRAMENTALIACH, DARACH I CHARYZMATACH** — kan. 187–206
+- **Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, PRZEDMIOTACH BŁOGOSŁAWIONYCH, DARACH I CHARYZMATACH** — kan. 187–206
 -   **Rozdział I: Przepisy ogólne o nauczaniu cnót** — kan. 187–188
 -   **Rozdział II: Cnota Pobożności (Poziom Korzeniowy)** — kan. 189–190
 -   **Rozdział III: Cnota Umiarkowania (Poziom Sakralny)** — kan. 191–192
@@ -80,31 +80,31 @@
 -   **Rozdział VII: Cnota Roztropności (Poziom Trzeciego Oka)** — kan. 199–200
 -   **Rozdział VIII: Cnota Nadziei (Poziom Koronny)** — kan. 201–202
 -   **Rozdział IX: Podsumowanie cnót — obowiązki Głowy Rodu** — kan. 203–206
-- **Tytuł VIII: SIEDEM SAKRAMENTALIÓW RZECZOWYCH** — kan. 207–213
--   **Rozdział I: Woda — Sakramentalium Oczyszczenia i Nowego Życia** — kan. 207
--   **Rozdział II: Sól — Sakramentalium Ochrony i Rozeznania** — kan. 208
--   **Rozdział III: Chleb — Sakramentalium Wspólnoty i Dziękczynienia** — kan. 209
--   **Rozdział IV: Popiół — Sakramentalium Pokuty i Nawrócenia** — kan. 210
--   **Rozdział V: Olej — Sakramentalium Umocnienia i Uzdrawiania** — kan. 211
--   **Rozdział VI: Świeca i Ogień — Sakramentalium Światła i Powołania** — kan. 212
--   **Rozdział VII: Ziemia — Sakramentalium Zakorzenienia i Płodności** — kan. 213
+- **Tytuł VIII: SIEDEM PRZEDMIOTÓW BŁOGOSŁAWIONYCH RZECZOWYCH** — kan. 207–213
+-   **Rozdział I: Woda — Przedmiotów błogosławionych Oczyszczenia i Nowego Życia** — kan. 207
+-   **Rozdział II: Sól — Przedmiotów błogosławionych Ochrony i Rozeznania** — kan. 208
+-   **Rozdział III: Chleb — Przedmiotów błogosławionych Wspólnoty i Dziękczynienia** — kan. 209
+-   **Rozdział IV: Popiół — Przedmiotów błogosławionych Pokuty i Nawrócenia** — kan. 210
+-   **Rozdział V: Olej — Przedmiotów błogosławionych Umocnienia i Uzdrawiania** — kan. 211
+-   **Rozdział VI: Świeca i Ogień — Przedmiotów błogosławionych Światła i Powołania** — kan. 212
+-   **Rozdział VII: Ziemia — Przedmiotów błogosławionych Zakorzenienia i Płodności** — kan. 213
 - **Tytuł IX: SIEDEM DARÓW DUCHA ŚWIĘTEGO** — kan. 214–223
 -   **Rozdział I: Przepisy ogólne o Darach Ducha Świętego** — kan. 214–216
 -   **Rozdział II: Poszczególne Dary i ich praktyka** — kan. 217–223
 - **Tytuł X: SIEDEM CHARYZMATÓW — PRZEPISY OGÓLNE** — kan. 224–233
 -   **Rozdział I: Przepisy ogólne o charyzmatach** — kan. 224–226
 -   **Rozdział II: Poszczególne charyzmaty i ich praktyka** — kan. 227–233
-- **Tytuł XI: SAKRAMENTALIA UCZYNKÓW** — kan. 234
--   **Rozdział I: Sakramentalia uczynków — przepisy ogólne** — kan. 234
-- **Tytuł XII: INTEGRACJA SAKRAMENTALIÓW OSOBOWYCH I UCZYNKÓW** — kan. 235–241
+- **Tytuł XI: PRZEDMIOTY BŁOGOSŁAWIONE UCZYNKÓW** — kan. 234
+-   **Rozdział I: Przedmioty błogosławione uczynków — przepisy ogólne** — kan. 234
+- **Tytuł XII: INTEGRACJA PRZEDMIOTÓW BŁOGOSŁAWIONYCH OSOBOWYCH I UCZYNKÓW** — kan. 235–241
 -   **Rozdział I: Zasada integracji trzech wymiarów** — kan. 235
 -   **Rozdział II: Celebracje i obowiązki wiernych** — kan. 236–241
 - **Tytuł XIII: CELEBRACJE LITURGICZNE I FORMACJA** — kan. 242–261
--   **Rozdział I: Szafarz i warunki sprawowania sakramentaliów narzędziowych** — kan. 242–254
+-   **Rozdział I: Szafarz i warunki sprawowania przedmiotów błogosławionych narzędziowych** — kan. 242–254
 -   **Rozdział II: Obrzęd zbiorowy siedmiu narzędzi** — kan. 255
 -   **Rozdział III: Obrzęd codzienny** — kan. 256–261
-- **Tytuł XIV: SAKRAMENTALIA NARZĘDZIOWE** — kan. 262–270
-- **Tytuł XV: SAKRAMENTALIA KULTOWE W KOŚCIELE DOMOWYM** — kan. 271–288
+- **Tytuł XIV: PRZEDMIOTY BŁOGOSŁAWIONE NARZĘDZIOWE** — kan. 262–270
+- **Tytuł XV: PRZEDMIOTY BŁOGOSŁAWIONE KULTOWE W KOŚCIELE DOMOWYM** — kan. 271–288
 
 ## Księga V — Posługa kapłańska i współudział Małżonki i Potomka
 - **Tytuł I: ZASADY OGÓLNE WSPÓŁUDZIAŁU W POSŁUDZE KAPŁAŃSKIEJ** — kan. 289–290
