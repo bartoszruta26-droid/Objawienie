@@ -21,7 +21,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł I: ZASADA ROZMNAŻANIA DÓBR DUCHOWYCH
 
-**Kan. 434 § 1.** Dobra duchowe Kościoła Domowego — w tym tytuły duchownego, kapłana, szafarza świętego, arcykapłana i biskupa domowego — nie podlegają zasadzie wyłączności ani niepodzielności. Mogą być i winny być rozmnażane, przekazywane i udzielane wszystkim członkom wspólnoty, którzy są do tego zdolni i przygotowani. *(przepis scalony z dawnego kan. 700 § 1 oraz dawnego kan. 900 § 1 starej numeracji; zgodnie z przepisami tego kanonu obowiązuje wyłącznie niniejsze, nowe brzmienie)*
+**Kan. 434 § 1.** Dobra duchowe Kościoła Domowego — w tym tytuły duchownego, kapłana, szafarza świętego, arcykapłana i biskupa domowego — nie podlegają zasadzie wyłączności ani niepodzielności. Mogą być i winny być rozmnażane, przekazywane i udzielane wszystkim członkom wspólnoty, którzy są do tego zdolni i przygotowani.
 
 **§ 2.** Rozmnażanie dóbr duchowych oznacza, że:
 
