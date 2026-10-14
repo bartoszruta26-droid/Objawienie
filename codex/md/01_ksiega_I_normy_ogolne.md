@@ -22,9 +22,13 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 **Kan. 2 § 1.** Kościół Domowy jest partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 9 KPK, zastosowaną do wspólnoty rodzinnej.
 
 **§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium diecezjalne/subdiecezjalne Kościoła Domowego. Granice tej diecezji/subdiecezji obejmują:
+
 1° dom mieszkalny i jego bezpośrednie otoczenie;
+
 2° ziemię, ogród i zabudowania należące do Rodu;
+
 3° miejsca czasowego pobytu rodziny podczas pielgrzymek, podróży i rekolekcji;
+
 4° przestrzeń wirtualną, w której wspólnota sprawuje łączność modlitewną i formacyjną.
 
 **§ 3.** Kościół Domowy posiada osobowość prawną na mocy samego prawa naturalnego i Bożego. W porządku cywilnym może działać jako świecka organizacja religijna (art. 2 ust. 11 ustawy o gwarancjach wolności sumienia i wyznania), stowarzyszenie, lub Kościół niewpisany do rejestru Kościołów lub Kościół wpisany do rejestru Kościołów lub inna forma organizacyjna przewidziana prawem. Przepis prawa niniejszego kanonu stanowi, iż osobowość prawna Kościoła Domowego nie musi być wpisywana do żadnego rejestru jeżeli władze Kościoła Domowego sobie tego wyraźnie nie życzą.
@@ -78,11 +82,17 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 **Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określa w sposób wyczerpujący **Księga III — Prawo Kościelne** (*De Ecclesiae universae iure*, kan. 49–143). 
 
 **Kan. 10 § 1.** Hierarchia źródeł prawa w Kościele Domowym jest następująca:
+
 1° Prawo Boże — stoi ponad prawem naturalnym;
+
 2° Prawo Naturalne — stoi ponad prawem stanowionym;
+
 3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 68–69 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego;
+
 4° prawo partykularne diecezji, na której terytorium znajduje się dom rodzinny — w granicach określonych w kan. 72–74 Księgi III;
+
 5° prawo partykularne Kościoła Domowego — uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
+
 6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej w tej hierarchii.
 
 **§ 2.** Żadne prawo partykularne Kościoła Domowego nie może uchylać prawa Bożego, naturalnego ani powszechnego prawa kościelnego.
