@@ -86,11 +86,13 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 4° **Arcykapłan Kościoła Domowego** (*archipresbyter domesticus*) — szafarz święty sprawujący najwyższą władzę kapłańską w Kościele Domowym;
 
-5° **Biskup tytularny subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan sprawujący władzę pasterską nad subdiecezją domową;
+5° **Biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan sprawujący władzę pasterską nad subdiecezją domową lub posiadający tytuł z nadania Bożego nie obejmujący subdiecezji;
 
 6° **Patriarcha Subdiecezji Domowych** — biskup tytularny subdiecezjalny sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi.
 
 **§ 2.** Podział ten ma charakter funkcjonalny i służebny, nie zaś ontologiczny. Wszystkie stopnie posługi wynikają z powszechnego kapłaństwa wiernych i nie są tożsame ze święceniami w rozumieniu kan. 1008-1009 KPK.
+
+**§ 3.** Ilekroć mowa o Biskupie niewyświęconym, biskupie kościoła domowego, biskupie subdiecezjalnym, biskupie tytularnym kościoła domowego ma się na myśli tą samą posługę
 
 **Kan. 497 § 1.** Duchownym obrządku domowego staje się członek wspólnoty, który:
 
@@ -104,7 +106,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **§ 2.** Duchowny obrządku domowego może być osobą żyjącą w małżeństwie lub w celibacie, mężczyzną lub kobietą, osobą młodą lub starszą.
 
-**§ 3.** Duchowny obrządku domowego nie jest duchownym w rozumieniu kan. 207 § 1 KPK, lecz sprawuje funkcje wynikające z powszechnego kapłaństwa wiernych (kan. 204 § 1, 835 § 4 KPK).
+**§ 3.** Duchowny obrządku domowego jest duchownym w rozumieniu kan. 207 § 1 KPK, i sprawuje funkcje wynikające z powszechnego kapłaństwa wiernych oraz ustanowienia Bożego czynnie uczestnicząc na swój sposób w sprawowaniu liturgii w szczególny sposób uczestnicząc w tym zadaniu jako rodzice,, (kan. 204 § 1, 835 § 4 KPK).
 
 ### Rozdział II: Kapłani domowi
 
@@ -144,19 +146,19 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **§ 2.** W obrządku domowym rozróżnia się szafarzy świętych według specjalizacji:
 
-1° **szafarz wody** — do błogosławieństwa wody i obrzędów chrzcielnych domowych (poziom koronny);
+1° **szafarz wody** — do błogosławieństwa wody i obrzędów chrzcielnych domowych;
 
-2° **szafarz soli** — do błogosławieństwa soli i obrzędów ochrony (poziom trzeciego oka);
+2° **szafarz soli** — do błogosławieństwa soli i obrzędów ochrony;
 
-3° **szafarz chleba** — do błogosławieństwa pokarmów i obrzędów wspólnoty (poziom gardłowy);
+3° **szafarz chleba** — do błogosławieństwa pokarmów i obrzędów wspólnoty;
 
-4° **szafarz popiołu** — do obrzędów pokutnych i pojednania (poziom serca);
+4° **szafarz popiołu** — do obrzędów pokutnych i pojednania;
 
-5° **szafarz oleju** — do namaszczeń i obrzędów uzdrowienia (poziom splotu słonecznego);
+5° **szafarz oleju** — do namaszczeń i obrzędów uzdrowienia;
 
-6° **szafarz ognia** — do błogosławieństwa świec i obrzędów twórczych (poziom sakralny);
+6° **szafarz ognia** — do błogosławieństwa świec i obrzędów twórczych;
 
-7° **szafarz ziemi** — do błogosławieństwa domu, ogrodu i obrzędów małżeńskich (poziom korzeniowy).
+7° **szafarz ziemi** — do błogosławieństwa domu, ogrodu i obrzędów małżeńskich.
 
 **§ 3.** Jeden kapłan domowy może sprawować funkcje kilku szafarzy świętych. Arcykapłan Kościoła Domowego sprawuje funkcje wszystkich szafarzy.
 
@@ -164,7 +166,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **Kan. 500 § 1.** W obrządku domowym rozróżnia się dwa rodzaje biskupstwa:
 
-1° **Biskup niewyświęcony — biskup tytularny subdiecezjalny** (*episcopus titularis subdioecesanus non consecratus*):
+1° **Biskup niewyświęcony — biskup subdiecezjalny** (*episcopus titularis subdioecesanus non consecratus*):
 
    a) sprawuje władzę jurysdykcyjną, nauczycielską i uświęcającą w subdiecezji domowej;
 
@@ -177,6 +179,8 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
    e) sprawuje sakramentalia, błogosławieństwa i liturgię domową;
 
    f) nie sprawuje sakramentów zastrzeżonych biskupom wyświęconym (sakrament święceń, bierzmowanie jako szafarz zwyczajny, konsekracja kościołów).
+   
+   g) jest zrównany z biskupem diecezjalnym w rozumieniu kan. 999 KPK 
 
 2° **Biskup wyświęcony — biskup diecezjalny** (*episcopus dioecesanus consecratus*):
 
@@ -200,7 +204,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 4° wizytacji kanonicznej.
 
-**§ 3.** Biskup niewyświęcony (subdiecezjalny) zachowuje autonomię w zakresie:
+**§ 3.** Biskup niewyświęcony (tytularny lub subdiecezjalny) zachowuje autonomię w zakresie:
 
 1° wewnętrznej organizacji subdiecezji domowej;
 
@@ -246,7 +250,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 1° w obrządku łacińskim kobiety nie mogą przyjmować święceń (kan. 1024 KPK);
 
-2° w obrządku domowym kobiety mogą sprawować funkcje kapłana domowego, szafarza świętego, współszafarki łaski i nadzorującej, zgodnie z prawem naturalnym rodziny i powszechnym kapłaństwem wiernych;
+2° w obrządku domowym kobiety mogą przyjmować błogosławieństwa i sprawować funkcje kapłana domowego, szafarza świętego, współszafarki łaski i nadzorującej, zgodnie z prawem naturalnym rodziny i powszechnym kapłaństwem wiernych;
 
 3° Małżonka arcykapłana lub biskupa subdiecezjalnego pełni funkcję współszafarki i współpasterki z własnego prawa, nie z delegacji.
 
@@ -268,15 +272,17 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 4° w obrządku domowym sakramentalia rzeczowe, narzędziowe i kultowe mają własne formuły i obrzędy odrębne od łacińskich.
 
+5° w obrządku domowym można wydzielić kaplicę domową, salę kościelną, salę katechetyczną a nawet przeznaczyć cały dom rodzinny na kościół. 
+
 **Kan. 508 — Sakramenty:**
 
 1° w obrządku łacińnym sakramenty są sprawowane wyłącznie przez duchownych wyświęconych;
 
-2° w obrządku domowym sakramenty są przyjmowane w Kościele Powszechnym (parafia, diecezja);
+2° w obrządku domowym sakramenty są najchętniej przyjmowane w Kościele Powszechnym (parafia, diecezja);
 
 3° w obrządku domowym sprawowane są sakramentalia, błogosławieństwa i obrzędy domowe przez kapłanów domowych i szafarzy świętych;
 
-4° w przypadku zagrożenia życia i braku kapłana, członkowie Kościoła Domowego mogą udzielić chrztu (kan. 861 § 2 KPK) i przewodniczyć modlitwie przy umierającym.
+4° w przypadkach przewidzianych w KPK, wobec istotnej przyczyny, jeżeli kanony KPK pozwalają i wyraźne nie zabraniają z rąk kapłana niewyświęconego, biskupa niewyświęconego, biskupa wyświęconego w Kościele Domowym szafarzem sakramentów mogą być te wymienione osoby.
 
 **Kan. 509 — Dobra doczesne:**
 
@@ -304,7 +310,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **Kan. 512 — Tytuły i godności:**
 
-1° w obrządku łacińskim tytuły kościelne są zastrzeżone duchownym wyświęconym;
+1° w obrządku łacińskim te tytuły kościelne są zastrzeżone duchownym wyświęconym, w których KPK nakłada obowiązek wyświęcenia. Jeżeli KPK wyraźnie nie nakazuje bycia duchownym konsekrowanym do sprawowania określonej funkcji lub posiadania tytułu przyjmuje się, iż funkcję tą bądź tytuł może sprawować osoba niekonsekrowana;
 
 2° w obrządku domowym tytuły (duchowny, kapłan domowy, szafarz święty, arcykapłan, biskup subdiecezjalny, patriarcha) mogą być sprawowane przez osoby żyjące w małżeństwie, zarówno mężczyzn jak i kobiety;
 
@@ -312,7 +318,18 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 ---
 
-## Tytuł IV: PRZEPISY KOŃCOWE
+
+## Tytuł V: Sprawowanie sakramentów przez duchownych Kościoła DOmowego
+**Kan. 513 § 1.** Sakramenty są udzielane zgodnie z przepisami KPK kan. 840-
+
+**§ 2.** Zgodnie z kan 844 § 2 KPK ilekroć domaga się tego konieczność lub zaleca prawdziwy pożytek duchowy i jeżeli nie zachodzi niebezpieczeńśtwo błędu lub indyferetyzmu, wolno wiernym w tym wiernym katolickim, dla których fizycznie lub moralnie jest niemożliwe udanie się do szafarza katolickiego ( przyjętego przez Biskupa Rzymu ), przyjąć sakramenty pokuty, Eucharystii i namaszczania chorych od szafarzy niekatolickich w tym biskupa subdiecezjalnego lub kapłana niewyświęconego Kościoła Domowego gdyż w Kościele Domowym sakramenty te są ważnie wymienione
+
+**§ 3.** Chrzest - zgodnie z kan. 861 KPK §1 zwyczajnym szafarzem chrztu jest biskup Kościoła DOmowego zarówno niekonsekrowany powołany z nadania Bożego jak i konsekrowany. Gdy szafarz zwyczajny jest nieobecny lub ma przeszkodę, chrztu godziwie udziela każdy człowiek mający właściwą intencję
+
+**§ 4.** Bierzmowanie - zgodnie z kan. 882 KPK zwyczajnym szafarzem sakramentu bierzmowania jest biskup także ten niekonsekrowany, powołany przez Boga, tytularny lub subdiecezjalny Kościoła DOmowego
+---
+
+## Tytuł V: PRZEPISY KOŃCOWE
 
 **Kan. 513 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez patriarchę Subdiecezji Domowych, po konsultacji z Triarchią Domową.
 
