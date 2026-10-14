@@ -347,12 +347,12 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 ---
 
 ## Tytuł IX: Hierarcha Synodalny Kościołów Domowych
-**Kan. 342.** Zgodnie z Kan. 174  Koció³ sui iuris, który nie jest ani patriarchalny, ani arcybiskupi wiêkszy, ani metropolitalny, powierza siê Hierarsze, który przewodzi mu wed³ug norm prawa wspólnego i prawa partykularnego wydanego przez Biskupa Rzymskiego.
-Zgodnie z KKKW Kan. 175  Kocio³y te s¹ zale¿ne bezporednio od Stolicy Apostolskiej;
-prawa za i obowi¹zki, o których mowa w kan. 159 n. 3-8, wykonuje
-Hierarcha delegowany przez Stolicê Apostolsk¹.
-Zgodnie z KKKW Kan. 176  Jeli prawo wspólne odsy³a do prawa partykularnego albo
-do najwy¿szej w³adzy administracyjnej Kocio³a sui iuris, w³adz¹ kompetentn¹ w tym Kociele jest Hierarcha, który przewodzi mu wed³ug prawa, za zgod¹ Stolicy Apostolskiej, chyba ¿e co innego zosta³o wyranie postanowione.
+**Kan. 342.** Zgodnie z Kan. 174  Kościóó sui iuris, który nie jest ani patriarchalny, ani arcybiskupi większy, ani metropolitalny, powierza się Hierarsze, który przewodzi mu wedóug norm prawa wspólnego i prawa partykularnego wydanego przez Biskupa Rzymskiego.
+Zgodnie z KKKW Kan. 175  Kościoóy te są zależne bezpośrednio od Stolicy Apostolskiej;
+prawa zaś i obowiązki, o których mowa w kan. 159 n. 3-8, wykonuje
+Hierarcha delegowany przez Stolicę Apostolską.
+Zgodnie z KKKW Kan. 176  Jeśli prawo wspólne odsyóa do prawa partykularnego albo
+do najwyższej wóadzy administracyjnej Kościoóa sui iuris, wóadzą kompetentną w tym Kościele jest Hierarcha, który przewodzi mu wedóug prawa, za zgodą Stolicy Apostolskiej, chyba że co innego zostaóo wyrańnie postanowione.
 
 **Kan. 343.** Wszelkie wcześniejsze odniesienia do „biskupa diecezjalnego” w kontekście Kościoła Domowego należy rozumieć jako „biskupa tytularnego subdiecezjalnego” w zakresie dotyczącym subdiecezji domowej, a jako „biskupa diecezjalnego” w zakresie dotyczącym diecezji, na której terytorium znajduje się subdiecezja domowa.
 

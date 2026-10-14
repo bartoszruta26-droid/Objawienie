@@ -7,22 +7,22 @@
 
 Niniejszy Kanon Prawa Kościoła Partykularnego Domowego zostaje ustanowiony w imię Boga Wszechmogącego, Ojca i Syna, i Ducha Świętego, na podstawie Prawa Bożego, Prawa Naturalnego oraz praw człowieka, jako wyraz wolnej woli i objawionego powołania.
 
-Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka,w związku z powyższym niniejszy kodeks prawa kanonicznego kościoła domowego opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do tłumaczenia w języku polskim.
+Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka,w związku z powyższym niniejszy kodeks prawa kanonicznego kościoła domowego opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do tłumaczenia w języku polskim.
 
 W razie konfliktu przepisów kodeksu prawa kanonicznego kościoła domowego z kodeksem prawa kanonicznego dla obrządku łacińskiego należy zapisy kodeksu prawa kanonicznego kościoła domowego odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich.
 
-Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyranie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kościołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okoliczności historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kociołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całłgo Kocioła Chrystusowego.
+Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyrańnie lub milcząco uznała najwyższa władza Kośścioła, w tym Kodeksie jest nazywana Kośściołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okolicznośści historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właśściwy dla każdego Kośścioła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kościołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całłgo Kościoła Chrystusowego.
 
 Niniejszy kodeks nie służy przywróceniu prawa niesłusznie odebranego, ani odtworzeniu prawa przez zapomnienie zatraconego, ale służy sformalizowaniu praw obecnych w tradycji domowej, rodzinnej, rodowej, polskiej, słowiańskiej i wschodniej, które przez wieki nie były sformalizowane.
 
-Hierarchowie, którzy przewodnicz¹ Kocio³om sui iuris
-i wszyscy inni Hierarchowie powinni najpilniej troszczyæ siê o wierne
-strze¿enie i dok³adne zachowywanie w³asnego obrz¹dku i nie powinni
-wprowadzaæ do niego zmian, chyba ¿e z racji jego organicznego rozwoju, maj¹c jednak przed oczyma dobr¹ wolê i jednoæ chrzecijan
+Hierarchowie, którzy przewodniczą Kościoóom sui iuris
+i wszyscy inni Hierarchowie powinni najpilniej troszczyć się o wierne
+strzeżenie i dokóadne zachowywanie wóasnego obrządku i nie powinni
+wprowadzać do niego zmian, chyba że z racji jego organicznego rozwoju, mając jednak przed oczyma dobrą wolę i jedność chrześcijan
 
-Chrzecijanie ka¿dego Kocio³a sui iuris, tak¿e Kocio³a ³aciñskiego, którzy z racji urzêdu, pos³ugi lub zadania czêsto spotykaj¹ siê
-z chrzecijanami innego Kocio³a sui iuris, powinni byæ dok³adnie pouczeni o tym Kociele w zwi¹zku z powag¹ urzêdu, pos³ugi lub zadania,
-które wype³niaj¹
+Chrześcijanie każdego Kościoóa sui iuris, także Kościoóa óaciñskiego, którzy z racji urzędu, posóugi lub zadania często spotykają się
+z chrześcijanami innego Kościoóa sui iuris, powinni być dokóadnie pouczeni o tym Kościele w związku z powagą urzędu, posóugi lub zadania,
+które wypeóniają
 
 ---
 
@@ -1399,11 +1399,11 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 ---
 
 
-**Kan. 1zt ** Zgodnie z KKKW Kan. 27 i 28  Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyranie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kościołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okoliczności historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej.
+**Kan. 1zt ** Zgodnie z KKKW Kan. 27 i 28  Wspólnota chrześścijan powiązana hierarchią według prawa,którą jako sui iuris wyrańnie lub milcząco uznała najwyższa władza Kośścioła, w tym Kodeksie jest nazywana Kośściołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okolicznośści historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właśściwy dla każdego Kośścioła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej.
 
 ---
 
-**Kan. 1zu ** Analogicznie do Kan. 32 KKKW Nikt nie może bez zgody Stolicy Apostolskiej ważnie przejść do innego Kościoła sui iuris jednakże jeli chodzi o chrześcijanina eparchii Kościoła sui iuris Domowego, przebywanie w dwóch kościołach sui iuris wynika z natury rzeczy i prawa Bożego i domniemywa się, iż Stolica Apostolska wyraża na to zgodę bez konieczności potwierdzania tego faktu na piśmie..
+**Kan. 1zu ** Analogicznie do Kan. 32 KKKW Nikt nie może bez zgody Stolicy Apostolskiej ważnie przejśść do innego Kośścioła sui iuris jednakże jeśli chodzi o chrześścijanina eparchii Kośścioła sui iuris Domowego, przebywanie w dwóch kościołach sui iuris wynika z natury rzeczy i prawa Bożego i domniemywa się, iż Stolica Apostolska wyraża na to zgodę bez konieczności potwierdzania tego faktu na piśmie..
 
 ---
 

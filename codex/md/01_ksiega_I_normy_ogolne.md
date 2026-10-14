@@ -107,8 +107,8 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł IV: Celibat i drobne postanowienia ogólne
 
-**Kan. 13.** 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze wzglêdu na Królestwo niebieskie i tak stosowny kap³añstwu, wszêdzie powinien byæ tak wysoko ceniony jak nakazuje tradycja Kocio³a powszechnego; równie¿ powinien byæ w powa¿aniu stan duchownych zwi¹zanych ma³¿eñstwem, usankcjonowany przez praktykê Kocio³a pierwotnego i Kocio³ów wschodnich.
-2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, nale¿y zachowaæ
+**Kan. 13.** 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapóañstwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoóa powszechnego; również powinien być w poważaniu stan duchownych związanych maóżeñstwem, usankcjonowany przez praktykę Kościoóa pierwotnego i Kościoóów wschodnich.
+2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, należy zachować
 prawo partykularne.
 
 ---
