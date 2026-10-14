@@ -1411,7 +1411,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 ---
 
-**Kan. 1zu ** Analogicznie do Kan. 32 KKKW Nikt nie może bez zgody Stolicy Apostolskiej ważnie przejśść do innego Kośścioła sui iuris jednakże jeśli chodzi o chrześścijanina eparchii Kośścioła sui iuris Domowego, przebywanie w dwóch kościołach sui iuris wynika z natury rzeczy i prawa Bożego i domniemywa się, iż Stolica Apostolska wyraża na to zgodę bez konieczności potwierdzania tego faktu na piśmie..
+**Kan. 1zu ** Analogicznie do Kan. 32 KKKW Nikt nie może bez zgody Stolicy Apostolskiej ważnie przejśść do innego Kośścioła sui iuris jednakże jeśli chodzi o chrześścijanina eparchii Kościoła sui iuris Domowego, przebywanie w dwóch kościołach sui iuris wynika z natury rzeczy i prawa Bożego prawa kościola domowego-pierwotnego istniejącego przed kościolem. katolickim i domniemywa się, iż Stolica Apostolska wyraża na to zgodę bez konieczności potwierdzania tego faktu na piśmie.
 
 ---
 
