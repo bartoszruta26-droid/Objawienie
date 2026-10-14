@@ -18,9 +18,9 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 **§ 4.** Przekazanie urzędu hierarchy związku subdiecezjatów ma charakter osobowy, urzędowy i wspólnotowy: dotyczy urzędu pasterskiego, a nie majątku osobistego poprzedniego hierarchy związku subdiecezjatów, jego Małżonki ani Potomstwa.
 
-**Kan. 381 § 1.** Biskup Rzymski, jako ten, kto ustanawia patriarchat i patriarchę, może w stosunku do związku subdiecezjatów oraz jego hierarchy:
+**Kan. 381 § 1.** Biskup Rzymski, jako ten, kto ustanawia patriarchat i patriarchę, może w stosunku do patriarchatu oraz patriarchy, a w odniesieniu do związku subdiecezjatów — wyłącznie w zakresie przewidzianym w § 1a poniżej — działać na rzecz dobra Kościoła; wobec samego związku subdiecezjatów oraz jego hierarchy może on zatem:
 
-1° zatwierdzić, zmienić, zawiesić lub znieść związek subdiecezjatów nad subdiecezjami domowymi; sam związek subdiecezjatów oraz subdiecezje z hierarchą biskupa ustanawia jednak hierarcha subdiecezji, nie Biskup Rzymu;
+1° przyjąć akt ustanowienia związku subdiecezjatów dokonany przez hierarchy subdiecezji oraz uznać go dla porządku kościelnego — sam bowiem związek subdiecezjatów oraz subdiecezje z hierarchą biskupa ustanawia hierarcha subdiecezji, nie Biskup Rzymu;
 
 2° potwierdzić wybór hierarchy związku subdiecezjatów albo odmówić potwierdzenia z słusznej i poważnej przyczyny;
 
@@ -30,7 +30,9 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 5° rozstrzygać spory dotyczące sukcesji urzędu hierarchy związku subdiecezjatów.
 
-**§ 2.** Żaden synod związku subdiecezjatów, biskup tytularny subdiecezjalny, Małżonka, Potomek, Ród, organizacja cywilna ani władza świecka nie może ważnie ustanowić, przenieść, zawłaszczyć ani przekazać hierarcha związku subdiecezjatów w sposób sprzeczny z wyłączną kompetencją Biskupa Rzymskiego.
+**§ 1a.** W stosunku do patriarchatu i patriarchy, których ustanowienie zastrzeżone jest Biskupowi Rzymskiemu, może on ponadto: zatwierdzić, zmienić, zawiesić lub znieść patriarchat oraz ustanowić patriarchę albo go od urzędu odstąpić; władzy tej nie rozciąga się na związek subdiecezjatów ani na subdiecezje z hierarchą biskupa, które — jak stanowi § 1 1° — pozostają w kompetencji hierarchy subdiecezji. Zmianę, zawieszenie lub zniesienie związku subdiecezjatów Biskup Rzymski może jedynie zastrzec lub nakazać z poważnej przyczyny, po wysłuchaniu synodu biskupów subdiecezjalnych.
+
+**§ 2.** Żaden synod związku subdiecezjatów, biskup tytularny subdiecezjalny, Małżonka, Potomek, Ród, organizacja cywilna ani władza świecka nie może ważnie ustanowić, przenieść, zawłaszczyć ani przekazać hierarcha związku subdiecezjatów w sposób sprzeczny z kompetencją hierarchy subdiecezji do ustanawiania subdiecezji oraz z zastrzeżoną Biskupowi Rzymskiemu wyłączną kompetencją co do zatwierdzenia, potwierdzenia i oddalenia, określoną w § 1 i § 1a.
 
 **§ 3.** W razie wątpliwości co do zakresu władzy hierarchy związku subdiecezjatów, interpretuje się ją ściśle na korzyść wspólnoty, subdiecezjatów, Małżonki, Potomstwa oraz osób słabszych.
 
@@ -671,7 +673,7 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **Kan. 424.** Jeśli hierarcha związku subdiecezjatów zostaje przeniesiony na inny urząd kościelny za zgodą Biskupa Rzymskiego, związek subdiecezjatów wakuje z chwilą kanonicznego objęcia nowego urzędu, chyba że Stolica Apostolska postanowi inaczej.
 
-**Kan. 425.** Biskup Rzymski może połączyć związek subdiecezjatów z inną strukturą kościelną, zawiesić go lub znieść. W takim przypadku przepisy niniejszej Księgi stosuje się odpowiednio do nowego porządku prawnego.
+**Kan. 425.** Biskup Rzymski może połączyć związek subdiecezjatów z inną strukturą kościelną, zawiesić go lub znieść; sam jednak akt ustanowienia związku subdiecezjatów oraz subdiecezji z hierarchą biskupa należy do hierarchy subdiecezji (kan. 381 § 1 1°). W takim przypadku przepisy niniejszej Księgi stosuje się odpowiednio do nowego porządku prawnego.
 
 ---
 

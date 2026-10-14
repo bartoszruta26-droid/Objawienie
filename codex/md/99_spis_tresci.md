@@ -126,16 +126,17 @@
 - **Tytuł VIII: OCHRONA PRAW I GODNOŚCI MAŁŻONKI I POTOMKA** — kan. 314–315
 - **Tytuł IX: PRZEPISY KOŃCOWE** — kan. 316–318
 
-## Księga VI — Subdiecezja domowa i patriarchat
+## Księga VI — Subdiecezja domowa z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów
+*(plik: `06_ksiega_VI_subdiecezja_i_patriarchat.md`; w spisie treści zachowano dotychczasową nazwę pliku)*
 - **Tytuł I: BISKUP TYTULARNY SUBDIECEZJALNY** — kan. 319–320
 - **Tytuł II: SUBDIECEZJA DOMOWA JAKO KOŚCIÓŁ PARTYKULARNY** — kan. 321–324
 - **Tytuł III: RELACJA SUBDIECEZJI DOMOWEJ DO DIECEZJI** — kan. 325–327
-- **Tytuł IV: USTANOWIENIE PATRIARCHATU** — kan. 328–331
-- **Tytuł V: SYNOD PATRIARCHATU** — kan. 332–334
-- **Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJALNI W PATRIARCHACIE** — kan. 335–337
-- **Tytuł VII: RELACJA PATRIARCHATU DO KOŚCIOŁA POWSZECHNEGO** — kan. 338–339
-- **Tytuł VIII: INSYGNIA I TYTUŁY PATRIARCHY** — kan. 340–341
-- **Tytuł IX: PRZEPISY KOŃCOWE** — kan. 342–344
+- **Tytuł IV: USTANOWIENIE ZWIĄZKU SUBDIECEZJATÓW** *(por. patriarchat ustanawiany przez Biskupa Rzymskiego)* — kan. 328–331
+- **Tytuł V: SYNOD ZWIĄZKU SUBDIECEZJATÓW** — kan. 332–334
+- **Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJALNI W ZWIĄZKU SUBDIECEZJATÓW** — kan. 335–337
+- **Tytuł VII: RELACJA ZWIĄZKU SUBDIECEZJATÓW DO KOŚCIOŁA POWSZECHNEGO** — kan. 338–339
+- **Tytuł VIII: INSYGNIA I TYTUŁY HIERARCHY ZWIĄZKU SUBDIECEZJATÓW** — kan. 340–341
+- **Tytuł IX: HIERARCHA SYNODALNY KOŚCIOŁÓW DOMOWYCH ORAZ PRZEPISY KOŃCOWE** — kan. 342–344
 
 ## Księga VII — Przyjęcie biskupa i oddalenie
 - **Tytuł I: PRZYJĘCIE BISKUPA TYTULARNEGO SUBDIECEZJALNEGO DO KOŚCIOŁA KATOLICKIEGO Z POSŁUGĄ, MAJĄTKIEM I OBRZĄDKIEM** — kan. 345–350

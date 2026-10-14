@@ -127,7 +127,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Arcykapłan nie może odmówić rozmnażania tytułów bez słusznej przyczyny. Odmowa wymaga uzasadnienia na piśmie i może być zaskarżona przed Triarchią Domową lub biskupa tytularnego subdiecezjalnego.
 
-**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 434–438 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: patriarchat nad subdiecezjami domowymi (kan. 383–385), urząd Biskupa Rzymskiego (por. kan. 1 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 9 KPK) oraz urząd proboszcza w konkretnej parafii. *(odpowiednik dawnego kan. 700 § 3 — norma odsyłająca do Księgi VIII; zgodnie z przepisami tego kanonu obowiązuje niniejsze brzmienie)*
+**§ 4.** Zasada rozmnażania dóbr duchowych zawarta w kan. 434–438 nie dotyczy urzędów o charakterze jednostkowym i niepodzielnym, do których należą: urząd hierarchy związku subdiecezjatów nad subdiecezjami domowymi (Księga VIII, kan. 380 i nast.; por. dawniej oznaczany jako patriarchat — kan. 383–385), patriarchat ustanawiany przez Biskupa Rzymskiego tam, gdzie został prawnie erygowany, urząd Biskupa Rzymskiego (por. kan. 1 KPK), urząd biskupa diecezjalnego w konkretnej diecezji (por. kan. 9 KPK) oraz urząd proboszcza w konkretnej parafii. Urzędy te są jednostkowe i niepodzielne, z wyjątkiem tytułów i godności wymienionych w § 1–3 niniejszego kanonu, które podlegają rozmnażaniu. *(odpowiednik dawnego kan. 700 § 3 — norma odsyłająca do Księgi VIII; zgodnie z przepisami tego kanonu obowiązuje niniejsze brzmienie)*
 
 ## Tytuł II: ZASADA ROZMNAŻANIA DÓBR INTELEKTUALNYCH
 
@@ -531,9 +531,9 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 ## Tytuł VIII: PRZEPISY KOŃCOWE
 
-**Kan. 460 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego subdiecezjalnego, patriarcę Subdiecezji Domowych, po konsultacji z Triarchią Domową.
+**Kan. 460 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego subdiecezjalnego, hierarchy związku subdiecezjatów (dawniej oznaczanego jako patriarca Subdiecezji Domowych), po konsultacji z Triarchią Domową.
 
-**§ 2.** Wszelkie wcześniejsze przepisy dotyczące sukcesji, które są sprzeczne z niniejszą Księgą, tracą moc w zakresie sprzeczności. Przepisy o przekazaniu patriarchatu w wąskim rozumieniu (urząd, dobór, wybór) pozostają w wyłącznej kompetencji Księgi VIII (kan. 380–433); niniejsza Księga reguluje jedynie rozmnażanie i przekazywanie dóbr oraz ustanawianie nowych struktur domowych.
+**§ 2.** Wszelkie wcześniejsze przepisy dotyczące sukcesji, które są sprzeczne z niniejszą Księgą, tracą moc w zakresie sprzeczności. Przepisy o przekazaniu urzędu hierarchy związku subdiecezjatów (a w odniesieniu do patriarchatu ustanowionego przez Biskupa Rzymskiego — o przekazaniu patriarchatu) w wąskim rozumieniu (urząd, dobór, wybór) pozostają w wyłącznej kompetencji Księgi VIII (kan. 380–433); niniejsza Księga reguluje jedynie rozmnażanie i przekazywanie dóbr oraz ustanawianie nowych struktur domowych.
 
 **Kan. 461.** Najwyższą zasadą interpretacji niniejszej Księgi jest:
 
