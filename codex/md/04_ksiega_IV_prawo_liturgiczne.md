@@ -1414,19 +1414,22 @@
 
 **Kan. 265.** W Kościele Domowym ustanawia się następujące celebracje związane z cnotami, sakramentaliami, Darami i charyzmatami:
 
-**Kan. 266 — Celebracja Siedmiu Sakramentaliów (raz w roku, w święto patronalne Kościoła Domowego):**1° Głowa Rodu błogosławi kolejno wszystkie siedem sakramentaliów rzeczowych;
+**Kan. 266 — Celebracja Siedmiu Sakramentaliów (raz w roku, w święto patronalne Kościoła Domowego):**
+1° Głowa Rodu błogosławi kolejno wszystkie siedem sakramentaliów rzeczowych;
 2° każdy członek wspólnoty otrzymuje błogosławieństwo każdym sakramentalium;
 3° odmawiana jest modlitwa o wszystkie siedem Darów Ducha Świętego;
 4° Głowa Rodu potwierdza charyzmaty obecne we wspólnocie;
 5° celebracja kończy się wspólnym posiłkiem (chleb) i zapaleniem świecy.
 
-**Kan. 267 — Celebracja Odnowienia Przyrzeczeń (w Wigilię Paschalną lub rocznicę chrztu):**1° Głowa Rodu błogosławi wodę i odnawia przyrzeczenia chrzcielne wspólnoty;
+**Kan. 267 — Celebracja Odnowienia Przyrzeczeń (w Wigilię Paschalną lub rocznicę chrztu):**
+1° Głowa Rodu błogosławi wodę i odnawia przyrzeczenia chrzcielne wspólnoty;
 2° każdy członek wspólnoty odnawia swoje przyrzeczenia;
 3° następuje pokropienie wodą święconą;
 4° odmawiana jest modlitwa o Dar Mądrości i Charyzmat Proroctwa;
 5° celebracja kończy się błogosławieństwem pontyfikalnym.
 
-**Kan. 268 — Celebracja Pojednania (w Wielkim Poście lub w razie potrzeby):**1° Głowa Rodu błogosławi popiół;
+**Kan. 268 — Celebracja Pojednania (w Wielkim Poście lub w razie potrzeby):**
+1° Głowa Rodu błogosławi popiół;
 2° następuje rachunek sumienia wspólnoty;
 3° każdy członek wyznaje swoje winy i prosi o przebaczenie;
 4° Głowa Rodu udziela błogosławieństwa przebaczenia;
