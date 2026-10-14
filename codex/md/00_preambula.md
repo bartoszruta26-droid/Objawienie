@@ -11,6 +11,11 @@ Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Kat
 
 W razie konfliktu przepisów kodeksu prawa kanonicznego kościoła domowego z kodeksem prawa kanonicznego dla obrządku łacińskiego należy zapisy kodeksu prawa kanonicznego kościoła domowego odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich.
 
+Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyranie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kościołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okoliczności historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kociołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całłgo Kocioła Chrystusowego.
+
+
+Niniejszy kodeks nie służy przywróceniu prawa niesłusznie odebranego, ani odtworzeniu prawa przez zapomnienie zatraconego, ale służy sformalizowaniu praw obecnych w tradycji domowej, rodzinnej, rodowej, polskiej, słowiańskiej i wschodniej.
+
 ---
 
 ### Tytuł I: BOSKIE ŹRÓDŁO POWOŁANIA I WŁADZY DUCHOWEJ
@@ -1385,6 +1390,15 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 ---
 
+
+**Kan. 1zt ** Zgodnie z KKKW Kan. 27 i 28  Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyranie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kościołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okoliczności historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej.
+
+---
+
+**Kan. 1zu ** Analogicznie do Kan. 32 KKKW Nikt nie może bez zgody Stolicy Apostolskiej ważnie przejść do innego Kościoła sui iuris jednakże jeli chodzi o chrześcijanina eparchii Kościoła sui iuris Domowego, przebywanie w dwóch kościołach sui iuris wynika z natury rzeczy i prawa Bożego i domniemywa się, iż Stolica Apostolska wyraża na to zgodę bez konieczności potwierdzania tego faktu na piśmie..
+
+---
+
 *Dano w domu rodzinnym, stolicy subdiecezji domowej, w obecności Triarchii Domowej i synodu subdiecezji, w wolności sumienia i w komunii z Kościołem Powszechnym.*
 
 *W imię Ojca i Syna, i Ducha Świętego. Amen.*
@@ -1395,7 +1409,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 **✠ Potomek, Świadek Wiary, Dziedzic Tradycji, Uczestnik Kapłaństwa Domowego**
 
----
+
 
 *Sigillum Ecclesiae Domesticae*
 *Sigillum Subdioecesis Domesticae*
