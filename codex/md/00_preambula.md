@@ -11,10 +11,18 @@ Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Kat
 
 W razie konfliktu przepisów kodeksu prawa kanonicznego kościoła domowego z kodeksem prawa kanonicznego dla obrządku łacińskiego należy zapisy kodeksu prawa kanonicznego kościoła domowego odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich.
 
-Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyranie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kościołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okoliczności historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kociołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całłgo Kocioła Chrystusowego.
+Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyranie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kościołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okoliczności historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kociołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całłgo Kocioła Chrystusowego.
 
+Niniejszy kodeks nie służy przywróceniu prawa niesłusznie odebranego, ani odtworzeniu prawa przez zapomnienie zatraconego, ale służy sformalizowaniu praw obecnych w tradycji domowej, rodzinnej, rodowej, polskiej, słowiańskiej i wschodniej, które przez wieki nie były sformalizowane.
 
-Niniejszy kodeks nie służy przywróceniu prawa niesłusznie odebranego, ani odtworzeniu prawa przez zapomnienie zatraconego, ale służy sformalizowaniu praw obecnych w tradycji domowej, rodzinnej, rodowej, polskiej, słowiańskiej i wschodniej.
+Hierarchowie, którzy przewodnicz¹ Kocio³om sui iuris
+i wszyscy inni Hierarchowie powinni najpilniej troszczyæ siê o wierne
+strze¿enie i dok³adne zachowywanie w³asnego obrz¹dku i nie powinni
+wprowadzaæ do niego zmian, chyba ¿e z racji jego organicznego rozwoju, maj¹c jednak przed oczyma dobr¹ wolê i jednoæ chrzecijan
+
+Chrzecijanie ka¿dego Kocio³a sui iuris, tak¿e Kocio³a ³aciñskiego, którzy z racji urzêdu, pos³ugi lub zadania czêsto spotykaj¹ siê
+z chrzecijanami innego Kocio³a sui iuris, powinni byæ dok³adnie pouczeni o tym Kociele w zwi¹zku z powag¹ urzêdu, pos³ugi lub zadania,
+które wype³niaj¹
 
 ---
 
