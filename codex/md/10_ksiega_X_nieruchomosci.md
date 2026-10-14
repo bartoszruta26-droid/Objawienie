@@ -6,8 +6,6 @@
 
 ### PREAMBUŁA KSIĘGI
 
-Niniejsza Księga stanowi, wraz z Księgą IX (kan. 434–462), kontynuację zbioru poza podstawowym ciągem kan. 1–433; jej kanony otrzymały numerację ciągłą **463–491** w miejsce dawnej numeracji (kan. 930–958, z luką pod dawnym kan. 929). Ustanawia ona przepisy dotyczące nieruchomości przynależnych do Kościoła Domowego, subdiecezji domowej, Rodu oraz osób wchodzących w skład Triarchii Domowej.
-
 Nieruchomości, z uwagi na swoją naturę fizyczną, prawną i duchową, są z zasady **niepodzielne** i **nierozmnażalne**. Nie można ich podzielić bez utraty ich istoty, funkcji sakralnej, mieszkalnej lub gospodarczej, ani rozmnożyć w sposób, w jaki rozmnaża się dobra duchowe, intelektualne czy ruchome. Niniejsza zasada wynika z:
 
 1° **Prawa Bożego** — ziemia jest darem Boga danym człowiekowi w zarząd (Rdz 1,28; 2,15), a dom jest miejscem obecności Boga wśród rodziny (por. J 14,23);
