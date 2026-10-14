@@ -37,7 +37,6 @@
 
 **§ 2.** Szczegółowe formuły błogosławieństw siedmiu sakramentaliów rzeczowych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł VIII niniejszej Księgi (kan. 207–213).
 
-*(Przypis redakcyjny: dawne kan. 149–155, podające te formuły w skróconej formie, zostały scalone z pełniejszymi odpowiednikami Tytułu VIII jako materiał powtórzony.)*
 
 ## Tytuł III: ROK LITURGICZNY W KOŚCIELE DOMOWYM
 
