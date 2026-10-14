@@ -1,0 +1,14 @@
+Wystąpienia sformułowania „biskup niewyświęcony” (w tym liczby mnogiej i przypadków: biskupa/biskupem/biskupie niewyświęconym, Biskupi niewyświęceni) w plikach .md z księgami Kodeksu — katalog /workspace/codex/md
+
+Księga I — Normy ogólne (01_ksiega_I_normy_ogolne.md):
+- Kan. 8 (definicja „Subdiecezja”, ustęp 2°: „...wybranym zgodnie z wyłączną wolą Bożą i biskupa domowego [...] i niewyświęconego...”)
+
+Księga XI — Odrebności obrządku (11_ksiega_XI_odrebnosci_obrzadku.md):
+- Kan. 496 (§ 3: „Ilekroć mowa o Biskupie niewyświęconym...”)
+- Kan. 500 (Rozdział IV „Biskupi niewyświęceni (subdiecezjalni) i wyświęceni (diecezjalni)”; § 1 ust. 1°, § 2, § 3)
+- Kan. 501 (§ 1)
+- Kan. 502
+- Kan. 508 (ust. 4°: „...z rąk kapłana niewyświęconego, biskupa niewyświęconego...”)
+
+Łączna lista numerów kanonów:
+8, 496, 500, 501, 502, 508
