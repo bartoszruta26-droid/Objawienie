@@ -11,9 +11,9 @@
 
 2° pozostawanie we wspólnocie z Kościołem Katolickim;
 
-3° zamieszkiwanie w diecezji domowej lub przyjęcie do wspólnoty;
+3° zamieszkiwanie w subdiecezji domowej lub przyjęcie do wspólnoty nawet tymczasowe lub chwilowe, wyrazone dowolnym zaxhowaniem się lub domniemane;
 
-4° akceptacja niniejszego Kanonu i Prawa Bożego;
+4° akceptacja niniejszego Kanonu i Prawa Bożego, a ze względu na katolicki charakter wspólnoty także domniemana akceptacja niniejszego Kanonu osoby będącej katolikiem;
 
 5° komunia z Biskupem Rzymskim i biskupem diecezjalnym.
 
@@ -39,7 +39,7 @@
 
 4° osoby przyjęte do wspólnoty na zasadach określonych w § 2.
 
-**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), za zgodą Małżonki i po konsultacji z Triarchią Domową.
+**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo w sposób domniemany swoją wolą. tożsame prawo mają małżonka i potomkowie. 
 
 **Kan. 17.** Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo uczestniczenia w życiu liturgicznym i decyzyjnym Kościoła Domowego stosownie do swojego wieku i dojrzałości.
 
@@ -47,7 +47,7 @@
 
 1° przez dobrowolne wystąpienie członka;
 
-2° przez zawarcie małżeństwa i założenie własnego Kościoła Domowego;
+2° przez zawarcie małżeństwa i założenie własnego Kościoła Domowego i subdiecezji z prawem do pozostawania w wspólnocie subdiecezjalnej ;
 
 3° przez śmierć członka;
 
@@ -145,7 +145,7 @@
 
 1° do sprawowania posługi liturgicznej w domu;
 
-2° do błogosławienia osób, miejsc i przedmiotów;
+2° do sprawowania sakramentaliów błogosławienia osób, miejsc i przedmiotów;
 
 3° do nauczania wiary i moralności;
 
@@ -261,7 +261,7 @@
 
 **§ 2.** Żadna struktura hierarchiczna Kościoła Domowego, żaden podział ról w Triarchii ani żadna tradycja Rodu nie może być użyta jako uzasadnienie dla naruszenia godności, wolności lub nietykalności cielesnej jakiegokolwiek członka wspólnoty.
 
-**§ 3.** Głowa Rodu jako biskup domowy jest stróżem godności każdego członka wspólnoty i ma obowiązek aktywnie przeciwdziałać wszelkim formom przemocy, manipulacji, poniżania czy wykorzystywania.
+**§ 3.** Głowa Rodu jako biskup domowy subdiecezjalny jest stróżem godności każdego członka wspólnoty i ma obowiązek aktywnie przeciwdziałać wszelkim formom przemocy, manipulacji, poniżania czy wykorzystywania.
 
 **Kan. 33 § 1.** Jeśli jedno z małżonków stanowi źródło poważnego niebezpieczeństwa dla duszy lub ciała drugiej strony albo dla potomstwa, lub w inny sposób czyni zbyt trudnym życie wspólne, daje tym samym drugiej stronie zgodną z prawem przyczynę odejścia (por. kan. 263 § 1 KPK).
 
@@ -361,7 +361,7 @@
 
 **§ 2.** Zgoda małżeńska jest aktem woli, którym mężczyzna i kobieta w nieodwołalnym przymierzu wzajemnie się sobie oddają i przyjmują w celu stworzenia małżeństwa (kan. 167 § 2 KPK).
 
-**§ 3.** Głowa Rodu jako biskup domowy ma obowiązek czuwać nad tym, by zgoda małżeńska była wyrażona w sposób wolny, świadomy i pełny, bez jakiegokolwiek przymusu, bojaźni czy podstępu.
+**§ 3.** Głowa Rodu jako biskup domowy subdiecezjalny ma obowiązek czuwać nad tym, by zgoda małżeńska była wyrażona w sposób wolny, świadomy i pełny, bez jakiegokolwiek przymusu, bojaźni czy podstępu.
 
 **Kan. 39 § 1.** Małżeństwo cieszy się przychylnością prawa, dlatego w wątpliwości należy uważać je za ważne, dopóki nie udowodni się czegoś przeciwnego (kan. 170 KPK).
 
@@ -443,6 +443,8 @@
 
 **§ 2.** Wychowanie religijne nie może przybierać formy indoktrynacji, przymusu ani manipulacji. Wiara jest darem łaski, który wymaga wolnej odpowiedzi człowieka. Rodzice mają obowiązek tworzyć warunki sprzyjające wzrostowi wiary, nie zaś wymuszać zewnętrzne przejawy religijności.
 
+**§ 3.** Żaden urząd świecki czy to kościelny czy państwowy, czy samorządowy nie może odebrać prawa rodziców do uczestniczenia w ceremoniach religijnych prowadzonych przez potomka, ani zabronić potomkowi uczestnictwa w ceremoniach religijnych prowadzonych przez którego kolwiek rodzica także liturgii życia będącej liturgią godzin.
+
 **Kan. 46.** Kościół Domowy uznaje i respektuje prawo Potomstwa do:
 
 1° stopniowego rozwoju autonomii i samodzielności;
@@ -456,6 +458,8 @@
 5° poszanowania intymności i prywatności;
 
 6° uczestnictwa w decyzjach dotyczących rodziny stosownie do wieku i dojrzałości.
+
+7° uczestniczenia w ceremoniach rwligijnych prpwadzonych przez ktoregokolwiek z rodziców. 
 
 ---
 
