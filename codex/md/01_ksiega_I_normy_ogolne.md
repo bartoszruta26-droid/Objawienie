@@ -13,13 +13,13 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł I: Przedmiot i zakres stosowania
 
-**Kan. 1 § 1.** Kanony niniejszego Kodeksu dotyczą Kościoła Domowego jako partykularnej wspólnoty wiernych, erygowanej na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu, i regulują jego ustrój, liturgię, posługi, zadania oraz porządek prawny.
+**Kan. 1 § 1.** Kanony niniejszego Kodeksu dotyczą Kościoła Domowego jako partykularnej wspólnoty wiernych, erygowanej na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu zgodnie z tradycją kościołów pierwotnych , i regulują jego ustrój, liturgię, posługi, zadania oraz porządek prawny.
 
-**§ 2.** Kościół Domowy, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą wg tradycji ludzkiej i tradycji słowiańskiej powstałej od niepamiętnych czasów oraz tradycji rodzinnej powstałej przed trzydziestoma laty na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
+**§ 2.** Kościół Domowy, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą wg tradycji ludzkiej pierwotnej i tradycji słowiańskiej powstałej od niepamiętnych czasów oraz tradycji rodzinnej powstałej przed trzydziestoma laty na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
 
 **§ 3.** Niniejszy Kanon nie uchyla ani nie zmienia przepisów Kodeksu Prawa Kanonicznego z 1983 roku w zakresie, w jakim dotyczą one Kościoła Powszechnego, lecz stanowi prawo partykularne wspólnoty domowej, działającej w ramach powszechnego kapłaństwa wiernych (kan. 4 KPK) oraz teologii Kościoła Domowego (*Ecclesia Domestica*).
 
-**Kan. 2 § 1.** Kościół Domowy jest partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 9 KPK, zastosowaną do wspólnoty rodzinnej.
+**Kan. 2 § 1.** Kościół Domowy jest pierwotną partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 9 KPK, zastosowaną do wspólnoty rodzinnej.
 
 **§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium diecezjalne/subdiecezjalne Kościoła Domowego. Granice tej diecezji/subdiecezji obejmują:
 
@@ -49,11 +49,11 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **Kan. 8.** W niniejszym Kanonie:
 
-1° **Kościół Domowy** (*Ecclesia Domestica*) — kościół partykularny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 281 będąca w szczególności diecezją lub subdiecezją;
+1° **Kościół Domowy** (*Ecclesia Domestica*) — kościół partykularny pierwotny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 281 będąca w szczególności diecezją lub subdiecezją;
 
-2° **Diecezja Domowa / Subdiecezja** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową; Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub który będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu i w dalszej kolejności wyświęconego. Subiecezją  jest terytorium biskupa domowego niemianowanego i niezatwierdzonego przez Biskupa Rzymu i niewyświęconego a którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa domowego; subdiecezję wraz z jej hierarchą biskupa ustanawia hierarcha subdiecezji (macierzystej), a nie Biskup Rzymu — w przeciwieństwie do patriarchatu i patriarchy, które ustanawia biskup Rzymu;
+2° **Diecezja Domowa / Subdiecezja** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową; Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub który będąc wybranym zgodnie z prawem Bożym i uświęconym Duchem Świętym zatwierdzonym jest przez Biskup Rzymu. Subiecezją  jest terytorium biskupa domowego niemianowanego i niezatwierdzonego przez Biskupa Rzymu i ale mianowanego prawem Bożym i uświęconego przez Ducha Świętego a którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa domowego; subdiecezję wraz z jej hierarchą biskupa ustanawia hierarcha subdiecezji (macierzystej). 
 
-3° **Biskup domowy** - biskup rozumiany jako KPK kan. 288 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez Ducha Świętego, który został mu dany jest ustanowiony w Kościele Domowym pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia. Biskup domowy może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu i w dalszej kolejności wyświęcony;
+3° **Biskup domowy** - biskup rozumiany jako KPK kan. 288 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez uświęcenie Ducha Świętego, który został mu dany jest ustanowiony w Kościele Domowym pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia. Biskup domowy może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym zatwierdzonym jest przez Biskup Rzymu;
 
 3a° **Hierarcha Subdiecezji** (*hierarcha subdioecesis*) — biskup tytularny subdiecezjalny sprawujący władzę pasterską nad subdiecezją; subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji macierzystej, nie Biskup Rzymu;
 
@@ -75,15 +75,15 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 11° **Obrządek Osobowy Tomaszowy** — wymiar intelektualny i prawdomówny wspólnoty;
 
-12° **Przedmioty błogosławione domowe** — błogosławieństwa i poświęcenia sprawowane przez Głowę Rodu w domu;
+12° **Przedmioty, miejsca i psoby błogosławione domowe** — sakramentalia będące błogosławieństwem miejsc przedmiotow i osób, błogosławieństwa i poświęcenia sprawowane przez Głowę Rodu w domu;
 
-13° **Liturgia Życia** — codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu.
+13° **Liturgia Życia** — szczególna forma liturgii godzin, codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu i rodzinie obejmująca kontemplację, medytację i modlitwę w codziennych drobnych czynnościach domowych. 
 
 ---
 
 ### Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego
 
-**Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określa w sposób wyczerpujący **Księga III — Prawo Kościelne** (*De Ecclesiae universae iure*, kan. 49–143). 
+**Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określają w sposób wyczerpujący kolejne księgi. 
 
 **Kan. 10 § 1.** Hierarchia źródeł prawa w Kościele Domowym jest następująca:
 
@@ -91,9 +91,9 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 2° Prawo Naturalne — stoi ponad prawem stanowionym;
 
-3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 68–69 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego;
+3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 68–69 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego i w sposób tożsamy Kodeks Kanonu Kościołó2 Wschodnich z 1990 roku;
 
-4° prawo partykularne diecezji, na której terytorium znajduje się dom rodzinny — w granicach określonych w kan. 72–74 Księgi III;
+4° prawo partykularne diecezji, na której terytorium znajduje się subdiecezja i  dom rodzinny — w granicach określonych w kan. 72–74 Księgi III;
 
 5° prawo partykularne Kościoła Domowego — uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
 
@@ -111,8 +111,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 ### Tytuł IV: Celibat i drobne postanowienia ogólne
 
-**Kan. 13.** 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapóañstwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoóa powszechnego; również powinien być w poważaniu stan duchownych związanych maóżeñstwem, usankcjonowany przez praktykę Kościoóa pierwotnego i Kościoóów wschodnich.
-2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, należy zachować
-prawo partykularne.
+**Kan. 13.** 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapłaństwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoła powszechnego; również powinien być w poważaniu stan duchownych związanych małżeństwem, usankcjonowany przez praktykę Kościoła pierwotnego i Kościołów wschodnich.
+2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, należy zachować prawo partykularne.
 
 ---
