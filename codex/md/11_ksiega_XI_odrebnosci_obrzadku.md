@@ -339,7 +339,7 @@ rąk i modlitwę przepisaną przez Kościół natomiast Duch Święty ważnie 
 1° przyjęcia sakramentu chryzmacji;
 2° obyczajów oraz cech fizycznych i psychicznych odpowiednich do
 przyjêcia święceń;
-3° ukończenia wieku przepisanego prawem w postaci 21 lat;
+3° ukończenia wieku przepisanego prawem w postaci 24 lat;
 4° odpowiedniej wiedzy;
 5° przyjęcia święceń niższych według prawa partykularnego własnego
 Kościoła sui iuris;
@@ -347,6 +347,8 @@ Kościoła sui iuris;
 § 2. Wymaga się ponadto, aby kandydat nie by zwi¹zany przeszkodami,
 według KKKW kan. 762.
 § 3. Odnośnie do żonatych kandydatów przystępujących do święceń, należy zachować prawo partykularne własnego Kościoła sui iuris.
+§ 4 Zgodnie z KKKW Kan. 760  § 1. Wyświęcić na diakona można po indywidualnej ocenie Rady Hierarchów lub Synodu Biskupów kościoła partykularnego 
+§ Hierarcha kościoła partykularnego może dyspensować od wymogów stawianych przed kandydatem do święceń
 
 **§ 7.** Małżeństwo
 
@@ -356,22 +358,40 @@ według KKKW kan. 762.
 
 ---
 
-## Tytuł V: PRZEPISY KOŃCOWE
+## Tytuł V: PRZYJĘCIE DO KOŚCIOŁA KATOLICKIEGO
+**Kan. 513 § 1.** Zgodnie z KKKW Kan. 897  Chrzecijanin ka¿dego Kocio³a wschodniego akatolickiego powinien zostaæ przyjêty do Kocio³a katolickiego jedynie po z³o¿eniu
+wyznania wiary katolickiej, po uprzednim przygotowaniu doktrynalnym
+i duchowym, ka¿dy stosownie do swojej pozycji.
 
-**Kan. 513 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez patriarchę Subdiecezji Domowych, po konsultacji z Triarchią Domową.
+**§ 2. Zgodnie z Kan. 898  § 1. Biskupa ka¿dego Kocio³a wschodniego akatolickiego
+mo¿e przyj¹æ do Kocio³a katolickiego oprócz Biskupa Rzymskiego tak-
+¿e Patriarcha  za zgod¹ Synodu Biskupów Kocio³a patriarchalnego,
+lub Metropolita Kocio³a metropolitalnego sui iuris  za zgod¹ Rady Hierarchów.
 
-**§ 2.** Przepisy niniejszej Księgi nie naruszają dyscypliny obrządku łacińskiego ani prawa powszechnego Kościoła Katolickiego.
+**§ 3.** Zgodnei z KKKW Kan. 899  Duchowny ka¿dego Kocio³a wschodniego akatolickiego
+przystêpuj¹cy do pe³nej wspólnoty z Kocio³em katolickim mo¿e wykonywaæ swoje wiêcenia wed³ug norm ustanowionych przez kompetentn¹
+w³adzê. Natomiast biskup nie mo¿e wa¿nie wykonywaæ w³adzy rz¹dzenia bez zgody Biskupa Rzymskiego, który jest g³ow¹ Kolegium Biskupów.
 
-**§ 3.** W przypadku wątpliwości co do stosowania przepisów niniejszej Księgi, interpretuje się je na korzyść małżeństwa, rodziny i wolności sumienia.
+**Kan. 514.** Zgodnie z KKKW Kan. 921  § 1. Osoby prawne s¹ ustanowione dla celu odpowiadaj¹-
+cego misji Kocio³a, albo na mocy samego przepisu prawa, albo przez
+specjalne zezwolenie kompetentnej w³adzy, wydane w formie dekretu.
+§ 2. Moc¹ samego prawa osobami prawnymi s¹ Kocio³y sui iuris, jak te¿ i inne instytucje, o których wyranie
+tak stanowi prawo wspólne.
+§ 3. Kompetentna w³adza powinna nadawaæ osobowoæ prawn¹ tylko
+tym zespo³om osób lub rzeczy, które realizuj¹ specyficzny cel rzeczywi-
+cie po¿yteczny oraz  po rozwa¿eniu wszystkiego  posiadaj¹ rodki,
+które wed³ug przewidywañ wystarczaj¹ do osi¹gniêcia ustalonego celu.
+Zgodnei z Kan. 923  Zespó³ osób nie mo¿e byæ erygowany jako osoba prawna,
+je¿eli nie sk³ada siê z przynajmniej trzech osób fizycznych
 
-**Kan. 514.** Najwyższą zasadą niniejszej Księgi jest:
+**Kan. 515.** Zgodnie z KKKW Kan. 936  § 1. W Kociele urzêdem jest jakiekolwiek zadanie ustanowione na sta³e, czy to przez samego Pana, czy przez kompetentn¹ w³adzê dla realizacji celu duchowego.
+§ 2. Prawa i obowi¹zki w³aciwe poszczególnym urzêdom s¹ okrelane
+przez to samo prawo, którym urz¹d ustanowiono albo dekretem kompetentnej w³adzy.
+§ 3. Do w³adzy, która jest kompetentna ustanawiaæ urz¹d, nale¿y tak¿e
+dokonywanie w nich zmian, znoszenie oraz troska o ich kanoniczne powierzanie, chyba ¿e co innego prawo wyranie zastrzega albo wynika z
+natury rzeczy.
 
-1° małżeństwo i rodzina są drogą świętości i powołania;
-
-2° posługa w Kościele Domowym jest służbą, nie panowaniem;
-
-3° odrębność obrządku domowego nie oznacza separacji od Kościoła Powszechnego;
-
-4° *salus animarum suprema lex* — zbawienie dusz najwyższym prawem.
+**Kan. 516.** Zgodnie z KKKW Kan. 979  § 1. Do sprawowania w³adzy rz¹dzenia, która z ustanowienia Bo¿ego jest w Kociele, zdatni s¹, zgodnie z przepisami prawa ci,
+którzy otrzymali święcenia, także Ci, którzy otrzymali święcenia z rąk Biskupa i wypowiedzianą modlitwą oraz Ci, którzy otrzymali święcenia Duchem świętym bez udziału rąk ani modlitwy § 2. W wykonywaniu w³adzy rz¹dzenia mog¹ wspó³pracowaæ stosownie do przepisów prawa pozostali chrzecijanie
 
 -
