@@ -335,7 +335,18 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 **§ 6.** Namaszczenie chorych - Ci, którzy są prawem Bożym zrównani z biskupem diecezjalnym w tym biskupi subdiecezjalni mogą poświęcać olej zgodnie z kan 999 KPK. Zgodnie z Kan. 741 KKKW  Olej potrzebny przy sprawowaniu sakramentu namaszczenia chorych powinien być pobłogosławiony i, jeli inaczej nie stanowi prawo partykularne własnego Kościoła sui iuris, przez tego samego kapłana, który sprawuje sakrament. Namaszczenia chorych ważnie udziela każdy kapłan w tym kapłan niewyświęcony, któremu powierzono wolą Bożą duszpasterstwo w stosunku do wiernych powierzonych kapłanowi ich własną wolą jego duszpasterskiej trosce zgodnie z kan 1003 KPK. W kan. 1004 KPK wskazano, że namaszczenia chorych można udzielić wiernemu, który znajdzie się w niebezpieczeństwie śmierci na skutek choroby lub starości zarówno wobec śmierci ciała jak i śmierci Duszy wynikającej z grzechu nie będącego grzechem ciężkim, przy którym jawnie i uparcie trwają.
 
 **§ 6.** Kapłaństwo - Szafarzem świętym jest osoba, która na mocy ustanowienia Bożego, przez sakrament kapłaństwa została naznaczona niezatartym charakterem zgodnie z kan. 1008 KPK. Ci, którzy zostali mianowani przez Biskupa Rzymu, konsekrowani i przeznaczeni do wypełnienia w osobie Chrystusa-Głowy zadania nauczania, uświęcania i kierowania - byli pasterzami Ludu Bożego, a Ci, którzy nie będąc przyjętymi przez Biskupa Rzymu ale będąc mianowani wolą Bożą i których czyny zostały uświęcone a osoba błogosławiona  i których Bóg poświęcił ażeby wypełniając z Chrystusem-Głową zadania nauczania, uświęcania czynów i błogosławienia osób i kierowania także był pasterzem Ludu Bożego. Zgodnie z KKKW Kan. 744  Jedynie biskup ważnie udziela święceń poprzez włożenie
-rąk i modlitwę przepisaną przez Kościół natomiast Duch Święty ważnie udziela święceń bez nałożenia rąk i bez modlitwy.
+rąk i modlitwę przepisaną przez Kościół natomiast Duch Święty ważnie udziela święceń bez nałożenia rąk i bez modlitwy. Ponadto KKKW Kan. 758  § 1. Aby kto mógł byæ godziwie wywiêcony wymaga siê:
+1° przyjęcia sakramentu chryzmacji;
+2° obyczajów oraz cech fizycznych i psychicznych odpowiednich do
+przyjêcia święceń;
+3° ukończenia wieku przepisanego prawem w postaci 21 lat;
+4° odpowiedniej wiedzy;
+5° przyjęcia święceń niższych według prawa partykularnego własnego
+Kościoła sui iuris;
+6° zachowania interstycji przewidzianych prawem partykularnym.
+§ 2. Wymaga się ponadto, aby kandydat nie by zwi¹zany przeszkodami,
+według KKKW kan. 762.
+§ 3. Odnośnie do żonatych kandydatów przystępujących do święceń, należy zachować prawo partykularne własnego Kościoła sui iuris.
 
 **§ 7.** Małżeństwo
 
