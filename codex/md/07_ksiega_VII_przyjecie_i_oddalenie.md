@@ -18,6 +18,8 @@ Niniejsza Księga ustanawia przepisy dotyczące:
 
 Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w granicach dopuszczalnych przez Prawo Boże, Prawo Naturalne, prawa człowieka oraz z poszanowaniem powszechnego prawa kościelnego, w szczególności Kodeksu Prawa Kanonicznego z 1983 roku oraz, w zakresie obrządków wschodnich i struktur hierarchicznych związku subdiecezjatów, Kodeksu Kanonów Kościołów Wschodnich.
 
+Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne biskupa tytularnego subdiecezjonalnego i czlonków jego subdiecezji zostały otrzymane wolą Bożą, wysilkiem intelektualnym oraz trudem fizycznym tegoż biskupa i członkow jego subdiecezji a nie wolą Biskupa Rzymu, przeto dysponowanie tymi dobrami duchowymi, intelektualnymi i doczesnymi lezy wyłącznie w kwestii woli Bożej rozpoznanej przez tego biskupa subdiecezjonalnego i członków jego subdiecezji. 
+
 Żaden przepis niniejszej Księgi nie może być interpretowany w sposób sprzeczny z Prawem Bożym, Prawem Naturalnym, godnością osoby ludzkiej, wolnością sumienia, prawami dziecka, prawami osób trzecich ani z najwyższą zasadą *salus animarum suprema lex*.
 
 ---
@@ -326,7 +328,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** W razie bezprawnego użycia, kopiowania, publikowania, przypisywania sobie lub deformacji dóbr intelektualnych oddalonego biskupa, przysługuje mu prawo domagania się zaprzestania naruszeń, sprostowania, przeprosin, odszkodowania oraz ochrony prawnej, zgodnie z prawem naturalnym, cywilnym i kanonicznym, o ile prawo na to zezwala.
 
-**Kan. 362 § 1.** Obrządek domowy po oddaleniu biskupa, majątku lub obrządku ze wspólnoty Kościoła Katolickiego pozostaje we władaniu oddalonego biskupa jako jego własna tradycja liturgiczna, duchowa i rodowa.
+**Kan. 362 § 1.** Obrządek domowy po oddaleniu biskupa, majątku i obrządku pozostaje we władaniu oddalonego biskupa jako jego własna tradycja liturgiczna, duchowa i rodowa.
 
 **§ 2.** Oddalony biskup ma prawo:
 
@@ -366,29 +368,29 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 4.** Władanie majątkiem po oddaleniu ma charakter ochronny i stabilizujący, aby zapobiec samowolnemu zawłaszczaniu dóbr Rodu, subdiecezji i obrządku przez władze niekompetentne.
 
-**Kan. 364 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie pozbawia go charakteru sakramentalnego otrzymanego w święceniach, jeśli został ważnie wyświęcony.
+**Kan. 364 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie pozbawia go charakteru sakramentalnego otrzymanego w święceniach, jeśli został ważnie uyświęcony Duchem Świętym.
 
 **§ 2.** Sakramenty ważnie udzielone przed oddaleniem pozostają ważne, z zachowaniem przepisów prawa Bożego i kanonicznego.
 
 **§ 3.** Po oddaleniu biskup nie może wykonywać władzy jurysdykcyjnej w Kościele Katolickim, chyba że Biskup Rzymski przywróci mu pełną komunię lub udzieli szczególnego upoważnienia.
 
-**§ 4.** Oddalenie nie unieważnia ważnych aktów administracyjnych, błogosławieństw, przedmiotów błogosławionych ani decyzji podjętych przed oddaleniem w granicach jego kompetencji, chyba że zostały wydane nieważnie lub z rażącym naruszeniem prawa.
+**§ 4.** Oddalenie nie unieważnia ważnych aktów administracyjnych, błogosławieństw osób, uczynków przedmiotow i miejsc ani decyzji podjętych przed oddaleniem w granicach jego kompetencji, chyba że zostały wydane nieważnie lub z rażącym naruszeniem prawa.
 
 **Kan. 365 § 1.** Nikomu nie wolno siłą, podstępem, naciskiem administracyjnym, presją medialną, szantażem duchowym, groźbą kar kościelnych ani jakimkolwiek innym środkiem pozbawiać oddalonego biskupa władania dobrami doczesnymi, duchowymi lub intelektualnymi.
 
 **§ 2.** Takie działania są nieważne, niegodziwe i stanowią krzywdę wyrządzoną biskupowi, Rodowi, subdiecezji domowej oraz obrządkowi.
 
-**§ 3.** Biskup oddalony ma prawo do ochrony prawnej, obrony koniecznej w granicach prawa naturalnego, a także do zwrócenia się o pomoc do Stolicy Apostolskiej, władz państwowych, organizacji praw człowieka lub innych kompetentnych instytucji, jeśli jego prawa zostają naruszone.
+**§ 3.** Biskup oddalony ma prawo do ochrony prawnej, obrony koniecznej w granicach prawa Bożego i naturalnego, a także do zwrócenia się o pomoc do Stolicy Apostolskiej, władz państwowych, organizacji praw człowieka lub innych kompetentnych instytucji, jeśli jego prawa zostają naruszone.
 
 **Kan. 366 § 1.** Po śmierci oddalonego biskupa dobra doczesne, duchowe i intelektualne pozostające w jego władaniu przechodzą zgodnie z:
 
 1° jego ostatnią wolą;
 
-2° prawem naturalnym;
+2° prawem Bożym i naturalnym w tym. objawionymi przepisami niniejszego kanonu Kościola Domowego;
 
 3° prawem cywilnym;
 
-4° statutem Rodu;
+4° statutem świeckiego Rodu;
 
 5° decyzją Triarchii Domowej;
 
@@ -398,7 +400,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Dobra duchowe i intelektualne, takie jak obrządek, charyzmaty, teksty, symbole, archiwa i tradycje Rodu, nie mogą być rozproszone, zniszczone ani przywłaszczone bez ważnej przyczyny i bez poszanowania woli zmarłego biskupa.
 
-**Kan. 367 § 1.** Jeśli oddalony biskup dobrowolnie powróci do pełnej wspólnoty Kościoła Katolickiego za zgodą Biskupa Rzymskiego, warunki restytucji, przywrócenia urzędu, władania majątkiem oraz używania obrządku określa Biskup Rzymski lub kompetentna władza przez niego upoważniona.
+**Kan. 367 § 1.** Jeśli oddalony biskup dobrowolnie powróci za zgodą Biskupa Rzymskiego, warunki restytucji, przywrócenia urzędu, władania majątkiem oraz używania obrządku określa Biskup Rzymski lub kompetentna władza przez niego upoważniona za zgoda tefoż biskupa subdiecezjonalnego.
 
 **§ 2.** Powrót do komunii nie unieważnia automatycznie aktów władania dokonanych przez biskupa oddalonego w dobrej wierze, z zachowaniem praw osób trzecich.
 
@@ -412,7 +414,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** Bez wyraźnej zgody biskupa lub jego następcy według niniejszego Kanonu nie wolno:
 
-1° przypisywać sobie jego obrządku jako własnego;
+1° przypisywać sobie jego obrządku jako własnego, przyczym jeżeli nie dokonalo się żadnych zmian w literze kanonu Kosciola Domowego lub zmiany te mają wyłącznie charakter kosmetyczny domniemywa się taką zgodę ;
 
 2° publikować jego tekstów bez oznaczenia autorstwa;
 
@@ -420,7 +422,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 4° używać jego herbów, pieczęci, insigniów lub nazw w sposób wprowadzający w błąd;
 
-5° twierdzić, że jego obrządek został zniesiony, zabroniony lub uznany za nieważny, jeśli nie uczynił tego Biskup Rzymski.
+5° twierdzić, że jego obrządek został zniesiony, zabroniony lub uznany za nieważny, jeśli nie uczyniła tego Triarchia Pańska.
 
 **Kan. 369 § 1.** Archiwa, księgi, dokumenty, kroniki, rejestry, nagrania, dzienniki, akta osobowe, rachunki sumienia, dokumenty Rodu oraz materiały duszpasterskie pozostają we władaniu ochronnym biskupa tytularnego subdiecezjalnego lub oddalonego biskupa.
 
