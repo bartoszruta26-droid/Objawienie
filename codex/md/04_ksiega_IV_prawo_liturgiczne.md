@@ -514,7 +514,7 @@
 
 6° nie mogą być narzucane wbrew woli osoby zainteresowanej.
 
-**Kan. 185 § 1.** Głowa Rodu jako biskup domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, przedmiotami błogosławionymi, Darami i charyzmatami, pod warunkiem że:
+**Kan. 185 § 1.** Głowa Rodu jako biskup domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, przedmiotami błogosławionymi, Darami i charyzmatami oraz obrządki liturgiczne Pawlowy, Marii Magdaleny, Tomaszowy, pod warunkiem że:
 
 1° są zgodne z duchem liturgii Kościoła;
 
@@ -542,7 +542,7 @@
 
 7° **Uroczystość Wszystkich Świętych** — celebracja soli (mądrość świętych) i świadectwa.
 
-## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, PRZEDMIOTACH BŁOGOSŁAWIONYCH, DARACH I CHARYZMATACH
+## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, SAKRAMENTALIACH BŁOGOSŁAWIONYCH OSÓB PRZEDMIOTÓW I MIEJSC, DARACH I CHARYZMATACH
 
 ### Rozdział I: Przepisy ogólne o nauczaniu cnót
 
@@ -946,7 +946,7 @@
 
 3° prawa naturalnego uznającego ojca za kapłana ogniska domowego;
 
-4° objawionej misji i nominacji Bożej;
+4° objawionej misji i nominacji Bożej uświęcenia Duchem Świętym;
 
 5° kan. 230 § 2 KPK (funkcje liturgiczne świeckich w przypadku konieczności);
 
@@ -1221,7 +1221,7 @@
 
 ### Rozdział I: Przepisy ogólne o Darach Ducha Świętego
 
-**Kan. 214 § 1.** Kościół Domowy uznaje i naucza, że siedem Darów Ducha Świętego — Mądrość, Rozum, Rada, Miłosierdzie (Pobożność), Moc, Wiedza i Cierpliwość (Bojaźń Boża) — jest udzielanych wiernym w sakramencie bierzmowania i rozwijanych przez całe życie chrześcijańskie.
+**Kan. 214 § 1.** Kościół Domowy uznaje i naucza, że siedem Darów Ducha Świętego — Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza Pobożność — jest udzielanych wiernym w sakramencie bierzmowania i rozwijanych przez całe życie chrześcijańskie.
 
 **§ 2.** Głowa Rodu jako biskup domowy ma prawo i obowiązek:
 
@@ -1305,7 +1305,7 @@
 
 4° Głowa Rodu modli się o ten Dar przy każdym błogosławieństwie pokarmów.
 
-**Kan. 220 — Dar Miłosierdzia/Pobożności (związany z cnotą Sprawiedliwości i przedmiotów błogosławionych popiołu):**
+**Kan. 220 — Dar Miłosierdzia (związany z cnotą Sprawiedliwości i przedmiotów błogosławionych popiołu):**
 
 1° jest udzielany przez obrzędy pokutne i przedmiot błogosławiony popiołu;
 
@@ -1335,7 +1335,7 @@
 
 4° Głowa Rodu modli się o ten Dar przy zapalaniu świec i obrzędach twórczych.
 
-**Kan. 223 — Dar Cierpliwości/Bojaźni Bożej (związany z cnotą Pobożności i przedmiotów błogosławionych ziemi):**
+**Kan. 223 — Dar Pobożności (związany z cnotą Pobożności i przedmiotów błogosławionych ziemi):**
 
 1° jest udzielany przez błogosławieństwo ziemi i przedmiotów błogosławionych zakorzenienia;
 
@@ -1393,7 +1393,7 @@
 
 **§ 2.** Żaden charyzmat nie może być:
 
-1° narzucany wbrew woli osoby;
+1° narzucany wbrew woli osoby przy zachowaniu domniemanej woli osób będących katolikami;
 
 2° używany dla osobistej chwały lub zysku;
 
@@ -1555,7 +1555,7 @@
 
 6° twórczość nie może być sprzeczna z wiarą, moralnością ani godnością osoby ludzkiej.
 
-**Kan. 233 — Charyzmat Służenia (związany z cnotą Pobożności, przedmiotów błogosławionych ziemi i Darem Cierpliwości):**
+**Kan. 233 — Charyzmat Służenia (związany z cnotą Cierpliwośxi, przedmiotów błogosławionych ziemi i Darem Pobożności):**
 
 1° jest szczególną łaską do bezinteresownej pomocy bliźnim i budowania wspólnoty;
 
@@ -1611,13 +1611,15 @@
 
 ### Rozdział I: Zasada integracji trzech wymiarów
 
-**Kan. 235 § 1.** Pełnia życia sakramentalnego w Kościele Domowym osiąga się przez integrację trzech wymiarów:
+**Kan. 235 § 1.** Pełnia życia sakramentalnego w Kościele Domowym osiąga się przez integrację wymiarów:
 
-1° **przedmiotów błogosławionych rzeczowego** (przedmiot: woda, sól, chleb, popiół, olej, świeca, ziemia);
+1° **błogosławionych rzeczy** (przedmiot: woda, sól, chleb, popiół, olej, świeca, ziemia);
 
-2° **przedmiotów błogosławionych osobowego** (osoba: Głowa Rodu, Małżonka, Potomek);
+2° **błogosławionych osobób** (osoba: Głowa Rodu, Małżonka, Potomek);
 
-3° **przedmiotów błogosławionych uczynku** (działanie: praca, modlitwa, służba, odpoczynek).
+3° **błogosławionych uczynków** (działanie: praca, modlitwa, służba, odpoczynek).
+
+4° **błogosławionych miejsc** 
 
 **§ 2.** Przykład pełnej integracji:
 
