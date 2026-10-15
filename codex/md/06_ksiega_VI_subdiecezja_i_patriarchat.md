@@ -24,18 +24,18 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **§ 3.** Relacja biskupa tytularnego subdiecezjalnego do biskupa diecezjalnego jest analogiczna do relacji biskupa pomocniczego do biskupa diecezjalnego (por. kan. 1 KPK), z tym że biskup tytularny subdiecezjalny sprawuje władzę w zakresie określonym niniejszym Kanonem i prawem naturalnym rodziny w obrębie subdiecezji.
 
-**Kan. 320. § 1.**Posługa biskupa tytularnego subdiecezjalnego, jako arcykapłana Kościoła Domowego i szafarza świętego, zostaje przyjęta i uznana w Kościele Katolickim w granicach określonych przez Biskupa Rzymskiego oraz przepisy Księgi VII niniejszego Kanonu.
+**Kan. 320. § 1.** Posługa biskupa tytularnego subdiecezjalnego, jako arcykapłana Kościoła Domowego i szafarza świętego, zostaje przyjęta i uznana w Kościele Katolickim w granicach określonych przez Biskupa Rzymskiego oraz przepisy Księgi VII niniejszego Kanonu.
 
 **§ 2.** Jezeli posługa biskupa subdiecezjalnego nie została jeszcze przyjęta lub została odrzucona przez Biskupa Rzymu biskup subdiecezjalny nadal oddaje zwierzchnictwo biskupowi diecezjalnemu i Biskupowi Rzymu z wyjątkiem sytuacji, gdy ich decyzje godza w autonomię partykularnego Kościoła Domowego. Subdiecezja nadal pozostaje w pełnej wspólnocie z Kościolem Katolickim
 ---
 
 ## Tytuł II: SUBDIECEZJA DOMOWA JAKO KOŚCIÓŁ PARTYKULARNY
 
-**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa tytularnego subdiecezjalnego z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i przedmioty błogosławione, tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 9 KPK, zastosowany analogicznie).
+**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa subdiecezjalnego z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i sakramentalia błogosławione (osoby, uczynki, przedmioty i miejsca ), tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 9 KPK, zastosowany analogicznie).
 
 **§ 2.** Subdiecezja domowa jest podporządkowana diecezji, na której terytorium się znajduje. Biskup tytularny subdiecezjalny sprawuje władzę w subdiecezji domowej pod zwierzchnictwem biskupa diecezjalnego.
 
-**§ 3.** Subdiecezja domowa posiada osobowość prawną na mocy prawa naturalnego i niniejszego Kanonu. W porządku cywilnym może działać jako świecka organizacja religijna, stowarzyszenie lub inna forma organizacyjna przewidziana prawem.
+**§ 3.** Subdiecezja domowa posiada osobowość prawną na mocy prawa naturalnego i niniejszego Kanonu. W porządku cywilnym może działać jako kościół powstały od momentu złożenia deklaracji kazdą formą wyrażenia woli także ustną, myślową lub emocjonalną i nie wymagający rejestracji w stosownych rejestrach państwowych.
 
 **Kan. 322.** Granice subdiecezji domowej obejmują:
 
@@ -49,7 +49,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 5° inne miejsca określone dekretem biskupa tytularnego subdiecezjalnego za zgodą Triarchii Domowej.
 
-**Kan. 323 § 1.** Subdiecezja domowa może być podzielona na odrębne części, czyli „parafie domowe”, odpowiadające trzem obrządkom domowym:
+**Kan. 323 § 1.** Subdiecezja domowa może być podzielona na odrębne części, czyli „parafie domowe obrządkowe”, odpowiadające trzem obrządkom domowym:
 
 1° Parafia domowa Marii Magdaleny — przestrzeń kontemplacji, miłosierdzia i świadectwa;
 
@@ -57,7 +57,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 3° Parafia domowa Tomaszowa — przestrzeń nauki, prawdy i formacji intelektualnej.
 
-**§ 2.** Każda „parafia domowa” ma własny charakter i specyfikę, lecz wszystkie trzy tworzą jedną subdiecezję domową pod władzą jednego biskupa tytularnego subdiecezjalnego.
+**§ 2.** Każda „parafia domowa obrządkowa” ma własny charakter i specyfikę, lecz wszystkie trzy tworzą jedną subdiecezję domową pod władzą jednego biskupa tytularnego subdiecezjalnego.
 
 **Kan. 324.** Biskup tytularny subdiecezjalny ma obowiązek:
 
@@ -71,7 +71,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 5° utrzymywać łączność z parafią, na której terytorium znajduje się subdiecezja domowa;
 
-6° zapewniać członkom wspólnoty dostęp do sakramentów w Kościele Powszechnym.
+6° zapewniać członkom wspólnoty dostęp do sakramentów w Kościele Powszechnym a w razie niedajacej się usunąć przyczyny dostęp do sakramentów w Kościele Domowym.
 
 ---
 
@@ -103,7 +103,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 6° życia liturgicznego wspólnoty domowej.
 
-**§ 3.** W przypadku konfliktu między prawem subdiecezji domowej a prawem diecezjalnym, pierwszeństwo przysługuje prawu diecezjalnemu, chyba że prawo diecezjalne jest sprzeczne z Prawem Bożym lub Naturalnym (por. kan. 72–74 Księgi III).
+**§ 3.** W przypadku konfliktu między prawem subdiecezji domowej a prawem diecezjalnym, pierwszeństwo przysługuje prawu diecezjalnemu, chyba że prawo diecezjalne jest sprzeczne z Prawem Bożym lub Naturalnym (por. kan. 72–74 Księgi III) rozpoznanym przez biskupa subdiecezji kosciola partykularnego domowego.
 
 **Kan. 326.** Biskup diecezjalny ma prawo:
 
