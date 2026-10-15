@@ -1200,7 +1200,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 3° nie otrzymała mandatu papieskiego lub nie została wpisana do oficjalnych rejestrów Stolicy Apostolskiej;
 
-4° pozostajenw jedności z Kościołem. Katolckim, choć w prawie pełnej formie, jednak ze względu na oddanie się w pełni pod zwierzchnictwo Stolicy Apostolskiej i jest kompetentną władzą Kościoła Domowego subdiecezjalnego może używać sformułowania iż jest biskupem katolickim oczekującym na przyjęcie oraz włada. subdiecezją katolicką oczekującą na przyjęcie. 
+4° pozostajenw jedności z Kościołem. Katolckim, choć w prawie pełnej formie, jednak ze względu na oddanie się w pełni pod zwierzchnictwo Stolicy Apostolskiej i jest kompetentną władzą Kościoła Domowego subdiecezjalnego może używać sformułowania iż jest biskupem katolickim zgodnie z kan. 216 będąc oczekującym na przyjęcie oraz włada. subdiecezją katolicką oczekującą na przyjęcie gdyż do używania nazwy katolickiem jest uprawniony ten, ktory ma zezwolenie od kompetentnych wladz kościoła, także kościoła akatolckiego. 
 
 **§ 2.** Biskup nieprzyjęty przez Biskupa Rzymskiego:
 
