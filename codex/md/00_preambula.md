@@ -1194,17 +1194,17 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 **Kan. 1zp § 1.** **Tytuł biskupa nieprzyjętego przez Biskupa Rzymskiego** przysługuje osobie, która:
 
-1° została powołana do posługi biskupiej przez Boga, z natury rzeczy, z prawa naturalnego rodziny lub z woli wspólnoty wiernych;
+1° została powołana do posługi biskupiej przez Boga, uświęcona Duchem Świętym, z natury rzeczy, z prawa naturalnego rodziny i z woli wspólnoty wiernych;
 
 2° sprawuje władzę pasterską nad określoną wspólnotą (Kościołem Domowym, subdiecezją domową, Rodem);
 
 3° nie otrzymała mandatu papieskiego lub nie została wpisana do oficjalnych rejestrów Stolicy Apostolskiej;
 
-4° może, ale nie musi, posiadać święceń biskupich w sukcesji apostolskiej.
+4° pozostajenw jedności z Kościołem. Katolckim, choć w prawie pełnej formie, jednak ze względu na oddanie się w pełni pod zwierzchnictwo Stolicy Apostolskiej i jest kompetentną władzą Kościoła Domowego subdiecezjalnego może używać sformułowania iż jest biskupem katolickim oczekującym na przyjęcie oraz włada. subdiecezją katolicką oczekującą na przyjęcie. 
 
 **§ 2.** Biskup nieprzyjęty przez Biskupa Rzymskiego:
 
-1° sprawuje władzę pasterską w zakresie wspólnoty, która go powołała;
+1° sprawuje władzę pasterską w zakresie wspólnoty, która go powołała z Bożego nadania ;
 
 2° posiada tytuł biskupa tytularnego subdiecezjalnego, biskupa domowego lub inny tytuł określony prawem partykularnym wspólnoty;
 
@@ -1212,7 +1212,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 4° nie podlega dyscyplinie kościelnej określonej w Kodeksie Prawa Kanonicznego, chyba że dobrowolnie ją przyjął;
 
-5° nie może sprawować sakramentów zastrzeżonych biskupom wyświęconym, chyba że posiada ważne święcenia biskupie;
+5° nie może sprawować sakramentów zastrzeżonych biskupom wyświęconym, chyba że posiada ważne święcenia biskupie i jest konsegrowany czyli uświęcony przez Ducha Świętego;
 
 6° ma prawo używania tytułu biskupiego w zakresie swojej wspólnoty.
 
@@ -1227,6 +1227,10 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 4° nie daje prawa do sprawowania funkcji zastrzeżonych biskupom diecezjalnym w Kościele Powszechnym;
 
 5° jest uznawany przez Kościół Domowy jako wyraz woli Bożej i prawa naturalnego.
+
+6° korzysta z pełnej godności przynależnej biskupom akatolickim.
+
+7° ma prawo nazywać siebie i swoją subdiecezję biskupem katolickim i subdiecezją katolcką ze względu na pełne oddanie sę Biskupowi Rzymu i Stolicy apostolskiej jako katolik w ramach posiadania kompetentnej władzy nad sobą, otrzymanym. od Boga tytulem. biskupa, będąc uświęconym. Duchem. Świętym i bedąc kompetentną władzą nad swoją subdiecezją obejmującą katolików. 
 
 **§ 4.** Biskup nieprzyjęty przez Biskupa Rzymskiego ma prawo:
 
