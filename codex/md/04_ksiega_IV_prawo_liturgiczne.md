@@ -1,6 +1,6 @@
 # KSIĘGA IV — UŚWIĘCAJĄCE ZADANIE KOŚCIOŁA DOMOWEGO (*De Ecclesiae domesticae munere sanctificandi*)
 
-*Liturgia, przedmioty błogosławione, rok liturgiczny, modlitwa domowa, trzy obrządki oraz cnoty, dary i charyzmaty stanowią serce uświęcającego zadania Kościoła Domowego.*
+*Liturgia w tyl liturgia życia będąca liturgią godzin oraz obrządki domowe Pawlowy, Marii Magdaleny i Tomaszowy, sakramentalia błogosławienia osob, przedmiotów i miejsc,  rok liturgiczny domowy, modlitwa domowa, trzy obrządki oraz cnoty, dary i charyzmaty stanowią serce uświęcającego zadania Kościoła Domowego.*
 
 ---
 
@@ -10,13 +10,13 @@
 
 **§ 2.** Liturgia domowa obejmuje:
 
-1° Liturgię Godzin w wymiarze domowym;
+1° Liturgię Godzin w wymiarze domowym w formie Liturgii Życia;
 
-2° celebracje Słowa Bożego;
+2° celebracje Słowa Bożego w tym obrządki Pawlowy, Marii Magdaleny i Tomaszowy;
 
-3° przedmioty błogosławione i błogosławieństwa;
+3° osoby, przedmioty i miejsca błogosławione i błogosławieństwa;
 
-4° obrzędy roku liturgicznego;
+4° obrzędy roku liturgicznego domowego;
 
 5° obrzędy związane z życiem rodziny;
 
@@ -46,11 +46,11 @@
 
 5° dostosowanie do możliwości i wieku uczestników.
 
-## Tytuł II: PRZEDMIOTY BŁOGOSŁAWIONE DOMOWE — PRZEPISY OGÓLNE
+## Tytuł II: OSOBY, PRZEDMIOTY I MIEJSCA BŁOGOSŁAWIONE DOMOWE — PRZEPISY OGÓLNE
 
-**Kan. 148 § 1.** Przedmioty błogosławione domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
+**Kan. 148 § 1.** Sakramentalia domowe czyli osoby, przedmioty i miejsca błogosławione domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
-**§ 2.** Szczegółowe formuły błogosławieństw siedmiu przedmiotów błogosławionych rzeczowych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł VIII niniejszej Księgi (kan. 207–213).
+**§ 2.** Szczegółowe formuły błogosławieństw siedmiu osób, przedmiotów i miejsc błogosławionych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł VIII niniejszej Księgi (kan. 207–213).
 
 ## Tytuł III: ROK LITURGICZNY W KOŚCIELE DOMOWYM
 
@@ -170,6 +170,8 @@
 
 5° obrzędy związane z życiem rodziny.
 
+6° dodatkowe trzy błogosławieństwa osób, przedmiotow i miejsc wymienione w dalszych księgach tego kanonu
+
 **Kan. 159.** Modlitwa jest fundamentem życia Kościoła Domowego. Głowa Rodu jako arcykapłan ma obowiązek organizować i przewodniczyć modlitwie wspólnotowej.
 
 **Kan. 160.** Modlitwa wspólnotowa obejmuje:
@@ -216,9 +218,9 @@
 
 **§ 3.** Głowa Rodu jako biskup domowy czuwa nad harmonijnym rozwojem wszystkich trzech obrządków, nie dopuszczając do dominacji jednego kosztem pozostałych.
 
-**Kan. 163.** Proporcje między obrządkami w życiu wspólnoty powinny odpowiadać proporcjom:
+**Kan. 163.** Proporcje między obrządkami w życiu wspólnoty mogą odpowiadać proporcjom zwiazanym z dialogiem międzywyznaniowym ale nie większym niż :
 
-1° 33% — Kościół Katolicki (fundament);
+1° 100% — Kościół Katolicki (fundament) w tym Kościół Domowy;
 
 2° 22% — Kościół Chrześcijański (rozszerzenie);
 
@@ -228,7 +230,7 @@
 
 5° 11% — duchowość pierwotna, filozofia praw naturalnych;
 
-6° 11% — osobiste doświadczenia i przekonania członków.
+6° 11% — osobiste doświadczenia i przekonania członków świeckich.
 
 ### Rozdział II: Obrządek Marii Magdaleny
 
@@ -336,7 +338,7 @@
 
 ### Rozdział IV: Obrządek Tomaszowy
 
-**Kan. 172.** Obrządek Tomaszowy jest wymiarem intelektualnym i prawdomównym Kościoła Domowego. Jego patronem jest Święty Tomasz z Akwinu, Doktor Anielski, mistrz syntezy wiary i rozumu.
+**Kan. 172.** Obrządek Tomaszowy jest wymiarem intelektualnym i prawdomównym Kościoła Domowego. Jego patronem jest Święty Tomasz Apostoł, niedowierzający, wymagający dowodu, mistrz syntezy wiary i rozumu.
 
 **Kan. 173.** Teologia Obrządku Tomaszowego obejmuje:
 
@@ -476,7 +478,7 @@
 
 ## Tytuł VI: MIEJSCA KULTU I DZIEŃ PAŃSKI
 
-**Kan. 181 § 1.** Kościół Domowy uznaje i naucza, że życie duchowe wiernych opiera się na harmonijnej integracji siedmiu cnót, siedmiu przedmiotów błogosławionych rzeczowych, siedmiu Darów Ducha Świętego i siedmiu Charyzmatów, które wspólnie tworzą pełnię formacji chrześcijańskiej w przestrzeni domowej.
+**Kan. 181 § 1.** Kościół Domowy uznaje i naucza, że życie duchowe wiernych opiera się na harmonijnej integracji siedmiu cnót, siedmiu osób, przedmiotów i miejsc błogosławionych, siedmiu Darów Ducha Świętego i siedmiu Charyzmatów, które wspólnie tworzą pełnię formacji chrześcijańskiej w przestrzeni domowej.
 
 **§ 2.** Integracja ta odpowiada siedmiu poziomom duchowego rozwoju osoby ludzkiej — od korzenia (fundament wiary i pobożności) po koronę (transcendencja i nadzieja eschatologiczna) — i odzwierciedla fraktalną, holograficzną strukturę stworzenia, w której każda część odpowiada całości.
 
@@ -484,15 +486,15 @@
 
 **Kan. 182 § 1.** Cnoty w Kościele Domowym rozumiane są jako trwałe dyspozycje duchowe, moralne i intelektualne, które uzdalniają wiernych do działania zgodnego z Prawem Bożym i Naturalnym. Cnoty te są zarówno darem łaski, jak i owocem osobistego wysiłku formacyjnego.
 
-**§ 2.** Przedmioty błogosławione rzeczowe w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
+**§ 2.** Osoby, przedmioty i miejsca błogosławione w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
 
 **§ 3.** Dary Ducha Świętego w Kościele Domowym rozumiane są jako stałe dyspozycje, które czynią człowieka uległym wobec poruszeń Ducha Świętego (por. KKK 1830-1831). Wierni Kościoła Domowego mają prawo i obowiązek prosić o te Dary, przyjmować je i rozwijać w codziennym życiu.
 
-**§ 4.** Charyzmaty w Kościele Domowym rozumiane są jako szczególne łaski Ducha Świętego udzielane wiernym dla budowania Ciała Chrystusowego i dobra wspólnoty (por. kan. 117 § 1, 211, 215 KPK). Głowa Rodu jako biskup domowy ma prawo i obowiązek rozpoznawać, potwierdzać, zachęcać do rozwoju i koordynować charyzmaty wśród członków wspólnoty.
+**§ 4.** Charyzmaty w Kościele Domowym rozumiane są jako szczególne łaski Ducha Świętego udzielane wiernym dla budowania Ciała Chrystusowego i dobra wspólnoty (por. kan. 117 § 1, 211, 215 KPK). Głowa Rodu jako biskup domowy ma prawo i obowiązek rozpoznawać, potwierdzać, zachęcać do rozwoju i koordynować charyzmaty wśród członków wspólnoty i jako apostoł także nakładać charyzmaty.
 
 **Kan. 183 § 1.** Każdy wierny Kościoła Domowego, na mocy sakramentu chrztu i bierzmowania, posiada prawo i obowiązek rozwijania cnót, przyjmowania Darów Ducha Świętego i korzystania z charyzmatów dla dobra własnego i wspólnoty (por. kan. 1 KPK).
 
-**§ 2.** Głowa Rodu jako biskup domowy ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, przedmiotów błogosławionych, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
+**§ 2.** Głowa Rodu jako biskup domowy ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, funkcji osób, przedmiotów i mijsc błogosławionych, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
 
 **§ 3.** Małżonka jako współszafarka łaski ma prawo i obowiązek współuczestniczenia w nauczaniu cnót, sprawowaniu przedmiotów błogosławionych i rozpoznawaniu Darów oraz charyzmatów w Kościele Domowym.
 
