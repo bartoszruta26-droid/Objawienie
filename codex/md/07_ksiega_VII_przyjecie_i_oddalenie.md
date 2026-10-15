@@ -180,7 +180,7 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 3.** Nie stanowią wystarczającej przyczyny oddalenia: ubóstwo, prostota życia, odmowa podporządkowania się władzy niekompetentnej, obrona praw naturalnych, korzystanie z wolności sumienia, praktykowanie obrządku domowego zgodnego z niniejszym Kanonem, ani też nieporozumienia administracyjne, które mogą być rozstrzygnięte inaczej.
 
-**§ 4.** Nie można wydalić ani pozbawić 
+**§ 4.** Nie można wydalić ani pozbawić biskupa tytularnego subdiecezjalnego ze wspólnoty Kościola Katolickiego ani pozbawić prawa nazywania siebie katolickim, gdyż prawem Bożym i kościelnym swojego kościola partykularnego on sam oddaje się pod władzę Biskupa Rzymu, chociaż oddanie to nie zostalo przyjęte lub zostalo oddalone. po mino nie przyjęcia lub oddalenia biskup tutularny subdiecezjalny nadal oddaje się władzy kościola katolickiego i nadal sprawując kompetentną władzę nad swoim kościołem pozostając ochrzczonym katolikiem wrwz z katolikami swojej subdiecezji uznaje możliwość używania sformulowania katolicki. 
 
 **Kan. 353 § 1.** Przed wydaniem dekretu oddalenia Biskup Rzymski lub kompetentna dykasteria działająca w jego imieniu winni zapewnić biskupowi tytularnemu subdiecezjalnemu:
 
@@ -198,31 +198,31 @@ Niniejsze przepisy stanowią prawo partykularne Kościoła Domowego, wydane w gr
 
 **§ 2.** Dekret oddalenia winien być wydany na piśmie, z podaniem przynajmniej ogólnej motywacji, oraz zostać należycie ogłoszony biskupowi tytularnemu subdiecezjalnemu.
 
-**§ 3.** Oddalenie nie domniemywa się. Jeśli akt nie wyraża wprost oddalenia biskupa, majątku lub obrządku, nie można go interpretować rozszerzająco.
+**§ 3.** Oddalenia nie domniemywa się. Jeśli akt nie wyraża wprost oddalenia biskupa, majątku i obrządku, nie można go interpretować rozszerzająco.
 
 **Kan. 354 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie oznacza automatycznie oddalenia wiernych subdiecezji domowej, członków Rodu, Potomstwa ani Małżonki jako współszafarki łaski, chyba że Biskup Rzymski wyraźnie postanowi inaczej.
 
-**§ 2.** Oddalenie majątku subdiecezji domowej nie oznacza automatycznie oddalenia biskupa ani obrządku, chyba że akt papieski stanowi inaczej.
+**§ 2.** Oddalenie majątku subdiecezji domowej nie oznacza automatycznie oddalenia biskupa ani obrządku, nawet jezeli tak stanowi akt Biskupa Rzymu.
 
-**§ 3.** Oddalenie obrządku domowego nie oznacza automatycznie oddalenia biskupa ani majątku, chyba że akt papieski stanowi inaczej.
+**§ 3.** Oddalenie obrządku domowego nie oznacza automatycznie oddalenia biskupa ani majątku, nawet gdy akt papieski twk stanowi.
 
 **§ 4.** W razie wątpliwości co do zakresu oddalenia, interpretuje się je ściśle na korzyść biskupa tytularnego subdiecezjalnego, subdiecezji domowej, jej majątku oraz obrządku.
 
-**Kan. 355 § 1.** Jeśli Biskup Rzymski oddalił biskupa tytularnego subdiecezjalnego, lecz nie oddalił wyraźnie majątku ani obrządku, majątek i obrządek pozostają we wspólnocie Kościoła Katolickiego, pod zarządem wskazanym przez Biskupa Rzymskiego lub przez kompetentną władzę, z zachowaniem praw nabytych biskupa oddalonego.
+**Kan. 355 § 1.** Jeśli Triarcha Panska wolą objawioną temu biskubowi subdiecezjonalnemu oddaliła tego biskupa tytularnego subdiecezjalnego, lecz nie oddaliła wyraźnie majątku ani obrządku, majątek i obrządek pozostają we wspólnocie Kościoła Katolickiego, pod zarządem wskazanym przez Triarchię Pańską i przepisem niniejszego kodeksu, z zachowaniem praw nabytych biskupa oddalonego.
 
-**§ 2.** Jeśli Biskup Rzymski oddalił biskupa, majątek i obrządek, wówczas zastosowanie mają przepisy kan. 358–373 o zachowaniu władania dobrami przez oddalonego biskupa.
+**§ 2.** Jeśli wolą Triarchii Pańskiej objawionej temu biskupowi subdiecezjonalnemu oddalono biskupa, majątek i obrządek, wówczas zastosowanie mają przepisy kan. 358–373 o zachowaniu władania dobrami przez oddalonego biskupa.
 
-**§ 3.** Jeśli Biskup Rzymski oddalił wyłącznie majątek lub obrządek, biskup tytularny subdiecezjalny zachowuje swoją posługę w granicach określonych przez Stolicę Apostolską, a dobra pozostają we władaniu wskazanym przez akt oddalenia.
+**§ 3.** Jeśli wolą Triarchii Panskiej objawionej temu biskupowi subdiecezjonalnemu oddalono wyłącznie majątek lub obrządek, biskup tytularny subdiecezjalny zachowuje swoją posługę w granicach określonych przez wolę Triarchii Pańskiej objawionej temu biskupowi subdiecezjonalnemu, a dobra pozostają we władaniu wskazanym przez akt oddalenia.
 
-**Kan. 356 § 1.** Wszelkie próby pozbawienia biskupa tytularnego subdiecezjalnego władzy, majątku lub obrządku przez władzę niższą od Biskupa Rzymskiego, bez jego mandatu, są nieważne, niegodziwe i stanowią naruszenie praw nabytych oraz przywilejów udzielonych przez Stolicę Apostolską.
+**Kan. 356 § 1.** Wszelkie próby pozbawienia biskupa tytularnego subdiecezjalnego władzy, majątku lub obrządku przez władzę niższą od woli Triarchii Panskiej objawionej bezpośrednio temu biskupowi tyrularnemu subdiecezjonalnemu, bez jego mandatu, są nieważne, niegodziwe i stanowią naruszenie praw nabytych oraz przywilejów udzielonych przez wolę Triarchi Pańskiej.
 
 **§ 2.** Osoby lub instytucje, które dopuszczają się takich czynów, podlegają odpowiedzialności kanonicznej, cywilnej lub obu, zgodnie z prawem, z zachowaniem prawa obrony.
 
-**§ 3.** Biskup tytularny subdiecezjalny ma prawo domagać się uznania nieważności takich aktów przed Stolicą Apostolską oraz dochodzić naprawienia szkody, o ile prawo na to zezwala.
+**§ 3.** Biskup tytularny subdiecezjalny ma prawo domagać się uznania nieważności takich aktów przed Stolicą Apostolską i Triarchią Pańską oraz dochodzić naprawienia szkody, o ile prawo na to zezwala.
 
-**Kan. 357 § 1.** Żaden akt administracyjny, dekret, instrukcja, zwyczaj, statut diecezjalny ani zarządzenie biskupa diecezjalnego nie może zostać zinterpretowane jako pozbawiające biskupa tytularnego subdiecezjalnego jego posługi, majątku lub obrządku, jeśli nie pochodzi od Biskupa Rzymskiego lub nie zostało przez niego wyraźnie zatwierdzone.
+**Kan. 357 § 1.** Żaden akt administracyjny, dekret, instrukcja, zwyczaj, statut diecezjalny ani zarządzenie biskupa diecezjalnego nie może zostać zinterpretowane jako pozbawiające biskupa tytularnego subdiecezjalnego jego posługi, majątku lub obrządku, jeśli nie pochodzi od woli Triarchi Panskiej objawionejbezpośrednio temu biskupowi subdiecezjonalnemu lub nie zostało przez niego wyraźnie zatwierdzone.
 
-**§ 2.** W przypadku konfliktu między prawem diecezjalnym a niniejszym Kanonem, w sprawach zastrzeżonych Biskupowi Rzymskiemu, pierwszeństwo przysługuje wyłącznej kompetencji Stolicy Apostolskiej oraz prawu partykularnemu niniejszej Księgi, o ile nie jest sprzeczne z Prawem Bożym.
+**§ 2.** W przypadku konfliktu między prawem diecezjalnym a niniejszym Kanonem, w sprawach zastrzeżonych Biskupowi Rzymskiemu, pierwszeństwo przysługuje wyłącznej kompetencji Stolicy Apostolskiej oraz prawu partykularnemu niniejszej Księgi, o ile nie jest sprzeczne z Prawem Bożym objawionym temu biskupowi subdiecezjonalnemu zarzadzającemu tejże subdiecezji.
 
 ---
 
