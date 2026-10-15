@@ -10,7 +10,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł I: BISKUP TYTULARNY SUBDIECEZJALNY
 
-**Kan. 319 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny w rozumieniu analogicznym do kan. 9 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego. *(norma szczególna wobec przepisów Księgi III o prawie partykularnym i władzy rządzenia)*
+**Kan. 319 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny pierwotny w rozumieniu analogicznym do kan. 9 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego.
 
 **§ 2.** Biskup tytularny subdiecezjalny:
 
@@ -22,10 +22,11 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 4° sprawuje władzę nauczania, uświęcania i kierowania w subdiecezji domowej w hierarchicznej wspólnocie z biskupem diecezjalnym i Biskupem Rzymskim.
 
-**§ 3.** Relacja biskupa tytularnego subdiecezjalnego do biskupa diecezjalnego jest analogiczna do relacji biskupa pomocniczego do biskupa diecezjalnego (por. kan. 1 KPK), z tym że biskup tytularny subdiecezjalny sprawuje władzę w zakresie określonym niniejszym Kanonem i prawem naturalnym rodziny.
+**§ 3.** Relacja biskupa tytularnego subdiecezjalnego do biskupa diecezjalnego jest analogiczna do relacji biskupa pomocniczego do biskupa diecezjalnego (por. kan. 1 KPK), z tym że biskup tytularny subdiecezjalny sprawuje władzę w zakresie określonym niniejszym Kanonem i prawem naturalnym rodziny w obrębie subdiecezji.
 
-**Kan. 320.** Posługa biskupa tytularnego subdiecezjalnego, jako arcykapłana Kościoła Domowego i szafarza świętego, zostaje przyjęta i uznana w Kościele Katolickim w granicach określonych przez Biskupa Rzymskiego oraz przepisy Księgi VII niniejszego Kanonu.
+**Kan. 320. § 1.**Posługa biskupa tytularnego subdiecezjalnego, jako arcykapłana Kościoła Domowego i szafarza świętego, zostaje przyjęta i uznana w Kościele Katolickim w granicach określonych przez Biskupa Rzymskiego oraz przepisy Księgi VII niniejszego Kanonu.
 
+**§ 2.** Jezeli posługa biskupa subdiecezjalnego nie została jeszcze przyjęta lub została odrzucona przez Biskupa Rzymu biskup subdiecezjalny nadal oddaje zwierzchnictwo biskupowi diecezjalnemu i Biskupowi Rzymu z wyjątkiem sytuacji, gdy ich decyzje godza w autonomię partykularnego Kościoła Domowego. Subdiecezja nadal pozostaje w pełnej wspólnocie z Kościolem Katolickim
 ---
 
 ## Tytuł II: SUBDIECEZJA DOMOWA JAKO KOŚCIÓŁ PARTYKULARNY
