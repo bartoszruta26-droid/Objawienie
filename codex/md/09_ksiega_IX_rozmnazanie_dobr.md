@@ -57,7 +57,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° ukończył formację podstawową w jednym z trzech obrządków domowych;
 
-3° został błogosławiony przez arcykapłana lub szafarza świętego Kościoła Domowego;
+3° został błogosławiony przez arcykapłana lub szafarza świętego Kościoła Domowego, lub otrzymal uświęcenie przez Ducha Świętego;
 
 4° wyraża wolę służenia wspólnocie.
 
@@ -69,9 +69,9 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° ukończył formację kapłańską domową (obejmującą znajomość trzech obrządków, przedmiotów błogosławionych i liturgii domowej);
 
-3° został wyznaczony przez arcykapłana lub Triarchię Domową;
+3° został wyznaczony przez arcykapłana lub Triarchię Domową lub Ojca z Nieba;
 
-4° przyjął błogosławieństwo kapłańskie z nałożeniem rąk.
+4° przyjął błogosławieństwo kapłańskie z nałożeniem rąk lub uświęcenie przez Ducha Świętego.
 
 **§ 2.** Tytuł kapłana domowego uprawnia do:
 
@@ -85,15 +85,15 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° sprawowania obrzędów trzech obrządków domowych.
 
-**§ 3.** Tytuł kapłana domowego jest rozmnażalny. Może go posiadać wielu członków jednocześnie. Nie jest on tożsamy ze święceniami kapłańskimi w rozumieniu kan. 8–1009 KPK, lecz wynika z powszechnego kapłaństwa wiernych i prawa naturalnego rodziny.
+**§ 3.** Tytuł kapłana domowego jest rozmnażalny. Może go posiadać wielu członków jednocześnie, jest on tożsamy ze święceniami kapłańskimi w rozumieniu kan. 8–1009 KPK ze względu na uświęcenie Duchem Świętym, i wynika z powszechnego kapłaństwa wiernych i prawa naturalnego rodziny.
 
 **Kan. 437 § 1.** Tytuł szafarza świętego przysługuje członkowi Kościoła Domowego, który:
 
 1° posiada tytuł kapłana domowego;
 
-2° został wyznaczony do sprawowania konkretnych przedmiotów błogosławionych;
+2° został wyznaczony do sprawowania konkretnych przedmiotów błogosławionych z woli Ojca z Nieba;
 
-3° przyjął błogosławieństwo szafarskie z nałożeniem rąk;
+3° przyjął błogosławieństwo szafarskie z nałożeniem rąk lub został uświęcony Duchem Świętym;
 
 4° wykazuje się roztropnością, pobożnością i znajomością obrzędów.
 
