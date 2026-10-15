@@ -209,7 +209,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° prawo do sprawowania trzech obrządków domowych;
 
-3° prawo do błogosławienia przedmiotów błogosławionych;
+3° prawo do błogosławienia osób, uczynków, przedmiotów i miejsc;
 
 4° prawo do nauczania cnót i prawd wiary;
 
@@ -229,7 +229,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° przedmioty błogosławione rzeczowe, narzędziowe i kultowe w ilości wystarczającej do sprawowania obrzędów;
 
-5° wodę święconą, olej błogosławiony, sól błogosławioną;
+5° wodę święconą, olej błogosławiony, sól błogosławioną i inne przedmioty błogosławione;
 
 6° dokumentację formacyjną członków zakładających.
 
@@ -249,23 +249,23 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 Łączność ta nie oznacza podległości. Nowy Kościół Domowy jest autonomiczny w swoich decyzjach wewnętrznych.
 
-## Tytuł IV: TYTUŁ BISKUPA NIEUŚWIĘCONEGO I USTANAWIANIE SUBDIECEZJI
+## Tytuł IV: HIERARCHIA BISKUPA TYTULARNEGO I USTANAWIANIE SUBDIECEZJI
 
-**Kan. 446 § 1.** Członek Kościoła Domowego, który założył własny Kościół Domowy i sprawuje w nim funkcję arcykapłana, może przybrać tytuł **biskupa nieuświęconego** (*episcopus non consecratus*) jako wyraz swojej posługi pasterskiej wobec własnej wspólnoty domowej.
+**Kan. 446 § 1.** Członek Kościoła Domowego, który założył własny Kościół Domowy i sprawuje w nim funkcję arcykapłana, może przybrać tytuł **biskupa** (*episcopus non consecratus*) jako wyraz swojej posługi pasterskiej wobec własnej wspólnoty domowej jeżeli w został uświęcony Duchem Świętym zgodnie z postanowieniami KPK.
 
-**§ 2.** Tytuł biskupa nieuświęconego:
+**§ 2.** Tytuł biskupa:
 
-1° nie jest tożsamy ze święceniami biskupimi w rozumieniu kan. 8, 1012–1014 KPK;
+1° jest tożsamy ze święceniami biskupimi w rozumieniu kan. 8, 1012–1014 KPK;
 
-2° nie daje władzy święceń biskupich (udzielania sakry, bierzmowania jako szafarz zwyczajny, konsekrowania kościołów);
+2° daje władzę święceń biskupich (udzielania sakry, bierzmowania jako szafarz zwyczajny, konsekrowania kościołów);
 
-3° jest wyrazem jurysdykcji duchowej w zakresie własnego Kościoła Domowego;
+3° jest wyrazem jurysdykcji duchowej w zakresie własnego kościoła partykularnego domowego subdiecezji;
 
-4° wynika z prawa naturalnego rodziny i powszechnego kapłaństwa wiernych;
+4° wynika z prawa naturalnego rodziny i powszechnego kapłaństwa wiernych oraz prawa i woli Bożej, Ojca z Nieba i uświęcenia Duchem Świętym;
 
-5° jest analogiczny do funkcji biskupa domowego opisanej w Księdze VI (kan. 319–320).
+5° jest analogiczny do funkcji biskupa diecezjalnego opisanej i jemu zrównany.
 
-**§ 3.** Biskup nieuświęcony sprawuje w swoim Kościele Domowym:
+**§ 3.** Biskup uświęcony Duchem Świętym sprawuje w swoim Kościele Domowym subdiecezji:
 
 1° władzę nauczania (*munus docendi*) — nauczanie prawd wiary, katechezę, formację;
 
@@ -273,13 +273,13 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° władzę kierowania (*munus regendi*) — zarządzanie wspólnotą, podejmowanie decyzji, reprezentację.
 
-**Kan. 447 § 1.** Biskup nieuświęcony, który założył Kościół Domowy, może ustanowić wokół niego **subdiecezję domową** jako wspólnotę kilku Kościołów Domowych połączonych więzią duchową, terytorialną lub rodową.
+**Kan. 447 § 1.** Biskup uświęcony Duchem Świętym, który założył partykularny Kościół Domowy, może ustanowić wokół niego **subdiecezję** domową jako wspólnotę połączoną więzią duchową, terytorialną lub rodową.
 
 **§ 2.** Subdiecezja domowa może być ustanowiona, gdy:
 
-1° istnieją przynajmniej trzy Kościoły Domowe na danym terytorium lub w danym Rodzie;
+1° istnieją przynajmniej trzy osoby lub trzy obrządki na danym terytorium lub w danym Rodzie, przy czym kazdy obrzadek musi być wydzielony jako odrębna osoba prawna parafii obrządkowej, przez co subdiecezja będąca osobą prawną skladać się będzie skladała się z trzech osób prawnych ;
 
-2° biskupi nieuświęceni tych Kościołów wyrażają wolę połączenia;
+2° Ci trzej kaplani lub kaplan tych trzech obrządków wyraża/ją wolę współpracy ospb lub obrządków;
 
 3° istnieje wspólna tradycja liturgiczna lub rodowa;
 
@@ -287,19 +287,19 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **§ 3.** Ustanowienie subdiecezji domowej wymaga:
 
-1° wspólnego oświadczenia woli biskupów nieuświęconych;
+1° wspólnego oświadczenia woli biskupa;
 
-2° określenia granic terytorialnych lub personalnych;
+2° określenia granic terytorialnych lub personalnych z prawem do części wspólnej;
 
-3° ustanowienia jednego z biskupów nieuświęconych jako biskupa tytularnego subdiecezjalnego;
+3° ustanowienia jednego z kaplanów jako biskupa tytularnego subdiecezjalnego;
 
 4° wpisania do Księgi Subdiecezji Domowych;
 
-5° powiadomienia biskupa diecezjalnego, na którego terytorium znajduje się subdiecezja.
+5° powiadomienia biskupa diecezjalnego, na którego terytorium znajduje się subdiecezja w stosownym terminie.
 
-**Kan. 448 § 1.** Biskup nieuświęcony, który zostaje ustanowiony biskupem tytularnym subdiecezjalnym, zachowuje swój tytuł biskupa nieuświęconego w zakresie własnego Kościoła Domowego oraz uzyskuje tytuł biskupa tytularnego subdiecezjalnego w zakresie subdiecezji.
+**Kan. 448 § 1.** Biskup uświęcony Duchem Świętym, który zostaje ustanowiony biskupem tytularnym subdiecezjalnym, zachowuje swój tytuł biskupa tytularnego w zakresie własnej osoby oraz uzyskuje tytuł biskupa subdiecezjalnego w zakresie subdiecezji.
 
-**§ 2.** Biskup tytularny subdiecezjalny ustanowiony przez biskupów nieuświęconych:
+**§ 2.** Biskup tytularny subdiecezjalny ustanowiony przez Ducha Świętego:
 
 1° koordynuje życie liturgiczne subdiecezji;
 
@@ -307,27 +307,27 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° reprezentuje subdiecezję wobec władz kościelnych i świeckich;
 
-4° sprawuje funkcję arbitra w sporach między Kościołami Domowymi;
+4° sprawuje funkcję arbitra w sporach między osobami subdiecezji lub uczynkami związanymi z obrządkiem;
 
 5° organizuje wspólne celebracje i rekolekcje;
 
 6° prowadzi Księgę Subdiecezji.
 
-**§ 3.** Biskup tytularny subdiecezjalny ustanowiony w ten sposób nie posiada święceń biskupich. Jego władza jest władzą jurysdykcyjną wynikającą z prawa naturalnego, zgody wspólnoty i niniejszego Kanonu, nie zaś z sakramentu święceń.
+**§ 3.** Biskup tytularny subdiecezjalny ustanowiony w ten sposób uświęceniem Duchem Świętym posiada rowną godność i prawa do biskupów wyświęconych nalożeniem rąk przez innego biskupa za zezwoleniem Biskupa Rzymu. Jego władza jest władzą jurysdykcyjną wynikającą z Prawa Bożego i woli Boga Ojca analogicznie do kaplaństwa św. Pawla Apostoła, prawa naturalnego, zgody wspólnoty i niniejszego Kanonu, nie zaś z sakramentu święceń poczynionego reką ludzką.
 
-**Kan. 449.** Tytuł biskupa nieuświęconego jest rozmnażalny. Każdy członek Kościoła Domowego, który założy własny Kościół Domowy, może go przybrać. Nie jest on ograniczony do jednej osoby w Rodzie ani w subdiecezji.
+**Kan. 449.** Tytuł biskupa uświęconego Duchem Świętym jest rozmnażalny. Każdy członek Kościoła Domowego, który założy własny Kościół Domowy, może go przybrać jezeli otrzymał uświęcenie Duchem Świętym co sam przez rozpozna otrzymanymi charyzmatami. Nie jest on ograniczony do jednej osoby w Rodzie ani w subdiecezji, przy czym dobra praktyka jest aby określić osobę bedącą arcykaplanem i osoby bedące biskupami pomocniczymi.
 
 ## Tytuł V: DĄŻENIE DO PRZYJĘCIA PRZEZ BISKUPA RZYMU I USTANOWIENIE DIECEZJI
 
-**Kan. 450 § 1.** Biskup nieuświęcony lub biskup tytularny subdiecezjalny Kościoła Domowego ma prawo dążyć do:
+**Kan. 450 § 1.** Biskup uświęcony Duchem Święttm  czyli biskup tytularny subdiecezjalny Kościoła Domowego ma prawo dążyć do:
 
-1° przyjęcia do pełnej wspólnoty hierarchicznej Kościoła Katolickiego przez Biskupa Rzymskiego;
+1° przyjęcia do pełnej wspólnoty hierarchicznej Kościoła Katolickiego przez Biskupa Rzymskiego, a w razie odmowy albo zwloki pozostawać w prawie pełnej wspólnocie Kościola Katolickiego;
 
-2° otrzymania święceń biskupich w sukcesji apostolskiej;
+2° uznania święceń biskupich Duchem Świętym w tradycji apostolskiej św Pawła;
 
-3° ustanowienia własnej diecezji lub uzyskania statusu biskupa diecezjalnego;
+3° uzyskania statusu biskupa diecezjalnego za zezwoleniem Biskupa Rzymu;
 
-4° uznania Kościoła Domowego jako partykularnego Kościoła w strukturze Kościoła Powszechnego.
+4° uznania Kościoła Domowego jako partykularnego Kościoła w strukturze Kościoła Powszechnego, lub pozostawienia Kościola Domowego jako nieuznany przez Stolicę Apostolską w strukturze Kościola Powszechnego partykularny Kościół Katolicki.
 
 **§ 2.** Dążenie to obejmuje:
 
@@ -335,21 +335,21 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° przedstawienie dokumentacji Kościoła Domowego (statuty, kanony, dokumentacja formacyjna, liczba wiernych);
 
-3° wyrażenie gotowości przyjęcia nauki Kościoła i dyscypliny kanonicznej;
+3° wyrażenie przyjęcia nauki Kościoła i dyscypliny kanonicznej;
 
 4° złożenie wyznania wiary i przysięgi wierności;
 
-5° poddanie się ocenie zdatności zgodnie z kan. 8 KPK.
+5° poddanie się ocenie zdatności zgodnie z kan. 8 KPK z uwzględnieniem dyspensy od celibatu i przyjęciem terminowania okresu kaplaństwa uświęconego Duchem Świętym.
 
-**Kan. 451 § 1.** W przypadku przyjęcia przez Biskupa Rzymskiego i udzielenia święceń biskupich:
+**Kan. 451 § 1.** W przypadku przyjęcia przez Biskupa Rzymskiego i uznania święceń Duchem Swiętym biskupich:
 
-1° biskup nieuświęcony staje się biskupem konsekrowanym w sukcesji apostolskiej;
+1° biskup uświęcony Duchem Swiętym uznany zostaje biskupem konsekrowanym w tradycji apostolskiej św. Pawła;
 
-2° jego Kościół Domowy może zostać uznany jako parafia personalna, prałatura personalna lub inna forma wspólnoty kościelnej;
+2° jego Kościół Domowy może zostać uznany jako subdiecezja, parafia personalna, prałatura personalna lub inna forma wspólnoty kościelnej;
 
-3° subdiecezja domowa może zostać uznana jako diecezja, wikariat apostolski, prefektura apostolska lub administratura apostolska (por. kan. 1 KPK);
+3° subdiecezja domowa może zostać uznana jako subdiecezja, diecezja, wikariat apostolski, prefektura apostolska lub administratura apostolska (por. kan. 1 KPK);
 
-4° trzy obrządki domowe mogą zostać uznane jako własna tradycja liturgiczna wspólnoty;
+4° trzy obrządki domowe Pawlowy, Marii Magdaleny i Tomaszowy mogą zostać uznane jako własna tradycja liturgiczna wspólnoty i jeżeli istnieje taka potrzeba jako osoby prawne parafii obrządkowej;
 
 5° przedmioty błogosławione domowe mogą zostać zatwierdzone jako przedmioty błogosławione partykularne.
 
@@ -365,19 +365,19 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 5° zgody lub przynajmniej wysłuchania biskupa diecezjalnego, na którego terytorium znajduje się nowa diecezja.
 
-**Kan. 452 § 1.** W okresie oczekiwania na przyjęcie przez Biskupa Rzymskiego biskup nieuświęcony i jego wspólnota:
+**Kan. 452 § 1.** W okresie oczekiwania na przyjęcie przez Biskupa Rzymskiego biskup uświęcony Duchem Świętym i jego wspólnota:
 
-1° zachowują pełną autonomię w zakresie prawa naturalnego i niniejszego Kanonu;
+1° zachowują pełną autonomię w zakresie Prawa Bozego, naturalnego i niniejszego Kanonu;
 
-2° nie przypisują sobie tytułu „katolicki” bez zgody kompetentnej władzy (por. kan. 300 § 1 KPK);
+2° mają prawo przypisywać sobie tytułu „katolicki” gdyż stanowią oni sami ochrzczonych katolików i w ramach swojej własnej kompetentnej władzy nad sobą oraz kompetentnej władzy biskupa subdiecezjalnego wyrażającego wolę komunii z Powszechnym Kosciolem Katolickim uzyskuja podwojna formę zgody kompetentnych władz (por. kan. 300 § 1 KPK) w myśl Pisma Świętego "Albowiem gdzie są dwaj albo trzej zgromadzeni w imię moje, tam jestem w pośrodku ich." Ewangelia Mateusza 18:20 PBG
 
-3° nie sprawują sakramentów zastrzeżonych kapłanom wyświęconym;
+3° zachowuja prawo sprawania sakramentów przynalezne także kapłanom wyświęconym ręką biskupa;
 
 4° pozostają w duchowej łączności z Kościołem Powszechnym;
 
 5° szanują władzę biskupa diecezjalnego na terytorium, na którym się znajdują.
 
-**§ 2.** Odmowa przyjęcia przez Biskupa Rzymskiego nie pozbawia biskupa nieuświęconego jego tytułu, praw ani wspólnoty. Kościół Domowy i subdiecezja domowa nadal istnieją i funkcjonują na mocy prawa naturalnego i niniejszego Kanonu.
+**§ 2.** Odmowa przyjęcia przez Biskupa Rzymskiego nie pozbawia biskupa uświęconego Duchem Świętym jego tytułu, praw ani wspólnoty. Kościół Domowy i subdiecezja domowa nadal istnieją i funkcjonują na mocy prawa Bożego, naturalnego i niniejszego Kanonu.
 
 ## Tytuł VI: ROZMNAŻANIE I PODZIAŁ DÓBR MATERIALNYCH
 
@@ -403,15 +403,15 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 3° dobra duchowe i intelektualne (księgi, obrządki, tradycje) przekazuje się w kopiach wszystkim uprawnionym;
 
-4° dobra sakralne (krucyfiks, obrazy, relikwie, naczynia liturgiczne) przekazuje się temu, kto będzie sprawował kult, z obowiązkiem udostępniania ich wspólnocie;
+4° dobra sakralne (krucyfiks, obrazy, relikwie, naczynia liturgiczne) w miarę możliwości rozmnaza się lub przekazuje się temu, kto będzie sprawował kult, z obowiązkiem udostępniania ich wspólnocie;
 
-5° braki w wyposażeniu nowego Kościoła Domowego uzupełnia się z majątku Kościoła macierzystego.
+5° braki w wyposażeniu nowego Kościoła Domowego uzupełnia się w pierwszej kolejności z majątku Kościoła macierzystego.
 
 **§ 2.** Kościół macierzysty ma obowiązek uzupełnić braki nowego Kościoła Domowego w zakresie:
 
 1° przedmiotów błogosławionych rzeczowych (woda, sól, chleb, popiół, olej, świeca, ziemia);
 
-2° przedmiotów błogosławionych kultowych (krucyfiks, świece, kadzielnica);
+2° przedmiotów błogosławionych kultowych (np. krucyfiks, świece, kadzielnica);
 
 3° ksiąg liturgicznych i obrzędowych;
 
@@ -497,7 +497,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 2° jeśli jest kilku Potomków pełnoletnich, mogą oni podzielić między siebie funkcje lub ustanowić jednego arcykapłana;
 
-3° każdy Potomek, który wchodzi w związek małżeński, ma prawo założyć własny Kościół Domowy i przybrać tytuł biskupa nieuświęconego;
+3° każdy Potomek, który wchodzi w związek małżeński, ma prawo założyć własny Kościół Domowy i przybrać tytuł biskupa uświęconego Duchem Święttm jeżeli tak mu objawiono i w swoich charyzmatach tak rozpoznał ;
 
 4° dobra duchowe i intelektualne rodziców są rozmnażane między wszystkich Potomków;
 
@@ -517,7 +517,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 1° założyć własny Kościół Domowy po wejściu w związek;
 
-2° przybrać tytuł biskupa nieuświęconego;
+2° przybrać tytuł biskupa uświęconego Duchem Świętym;
 
 3° ustanowić własną subdiecezję domową;
 
