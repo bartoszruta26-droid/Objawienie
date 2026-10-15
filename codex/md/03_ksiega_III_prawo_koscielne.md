@@ -22,6 +22,8 @@
 
 5° ustaw dotyczących nauczania i formacji (kan. 3 KPK).
 
+5° ustaw dotyczących sakramentaliów w tym błogosławieństw osób, przedmiotów i miejsc. 
+
 **Kan. 50 § 1.** Ustawy powszechne Kościoła, które nie obowiązują na określonym terytorium, nie wiążą członków Kościoła Domowego aktualnie przebywających poza tym terytorium (por. kan. 12 § 2 KPK).
 
 **§ 2.** Ustawy wydane dla określonego terytorium wiążą członków Kościoła Domowego, którzy posiadają na nim stałe lub tymczasowe zamieszkanie oraz równocześnie aktualnie na nim przebywają (por. kan. 12 § 3 KPK).
@@ -74,7 +76,7 @@
 
 **§ 3.** Interpretacja dokonana w formie wyroku sądowego lub aktu administracyjnego w poszczególnej sprawie nie ma mocy ustawy i wiąże jedynie osoby oraz dotyczy spraw, dla których została wydana (por. kan. 16 § 3 KPK).
 
-**Kan. 62.** Ustawy Kościoła Domowego należy rozumieć według własnego znaczenia słów, rozważanego w tekście i kontekście. Jeśli pozostaje ono wątpliwe i niejasne, należy uwzględnić miejsca paralelne, gdy takie są, cel i okoliczności ustawy oraz myśl prawodawcy domowego (por. kan. 17 KPK).
+**Kan. 62.** Ustawy Kościoła Domowego należy rozumieć według własnego znaczenia słów, rozważanego w tekście i kontekście. Jeśli pozostaje ono wątpliwe i niejasne, należy uwzględnić miejsca paralelne, gdy takie są, cel i okoliczności ustawy oraz myśl prawodawcy domowego (por. kan. 17 KPK). W szczególności wg własnego znaczenian należy rozumieć ustawy odnoszące się do prawa w tym prawa Bożego. 
 
 **Kan. 63.** Ustawy Kościoła Domowego, które ustanawiają kary, ograniczają swobodne wykonywanie uprawnień albo zawierają wyjątek od ustawy, podlegają ścisłej interpretacji (por. kan. 18 KPK).
 
@@ -124,7 +126,7 @@
 
 **§ 2.** Dekrety ogólne Stolicy Apostolskiej i Konferencji Episkopatu obowiązują członków Kościoła Domowego na równi z ustawami powszechnymi, z chwilą ich promulgacji i wejścia w życie.
 
-**Kan. 72.** Głowa Rodu jako biskup domowy, posiadający władzę wykonawczą w zakresie diecezji domowej, nie może wydać dekretu ogólnego, o którym w kan. 29 KPK, chyba że w poszczególnych wypadkach zostanie mu wyraźnie udzielona zgodnie z prawem przez kompetentnego prawodawcę delegacja, z zachowaniem warunków określonych w akcie jej udzielenia (por. kan. 30 KPK).
+**Kan. 72.** Głowa Rodu jako biskup domowy, posiadający władzę wykonawczą w zakresie diecezji domowej, nie może wydać dekretu ogólnego, o którym w kan. 29 KPK, chyba że w poszczególnych wypadkach zostanie mu wyraźnie udzielona zgodnie z prawem przez kompetentnego prawodawcę w tym Ojca z Nieba, Ducha Świętego lub Syna Bożego delegacja, z zachowaniem warunków określonych w akcie jej udzielenia (por. kan. 30 KPK).
 
 **Kan. 73 § 1.** Ogólne dekrety wykonawcze, w których dokładniej określa się sposoby zastosowania ustawy albo przynagla się jej zachowanie, mogą wydawać w Kościele Domowym Głowa Rodu jako posiadający władzę wykonawczą, w ramach własnej kompetencji (por. kan. 31 § 1 KPK).
 
@@ -139,7 +141,7 @@
 ### Rozdział II: Instrukcje
 **Kan. 76 § 1.** Kościół Domowy uznaje i stosuje instrukcje wydane przez kompetentną władzę kościelną, które wyjaśniają przepisy ustaw oraz rozwijają i określają racje, które należy uwzględnić przy ich zachowaniu (por. kan. 34 § 1 KPK).
 
-**§ 2.** Instrukcje Stolicy Apostolskiej dotyczące liturgii, sakramentów, formacji i dyscypliny kościelnej są przyjmowane i stosowane w Kościele Domowym z chwilą ich ogłoszenia, z dostosowaniem do warunków domowych.
+**§ 2.** Instrukcje Stolicy Apostolskiej dotyczące liturgii, sakramentów, formacji i dyscypliny kościelnej są przyjmowane i stosowane w Kościele Domowym z chwilą ich ogłoszenia, z dostosowaniem do warunków domowych. Jeżeli instrukcje Stolicy Apostolskiej w tych sprawach zezwalają na dyspensę, lub oddają władzę kompetentnej władzy uznaje się prawo Kościoła Domowego do ich dyspensowania lub regulowania. 
 
 **Kan. 77 § 1.** Głowa Rodu jako biskup domowy może wydawać instrukcje domowe, które wyjaśniają przepisy niniejszego Kanonu i prawa partykularnego, rozwijają i określają racje, które należy uwzględnić przy ich zachowaniu (por. kan. 34 § 1 KPK, zastosowany analogicznie).
 
@@ -151,15 +153,15 @@
 
 **Kan. 79.** Kościół Domowy respektuje w szczególności następujące instrukcje Stolicy Apostolskiej, dostosowując je do warunków domowych:
 
-1° instrukcje liturgiczne dotyczące sprawowania sakramentów i przedmiotów błogosławionych;
+1° instrukcje liturgiczne dotyczące sprawowania sakramentów i sakramentaliów w tym osób, przedmiotów i miejsc błogosławionych;
 
 2° instrukcje dotyczące formacji katechetycznej i nauczania;
 
-3° instrukcje dotyczące kultu Bożego i roku liturgicznego;
+3° instrukcje dotyczące kultu Bożego i roku liturgicznego w tym liturgii domowych i obrządków Pawłowego, Marii Magdaleny i Tomaszowego;
 
 4° instrukcje dotyczące spraw małżeńskich i rodzinnych;
 
-5° instrukcje dotyczące dóbr doczesnych Kościoła i ich zarządzania;
+5° instrukcje dotyczące dóbr doczesnych Kościoła Domowego i ich zarządzania;
 
 6° instrukcje dotyczące środków społecznego przekazu.
 
@@ -167,7 +169,7 @@
 
 ### Rozdział I: Normy wspólne
 
-**Kan. 80 § 1.** Kościół Domowy uznaje i respektuje poszczególne akty administracyjne wydane przez kompetentną władzę kościelną — a więc dekrety, nakazy czy reskrypty — w granicach przysługującej jej kompetencji, z zachowaniem przepisu kan. 76 § 1 KPK (por. kan. 35 KPK).
+**Kan. 80 § 1.** Kościół Domowy uznaje i respektuje poszczególne akty administracyjne wydane przez kompetentną władzę kościelną — a więc dekrety, nakazy czy reskrypty — w granicach przysługującej jej kompetencji, z zachowaniem przepisu kan. 76 § 1 KPK.
 
 **§ 2.** Członkowie Kościoła Domowego mają obowiązek stosować się do aktów administracyjnych wydanych wobec nich przez kompetentną władzę kościelną, z zachowaniem prawa do obrony i odwołania.
 
@@ -243,7 +245,7 @@
 
 **§ 2.** Nie podlegają dyspensie ustawy, o ile definiują to, co jest istotnie konstytutywne dla instytucji albo aktów prawnych (por. kan. 86 KPK).
 
-**Kan. 107 § 1.** Głowa Rodu jako biskup domowy może dyspensować wiernych wspólnoty domowej — ilekroć uzna to za pożyteczne dla ich duchowego dobra — od ustaw dyscyplinarnych partykularnych wydanych przez siebie dla diecezji domowej lub dla jej podwładnych, jednak nie od ustaw procesowych lub karnych ani od których dyspensa jest specjalnie zarezerwowana Stolicy Apostolskiej lub innej władzy (por. kan. 87 § 1 KPK, zastosowany analogicznie).
+**Kan. 107 § 1.** Głowa Rodu jako biskup domowy może dyspensować wiernych wspólnoty domowej — ilekroć uzna to za pożyteczne dla ich duchowego dobra — od ustaw dyscyplinarnych partykularnych wydanych przez siebie dla subdiecezji domowej lub dla jej podwładnych także w sposób rozważny od ustaw powszechnych, jednak nie od ustaw procesowych lub karnych ani od których dyspensa jest specjalnie zarezerwowana Stolicy Apostolskiej lub innej władzy (por. kan. 87 § 1 KPK, zastosowany analogicznie).
 
 **§ 2.** Głowa Rodu jako biskup domowy może dyspensować od ustaw domowych, a także, ilekroć uzna, że będzie to dla dobra wiernych wspólnoty domowej, od ustaw wydanych przez synod domowy (por. kan. 88 KPK, zastosowany analogicznie).
 
@@ -261,7 +263,7 @@
 
 **Kan. 113 § 1.** Kościół Domowy uznaje, że statuty w sensie właściwym oznaczają zarządzenia wydawane zgodnie z prawem w zespołach osób lub rzeczy, a określające ich cel, konstytucję, zarząd i sposoby działania (por. kan. 94 § 1 KPK).
 
-**§ 2.** Statutami Kościoła Domowego jako zespołu osób zobowiązane są tylko osoby będące jego członkami zgodnie z prawem (por. kan. 94 § 2 KPK).
+**§ 2.** Statutami Kościoła Domowego jako zespołu osób zobowiązane są tylko osoby będące jego członkami zgodnie z prawem, w tym członkami Kościola Domowego będącymi na stałe, długotrwale lub krotkotrwale na nawet chwilę (por. kan. 94 § 2 KPK).
 
 **§ 3.** Przepisy statutów Kościoła Domowego, ustanowione i promulgowane mocą władzy ustawodawczej Głowy Rodu, kierują się przepisami niniejszego Kanonu o ustawach (por. kan. 94 § 3 KPK).
 
@@ -305,11 +307,11 @@
 
 ## Tytuł VI: WŁADZA RZĄDZENIA W ODNIESIENIU DO PRAWA KOŚCIELNEGO
 
-**Kan. 117 § 1.** Kościół Domowy uznaje, że władza rządzenia, która jest w Kościele z Bożego ustanowienia i nazywana jest również władzą jurysdykcji, przysługuje w zakresie powszechnym Biskupowi Rzymskiemu i Kolegium Biskupów, a w zakresie partykularnym biskupom diecezjalnym i innym przełożonym kościelnym zgodnie z prawem (por. kan. 129 KPK).
+**Kan. 117 § 1.** Kościół Domowy uznaje, że władza rządzenia, która jest w Kościele z Bożego ustanowienia i nazywana jest również władzą jurysdykcji, przysługuje w zakresie powszechnym Biskupowi Rzymskiemu i Kolegium Biskupów, a w zakresie partykularnym biskupom diecezjalnym i innym przełożonym kościelnym w tym biskupowi subdiecezjalnemu Kościoła Domowego zgodnie z prawem (por. kan. 129 KPK).
 
-**§ 2.** Głowa Rodu jako biskup domowy, wyświęcony i przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie diecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów (por. kan. 5 § 2 KPK).
+**§ 2.** Głowa Rodu jako biskup domowy subdiecezjalny, wyświęcony Duchem Świętym i przyjęty lub nie przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie subdiecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów przez partykularny akt oddania się władzom kościola powszechnego (por. kan. 5 § 2 KPK).
 
-**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezjalny nieprzyjęty przez Biskupa Rzymskiego) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej i ustanowienia hierarchy subdiecezji macierzystej; rozróżnia się przy tym: patriarchat i patriarchę, których ustanawia wyłącznie Biskup Rzymu, oraz subdiecezję z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn).
+**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezjalny nieprzyjęty przez Biskupa Rzymskiego) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej w tym Triarchii Ojca z Nieba, Ducha Świętego i Syna Bożego i ustanowienia hierarchy subdiecezji macierzystej; dotyczy to także subdiecezji z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn).
 
 **§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
 
@@ -383,7 +385,7 @@
 
 **Kan. 132 § 1.** Kościół Domowy jako partykularna wspólnota Ludu Bożego uznaje i respektuje cały porządek prawny Kościoła Katolickiego, wyrażony w szczególności w:
 
-1° Kodeksie Prawa Kanonicznego z 1983 roku;
+1° Kodeksie Prawa Kanonicznego z 1983 roku i Kodeksu Kanonicznego Kościołów Wschodnich;
 
 2° Konstytucjach Apostolskich;
 
@@ -405,9 +407,9 @@
 
 **Kan. 133 § 1.** Kościół Domowy respektuje w szczególności następujące obszary prawa powszechnego:
 
-1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-1165 KPK);
+1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-1165 KPK) w interpretacji jaka wskazano w księgach kodeksu kanonicznego kosciola domowego ;
 
-2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, przedmiotów błogosławionych i pogrzebu kościelnego (kan. 834-839 KPK);
+2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliób błogosławienia osob, przedmiotow i miejsc oraz pogrzebu kościelnego a takze liturgi zycia będącej liturgia godzin (kan. 834-839 KPK);
 
 3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 3 KPK);
 
@@ -453,19 +455,19 @@
 
 **Kan. 136 § 1.** Kościół Domowy, znajdujący się na terytorium określonej diecezji, respektuje prawo partykularne tej diecezji w zakresie, w jakim dotyczy ono:
 
-1° sprawowania sakramentów i przedmiotów błogosławionych;
+1° sprawowania sakramentów i salramentaliow blogosławienia osób, przedmiotow i miejsc z uwzględnieniem interpretacji wymienionej w KKKD;
 
 2° dyscypliny kościelnej;
 
 3° formacji i nauczania;
 
-4° kultu Bożego i roku liturgicznego;
+4° kultu Bożego i roku liturgicznego w tym prawa do sprawowania liturgii obrządku domowego Pawlowego, Marii Magdaleny, Tomaszowego i liturgii zycia będacej liturgią godzin;
 
 5° zarządu dobrami kościelnymi;
 
 6° spraw małżeńskich i rodzinnych.
 
-**§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym Kościoła Domowego, Głowa Rodu jako biskup domowy winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła.
+**§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym subdiecezji Kościoła Domowego, Głowa Rodu jako biskup domowy winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła.
 
 **Kan. 137 § 1.** Kościół Domowy respektuje zarządzenia biskupa diecezjalnego dotyczące:
 
@@ -483,7 +485,7 @@
 
 7° zarządzeń dotyczących stowarzyszeń wiernych.
 
-**§ 2.** Głowa Rodu jako biskup domowy ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym Kościoła Domowego.
+**§ 2.** Głowa Rodu jako biskup domowy ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym subdiecezji Kościoła Domowego.
 
 **Kan. 138.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 8 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
 
@@ -513,7 +515,7 @@
 
 **Kan. 143.** W przypadku wątpliwości co do stosowania prawa powszechnego w Kościele Domowym, Głowa Rodu jako biskup domowy winien:
 
-1° zwrócić się o wyjaśnienie do kompetentnej władzy kościelnej;
+1° zwrócić się o wyjaśnienie do kompetentnej władzy kościelnej w tym małżonki i potomka;
 
 2° stosować ogólną zasadę, że w wątpliwości prawnej ustawy nie obowiązują (kan. 14 KPK);
 
