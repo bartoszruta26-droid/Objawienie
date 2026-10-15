@@ -426,7 +426,7 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 **Kan. 369 § 1.** Archiwa, księgi, dokumenty, kroniki, rejestry, nagrania, dzienniki, akta osobowe, rachunki sumienia, dokumenty Rodu oraz materiały duszpasterskie pozostają we władaniu ochronnym biskupa tytularnego subdiecezjalnego lub oddalonego biskupa.
 
-**§ 2.** Dostęp do archiwów mogą mieć tylko osoby upoważnione przez biskupa, Triarchię Domową lub, w sprawach zastrzeżonych, Biskupa Rzymskiego.
+**§ 2.** Dostęp do archiwów mogą mieć tylko osoby upoważnione przez biskupa subdiecezjalnego tej subdiecezji, Triarchię Domową lub, w sprawach zastrzeżonych, Biskupa Rzymskiego.
 
 **§ 3.** Wyjątek stanowią przypadki, w których prawo Boże, naturalne lub państwowe nakazuje ujawnienie informacji dla ochrony życia, zdrowia, wolności, godności dziecka lub osoby bezbronnej. W takim przypadku ujawnienie musi być proporcjonalne, konieczne i ograniczone do minimum niezbędnego.
 
@@ -444,11 +444,11 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 **Kan. 372 § 1.** Jeżeli oddalony biskup tworzy lub przyjmuje wspólnoty poza strukturą Kościoła Katolickiego, wspólnoty te nie mogą być nazywane „katolickimi” bez zgody kompetentnej władzy kościelnej, z zachowaniem kan. 300 § 1 KPK i zasad niniejszego Kanonu.
 
-**§ 2.** Mogą one jednak posługiwać się nazwą „Kościół Domowy”, „subdiecezja domowa”, „Ród”, „wspólnota Marii Magdaleny”, „wspólnota Pawłowa”, „wspólnota Tomaszowa” lub innymi nazwami przyjętymi przez biskupa, o ile nie wprowadzają w błąd co do pełnej komunii z Kościołem Katolickim.
+**§ 2.** Mogą one jednak posługiwać się nazwą „Kościół Domowy”, „subdiecezja domowa”, „Ród”, „wspólnota Marii Magdaleny”, „wspólnota Pawłowa”, „wspólnota Tomaszowa” lub innymi nazwami przyjętymi przez biskupa, o ile nie wprowadzają w błąd co do pełnej komunii z Kościołem Katolickim jednak pozostając w prawie pełnej komunii z Kościołem Katolickim.
 
 **§ 3.** Obrządek domowy może być zachowany i praktykowany przez takie wspólnoty, jeśli biskup wyrazi na to zgodę lub jeśli stanowi to część jego dziedzictwa duchowego i intelektualnego.
 
-**Kan. 373 § 1.** W razie sporu dotyczącego władania dobrami doczesnymi, duchowymi lub intelektualnymi po oddaleniu, pierwszeństwo w rozstrzyganiu przysługuje Biskupowi Rzymskiemu.
+**Kan. 373 § 1.** W razie sporu dotyczącego władania dobrami subdiecezji: doczesnymi, duchowymi lub intelektualnymi po oddaleniu, pierwszeństwo w rozstrzyganiu przysługuje woli Triarchi Pańskiej rozpoznanej przez biskupa tej subdiecezji.
 
 **§ 2.** Do czasu rozstrzygnięcia przez Stolicę Apostolską, dobra pozostają we władaniu oddalonego biskupa, z zakazem ich niszczenia, rozpraszania, profanacji lub bezprawnego zajmowania.
 
