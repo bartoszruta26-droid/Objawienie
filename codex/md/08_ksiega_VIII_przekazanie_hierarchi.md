@@ -24,13 +24,13 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 2° potwierdzić wybór hierarchy związku subdiecezjatów albo odmówić potwierdzenia z słusznej i poważnej przyczyny;
 
-3° oddalić hierarchę związku ze wspólnoty Kościoła katolickiego albo pozbawić go urzędu hierarchy związku subdiecezjatów;
+3° oddalić hierarchę związku albo przedstawić synodowi subdiecezjonalnemu przyczyny aby pozbawić go urzędu hierarchy związku subdiecezjatów;
 
-4° wyznaczyć administratora związku subdiecezjatów w nadzwyczajnych okolicznościach;
+4° wyznaczyć administratora związku subdiecezjatów w nadzwyczajnych okolicznościach za zgodą synodu subdiecezjalnego;
 
 5° rozstrzygać spory dotyczące sukcesji urzędu hierarchy związku subdiecezjatów.
 
-**§ 1a.** W stosunku do patriarchatu i patriarchy, których ustanowienie zastrzeżone jest Biskupowi Rzymskiemu, może on ponadto: zatwierdzić, zmienić, zawiesić lub znieść patriarchat oraz ustanowić patriarchę albo go od urzędu odstąpić; władzy tej nie rozciąga się na związek subdiecezjatów ani na subdiecezje z hierarchą biskupa, które — jak stanowi § 1 1° — pozostają w kompetencji hierarchy subdiecezji. Zmianę, zawieszenie lub zniesienie związku subdiecezjatów Biskup Rzymski może jedynie zastrzec lub nakazać z poważnej przyczyny, po wysłuchaniu synodu biskupów subdiecezjalnych.
+**§ 1a.** W stosunku do patriarchatu i patriarchy, których ustanowienie zastrzeżone jest Biskupowi Rzymskiemu, może on ponadto: zatwierdzić, zmienić, zawiesić lub znieść patriarchat oraz ustanowić patriarchę albo go od urzędu odstąpić; władzy tej nie rozciąga się na związek subdiecezjatów ani na subdiecezje z hierarchą biskupa, które — jak stanowi § 1 1° — pozostają w kompetencji hierarchy subdiecezji. Zmianę, zawieszenie lub zniesienie związku subdiecezjatów Biskup Rzymski może jedynie zastrzec lub nakazać z poważnej przyczyny, po wysłuchaniu synodu biskupów subdiecezjalnych i za ich zgodą.
 
 **§ 2.** Żaden synod związku subdiecezjatów, biskup tytularny subdiecezjalny, Małżonka, Potomek, Ród, organizacja cywilna ani władza świecka nie może ważnie ustanowić, przenieść, zawłaszczyć ani przekazać hierarcha związku subdiecezjatów w sposób sprzeczny z kompetencją hierarchy subdiecezji do ustanawiania subdiecezji oraz z zastrzeżoną Biskupowi Rzymskiemu wyłączną kompetencją co do zatwierdzenia, potwierdzenia i oddalenia, określoną w § 1 i § 1a.
 
@@ -102,17 +102,17 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 1° śmierci hierarchy związku subdiecezjatów;
 
-2° rezygnacji przyjętej przez Biskupa Rzymskiego;
+2° rezygnacji przyjętej przez Biskupa Rzymskiego lub przy jej odrzuceniu na ręce sunodu subdiecezjonalnego;
 
-3° oddalenia hierarchy związku subdiecezjatów przez Biskupa Rzymskiego;
+3° oddalenia hierarchy związku subdiecezjatów przez Biskupa Rzymskiego przy zgodzie synodu subdiecezjonalnego;
 
 4° trwałej przeszkody fizycznej lub psychicznej uniemożliwiającej sprawowanie urzędu, stwierdzonej zgodnie z prawem;
 
-5° utraty komunii z Kościołem katolickim na mocy aktu Biskupa Rzymskiego;
+5° utraty komunii z Kościołem katolickim na mocy aktu Biskupa Rzymskiego pptwierdzonego przez synod subdiecezjalny;
 
 6° przeniesienia hierarchy związku subdiecezjatów na inny urząd za zgodą Biskupa Rzymskiego;
 
-7° zniesienia hierarcha związku subdiecezjatów przez Biskupa Rzymskiego.
+7° zniesienia hierarcha związku subdiecezjatów przez Biskupa Rzymskiego za zgodą synodu subdiecezjonalnego.
 
 **§ 2.** Wakans nie otwiera prawa do samowolnego zajęcia urzędu przez żadną osobę, ani przez Małżonkę, ani przez Potomka, ani przez biskupa tytularnego subdiecezjalnego, ani przez grupę rodową.
 
@@ -218,9 +218,9 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 1° przyjął ważny chrzest w Kościele katolickim lub został do niego ważnie przyjęty;
 
-2° pozostaje w komunii z Biskupem Rzymskim i Kościołem powszechnym;
+2° pozostaje w komunii z Biskupem Rzymskim i Kościołem powszechnym, nawet, jezeli Biskup Rzymu i Kościół powszechny nie pozostaje w komunii z nim :) ;
 
-3° posiada ważnie przyjęte święcenia biskupie albo — za zgodą Biskupa Rzymskiego — przyrzeka je przyjąć przed objęciem urzędu;
+3° posiada ważnie przyjęte święcenia biskupie uświęcone przez Ducha Świętego przyjęte lub nie przyjęte przez Biskupa Rzymu albo — za zgodą Biskupa Rzymskiego — przyrzeka je przyjąć przed objęciem urzędu;
 
 4° ukończył trzydziesty piąty rok życia, chyba że Biskup Rzymski udzieli dyspensy z słusznej przyczyny;
 
@@ -244,7 +244,7 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 1° publicznie odpadł od wiary katolickiej przez herezję, schizmę lub apostazję;
 
-2° zerwał komunię z Biskupem Rzymskim bez przebaczenia i pojednania;
+2° on sam zerwał komunię z Biskupem Rzymskim bez przebaczenia i pojednania;
 
 3° dopuścił się ciężkiego przestępstwa przeciwko życiu, godności, wolności, czystości, sprawiedliwości lub rodzinie;
 
@@ -324,11 +324,11 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 **§ 3.** Przyjęcie wyboru nie oznacza jeszcze objęcia hierarcha związku subdiecezjatów, jeśli wymagane jest potwierdzenie Biskupa Rzymskiego, święcenia biskupie, wyznanie wiary, przysięga albo kanoniczne posiadanie urzędu.
 
-**Kan. 401 § 1.** Wybór hierarchy związku podlega potwierdzeniu Biskupa Rzymskiego albo władzy przez niego upoważnionej.
+**Kan. 401 § 1.** Wybór hierarchy związku podlega poinformowaniu Biskupa Rzymskiego albo władzy przez niego upoważnionej. 
 
 **§ 2.** Do czasu potwierdzenia wybrany nie może wykonywać władzy hierarchy związku subdiecezjatów, chyba że Biskup Rzymski udzieli mu tymczasowego upoważnienia.
 
-**§ 3.** Jeśli Biskup Rzymski odmówi potwierdzenia, wybór nie osiąga skutku, a synod winien dokonać nowego wyboru albo zastosować się do poleceń Stolicy Apostolskiej.
+**§ 3.** Jeśli Biskup Rzymski odmówi potwierdzenia, wybór także osiąga skutek, a synod nie winien dokonać nowego wyboru. 
 
 **Kan. 402.** Przed objęciem urzędu wybrany hierarcha związku subdiecezjatów winien:
 
@@ -340,11 +340,11 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 4° złożyć przyrzeczenie ochrony Prawa Bożego, Naturalnego, praw człowieka, obrządku domowego oraz praw subdiecezji, Małżonek i Potomstwa.
 
-**Kan. 403 § 1.** Kanoniczne objęcie urzędu hierarchy związku subdiecezjatów następuje przez instalację w kościele katedralnym subdiecezji macierzystej, w kaplicy domowej hierarchy związku albo w innym miejscu wskazanym przez synod i zatwierdzonym przez Biskupa Rzymskiego.
+**Kan. 403 § 1.** Kanoniczne objęcie urzędu hierarchy związku subdiecezjatów następuje przez instalację w kościele katedralnym subdiecezji macierzystej, w kaplicy domowej hierarchy związku albo w innym miejscu wskazanym przez synod.
 
 **§ 2.** Instalacja winna być dokonana w ciągu dwóch miesięcy od potwierdzenia wyboru, chyba że zachodzi słuszna przeszkoda.
 
-**§ 3.** Podczas instalacji nowy hierarcha związku subdiecezjatów obejmuje katedrę, przyjmuje pastorał lub inny znak służby, otrzymuje księgi urzędowe, pieczęć, insygnia urzędu oraz dokonuje wyznania wiary i przysięgi.
+**§ 3.** Podczas instalacji nowy hierarcha związku subdiecezjatów obejmuje instalację, przyjmuje pastorał lub inny znak służby, otrzymuje księgi urzędowe, pieczęć, insygnia urzędu oraz dokonuje wyznania wiary i przysięgi.
 
 ---
 
@@ -352,7 +352,7 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 **Kan. 404 § 1.** Przekazanie urzędu hierarchy związku subdiecezjatów obejmuje następujące dobra urzędu:
 
-1° władzę pasterską nad związkiem subdiecezjatów w granicach określonych przez Biskupa Rzymskiego i niniejszy Kanon;
+1° władzę pasterską nad związkiem subdiecezjatów w granicach określonych przez niniejszy Kanon;
 
 2° prawo zwoływania synodu związku subdiecezjatów;
 
@@ -414,7 +414,7 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 5° moc — dla wytrwałości w służbie;
 
-6° wiedzę — dla twórczej wierności tradycji;
+6° dociekliwość — dla twórczej wierności tradycji;
 
 7° cierpliwość — dla wierności w czasie.
 
@@ -599,11 +599,11 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 3.** Nowy hierarcha związku subdiecezjatów nie może:
 
-1° usuwać biskupa tytularnego subdiecezjalnego bez aktu Biskupa Rzymskiego;
+1° usuwać biskupa tytularnego subdiecezjalnego;
 
-2° zabierać majątku subdiecezji domowej bez ważnej przyczyny i procedury;
+2° zabierać majątku subdiecezji domowej;
 
-3° znosić obrządku domowego bez zgody Biskupa Rzymskiego i wspólnoty;
+3° znosić obrządku domowego bez zgody wspólnoty;
 
 4° narzucać zmian liturgicznych sprzecznych z Prawem Bożym, Naturalnym lub prawami człowieka;
 
@@ -643,17 +643,17 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 **§ 2.** Akty przygotowawcze dokonane przez zmarłego wybranego nie rodzą władzy hierarchy związku subdiecezjatów.
 
-**Kan. 421 § 1.** Hierarcha Związku Subdiecezjatów może złożyć rezygnację z urzędu Biskupowi Rzymskiemu. Rezygnacja osiąga skutek dopiero po jej przyjęciu przez Stolicę Apostolską.
+**Kan. 421 § 1.** Hierarcha Związku Subdiecezjatów może złożyć rezygnację z urzędu Biskupowi Rzymskiemu i biskupom wspólnoty subdiecezjalnej. Rezygnacja osiąga skutek dopiero po jej przyjęciu przez Stolicę Apostolską lub synod subdiecezjalny.
 
 **§ 2.** Do czasu przyjęcia rezygnacji hierarcha związku subdiecezjatów zachowuje urząd i obowiązki, chyba że Biskup Rzymski postanowi inaczej.
 
 **§ 3.** Rezygnacja nie może być wymuszona przez synod, Ród, Małżonkę, Potomstwo, władzę cywilną ani strach przed karą.
 
-**Kan. 422 § 1.** Jeśli Biskup Rzymski oddali hierarchę związku, przekazanie urzędu następuje dopiero po ogłoszeniu aktu oddalenia i zarządzaniu wakansu.
+**Kan. 422 § 1.** Jeśli Biskup Rzymski oddali hierarchę związku, przekazanie urzędu następuje dopiero po zgodzie synodu subdiecezjalnego i ogłoszeniu aktu oddalenia i zarządzaniu wakansu.
 
 **§ 2.** Oddalony hierarcha związku subdiecezjatów nie może przekazywać urzędu żadnej osobie jako własnej decyzji.
 
-**§ 3.** Następcę wybiera synod związku subdiecezjatów zgodnie z niniejszą Księgą, z zachowaniem prawa Biskupa Rzymskiego do potwierdzenia lub wyznaczenia administratora.
+**§ 3.** Następcę wybiera synod związku subdiecezjatów zgodnie z niniejszą Księgą, z zachowaniem prawa Biskupa Rzymskiego do potwierdzenia lub wyznaczenia administratora zatwierdzonego przz synod subdiecezjalny.
 
 **§ 4.** Dobra osobiste, duchowe i intelektualne oddalonego hierarchy związku pozostają przy nim zgodnie z Księgą VII.
 
@@ -667,13 +667,13 @@ Niech mi pomoże Bóg Wszechmogący i Jego łaska, przez Chrystusa Pana naszego,
 
 3° zatwierdzić kandydata spoza synodu;
 
-4° zawiesić związek subdiecezjatów;
+4° zawiesić związek subdiecezjatów za jednogłośną zgodą synodu subdiecezjatów;
 
-5° połączyć subdiecezje domowe z inną strukturą kościelną.
+5° połączyć subdiecezje domowe z inną strukturą kościelną za zgodą każdej subdiecezji z osobna.
 
 **Kan. 424.** Jeśli hierarcha związku subdiecezjatów zostaje przeniesiony na inny urząd kościelny za zgodą Biskupa Rzymskiego, związek subdiecezjatów wakuje z chwilą kanonicznego objęcia nowego urzędu, chyba że Stolica Apostolska postanowi inaczej.
 
-**Kan. 425.** Biskup Rzymski może połączyć związek subdiecezjatów z inną strukturą kościelną, zawiesić go lub znieść; sam jednak akt ustanowienia związku subdiecezjatów oraz subdiecezji z hierarchą biskupa należy do hierarchy subdiecezji (kan. 381 § 1 1°). W takim przypadku przepisy niniejszej Księgi stosuje się odpowiednio do nowego porządku prawnego.
+**Kan. 425.** Biskup Rzymski może połączyć związek subdiecezjatów z inną strukturą kościelną, zawiesić go lub znieść za zgodą synodu subdiecezjatów; sam jednak akt ustanowienia związku subdiecezjatów oraz subdiecezji z hierarchą biskupa należy do hierarchy subdiecezji (kan. 381 § 1 1°). W takim przypadku przepisy niniejszej Księgi stosuje się odpowiednio do nowego porządku prawnego.
 
 ---
 
