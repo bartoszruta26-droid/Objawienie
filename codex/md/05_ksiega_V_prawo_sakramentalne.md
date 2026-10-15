@@ -24,6 +24,8 @@ Podstawą teologiczną niniejszych przepisów jest:
 
 7° Trzy obrządki domowe: Kościół Rodzinny Marii Magdaleny, Kościół Ducha Świętego Pawłowy i Kościół Osobowy Tomaszowy, które stanowią pełnię życia duchowego wspólnoty domowej.
 
+8° przysięga małżeńska, w ktorej mąż nie może być przykrym dla żony a żona ma w obowiązku szanować męża
+
 Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa w Kościele Powszechnym, lecz rozwijają teologię Kościoła Domowego jako miejsca, w którym powszechne kapłaństwo wiernych znajduje swój najgłębszy i najpełniejszy wyraz w codziennym życiu rodziny.
 
 ---
@@ -98,7 +100,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 **Kan. 293 § 1.** Małżonka w obecności Głowy Rodu wspomaga go w szafarstwie świętym jako współszafarka przedmiotów błogosławionych i błogosławieństw. Wspomaganie to obejmuje:
 
-1° przygotowanie materii przedmiotów błogosławionych (wody, soli, chleba, popiołu, oleju, świecy, ziemi);
+1° przygotowanie materii osób, przedmiotów i mijsc błogosławionych;
 
 2° udział w obrzędach błogosławieństw przez odpowiedź, gest i modlitwę;
 
@@ -208,7 +210,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 2° prowadzenie modlitwy wspólnotowej i lectio divina;
 
-3° błogosławienie przedmiotów błogosławionych rzeczowych zgodnie z zatwierdzonymi formułami;
+3° błogosławienie osób, przedmiotów i miejsc zgodnie z zatwierdzonymi formułami;
 
 4° sprawowanie obrzędów roku liturgicznego (Adwent, Boże Narodzenie, Wielki Post, Triduum, Okres Wielkanocny);
 
@@ -230,7 +232,7 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 1° funkcję lektora i kantora podczas celebracji;
 
-2° przygotowanie materii przedmiotów błogosławionych i przestrzeni kultu;
+2° przygotowanie materii osób, przedmiotów i miejsc błogosławionych i przestrzeni kultu;
 
 3° service liturgiczny (ministratura);
 
@@ -266,9 +268,9 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 3° reprezentowanie wspólnoty wobec rówieśników i w środowisku;
 
-4° uczestnictwo w posiedzeniach Triarchii Domowej z głosem doradczym (po ukończeniu trzynastu lat);
+4° uczestnictwo w posiedzeniach Triarchii Domowej z głosem doradczym po ukończeniu wieku rozumu i głosem decyzyjnym od 13 lat.;
 
-5° gotowość do przejęcia funkcji na zasadach określonych w kan. 303 § 1, 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu urzędu hierarchy związku subdiecezjatów — przy czym patriarchat i patriarchę ustanawia Biskup Rzymu, natomiast subdiecezję ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
+5° gotowość do przejęcia funkcji na zasadach określonych w kan. 303 § 1, 4° oraz, w razie opróżnienia urzędu Głowy Rodu, zgodnie z przepisami Księgi VIII o przekazaniu urzędu hierarchy związku subdiecezjatów — przy czym subdiecezję ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
 
 ---
 
@@ -309,6 +311,8 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 3° od piętnastego roku życia: prowadzenie rozważań formacyjnych, katecheza młodszych, opieka nad przedmiotami błogosławionymi;
 
 4° po osiągnięciu pełnoletności: pełne uczestnictwo w decyzjach Triarchii Domowej; możliwość przejęcia funkcji zgodnie z przepisami kan. 299 § 2 o granicach zastępstwa (stosowanymi odpowiednio) oraz przepisami Księgi VIII o przekazaniu urzędu hierarchy związku subdiecezjatów — przy czym patriarchat i patriarchę ustanawia Biskup Rzymu, natomiast subdiecezję ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
+
+5° w sytuacji wyższej, beznadziejnej wedle prawa Bożego i osobistych relacji z Bogiem potomek posiada pelnię praw w Kościele Domowym
 
 ---
 
@@ -390,9 +394,9 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 4° cała Triarchia czyni znak krzyża na rozpoczęcie i zakończenie;
 
-5° w razie nieobecności kogokolwiek celebracja odbywa się w zmniejszonym składzie, z adnotacją w kronice.
+5° w razie nieobecności kogokolwiek celebracja odbywa się w zmniejszonym składzie.
 
-**Kan. 311.** W sprawowaniu przedmiotów błogosławionych Triarchia działa wspólnie:
+**Kan. 311.** W sprawowaniu osob, uczynkow, przedmiotów i miejsc błogosławionych Triarchia działa wspólnie:
 
 1° Głowa Rodu sprawuje egzorcyzm błogosławieństwa i modlitwę poświęcenia;
 
@@ -400,9 +404,9 @@ Niniejsze przepisy nie zastępują ani nie umniejszają sakramentu kapłaństwa 
 
 3° Potomstwo przyjmuje błogosławieństwo i uczestniczy w pokropieniu;
 
-4° każdy członek Triarchii może otrzymać własne przedmiotów błogosławionych ku budowaniu wspólnoty;
+4° każdy członek Triarchii może otrzymać własne błogosławieństwa osób, uczynków, przedmiotów i miejsc błogosławionych ku budowaniu wspólnoty;
 
-5° zaniedbanie wspólnoty przy sprawowaniu przedmiotów błogosławionych wymaga napomnienia, nie kary.
+5° zaniedbanie wspólnoty przy sprawowaniu osób, uczynkow, przedmiotów i miejsc błogosławionych wymaga napomnienia, nie kary.
 
 ---
 
