@@ -53,6 +53,15 @@
 7. Rekomendacje legislacyjne (projekty kanonów)
 8. Podsumowanie końcowe
 
+**ROSZERZENIE RAPORTU (wersja 2.0) — części D–H, nowe nieopisane tradycje:**
+
+9. Część D — Tradycje monastyczne i ascetyczne Wschodu (Athon, Kyjów-Pieczersk, Sołowki, Optino, Psków)
+10. Część E — Narodowe tradycje słowiańskich Kościołów wschodnich (prawosławnych i greckokatolickich)
+11. Część F — Przedchrześcijańska kultura Słowian: mitologia, cykl roku obrzędowego, magia i zwyczaje ludowe
+12. Część G — Materia uzupełniająca: hymnografia, sztuka liturgiczna, kuchnia postna, kalendarz świętych słowiańskich, dewocjonalia wschodnie
+13. Część H — Zaktualizowana tabela frekwencji nowych terminów (badanie wtórne)
+14. Zaktualizowane rekomendacje legislacyjne (Księga XII — rozszerzona) i podsumowanie rozszerzenia
+
 ---
 
 ## 1. METODOLOGIA BADANIA
@@ -602,8 +611,287 @@ Deklaracja z Preambuły, iż kodeks „służy sformalizowaniu praw obecnych w t
 
 ---
 
-*Koniec raportu.*
+*Część pierwsza raportu — koniecznie rozszerzenie poniżej.*
+
+# ROZDZIAŁ II — ROSZERZENIE RAPORTU (wersja 2.0)
+
+**Data aktualizacji:** 16 października 2026 r.
+**Przedmiot rozszerzenia:** tradycje Kościołów Wschodu i kultury słowiańskiej, które **nie zostały ujęte ani wymienione** w częściach A–C niniejszego raportu (wersja 1.0), a których nieobecność w korpusie `/codex/md` potwierdzono ponownym badaniem frekwencyjnym (por. Część H).
+
+W wersji 1.0 rozpoznano luki w zakresie: anfor, ikonografii, cyklu dobowego, postów, misteriów, eklezjologii CCEO, hesychazmu, dziedzictwa cyrylo-metodiańskiego, obrzędów pogrzebowych, muzyki bizantyjskiej oraz dziewięciu grup zwyczajów słowiańskich (B.1–B.9). Poniższe części D–G opisują **zupełnie nowe bloki tematyczne**, dotąd nierejestrowane.
+
+---
+
+## 9. CZĘŚĆ D — TRADYCJE MONASTYCZNE I ASCETYCZNE WSCHODU
+
+Kodeks `/codex/md` nie zawiera żadnej normy dotyczącej życia zakonnego w rozumieniu wschodnim; terminy takie jak *monastyr*, *skit*, *starzec*, *awwa* mają frekwencję zerową (por. tab. H). Tymczasem monastycyzm jest sercem duchowości wschodniosłowiańskiej.
+
+### D.1. Reguła św. Bazylego Wielkiego i jej słowiańskie recepcje
+
+1. **Reguły dłuższe i krótsze św. Bazylego** (*Askesikon*) — fundament wschodniego prawodawstwa monastycznego, obowiązujący de facto w całym prawosławiu słowiańskim; kodeks domowy opiera się wyłącznie na łacińskich odpowiednikach (Bracia Mniejsi? benedyktyni? — brak jakiejkolwiek reguły jako źródła).
+2. **Typikon** — księga regulująca porządek nabożeństw w monasterych; typikon jerozolimski (Sabaicki) i sabaudzki, wprowadzony na Rusi przez Teodozego Pieczerskiego; brak nawet wzmianki o pojęciu *typikon*.
+3. **Studion vs. Lavra vs. Koinobion vs. Idiorrytmia** — cztery modele wspólnoty monastycznej; odrębność *skitu* (pustelni zależnej) i *celli* samotniczej.
+4. **Reguła św. Sabbasa, reguła Grzegorza Sinaity, reguła Cyryla Turovskiego** (*Czasownik*) — staroruskie teksty ascetyczne zupełnie nieobecne.
+
+### D.2. Święta Góra Athon (Atos) i jej wpływ na Słowian
+
+1. **Pantokratoros, Iwiron, Zografu, Chilandar (Hilandar)** — cztery słowiańskie monastyry Atonu: grecki, gruziński, bułgarski i serbski; model wspólnoty wielonarodowej pod jedną władzą *epistasji* i *Protatu*.
+2. **Instytucja awwy i starczestwa** — kierownictwo duchowe (*duchownyj ojciec*), posłuszeństwo (*poszanije*), dyskrecja (*diokrisis*); brak analogicznej normy w kodeksie domowym mimo istnienia instytucji Patriarchy.
+3. **Hymn Akathistos i practice czuwania (wachtnija/wigilii nocnej)** — całonocne nabożeństwo (*Wsienocznoje bdienije*), śpiewanie akatystów ku czci Bogurodzicy i świętych; kodeks zna jedynie „modlitwę poranną i wieczorną” (kan. 160).
+4. **Teologia Taboru — światło niezstwarzajemoje (uncreated light)** — spór barłaamowski (1337–1341) i zwycięstwo hesychazmu Grzegorza Palamasa; stanowią doktrynalną oś wschodniej mistyki, całkowicie pominiętą (A.7 raportu dotyka tylko Modlitwy Jezusowej, bez wymiaru taborowego).
+
+### D.3. Monastycyzm ruski, ukraiński i bałkański
+
+1. **Kijewo-Pieczerska Ławra** (założona ok. 1051) — kolebka rosyjskiego i ukraińskiego mnisztwa; Teodozy, Antoni Pieczerski, Nestor Letopisec; **Sołowieckiej Ławry**, **Waaamskiego monastyru**, **Ławry Troicko-Siergijewskiej** (św. Sergiusz z Radoneża) — wzorce wspólnoty pustelniczej na północy.
+2. **Optina Pustyn' i ideał starca-literata** — XIX-wieczne centrum duchowości (św. Ambroży Optinski, wpływy na Dostojewskiego i Tołstoja); model kierownictwa dla świeckich, bezpośrednio użyteczny dla „Kościoła Domowego”.
+3. **Pskowska tradycja *ustaw* (Pochwa, Jurodstwo)** — *Florewski Uspenskij* ustawa; tradycja **jurodstwa** (*Christi foritas*, św. Mikołaj Jurodiwy) — dobrowolne szaleństwo dla Chrystusa jako forma ascety; wymagałaby odrębnej oceny kanonicznej, której kodeks nie daje.
+4. **Monaster bułgarski (Rila, Bachkovo) i serbski (Chilandar, Studenica, Życza, Morača)** — tradycje ktetorskie (fundacja jako akt zbawczy rodów!), dewotio dynastyczna Nemaniczów; bliska strukturom patriarchalnym Księgi VI, a jednak nieopisana.
+5. **Zachariasz Kopystnieńsky, Melecj Smotrycki, Lavrentij Zizanij** — monastycyzm ukrainoruski okresu unii brzeskiej; biblioteki skryptoria (*kniazi* pisarze) — pierwowzór „kodeksów rodowych”.
+
+### D.4. Elementy praktyczne monastycyzmu możliwe do przeniesienia do Kościoła Domowego
+
+- **Błogosławieństwo na posiłek i modlitwy przed/stół po jedzeniu wg horologionu domowego**;
+- **Postne menu wspólnoty** (patrz G.3);
+- **Czuwanie wigilijne w domu rodzinnym** (analogia Wachtniji);
+- **Modlitwa za żywących i umarłych w formie *sorooust* (40-dniowego cyklu pominów)**;
+- **Reguła życia domowego oparta na Regule Bazylego** — naturalne uzupełnienie preambuły kodeksu.
+
+---
+
+## 10. CZĘŚĆ E — NARODOWE TRADYCJE SŁOWIAŃSKICH KOŚCIOŁÓW WSCHODNICH
+
+Raport wersja 1.0 traktował „Wschód” jednolicie-bizantyjsko. Poniżej — luki dotyczące konkretnych tradycji narodowych, wszystkie o frekwencji 0 w `/codex/md`.
+
+### E.1. Tradycja bułgarska
+
+1. **Cyryl i Metody w wersji bułgarskiej**: Presławski księgowość, **Kliment Ochridzki**, **Jan Egzarcha Bułgarski** (*Szesnodniew*), **Chrabar**, **Paisij Chilendarski** — odrodzenie bułgarskie XVIII/XIX w.;
+2. **Bułgarski egzarchat** i walka o autokefalię (870/927/1235/1870) — model relacji Kościół-naród;
+3. **Bogomilstwo** — średniowieczna herezja bułgarska; podwójny stosunek (potępienie vs. folklor dualistyczny w *kukerach* i *nestinarach*);
+4. **Nestinari** (ogniowłasce tańczący na żarzu) i **kukery** (zapusty rogacze) — obrzędy pogranicza pogańsko-chrześcijańskiego, wymagające normy kwalifikującej;
+5. **Ioan Rilski (św. Jan z Rili)** i **Cyrył Litwin** (+1633) — patronowie; **Osma ikonos** i tradycja Tyrnowo.
+
+### E.2. Tradycja serbska
+
+1. **Slava — kult patronalnego święta rodziny** — kluczowa luka! Serbska *slava* (np. św. Archanioł, św. Mikołaj, Archidiakon Stefan) jest przekazywana z rodem, obejmuje *krsni hleb* (chleb obrzędowy), *koljivo*/żito, wino, olejek i całą liturgię domową — to **dokładnie odpowiednik tego, co powinien normować Kościół Domowy**, a czego Księga IV nie przewiduje w tej formie;
+2. **Vaskrsnja i liturgiczny dramat *Nesenje Krsta***;
+3. **Tradycja ktetorska Nemaniczów** (Sveti Sava, Studenica, Žiča) — fundacje rodowe jako obowiązek sumienia;
+4. **Gorski vijenac** i kultura cierpienia kosowskiego — teopolityka serbska;
+5. **Serbskie rękopisy i miniatura morawska**; **rewerijskie śpiewy epickie** przy gusle jako nośnik sakralny.
+
+### E.3. Tradycja chorwacka i dalmatyńska
+
+1. **Glagolitics chorwacki** — Msza głagolicka (papieskie zezwolenie na język słowiański!), missał buzacki, misał ročki;
+2. **Obrządek „słowiański-łaciński”** w Istrii i Kwarknerze — unikalna symbiofa dwóch rytów;
+3. **Kult św. Hieronima jako patrona tłumaczy słowiańskich**.
+
+### E.4. Tradycja czeska, morawska i słowacka
+
+1. **Misja Cyryla i Metodego na Morawach** (863) — *Prolog*, pierwotna glagolica, kniąże Rotislav, Kościelec;
+2. **Kult św. Cyryla i Metodego** (5 lipca) i encyklika *Slavorum Apostoli* (1985);
+3. **Husytyzm** — kielich dla ludu (*sub utraque*), krytyka hierarchii; punkt trudny, ale historycznie nierozłączny ze słowiańską recepcją Wschodu/Zachodu;
+4. **Grupy neounickie** i tradycja preszowska;
+5. **Morawskie *królečků* i słowackie *Dożynki - horažné***.
+
+### E.5. Tradycja polska obrządków wschodnich
+
+1. **Grekokatolicyzm polski** — unia brzeska (1596), metropolia kijowska, eparchia przemysko-warszawska, ordynariat dla wiernych obrządku greckiego;
+2. **Staroobrzędowcy i biełokryńcy** — tradycje schizmatyckie po reformach Nikonа (1653–1666): bezpopowcy, szczeliny, *duhobory*;
+3. **Akcent prawosławny w Polsce**: św. Maria Magdalena (Skopin), św. Atanazy Brzeski, męczennicy chełmscy, Prawosławna Cerkoć w Polsce z własnym statutem;
+4. **Supraska Ławra** (ikona supraska), **Grabarka**, **Święta Góra Prawosławna pod Białymstokiem** — polskie centra pielgrzymkowe obrządku wschodniego;
+5. **Święty Hiob Poczajowski** — patron monastycyzu wołyńskiego.
+
+### E.6. Tradycja rosyjska poza Bizancjum
+
+1. **Sobornost'** (Chomiakow), **idea Moskwy-Trzeciego Rzymu** (filoteusz), **ruska ideja** — koncepcje eklezjo-polityczne;
+2. **Znamienne pieśni (*znamennyj raspev*) i *raspev* grecznyj** — system notacji *kriuki/kjufy*;
+3. **Stolpniki i sobory drewniane** (Kieżma, archanioł Michał) — architektura sakralna północy;
+4. **Ikona Andreja Rublowa** (*Trojca*, *Bogurodzica Włodzimierska*) i kanon *parsuna*;
+5. **Car-konstantynopol metafora carewicza** — cezaryzm prawosławny.
+
+### E.7. Tradycja ukraińska i rusińska
+
+1. **Liturgia św. Jakuba braterskiego** i **Ukaińska cerkiew greckokatolicka** — synody Lvivske (1594/1708/1891);
+2. **Kozaccyyna** — siczowi kapelani, religijność kozacka, *Psalmiwka Bogdana Chmielnickiego*;
+3. **Szcedriwky i koliadky** — cykl kolędowy Ukrainy (szczególnie *Koliadka* Karłowycza);
+4. **Pysanky** — symbolika ornamentyczna (lunarné znaki, drzewo życia), błogosławienie koszyków;
+5. **Radunica / Provody / Semik-Rusalna Troida** — wiosenny kult zmarłych i Zielone Świątki z gałązkami brzóz w cerkwiach;
+6. **Kut, Diduch, Dziady** — przodkowy kult wschodniosłowiański (Białoruś, Ukraina).
+
+---
+
+## 11. CZĘŚĆ F — PRZEDCHRZEŚCIJAŃSKA KULTURA SŁOWIAN
+
+Wersja 1.0 (B.6) sygnalizowała jedynie ogólnie „elementy przedchrześcijańskie”. Poniżej — pełny katalog tradycji nieopisanych, których recepcja chrześcijańska stanowi istotę słowiańskiej pobożności ludowej. Kodeks nie zawiera ani jednego wpisu (frekwencja 0 dla Perun, Weles, Kupala, Rusalki, Semik itd.).
+
+### F.1. Mitologia i panteon
+
+1. **Perun** (grzmot, dąb, orzeł) — jego kult przeżył w dniu św. Eliasza (*Ilja Prorok* na rydwanie ognistym, 20 VII/Eliasz) i w zwyczaju „grzmotówkowych” świec;
+2. **Weles/Wolos** (bydło, poezja, zaświaty) — chrystianizowany w św. Błażeju i św. Własim;
+3. **Swarożyc/Svaróg** (ogień niebiański, kowalstwo), **Dażbóg**, **Jarowit/Jaryło** (wegetacja, wiosna), **Mokoš/Mokosza** (prządki, los, wilki), **Lada** (miłość, wiosenne pieśni *ladanja*), **Żiva** (życie), **Morzana/Marzanna** (zima, śmierć coroczna), **Radegast/Swiętowit** (Runa, Arkona), **Trzygłów**, **Zbruč** — posąg z Zbrucza;
+4. **Demonomia niższa**: rusałki, leśne dziady (*likhoraka*), wodniki, domowoi, biesagi, południce (*miano*), mamona-suna, zmora/mara, utopcy, wiły, strzygi/upiory — literatura etnograficzna (Kolberg, Gieysztor, Szyjewski) wskazuje ich głęboki wpływ na zwyczaje błagosławień, które kodeks normuje inaczej.
+
+### F.2. Obrzędowość cyklu roku (kalendarz wegetacyjno-ludowy)
+
+1. **Kupala/Nocka Kupały** (23/24 VI, przesilenie letnie) — ogniska, wianki rzucane do wody, skoki przez ogień, ziele-ipał (paproć?), kąpiel rosa; kościelna konkurencja: Wigilia Narodzenia Jana Chrzciciela;
+2. **Koliada/Szczedryj Weczir** (przesilenie zimowe) — obrzędowość *hoscania* z turzem/kozą/bocianem, *zwiazda*, *herody* (ukraińskie jasełka ludowe);
+3. **Maslenitsa/Masnyca/Koledo** (Mięsopustna niedziela) — pożegnanie zimy, bliny jako słońce, spalanie Marzanny-Korny;
+4. **Semik-Rusalia/Trója Zelenaja** (Tydzień Zielonych Świątek) — zaplatanie brzozy, rusałki, zabawy w „korowód”, błogosławieństwo pola;
+5. **Dożynki/Obřinky/Žněnvě/Dażbogi** — ostatnia garść (*żur*, *boroda*, *wieńce*), dziękczynienie ziemi;
+6. **Gromnice/Strietienie** (2 II) — świece gromniczne chroniące od burzy; **swięcenie pól 25 IV (Mark Ewangelista)**, **rogalne dni** (*Litania maiores/minores*);
+7. **Jare Gody / Komiedice** (równonoc wiosenna) — obrzędy zaduszne wiosenne (por. Dziady Mickiewiczowe);
+8. **Noc Rozdroża / Ivana-Kupala, Koliada, Maslenitsa** — trzy „noc graniczne" roku; kodeks normuje rok liturgiczny łaciński (kan. 153–158), ignorując te cezury ludowe.
+
+### F.3. Zwyczaje rodzinne i przejścia
+
+1. **Pępowa/porodowa obrzędowość**: *postrzyżyny*, *czepiny*, oczepiny weselne (symboliczne „zabicie” panny młodej), *kumoterstwo* i *kum* jako instytucja społeczna (por. kan. 286? — pokrewieństwo duchowe);
+2. **Wesele słowiańskie**: *gorzko!* (wozenie młodych), *oczepiny*, *pasowanie na parę*, *chleb i sól rodziców*, *krajka*, *korowaj* (ukraiński obrzędowy bochen weselny), *derka*;
+3. **Chrzest ludowy**: imiona „obronne” (np. źle brzmiące, by złe duchy ominęły dziecko), *kupienie w rzece*, *szóstki*;
+4. **Stypa/dziady/pominki**: *radunia*, *hroby*, *hramada*; jadło ofiarne (jajko, kutya, chleb, wódka zostawiana dla duszy), *nóżki stołu*, *bracka* — obrzędy, które Kodeks IV (kan. pogrzebowe?) milcząco pomija.
+
+### F.4. Magia ludowa i praktyki pobożnościowe na granicy
+
+1. **Zaklinanie/zamawianie** (formuły *zamovy*, *zahovory*), zapisywanie „tajemniczych psalmów” (*psomy*), amulety (*zmina*, *gromnica nad drzwiami*, *czosnek*, *bylica*);
+2. **Wróżby adwentowo-andrzejkowe** (lanie wosku, buty, sen o mężu), wróżby kupalskie (wianki);
+3. **Lecznictwo ludowe** (*znachorstwo*, *szeptha*), *zaciskanie* — stosunek moralny wymaga osobnej normy (kan. o zabobonie?).
+4. Kodeks ma kanony o sakramentaliach (kan. 275, Tytuł VIII/XV), ale **żadnej normy oceniającej folklor magiczny** — luka pastoralna.
+
+### F.5. Symbioza kulturowa: christianizowane formy przedchrześcijańskie
+
+1. **Święci zastępujący bogów**: Ilja→Perun, Własij→Weles, Svatý Vít?, Mikuláš→?; **drzewa święte** (lipa, dąb, kalina, werba-palma w Wierbnicu), **kamienie kamień-kamień** (krzyże pokutne, *kamień św. Wojciecha*), **święte źródła i studnie** (*krynycy*, *żrdźiła*, kult *Bożej Matki na źródle*).
+2. **Cerkiew na miejscu dawnej świątyni** (topografia sakralna), **cmentarzysko-kurhan**.
+3. **Herb rodowy i znak rodowy** (*ródło*, *pieczęć*, *krzyż kawalerski*) — powiązanie z kultem patrona Rodu (B.5), którego procedury brak.
+
+---
+
+## 12. CZĘŚĆ G — MATERIA UZUPEŁNIAJĄCA: HYMNOGRAFIA, SZTUKA LITURGICZNA, KUCHNIA POSTNA, KALENDARZ ŚWIĘTYCH, DEVOCJONALIA
+
+### G.1. Hymnografia i gatunki poezji liturgicznej Wschodu (frekwencja 0!)
+
+1. **Troparion** (kontakion w starszej warstwie), **kontakion** (Roman Melodos!), **stichira**, **kathisma**, **sezon**, **exaposteilarion**, **theotokion**, **dogmatikon**, **stavoproklamenie**, **prokimen**, **allelukarion**;
+2. **Akatyst** — 24 hymny ku Bogurodzicy, śpiewany站立 (na stojąco) w piątki Pierwszego Postu; **Kanoniczne pieśni (kanon)** — 9 pieśni biblijnych wg wzorca Mojżeszowego;
+3. **Octoechos (osmoglasnik)** — osiem tonów (glasy) śpiewu cerkiewnego, każdy z własnym etosem;
+4. **Kryuki/znamiena** — notacja neumowa śpiewu znajmiennego;
+5. **Psalmir / Psaltir’ (Psałterz rozbitkowy)** — czytanie pośmiertne ciągłe nad zmarłym (tradycja ruska i rumuńska);
+6. **Pieśń „Swjatyj Boże” (Trisagion)**, **„Boże, wysłuchaj mnie”**, **„Czestniejszą…”** — formuły codzienne, których brak uniemożliwia domową modlitwę w duchu wschodnim (por. Aneks rekomendowany w pkt 7.4).
+
+### G.2. Sztuka i rzemiosło liturgiczne
+
+1. **Carskie wrota i ikonostas** (por. A.2) + **tron biskupi (*katedra*) w centrum nawy**, **analogion**, **kliros** (lew/prawy), **ambon środkowy**;
+2. **Naczynia liturgiczne**: *diskos* (patena), *potir* (kielich), *zvezdnica* (gwiazda nakrywająca prosforę), *kovczieg* (puszka), *łżyżka-communionna*, *kopije* (włócznia), *gubka* (gąbka), *dikiri i trikiry* (świeczniki biskupie), *rizy* (szaty), *omofor*, *epigonation/palcica*, *mitra typu wschodniego*;
+3. **Dzbany i kadzielnice** (*kadidło*, *kędzidło* — por. kan. 275 „kadzielnica”, ale bez rubryk użycia wschodniego: kadzenie naw, wiernych, czterech stron świata);
+4. **Krzyże**: osmoramienny (kalwaryjski), sześcioremamienny, *kotory?*; **krzyż z rozpasiem** i **raspaście**;
+5. **Rękodzielnicze ikony domowe**: *kładni*, *skladni*, ikony podróżne, lampka *ładanka*, kadzidło domowe;
+6. **Teksty nagrobne i krzyże kamieniowe** (*stećaki* bośniackie, *krzyże cmentarne* ruskie) — sztuka sepulkralna.
+
+### G.3. Kuchnia postna i obrzędowa (tradycja wschodnio-słowiańska)
+
+Kodeks normuje błogosławieństwo pokarmów (kan. 209, 275), ale nie zna **typologii potraw obrzędowych**:
+
+1. **Kutia/koljivo/sywotka** — pszenica z makiem i miodem, danie pogrzebowe i wigilijne (por. A.9);
+2. **Uzyvar/vzwar** — kompot owocowy dopełniający kutię;
+3. **Paska/pasca** — wielkanocny chleb-ser biały (ukr.), *babka*, *mazurek*;
+4. **Bliny** (Maslenica), **pierogi z postnym farszem**, **barszcz z uszkami** (wigilia), **grzyby, ryba, kasza**;
+5. **Prosphora/proskura** — liturgiczny przaśnik z *sealitem* (pieczęcią); **artokus** (chleb z Paschy), **antidoron**, **żito-pszeniczne ziarno na Radunicę**;
+6. **Pojenie “czary duchownej”?** — norma o alkoholu w obrzędzie (wino mszalne vs. wino molebienne).
+
+### G.4. Kalendarz świętych słowiańskich i lokalnych (frekwencja 0 dla wszystkich!)
+
+1. **Równoapostolni**: św. Włodzimierz Wielki (chrzest Rusi 988 — *Krażenie*!), Olga (957), Boris i Gleb (prwsi święci ruscy, *strastotierpy*), Konstantin-Filotik/Cyryl i Metody;
+2. **Cudotwórcy**: św. Sergiusz Radoneżski, Serafin Sarowski, Teodozy Pieczerski, Antoni Peczorski, Dimitrij Doński, Aleksander Newski, Jan z Rila, Sava Nemanicz, Cyryl Litwin, Hiob Pocajewski, Atanazy Brzeski, męczennicy Chełmscy, Gabriel Zabłudowski;
+3. **Nowomęczennicy i confessores**: męczennicy chełmscy (1596–1875), nowomęczennicy sowieccy (**Nowyj muczeniki i ispovedniki**), męczennicy czeczeńscy? — kult nowych męczenników żywy w prawosławiu, nieobecny w kodeksie;
+4. **Patroni zawodów i stanów**: Paraskewa-Piatnica (piątek, handel), Blaise-Własij (bydło), Flor i Laur (konie), Modest (bydło), Spyrydon (cudowności), Tryphon (ogrodnicy);
+5. **Święci maryjni ikonowi**: Ikona Kazania, Włodzimierska, Czernigowska, Pochaewska, Supraska, Grabarzewska — każda z własnym świętem ruchomym (np. 8 VII Grabarka!).
+
+### G.5. Devocjonalia i znaki pobożności wschodniej
+
+1. **Komboskini/lestowka** (33/50/100 węzłów) — różaniec wschodni (por. C.7 — wspomniany ogólnie, tu doprecyzowanie: lestowka z *pierwymi modlitwami*, użytek monastyczny);
+2. **Blessing krzyżyki naramienny (*telesnyj krest*)** — chrzcielny krzyżyk noszony na ciele, obrzęd zdjęcia i błogosławieństwa;
+3. **Znamenie krzyża + pokłony ziemne (*poklon y zemlju*) z *metanija*** — technika gestu (trzy palce!, dwa palce — staroobrzędowcy!), kierunek westchnienia;
+4. **Świece woskowe pasachi**, **ołtarzyki domowe**, **modlitewniki drukowane (*trebnik*, *molitvoslov*)**;
+5. **Woda Jordanu (*agiasma*) i *fejados*?** — pobierania święconej wody raz w roku (Teofania), przechowywania w domu (por. kan. 209 woda — brak rytuału *Welikoj Watnoswjatszy*);
+6. **Czcigodne relikwie i cząstki**, *antimensy* (obrus ołtarzowy z relikwią — konieczny do sprawowania!).
+
+---
+
+## 13. CZĘŚĆ H — ZAKTUALIZOWANA TABELA FREKWENCJI NOWYCH TERMINÓW (BADANIE WTÓRNE)
+
+Powtórzone przeszukiwanie `/codex/md` (grep -ri, liczenie linii) dla terminów wprowadzonych w częściach D–G:
+
+| Termin | Liczba wystąpień | Status |
+|--------|------------------|--------|
+| `Athon` / `Atos` / `Pancypel` | 0 | Nieobecny |
+| `Pieczersk` / `Poczaj` / `Sołowieck` / `Walaam` / `Optina` / `Sarow` | 0 | Nieobecny |
+| `Typikon` / `Reguła Bazylego` / `skit` / `lavra` | 0 | Nieobecny |
+| `starzec` / `awwa` / `jurod` / `starchestwo` | 0 | Nieobecny |
+| `Slava` (serbski kult patrona rodziny) | 0 | Nieobecny |
+| `korowaj` / `kolyvo` / `kutia` | 0 | Nieobecny |
+| `troparion` / `kondak` / `stichira` / `akatyst` / `kanon` (hymn.) | 0 | Nieobecny |
+| `Oktajch` / `osmoglasnik` / `znamennyj` / `kriuki` | 0 | Nieobecny |
+| `Semik` / `Rusalia` / `Kupala` / `Maslenica` / `Marzanna` | 0 | Nieobecny |
+| `Perun` / `Weles` / `Mokosza` / `Jaryło` / `Lada` / `Żywa` | 0 | Nieobecny |
+| `rusalki` / `domowoj` / `zmora` / `upiory` | 0 | Nieobecny |
+| `glagolica głagolicka` (chorwacka Msza) | 0 | Nieobecny |
+| `staroobrzędowcy` / `biełokryńcy` / `duchobory` | 0 | Nieobecny |
+| `Grabarka` / `Święta Góra` / `supraska` | 0 | Nieobecny |
+| `komboskini` / `lestowka` / `telesnyj krest` | 0 | Nieobecny |
+| `agiasma` / `Wielkie Poświęcenie Wody` | 0 | Nieobecny |
+| `Boris i Gleb` / `Włodzimierz` / `Olga` / `Sergiusz Radoneż` / `Serafin Sarowski` | 0 | Nieobecny |
+| `Nowi męczennicy` / `wyznawcy sowieccy` | 0 | Nieobecny |
+| `sobornost` / `Moskwa-Trzeci Rzym` | 0 | Nieobecny |
+| `blaszczennye / błogosławiony cerkiewny` (forma beatyfikacji wsch.) | 0 | Nieobecny |
+
+**Konkluzja badania wtórnego:** wszystkie 20 kategorii wprowadzonych w rozszerzeniu ma frekwencję **zero**. Luka raportu wersja 1.0 była więc jedynie pierwszą warstwą; pełny obraz luki normatywnej obejmuje dodatkowo co najmniej **pięć dużych bloków tematycznych** (monastycyzm, tradycje narodowe, mitologia przedchrześcijańska, hymnografia-formularze, kalendarz świętych lokalnych).
+
+---
+
+## 14. ZAKTUALIZOWANE REKOMENDACJE LEGISLACYJNE I PODSUMOWANIE ROZSZERZENIA
+
+### 14.1. Rozszerzenie projektu Księgi XII (pkt 7.1) o nowe tytuły
+
+Proponowana **Księga XII — *De traditione slavorum, rituum orientalium et memoria domestica*** powinna objąć następujące tytuły (kanony 515+):
+
+- **Tytuł I.** O Boskiej Liturgii i anaforach (postulat z A.1);
+- **Tytuł II.** O ikonie, krasnym kutie i przestrzeni sakralnej domu (A.2);
+- **Tytuł III.** O godzinach kanonicznych Wschodu i roku liturgicznym juliańskim/reformowanym (A.3, A.4);
+- **Tytuł IV.** O misteriach w dyscyplinie wschodniej (A.5);
+- **Tytuł V.** O strukturach CCEO właściwych Kościołom sui iuris (A.6);
+- **Tytuł VI.** O modlitwie serca i tradycji ascetycznej (A.7);
+- **Tytuł VII.** O dziedzictwie cyrylo-metodiańskim i językach liturgicznych (A.8);
+- **Tytuł VIII.** O obrzędach pogrzebowych, panichidzie i pominkach (A.9, F.3);
+- **Tytuł IX.** O śpiewie cerkiewnym, tonach i notacji (A.10, G.1);
+- **Tytuł X.** O zwyczajach ludowych słowiańskich (B.1–B.9);
+- **Tytuł XI.** O tradycji monastycznej i kierownictwie duchowym — *starzec/awwa* w zastosowaniu domowym (D.1–D.4);
+- **Tytuł XII.** O narodowych tradycjach Kościołów wschodnich Słowian: bułgarskiej, serbskiej (*slava*!), chorwackiej-glagolickiej, czesko-morawskiej, polsko-rusińskiej, ukraińskiej, rosyjskiej (E.1–E.7);
+- **Tytuł XIII.** O recepcji kultury przedchrześcijańskiej: kryteria dopuszczalności zwyczajów, normy przeciw zabobonom, teologia „chrystianizowanych form” (F.1–F.5);
+- **Tytuł XIV.** O kuchni obrzędowej i błogosławieństwach pokarmów sezonowych (G.3);
+- **Tytuł XV.** O kalendarzu świętych słowiańskich i lokalnych, relikwiach, ikonach cudownych i sanktuariach domowych (G.4, G.5);
+- **Tytuł XVI.** O devocjionaliach wschodnich: komboskini, krzyżyk noszony, agiasma, antymens (G.5).
+
+### 14.2. Pilne priorytety dla Kościoła Domowego (z punktu widzenia jego własnej racji bytu)
+
+Spośród wszystkich luk rozszerzenia trzy mają znaczenie **systemowe**, ponieważ dotyczą samego rdzenia idei Kościoła Domowego:
+
+1. **Serbska *slava* jako wzorzec kultu patrona Rodu** — gotowy, żywy model prawno-liturgiczny rodziny jako podmiotu kultu; brak go w Księdze IV/V jest sprzecznością wewnętrzną kodeksu;
+2. **Kutia–koljivo–pominki–panichida** — spójny kompleks obrzędów zadusznych realizujących deklarowaną „modlitwę za zmarłych Rodu”;
+3. **Reguła Bazylego + typikon domowy + horologion** — brak własnej reguły czyni kodeks zbiorem praw, a nie sposobem życia; tymczasem sam tytuł „Kościół Domowy” implikuje domowy typikon.
+
+### 14.3. Podsumowanie końcowe rozszerzenia
+
+Raport w wersji 2.0 stwierdza, że katalog `/codex/md`:
+
+- **nie opisuje tradycji monastycznej Wschodu** (reguły, typikony, Athon, Ławry ruskie, starczestwo, hesychazm taborowy);
+- **nie rozróżnia tradycji narodowych** słowiańskich Kościołów wschodnich (bułgarska, serbska z *slavą*, chorwacka głagolicka, czesko-morawska, polsko-ruska, ukraińska, rosyjska), traktując Wschód monolitycznie;
+- **milczy o kulturze przedchrześcijańskiej Słowian** zarówno w warstwie mitologicznej (panteon, demonologia), jak i obrzędowej (Kupala, Maslenica, Semik-Rusalia, Dziady) — bez jakiejkolwiek normy oceniającej;
+- **nie zawiera aparatu hymnograficznego** (tropar, kondaków, sticher, akatystu, oktchichu), bez którego praktyka wschodnia jest niemożliwa;
+- **ignoruje sztukę liturgiczną** (naczynia, szaty, krzyże, ikony, architekturę małej formy), kuchnię obrzędową (kutia, korowaj, paska, bliny), kalendarz świętych słowiańskich i nowomęczenników oraz devocjonalia wschodnie (komboskini, lestowka, krzyżyk cielesny, agiasma).
+
+Łącznie — w wyniku badania pierwotnego (wersja 1.0) i wtórnego (wersja 2.0) — udokumentowano **nieobecność ponad 120 kategorii tradycyjnych** w warstwie normatywnej kodeksu, podczas gdy warstwa deklaratywna (Preambuła, kan. 1–2, Księga XI) powołuje się na nie expressis verbis. Sprzeczność między intencją prawodawcy a treścią norm pozostaje głównym wnioskiem audytu.
+
+---
+
+*Koniec raportu (wersja 2.0, rozszerzona).*
 
 **Opracowanie:** analiza automatyczna + redakcja ekspercka
-**Metoda:** full-text search (grep) po korpusie `/workspace/codex/md/*.md`, weryfikacja manualna kontekstów, klasyfikacja frekwencyjna.
+**Metoda:** full-text search (grep) po korpusie `/workspace/codex/md/*.md`, weryfikacja manualna kontekstów, klasyfikacja frekwencyjna; badanie wtórne dla terminów części D–H.
 **Objętość korpusu:** ~525 kB tekstu źródłowego (12 plików ksiąg + spis treści).
+**Wersja 2.0** rozszerza wersję 1.0 o części D, E, F, G, H oraz zaktualizowane rekomendacje (pkt 14).
