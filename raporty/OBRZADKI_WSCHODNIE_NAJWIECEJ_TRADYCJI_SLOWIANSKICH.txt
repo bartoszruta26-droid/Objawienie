@@ -11,9 +11,13 @@ Spośród 23 katolickich Kościołów sui iuris tradycje słowiańskie (język
 liturgiczny cerkiewnosłowiański, bizantyjska struktura obrzędu, pieśń
 znamienny, ruskie formy pobożności, kalendarz juliański, sztuka ikony)
 zachowały w najpełniejszej formie obrządki wywodzące się z kręgu
-rusko-bizantyjskiego i południowosłowiańskiego. Poniżej — ranking od
-najbardziej do najmniej "słowiańskiego" obrządku katolickiego, z uzasad-
-nieniem, wskaźnikiem zachowania tradycji oraz zastrzeżeniami.
+rusko-bizantyjskiego i południowosłowiańskiego. Osobnym, unikatowym przy-
+padkiem jest OBRZĄDEK BIZANTYJSKO-SŁOWIAŃSKI W POLSCE (miejsce 9) — podtrzy-
+mywany przez JEDNĄ parafię personalną w Warszawie (jedyną tego rodzaju
+w kraju) oraz wspierany przez inicjatywy pokrewne w Krakowie, Poznaniu,
+Tarnowie i Gdańsku. Poniżej — ranking od najbardziej do najmniej "słowiańskiego"
+obrzędu katolickiego, z uzasadnieniem, wskaźnikiem zachowania tradycji
+oraz zastrzeżeniami.
 
 --------------------------------------------------------------------------------
 MIEJSCE 1. UKRAIŃSKI KOŚCIÓŁ GRECKOKATOLICKI (obrządek kijowsko-bizantyjski)
@@ -148,8 +152,8 @@ Wskaźnik: ok. 60%
   się na pamięci emigracji I i II fali.
 
 --------------------------------------------------------------------------------
-MIEJSCE 9. OBRZĄDEK BIZANTYJSKO-SŁOWIAŃSKI W POLSCE — PARAFIA PERSONALNA
-           PRZEZNACZONA DLA WIERNYCH RYTU WSCHODNIEGO Słowian (Warszawa)
+MIEJSCE 9A. OBRZĄDEK BIZANTYJSKO-SŁOWIAŃSKI W POLSCE — PARAFIA PERSONALNA
+            DLA WIERNYCH RYTU WSCHODNIEGO Słowian (Warszawa)
 --------------------------------------------------------------------------------
 Wskaźnik: ok. 70% (ryt bizantyjsko-słowiański = pełna słowiańskość
 językowo-rytualna; obniżają go jedynie wpływ otoczenia łacińskiego)
@@ -186,6 +190,25 @@ ciu do kilkuset wiernych, ale znaczenie ma niewspółmiernie większe:
   ryt bizantyjsko-słowiański jest kategorią ponadnarodową, spadkobiercą
   misji Cyryla i Metodego w wersji czysto rytualnej (analogicznie jak
   głagolica chorwacka jest wersją łacińsko-rytualną tej samej idei).
+- PODOBNE INICJATYWY (potwierdzające istnienie popytu na ten ryt): ośrodki
+  akademickie i wspólnoty sympatyzujące w Krakowie (studia nad tradycją
+  słowiańsko-bizantyjską), Poznaniu i Gdańsku; msze święte w rycie
+  bizantyjsko-słowiańskim sprawowane okazjonalnie m.in. w kościele oo.
+  Dominikanów w Krakowie czy środowisku Tarnowa — zawsze jako celebracje
+  GOŚCINNE wobec warszawskiej parafii-matki, nigdy jako samodzielne struk-
+  tury partykularne.
+- MUZYKA LITURGICZNA: repertuar cerkiewnosłowiański śpiewany a cappella —
+  znamenny razspiew oraz piecasy (monodia ruska), adaptacje melodii gre-
+  goriańskich na teksty CS, prostopienija wielkopostne; w praktyce jedna
+  schola warszawska pełni rolę "instytucji fonoteki" całego rytu w Polsce.
+- IKONOGRAFIA: ikonostas ustawiany prowizorycznie (ikony pisane ręcznie —
+  typ Feodorowskiej i Pokrowy); antymens konsekrowany przez biskupa
+  wschodniego spoza Polski — brak krajowej sukcesji rytualnej wymusza
+  pożyczanie sakraliów od eparchii preszowskiej/koszuckiej.
+- DUCHOWIEŃSTWO I FORMACJA: kapłani najczęściej dualiterzy (łacinnicy
+  z indultem celebrowania w rycie wschodnim), kształceni na Papieskim
+  Instytucie Orientale w Rzymie; żonaci kandydaci napotykają na barierę
+  dyscyplinarną Kościoła łacińskiego w Polsce — realny hamulec rozwoju.
 - ZASTRZEŻENIA: ciągłość zależy od jednego kapłana-bizantynisty; brak
   seminarium wschodniego w Polsce (formacja w Rzymie — PIO, lub w Zagrzebiu/
   Preszowie); księgi liturgiczne bywają kopiowane z przednicejańskich wydań
@@ -212,8 +235,9 @@ PODSUMOWANIE RANKINGU (wg udziału nieprzerwanych tradycji słowiańskich)
 4. Głagolicki (Chorwacja)  ~80%  — jedyny chroniony wprost w KPK 1983
 5. Bizantyjsko-macedoński  ~75%  — kult Cyryla i Metodego jako oś
 6. Slawono-serbski         ~70%  — slava jako instytucja
-6b.Bizantyjsko-słowiański  ~70%  — Polska: JEDNA parafia personalna (Warszawa),
-    (Polska — Warszawa)          rytm CS, kalendarz juliański, pustka strukturalna
+6b.Obrządek bizantyjsko-  ~70%  — Polska: JEDNA parafia personalna (Warszawa),
+   słowiański (Polska)          rytm CS, kalendarz juliański, pustka strukturalna;
+   (por. też inicjatywy: Kraków, Poznań, Tarnów, Gdańsk)
 7. Połocko-bizantyjski     ~65%  — Zielone Świątki, martyrologia unicka
 8. Rosyjski KB             ~60%  — stariectwo, śpiew znamenny
 — poza rankingiem: melchicki, maronicki, chaldejski itd. (wschodnie, nie słowiańskie)
