@@ -15,6 +15,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
+| [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
 -   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–7
@@ -195,3 +196,45 @@
 - **Tytuł III: INNE RÓŻNICE MIĘDZY OBRZĄDKIEM ŁACIŃSKIM A OBRZĄDKIEM DOMOWYM** — kan. 503–512
 - **Tytuł IV: PRZEPISY KOŃCOWE** — kan. 513–514
 
+
+## Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański
+*(plik: `12_tradycja_bizantyjsko_slowianska.md`; dokument historyczno-teologiczny, nie normatywny)*
+
+- **Część I. Geneza obrządku bizantyjsko-słowiańskiego**
+  - Rozdział 1. Misja Cyryla i Metodego (863–885)
+  - Rozdział 2. Morawy Wielkie, Pannonia i Rzym
+  - Rozdział 3. Uczniowie i ucieczka do Bulgarii
+- **Część II. Staro-cerkiewno-słowiański jako język liturgiczny**
+  - Rozdział 4. Głoski, pismo głagolskie i cyrillica
+  - Rozdział 5. Recenzje i redakcje SCS
+  - Rozdział 6. Kanon translatorski i terminologia sakralna
+- **Część III. Anafory i struktura Boskiej Liturgii**
+  - Rozdział 7. Trzy anafory wschodnie w tradycji słowiańskiej
+  - Rozdział 8. Proskomidia i Wielkie Wejście
+  - Rozdział 9. Rok liturgiczny, posty i system tonów (oktōchos)
+- **Część IV. Najstarsze zabytki pisane**
+  - Rozdział 10. Kodeksy, głagolity i brzestjany
+  - Rozdział 11. Apokryfy, patereiki i prologi
+- **Część V. Warstwa przedchrześcijańska — najstarsze podania Słowian**
+  - Rozdział 12. Źródła rekonstrukcji (Hieronim, Prokopiusz, Thietmar, Helmold, Powieść minionych lat)
+  - Rozdział 13. Niebo Wysokie i Ziemia — Roženica i Bog
+  - Rozdział 14. Weles/Wolos — pan zaświatów i bytu
+  - Rozdział 15. Perun i Swarog
+  - Rozdział 16. Mokоsh i Mat’ Syraja Zemlja
+  - Rozdział 17. Święte miejsca: gaje, kapieniska, żertowniki
+  - Rozdział 18. Czas kręgu: Koło Roku i obrzędy wegetacyjne
+  - Rozdział 19. Dusza, przodkowie i dziady
+  - Rozdział 20. Rod — wspólnota krwi i kultu
+- **Część VI. Sintezis — chrystianizacja jako spełnienie, nie zniszczenie**
+  - Rozdział 21. Dwuwierzenie czy pełnia? Krytyka pojęcia „dwojewierstwo”
+  - Rozdział 22. Chrystus jako Nowy Roždenie — teologia spełnienia
+  - Rozdział 23. Maryja jako Mokоsh — Theotokos i Ziemia Rodząca
+  - Rozdział 24. Święci następcami żerców i wilchw
+  - Rozdział 25. Ikonografia a dawne wizerunki bóstw
+- **Część VII. Praktyka współczesna odtworzenia tradycji**
+  - Rozdział 26. Zasady ostrożności rekonstrukcyjnej
+  - Rozdział 27. Domowy obrzęd rodowy — wzorzec (*Ordo Domesticus Sclavonicus*)
+  - Rozdział 28. Modlitwy starosłowiańskie — przekład i transliteracja
+  - Rozdział 29. Kalendarz rodowy — Koło Roku w praktyce
+  - Rozdział 30. Błogosławieństwa, pokropienie wodą święconą, kadzenie
+- **Część VIII. Teksty źródłowe w przekładzie** (A–E) + Posłowie + Bibliografia
