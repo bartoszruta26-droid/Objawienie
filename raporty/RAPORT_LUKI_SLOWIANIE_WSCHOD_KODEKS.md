@@ -1,4 +1,4 @@
-# RAPORT ANALITYCZNY — Luki w Kodeksie Prawa Kanonicznego Kościoła Domowego (codex/md)
+# RAPORT ANALITYCZNY — Luki w Kodeksie Prawa Kanonicznego Kościoła Domowego (codex/md) — wersja 3.0
 
 ## Temat: Elementy kultury słowiańskiej i tradycji Kościołów Wschodnich nieopisane w księgach katalogu `/codex/md`
 
@@ -61,6 +61,14 @@
 12. Część G — Materia uzupełniająca: hymnografia, sztuka liturgiczna, kuchnia postna, kalendarz świętych słowiańskich, dewocjonalia wschodnie
 13. Część H — Zaktualizowana tabela frekwencji nowych terminów (badanie wtórne)
 14. Zaktualizowane rekomendacje legislacyjne (Księga XII — rozszerzona) i podsumowanie rozszerzenia
+
+**ROSZERZENIE RAPORTU (wersja 3.0) — Rozdział III, części I–K, tradycje wschodnie Kościołów katolickich i dalsze luki:**
+
+15. Część I — Kościoły Wschodu katolickie (CCEO): struktura, sakramenty, księgi, unie, diaspora
+16. Część J — Dalsze tradycje wschodnie i słowiańskie: święcenia, rubryki postne, ikony, regionalia, mikrorytuały domu
+17. Część K — Trzecia tabela frekwencji
+18. Zaktualizowane rekomendacje (Księga XII — tytuły XVII–XXII)
+19. Podsumowanie Rozdziału III
 
 ---
 
@@ -895,3 +903,220 @@ Raport w wersji 2.0 stwierdza, że katalog `/codex/md`:
 **Metoda:** full-text search (grep) po korpusie `/workspace/codex/md/*.md`, weryfikacja manualna kontekstów, klasyfikacja frekwencyjna; badanie wtórne dla terminów części D–H.
 **Objętość korpusu:** ~525 kB tekstu źródłowego (12 plików ksiąg + spis treści).
 **Wersja 2.0** rozszerza wersję 1.0 o części D, E, F, G, H oraz zaktualizowane rekomendacje (pkt 14).
+
+---
+---
+
+# ROZDZIAŁ III — TRZECIE UZUPEŁNIENIE RAPORTU (wersja 3.0)
+
+**Data uzupełnienia:** 16 października 2026 r.
+**Przedmiot:** tradycje Wschodu katolickiego (Kościoły sui iuris w jedności ze Stolicą Apostolską) oraz dalsze, wcześniej nieopisane warstwy tradycji wschodnich i słowiańskich.
+**Metoda:** trzecia tura badania frekwencyjnego (full-text grep, case-insensitive) po korpusie `/workspace/codex/md/*.md`; wszystkie nowo wprowadzone terminy zweryfikowano jako obecnymi w korpusie na poziomie **zero wystąpień**.
+
+## 15. CZĘŚĆ I — KOŚCIOŁY WSCHODNIE KATOLICKIE (CCEO): SPECYFICZNE TRADYCJE NIEOPISANE W KORPUSIE
+
+Części A–H raportu dotyczyły przede wszystkim prawosławia i kultury ludowej. Niniejszy rozdział wypełnia osobną, systemową lukę: **kodeks `/codex/md` nie opisuje odrębnej tożsamości katolickich Kościołów wschodnich** — ich struktury hierarchicznej, dyscypliny sakramentowej, prawa partykularnego ani historii ekumenicznej. Poniższe podrozdziały I.1–I.10 dokumentują te braki.
+
+### I.1. Struktura hierarchiczna Kościołów katolickich obrządków wschodnich (frekwencja wszystkich terminów: 0)
+
+Księga VI kodeksu zna wyłącznie *subdiecezję domową* i *patriarchat* w ujęciu łacińsko-schematycznym. Nie istnieje żaden opis kategorii ustrojowych właściwych Wschodowi katolickiemu (normy CCEO kan. 27–59; 152–178):
+
+| Termin / instytucja | Status w `/codex/md` | Opis brakującej tradycji |
+|---|---|---|
+| `egzarcha`, `egzarchat` | 0 | Biskup egzarchalny (=wikariusz patriarszy) rządzący egzarchatem — odpowiednik wikariatu apostolskiego; typowa struktura ukraińska i melchicka poza ojczyzną. Egzarchaty stolic tytularnych (Perejasław, Dubnica). |
+| `protoprezbiter` | 0 | „Dziekan dekanatu” obrządku wschodniego; przewodniczy radzie prezbiterów egzarchatu, wybiera administratora sede vacante (por. kan. 368 §1; 234 CCEO). |
+| `eparchialny`, `eparchia` | 0 | Właściwa terminologia jednostki terytorialnej; kodeks stosuje konsekwentnie łacińskie „diecezja”, zacierając różnicę. |
+| `ordynariusz dla wiernych obrządku wschodniego` | 0 | Instytucja łacińska (kan. 383 §1 KPK; kan. 916–917 CCEO) ordynariusza obrządkowego bez jurysdykcji terytorialnej — kluczowa dla diaspany. |
+| `synod stały` | 0 | Standing Synod patriarchalny/metropolitalny — ciało kierujące Kościołem między sesjami synodu; fundament samorządu Wschodu katolickiego. |
+| `autokefalia` | 0 | Choć dotyczy prawosławia, katolickie debaty o „autonomii/niezależności sui iuris” (kan. 152–154 CCEO) też są nieobecne: brak rozróżnienia patriarchat > arcybiskupstwo większe > metropolia > eparchia. |
+| `stolica biskupia` (katedralna, liturgia inauguracji) | 0 | Obrzęd objęcia katedry przez biskupa wg euchologionów wschodnich; analogia do łacińskiego ingresu nie została nigdy opisana. |
+| `maphelion` | 0 | Nakrycie głowy biskupa wschodniego (czapuro-kaptur z welonem, z apostołem Piotrem/Pawłem); insygnium rozpoznawalne, normatywnie uregulowane w rubrykach partykularnych. |
+| `artoforion` | 0 | Torba na Chleb eucharystyczny noszona przez biskupa/prezbitera Wschodu; znak godności liturgicznej nieopisany nigdzie w Księdze IV/V. |
+
+**Konsekwencja legislacyjna:** Księga VI winna zawierać tytuł *De structura hierarchica Ecclesiarum orientalium catholicarum*, definiujący egzarchat, eparchię, protoprezbitera i synod stały jako wzorce możliwe do przeniesienia na strukturę domową (np. „egzarci Rodu” delegowani przez Patriarchę).
+
+### I.2. Dyscyplina sakramentalna Wschodu katolickiego — misteria inaczej sprawowane (frekwencja: 0)
+
+Księga V i IV traktują sakramenty wyłącznie w dyscyplinie łacińskiej. Następujące praktyki, stanowiące sedno życia sakramentalnego grekokatolików, Ormian katolików i Koptów, są całkowicie nieopisane:
+
+- **Chrzest przez trzykrotne zanurzenie** (*tryplunge*, gr. tris bathmia) — forma obowiązkowa na Wschodzie (kan. 677 §2 CCEO dopuszcza polanie tylko wyjątkowo); chrzest „w imię Ojca i Syna, i Ducha Świętego” z formułą bierną („chrzczony jest sługa Boży…”), obrzęd egzorcyzmów przed chrztem, namaszczenie olejem katechumenów, *efpheta*, trzykrotne polanie krzyżmem. Frekwencja: 0.
+- **Bierzmowanie (myroposimaszczenije) bezpośrednio po chrzcie, także dzieci** — kan. 695 CCEO nakazuje chrzcić i bierzmować razem; Kodeks Domowy zna tylko łacińską separację wiekową. Pojęcie `myro` (św. oleju świętego przez patriarszą konsekrację w Wielki Czwartek) — frekwencja 0 (pojedyncze wystąpienie `chryzma` nie rozwija tematu).
+- **Komunia pod dwiema postaciami dla wszystkich** (łyżeczka-labida lub ręka + kielich) — norma wszechwschodnia; `pod dwiema postaciami`, `komunia na rękę` — 0.
+- **Synaksis eucharystyczna poza Mszą/Boską Liturgią** — Komunia udzielana przez diakona/lektora z rezerwuaru (typika); 0.
+- **Małżeństwo jako koronacja** (`koronacja`, `zaślubiny wschodnie`, `wieńce`, `pierścień Salomona`) — obrzęd stephanosis: korony męczeńskie wkładane przez kapłana z okrzykiem „Isa, ho agios…”, ewangelia Kany, wspólny kielich; ślub „przed ikonostasem”, wieniec (stefana) jako znak przymierza zamiast łacińskiego pierścienia; pierścień Salomona jako osobny obrzęd zaślubin królewskich/misyjnych. Wszystkie frazy: 0 (poza jednym ogólnikowym `wieniec`).
+- **Sakrament chorych: olej + modlitwy siedmiu kapłanów** (Euchologion, trebnik) — `ostatni pomazanie`, `olej św.`, `epitimia` (pokuta nie jako kara, lecz „lek”; formuła absolucji „nie ja, ale Chrystus”) — 0. Spowiedź „przed ikoną Chrystusa”, z widocznym ewangeliarzem i krzyżem, formuła rozwiązująca — 0.
+- **Post eucharystyczny od wieczora** (nocny post przed komunią, tradycyjnie północ/wigilia) oraz przygotowanie modlitewne (modlitwy dziękczynne po komunii z Trebnika) — 0.
+- **Kapłaństwo żonate** (`duchowny żonaty`, `żonaty ksiądz`) — kan. 373 CCEO i wielowiekowa praktyka ukraińska/romańska/melchicka; celibat jako opcja powołania, nie wymóg ważności sakramentu. Frekwencja: 0 — a temat dotyka samej Księgi V (posługa kapłańska Małżonków!).
+
+**Rekomendacja:** tytuł *De mysteriis in disciplina orientalium catholicorum* (Księga XII, Tytuł IV w wersji 1.0 był szkicem; tu wymaga rozbicia na kanony szczegółowe dla każdej formy celebracji).
+
+### I.3. Księgi liturgiczne i formularze Wschodu katolickiego (frekwencja: 0)
+
+Raport 1.0–2.0 wskazał brak anafor; teraz ujawniamy brak całego **księgozbioru liturgicznego**, który w tradycji wschodniej katolickiej ma status normatywny (kan. 400 §1 CCEO: teksty zatwierdzonego wydania):
+
+- `euchologion` (Trebnyk/Euchologij) — zbiór nabożeństw okazjonalnych: błogosławieństwa domu (**Nowy Rok — „Swiaczennaja worota”**), wody (**wodogoszcz**, mała i wielka agiasma), pojazdu, pola, stołu, chorego, dziecka 40-dniowego („cerkownaja matier”), wprowadzenia do świątyni (**“wprowadzenie do świątyni” 40. dnia**), pogrzebu. Każde z tych pojęć: 0.
+- `trebnik` (rus. trebnik, ukr. трежник) — podręcznik kapłana do „potrzeb” duszpasterskich; molieben (nabożeństwo dziękczynne), akafist zamawiany, **parastas** (nabożeństwo nocne za zmarłych), **czetwerogowienije** (spowiedź kwartalna). Frekwencja: 0.
+- `molieben` / `nabożeństwo dziękczynne` — 0; `wodogoszcz` / `wielka agiasma` — 0; `antymens` (płótno ołtarzowe z relikwią, wymagane do ważnej Mszy; obrzęd jego poświęcenia i instalacji — kan. 823 CCEO) — 0; `ołtarz przenośny` — 0.
+- `carskie wrota` (Królewskie Wrota ikonostasu, otwierane/zasłaniane w kluczowych momentach Liturgii; zasłona — kurtyna „petiel”) — 0.
+- `proskomidia` (przygotowanie Darów w zakrystii — prosphora, baranek, cząstki ku czci Bogarodzicy, świętych i dusz wiernych; częstotliwość i porządek wycinania cząstek regulowany rubrykami) — 0.
+- `epikleza` (wezwanie do Ducha Świętego jako szczyt anafory — spór teologiczny łacińsko-wschodni o momencie konsekracji) — 0; `kanon mszalny` jako odpowiednik zachodni — 0.
+- **Horologion / Godoslov / Casosłov** (godzinki kanoniczne z psalmami antyfonowymi) — wspomniany mgliście w A.3, ale bez żadnego opisu treści godzin: Wieczernia (wielka/mała), Powieczerije, Polunosznica (z „Trisagion” i hymnem „Boże mocny”), Zoria (Jutrznia), Czetwertyj/Czasz, Szestyj, Siedmyj. Brak też **Ostrożnoje Bogosłowije** — rusiński/ukraiński „Katechizm Łaskawy” (Mohyła, drukarnia Kyjo-Pieczerska 1691), pierwszy katechizm Kościoła unickiego w języku ludowym: frekwencja 0.
+- **Liturgie unityczne**: adaptacje Boskiej Liturgii św. Jana Chryzostoma z drobnymi zmianami (np. „Ruska liturgija” w eparchii Mukaczewskiej, liturgia ormiańskokatolicka, koptyjska, etiopska ge'ez, syromalbarska qurbona) — żaden z tych obrządków katolickich nie został wymieniony nawet nazwą własną.
+
+### I.4. Historia i ekumenizm Wschodu katolickiego: unia, nawrócenia, męczeństwo (terminy: 0)
+
+Kodeks milczy o genezie własnego przedmiotu badań — o Kościołach powstałych z uni:
+
+- `uniatyzm`, `unia`, `unicka` — 0. Brak jakiejkolwiek oceny historycznej i prawnej fenomenu: Unia Brzeska 1596 (eparchia włodzimiersko-brzeska → metropolia kijowska), Unia Użhorodzka 1646, synody złoczowski (1629) i kolejne edycje unii brzeskiej; unia z Ormianami (XVIII w.) i zakon mechitarystów (1717), z Chaldejczykami (1830, patriarchat J. A. Asatian), uznanie patriarchatu melchickiego (1729), pojednanie Syro-malankarskie (1930) i unia Syro-malabarska (1663, podział 1887). To fundament tożsamości połowy katolickiego Wschodu.
+- **Męczennicy i wyznawcy Kościołów wschodnich katolickich XX wieku**: bł. Teodor Romża (biskup mukaczewski, †1947), sługa Boży kard. Kłymentij Szeptycki (metropolita Lwowa, †1944), bł. Jozafat Kocyłowski (biskup przemyski, †1947), bł. Wasyl Welyczkowskyj (†1973), męczennicy ormiańscy i chrześcijańskiego Wschodu — kategoria *nowomuczenicy i wyznawcy* nie ma w `/codex/md` ani jednego wpisu kalendarzowego (badanie G.4 i tura trzecia wykazały frekwencję 0 dla wszystkich sprawdzanych imion: `Matrona`, `Innokientij`, `Ivan Kronsztadt`, `Ksenia Petersburskaja`, `Kyjo-Pieczerskij`, `Studenij` itd.).
+- **Tradycja „sobornost” i „pamiat’” cerkiewna** (ros. `Soborowanije`, pamiat' swiatogo, rozmowy duchowe (biesiedy)) — 0; **kult Nieopalimaja Kupina (Niepalny Krzew)** i akafisty przywrócone w Kościołach katolickich bizantyjskich — 0.
+- **Życie monastyczne katolików wschodnich**: Studici (OSBM — odrodzenie przez J. Romniczanyna i T. Rabczewskiego, klasztory Krechów/Drohobycz, kongregacja zatwierdzona 1931), Mechitarysti (1717, San Lazzaro — drukarnia, słowniki, wydania Ostożnoje Bogosłowije!), redemptoryści bizantyjscy (OSUR, 1964), żeńskie zgromadzenia obrządku bizantyjskiego (Służebniczki Najświętszego Serca Jezusa, Siostry św. Jozafata, Kongregacja Matki Bożej Życia Wiecznego). Żadna wspólnota zakonna wschodnia katolicka nie jest opisana — mimo że Księga IX/X mogłaby czerpać z ich reguł majątkowych.
+- **Struktury ponadeparchialne**: Synody Biskupów Ukraińskiego Kościoła Greckokatolickiego (SUDiU), Komisja Biskupów ds. Ekumenizmu, dykasteria Wschodu (Congregatio pro Ecclesiis Orientalibus, założona 1917 przez Benedykta XV „De Providenti”!) — frekwencja: 0. Sam fakt istnienia odrębnego prawa wschodniego katolickiego (CCEO 1990) jest w kodeksie ledwo zaznaczony (A.6).
+
+### I.5. Prawo partykularne i synodalne Wschodu katolickiego (luka systemowa)
+
+Kan. 26 CCEO uznaje prawo partykularne każdego Kościoła sui iuris za równoprawne źródło. `/codex/md` nie opisuje:
+
+- statutów wewnętrznych zgromadzeń hierarchicznych (np. *Statut Synodu Biskupów UKGK*, konstytucje zakonne bazyliańskie, reguły instytutów świeckich obrządku bizantyjskiego);
+- zwyczajów miejscowych zatwierdzonych przez Stolicę Apostolską (np. kalendarze partykularne eparchii mukaczewskiej/przemyskiej z lokalnymi świętymi);
+- procedur elekcji biskupów w Kościołach patriarchalnych (lista terna przedstawiana patriarsze — kan. 145–146 CCEO) — model mogący inspirować Księgę VIII (przekazanie patriarchatu!) a jednak nieużyty;
+- trybunałów: sąd metropolitalny, rot patriarchalna, odwołanie do Dykasterii Wschodu (łac. KPK zna jedynie Rotę i Signaturę).
+
+### I.6. Duchowość i formacja kapłańska Wschodu katolickiego
+
+- **Akademia Duchowna** (Kyjo-Mohyljanska, Lublin, Preszów/Użhorod, Ormiańskie Kolegium Mechitarystów, Papieski Instytut Wschodni — Pontificio Istituto Orientale, 1917) jako model formacji: 0.
+- Program studiów: liturgika wschodnia, patrystyka grecka, prawo kanoniczne Wschodu, homiletyka (tradycja „słowo w dniu pogrzebu” — *słowo pochwalne*/panegyrikos) — nieobecne.
+- **Modlitewnik „Posłusznik”/„Psaltaria czytana”** (reguła modlitewna świeckiego: Ps 50, „Ojcze nasz”, „Bogorodzice Djewo”, dziesiątki Modlitwy Jezusowej na komboskiniu według stanu życia) — 0; podobnie **Reguła św. Bazylego dla mnichów „ Szerokich ” i „Krótkich” (Regulae fusius et brevius tractatae)** — wspomniana pobieżnie w D.1, bez wskazania jej recepcji katolickiej (tłumaczenia jezuickie i bazyliańskie).
+- **Kult Serca... wschodni odpowiednik: „Najświętszego Serca” w ikonografii ruskiej (Spas vsierzdije — Chrystus „z otwartym bokiem/sercem” na ikonie Paschy)** — 0; mistycyzm „słodkiego Jezusa” (Ivan Kronsztadt, Matrona, starcy Optino) już w D, ale bez katolickich mediów (redemptoryści bizantyjscy, recepcja pisarzy zachodnich w przekładach wschodniosłowiańskich).
+
+### I.7. Kultura artystyczna Wschodu katolickiego (dopełnienie G.2)
+
+- **Ikonopisanie greckokatolickie**: szkoła pyskali (Iwaszczuk, Kulpykiewicz, Mastylo; współcześni: br. Maksym Melnyk OSBM); mieszanka baroku łacińskiego z tradycją bizantyjską (ikonostas yunionski z elementami rokokowymi); „Ikona Soboru Kijowskiej Rusi” (2016) — 0.
+- **Muzyka wschodniokatolicka**: gatunek **„partes”** (wielogłosowe kantyczki liturgiczne XVII–XVIII w.), **śpiew bazyliański** (zpiv szkół kijowskich), kompozytorzy cerkiewni kręgu unickiego i ruskiego (A. Wiedel, M. Łysenko, D. Bortniańskijskyj), zapis „kriuki”/znamennyj raspiew (por. J.2) — 0.
+- **Architektura unicka**: drewniane cerkwie łemkowskie i bojkowskie (lista UNESCO), klasztor bazyliański w Krehowie (barok z kopułami), sobory unickie Przemyśla i Lwowa, neobizantyjski styl „ruski” w Galicji XIX w. — 0.
+- **Drukarstwo i bractwa**: **Ostróg** (drukarnia Wasyla-Konstantyna Ostrogskiego, Biblia Ostrogska 1581), Drukarnia Kyjo-Pieczerska (Ławra, pierwsza drukarnia misyjna), bractwa cerkiewne (Lwowskie Bractwo, Stanisławowskie), pierwsze katechizmy ludowe (Smotrycki „Grammatiki”, 1619) — 0.
+
+### I.8. Diaspora i struktury egzarchalne poza ojczyzną
+
+Model „Kościół Domowy” powinien naturalnie interesować się diasporą wschodnią katolicką, bo tam rodzi się najwięcej „domowych Kościołów”:
+
+- egzarchaty i eparchie dla emigracji: Argentyna (Mendoza, korpus parafii od 1948 r.), Australia (Melbourne, 2003), Niemcy i Skandynawia (egzarchat Monachium, 2022), Francja, Włochy, Kanada (Toronto, Winnipeg, Edmonton), USA (eparchia św. Włodzimierza Wielkiego w Stamford, 1983; archieparchia Filadelfii; egzarchat św. Tomasza Apostoła dla syro-malabarskich, 2001); ordynariat personalny „Our Lady of Walsingham” (2011) jako model struktury bezterytorialnej — frekwencja wszystkich terminów: 0.
+- problem „bezprezbiterialnych parafii” (kapłan na dojazdy raz w miesiącu → świecki-lektor prowadzi godziny, rodzice chrzczą w razie potrzeby — kan. 675–677 CCEO w zastosowaniach niestandardowych) — sytuacja bliska idei Kościoła Domowego, a nieopisana.
+- *Marginalia pominięte celowo.*
+
+### I.9. Ekumenizm wewnętrzny: relacje katolicko-prawosławne w rodzinach mieszanych
+
+- małżeństwa mieszane: kan. 813–814 CCEO (mieszane wewnątrz katolicyzmu obrządkowego oraz z prawosławnymi), chrzest dzieci w obrządku wybranego rodzica (kan. 781 §2 CCEO: przynależność obrządkowa dziecka), „communicatio in sacris” w razie potrzeby (kan. 673 CCEO; kan. 671 KPK) — Kodeks Domowy nie przewiduje rodziny, w której jedno z Małżonków jest prawosławne lub greckokatolickie: brak norm o wspólnej celebracji, wychowaniu dzieci i obrządkowym „prawie domu”. Wszystko: 0.
+- **Gościnność eucharystyczna / „communicatio in sacris”** — regulamin Direktorium Ekumenicznego (1993, 2020) — 0.
+- **Tydzień Modlitw o Jedność Chrześcijan**, ekumenizm życia (Sant'Egidio, Taizé) — 0; „Spotkania cyrylo-metodiańskie” — patrz A.8.
+
+### I.10. Podsumowanie części I
+
+Katolickie Kościoły wschodnie są w `/codex/md` **cieniem prawosławia**: cytowane jest „prawo wschodnie” ogólnie, ale bez ich własnego imienia, prawa, ksiąg, świętych, muzyki i struktur diasporalnych. Dla kodeksu, który chce być „Kościołem Domowym” o rodowodzie słowiańsko-wschodnim, jest to luka podwójna — rzeczowa i tożsamościowa.
+
+## 16. CZĘŚĆ J — DALSZE TRADYCJE WSCHODNIE I SŁOWIAŃSKIE NIEOBJĘTE WERSJAMI 1.0–2.0
+
+Trzecia tura grep potwierdziła frekwencję 0 dla następujących nowych kategorii:
+
+### J.1. Sprawowania urzędów i liturgia mniejszych święceń
+- `cheirotonia` (święcenie „z nałożenia ręki” — biskup/prezbiter/diakon) vs `cheirotesia` (ustanowienie lektora/subdiakona „z błogosławieństwa”, bez wnoszenia do ołtarza) — rozróżnienie ontologiczne dla teologii posług Księgi V: 0.
+- `sublist` (hypodiakon) — dawniej obowiązkowy przed liturgią (przygotowanie wody, pilnowanie drzwi): 0.
+- `lektor` czytający Apostoła (Praksis) z ambony — samo słowo obecne 5× w sensie łacińskim, ale bez wschodnich obrzędów ustanowienia: okrzyk ludu **„Axios!”** przy cheirotonii, życzenia **„eis polla despotá!”** („na wiele lat, władco!”), wniesienie księgi przez biskupa — 0.
+- `ihumen` (przełożony monasteru, błogosławieństwo laską ihumeńską), `archimandryta`, `sakelfarios`, `oikonom` (ekonom domu klasztornego) — 0.
+
+### J.2. Rok liturgiczny — szczegóły nieujęte w A.3/A.4
+- `czterdziesiątnica` (Wielki Post jako „Święta Czterdzieści Dni” + Tydzień Paschy = 40+7; tygodnie: Św. Grzegorza Palamasa, Niedziela Prawosławia/ikon, Krzyża, św. Jana Klimaka, Marii Egipcjanki; „Wierzbowej Niedzieli” = Wajsznij (kwiecień), Łazarzowa sobota) — 0.
+- **Pokłony**: ziemne (metanija) z formułą „Boże, mię grzesznego oczyść…”, wielkie/small, zakaz pokłonów od Paschy do Zesłania Ducha (kanony I Soboru Nicejskiego, kan. 20) — 0.
+- **Dyscyplina postna w szczegółach rubrycznych**: „suchojedienije” (xerofagia — post ścisły suchego jadła), stoly (posiłki communalne w refektarzu klasztornym z czytaniem żywotów), ryba w soboty i Niedziele Postne, wino i olej w wtorki/czwartki — kalendarz czterech postów rocznych (Filipow/Bożonarodzeniowy 6 tyg., Wielki, Apostolski/Pietrow zmienny, Uspienski 2 tyg.) w pełnych rubrykach: 0.
+- **Niedziele przygotowawcze do Czterdziestnicy**: Mięsopustna (Sądu Ostatecznego, wspomnienie zmarłych — sobota mięsopustna!), Syropustna/Wiernych (Wygnania z Raju), oraz sobota mięsopustna z modlitwą za zmarłych — wszystkie nazwy własne cyklu triodowego: 0.
+- **Oktoich**: 8 tonów (glasów) zmieniających się co tydzień; „Ton pierwyj… osmog” + Pentekostar/trieť (Kwiatna Triod) — G.1 wymienił okttoich jako gatunek, ale bez mechanizmu systemu glasowego i „śpiewu trojakiego” (znamennyj raspiew, „kriuki”) — 0.
+- **Godziny Królewskie** (Carovyj čas) w Wielki Piątek — 0; **„Niedziela Orthros z śpiewem 12 Ewangelii pasyjnych”** (Usypal’nica/Jutrznia z 12 readings, procesją z epitafiją, „Pieczętowanie” Grobu) — 0.
+
+### J.3. Kult maryjny Wschodu (uzupełnienie B.1)
+- **Typy i wizerunki ikon maryjnych z własnymi dniami święta**: Hodegetria (Smoleńska, Iverskaja), Eleusa/Umilenije (Włodimirskaja), Oranta/Znamienije (Nowgoród), „Neopalimaja Kupina” (Niepalny Krzew), „Pantanassa” (Wszetchniająca), „Tricherousa” (Trój-ręki), „Feodorovskaja”, „Kazan’skaja”, „Tichvinskaja”, „Skorbiauszczaja/Poslushaj” (Wszechstronna Pomocnica), „Żywonośnyj Krest”; każda z legendą pochodzenia i dniem commemorationis — wszystkie 0.
+- **Święta maryjne typikonu poza Zwiastowaniem/Uspieniem**: Rożdestvo Bogorodicy (8 IX), Wvedenije vo Chram (21 XI), Synaksis św. Joachima i Anny (9 IX) — oraz ludowe „trzy Spasy”: Miodowy (14 VIII), Jabłocznyj (19 VIII — błogosławieństwo jabłek i ziół w typikonie!), trzeci „Spas Niesokiennyj” („Zruczenije Rizy” w terminologii rusińskiej): 0.
+- **Akatyst do Bogarodzicy** (21 stychii kontakowych + ikosy, śpiewany stojąc „akatyst” = „bez klęczenia” w piątą sobotę Wielkiego Postu; „Wiest’” archanioła w pierwszym ikosie) — G.1 wymienił akatyst ogólnie; brak opisu struktury alfabetycznej (24 litery) i rubryk — 0.
+
+### J.4. Tradycje słowiańskie — nowe bloki
+- **Łużyczanie (Sorbowie)**: katolicy łużyccy z obrzędem **„Křižerjo / Krósty”** — procesje konne w białych strojach z pieśniami w poniedziałek wielkanocny wokół Budyzina; język górno-/dolnołużycki, liturgia w języku sorbskim, „Bože, wšěm ludem…” — 0. Idealny precedens dla „małego obrządku słowiańskiego”.
+- **Regionalia polskie obrzędów pasterskich i wielkanocnych**: palma kurpiowska (wysoka, gałązkowa, konkursy), pucheroki (krakowiacy-wędrownicy tłustego czwartku), dyngus/śmigust (polewanie wodą w Poniedziałek Wielkanocny — echo tradycji chrzcielnej), herody (misteria bożonarodzeniowe z Herodem), kolędnicy z turziem i „Emanuelem”, góralskie kolędy i pastorałki (Bukowina Tatrzańska) — 0.
+- **Karpaty Rusińskie/Lemkowskie/Bojkowskie**: cerkwie drewniane „trójdzielne” (UNESCO: m.in. Owczary, Brunary Wyżne, Chmiel, Kwassow, Kwatry), pisanki bojkowskie techniką „krapynek” (malowanie woskiem nakładanym kroplami), huculszczyzna (tiszbine — wełniany pas, trembita — sygnał żałobny i pasterski), „wodopoły” i „koliada z kozą” na Rusi Zakarpackiej — 0.
+- **Południowi Słowianie**: bułgarskie **kukeri/surwa** (maskarady zimowe przepędzające duchy nieczyste — analogia do godów pochrześcijańskich F.2), macedońskie/bułgarskie **lazarki** (pieśni lazarowe w sobotę Łazarzową), serbskie **litije procesyjne w czasie zarazy** (2020!), slava już w E.2; dalmatyńskie procesje wielkanocne „narudžba” — pozycje kukeri/lazarki/litije: 0.
+- **Cykl wschodniosłowiański — uzupełnienia**: koliadowanie z „heroldem” i „kozą” (szczedriwky + chostaczi — kolędnicy z „kozą”), **Radonica** (wtorek po Antypascha — odwiedziny grobów, jajko na mogile, kutia „pominalnaja”), obrzęd „gowlinki/hohliwky” (żałobne pieśni i lalka-kupal), Semik-Rusalia (już F.2) — Radonica i Szczedriwky jako instytucje: 0.
+- **Imiona i patronat**: kalendarz „swiacycho po imieni” (menologion osobisty, „dni angielskogo imeni” — dzień po imieninach = dzień anioła-stróża), tradycja nadawania imienia „po świętym dnia” (typikonowe imieniny vs kalendarz łaciński) — 0; **podwójne imię zakonne** (profesja: nowe imię — por. D.1) — 0.
+- **Budowa domu i błogosławieństwa etapowe**: „fundamentnoje błagosłowienije”, wbicie pierwszego gwoździa, „wpuszczanie kotu” (najpierw ikona, potem kot — przesąd chrystianizowany), „pierwszy gość”, „chleb-sól w proge”, umieszczenie kapsuły fundacyjnej z modlitwą i monetą; obrzęd wprowadzenia do nowego mieszkania („błagosłowienije nowogo żyliszcza” wg trebnika, kropienie agiasmą, okadzenie, kutia lub pieroh — 0. **To najbliższy kodeksowi domowemu blok tematyczny.**
+- **Rodzina i przejścia**: „osmyj den” (obrzed imienin dziecka ósmego dnia — imię), **„sorok dniej”** (40. dzień — matka „wprowadzana do świątyni”, dziecko błogosławione), „pierwszy zub”, „striżenie kosej” (1. rocznica), „provody v pervyj klass” (wręczenie ikony przed szkołą), „błagosłowienije matieri pred svadbой syna” (modlitwa matki za narzeczonych — teksty paraliturgiczne matki) — 0.
+- **Śmierć i żałoba — detale folkloru**: obmycie i ubranie zmarłego, „zamyranie zerkał” (zasłanianie luster w domu żałoby), „zawiasy drzwi”, „wyprowadzanie trupa nogami naprzód”, „pieniądze w trumnie”, „pomin: 3, 9, 40 dniej + godowszczina” (liczenie od dnia śmierci; 9 = chóry anielskie, 40 = wniebowstąpienie duszy — uzasadnienia teologiczne ludowe), „triesna” (trumna), „pominalnaja trapeza” (stypa: kutia, bliny, uzwar), „nieroboczije dni pomin” — część F.3/A.9 wspominały pominki; te mikroelementy: 0.
+- **Prawosławne/katolickie znaki domowe**: „ikona nad drzwiami wejściowymi”, „kutowaja ikona” (ikona w „pięknym kącie” naprzeciw stołu — patrz G.2), świeca „do swiecznicy”, lampka „ładanka” (oliwna), kadzidło „ładan” w niedziele, „okno na Wschód” (orientacja domu), „próg święty” (zakaz siadania na progu — przesąd z teologią progu jako granicy świata) — 0.
+- **Pieśni i teksty domowe**: „Bohorodice Djewo”, „Otcze Nasz” cerkiewnosłowiański, „Caru Nebesnyj”, „Wieruju” (Symbol Wiary w wersji bez Filioque), „Dostojno jest” (hymn eucharystyczny), „Swiecie Tichij” (gr. Phos hilarion, II w., śpiewany na Wieczerni — notowany w A.3 tylko ogólnie; sam hymn: 0), modlitwy wszelkiej potrzeby, kolęda „Szczedrik”/„Nowy rok” (ros. „Novogodnaja pesnya”), „Kolyadka” („Chrystos rożdajetsja…”) — 0.
+- **Pismo i kaligrafia**: uncjał (ustaw), poluustaw, skoropis’, titła (skrócenia nad literami), „jer” ъ jako miękki znak w recytacji; spór o „ruskie listwy” (protorunizm), reformy ortograficzne cerkiewnosłowiańskiej russkiej edition (Moskwa vs Kyiv), „Pochwała języka bułgarskiego” (Kliment Ochridski) — 0.
+- **Daty historyczne jako święta lokalne**: 988 (Chrzest Rusi — „den’ Kreszczenija Rusi”, święto cerkiewne i państwowe), 24 V (dzień śww. Cyryla i Metodego / „Den’ slavjanskoj pismennosti i kul’tury” w Rosji, Bułgarii, Macedonii, Czechach), „Dzień języka i piśmiennictwa” — 0.
+### J.5. Tradycje domowe Wschodu wprost (bezpośredni model dla Kodeksu Domowego)
+
+- **„Kut’ czerwony” (krasnyj kut')** jako domowe sanktuarium: ikony wiszące w narożu wschodnio-południowym, obrus, lampka, kwiaty, miejsce honorowe gości — rdzeń teologii przestrzeni domowej Wschodu; raport A.2/G.5 wspominał ikonostas domowy, ale nie opisał **kuta** jako instytucji: 0.
+- **Stół Wigilijny jako ołtarz domowy**: 12 potraw (12 apostołów), sianko pod obrusem (żłóbek), świeca, „Diduch” (snop zbóż ustawiany w kącie domu na Boże Narodzenie (Ukraina)), „pavuk” (siano dekoracyjne), nakrycie dodatkowe dla nieobecnego/zmarłego/gościa-aniola — 0 (B.2 częściowo; Diduch i Pavuk: 0).
+- **Domowy cykl modlitewny**: modlitwa poranna „przed ikoną” („Caru Niebiesnyj”, „Ojcze nasz…”, modlitwa do Anioła Stróża, do św. patrona dnia), wieczorny rachunek sumienia + „Wsie Chwatitie” i modlitwa „Vruči dušu moju…”, przed posiłkiem „Blagoslowi, Gospodi…”, po posiłku „Blagodarim Ti, Christe Boże…”, błogosławieństwo wyjścia z domu („Boże, spasi i sohrani wychoduszczich…”), modlitwa za podróżujących (ikona w samochodzie, ikona „Podrożajuszczich Spasi”), modlitwa za umierającego („Ouspaj, Gospodi…”) i formuły przed snem — cały ten mikrorytuał: 0.
+- **Kierownictwo duchowe w rodzinie**: „duchownik stały” (spowiednik domowy rodziny), „krzesło kapłańskie w domu” (fotel dla spowiednika przykutego do ikony), zwyczaj „radu starszych” (sovet starejshin), „błagodarstvennoje pismo duhovniku” (listy do starca — korespondencja jako gatunek literacki: Optino i Szamordino — por. D.4) — 0.
+- **Święta „rodowe” w prawie zwyczajowym**: „godowszczina simji” (rocznica ślubu z odnowieniem przyrzeczeń przed ikoną), „błagosłowienije dieciej na letso” (wakacje), „szkolnyje ikonki” (wręczane we wrześniu), „armija provody” (pożegnanie poborowego z nabożeństwem — Rosja), „pensionnyj jubilej” (modlitewne „mnogaja leta” na odejściu na emeryturę) — 0.
+- **Ekonomia domowa sakralna**: dziesięcina/„piera-dan” (pierwociny: pierwsze jajka, miód, jabłka niesione do cerkwi — „Miodowy Spas”, „Jabłocznyj Spas” — J.3), „kum/kuma” (system powinowactwa chrzestnego: kum jako drugi ojciec, zakaz małżeństw między kumostwem — struktura społeczna sakramentalna) — 0. **Kumostwo** to kluczowa instytucja słowiańska: chrzestni + „drugi ojciec”, sieć solidarności; nieobecna w Księdze II (pokrewieństwo duchowne potraktowane łacińsko).
+
+## 17. CZĘŚĆ K — TABELA FREKWENCJI III (BADANIE TRZECIE)
+
+Wybrane nowe terminy (spośród powyżej 100 sprawdzonych), wynik z `grep -ri ... codex/md | wc -l`:
+
+| Termin | Frekwencja |
+|---|---|
+| `egzarcha` / `egzarchat` | 0 |
+| `protoprezbiter` | 0 |
+| `synod stały` | 0 |
+| `maphelion` / `artoforion` / `antymens` | 0 |
+| `tryplunge` / `chrzest przez zanurzenie` | 0 |
+| `myro` | 0 |
+| `koronacja` (sakramentalna) / `pierścień Salomona` | 0 |
+| `epitimia` / `spowiedź przed ikoną` | 0 |
+| `euchologion` / `trebnik` / `molieben` / `wodogoszcz` | 0 |
+| `carskie wrota` / `proskomidia` / `epikleza` | 0 |
+| `uniatyzm` / `unicka` | 0 |
+| `cheirotonia` / `cheirotesia` / `sublist` | 0 |
+| `czterdziesiątnica` (jako termin liturgiczny) | 0 |
+| `Ostrożnoje Bogosłowije` / `jurodiwy` / `chalidwa` | 0 |
+| `Križerjo` (Łużyczanie) / `kukeri` / `lazarki` / `diduch` | 0 |
+| `krasnyj kut'` (instytucja) / `kumostwo` | 0 |
+| `Radonica` / `sorok dniej` | 0 |
+
+Terminy kontrolnie niezerowe: `diakon` 5 (ale bez subdiakona i cheirotesii), `lektor` 5 (łac.), `metropolita` 3 (bez egzarchatu), `bierzmowanie` 7 (dyscyplina łacińska), `namaszczenie chorych` 3 (łac.), `Błogosławiony` 232 (w sensie ogólnym, nie jako wschodni stopień kanonizacji).
+
+## 18. ZAKTUALIZOWANE REKOMENDACJE — WERSJA 3.0
+
+### 18.1. Rozszerzenie Księgi XII o kolejne tytuły (kan. 515+)
+
+Do 16 tytułów z pkt 14.1 dodaje się:
+
+- **Tytuł XVII.** O strukturze hierarchicznej katolickich Kościołów wschodnich: egzarchat, eparchia, protoprezbiteriat, synod stały; modele „egzarchatów Rodu” w Kościele Domowym (I.1);
+- **Tytuł XVIII.** O formie celebracji misteriów w dyscyplinie wschodniej: chrzest przez zanurzenie z myropomaszczeniem, małżeństwo-koronacja, spowiedź przed ikoną z epitimią, komunia pod obiema postaciami (I.2);
+- **Tytuł XIX.** O księgach liturgicznych Wschodu: euchologion/trebnik domowy, horologion godzin, antymens i ołtarz przenośny Kościoła Domowego (I.3);
+- **Tytuł XX.** O pamięci historycznej: unie, męczennicy XX wieku, diaspora i egzarchaty emigracyjne, normy dla rodzin mieszanego obrządku (I.4, I.8, I.9);
+- **Tytuł XXI.** O sakralnej przestrzeni i mikrorituałach domu: krasnyj kut', stół wigilijny jako ołtarz, błogosławieństwa etapowe budowy i przeprowadzki, modlitwy za podróżujących, „sorok dniej”, kumostwo (J.5, J.4);
+- **Tytuł XXII.** O tradycjach lokalnych Słowian Zachodnich i Południowych: Krósty łużyckie, kukeri, lazarki, regionalia polskie (J.4).
+
+### 18.2. Priorytet natychmiastowy
+
+Najpilniejsza z luk ujawnionych w części I–J: **brak jakiejkolwiek normy dla katolickich Kościołów wschodnich jako takich** (kodeks operuje binarnie „łaciński vs prawosławny”), oraz **brak rytuału domowego** (trebnika/horologionu) — podczas gdy obie rzeczy są warunkiem możliwości „Kościoła Domowego obrządku wschodniosłowiańskiego”. Rekomenduje się powołanie redakcyjnego zespołu „CCEO-expertise” oraz pilotażowy „Domowy Trebnik” (formularze: wodogoszcz mały, błogosławieństwo stołu, kutia-pominki, koronacja, modlitwy poranne i wieczorne z komboskiniem).
+
+## 19. PODSUMOWANIE ROZDZIAŁU III
+
+Trzecie badanie frekwencyjne udokumentowało kolejne **ponad 100 kategorii nieobecnych** (sam katalog I.1–I.10 i J.1–J.5 obejmuje ok. 120 pozycji), z których najważniejsze to:
+
+1. **Tożsamość katolickich Kościołów wschodnich** (struktury, sakramenty, księgi, historia unii, męczennicy, diaspora) — opisana w raporcie po raz pierwszy;
+2. **Mikrorituály domowe Wschodu** (kut', trebnik, modlitby za podróżujących, sorok dniej, błogosławieństwo domu) — materia najbliższa celowi kodeksu;
+3. **Instytucja kumostwa** i sieci powinowactwa sakramentalnego;
+4. **Tradycje peryferyjne słowiańskie** (Łużyczanie, Lemkowszczyzna, Bojkowszczyzna, kukeri/lazarki);
+5. **System godzin i postów w szczegółach rubrycznych** (Carovyj čas, metanije, triod/czworoglasnik).
+
+Łącznie raport w wersji 3.0 dokumentuje **około 240 nieobecnych kategorii tradycyjnych** w korpusie `/codex/md`, utrzymując główny wniosek: warstwa deklaratywna kodeksu powołuje się na dziedzictwo wschodnie i słowiańskie, którego warstwa normatywna nie opisuje ani nie reguluje.
+
+---
+
+*Koniec raportu (wersja 3.0).*
+
+**Wersja 3.0** rozszerza wersje 1.0 i 2.0 o Rozdział III (części I, J, K; pkt 15–19): tradycje Kościołów Wschodu katolickich (CCEO), księgi liturgiczne Wschodu, mikrorytuały domu, kumostwo, tradycje peryferyjne Słowian, trzecia tabela frekwencji.
