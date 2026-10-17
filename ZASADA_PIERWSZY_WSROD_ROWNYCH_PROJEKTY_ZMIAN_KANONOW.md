@@ -33,6 +33,12 @@ Zasada ma trzy wzajemnie odbijające się filary („triada pierwszeństwa wśr�
 - każdy przełożony (Głowa Rodu, Małżonka, Potomek, hierarcha związku, Biskup Rzymu) jest wobec przyjętego **pierwszym z równych**, nie panem; stąd zakaz wszelkich aktów władzy upokarzających, arbitralnych lub traktujących przyjętego jako przedmiot decyzji.
 - zasada ta obowiązuje także w Kościele katolickim, szczególnie wschodnim (eklezjologia *primus inter pares*, synodalność, Kolegium Biskupów, CCEO kan. 49, 51, 55, 102, 133).
 
+**Potwierdzenie w KPK 1983 (kan. 205, kan. 114–115, kan. 157):**
+- **Kan. 205 KPK:** w pełnej wspólnocie Kościoła katolickiego pozostają tutaj na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego. Pierwszeństwo wśród równych rozgrywa się więc wewnątrz widzialnego organizmu Kościoła — nikt, kto zachowuje te trzy więzy, nie może być traktowany jako „nieprzyjęty”; biskup subdiecezjalny będący katolikiem z chrztu i komunii ma prawo do ugoszczenia w każdym kościele — również przez Biskupa Rzymu.
+- **Kan. 114 § 1 i kan. 115 § 1–2 KPK:** Triarchia Domowa jako zespół co najmniej trzech osób współdziałających w podejmowaniu decyzji zgodnie z przepisami prawa i statutów jest **kolegialną osobą prawną**; kolegialność ta jest kanonicznym uzasadnieniem zasady *primus inter pares* na poziomie domowym — przewodniczący (Ojciec/Głowa Rodu) jest pierwszym z równych członków kolegialnego zespołu, a nie władcą ponad nimi (por. kan. 115 § 3 KPK o zespołach rzeczy zarządzanych przez jedną lub kilka osób albo kolegium).
+- **Kan. 157 KPK:** jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym. Oznacza to, że do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym — powierzenie to jest jednak posługą pierwszego z równych we własnym Kościele, nie własnością nad urzędnikami; analogicznie biskup subdiecezjalny Kościoła Domowego swobodnie powierza urzędy we własnym Kościele partykularnym.
+- **Zasada „gość w dom, Bóg w dom”:** za „przyjęcie” rozumie się nie akceptację wolą, ale przyjęcie gościa do domu na zasadzie gościny. Nie można bez ważnej przyczyny nie przyjąć do Kościoła Katolickiego — czyli nie ugościć — biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją, parafią etc. Gospodarz (każdy przełożony, każdy kolejny hierarcha) przyjmuje gościa jako pierwszy z równych, nie jako pan; odmowa ugoszczenia wymaga ważnej przyczyny.
+
 ---
 
 ## II. MIEJSCA WYMAGAJĄCE PÓŹNIEJSZEJ ZMIANY
@@ -67,6 +73,7 @@ Zasada ma trzy wzajemnie odbijające się filary („triada pierwszeństwa wśr�
 **Stan obecny:** Głowa Rodu przyjmuje osoby na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo „w sposób domniemany swoją wolą”; tożsame prawo mają Małżonka i potomkowie.
 **Co zmienić później:**
 - § 2 — uściślić dwustopniowość aktu w duchu zasady: (a) **przyjęcie wolą Triarchii Domowej** (kan. 26) jako akt kolegialny pierwszego z równych gremium domowego — forma właściwa przyjęcia na stałe; (b) **przyjęcie na chwilę wolą władzy Kościoła Domowego** (jednostronne, także domniemane) — pełnoprawny akt gościnny, ważny od zaraz, w którym przyjmujący działa jako *pierwszy hierarcha z jakimi spotyka się wierny*.
+- § 2 — dodać definicję „przyjęcia”: za przyjęcie rozumie się nie akceptację wolą, ale **przyjęcie gościa do domu na zasadzie „gość w dom, Bóg w dom”**; wobec biskupa subdiecezjalnego będącego katolikiem z chrztu i komunii z jego subdiecezją i parafią nie można bez ważnej przyczyny odmówić ugoszczenia — ani w wymiarze domowym, ani w wymiarze Kościoła Katolickiego (por. kan. 205 KPK 1983).
 - **Nowy § 3** — kanonizacja zasady: *„Przyjęty nie jest sługą przyjmującego, lecz bratem pierwszego z równych”*. Skutkiem każdego z dwóch aktów przyjęcia jest:
   1° równe z pozostałymi wiernymi prawo do godności (kan. 32);
   2° prawo do uczestnictwa w liturgii domowej stosownie do czasu pobytu (kan. 17, kan. 20 § 2);
@@ -93,11 +100,17 @@ Zasada ma trzy wzajemnie odbijające się filary („triada pierwszeństwa wśr�
 - § 1 — dodać zdanie: Triarchia Domowa sprawuje władzę decyzyjną na zasadzie **pierwszeństwa wśród równych**; przewodniczenie Ojca nie jest wyższością godnościową nad Matką i Potomkiem.
 - § 3 — przyjąć, że „głos decydujący” Głowy Rodu jest funkcją *primus inter pares*, analogiczną do prymatu Biskupa Rzymskiego pośród biskupów; wetum Małżonki (sprawy sumienia i wychowania) zabezpiecza kolegialną równość.
 - **Nowy § 4** — w sprawach **przyjęcia wiernych** (kan. 16 § 2) Triarchia orzeka jako ciało pierwsze z równych: żadne z trojga nie przyjmuje „ponad” pozostałymi, lecz każde w swojej kolejności spotykania przez wiernego (potomek — rodzic — ojciec/biskup domowy).
+- **Nowy § 5** — kwalifikacja kanoniczna Triarchii Domowej: na mocy kan. 114 § 1 KPK 1983 Triarchia jest osobą prawną ustanowioną albo na mocy samego przepisu prawa, albo przez specjalne przyznanie kompetentnej władzy wydane w formie dekretu, jako **zespół osób** skierowany do celu odpowiadającego misji Kościoła, ale przekraczającego cel poszczególnych jednostek; na mocy kan. 115 § 2 KPK 1983 — jako zespół co najmniej trzech osób, których działanie określają członkowie współdziałający w podejmowaniu decyzji na równych prawach lub nie, zgodnie z przepisami prawa i statutów — Triarchia jest **kolegialna**. Majątkiem Kościoła Domowego jako zespół rzeczy (fundacja autonomiczna) rządzi kan. 115 § 3 KPK.
+- **Nowy § 6** — oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; w Kościele Domowym kompetencję tę sprawuje biskup subdiecezjalny wraz z Triarchią jako kolegialnym zespołem osób, a akty przyjęcia wiernych (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) są formą tego swobodnego powierzania urzędów i funkcji we własnym Kościele partykularnym.
+- **Nowy § 7** — oparcie w kan. 205 KPK 1983: w pełnej wspólnocie Kościoła katolickiego pozostają na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; Triarchia Domowa i biskup subdiecezjalny, zachowując te trzy więzy, korzystają z pełnej wspólnoty *ex ipso iure* — dlatego aktu przyjęcia dokonywanego wolą Triarchii nie można stawiać wyżej ani przed komunią z Biskupem Rzymu, a gościna wobec ochrzczonego biskupa subdiecezjalnego jest obowiązkiem, nie fakultetem (*gość w dom, Bóg w dom*).
 
 #### 10. Kan. 30 §§ 1–3 — równość godności i komplementarność ról — **ANKER ZASADY**
 **Co zmienić później:**
 - § 1 — dodać zdanie: zasada równości wiernych (kan. 8 KPK) znajduje dopełnienie w regule **pierwszeństwa funkcjonalnego**: niektórzy są „pierwsi” (Biskup Rzymu pośród biskupów; Kościół domowy pośród wspólnot; biskup domowy subdiecezjalny pośród hierarchów spotykanych przez wiernego), lecz zawsze „pierwsi z równych”.
 - **Nowy § 4** — zastosowanie do osób przyjętych: wierny przyjęty wolą Triarchii Domowej oraz wierny przyjęty na chwilę wolą władzy Kościoła Domowego są **równi wszystkim członkom wspólnoty** co do godności i działania; ewentualne pierwszeństwa (stały przed chwilowym, Triarchia przed pojedynczym aktem władzy) mają charakter wyłącznie porządkowy i służebny.
+- **Nowy § 5** — oparcie w kan. 205 KPK 1983: równość wiernych obejmuje równość w pełnej wspólnocie — wszyscy ochrzczeni, którzy w widzialnym organizmie Kościoła łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego, są w równej mierze przyjęci; żadna funkcja „pierwszego” nie może tego zróżnicować.
+- **Nowy § 6** — oparcie w kan. 115 § 2 KPK 1983: kolegialność Triarchii Domowej (zespół co najmniej trzech osób współdziałających w podejmowaniu decyzji na równych prawach lub nie, zgodnie z przepisami prawa i statutów) jest wzorcem *primus inter pares*: przewodniczenie nie znosi równości członków zespołu.
+- **Nowy § 7** — oparcie w kan. 157 KPK 1983: swobodne powierzanie urzędów kościelnych należy do biskupa diecezjalnego we własnym Kościele partykularnym; powierzający urząd jest wobec jego posiadacza pierwszym z równych sługą, nie panem.
 
 ### C. PREAMBUŁA *(plik `00_preambula.md`)*
 
@@ -146,6 +159,8 @@ Zasada ma trzy wzajemnie odbijające się filary („triada pierwszeństwa wśr�
 #### 18. Kan. 319 § 1 — biskup tytularny subdiecezjalny
 **Co zmienić później:**
 - § 1 — dodać zdanie: biskup domowy subdiecezjalny jest **pierwszym hierarchą, z jakim spotyka się wierny**, i właśnie jako taki sprawuje urząd *primus inter pares* — podległość biskupowi diecezjalnemu i Biskupowi Rzymskiemu jest porządkiem posługi jedności, nie nierówności godności.
+- **Nowy podpunkt** — oparcie w kan. 205 KPK 1983: biskup subdiecezjalny będący katolikiem z chrztu i pozostający w komunii z jego subdiecezją, parafią etc. oraz łączący się z Chrystusem w widzialnym organizmie Kościoła więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego **musi być ugoszczony i przyjęty** do Kościoła Katolickiego; nie można go bez ważnej przyczyny nie przyjąć (*gość w dom, Bóg w dom*) — odmowa ugoszczenia wymaga ważnej przyczyny i formy dekretu.
+- **Nowy podpunkt** — oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; biskup subdiecezjalny otrzymuje i powierza urzędy w swoim Kościele partykularnym jako pierwszy z równych, a nie jako wasal.
 
 #### 19. Kan. 328 § 3 oraz Kan. 329 — hierarcha związku subdiecezjatów
 **Stan obecny:** hierarcha związku jest już nazwany *primus inter pares*; pierwszy hierarcha pierwszego subdiecezjatu nie podlega wyborowi.
@@ -202,7 +217,7 @@ Zasada ma trzy wzajemnie odbijające się filary („triada pierwszeństwa wśr�
 
 ---
 
-## III. PODSUMOWANIE — SZEŚĆ REGUŁ DO WPISANIA (PRZEZ DODANIE, BEZ USUWANIA)
+## III. PODSUMOWANIE — SIEDEM REGUŁ DO WPISANIA (PRZEZ DODANIE, BEZ USUWANIA)
 
 1. **Reguła lustra trzech poziomów:** Biskup Rzymu — Kościół domowy (pierwotny, pierwszy spotykany) — biskup domowy subdiecezjalny (pierwszy hierarcha spotykany): wszędzie *primus inter pares*; wpisać m.in. przy kan. 2 § 1 (Ks. I), kan. 30 (Ks. II), kan. 319 (Ks. VI), kan. 506 (Ks. XI).
 2. **Reguła równej godności przyjętych:** brak stopnia „niższego” między przyjętym wolą Triarchii Domowej a przyjętym na chwilę wolą władzy Kościoła Domowego — kan. 14 § 2, kan. 15, kan. 16 § 2, kan. 30 § 4 (nowy), kan. 497 (Ks. XI).
@@ -210,5 +225,6 @@ Zasada ma trzy wzajemnie odbijające się filary („triada pierwszeństwa wśr�
 4. **Reguła ciągłości więzi mimo zmian hierarchy nadrzędnych:** kan. 354 § 1 i nowy § 2 (Ks. VII), kan. 1zq § 5 (Preambuła).
 5. **Reguła liturgicznego wyrazu zasady:** obrzęd przyjęcia (szkaplerz, kan. 282 Ks. IV) winien zawierać formułę powitalną „pierwszy z równych wita równego sobie”.
 6. **Reguła interpretacyjna całości:** każda wątpliwość przy stosowaniu przepisów o przyjętych rozstrzyga się na korzyść równości godności i służebnego charakteru pierwszeństwa — kan. 5 (Ks. I), kan. 376 (Ks. VII).
+7. **Reguła oparcia w KPK 1983 (kan. 205, kan. 114–115, kan. 157) oraz w zasadzie „gość w dom, Bóg w dom”:** pełna wspólnota ochrzczonych wiąże się z widzialnymi więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego (kan. 205); Triarchia Domowa jest kolegialnym zespołem osób — osobą prawną ustanowioną na mocy prawa lub dekretu (kan. 114 § 1, kan. 115 § 1–2), a majątkiem zarządza się jako zespołem rzeczy (kan. 115 § 3); do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym (kan. 157). „Przyjęcie” oznacza nie akceptację wolą, lecz **ugoszczenie gościa**: nie można bez ważnej przyczyny nie przyjąć do Kościoła Katolickiego — czyli nie ugościć — biskupa subdiecezjalnego będącego katolikiem z chrztu i komunii z jego subdiecezją, parafią etc.; wpisać m.in. przy kan. 16 § 2 i kan. 26 (Ks. II), kan. 30 (Ks. II), kan. 319 (Ks. VI), kan. 1zo–1zp (Preambuła IV).
 
 *Dokument nie zmienia żadnego kanonu; wskazuje jedynie miejsca późniejszych nowelizacji. Numeracja kanonów pozostaje nienaruszona.*
