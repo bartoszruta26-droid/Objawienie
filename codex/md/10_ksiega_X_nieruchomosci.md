@@ -126,6 +126,8 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 
 4° zachowane jest wspólne miejsce modlitwy.
 
+**§ 4.** Dom będący siedzibą Kościoła domowego — kościoła **pierwotnego i pierwszego ze wspólnot spotykanych przez wiernego** — winien być przestrzenią, w której każdy przyjęty (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, kan. 16 § 2 Księgi II) doświadcza równości braterskiej; próg domu wita gościa jako równego, nie jako podwładnego (*gość w dom, Bóg w dom*; *qui recipit, maior non est*).
+
 **Kan. 467 § 1.** Dom rodzinny, jako siedziba Kościoła Domowego, nie może być:
 
 1° sprzedany osobom trzecim bez zgody wszystkich Potomków i Małżonki przeżywającej;
@@ -161,6 +163,8 @@ Najwyższą zasadą niniejszej Księgi jest: **nieruchomość służy osobom, ni
 5° **przestrzeń gospodarcza** — ogród, warsztat, miejsca pracy;
 
 6° **przestrzeń gościnna** — miejsce przyjmowania gości i potrzebujących.
+
+Dostęp osób przyjętych „na chwilę" wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II) do stref kultu i wspólnoty (zwłaszcza kaplicy domowej, refektarza i przestrzeni gościnnej) regulowany jest zasadą pierwszeństwa-gościny: gospodarz jako pierwszy z równych usługiwa gościowi, nie zasadą zależności czy nierówności godności.
 
 **Kan. 469 § 1.** Ziemia przynależna do domu rodzinnego (ogród, pole, łąka) jest przedmiotów błogosławionych ziemi (poziom korzeniowy — Pobożność — Małżeństwo — Ziemia — Cierpliwość — Służenie) i podlega szczególnej ochronie.
 

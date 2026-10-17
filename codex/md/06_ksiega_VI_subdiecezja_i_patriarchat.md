@@ -10,7 +10,11 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ## Tytuł I: BISKUP TYTULARNY SUBDIECEZJALNY
 
-**Kan. 319 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny pierwotny w rozumieniu analogicznym do kan. 9 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego.
+**Kan. 319 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny pierwotny w rozumieniu analogicznym do kan. 9 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego. Biskup domowy subdiecezjalny jest **pierwszym hierarchą, z jakim spotyka się wierny**, i właśnie jako taki sprawuje urząd *primus inter pares* — podległość biskupowi diecezjalnemu i Biskupowi Rzymskiemu jest porządkiem posługi jedności, nie nierówności godności.
+
+**§ 1a.** Na mocy kan. 205 KPK 1983: biskup subdiecezjalny będący katolikiem z chrztu i pozostający w komunii z jego subdiecezją, parafią etc., oraz łączący się z Chrystusem w widzialnym organizmie Kościoła więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego **musi być ugoszczony i przyjęty** do Kościoła Katolickiego; nie można go bez ważnej przyczyny nie przyjąć (*gość w dom, Bóg w dom*) — odmowa ugoszczenia wymaga ważnej przyczyny i formy dekretu.
+
+**§ 1b.** Na mocy kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; biskup subdiecezjalny otrzymuje i powierza urzędy w swoim Kościele partykularnym jako pierwszy z równych, a nie jako wasal.
 
 **§ 2.** Biskup tytularny subdiecezjalny:
 
@@ -137,7 +141,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **§ 2.** Związek Subdiecezjatów jest wspólnotą subdiecezjatów, które pod przewodnictwem hierarchy związku subdiecezjatów sprawują posługę pasterską wobec wiernych Kościoła Domowego, zachowując jedność z Kościołem powszechnym i podlegając Biskupowi Rzymskiemu.
 
-**§ 3.** Hierarcha Związku Subdiecezjatów jest pierwszym wśród równych (*primus inter pares*) spośród biskupów tytularnych subdiecezjalnych i sprawuje władzę nad wszystkimi subdiecezjami domowymi Kościoła Domowego; wybierany jest spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
+**§ 3.** Hierarcha Związku Subdiecezjatów jest pierwszym wśród równych (*primus inter pares*) spośród biskupów tytularnych subdiecezjalnych i sprawuje władzę nad wszystkimi subdiecezjami domowymi Kościoła Domowego; wybierany jest spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu. Ta sama zasada odbija się w dół: jak Biskup Rzymu pośród biskupów, tak hierarcha związku pośród biskupów subdiecezjalnych, tak biskup domowy pośród członków swojego Kościoła — wszędzie pierwszy **z równych**.
 
 **Kan. 329 § 1.** Pierwszym hierarchą związku subdiecezjatów — pierwszym hierarchą pierwszego subdiecezjatu — jest Głowa Rodu, biskup tytularny subdiecezjalny; jako taki nie podlega wyborowi synodu biskupów subdiecezjalnych, ponieważ kolejnych hierarchów związku subdiecezjatów wybiera się spośród synodu właśnie z pominięciem pierwszego hierarchy związku subdiecezjatów.
 
@@ -155,7 +159,9 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 6° jest stróżem tradycji trzech obrządków domowych;
 
-7° sprawuje najwyższą władzę ustawodawczą, wykonawczą i sądowniczą w związku subdiecezjatów, z zachowaniem prawa powszechnego.
+7° sprawuje najwyższą władzę ustawodawczą, wykonawczą i sądowniczą w związku subdiecezjatów, z zachowaniem prawa powszechnego;
+
+8° wobec wiernych przyjętych wolą Triarchii Domowej oraz przyjętych na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II) hierarcha związku działa wyłącznie jako pierwszy z równych; nie przysługuje mu żadna władza upokarzająca ani różnicująca godność osoby przyjętej.
 
 **§ 3.** Godność hierarchy związku subdiecezjatów wiąże się z osobą Głowy Rodu jako pierwszego biskupa tytularnego subdiecezjalnego i pierwszego hierarchy pierwszego subdiecezjatu; po jego śmierci, rezygnacji lub oddaleniu kolejnego hierarchę związku wybiera synod biskupów subdiecezjalnych, a nie Biskup Rzymu — inaczej niż w przypadku patriarchy, którego ustanawia Biskup Rzymu. Przepisy o przekazaniu urzędu hierarchy związku subdiecezjatów zawiera Księga VIII.
 

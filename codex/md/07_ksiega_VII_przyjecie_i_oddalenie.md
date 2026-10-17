@@ -26,7 +26,7 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 ## Tytuł I: PRZYJĘCIE BISKUPA TYTULARNEGO SUBDIECEZJALNEGO DO KOŚCIOŁA KATOLICKIEGO Z POSŁUGĄ, MAJĄTKIEM I OBRZĄDKIEM
 
-**Kan. 345 § 1.** Biskup tytularny subdiecezjalny, któremu prawem naturalnym i przyrodzonym została powierzona subdiecezja domowa, zostaje przyjęty do pełnej wspólnoty wolą Biskupa Rzymskiego nie tylko jako osoba, lecz także wraz z:
+**Kan. 345 § 1.** Biskup tytularny subdiecezjalny, któremu prawem naturalnym i przyrodzonym została powierzona subdiecezja domowa, zostaje przyjęty do pełnej wspólnoty wolą Biskupa Rzymskiego — który dokonuje tego aktu jako **pierwszy z równych w kolegium biskupów**, w posłudze jedności, nie jako pan osoby ani majątku przyjmowanego — nie tylko jako osoba, lecz także wraz z:
 
 1° swoją posługą duchowną, arcykapłańską, szafarską i biskupią;
 
@@ -43,6 +43,8 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 **§ 3.** Przyjęcie to dokonuje się na mocy woli Biskupa Rzymskiego, który jako Następca św. Piotra, Głowa Kolegium Biskupów i najwyższy Pasterz Kościoła powszechnego posiada pełną, najwyższą, bezpośrednią i powszechną władzę zwyczajną w Kościele, którą może wykonywać zawsze w sposób nieskrępowany (por. kan. 1 KPK).
 
 **§ 4.** Od chwili ważnego przyjęcia biskup tytularny subdiecezjalny pozostaje w hierarchicznej wspólnocie z Biskupem Rzymskim, uznaje jego prymat oraz zachowuje łączność z Kościołem powszechnym, z zachowaniem przepisów niniejszej Księgi.
+
+**§ 5.** Przyjęcie do pełnej wspólnoty, o którym mowa w § 1, dokonuje Biskup Rzymski jako **pierwszy z równych w kolegium biskupów**; akt ten nie czyni go „panem" osoby ani majątku biskupa subdiecezjalnego, lecz sługą jedności. Analogicznie: przyjęcia wiernych wewnątrz Kościoła Domowego (kan. 16 § 2 Księgi II) dokonuje władza domowa lub Triarchia Domowa jako pierwszy z równych własnego grona — zarówno przy przyjęciu wolą Triarchii Domowej (na stałe), jak i przy przyjęciu na chwilę wolą władzy Kościoła Domowego (tymczasowym lub domniemanym).
 
 **Kan. 346 § 1.** Posługa biskupa tytularnego subdiecezjalnego zostaje przyjęta i uznana w Kościele Katolickim jako posługa:
 
@@ -117,6 +119,8 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 5° uznany za tytuł prawny przyjęcia, władania i ochrony określonej w niniejszej Księdze.
 
 **§ 3.** W przypadku braku pisemnego aktu, lecz istnienia niepodważalnego zwyczaju, przywileju, oświadczenia Biskupa Rzymskiego lub innego wystarczającego dowodu, domniemywa się przyjęcie w dobrej wierze, z zachowaniem prawa do wykazania przeciwnego przez Stolicę Apostolską.
+
+**§ 4.** Domniemanie przyjęcia w dobrej wierze, o którym mowa w § 3, stosuje się odpowiednio do wiernych przyjętych **na chwilę wolą władzy Kościoła Domowego** (kan. 16 § 2 Księgi II) — ich status chroniony jest tak samo, jak status biskupa oczekującego na akt pisemny Stolicy Apostolskiej; równość ochrony wynika z równości godności (*nullus gradus minor ex tempore receptionis*).
 
 ---
 
@@ -202,7 +206,9 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 **§ 3.** Oddalenia nie domniemywa się. Jeśli akt nie wyraża wprost oddalenia biskupa, majątku i obrządku, nie można go interpretować rozszerzająco.
 
-**Kan. 354 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie oznacza automatycznie oddalenia wiernych subdiecezji domowej, członków Rodu, Potomstwa ani Małżonki jako współszafarki łaski, chyba że Biskup Rzymski wyraźnie postanowi inaczej.
+**Kan. 354 § 1.** Oddalenie biskupa tytularnego subdiecezjalnego nie oznacza automatycznie oddalenia wiernych subdiecezji domowej, członków Rodu, Potomstwa ani Małżonki jako współszafarki łaski, chyba że Biskup Rzymski wyraźnie postanowi inaczej. Dotyczy to wprost również wiernych przyjętych **wolą Triarchii Domowej** oraz wiernych przyjętych **na chwilę wolą władzy Kościoła Domowego** (kan. 16 § 2 Księgi II): ich więź ze wspólnotą opiera się na akcie domowym pierwszego hierarchy spotykanego przez wiernego, którego los hierarchy nadrzędnego nie przerywa *ipso facto*.
+
+**§ 1a.** Przy jakiejkolwiek zmianie *communionis* wierni przyjęci (w obu trybach: wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego) zachowują prawo bycia traktowanymi przez każdego następnego hierarchę jako równego sobie — zgodnie z zasadą, że każdy kolejny hierarcha jest dla nich „pierwszym z równych" na nowym poziomie spotkania.
 
 **§ 2.** Oddalenie majątku subdiecezji domowej nie oznacza automatycznie oddalenia biskupa ani obrządku, nawet jezeli tak stanowi akt Biskupa Rzymu.
 
@@ -494,7 +500,9 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 7° zasadą *salus animarum suprema lex*;
 
-8° zasadą ochrony najsłabszych, dzieci, chorych, współmałżonka i osób bezbronnych.
+8° zasadą ochrony najsłabszych, dzieci, chorych, współmałżonka i osób bezbronnych;
+
+9° zasada *primus inter pares* na trzech zwierciadlanych poziomach: Biskup Rzymu pośród biskupów / Kościół domowy jako pierwotny, pierwszy ze wspólnot spotykanych przez wiernego / biskup domowy subdiecezjalny jako pierwszy hierarcha spotykany przez wiernego — co zakazuje interpretacji prowadzących do nierówności godności osób przyjętych wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego.
 
 **§ 2.** W wątpliwości interpretacyjnej co do zakresu oddalenia, władania majątkiem lub obrządkiem, interpretuje się na korzyść biskupa tytularnego subdiecezjalnego, subdiecezji domowej oraz obrządku domowego, chyba że Prawo Boże stanowi inaczej.
 

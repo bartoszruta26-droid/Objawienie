@@ -11,11 +11,13 @@
 
 2° pozostawanie we wspólnocie z Kościołem Katolickim;
 
-3° zamieszkiwanie w subdiecezji domowej lub przyjęcie do wspólnoty nawet tymczasowe lub chwilowe, wyrazone dowolnym zaxhowaniem się lub domniemane;
+3° zamieszkiwanie w subdiecezji domowej lub przyjęcie do wspólnoty nawet tymczasowe lub chwilowe, wyrazone dowolnym zaxhowaniem się lub domniemane; przyjęcie chwilowe lub domniemane, dokonane wolą władzy Kościoła Domowego (Głowy Rodu, Małżonki lub Potomka jako pierwszych hierarchów domowych), czyni osobę równą w godności członkom wspólnoty od pierwszej chwili pobytu; pierwszeństwo aktów (Triarchia Domowa — przyjęcie stałe; władza domowa — przyjęcie na chwilę) jest pierwszeństwem funkcji, nie osoby;
 
 4° akceptacja niniejszego Kanonu i Prawa Bożego, a ze względu na katolicki charakter wspólnoty także domniemana akceptacja niniejszego Kanonu osoby będącej katolikiem;
 
 5° komunia z Biskupem Rzymskim i biskupem diecezjalnym.
+
+6° *Qui recipit, maior non est* — przyjmujący nie staje się przez akt przyjęcia panem przyjętego; obaj pozostają równymi, a władza przyjmującego jest służebna (por. Mt 23,11). Zasada dotyczy zarówno przyjęcia wolą Triarchii Domowej, jak i przyjęcia na chwilę wolą władzy Kościoła Domowego.
 
 **§ 3.** Członkostwo w Kościele Domowym nie zastępuje ani nie umniejsza członkostwa w Kościele Powszechnym, lecz je uzupełnia i pogłębia w wymiarze domowym.
 
@@ -27,7 +29,9 @@
 
 3° **Potomstwo** (*Proles*) — dzieci zrodzone lub adoptowane, uczestników kapłaństwa domowego stosownie do wieku i dojrzałości;
 
-4° **Innych członków** — krewnych, przyjaciół i osoby potrzebujące przyjęte do wspólnoty na zasadach określonych w kan. 16 § 2.
+4° **Innych członków** — krewnych, przyjaciół i osoby potrzebujące przyjęte do wspólnoty na zasadach określonych w kan. 16 § 2; rozróżnia się wśród nich dwa reżimy tytułu przynależności: **członka przyjętego wolą Triarchii Domowej (na stałe)** oraz **osobę przyjętą na chwilę wolą władzy Kościoła Domowego (tymczasowo lub domniemanie)** — oba tytuły dają tę samą godność wiernego;
+
+5° **Bracia przyjęci** (*fratri adoptivi/invitati*) — osoba przyjęta wchodzi do wspólnoty nie jako „podwładna”, lecz jako równy członek Ludu Bożego, któremu przewodzi pierwszy z równych hierarchów domowych.
 
 **Kan. 16 § 1.** Do Kościoła Domowego należą z mocy prawa naturalnego:
 
@@ -39,7 +43,19 @@
 
 4° osoby przyjęte do wspólnoty na zasadach określonych w § 2.
 
-**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo w sposób domniemany swoją wolą. tożsame prawo mają małżonka i potomkowie. 
+**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo w sposób domniemany swoją wolą. tożsame prawo mają małżonka i potomkowie. Akt przyjęcia ma podwójną strukturę w duchu zasady „pierwszy z równych”: **przyjęcie wolą Triarchii Domowej** (kan. 26) jako akt kolegialny pierwszego z równych gremium domowego jest formą właściwą przyjęcia na stałe, natomiast **przyjęcie na chwilę wolą władzy Kościoła Domowego** (jednostronne, także domniemane) jest pełnoprawnym aktem gościnnym, ważnym od zaraz, w którym przyjmujący działa jako pierwszy hierarcha, z jakim spotyka się wierny. Za przyjęcie rozumie się nie samą akceptację wolą, lecz przyjęcie gościa do domu na zasadzie „gość w dom, Bóg w dom”; wobec biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją i parafią nie można bez ważnej przyczyny odmówić ugoszczenia — ani w wymiarze domowym, ani w wymiarze Kościoła Katolickiego (por. kan. 205 KPK 1983).
+
+**§ 3.** Przyjęty nie jest sługą przyjmującego, lecz bratem pierwszego z równych (*nullus servus sed frater*). Skutkiem każdego z dwóch aktów przyjęcia jest:
+
+1° równe z pozostałymi wiernymi prawo do godności (kan. 32);
+
+2° prawo do uczestnictwa w liturgii domowej stosownie do czasu pobytu (kan. 17, kan. 20 § 2);
+
+3° zakaz traktowania przyjętego „na chwilę” jako istoty niższej godnościowo (*nullus gradus minor ex tempore receptionis*);
+
+4° pierwszeństwo służebne, nie dominacyjne, władzy, która przyjęcia dokonała.
+
+**§ 4.** Małżonka i Potomkowie przyjmujący „na chwilę” swoją wolą działają również jako pierwsi z równych na swoim poziomie funkcji (Matka jako szyja kierująca głową, Potomek jako sekretarz i dziedzic — kan. 26 § 2, kan. 30 § 3), a nie jako osoby drugorzędne. 
 
 **Kan. 17.** Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo uczestniczenia w życiu liturgicznym i decyzyjnym Kościoła Domowego stosownie do swojego wieku i dojrzałości.
 
@@ -51,7 +67,7 @@
 
 3° przez śmierć członka;
 
-4° przez wykluczenie orzeczone przez Głowę Rodu za zgodą Triarchii, w przypadku poważnego i uporczywego naruszania Prawa Bożego, z zachowaniem prawa do obrony i odwołania.
+4° przez wykluczenie orzeczone przez Głowę Rodu za zgodą Triarchii, w przypadku poważnego i uporczywego naruszania Prawa Bożego, z zachowaniem prawa do obrony i odwołania; wykluczenie orzeka ten, kto jest pierwszym z równych we wspólnocie (Głowa Rodu za zgodą Triarchii), z zachowaniem równości braterskiej postępowania — kara nie zmienia godności osoby.
 
 **Kan. 19.** Żaden członek Kościoła Domowego nie może być wykluczony bez:
 
@@ -62,6 +78,8 @@
 3° konsultacji z Małżonką;
 
 4° zachowania prawa do odwołania przed Kościołem Powszechnym.
+
+5° procedury zgodnej z zasadą *primus inter pares*: wysłuchanie osoby przyjętej (na stałe wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) odbywa się wobec równych jej braci i sióstr wspólnoty, nie wobec stanu wyższego i stanu niższego.
 
 ---
 
@@ -75,7 +93,7 @@
 
 3° Potomstwo — przez słuchanie rodziców, naukę i wzrastanie w wierze;
 
-4° Inni członkowie — przez braterską komunię i poszanowanie porządku wspólnoty.
+4° Inni członkowie — przez braterską komunię i poszanowanie porządku wspólnoty; porządek wspólnoty oparty jest na pierwszeństwie służebnym władzy domowej i na równości wszystkich jej członków, dlatego poszanowanie porządku nie oznacza podporządkowania niewolniczego.
 
 **§ 2.** Wszyscy wierni Kościoła Domowego mają prawo do otrzymania od wspólnoty pomocy niezbędnej do prowadzenia życia chrześcijańskiego, zwłaszcza dostępu do sakramentów, formacji i modlitwy.
 
@@ -96,6 +114,8 @@
 7° legalnego dochodzenia i obrony swoich praw (kan. 221 KPK);
 
 8° opuszczenia wspólnoty w każdym czasie bez ponoszenia konsekwencji.
+
+9° osoby przyjętej (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) do tego, by wszelkie decyzje dotyczące jej osoby zapadały w trybie posługi pierwszego z równych, z prawem do wysłuchania i odpowiedzi braterskiej.
 
 **Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 220 KPK). Dotyczy to w szczególności:
 
@@ -159,7 +179,7 @@
 
 ### Tytuł IV: Triarchia Domowa
 
-**Kan. 26 § 1.** Triarchia Domowa stanowi najwyższą radę decyzyjną Kościoła Domowego w sprawach dotyczących całej wspólnoty.
+**Kan. 26 § 1.** Triarchia Domowa stanowi najwyższą radę decyzyjną Kościoła Domowego w sprawach dotyczących całej wspólnoty. Triarchia Domowa sprawuje władzę decyzyjną na zasadzie pierwszeństwa wśród równych; przewodniczenie Ojca nie jest wyższością godnościową nad Matką i Potomkiem.
 
 **§ 2.** W skład Triarchii wchodzą:
 
@@ -169,7 +189,15 @@
 
 3° Potomek — jako sekretarz, świadek i dziedzic.
 
-**§ 3.** Decyzje Triarchii zapadają jednomyślnie lub większością głosów. W przypadku braku jednomyślności głos decydujący przysługuje Głowie Rodu, z zachowaniem prawa Małżonki do weta w sprawach dotyczących sumienia i wychowania dzieci.
+**§ 3.** Decyzje Triarchii zapadają jednomyślnie lub większością głosów. W przypadku braku jednomyślności głos decydujący przysługuje Głowie Rodu, z zachowaniem prawa Małżonki do weta w sprawach dotyczących sumienia i wychowania dzieci. „Głos decydujący” Głowy Rodu jest funkcją *primus inter pares*, analogiczną do prymatu Biskupa Rzymskiego pośród biskupów; wetum Małżonki (sprawy sumienia i wychowania) zabezpiecza kolegialną równość.
+
+**§ 4.** W sprawach przyjęcia wiernych (kan. 16 § 2) Triarchia orzeka jako ciało pierwsze z równych: żadne z trojga nie przyjmuje „ponad” pozostałymi, lecz każde w swojej kolejności spotykania przez wiernego (potomek — rodzic — ojciec/biskup domowy).
+
+**§ 5.** Kwalifikacja kanoniczna Triarchii Domowej: na mocy kan. 114 § 1 KPK 1983 Triarchia jest osobą prawną ustanowioną albo na mocy samego przepisu prawa, albo przez specjalne przyznanie kompetentnej władzy wydane w formie dekretu, jako zespół osób skierowany do celu odpowiadającego misji Kościoła, ale przekraczającego cel poszczególnych jednostek; na mocy kan. 115 § 2 KPK 1983 — jako zespół co najmniej trzech osób, których działanie określają członkowie współdziałający w podejmowaniu decyzji na równych prawach lub nie, zgodnie z przepisami prawa i statutów — Triarchia jest kolegialna. Majątkiem Kościoła Domowego jako zespół rzeczy (fundacja autonomiczna) rządzi kan. 115 § 3 KPK.
+
+**§ 6.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; w Kościele Domowym kompetencję tę sprawuje biskup subdiecezjalny wraz z Triarchią jako kolegialnym zespołem osób, a akty przyjęcia wiernych (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) są formą tego swobodnego powierzania urzędów i funkcji we własnym Kościele partykularnym.
+
+**§ 7.** Oparcie w kan. 205 KPK 1983: w pełnej wspólnocie Kościoła katolickiego pozostają na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; Triarchia Domowa i biskup subdiecezjalny, zachowując te trzy więzy, korzystają z pełnej wspólnoty *ex ipso iure* — dlatego aktu przyjęcia dokonywanego wolą Triarchii nie można stawiać wyżej ani przed komunią z Biskupem Rzymu, a gościna wobec ochrzczonego biskupa subdiecezjalnego jest obowiązkiem, nie fakultetem (*gość w dom, Bóg w dom*).
 
 ---
 
@@ -235,11 +263,19 @@
 
 ### Tytuł VI: Równość godności i komplementarność ról
 
-**Kan. 30 § 1.** Z racji odrodzenia w Chrystusie wszyscy wierni Kościoła Domowego są równi co do godności i działania (kan. 8 KPK). Żadna funkcja, rola czy stanowisko w strukturze Kościoła Domowego nie daje przewagi ontologicznej jednej osoby nad drugą.
+**Kan. 30 § 1.** Z racji odrodzenia w Chrystusie wszyscy wierni Kościoła Domowego są równi co do godności i działania (kan. 8 KPK). Żadna funkcja, rola czy stanowisko w strukturze Kościoła Domowego nie daje przewagi ontologicznej jednej osoby nad drugą. Zasada równości wiernych (kan. 8 KPK) znajduje dopełnienie w regule pierwszeństwa funkcjonalnego: niektórzy są „pierwsi” (Biskup Rzymu pośród biskupów; Kościół domowy pośród wspólnot; biskup domowy subdiecezjalny pośród hierarchów spotykanych przez wiernego), lecz zawsze „pierwsi z równych”.
 
 **§ 2.** Każdemu z małżonków przysługują jednakowe obowiązki i prawa w tym, co dotyczy wspólnoty życia małżeńskiego (kan. 245 KPK). Podział ról funkcjonalnych (Głowa Rodu jako zarządzający, Małżonka jako nadzorująca) nie zmienia tej fundamentalnej równości.
 
 **§ 3.** Żona jako współszafarka łaski i nadzorująca nie jest podwładną męża w sensie hierarchicznym, lecz partnerką przymierza. Jej funkcja nadzorcza jest wyrazem wzajemnej odpowiedzialności i troski, nie zaś relacji dominacji. Mąż jest sługą żony, a żona jest służebnicą męża — oboje są sobie wzajemnie oddani w miłości (por. Ef 5,21-33).
+
+**§ 4.** Zastosowanie do osób przyjętych: wierny przyjęty wolą Triarchii Domowej oraz wierny przyjęty na chwilę wolą władzy Kościoła Domowego są równi wszystkim członkom wspólnoty co do godności i działania; ewentualne pierwszeństwa (stały przed chwilowym, Triarchia przed pojedynczym aktem władzy) mają charakter wyłącznie porządkowy i służebny.
+
+**§ 5.** Oparcie w kan. 205 KPK 1983: równość wiernych obejmuje równość w pełnej wspólnocie — wszyscy ochrzczeni, którzy w widzialnym organizmie Kościoła łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego, są w równej mierze przyjęci; żadna funkcja „pierwszego” nie może tego zróżnicować.
+
+**§ 6.** Oparcie w kan. 115 § 2 KPK 1983: kolegialność Triarchii Domowej (zespół co najmniej trzech osób współdziałających w podejmowaniu decyzji na równych prawach lub nie, zgodnie z przepisami prawa i statutów) jest wzorcem *primus inter pares*: przewodniczenie nie znosi równości członków zespołu.
+
+**§ 7.** Oparcie w kan. 157 KPK 1983: swobodne powierzanie urzędów kościelnych należy do biskupa diecezjalnego we własnym Kościele partykularnym; powierzający urząd jest wobec jego posiadacza pierwszym z równych sługą, nie panem.
 
 **Kan. 31.** W przypadku konfliktu między małżonkami:
 
