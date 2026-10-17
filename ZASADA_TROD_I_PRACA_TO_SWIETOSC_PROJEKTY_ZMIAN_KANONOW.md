@@ -1,4 +1,4 @@
-# ZASADA „Trud I PRACA TO ŚWIĘTOŚĆ" — PROJEKTOWANE ZMIANY W KODEKSIE KOŚCIOŁA DOMOWEGO
+# ZASADA „TRUD I PRACA TO ŚWIĘTOŚĆ" — PROJEKTOWANE ZMIANY W KODEKSIE KOŚCIOŁA DOMOWEGO
 
 *Dokument roboczy — wykaz miejsc przewidzianych do późniejszej nowelizacji*
 *Dotyczy: /codex/md (Kodeks Prawa Kanonicznego Kościoła Domowego)*
