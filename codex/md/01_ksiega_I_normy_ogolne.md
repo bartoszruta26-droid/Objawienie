@@ -19,7 +19,7 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 3.** Niniejszy Kanon nie uchyla ani nie zmienia przepisów Kodeksu Prawa Kanonicznego z 1983 roku w zakresie, w jakim dotyczą one Kościoła Powszechnego, lecz stanowi prawo partykularne wspólnoty domowej, działającej w ramach powszechnego kapłaństwa wiernych (kan. 4 KPK) oraz teologii Kościoła Domowego (*Ecclesia Domestica*).
 
-**Kan. 2 § 1.** Kościół Domowy jest pierwotną partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 9 KPK, zastosowaną do wspólnoty rodzinnej.
+**Kan. 2 § 1.** Kościół Domowy jest pierwotną partykularną wspólnotą Ludu Bożego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym, zgodnie z analogią do kan. 9 KPK, zastosowaną do wspólnoty rodzinnej. Kościół domowy, jako kościół pierwotny, jest pierwszy wśród równych mu wspólnot partykularnych (*primus inter pares particularium communitatum*) — pierwszy w czasie spotkania wiernego z Kościołem, równy im wszystkim co do godności.
 
 **§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium diecezjalne/subdiecezjalne Kościoła Domowego. Granice tej diecezji/subdiecezji obejmują:
 
@@ -33,7 +33,11 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 **§ 3.** Kościół Domowy posiada osobowość prawną na mocy samego prawa naturalnego i Bożego. W porządku cywilnym może działać jako świecka organizacja religijna (art. 2 ust. 11 ustawy o gwarancjach wolności sumienia i wyznania), stowarzyszenie, lub Kościół niewpisany do rejestru Kościołów lub Kościół wpisany do rejestru Kościołów lub inna forma organizacyjna przewidziana prawem. Przepis prawa niniejszego kanonu stanowi, iż osobowość prawna Kościoła Domowego nie musi być wpisywana do żadnego rejestru jeżeli władze Kościoła Domowego sobie tego wyraźnie nie życzą.
 
+**§ 4.** Klauzula interpretacyjna ogólna: wszystkie przepisy dotyczące przyjęcia wiernych (kan. 14–19 Księgi II, Księga VII — Przyjęcie i Oddalenie, Preambuła kan. 1l oraz kan. 1u–1y i kan. 1zq) należy czytać i stosować w duchu zasady „pierwszy z równych” (*primus inter pares*): pierwszeństwo władzy domowej w akcie przyjęcia nie rodzi nierówności godności osoby przyjętej — ani przyjętej wolą Triarchii Domowej, ani przyjętej na chwilę wolą władzy Kościoła Domowego.
+
 **Kan. 3.** Niniejszy Kanon obowiązuje wszystkich członków Kościoła Domowego: Głowę Rodu, Małżonkę, Potomstwo oraz osoby przyjęte do wspólnoty na zasadach określonych w kan. 15–16 Księgi II.
+
+1° Osoby przyjęte wolą Triarchii Domowej oraz osoby przyjęte na chwilę wolą władzy Kościoła Domowego są objęte obowiązkiem niniejszego kanonu na zasadzie równości z członkami zrodzonymi — różnicuje je tylko zakres i czas uprawnień, nie godność.
 
 **Kan. 4.** Ustawy niniejszego Kanonu odnoszą się do przyszłości, nie do przeszłości, chyba że wyraźnie zastrzega się w nich inaczej (por. kan. 9 KPK).
 

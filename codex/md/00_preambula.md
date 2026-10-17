@@ -282,7 +282,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 3° dobrowolność nie umniejsza mocy wiążącej przyjętych norm — co zostało dobrowolnie przyjęte, staje się prawem obowiązującym dla wspólnoty, która je przyjęła;
 
-4° przyjęcie to jest wyrazem komunii kościelnej, nie zaś poddaństwa instytucjonalnego.
+4° przyjęcie to jest wyrazem komunii kościelnej, nie zaś poddaństwa instytucjonalnego; ciągłość trzech poziomów zasady „pierwszy z równych” — Biskup Rzymu → hierarcha związku/subdiecezji → biskup domowy subdiecezjalny → Triarchia Domowa — oznacza, że na każdym poziomie pierwszeństwo jest *śród równych* i żaden poziom nie „unieważnia” równości osób przyjętych na niższych poziomach.
 
 **§ 3.** Niniejszy Kanon stanowi akt dobrowolnego podporządkowania się prawom Kościoła Powszechnego Katolickiego w zakresie:
 
@@ -640,7 +640,7 @@ Autonomia Kościoła Domowego jest zawsze ograniczona Prawem Bożym, Prawem Natu
 
 2° Małżonkę jako Współszafarkę Łaski i Nadzorującą;
 
-3° Triarchię Domową działającą kolegialnie;
+3° Triarchię Domową działającą kolegialnie — akt dokonywany przez Triarchię Domową działającą kolegialnie jest aktem pierwszego z równych gremium; wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego potwierdzają go własną wolą na zasadzie równości (por. § 3 — odnawialność aktu przez kolejne pokolenia i nowych członków);
 
 — w obecności wspólnoty Kościoła Domowego i wobec Boga.
 
@@ -653,6 +653,8 @@ Autonomia Kościoła Domowego jest zawsze ograniczona Prawem Bożym, Prawem Natu
 3° wpisany do Księgi Kanonów Kościoła Domowego;
 
 4° przekazany do wiadomości biskupa diecezjalnego, jeśli jest to możliwe i wskazane.
+
+5° wolny od założenia, jakoby nowo przyjęci wierni (przyjęte wolą Triarchii Domowej na stałe lub na chwilę wolą władzy Kościoła Domowego) stoją niżej w godności od „rodzonych” członków wspólnoty — akt przyjęcia norm nie może być podstawą do twierdzenia takiej nierówności.
 
 **§ 3.** Akt przyjęcia ma charakter ciągły i odnawialny. Każde kolejne pokolenie członków Kościoła Domowego potwierdza je własnym aktem wiary i woli, stosownie do swojego wieku i dojrzałości.
 
@@ -1286,7 +1288,9 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 4° daje wspólnocie określone prawa i obowiązki w strukturze diecezji;
 
-5° nie pozbawia wspólnoty jej własnej tradycji, obrządków domowych i autonomii wewnętrznej, chyba że akt przyjęcia stanowi inaczej.
+5° nie pozbawia wspólnoty jej własnej tradycji, obrządków domowych i autonomii wewnętrznej, chyba że akt przyjęcia stanowi inaczej;
+
+6° przyjęcie dokonane wolą biskupa diecezjalnego (zewnętrznego) nie zmienia wewnętrznego porządku przyjęć domowych: osoby przyjęte wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego pozostają wiernymi tej samej, równej godności (kan. 16 § 2 Księgi II).
 
 **§ 4.** Biskup diecezjalny, przyjmując subdiecezję domową, ma obowiązek:
 
@@ -1311,6 +1315,8 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 4° zachowuje prawo do własnego pasterza, zatwierdzonego przez biskupa diecezjalnego;
 
 5° może posiadać własne statuty, zatwierdzone przez biskupa diecezjalnego.
+
+6° biskup diecezjalny, przyjmując subdiecezję, jest dla wiernych domowych „hierarchą następnym w kolejności spotykania”; pierwszym hierarchą, z jakim spotyka się wierny, pozostaje biskup domowy subdiecezjalny — pierwszy z równych.
 
 ---
 
