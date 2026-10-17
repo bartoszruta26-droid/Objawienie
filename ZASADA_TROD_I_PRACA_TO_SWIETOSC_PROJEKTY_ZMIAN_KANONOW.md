@@ -1,4 +1,4 @@
-# ZASADA „TRÓD I PRACA TO ŚWIĘTOŚĆ" — PROJEKTOWANE ZMIANY W KODEKSIE KOŚCIOŁA DOMOWEGO
+# ZASADA „Trud I PRACA TO ŚWIĘTOŚĆ" — PROJEKTOWANE ZMIANY W KODEKSIE KOŚCIOŁA DOMOWEGO
 
 *Dokument roboczy — wykaz miejsc przewidzianych do późniejszej nowelizacji*
 *Dotyczy: /codex/md (Kodeks Prawa Kanonicznego Kościoła Domowego)*
@@ -10,9 +10,9 @@
 
 ### A. Brzmienie zasady
 
-> **„Tród i praca to świętość"** (*greckie: hosion tou poietikon kai tes ergasias*)
+> **„Trud i praca to świętość"** (*greckie: hosion tou poietikon kai tes ergasias*)
 >
-> Tród — stado, pszczoły, plon, ogród, narzędzie i owoce ludzkiego wysiłku — jest przestrzenią uświęconą, w której człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Praca nie jest jedynie środkiem zarobkowym, lecz **stanem łaski**, drogą uświęcenia i formy uczestnictwa w dziele Odkupienia. Świętość trodu oznacza nietykalność owocu pracy: tego, co żywe, rosnące, wytworzone i powierzone ludzkiej pieczy.
+> Trud — lub T-Ród TRód albo trod to stado, pszczoły, plon, ogród, narzędzie i owoce ludzkiego wysiłku — jest przestrzenią uświęconą, w której człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Praca nie jest jedynie środkiem zarobkowym, lecz **stanem łaski**, drogą uświęcenia i formy uczestnictwa w dziele Odkupienia. Świętość trodu oznacza nietykalność owocu pracy: tego, co żywe, rosnące, wytworzone i powierzone ludzkiej pieczy.
 
 ### B. Uzasadnienie doktrynalne (starosłowiańskie i katolickie, zwłaszcza wschodnie)
 
