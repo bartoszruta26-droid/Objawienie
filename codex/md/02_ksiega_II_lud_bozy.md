@@ -121,6 +121,18 @@
 
 **§ 2.** Wszyscy wierni Kościoła Domowego mają prawo do otrzymania od wspólnoty pomocy niezbędnej do prowadzenia życia chrześcijańskiego, zwłaszcza dostępu do sakramentów, formacji i modlitwy.
 
+**§ 3.** Zasada „Tród i praca to świętość” (*sanctitas gregis et operis*, Preambuła kan. 1zx) jest obowiązkiem sumienia każdego wiernego:
+
+1° każdy wierny ma obowiązek oddawać się uczciwej pracy zgodnie ze swoim stanem, powołaniem i siłami, pamiętając, że praca jest pierwszym powołaniem człowieka (Rdz 2,15) i drogą uświęcenia;
+
+2° próżnowanie uporczywe, uchylanie się od pracy możliwej i pasożytnictwo kosztem wysiłku innych są sprzeczne z prawem naturalnym („Kto nie chce pracować, niech też nie je” — 2 Tes 3,10) oraz z niniejszym kanonem;
+
+3° nikt nie może być zmuszany do pracy wbrew swojemu powołaniu, stanowi zdrowia lub sumieniu; praca mimowolna i wyzyskowa są zakazane;
+
+4° owoc pracy — plon, miód, mleko, wytwór rąk — jest nietykalny i nie może być bezprawnie zawłaszczony przez nikogo, także przez władzę domową;
+
+5° winien jest ten, kto utrzymuje się z cudzego trudu, a sam nie pracuje, gdy jest do tego zdolny; niech naprawi wyrządzoną szkodę i pojedna się z wspólnotą.
+
 **Kan. 21.** Każdy wierny Kościoła Domowego ma prawo:
 
 1° być wolnym od jakiegokolwiek przymusu w wyborze stanu życia (kan. 21 KPK);
@@ -142,6 +154,8 @@
 9° osoby przyjętej (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) do tego, by wszelkie decyzje dotyczące jej osoby zapadały w trybie posługi pierwszego z równych, z prawem do wysłuchania i odpowiedzi braterskiej.
 
 10° wierni przyjęci wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego mają — na równi z członkami z mocy prawa naturalnego — prawo korzystać z owoców domyślnego przyjęcia do Kościoła Katolickiego: dostępu do sakramentów w Kościele powszechnym (kan. 213, kan. 843 § 1 KPK 1983) oraz opieki duszpasterskiej właściwej dla wiernych przyjętych do Kościoła.
+
+11° **prawo do godziwej pracy i ochrony trodu** (zasada „Tród i praca to świętość”, Preambuła kan. 1zx): prawo do pracy zgodnej z powołaniem i stanem zdrowia, do sprawiedliwej zapłaty lub udziału w plonie, do posiłku i odpoczynku od pierwszej godziny posługi, do błogosławieństwa narzędzia pracy, do prywatnej własności owocu własnego trudu oraz do poszanowania powierzonych mu zwierząt, pasieki, ogrodu i warsztatu; osoba podejmująca pracę nie może być zmuszana do pracy ponad siły ani do pracy wbrew sumieniu.
 
 **Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 220 KPK). Dotyczy to w szczególności:
 
@@ -228,6 +242,18 @@
 **§ 7.** Oparcie w kan. 205 KPK 1983: w pełnej wspólnocie Kościoła katolickiego pozostają na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; Triarchia Domowa i biskup subdiecezjalny, zachowując te trzy więzy, korzystają z pełnej wspólnoty *ex ipso iure* — dlatego aktu przyjęcia dokonywanego wolą Triarchii nie można stawiać wyżej ani przed komunią z Biskupem Rzymu, a gościna wobec ochrzczonego biskupa subdiecezjalnego jest obowiązkiem, nie fakultetem (*gość w dom, Bóg w dom*).
 
 **§ 8.** Triarchia Domowa działa zawsze „w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu”; aktu przyjęcia wolą Triarchii nie można interpretować jako aktu rzekomo wcześniejszego lub ważniejszego niż komunia z Biskupem Rzymu, ani jako warunku koniecznego dla bycia uznanym za katolika.
+
+**§ 9.** Piecza nad świętością trodu i pracy (*sanctitas gregis et operis*, Preambuła kan. 1zx): Triarchia Domowa sprawuje władzę decyzyjną również w zakresie rozeznania, powierzania i błogosławienia pracy wiernym — zarówno przyjętym na stałe wolą Triarchii Domowej, jak i przyjętym na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2). Do obowiązków Triarchii należy:
+
+1° wyznaczać pracę zgodną z powołaniem, wiekiem, stanem zdrowia i sumieniem każdego wiernego;
+
+2° strzec nietykalności owocu pracy i zakazu wyzysku — nikt nie może być zmuszany do pracy ponad siły ani pozbawiony plonu własnego trudu;
+
+3° zapewniać pracującemu posiłek, odpoczynek od pierwszej godziny posługi oraz błogosławieństwo narzędzia (kan. 256 Księgi IV);
+
+4° czuwać nad tadem: stadłem, pasieką, ogrodem, polem i warsztatem, jako przestrzenią uświęconą;
+
+5° rozstrzygać spory o udział w plonie według Księgi IX (kan. 453–462) i Księgi X (kan. 463–491), zawsze na korzyść strony słabszej (kan. 5 Księgi I).
 
 ---
 
@@ -332,6 +358,8 @@
 **§ 3.** Głowa Rodu jako biskup domowy subdiecezjalny jest stróżem godności każdego członka wspólnoty i ma obowiązek aktywnie przeciwdziałać wszelkim formom przemocy, manipulacji, poniżania czy wykorzystywania.
 
 **§ 4.** Naruszenie godności wiernego przyjętego wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego stanowi jednocześnie naruszenie praw osoby przyjętej do Kościoła Katolickiego (kan. 208–223 KPK 1983) i jako takie podlega odwołaniu przewidzianemu w kan. 19 pkt 4.
+
+**§ 5.** Ochrona świętości trodu i pracy (zasada „Tród i praca to świętość”, Preambuła kan. 1zx): naruszeniem godności wiernego jest w szczególności zmuszanie go do pracy wbrew sumieniu lub ponad siły, wyzysk jego trudu, bezprawne zawłaszczenie owocu pracy (plonu, miodu, mleka, wytworu rąk) oraz znęcanie się nad powierzonymi mu zwierzętami lub niszczenie pasieki, ogrodu i narzędzi; każda taka praktyka podlega prawie do sprzeciwu, wysłuchania, obrony i odwołania opisanym w kan. 34.
 
 **Kan. 33 § 1.** Jeśli jedno z małżonków stanowi źródło poważnego niebezpieczeństwa dla duszy lub ciała drugiej strony albo dla potomstwa, lub w inny sposób czyni zbyt trudnym życie wspólne, daje tym samym drugiej stronie zgodną z prawem przyczynę odejścia (por. kan. 263 § 1 KPK).
 

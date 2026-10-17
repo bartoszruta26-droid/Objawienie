@@ -31,6 +31,8 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 4° przestrzeń wirtualną, w której wspólnota sprawuje łączność modlitewną i formacyjną.
 
+5° **trod** (*gregis et operis area*) — stado, pasiekę, pole, łąkę, pastwisko, ogród, warsztat i spichlerz wraz z narzędziami pracy oraz owocami ludzkiego wysiłku; terytorium trodu obejmuje zasada nadrzędna „Tród i praca to świętość” (*sanctitas gregis et operis*, Preambuła kan. 1zx) — jest to przestrzeń uświęcona, w której człowiek współdziała z Bogiem jako współstwórca.
+
 **§ 3.** Kościół Domowy posiada osobowość prawną na mocy samego prawa naturalnego i Bożego. W porządku cywilnym może działać jako świecka organizacja religijna (art. 2 ust. 11 ustawy o gwarancjach wolności sumienia i wyznania), stowarzyszenie, lub Kościół niewpisany do rejestru Kościołów lub Kościół wpisany do rejestru Kościołów lub inna forma organizacyjna przewidziana prawem. Przepis prawa niniejszego kanonu stanowi, iż osobowość prawna Kościoła Domowego nie musi być wpisywana do żadnego rejestru jeżeli władze Kościoła Domowego sobie tego wyraźnie nie życzą.
 
 **§ 4.** Klauzula interpretacyjna ogólna: wszystkie przepisy dotyczące przyjęcia wiernych (kan. 14–19 Księgi II, Księga VII — Przyjęcie i Oddalenie, Preambuła kan. 1l oraz kan. 1u–1y i kan. 1zq) należy czytać i stosować w duchu zasady „pierwszy z równych” (*primus inter pares*): pierwszeństwo władzy domowej w akcie przyjęcia nie rodzi nierówności godności osoby przyjętej — ani przyjętej wolą Triarchii Domowej, ani przyjętej na chwilę wolą władzy Kościoła Domowego.
@@ -81,7 +83,13 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 
 12° **Przedmioty, miejsca i psoby błogosławione domowe** — sakramentalia będące błogosławieństwem miejsc przedmiotow i osób, błogosławieństwa i poświęcenia sprawowane przez Głowę Rodu w domu;
 
-13° **Liturgia Życia** — szczególna forma liturgii godzin, codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu i rodzinie obejmująca kontemplację, medytację i modlitwę w codziennych drobnych czynnościach domowych. 
+13° **Liturgia Życia** — szczególna forma liturgii godzin, codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu i rodzinie obejmująca kontemplację, medytację i modlitwę w codziennych drobnych czynnościach domowych.
+
+14° **Tród** (*trod*, od trud; łac. *grex et opus*) — stado, pasieka, plon, ogród, narzędzie oraz owoce ludzkiego wysiłku; całość tego, co rodzi się z trudu rąk ludzkich przy współdziałaniu łaski Bożej;
+
+15° **Praca** (*labor*) — każde celowe, świadome działanie człowieka służące dobru wspólnemu i utrzymaniu życia, obejmujące uprawę roli, hodowlę, pszczelarstwo, rzemiosło, twórczość intelektualną i pracę domu; praca jest pierwszym powołaniem człowieka (Rdz 2,15) i stanem łaski, nie tylko środkiem zarobkowym;
+
+16° **Świętość trodu** (*sanctitas gregis et operis*) — zasada nadrzędna porządku prawnego Kościoła Domowego („Tród i praca to świętość”, Preambuła kan. 1zx), oznaczająca, że trud i praca są przestrzenią uświęconą, owoc pracy jest nietykalny, a wyzysk i praca przymusowa są zakazane; 
 
 ---
 
@@ -102,6 +110,8 @@ Niniejszy Kanon jest zgodny z prawem Bożym, prawem naturalnym i prawami człowi
 5° prawo partykularne Kościoła Domowego — uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
 
 6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej w tej hierarchii.
+
+7° źródłem interpretacyjnym prawa domowego jest od dnia ogłoszenia Uzupełnienia Preambuły V także **zasada „Tród i praca to świętość”** (*sanctitas gregis et operis*, Preambuła kan. 1zx) — każda wątpliwość co do sensu przepisu dotyczącego pracy, trodu, plonu, narzędzia lub owocu wysiłku wiernego rozstrzyga się zgodnie z tą zasadą, w duchu *Laborem exercens* św. Jana Pawła II o podmiotowym i sakralnym charakterze pracy.
 
 **§ 2.** Żadne prawo partykularne Kościoła Domowego nie może uchylać prawa Bożego, naturalnego ani powszechnego prawa kościelnego.
 
