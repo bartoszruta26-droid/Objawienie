@@ -11,7 +11,7 @@
 
 2° pozostawanie we wspólnocie z Kościołem Katolickim;
 
-3° zamieszkiwanie w subdiecezji domowej lub przyjęcie do wspólnoty nawet tymczasowe lub chwilowe, wyrazone dowolnym zaxhowaniem się lub domniemane; przyjęcie chwilowe lub domniemane, dokonane wolą władzy Kościoła Domowego (Głowy Rodu, Małżonki lub Potomka jako pierwszych hierarchów domowych), czyni osobę równą w godności członkom wspólnoty od pierwszej chwili pobytu; pierwszeństwo aktów (Triarchia Domowa — przyjęcie stałe; władza domowa — przyjęcie na chwilę) jest pierwszeństwem funkcji, nie osoby; przyjęcie chwilowe dokonane wolą władzy Kościoła Domowego **nie umniejsza ani nie zawiesza** uprzedniego, domyślnego przyjęcia tej osoby do Kościoła Katolickiego przez chrzest i komunię — status gościa lub członka chwilowego dotyczy wyłącznie sfery partykularno-domowej;
+3° zamieszkiwanie w subdiecezji domowej lub przyjęcie do wspólnoty nawet tymczasowe lub chwilowe, wyrazone dowolnym zachowaniem się lub domniemane; przyjęcie chwilowe lub domniemane, dokonane wolą władzy Kościoła Domowego (Głowy Rodu, Małżonki lub Potomka jako pierwszych hierarchów domowych), czyni osobę równą w godności członkom wspólnoty od pierwszej chwili pobytu; pierwszeństwo aktów (Triarchia Domowa — przyjęcie stałe; władza domowa — przyjęcie na chwilę) jest pierwszeństwem funkcji, nie osoby; przyjęcie chwilowe dokonane wolą władzy Kościoła Domowego **nie umniejsza ani nie zawiesza** uprzedniego, domyślnego przyjęcia tej osoby do Kościoła Katolickiego przez chrzest i komunię — status gościa lub członka chwilowego dotyczy wyłącznie sfery partykularno-domowej; nadto przyjęcie chwilowe, dokonane na ziemi Kościoła Domowego, rodzi pełną ochronę osobową wynikającą ze świętości miejsca (*sanctitas terrae* — zasada „Ziemia to świętość”) na czas całego pobytu;
 
 3a° wobec osoby ochrzczonej i pozostającej w komunii akt przyjęcia domowego (stałego lub chwilowego) ma charakter **stwierdzający** (*declaratorius*), a nie konstytuujący przynależność do Kościoła powszechnego;
 
@@ -27,6 +27,8 @@
 
 8° na mocy kan. 205 KPK 1983 pełna wspólnota z Kościołem katolickim zachodzi przez widzialne więzy wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; spełnienie tych więzy oznacza przyjęcie *ex ipso iure*, którego nie można warunkować dodatkowymi aktami woli.
 
+9° Wierny przyjęty wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, stojąc na świętej ziemi Rodu, korzysta z nietykalności osobistej i godnościowej należnej każdej osobie przebywającej w przestrzeni kultu domowego (*locus sanctus protegit etiam hospitem* — miejsce święte chroni także gościa); pobyt na świętej ziemi nie może być nigdy podstawą do traktowania osoby przyjętej jako istoty niższej godnościowo (*nullus gradus minor ex habitatione*).
+
 **§ 3.** Członkostwo w Kościele Domowym nie zastępuje ani nie umniejsza członkostwa w Kościele Powszechnym, lecz je uzupełnia i pogłębia w wymiarze domowym.
 
 **Kan. 15.** Członkowie Kościoła Domowego dzielą się na:
@@ -41,6 +43,8 @@
 
 5° **Bracia przyjęci** (*fratri adoptivi/invitati*) — osoba przyjęta wchodzi do wspólnoty nie jako „podwładna”, lecz jako równy członek Ludu Bożego, któremu przewodzi pierwszy z równych hierarchów domowych.
 
+6° **Inkolomi domowi** (*incolae domestici*) — osoby zamieszkujące na ziemi Kościoła Domowego z tytułu przyjęcia chwilowego wolą władzy Kościoła Domowego; przysługuje im prawo do korzystania z ziemi (ogród, miejsce modlitwy, strefy wspólne — kan. 468 Księgi X) zgodnie z kan. 16 § 2; świętość ziemi Rodu obejmuje ich ochroną na cały czas pobytu (*sanctitas terrae protegit incolam*).
+
 **Kan. 16 § 1.** Do Kościoła Domowego należą z mocy prawa naturalnego:
 
 1° Głowa Rodu — mąż i ojciec;
@@ -51,7 +55,7 @@
 
 4° osoby przyjęte do wspólnoty na zasadach określonych w § 2.
 
-**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo w sposób domniemany swoją wolą. tożsame prawo mają małżonka i potomkowie. Akt przyjęcia ma podwójną strukturę w duchu zasady „pierwszy z równych”: **przyjęcie wolą Triarchii Domowej** (kan. 26) jako akt kolegialny pierwszego z równych gremium domowego jest formą właściwą przyjęcia na stałe, natomiast **przyjęcie na chwilę wolą władzy Kościoła Domowego** (jednostronne, także domniemane) jest pełnoprawnym aktem gościnnym, ważnym od zaraz, w którym przyjmujący działa jako pierwszy hierarcha, z jakim spotyka się wierny. Za przyjęcie rozumie się nie samą akceptację wolą, lecz przyjęcie gościa do domu na zasadzie „gość w dom, Bóg w dom”; wobec biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją i parafią nie można bez ważnej przyczyny odmówić ugoszczenia — ani w wymiarze domowym, ani w wymiarze Kościoła Katolickiego (por. kan. 205 KPK 1983). Triarchia Domowa przyjmuje na stałe w granicach swojej kompetencji partykularnej; przyjęcie to **zakłada i szanuje** wcześniejsze, dokonane przez samego Chrystusa i uznane przez prawo Kościoła powszechnego włączenie osoby przez chrzest (kan. 96 KPK 1983: przez chrzest człowiek staje się osobą w Kościele).
+**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo w sposób domniemany swoją wolą. tożsame prawo mają małżonka i potomkowie. Akt przyjęcia ma podwójną strukturę w duchu zasady „pierwszy z równych”: **przyjęcie wolą Triarchii Domowej** (kan. 26) jako akt kolegialny pierwszego z równych gremium domowego jest formą właściwą przyjęcia na stałe, natomiast **przyjęcie na chwilę wolą władzy Kościoła Domowego** (jednostronne, także domniemane) jest pełnoprawnym aktem gościnnym, ważnym od zaraz, w którym przyjmujący działa jako pierwszy hierarcha, z jakim spotyka się wierny. Za przyjęcie rozumie się nie samą akceptację wolą, lecz przyjęcie gościa do domu na zasadzie „gość w dom, Bóg w dom”; wobec biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją i parafią nie można bez ważnej przyczyny odmówić ugoszczenia — ani w wymiarze domowym, ani w wymiarze Kościoła Katolickiego (por. kan. 205 KPK 1983). Triarchia Domowa przyjmuje na stałe w granicach swojej kompetencji partykularnej; przyjęcie to **zakłada i szanuje** wcześniejsze, dokonane przez samego Chrystusa i uznane przez prawo Kościoła powszechnego włączenie osoby przez chrzest (kan. 96 KPK 1983: przez chrzest człowiek staje się osobą w Kościele). Decyzja Triarchii Domowej (kan. 26) jest właściwą formą przyjęcia na stałe, a akt jednostronny władzy Kościoła Domowego jest pełnoprawnym przyjęciem chwilowym/gościnnym, ważnym mocą zasady „Ziemia to świętość” — samo wpuszczenie na świętą ziemię domu stanowi znak (*signum terrae*) przyjęcia.
 
 **§ 3.** Przyjęty nie jest sługą przyjmującego, lecz bratem pierwszego z równych (*nullus servus sed frater*). Skutkiem każdego z dwóch aktów przyjęcia jest:
 
@@ -75,7 +79,19 @@
 
 **§ 9.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; analogicznie biskup subdiecezjalny Kościoła Domowego powierza swobodnie urzędy i funkcje we własnym Kościele partykularnym, a wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego obejmują je na tej samej zasadzie swobody — bez wymogu uprzedniego aktu władzy zewnętrznej.
 
-**§ 10.** Przyjęcie jako gościna (*gość w dom, Bóg w dom*): za „przyjęcie” w niniejszym kanonie rozumie się nie akceptację wolą, lecz przyjęcie gościa do domu na zasadzie gościny; dlatego **nie można bez ważnej przyczyny nie przyjąć do Kościoła Katolickiego — czyli nie ugościć — biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją, parafią etc.** Odmowa ugoszczenia takiej osoby wymaga podania ważnej przyczyny w formie dekretu i podlega odwołaniu (kan. 19). 
+**§ 10.** Przyjęcie jako gościna (*gość w dom, Bóg w dom*): za „przyjęcie” w niniejszym kanonie rozumie się nie akceptację wolą, lecz przyjęcie gościa do domu na zasadzie gościny; dlatego **nie można bez ważnej przyczyny nie przyjąć do Kościoła Katolickiego — czyli nie ugościć — biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją, parafią etc.** Odmowa ugoszczenia takiej osoby wymaga podania ważnej przyczyny w formie dekretu i podlega odwołaniu (kan. 19).
+
+**§ 11.** Kanonizacja zasady „Ziemia to świętość” (*Terra sancta est — terra autem est sancta, quia Deus in ea habitat*, por. Rdz 28,16): każdy przyjęty — na stałe wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego — otrzymuje wraz z prawem pobytu na ziemi domowej:
+
+1° prawo do poszanowania godności (kan. 32);
+
+2° prawo do użytku miejsc świętych nieruchomości: kaplicy domowej, ołtarza domowego, miejsca błogosławieństw (kan. 463 § 2, kan. 475 Księgi X);
+
+3° prawo do korzystania z ziemi przynależnej do domu (ogród, pole, łąka) w zakresie określonym przez Triarchię Domową (kan. 469 Księgi X);
+
+4° zakaz wydalenia z ziemi domowej bez zachowania procedury kan. 18–19 (Księga II) oraz analogii z kan. 353 (Księga VII).
+
+**§ 12.** Obowiązek udzielenia schronienia na ziemi Rodu osobie potrzebującej (krewnemu, wędrowcowi, ubogiemu) jako wypełnienie zarządu ziemią danego w Rdz 1,28; odmowa możliwa tylko z poważnej przyczyny rozpoznanej przez Triarchię Domową. 
 
 **Kan. 17.** Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo uczestniczenia w życiu liturgicznym i decyzyjnym Kościoła Domowego stosownie do swojego wieku i dojrzałości.
 
@@ -91,6 +107,8 @@
 
 5° w dekrecie wykluczającym należy wyraźnie zastrzec, że wykluczenie nie dotyka komunii osoby z Kościołem powszechnym, o ile osoba ta pozostaje ochrzczona i w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu.
 
+6° nawet wobec orzeczonego wykluczenia obowiązuje zakaz działania contra sanctitatem terrae: wykluczenie nie może nastąpić w sposób naruszający świętość ziemi (np. nocą, bez środków do przejścia, siłą); wymaga formy spokojnego *egressus* — opuszczenia ziemi z poszanowaniem.
+
 **Kan. 19.** Żaden członek Kościoła Domowego nie może być wykluczony bez:
 
 1° uprzedniego trzykrotnego upomnienia;
@@ -104,6 +122,8 @@
 5° procedury zgodnej z zasadą *primus inter pares*: wysłuchanie osoby przyjętej (na stałe wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) odbywa się wobec równych jej braci i sióstr wspólnoty, nie wobec stanu wyższego i stanu niższego.
 
 6° przed wykluczeniem Triarchia Domowa winna zbadać i stwierdzić, czy osoba pozostaje w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu; stwierdzenie tej komunii potwierdza jedynie ochronę praw osoby jako już przyjętej do Kościoła powszechnego (prawo do sakramentów, kan. 213 KPK 1983).
+
+7° przed wykonaniem decyzji dotyczącej pobytu na ziemi domowej Triarchia Domowa winna rozważyć związek osoby z ziemią Rodu (zamieszkiwanie, praca na roli, grób bliskiego na ziemi Rodu) jako szczególną okoliczność łagodzącą — świętość ziemi, z którą osoba związana jest życiem i służbą, nakazuje roztropność i miłosierdzie (*sanctitas terrae suadet misericordiam*).
 
 ---
 
@@ -157,6 +177,8 @@
 
 11° **prawo do godziwej pracy i ochrony trodu** (zasada „Tród i praca to świętość”, Preambuła kan. 1zx): prawo do pracy zgodnej z powołaniem i stanem zdrowia, do sprawiedliwej zapłaty lub udziału w plonie, do posiłku i odpoczynku od pierwszej godziny posługi, do błogosławieństwa narzędzia pracy, do prywatnej własności owocu własnego trudu oraz do poszanowania powierzonych mu zwierząt, pasieki, ogrodu i warsztatu; osoba podejmująca pracę nie może być zmuszana do pracy ponad siły ani do pracy wbrew sumieniu.
 
+12° wierni przyjęci wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego mają prawo — na równych warunkach z członkami z mocy prawa naturalnego — uczestniczyć w **błogosławieństwach ziemi i plonów** obrządku domowego (poziom korzeniowy: Pobożność — Małżeństwo — Ziemia — Cierpliwość — Służenie, por. kan. 469 § 1 Księgi X), ponieważ więź z miejscem świętym rodzi udział w jego liturgicznym uświęcaniu.
+
 **Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 220 KPK). Dotyczy to w szczególności:
 
 1° zakazu rozpowszechniania informacji o życiu prywatnym członków bez ich zgody;
@@ -184,6 +206,8 @@
 5° powód do pozbawienia praw majątkowych.
 
 **§ 3.** Głowa Rodu ma obowiązek uszanować decyzję o odejściu i nie utrudniać jej realizacji.
+
+**§ 4.** Występujący zachowuje pamięć prawną swojego pobytu na świętej ziemi Rodu; nie traci czci (*honor loci*) nabytej przez zamieszkiwanie; jego ewentualny przyszły powrót jako gościa podlega kan. 16 § 2 w trybie zwykłym — świętość ziemi nie gaśnie wraz z odejściem jej mieszkańców, obejmuje również tych, którzy na niej przebywali.
 
 ---
 
@@ -254,6 +278,8 @@
 4° czuwać nad tadem: stadłem, pasieką, ogrodem, polem i warsztatem, jako przestrzenią uświęconą;
 
 5° rozstrzygać spory o udział w plonie według Księgi IX (kan. 453–462) i Księgi X (kan. 463–491), zawsze na korzyść strony słabszej (kan. 5 Księgi I).
+
+**§ 10.** Triarchia Domowa jest jednocześnie **strażnikiem świętości ziemi domowej** (*custos sanctitatis terrae*); do jej wyłącznych kompetencji należy ocena, czy dany akt władzy (przyjęcie na chwilę, wyproszenie, zmiana sposobu korzystania z gruntu) nie narusza zasady „Ziemia to świętość” (*sanctitas terrae*).
 
 ---
 
@@ -335,6 +361,8 @@
 
 **§ 8.** Różnica tytułu włączenia do wspólnoty domowej (prawo naturalne / wola Triarchii Domowej / wola chwilowa władzy Kościoła Domowego) nie tworzy żadnego stopnia w godności ani w przynależności kościelnej — wszyscy ochrzczeni pozostający w komunii są w równej mierze przyjęci do Kościoła Katolickiego (*in communicatione pares*).
 
+**§ 9.** Różnica tytułu przyjęcia (prawo naturalne / wola Triarchii Domowej / wola chwilowa władzy Kościoła Domowego) nie tworzy różnicy w godności również z tego powodu, że wszyscy stoją na tej samej świętej ziemi — *coram terra sancta pares*; przed obliczem ziemi świętej (*sanctitas terrae*, zasada „Ziemia to świętość”) wszyscy wierni Kościoła Domowego są równi.
+
 **Kan. 31.** W przypadku konfliktu między małżonkami:
 
 1° należy najpierw dążyć do bezpośredniego porozumienia w duchu miłości;
@@ -360,6 +388,8 @@
 **§ 4.** Naruszenie godności wiernego przyjętego wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego stanowi jednocześnie naruszenie praw osoby przyjętej do Kościoła Katolickiego (kan. 208–223 KPK 1983) i jako takie podlega odwołaniu przewidzianemu w kan. 19 pkt 4.
 
 **§ 5.** Ochrona świętości trodu i pracy (zasada „Tród i praca to świętość”, Preambuła kan. 1zx): naruszeniem godności wiernego jest w szczególności zmuszanie go do pracy wbrew sumieniu lub ponad siły, wyzysk jego trudu, bezprawne zawłaszczenie owocu pracy (plonu, miodu, mleka, wytworu rąk) oraz znęcanie się nad powierzonymi mu zwierzętami lub niszczenie pasieki, ogrodu i narzędzi; każda taka praktyka podlega prawie do sprzeciwu, wysłuchania, obrony i odwołania opisanym w kan. 34.
+
+**§ 6.** Ochrona godności rozciąga się na sferę materialną pobytu (zasada „Ziemia to świętość”): godziwe miejsce zamieszkania na nieruchomości, dostęp do wody, ognia i stołu domowego; osoba przyjęta nawet na chwilę nie może być zamieszkiwana w warunkach poniżających (*condicio inhonesta*), bo to profanacja świętej ziemi (*profanatio terrae sanctae*).
 
 **Kan. 33 § 1.** Jeśli jedno z małżonków stanowi źródło poważnego niebezpieczeństwa dla duszy lub ciała drugiej strony albo dla potomstwa, lub w inny sposób czyni zbyt trudnym życie wspólne, daje tym samym drugiej stronie zgodną z prawem przyczynę odejścia (por. kan. 263 § 1 KPK).
 
@@ -388,6 +418,8 @@
 4° **prawo do odwołania** — każda decyzja Głowy Rodu może być odwołana do biskupa diecezjalnego lub innej kompetentnej władzy kościelnej;
 
 5° **prawo do pomocy zewnętrznej** — każdy członek wspólnoty ma prawo zwrócić się o pomoc do władz kościelnych, państwowych lub organizacji społecznych.
+
+6° **prawo do ochrony miejsca świętego** (*confugium ad terram sanctam*) — osoba przyjęta nawet na chwilę, wobec groźby bezprawnego wyproszenia lub przemocy, chroni się na terenie nieruchomości (dom, ogród, kaplica domowa) i nie może być z niego wydana; Triarchia Domowa rozpoznaje sprawę w trybie pilnym.
 
 **§ 2.** Głowa Rodu jako biskup domowy nie może:
 
