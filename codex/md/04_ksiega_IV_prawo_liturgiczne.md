@@ -1393,7 +1393,7 @@
 
 **§ 2.** Żaden charyzmat nie może być:
 
-1° narzucany wbrew woli osoby przy zachowaniu domniemanej woli osób będących katolikami;
+1° narzucany wbrew woli osoby przy zachowaniu domniemanej woli osób będących katolikami; pierwszeństwo darów i funkcji charyzmatycznych jest pierwszeństwem służebnym pośród równych charyzmatyków i dotyczy także osoby przyjętej na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II) — nie może jej być żaden charyzmat narzucony ani przypisany wbrew jej woli;
 
 2° używany dla osobistej chwały lub zysku;
 
@@ -2703,14 +2703,16 @@
 
 7° modlitwę końcową o wierność przymierzu;
 
-8° przyjęcie do wspólnoty Kościoła Domowego.
+8° przyjęcie do wspólnoty Kościoła Domowego; przy przyjęciu **wolą Triarchii Domowej** (kan. 16 § 2, kan. 26 Księgi II) obrzędowi przewodniczy Ojciec jako pierwszy z równych Triarchii, przy współdziałaniu Matki i Potomka; przy przyjęciu **na chwilę wolą władzy Kościoła Domowego** wystarcza znak gościnny (wpuszczenie przez próg, błogosławieństwo progowe), który czyni gospodarza pierwszym z równych wobec gościa, nie jego zwierzchnikiem;
+
+9° pozdrowienie osoby przyjętej formułą: *„Bracie/Siostro, pierwszy z równych wita równego sobie”* — podkreślającą równość aktu przyjęcia (*aequalitas receptionis*) oraz to, że przyjmujący nie staje się przez akt przyjęcia panem przyjętego (*qui recipit, maior non est*).
 
 **§ 4.** Formuła błogosławieństwa i nałożenia szkaplerza:
 *„W imię Ojca i Syna, i Ducha Świętego. Amen. Boże Wszechmogący, który zawarłeś z nami wieczne przymierze i okryłeś nas płaszczem Twojej miłości, pobłogosław ten szkaplerz i uczyń go znakiem Twojego przymierza w naszym domu. Niech przypomina nam o naszej przynależności do Twojego Rodu. Niech okrywa nas Twoją ochroną. Niech uczy nas cierpliwości i wierności. Niech wzywa nas do służby Tobie i bliźnim. Przez Chrystusa, Pana naszego. Amen."*
 
 **§ 5.** Szkaplerz jako przedmiotów błogosławionych kultowe używany jest:
 
-1° przy obrzędzie przyjęcia do wspólnoty Kościoła Domowego;
+1° przy obrzędzie przyjęcia do wspólnoty Kościoła Domowego — w obu trybach przewidzianych kan. 16 § 2 Księgi II: zarówno przy przyjęciu wolą Triarchii Domowej (na stałe), jak i przy przyjęciu na chwilę wolą władzy Kościoła Domowego (tymczasowym lub domniemanym), z zachowaniem równej godności osoby przyjmującej;
 
 2° przy odnowieniu przyrzeczeń chrzcielnych i małżeńskich;
 

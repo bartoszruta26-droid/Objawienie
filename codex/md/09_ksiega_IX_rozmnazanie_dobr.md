@@ -37,7 +37,9 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 6° wiedza przekazana jednemu nie umniejsza wiedzy przekazującego;
 
-7° obrządek domowy sprawowany w jednym Kościele Domowym nie ogranicza jego sprawowania w innym.
+7° obrządek domowy sprawowany w jednym Kościele Domowym nie ogranicza jego sprawowania w innym;
+
+8° przekazanie tytułu lub urzędu jednej osobie nie tworzy relacji pana nad sługą: przekazujący jest „pierwszym z równych" wobec osoby przyjmującej dobro (analogia: Biskup Rzymu pośród biskupów). Zasada ta dotyczy także udostępniania dóbr duchowych wiernym przyjętym wolą Triarchii Domowej oraz przyjętym na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II) — obu na zasadzie równości godności.
 
 **§ 3.** Zasada rozmnażania dóbr duchowych opiera się na:
 
@@ -53,6 +55,8 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 **Kan. 435 § 1.** Tytuł duchownego w Kościele Domowym przysługuje każdemu członkowi wspólnoty, który:
 
+0° warunkiem „przynależności do wspólnoty" jest ważne przyjęcie w rozumieniu kan. 16 § 2 Księgi II — zarówno wolą Triarchii Domowej (na stałe), jak i na czas pobytu wolą władzy Kościoła Domowego (na chwilę, także domniemanie); oba tryby otwierają drogę do tytułu na zasadzie równości, bez żadnej „karencji godnościowej";
+
 1° przyjął sakramenty inicjacji chrześcijańskiej (chrzest, bierzmowanie, Eucharystia);
 
 2° ukończył formację podstawową w jednym z trzech obrządków domowych;
@@ -61,7 +65,7 @@ Najwyższą zasadą niniejszej Księgi jest: *bonum est diffusivum sui* — dobr
 
 4° wyraża wolę służenia wspólnocie.
 
-**§ 2.** Tytuł duchownego nie jest wyłączny. Może go posiadać jednocześnie wielu członków Kościoła Domowego. Udzielenie go nowemu członkowi nie pozbawia go dotychczasowych posiadaczy.
+**§ 2.** Tytuł duchownego nie jest wyłączny. Może go posiadać jednocześnie wielu członków Kościoła Domowego. Udzielenie go nowemu członkowi nie pozbawia go dotychczasowych posiadaczy. Wielorakość posiadaczy tytułu jest realizmem zasady „pierwszy z równych": każdy posiadacz tytułu przewodzi jedynie w zakresie swej funkcji, nigdy jako pan nad innymi posiadaczami ani nad osobą przyjętą.
 
 **Kan. 436 § 1.** Tytuł kapłana domowego przysługuje członkowi Kościoła Domowego, który:
 

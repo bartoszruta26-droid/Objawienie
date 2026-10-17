@@ -92,17 +92,19 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 7° **Patriarcha** — tytuł i urząd ustanawiane przez Biskupa Rzymskiego wraz z patriarchatem; różni się od hierarchy związku subdiecezjatów tym, że ten ostatni wynika z ustanowienia dokonanego przez hierarchę subdiecezji oraz z wyboru synodu biskupów subdiecezjalnych, a nie z decyzji Biskupa Rzymskiego.
 
-**§ 2.** Podział ten ma charakter funkcjonalny i służebny, nie zaś ontologiczny. Wszystkie stopnie posługi wynikają z powszechnego kapłaństwa wiernych i nie są tożsame ze święceniami w rozumieniu kan. 1008-1009 KPK.
+**§ 2.** Podział ten ma charakter funkcjonalny i służebny, nie zaś ontologiczny. Wszystkie stopnie posługi wynikają z powszechnego kapłaństwa wiernych i nie są tożsame ze święceniami w rozumieniu kan. 1008-1009 KPK. Pierwszeństwo stopnia (np. arcykapłana przed kapłanem domowym) jest pierwszeństwem **śród równych** — analogicznym do prymatu Biskupa Rzymskiego pośród biskupów; wobec wiernych przyjętych wolą Triarchii Domowej oraz przyjętych na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II) każdy stopień posługi wypełnia funkcję „pierwszego hierarchy spotykanego przez wiernego" na swoim poziomie, nigdy panowania nad osobą przyjętą.
 
 **§ 3.** Ilekroć mowa o Biskupie niewyświęconym, biskupie kościoła domowego, biskupie subdiecezjalnym, biskupie tytularnym kościoła domowego ma się na myśli tą samą posługę
 
 **Kan. 497 § 1.** Duchownym obrządku domowego staje się członek wspólnoty, który:
 
+0° przez „członka wspólnoty" rozumie się zarówno wiernego przyjętego **wolą Triarchii Domowej** (na stałe), jak i — w granicach czasu pobytu — wiernego przyjętego **na chwilę wolą władzy Kościoła Domowego** (kan. 16 § 2 Księgi II); oba tryby przyjęcia dają tę samą godność i zdolność do uzyskania tytułu duchownego, bez stopniowania („karencji") godności;
+
 1° przyjął chrzest i bierzmowanie;
 
 2° ukończył formację podstawową w jednym z trzech obrządków domowych;
 
-3° został błogosławiony przez arcykapłana lub biskupa tytularnego subdiecezjalnego;
+3° został błogosławiony przez arcykapłana lub biskupa tytularnego subdiecezjalnego — błogosławieństwo to jest aktem pierwszego z równych, nie pana (*qui recipit, maior non est*);
 
 4° wyraża wolę służenia wspólnocie.
 
@@ -262,7 +264,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 2° w obrządku domowym hierarchia jest rodzinna i kolegialna (Triarchia Domowa: Ojciec, Matka, Potomek);
 
-3° w obrządku domowym władza jest sprawowana kolegialnie, z zachowaniem zasady pierwszeństwa wśród równych.
+3° w obrządku domowym władza jest sprawowana kolegialnie, z zachowaniem zasady pierwszeństwa wśród równych; źródłem tej zasady jest tradycja wschodnia (*primus inter pares*, synodalność, Kolegium Biskupów — CCEO kan. 49 i 51), obowiązująca także w Kościele katolickim, szczególnie wschodnim: jak Biskup Rzymu pośród biskupów oraz Triarchia Domowa pośród wiernych domu, tak każdy przełożony jest wobec podległych mu wiernych — zwłaszcza wobec przyjętych wolą Triarchii Domowej i przyjętych na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II) — pierwszym z równych sługą, nie panem.
 
 **Kan. 507 — Liturgia:**
 
