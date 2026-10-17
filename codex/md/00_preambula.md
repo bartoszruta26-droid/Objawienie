@@ -1003,6 +1003,8 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 
 **§ 3.** Przepisy kanonu, które ograniczają wolną wolę wiernego, winny być interpretowane ściśle (kan. 18 KPK) i nie mogą być rozciągane poza przypadki wyraźnie w nich wymienione (kan. 36 § 2 KPK).
 
+**§ 4.** Zasada „Tród i praca to świętość” (*sanctitas gregis et operis*): wolna wola przekazana człowiekowi przez Boga realizuje się w szczególny sposób przez **wolny wybór pracy**; praca jest pierwszym powołaniem człowieka (Rdz 2,15: „aby ziemię uprawiał i jej strzegł”) i stanem łaski, w którym człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Stąd praca mimowolna, niewolnicza lub wyzyskowa jest sprzeczna z Prawem Naturalnym i Bożym oraz z niniejszym kanonem; wolność osoby przejawia się także w prawie do uczciwej pracy zgodnej z powołaniem i stanem zdrowia oraz w prawie do owoców własnego trudu.
+
 ---
 
 **Kan. 1zi § 1.** W odniesieniu do posług w Kościele Domowym, rozróżnienie między wolą Bożą a wolą instytucjonalną oznacza:
@@ -1036,6 +1038,8 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 4° wierni mają prawo wyjawiać swoje zdanie w sprawach dotyczących dobra Kościoła (kan. 212 § 3 KPK);
 
 5° żaden akt władzy kościelnej nie może naruszać Prawa Bożego ani przyrodzonej godności osoby.
+
+**§ 4.** Rozeznanie woli Bożej w sprawach trodu i pracy — owocu wysiłku rąk, hodowli, pszczelarstwa i rzemiosła — zaczyna się w Triarchii Domowej (kan. 26 Księgi II), która jako pierwsza instytucja domowa rozeznaje, czy powierzona wiernemu praca służy dobru wspólnemu i zbawieniu; wola Boża nigdy nie sprzeciwia się godności pracującego ani nietykalności owocu jego trudu.
 
 ---
 
@@ -1077,6 +1081,8 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 **§ 4.** Zasada nadrzędna dla wszystkich form: *przyjętym do Kościoła katolickiego jest ten, kto został ochrzczony i pozostaje w komunii z Kościołem katolickim, Stolicą Apostolską i Biskupem Rzymu* (Zasada Komunii; por. kan. 9, kan. 11, kan. 204 § 1, kan. 205 § 1 KPK 1983). Skutkiem tej zasady jest to, że każdy kościół domowy i jego biskup subdiecezjalny — będący ochrzczonym i pozostającym w komunii — jest **z mocy prawa (domyślnie) przyjęty** przez Biskupa Rzymu, Stolicę Apostolską i Kościół Katolicki na mocy KPK przyjętego przez św. Jana Pawła II w 1983 roku; aktu tego obecny Biskup Rzymu nie może obejść, tym bardziej nie będąc Świętym. Wierni zaś danej subdiecezji, przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, o ile są ochrzczeni i trwają w komunii, korzystają z tego samego domyślnego przyjęcia — akt domowy ma charakter stwierdzający (*declaratorius*), nie konstytuujący.
 
 **§ 5.** Odmowa uznania domyślnego przyjęcia wobec osoby ochrzczonej i trwającej w komunii byłaby sprzeczna zarówno z prawem powszechnym (KPK 1983), jak i z domową zasadą gościnności „gość w dom, Bóg w dom”; dlatego kategorie „przyjęty” i „nieprzyjęty”, o których mowa w niniejszej Księdze oraz w Księdze III (kan. 117 § 2 i § 2a), rozumie się wyłącznie jako opis potwierdzenia formalno-instytucjonalnego (pisemnego), nigdy jako opis zerwanej lub nieistniejącej komunii.
+
+**§ 6.** Zasada „Tród i praca to świętość” (*sanctitas gregis et operis*): władza pasterska Triarchii Domowej, sprawowana w wszystkich formach wymienionych w § 2, obejmuje **pieczę nad świętością trodu i pracy** wiernych — zarówno przyjętych wolą Triarchii Domowej na stałe, jak i przyjętych na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II). Do tej pieczy należy: strzeżenie nietykalności owocu pracy, zakaz wyzysku, błogosławienie narzędzi, zwierząt, pasieki i plonów oraz czuwanie, by praca służyła dobru wspólnemu i zbawieniu dusz (*salus animarum suprema lex*).
 
 ---
 
@@ -1442,6 +1448,42 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 **Kan. 1zw ** Biskup subdiecezjalny konsekrowany wolą Ducha Świętego i za zgoda Ojca z Nieba przy obserwacji Syna Bożego ma pierwotne i uświęcone prawo przebywać wśród odrzuconych, wykluczonych, grzeszników, siejących zgorszenie w celu ich nawrócenia, sklonienia do pokuty, rozgrzeszenia. biskup subdiecezjalny z pelną świadomością może prowadzić dialog międzywyznaniowy z ludem Bożym zarówno wierzącym jak i nie wierzącym, chrześcijanami jak i niechrzescijanami, katolikami jak i akatolikami, łacinnikami jak i wschodnimi dla pełnej chwały Pana, gdyż bliskość swoich wiernych z Rodu pozwala na realne odrzucenie plotek i niewłaściwych osądów. 
 
 ---
+
+## UZUPEŁNIENIE PREAMBUŁY V — ZASADA „TRÓD I PRACA TO ŚWIĘTOŚĆ”
+### *Additamentum ad Preambulum Libri I — De Sanctitate Gregis et Operis*
+
+---
+
+**Kan. 1zx § 1.** Ustanawia się nadrzędną zasadę porządku prawnego Kościoła Domowego: **„Tród i praca to świętość”** (*sanctitas gregis et operis*; greckie: hosion tou poietikon kai tes ergasias). Trud — lub T-Ród, TRód albo trod, to stado, pszczoły, plon, ogród, narzędzie i owoce ludzkiego wysiłku — jest przestrzenią uświęconą, w której człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Praca nie jest jedynie środkiem zarobkowym, lecz **stanem łaski**, drogą uświęcenia i formą uczestnictwa w dziele Odkupienia. Świętość trodu oznacza nietykalność owocu pracy: tego, co żywe, rosnące, wytworzone i powierzone ludzkiej pieczy.
+
+**§ 2.** Podstawy doktrynalne zasady:
+
+1° **Pismo Święte** — Rdz 2,15: „Wziął więc Bóg człowieka i umieścił go w ogrodzie Eden, aby go uprawiał i strzegł” (adamah – adama: ziemia-oracz); praca jest pierwszym powołaniem człowieka, jeszcze przed upadkiem; Rdz 1,28: „Bądźcie płodni i rozmnażajcie się… czyńcie sobie ziemię poddaną” — przykazanie rozmnażania przez pracę (por. kan. 456 § 1 Księgi IX);
+
+2° **Tradycja starosłowiańska** — kult ziemi rodzącej, opieka nad stadem i pasieką jako obowiązek święty; pszczoła jako znak wspólnoty i ofiary (wosk na świece ołtarzowe); przysłowia: „Praca człowieka karmi, lenistwo głodzi”, „Kto orze, ten Boga prosi”;
+
+3° **Tradycja bizantyjska i monastyczna** — *praxis* jako droga *theosis*; reguły o wspólnej pracy braci; psalm responsoryjny przy żniwach; błogosławieństwo plonów (Litija na pole), obrzęd pierwszego snopa, pobłogosławienie narzędzi pracy;
+
+4° **Nauczanie Kościoła zachodniego** — Leon XIII, *Rerum novarum*; Pius XII o godności pracy; Sobór Watykański II, *Gaudium et spes* 34–39 („człowiek współpracując z Bogiem… doskonaląc świat, pośredniczy w dziele stworzenia”); Jan Paweł II, *Laborem exercens* (praca ma charakter podmiotowy i sakralny); Benedykt XVI, *Deus caritas est*;
+
+5° **Analogia kodeksowa** — Kodeks Kościoła Domowego zawierał już odpowiednik tej zasady w Tytule o przedmiotach błogosławionych narzędziowych (kan. 242–261 Księgi IV): misa, siekiera, nóż, igła, młotek, grzebień i motyka są „przedmiotami błogosławionymi” łączonymi z cnotami i sakramentami; niniejszym zasada „Tród i praca to świętość” zostaje wyniesiona do rangi **zasady nadrzędnej** spajającej te rozproszone normy.
+
+**§ 3.** Skutki prawne zasady dla wiernych przyjętych wolą Triarchii Domowej oraz przyjętych na chwilę wolą władzy Kościoła Domowego (kan. 15 4° i kan. 16 § 2 Księgi II):
+
+1° każdemu wiernemu przysługuje prawo do uczciwej pracy zgodnej z powołaniem i stanem zdrowia;
+
+2° owoc pracy — plon, miód, mleko, wytwór rąk — jest nietykalny i nie może być bezprawnie zawłaszczony;
+
+3° praca nie może być narzędziem przymusu, presji wewnątrzrodzinnej ani wyzysku, zwłaszcza wobec przyjętych „na chwilę”;
+
+4° osoba podejmująca pracę ma prawo od pierwszej godziny posługi do posiłku, odpoczynku, zakazu pracy ponad siły oraz do błogosławieństwa narzędzia;
+
+5° udział w plonie przysługuje proporcjonalnie do wkładu pracy, zgodnie z Księgą IX (kan. 453–462) i Księgą X (kan. 463–491).
+
+**§ 4.** Zasada niniejsza przenika cały porządek prawny Kodeksu jako źródło interpretacyjne (kan. 10 § 1 Księgi I) i znajduje swoje wykonanie w postanowieniach uzupełniających zawartych w Księgach I, II, IV, V, VI, VII, IX i X; żadna norma partykularna nie może być interpretowana sprzecznie z nią.
+
+---
+
 
 *Dano w domu rodzinnym, stolicy subdiecezji domowej, w obecności Triarchii Domowej i synodu subdiecezji, w wolności sumienia i w komunii z Kościołem Powszechnym.*
 
