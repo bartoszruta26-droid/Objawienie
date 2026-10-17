@@ -3,7 +3,7 @@
 
 ### Tytuł I: Wierni Kościoła Domowego
 
-**Kan. 14 § 1.** Wiernymi Kościoła Domowego są osoby ochrzczone, które przez chrzest stały się Ciałem Chrystusa i zostały włączone w Boży Lud, a w przestrzeni domowej tworzą wspólnotę Kościoła Domowego na mocy prawa naturalnego i sakramentu małżeństwa.
+**Kan. 14 § 1.** Wiernymi Kościoła Domowego są osoby ochrzczone, które przez chrzest stały się Ciałem Chrystusa i zostały włączone w Boży Lud, a w przestrzeni domowej tworzą wspólnotę Kościoła Domowego na mocy prawa naturalnego i sakramentu małżeństwa. Osoba ochrzczona pozostająca w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu jest z mocy samego prawa (*ex ipso iure*) uznana za przyjętą do Kościoła Katolickiego, a przynależność do Kościoła Domowego tę komunię pogłębia, lecz jej nie zakłada ani nie zastępuje (por. kan. 204 § 1 i kan. 205 § 1 KPK 1983 — Zasada Komunii).
 
 **§ 2.** Warunki przynależności do Kościoła Domowego:
 
@@ -11,13 +11,21 @@
 
 2° pozostawanie we wspólnocie z Kościołem Katolickim;
 
-3° zamieszkiwanie w subdiecezji domowej lub przyjęcie do wspólnoty nawet tymczasowe lub chwilowe, wyrazone dowolnym zaxhowaniem się lub domniemane; przyjęcie chwilowe lub domniemane, dokonane wolą władzy Kościoła Domowego (Głowy Rodu, Małżonki lub Potomka jako pierwszych hierarchów domowych), czyni osobę równą w godności członkom wspólnoty od pierwszej chwili pobytu; pierwszeństwo aktów (Triarchia Domowa — przyjęcie stałe; władza domowa — przyjęcie na chwilę) jest pierwszeństwem funkcji, nie osoby;
+3° zamieszkiwanie w subdiecezji domowej lub przyjęcie do wspólnoty nawet tymczasowe lub chwilowe, wyrazone dowolnym zaxhowaniem się lub domniemane; przyjęcie chwilowe lub domniemane, dokonane wolą władzy Kościoła Domowego (Głowy Rodu, Małżonki lub Potomka jako pierwszych hierarchów domowych), czyni osobę równą w godności członkom wspólnoty od pierwszej chwili pobytu; pierwszeństwo aktów (Triarchia Domowa — przyjęcie stałe; władza domowa — przyjęcie na chwilę) jest pierwszeństwem funkcji, nie osoby; przyjęcie chwilowe dokonane wolą władzy Kościoła Domowego **nie umniejsza ani nie zawiesza** uprzedniego, domyślnego przyjęcia tej osoby do Kościoła Katolickiego przez chrzest i komunię — status gościa lub członka chwilowego dotyczy wyłącznie sfery partykularno-domowej;
+
+3a° wobec osoby ochrzczonej i pozostającej w komunii akt przyjęcia domowego (stałego lub chwilowego) ma charakter **stwierdzający** (*declaratorius*), a nie konstytuujący przynależność do Kościoła powszechnego;
+
+3b° za „przyjęcie" w niniejszym punkcie rozumie się nie samą akceptację wolą, ale **przyjęcie gościa do domu na zasadzie „gość w dom, Bóg w dom"**; stąd przyjęcie „na chwilę" jest aktem gościny, który z natury rzeczy nie wymaga żadnego odrębnego aktu woli władzy zewnętrznej ani nie może być cofnięty bez ważnej przyczyny wobec osoby ochrzczonej trwającej w komunii (kan. 205 KPK 1983);
 
 4° akceptacja niniejszego Kanonu i Prawa Bożego, a ze względu na katolicki charakter wspólnoty także domniemana akceptacja niniejszego Kanonu osoby będącej katolikiem;
 
 5° komunia z Biskupem Rzymskim i biskupem diecezjalnym.
 
-6° *Qui recipit, maior non est* — przyjmujący nie staje się przez akt przyjęcia panem przyjętego; obaj pozostają równymi, a władza przyjmującego jest służebna (por. Mt 23,11). Zasada dotyczy zarówno przyjęcia wolą Triarchii Domowej, jak i przyjęcia na chwilę wolą władzy Kościoła Domowego.
+6° *Qui recipit, maior non est* — przyjmujący nie staje się przez akt przyjęcia panem przyjętego; obaj pozostają równymi, a władza przyjmującego jest służebna (por. Mt 23,11). Zasada dotyczy zarówno przyjęcia wolą Triarchii Domowej, jak i przyjęcia na chwilę wolą władzy Kościoła Domowego. Spełnienie warunków 1°, 2° i 5° rodzi **domyślne (z mocy prawa) przyjęcie do Kościoła Katolickiego**, którego Biskup Rzymu nie może odmówić bez naruszenia KPK 1983 ustanowionego przez św. Jana Pawła II;
+
+7° niniejsze warunki przynależności odczytuje się zawsze w świetle Zasady Komunii (*In Ecclesia Catholica is recipitur, qui baptizatus est et cum Ecclesia Catholica, Sede Apostolica atque Episcopo Romane communionem retinet*) — jako normy interpretacyjnej wszystkich warunków przynależności;
+
+8° na mocy kan. 205 KPK 1983 pełna wspólnota z Kościołem katolickim zachodzi przez widzialne więzy wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; spełnienie tych więzy oznacza przyjęcie *ex ipso iure*, którego nie można warunkować dodatkowymi aktami woli.
 
 **§ 3.** Członkostwo w Kościele Domowym nie zastępuje ani nie umniejsza członkostwa w Kościele Powszechnym, lecz je uzupełnia i pogłębia w wymiarze domowym.
 
@@ -29,7 +37,7 @@
 
 3° **Potomstwo** (*Proles*) — dzieci zrodzone lub adoptowane, uczestników kapłaństwa domowego stosownie do wieku i dojrzałości;
 
-4° **Innych członków** — krewnych, przyjaciół i osoby potrzebujące przyjęte do wspólnoty na zasadach określonych w kan. 16 § 2; rozróżnia się wśród nich dwa reżimy tytułu przynależności: **członka przyjętego wolą Triarchii Domowej (na stałe)** oraz **osobę przyjętą na chwilę wolą władzy Kościoła Domowego (tymczasowo lub domniemanie)** — oba tytuły dają tę samą godność wiernego;
+4° **Innych członków** — krewnych, przyjaciół i osoby potrzebujące przyjęte do wspólnoty na zasadach określonych w kan. 16 § 2; rozróżnia się wśród nich dwa reżimy tytułu przynależności: **członka przyjętego wolą Triarchii Domowej (na stałe)** oraz **osobę przyjętą na chwilę wolą władzy Kościoła Domowego (tymczasowo lub domniemanie)** — oba tytuły dają tę samą godność wiernego; klauzula komunionalna: obie kategorie, o ile są ochrzczone i pozostają w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu, korzystają z domyślnego przyjęcia przez Biskupa Rzymu na mocy KPK 1983; żadna decyzja domowa nie może tego faktu znosić;
 
 5° **Bracia przyjęci** (*fratri adoptivi/invitati*) — osoba przyjęta wchodzi do wspólnoty nie jako „podwładna”, lecz jako równy członek Ludu Bożego, któremu przewodzi pierwszy z równych hierarchów domowych.
 
@@ -43,7 +51,7 @@
 
 4° osoby przyjęte do wspólnoty na zasadach określonych w § 2.
 
-**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo w sposób domniemany swoją wolą. tożsame prawo mają małżonka i potomkowie. Akt przyjęcia ma podwójną strukturę w duchu zasady „pierwszy z równych”: **przyjęcie wolą Triarchii Domowej** (kan. 26) jako akt kolegialny pierwszego z równych gremium domowego jest formą właściwą przyjęcia na stałe, natomiast **przyjęcie na chwilę wolą władzy Kościoła Domowego** (jednostronne, także domniemane) jest pełnoprawnym aktem gościnnym, ważnym od zaraz, w którym przyjmujący działa jako pierwszy hierarcha, z jakim spotyka się wierny. Za przyjęcie rozumie się nie samą akceptację wolą, lecz przyjęcie gościa do domu na zasadzie „gość w dom, Bóg w dom”; wobec biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją i parafią nie można bez ważnej przyczyny odmówić ugoszczenia — ani w wymiarze domowym, ani w wymiarze Kościoła Katolickiego (por. kan. 205 KPK 1983).
+**§ 2.** Głowa Rodu może przyjąć do wspólnoty Kościoła Domowego inne osoby (krewnych, przyjaciół, osoby potrzebujące), na stałe za zgodą Małżonki i po konsultacji z Triarchią Domową lub tymczasowo w sposób domniemany swoją wolą. tożsame prawo mają małżonka i potomkowie. Akt przyjęcia ma podwójną strukturę w duchu zasady „pierwszy z równych”: **przyjęcie wolą Triarchii Domowej** (kan. 26) jako akt kolegialny pierwszego z równych gremium domowego jest formą właściwą przyjęcia na stałe, natomiast **przyjęcie na chwilę wolą władzy Kościoła Domowego** (jednostronne, także domniemane) jest pełnoprawnym aktem gościnnym, ważnym od zaraz, w którym przyjmujący działa jako pierwszy hierarcha, z jakim spotyka się wierny. Za przyjęcie rozumie się nie samą akceptację wolą, lecz przyjęcie gościa do domu na zasadzie „gość w dom, Bóg w dom”; wobec biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją i parafią nie można bez ważnej przyczyny odmówić ugoszczenia — ani w wymiarze domowym, ani w wymiarze Kościoła Katolickiego (por. kan. 205 KPK 1983). Triarchia Domowa przyjmuje na stałe w granicach swojej kompetencji partykularnej; przyjęcie to **zakłada i szanuje** wcześniejsze, dokonane przez samego Chrystusa i uznane przez prawo Kościoła powszechnego włączenie osoby przez chrzest (kan. 96 KPK 1983: przez chrzest człowiek staje się osobą w Kościele).
 
 **§ 3.** Przyjęty nie jest sługą przyjmującego, lecz bratem pierwszego z równych (*nullus servus sed frater*). Skutkiem każdego z dwóch aktów przyjęcia jest:
 
@@ -55,7 +63,19 @@
 
 4° pierwszeństwo służebne, nie dominacyjne, władzy, która przyjęcia dokonała.
 
-**§ 4.** Małżonka i Potomkowie przyjmujący „na chwilę” swoją wolą działają również jako pierwsi z równych na swoim poziomie funkcji (Matka jako szyja kierująca głową, Potomek jako sekretarz i dziedzic — kan. 26 § 2, kan. 30 § 3), a nie jako osoby drugorzędne. 
+**§ 4.** Małżonka i Potomkowie przyjmujący „na chwilę” swoją wolą działają również jako pierwsi z równych na swoim poziomie funkcji (Matka jako szyja kierująca głową, Potomek jako sekretarz i dziedzic — kan. 26 § 2, kan. 30 § 3), a nie jako osoby drugorzędne.
+
+**§ 5.** Kanonizacja Zasady Komunii w prawie domowym: *przyjętym do Kościoła katolickiego jest ten, kto został ochrzczony i pozostaje w komunii z Kościołem katolickim, Stolicą Apostolską i Biskupem Rzymu*. Każdy ochrzczony przyjęty wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego jest z tego tytułu domyślnie przyjęty przez Biskupa Rzymu, Stolicę Apostolską i Kościół Katolicki zgodnie z KPK przyjętym przez św. Jana Pawła II w 1983 roku; obecnemu Biskupowi Rzymu nie przysługuje władza obejścia tej zasady, tym bardziej nie będąc Świętym.
+
+**§ 6.** Zakaz: żadna decyzja Triarchii Domowej, Głowy Rodu, Małżonki ani Potomka nie może skutkować pozbawieniem kogoś owocu domyślnego przyjęcia do Kościoła Katolickiego (np. przez odmowę wpisania do księgi wspólnoty, milczenie czy sformułowanie „niekatolicki”), jeżeli dana osoba pozostaje ochrzczona i w komunii.
+
+**§ 7.** W akcie przyjęcia (stałym lub chwilowym) należy odnotować przesłanki komunii: chrzest (data, miejsce) oraz oświadczenie o pozostawaniu w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu.
+
+**§ 8.** Triarchia Domowa jako kolegialny zespół osób: na mocy kan. 114 § 1 i kan. 115 § 2 KPK 1983 Triarchia Domowa (co najmniej trzy osoby współdziałające w podejmowaniu decyzji zgodnie z przepisami prawa i statutów) jest **osobą prawną kolegialną**; jej akt przyjęcia wolą Triarchii Domowej jest działaniem osoby prawnej, a nie sumą trzech odrębnych aktów woli poszczególnych członków; zespół rzeczy (fundacja autonomiczna) rządzi się kan. 115 § 3 KPK.
+
+**§ 9.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; analogicznie biskup subdiecezjalny Kościoła Domowego powierza swobodnie urzędy i funkcje we własnym Kościele partykularnym, a wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego obejmują je na tej samej zasadzie swobody — bez wymogu uprzedniego aktu władzy zewnętrznej.
+
+**§ 10.** Przyjęcie jako gościna (*gość w dom, Bóg w dom*): za „przyjęcie” w niniejszym kanonie rozumie się nie akceptację wolą, lecz przyjęcie gościa do domu na zasadzie gościny; dlatego **nie można bez ważnej przyczyny nie przyjąć do Kościoła Katolickiego — czyli nie ugościć — biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją, parafią etc.** Odmowa ugoszczenia takiej osoby wymaga podania ważnej przyczyny w formie dekretu i podlega odwołaniu (kan. 19). 
 
 **Kan. 17.** Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo uczestniczenia w życiu liturgicznym i decyzyjnym Kościoła Domowego stosownie do swojego wieku i dojrzałości.
 
@@ -67,7 +87,9 @@
 
 3° przez śmierć członka;
 
-4° przez wykluczenie orzeczone przez Głowę Rodu za zgodą Triarchii, w przypadku poważnego i uporczywego naruszania Prawa Bożego, z zachowaniem prawa do obrony i odwołania; wykluczenie orzeka ten, kto jest pierwszym z równych we wspólnocie (Głowa Rodu za zgodą Triarchii), z zachowaniem równości braterskiej postępowania — kara nie zmienia godności osoby.
+4° przez wykluczenie orzeczone przez Głowę Rodu za zgodą Triarchii, w przypadku poważnego i uporczywego naruszania Prawa Bożego, z zachowaniem prawa do obrony i odwołania; wykluczenie orzeka ten, kto jest pierwszym z równych we wspólnocie (Głowa Rodu za zgodą Triarchii), z zachowaniem równości braterskiej postępowania — kara nie zmienia godności osoby; wykluczenie ze wspólnoty Kościoła Domowego ustaje **tylko w wymiarze partykularnym**: nie narusza ono więzi chrzcielnej ani domyślnego przyjęcia do Kościoła Katolickiego osoby, która pozostaje w komunii z Biskupem Rzymu (por. kan. 11, kan. 96 KPK 1983);
+
+5° w dekrecie wykluczającym należy wyraźnie zastrzec, że wykluczenie nie dotyka komunii osoby z Kościołem powszechnym, o ile osoba ta pozostaje ochrzczona i w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu.
 
 **Kan. 19.** Żaden członek Kościoła Domowego nie może być wykluczony bez:
 
@@ -80,6 +102,8 @@
 4° zachowania prawa do odwołania przed Kościołem Powszechnym.
 
 5° procedury zgodnej z zasadą *primus inter pares*: wysłuchanie osoby przyjętej (na stałe wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) odbywa się wobec równych jej braci i sióstr wspólnoty, nie wobec stanu wyższego i stanu niższego.
+
+6° przed wykluczeniem Triarchia Domowa winna zbadać i stwierdzić, czy osoba pozostaje w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu; stwierdzenie tej komunii potwierdza jedynie ochronę praw osoby jako już przyjętej do Kościoła powszechnego (prawo do sakramentów, kan. 213 KPK 1983).
 
 ---
 
@@ -117,6 +141,8 @@
 
 9° osoby przyjętej (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) do tego, by wszelkie decyzje dotyczące jej osoby zapadały w trybie posługi pierwszego z równych, z prawem do wysłuchania i odpowiedzi braterskiej.
 
+10° wierni przyjęci wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego mają — na równi z członkami z mocy prawa naturalnego — prawo korzystać z owoców domyślnego przyjęcia do Kościoła Katolickiego: dostępu do sakramentów w Kościele powszechnym (kan. 213, kan. 843 § 1 KPK 1983) oraz opieki duszpasterskiej właściwej dla wiernych przyjętych do Kościoła.
+
 **Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 220 KPK). Dotyczy to w szczególności:
 
 1° zakazu rozpowszechniania informacji o życiu prywatnym członków bez ich zgody;
@@ -126,6 +152,8 @@
 3° zakazu publicznego poniżania lub zawstydzania członków wspólnoty;
 
 4° obowiązku zachowania tajemnicy w sprawach dotyczących sumienia.
+
+5° zakazu używania formuły „nieprzyjęty do Kościoła” wobec osoby ochrzczonej i trwającej w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu — formuła taka stanowi manipulację sprzeczną z Zasada Komunii (por. kan. 205 KPK 1983).
 
 **Kan. 23 § 1.** Każdy członek Kościoła Domowego ma prawo opuścić wspólnotę w każdym czasie, bez podawania przyczyny i bez ponoszenia jakichkolwiek konsekwencji dyscyplinarnych, duchowych czy materialnych.
 
@@ -179,7 +207,7 @@
 
 ### Tytuł IV: Triarchia Domowa
 
-**Kan. 26 § 1.** Triarchia Domowa stanowi najwyższą radę decyzyjną Kościoła Domowego w sprawach dotyczących całej wspólnoty. Triarchia Domowa sprawuje władzę decyzyjną na zasadzie pierwszeństwa wśród równych; przewodniczenie Ojca nie jest wyższością godnościową nad Matką i Potomkiem.
+**Kan. 26 § 1.** Triarchia Domowa stanowi najwyższą radę decyzyjną Kościoła Domowego w sprawach dotyczących całej wspólnoty. Triarchia Domowa sprawuje władzę decyzyjną na zasadzie pierwszeństwa wśród równych; przewodniczenie Ojca nie jest wyższością godnościową nad Matką i Potomkiem. Najwyższość decyzyjna Triarchii Domowej rozciąga się wyłącznie na sprawy partykularne Kościoła Domowego i **nie obejmuje** kompetencji do stanowienia o przyjęciu kogokolwiek do Kościoła Katolickiego lub o jego odrzuceniu — ta bowiem dokonuje się przez chrzest i komunię na mocy KPK 1983, a jej domyślny charakter oznacza, że Triarchia Domowa przyjmuje we wspólnocie domowej osoby już przyjęte do Kościoła powszechnego.
 
 **§ 2.** W skład Triarchii wchodzą:
 
@@ -199,6 +227,8 @@
 
 **§ 7.** Oparcie w kan. 205 KPK 1983: w pełnej wspólnocie Kościoła katolickiego pozostają na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; Triarchia Domowa i biskup subdiecezjalny, zachowując te trzy więzy, korzystają z pełnej wspólnoty *ex ipso iure* — dlatego aktu przyjęcia dokonywanego wolą Triarchii nie można stawiać wyżej ani przed komunią z Biskupem Rzymu, a gościna wobec ochrzczonego biskupa subdiecezjalnego jest obowiązkiem, nie fakultetem (*gość w dom, Bóg w dom*).
 
+**§ 8.** Triarchia Domowa działa zawsze „w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu”; aktu przyjęcia wolą Triarchii nie można interpretować jako aktu rzekomo wcześniejszego lub ważniejszego niż komunia z Biskupem Rzymu, ani jako warunku koniecznego dla bycia uznanym za katolika.
+
 ---
 
 ### Tytuł V: Małżonka — nadzorująca i współszafarka
@@ -217,7 +247,7 @@
 
 5° relacji z Kościołem Powszechnym i innymi wspólnotami.
 
-**§ 3.** Małżonka ma prawo i obowiązek wyrażania opinii, składania propozycji oraz wnoszenia sprzeciwu wobec decyzji, które uznaje za sprzeczne z Prawem Bożym, Naturalnym lub dobrem wspólnoty.
+**§ 3.** Małżonka ma prawo i obowiązek wyrażania opinii, składania propozycji oraz wnoszenia sprzeciwu wobec decyzji, które uznaje za sprzeczne z Prawem Bożym, Naturalnym lub dobrem wspólnoty. Zgoda albo sprzeciw Małżonki dotyczące przyjmowania nowych członków (kan. 27 § 2 pkt 2°) odnoszą się wyłącznie do wymiaru domowego (partykularnego) przyjęcia; nie mogą one skutkować podważeniem domyślnego przyjęcia osoby ochrzczonej i pozostającej w komunii do Kościoła Katolickiego.
 
 **Kan. 28 § 1.** Małżonka jako współszafarka łaski i nadzorująca ma prawo:
 
@@ -277,6 +307,8 @@
 
 **§ 7.** Oparcie w kan. 157 KPK 1983: swobodne powierzanie urzędów kościelnych należy do biskupa diecezjalnego we własnym Kościele partykularnym; powierzający urząd jest wobec jego posiadacza pierwszym z równych sługą, nie panem.
 
+**§ 8.** Różnica tytułu włączenia do wspólnoty domowej (prawo naturalne / wola Triarchii Domowej / wola chwilowa władzy Kościoła Domowego) nie tworzy żadnego stopnia w godności ani w przynależności kościelnej — wszyscy ochrzczeni pozostający w komunii są w równej mierze przyjęci do Kościoła Katolickiego (*in communicatione pares*).
+
 **Kan. 31.** W przypadku konfliktu między małżonkami:
 
 1° należy najpierw dążyć do bezpośredniego porozumienia w duchu miłości;
@@ -298,6 +330,8 @@
 **§ 2.** Żadna struktura hierarchiczna Kościoła Domowego, żaden podział ról w Triarchii ani żadna tradycja Rodu nie może być użyta jako uzasadnienie dla naruszenia godności, wolności lub nietykalności cielesnej jakiegokolwiek członka wspólnoty.
 
 **§ 3.** Głowa Rodu jako biskup domowy subdiecezjalny jest stróżem godności każdego członka wspólnoty i ma obowiązek aktywnie przeciwdziałać wszelkim formom przemocy, manipulacji, poniżania czy wykorzystywania.
+
+**§ 4.** Naruszenie godności wiernego przyjętego wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego stanowi jednocześnie naruszenie praw osoby przyjętej do Kościoła Katolickiego (kan. 208–223 KPK 1983) i jako takie podlega odwołaniu przewidzianemu w kan. 19 pkt 4.
 
 **Kan. 33 § 1.** Jeśli jedno z małżonków stanowi źródło poważnego niebezpieczeństwa dla duszy lub ciała drugiej strony albo dla potomstwa, lub w inny sposób czyni zbyt trudnym życie wspólne, daje tym samym drugiej stronie zgodną z prawem przyczynę odejścia (por. kan. 263 § 1 KPK).
 
