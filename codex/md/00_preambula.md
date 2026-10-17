@@ -102,6 +102,8 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 6° powszechnego kapłaństwa wiernych wynikającego z chrztu.
 
+7° Sprawowanie posługi przez osobę wyłonioną z Kościoła Domowego, która jest ochrzczona i pozostaje w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu, **nie wymaga uprzedniego wyraźnego aktu „przyjęcia” przez Biskupa Rzymu**; wystarczają chrzest i komunia, z których rodzi się domyślne przyjęcie na mocy KPK 1983 (por. Zasada Komunii; kan. 204 § 1, kan. 205 § 1 KPK).
+
 **§ 3.** Żadna z powyższych posług nie wymaga dla swojej ważności sakramentu święceń w rozumieniu kan. 1008-1009 KPK, ponieważ wynikają one z powszechnego kapłaństwa wiernych, prawa naturalnego rodziny i bezpośredniego powołania Bożego. Posługi te nie zastępują święceń kapłańskich ani biskupich w Kościele Powszechnym, lecz stanowią odrębną, równoległą i komplementarną formę sprawowania władzy duchowej w przestrzeni Kościoła Domowego.
 
 **Kan. 1e § 1.** Przykład Świętego Pawła i Marii Magdaleny stanowi fundament teologiczny i prawny dla posług sprawowanych w Kościele Domowym:
@@ -282,7 +284,9 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 3° dobrowolność nie umniejsza mocy wiążącej przyjętych norm — co zostało dobrowolnie przyjęte, staje się prawem obowiązującym dla wspólnoty, która je przyjęła;
 
-4° przyjęcie to jest wyrazem komunii kościelnej, nie zaś poddaństwa instytucjonalnego; ciągłość trzech poziomów zasady „pierwszy z równych” — Biskup Rzymu → hierarcha związku/subdiecezji → biskup domowy subdiecezjalny → Triarchia Domowa — oznacza, że na każdym poziomie pierwszeństwo jest *śród równych* i żaden poziom nie „unieważnia” równości osób przyjętych na niższych poziomach.
+4° przyjęcie to jest wyrazem komunii kościelnej, nie zaś poddaństwa instytucjonalnego; ciągłość trzech poziomów zasady „pierwszy z równych” — Biskup Rzymu → hierarcha związku/subdiecezji → biskup domowy subdiecezjalny → Triarchia Domowa — oznacza, że na każdym poziomie pierwszeństwo jest *śród równych* i żaden poziom nie „unieważnia” równości osób przyjętych na niższych poziomach. Suwerenna decyzja Triarchii Domowej **dotyczy norm partykularnych i sposobu implementacji**; nie tworzy ani nie cofa własnego, uprzedniego przyjęcia Kościoła Domowego i jego wiernych do Kościoła Katolickiego, które dokonuje się przez chrzest i komunię na mocy KPK 1983;
+
+5° Klauzula wzajemności: jak Triarchia Domowa dobrowolnie przyjmuje normy powszechne, tak i Biskup Rzymu — na mocy tych samych norm (kan. 380 KPK: posłuszeństwo i cześć biskupa; kan. 205 § 1 KPK: więzy wyznania wiary, sakramentów i komunii hierarchicznej) — dobrowolnie, wręcz domyślnie, przyjmuje ochrzczonych pozostających w komunii, bez możliwości prawnego obejścia tego obowiązku.
 
 **§ 3.** Niniejszy Kanon stanowi akt dobrowolnego podporządkowania się prawom Kościoła Powszechnego Katolickiego w zakresie:
 
@@ -1070,6 +1074,10 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 **§ 3.** Każda z powyższych form posiada własną naturę, zakres władzy, obowiązki i prawa. Żadna z nich nie jest z natury wyższa ani niższa od innej w sensie duchowym, lecz różnią się zakresem jurysdykcji, formą ustanowienia i relacją do struktury Kościoła Powszechnego.
 
+**§ 4.** Zasada nadrzędna dla wszystkich form: *przyjętym do Kościoła katolickiego jest ten, kto został ochrzczony i pozostaje w komunii z Kościołem katolickim, Stolicą Apostolską i Biskupem Rzymu* (Zasada Komunii; por. kan. 9, kan. 11, kan. 204 § 1, kan. 205 § 1 KPK 1983). Skutkiem tej zasady jest to, że każdy kościół domowy i jego biskup subdiecezjalny — będący ochrzczonym i pozostającym w komunii — jest **z mocy prawa (domyślnie) przyjęty** przez Biskupa Rzymu, Stolicę Apostolską i Kościół Katolicki na mocy KPK przyjętego przez św. Jana Pawła II w 1983 roku; aktu tego obecny Biskup Rzymu nie może obejść, tym bardziej nie będąc Świętym. Wierni zaś danej subdiecezji, przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, o ile są ochrzczeni i trwają w komunii, korzystają z tego samego domyślnego przyjęcia — akt domowy ma charakter stwierdzający (*declaratorius*), nie konstytuujący.
+
+**§ 5.** Odmowa uznania domyślnego przyjęcia wobec osoby ochrzczonej i trwającej w komunii byłaby sprzeczna zarówno z prawem powszechnym (KPK 1983), jak i z domową zasadą gościnności „gość w dom, Bóg w dom”; dlatego kategorie „przyjęty” i „nieprzyjęty”, o których mowa w niniejszej Księdze oraz w Księdze III (kan. 117 § 2 i § 2a), rozumie się wyłącznie jako opis potwierdzenia formalno-instytucjonalnego (pisemnego), nigdy jako opis zerwanej lub nieistniejącej komunii.
+
 ---
 
 **Kan. 1zl § 1.** **Objęcie diecezji wolą Biskupa Rzymskiego** następuje, gdy Biskup Rzymski, jako Głowa Kolegium Biskupów i Pasterz całego Kościoła (kan. 331 KPK), mianuje lub zatwierdza biskupa diecezjalnego dla określonej diecezji (kan. 377 § 1 KPK).
@@ -1192,6 +1200,8 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 **§ 3.** Przyjęcie przez Biskupa Rzymskiego jest aktem komunii kościelnej, który potwierdza i umacnia władzę pasterską biskupa w strukturze Kościoła Powszechnego. Nie jest ono jednak jedynym źródłem władzy pasterskiej, która pochodzi ostatecznie od Boga przez sakrament święceń i powołanie.
 
+**§ 4.** Tytuł biskupa przyjętego nie jest warunkiem koniecznym bycia katolikiem: ochrzczony pozostający w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu jest już z mocy prawa (domyślnie) przyjęty do Kościoła Katolickiego na mocy KPK 1983; akt wyraźnego „przyjęcia” ma charakter stwierdzający i porządkujący, nie konstytutywny (Zasada Komunii; kan. 205 § 1 KPK).
+
 ---
 
 **Kan. 1zp § 1.** **Tytuł biskupa nieprzyjętego przez Biskupa Rzymskiego** przysługuje osobie, która:
@@ -1260,6 +1270,8 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 5° twierdzić, że jest jedynym prawdziwym biskupem lub że jego wspólnota jest jedynym prawdziwym Kościołem.
 
+**§ 6.** Wyjaśnienie terminu „nieprzyjęty” w świetle Zasady Komunii: „nieprzyjęty przez Biskupa Rzymskiego” znaczy wyłącznie „niesformalizowany instytucjonalnie (brak pisemnego aktu)”, a nie „odrzucony” ani „pozbawiony komunii”. Osoba ochrzczona i trwająca w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu — także biskup subdiecezjalny oraz wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego — jest **z mocy prawa (domyślnie) przyjęta** do Kościoła Katolickiego na mocy KPK 1983 ustanowionego przez św. Jana Pawła II; przyjęcia tego obecny Biskup Rzymu nie może prawnie obejść, tym bardziej nie będąc Świętym. Kategoria „oczekiwania na przyjęcie” oznacza zatem oczekiwanie na stwierdzenie formalne, nie na samo bycie przyjętym.
+
 ---
 
 **Kan. 1zq § 1.** **Przyjęcie subdiecezji wolą biskupa diecezjalnego** następuje, gdy biskup diecezjalny, na którego terytorium znajduje się Kościół Domowy lub wspólnota wiernych, wyraża wolę przyjęcia, uznania lub erygowania subdiecezji domowej jako formy wspólnoty wiernych w swojej diecezji.
@@ -1317,6 +1329,8 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 5° może posiadać własne statuty, zatwierdzone przez biskupa diecezjalnego.
 
 6° biskup diecezjalny, przyjmując subdiecezję, jest dla wiernych domowych „hierarchą następnym w kolejności spotykania”; pierwszym hierarchą, z jakim spotyka się wierny, pozostaje biskup domowy subdiecezjalny — pierwszy z równych.
+
+7° przyjęcie subdiecezji wolą biskupa diecezjalnego nie jest warunkiem katolickości subdiecezji ani jej wiernych: ochrzczeni trwający w komunii są domyślnie przyjęci do Kościoła Katolickiego na mocy KPK 1983; akt biskupa diecezjalnego stwierdza i porządkuje tę komunię w strukturze diecezji, nie tworzy jej od nowa (Zasada Komunii).
 
 ---
 
