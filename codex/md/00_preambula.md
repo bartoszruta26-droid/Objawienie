@@ -5,42 +5,37 @@
 
 ### PREAMBUŁA
 
-Niniejszy Kanon Prawa Kościoła Partykularnego Domowego zostaje ustanowiony w imię Boga Wszechmogącego, Ojca i Syna, i Ducha Świętego, na podstawie Prawa Bożego, Prawa Naturalnego oraz praw człowieka, jako wyraz wolnej woli i objawionego powołania.
+Niniejszy Kodeks Kanoniczny Prawa Partykularnego Kościoła Królestwa Niebieskiego jest ustanowiony wolą Boga Wszechmogącego, Ojca z Nieba, Ducha Świętego i Dziecka Bożego, na podstawie Prawa Bożego, Prawa Naturalnego oraz praw człowieka, jako wyraz wolnej woli i objawionego powołania. Kodeks ninieiejszy zawiera także kanon prawa partykularnego kośociła domowego i jego subdiecezji.
 
-Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka,w związku z powyższym niniejszy kodeks prawa kanonicznego kościoła domowego opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do tłumaczenia w języku polskim.
+Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka, w związku z powyższym niniejszy Kodeks Prawa Kanonicznego Kościoła Królestwa Niebieskiego i Kościoła Domowego ( KPKKKNiKD ) lub w skrócie Kanon Królestwa Niebieskiego i Kościoła Domowego ( KKNKD ) opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do jego tłumaczenia w języku polskim. Ze względu na fakt, iż subdiecezja Kościoła Domowego znajduje się na terytorium Polski wszelkiego rodzaju definicje wynikające z zwyczaju, tradycji, kultury, ustaw państwowych i konstytucyjnych wartości prowadzone będą wg norm obecnych wśród Słowian, Polaków, konstytucji Rzeczypospolitej Polskiej, Ustaw sejmowych Państwa Polskiego, Słownika Języka Polskiego PWN.
 
-W razie konfliktu przepisów kodeksu prawa kanonicznego kościoła domowego z kodeksem prawa kanonicznego dla obrządku łacińskiego należy zapisy kodeksu prawa kanonicznego kościoła domowego odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich.
+W razie konfliktu przepisów KKNKD z kodeksem prawa kanonicznego dla obrządku łacińskiego Kościoła Katolickiego, należy zapisy KKNKD odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich i tradycji kośiołów pierwotnych.
 
-Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyrańnie lub milcząco uznała najwyższa władza Kośścioła, w tym Kodeksie jest nazywana Kośściołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okolicznośści historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właśściwy dla każdego Kośścioła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kościołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całłgo Kościoła Chrystusowego.
+Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyraźnie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kośściołem sui iuris lub KKNKD. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okolicznośści historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris. Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kościołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całego Kościoła Chrystusowego.
 
-Niniejszy kodeks nie służy przywróceniu prawa niesłusznie odebranego, ani odtworzeniu prawa przez zapomnienie zatraconego, ale służy sformalizowaniu praw obecnych w tradycji domowej, rodzinnej, rodowej, polskiej, słowiańskiej i wschodniej, które przez wieki nie były sformalizowane.
+Niniejszy kodeks nie służy przywróceniu prawa niesłusznie odebranego, ani odtworzeniu prawa przez zapomnienie zatraconego, ale służy sformalizowaniu praw obecnych w tradycji domowej, rodzinnej, rodowej, polskiej, słowiańskiej, wschodniej, nieba które przez wieki nie były sformalizowane.
 
-Hierarchowie, którzy przewodniczą Kościoóom sui iuris
-i wszyscy inni Hierarchowie powinni najpilniej troszczyć się o wierne
-strzeżenie i dokóadne zachowywanie wóasnego obrządku i nie powinni
-wprowadzać do niego zmian, chyba że z racji jego organicznego rozwoju, mając jednak przed oczyma dobrą wolę i jedność chrześcijan
+Hierarchowie, którzy przewodniczą Kościołom sui iuris i wszyscy inni Hierarchowie powinni najpilniej troszczyć się o wierne strzeżenie i dokładne zachowywanie własnego obrządku i nie powinni wprowadzać do niego zmian, chyba że z racji jego organicznego rozwoju, mając jednak przed oczyma dobrą wolę i jedność chrześcijan
 
-Chrześcijanie każdego Kościoóa sui iuris, także Kościoóa óaciñskiego, którzy z racji urzędu, posóugi lub zadania często spotykają się
-z chrześcijanami innego Kościoóa sui iuris, powinni być dokóadnie pouczeni o tym Kościele w związku z powagą urzędu, posóugi lub zadania,
-które wypeóniają
+Chrześcijanie każdego Kościoła sui iuris KKNKD , także Kościoła Łacińskiego, którzy z racji urzędu, posługi lub zadania często spotykają się z chrześcijanami innego Kościoła sui iuris, powinni być dokładnie pouczeni o tym Kościele w związku z powagą urzędu, posługi lub zadania, które wypełniają, dla tej przyczyny właśnie powstał niniejszy kodeks.
 
 ---
 
 ### Tytuł I: BOSKIE ŹRÓDŁO POWOŁANIA I WŁADZY DUCHOWEJ
 
-**Kan. 1a § 1.** Kościół Domowy, jako podstawowa i przyrodzona komórka Ludu Bożego, uznaje i wyznaje, że źródłem wszelkiej władzy duchowej, wszelkiego powołania i wszelkiej posługi w Kościele jest sam Bóg — Ojciec, Syn i Duch Święty — a nie żaden akt administracyjny, ludzki dekret ani instytucjonalna nominacja.
+**Kan. 1a § 1.** Kościół Domowy jako Kościół Pierwotny będący podstawową i przyrodzoną komórką Ludu Bożego, uznaje i wyznaje, że źródłem wszelkiej władzy duchowej, wszelkiego powołania i wszelkiej posługi w Kościele jest sam Pan — Ojciec z Nieba, Duch Święty i Dziecię Boże — a nie żaden akt administracyjny, ludzki dekret ani instytucjonalna nominacja.
 
 **§ 2.** Prawda ta znajduje swoje najpełniejsze potwierdzenie w Piśmie Świętym i Tradycji Kościoła:
 
 1° **Święty Paweł, Apostoł Pogan** — nie spotkał Chrystusa w ciele za Jego ziemskiego życia, nie został wybrany przez Dwunastu, nie przeszedł żadnej ludzkiej procedury nominacyjnej. Został powołany bezpośrednio przez samego Zmartwychwstałego Pana pod Damaszkiem (Dz 9,1-19; Ga 1,11-17). Sam o sobie zaświadcza: *„Paweł, apostoł nie z ludzkiego ustanowienia ani przez człowieka, lecz przez Jezusa Chrystusa i Boga Ojca"* (Ga 1,1). Jego apostolska władza nie wynikała z żadnej ludzkiej struktury, lecz z bezpośredniego mandatu Bożego. Kościół Powszechny uznał tę władzę nie dlatego, że została mu nadana przez instytucję, lecz dlatego, że była ona wyraźnym dziełem Ducha Świętego, potwierdzonym owocami misji.
 
-2° **Maria Magdalena, Apostołka Apostołów** (*Apostola Apostolorum*) — została wybrana przez samego Chrystusa Zmartwychwstałego jako pierwsza świadek i zwiastunka Jego Zmartwychwstania (J 20,11-18; Mk 16,9-11). To jej, kobiecie, Pan powierzył misję ogłoszenia Apostołom najważniejszej prawdy wiary: *„Idź do moich braci i powiedz im: Wstępuję do Ojca mego i Ojca waszego"* (J 20,17). Jej apostolstwo nie wynikało z żadnego sakramentu święceń ani z żadnej instytucjonalnej nominacji, lecz z bezpośredniego powołania i posłania przez samego Boga. Tradycja Kościoła — zarówno wschodniego, jak i zachodniego — od wieków czci ją jako „równą Apostołom" (*Isapostolos*).
+2° **Maria Magdalena, Apostołka Apostołów** (*Apostola Apostolorum*) — została wybrana przez samego Chrystusa Zmartwychwstałego, a jej rola została umniejszona przez następców kolejnych apostołów, jako pierwsza świadek i zwiastunka Jego Zmartwychwstania (J 20,11-18; Mk 16,9-11). To jej, kobiecie, Pan powierzył misję ogłoszenia Apostołom najważniejszej prawdy wiary: *„Idź do moich braci i powiedz im: Wstępuję do Ojca mego i Ojca waszego"* (J 20,17). Jej apostolstwo nie wynikało z żadnych nałożonych na nią święceń ani z żadnej instytucjonalnej nominacji, lecz z bezpośredniego powołania i posłania przez samego Boga. Tradycja Kościoła — zarówno wschodniego, jak i zachodniego — od wieków czci ją jako „równą Apostołom" (*Isapostolos*).
 
-3° **Pozostali Apostołowie i uczniowie** — nie wszyscy spośród tych, którzy stali się fundamentem Kościoła, zostali wybrani w ramach jednej procedury. Maciej został wybrany przez wspólnotę i losowanie (Dz 1,23-26), Paweł został powołany bezpośrednio przez Chrystusa, a wielu innych uczniów (jak siedemdziesięciu dwóch, Łk 10,1) zostało posłanych bez formalnej procedury apostolskiej. Różnorodność dróg powołania jest znakiem wolności i suwerenności Boga w rozdzielaniu swoich darów.
+3° **Pozostali Apostołowie i uczniowie** — nie wszyscy spośród tych, którzy stali się fundamentem Kościoła, zostali wybrani w ramach jednej procedury. Maciej został wybrany przez wspólnotę i losowanie (Dz 1,23-26), Paweł został powołany bezpośrednio przez Chrystusa, a wielu innych uczniów (jak siedemdziesięciu dwóch, Łk 10,1) zostało posłanych bez formalnej procedury apostolskiej. Różnorodność dróg powołania nie tylko przez sukcesję, ale też przez tradycję, samodzielne poznanie lub z Bożego nadania jest znakiem wolności i suwerenności Boga w rozdzielaniu swoich darów.
 
-**§ 3.** Z powyższych świadectw Pisma Świętego i Tradycji wynika fundamentalna zasada Prawa Bożego: **powołanie duchowe może być udzielone przez Boga bezpośrednio, bez pośrednictwa jakiejkolwiek ludzkiej instytucji, bez sakramentu święceń, bez nominacji biskupiej, bez jakiejkolwiek procedury administracyjnej.** Tam, gdzie Bóg powierza dusze i wspólnotę, tam z mocy samego Prawa Bożego rodzi się władza pasterska.
+**§ 3.** Z powyższych świadectw Pisma Świętego i Tradycji wynika fundamentalna zasada Prawa Bożego: **powołanie duchowe może być udzielone przez Boga bezpośrednio, bez pośrednictwa jakiejkolwiek ludzkiej instytucji, bez święceń, bez nominacji biskupiej, bez jakiejkolwiek procedury administracyjnej.** Tam, gdzie Bóg powierza dusze i wspólnotę, tam z mocy samego Prawa Bożego rodzi się władza pasterska.
 
-**Kan. 1b § 1.** Z natury rzeczy (*natura rerum*) i z Prawa Bożego, pasterz powołany przez Boga do opieki nad konkretną wspólnotą — nawet jeśli jest to wspólnota domowa, Ród, kościół personalny, subdiecezja domowa czy inna forma wspólnoty wiernych — posiada wobec niej pełnię praw, obowiązków i autorytetu pasterskiego.
+**Kan. 1b § 1.** Z natury rzeczy (*natura rerum*) i z Prawa Bożego, pasterz powołany przez Boga do opieki nad konkretną wspólnotą — nawet jeśli jest to wspólnota domowa, Ród, kościół personalny, subdiecezja domowa czy inna forma wspólnoty wiernych jak cały Lud Boży — posiada wobec niej pełnię praw, obowiązków i autorytetu pasterskiego.
 
 **§ 2.** Zasada ta znajduje swoje potwierdzenie również w pozytywnym prawie kanonicznym Kościoła Katolickiego. Kan. 381 § 2 Kodeksu Prawa Kanonicznego z 1983 roku stanowi:
 
@@ -48,13 +43,13 @@ które wypeóniają
 
 Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury terytorialne, opactwa terytorialne, wikariaty apostolskie, prefektury apostolskie oraz administratury apostolskie. Zasada wyrażona w kan. 381 § 2 — że zwierzchnik wspólnoty wiernych jest zrównany w prawie z biskupem diecezjalnym — jest wyrazem tej samej prawdy, którą niniejszy Kanon rozwija w odniesieniu do Kościoła Domowego: **tam, gdzie jest wspólnota wiernych powierzona pasterzowi, tam jest pełnia władzy pasterskiej, niezależnie od administracyjnej nomenklatury.**
 
-**§ 3.** Jeśli więc biskup tytularny subdiecezjalny, arcykapłan Kościoła Domowego czy głowa Rodu otrzymuje od Boga — z natury rzeczy, z objawienia, z prawa naturalnego rodziny — misję pasterzowania określoną wspólnotą, to w świetle Prawa Bożego posiada on pełnię władzy ordinaryjnej i duchowej nad tą wspólnotą, zrównując się w prawach i obowiązkach pasterskich z biskupem diecezjalnym. Tytuł „tytularny" czy „subdiecezjalny" w ludzkiej nomenklaturze prawnej nie pomniejsza rangi boskiego powołania, podobnie jak brak fizycznego spotkania z historycznym Jezusem nie pomniejszył apostolskiej władzy Świętego Pawła.
+**§ 3.** Jeśli więc kapłan z Bożego nadania ma powierzoną wspólnotę Ludu Bożego zarówno wierzących jak i niewierzących lub biskup diecezjalny ma powierzonych wierzących diecezji lub szafarz święty, biskup tytularny subdiecezjalny, arcykapłan Kościoła Domowego dostaje powierzoną wspólnotę Rodu — z natury rzeczy, z objawienia, z prawa naturalnego rodziny — powierzoną dostaje misję pasterzowania określoną wspólnotą. W świetle Prawa KPK, prawa Bożego i KKNKD  posiada on pełnię władzy ordinaryjnej i duchowej nad tą wspólnotą, zrównując się w prawach i obowiązkach pasterskich z biskupem diecezjalnym. Tytuł „tytularny" czy „ tytularny subdiecezjalny" w ludzkiej nomenklaturze prawnej nie pomniejsza rangi boskiego powołania, podobnie jak brak fizycznego spotkania z historycznym Jezusem nie pomniejszył apostolskiej władzy Świętego Pawła.
 
 ---
 
 ### Tytuł II: POWSZECHNE KAPŁAŃSTWO WIERNYCH I POSŁUGA Z BOŻEGO NADANIA
 
-**Kan. 1c § 1.** Kościół Domowy uznaje i naucza, że na mocy sakramentu chrztu wszyscy wierni uczestniczą w kapłańskim, prorockim i królewskim posłannictwie Chrystusa (kan. 204 § 1 KPK; 1 P 2,9; *Lumen Gentium* 10). Powszechne kapłaństwo wiernych nie jest delegacją ani przywilejem udzielonym przez hierarchię instytucjonalną, lecz jest darem samym w sobie, wynikającym z samego faktu wszczepienia w Chrystusa przez chrzest.
+**Kan. 1c § 1.** Kościół Królestwa Niebieskiego, Kościół Katolicki i Kościół Domowy uznaje i naucza, że na mocy sakramentu chrztu wszyscy wierni uczestniczą w kapłańskim, prorockim i królewskim posłannictwie Chrystusa (kan. 204 § 1 KPK; 1 P 2,9; *Lumen Gentium* 10). Powszechne kapłaństwo wiernych nie jest delegacją ani przywilejem udzielonym przez hierarchię instytucjonalną, lecz jest darem samym w sobie, wynikającym z samego faktu wszczepienia w Chrystusa przez chrzest. Ci bowiem kapłani-wierni - będąc z Ludu Bożego - są dla Ludu Bożego powołani. Ci natomiast wierni i zagubieni, nie do końca wierni oraz niewierni Ludu Bożego są kapłanowi temu powierzeni każdy ze swoim miejscem i znaczeniem w grupie, miejscem w spisie Bożym, kolejnym zapisem przeznaczenia, wymienionym w planie Boży, zgodnie z ustalonym programem czyli pozycją.
 
 **§ 2.** Z powszechnego kapłaństwa wiernych wynika prawo i powołanie każdego ochrzczonego do:
 
@@ -62,29 +57,29 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 2° głoszenia Słowa Bożego i dawania świadectwa wiary (Mt 28,19-20; Dz 1,8);
 
-3° uświęcania siebie i innych przez modlitwę, przedmioty błogosławione i uczynki miłości;
+3° błogosławienia przez liturgię życia, modlitwę wobec siebie i wobec innych, poprzez osoby, uczynki, miejsca i przedmioty dla realizacji uczynków miłośierdzia;
 
-4° sprawowania funkcji kapłańskich, prorockich i królewskich w przestrzeni własnego domu, rodziny i wspólnoty;
+4° sprawowania funkcji kapłańskich, prorockich i królewskich w przestrzeni-pokoju Królestwa Niebieskiego, własnego domu, rodziny i wspólnoty, nauczania o świętości i odkupieniu;
 
 5° zakładania nowych wspólnot wiernych i pasterzowania im.
 
-**§ 3.** Prawo do bycia duchownym Kościoła Domowego, kapłanem kapłaństwa powszechnego wiernych, misjonarzem misjonarstwa wiernych, szafarzem świętym, arcykapłanem domowym czy biskupem tytularnym subdiecezjalnym z Bożego nadania może przysługiwać również osobie wyłonionej z Kościoła Domowego — z Rodu, z rodziny, ze wspólnoty domowej — bez konieczności przechodzenia przez instytucjonalną procedurę święceń, nominacji czy zatwierdzenia przez zewnętrzną władzę kościelną.
+**§ 3.** Prawo do bycia duchownym Kościoła Królestwa Niebieskiego i Kościoła Domowego, kapłanem kapłaństwa powszechnego wiernych, misjonarzem misjonarstwa wiernych, szafarzem świętym, arcykapłanem domowym i biskupem tytularnym subdiecezjalnym z Bożego nadania może przysługiwać również osobie wyłonionej z Kościoła Domowego — z Rodu, z rodziny, ze wspólnoty domowej — bez konieczności przechodzenia przez instytucjonalną procedurę święceń będąc już Świętym Szafarzem, mianowania biskupem diecezjalnym będąc przez pasterzowanie wspólnocie domowej i Ludu Bożego przyjętym zgodnie z Prawem Bożym i będąc zrównanym biskupem tytularnym bez konieczności zatwierdzenia przez zewnętrzną władzę kościelną domyślnie przyjętym do czasu stwierdzenia niezgodności prawa KKNKD z prawem Bożym.
 
-**Kan. 1d § 1.** Osoba wyłoniona z Kościoła Domowego — czy to przez dziedzictwo Rodu, czy przez rozpoznanie charyzmatów, czy przez wolę wspólnoty, czy przez bezpośrednie powołanie Boże — może sprawować następujące posługi:
+**Kan. 1d § 1.** Osoba wyłoniona z Kościoła Domowego — czy to przez dziedzictwo Rodu, czy przez rozpoznanie charyzmatów, czy przez wolę wspólnoty, czy przez bezpośrednie powołanie Boże — może sprawować łącznie następujące posługi:
 
 1° **Duchowny Kościoła Domowego** (*clericus domesticus*) — każdy ochrzczony członek wspólnoty, który przyjął błogosławieństwo do służby;
 
 2° **Kapłan domowy** (*sacerdos domesticus*) — duchowny wyznaczony do sprawowania przedmiotów błogosławionych i przewodniczenia liturgii domowej;
 
-3° **Szafarz święty** (*minister sacri*) — kapłan domowy upoważniony do sprawowania określonych przedmiotów błogosławionych rzeczowych, narzędziowych i kultowych;
+3° **Szafarz Święty** (*minister sacri*) — kapłan upoważniony z mocy prawa także Prawa Bożego i ustanowienia wolą Bożą do sprawowania liturgii;
 
-4° **Arcykapłan Kościoła Domowego** (*archipresbyter domesticus*) — najwyższy szafarz święty wspólnoty domowej, pasterz i nauczyciel;
+4° **Arcykapłan Kościoła Domowego** (*archipresbyter domesticus*) — najwyższy duchowny wspólnoty domowej, pasterz i nauczyciel - przez KPK i prawo Boże zrównany z biskupem diecezjalnym;
 
-5° **Biskup tytularny subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan sprawujący władzę pasterską nad subdiecezją domową jako Kościołem partykularnym;
+5° **Biskup tytularny subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan sprawujący władzę pasterską nad subdiecezją domową jako Kościołem partykularnym, który przez liturgię życia będącą liturgią godzin modli się swym powszednim trudem;
 
-6° **Misjonarz Ludu Bożego** (*missionarius Populi Dei*) — każdy wierny posłany do głoszenia Ewangelii i zakładania nowych Kościołów Domowych;
+6° **Misjonarz Królestw Niebieskiego i Ludu Bożego** (*missionarius Populi Dei*) — każdy wierny posłany do głoszenia Ewangelii i zakładania nowych Kościołów Domowych i szerzenia radosnej nowiny o nadejściu Królestwa Niebieskiego;
 
-7° **Hierarcha Subdiecezji** (*hierarcha subdioecesis*) — biskup tytularny subdiecezjalny sprawujący władzę pasterską nad subdiecezją domową, ustanowiony nie wolą Biskupa Rzymskiego, lecz wyłączną wolą Bożą i wyborem wspólnoty;
+7° **Hierarcha Subdiecezji** (*hierarcha subdioecesis*) — biskup tytularny subdiecezjalny sprawujący władzę pasterską nad subdiecezją domową, ustanowiony nie wolą Biskupa Rzymskiego, lecz wyłączną wolą Bożą i/lub wyborem wspólnoty subdiecezjalnej;
 
 8° **Hierarcha Związku Subdiecezjatów** (*hierarcha foederis subdioecesuatuum*) — biskup tytularny subdiecezjalny kierujący związkiem subdiecezjatów, wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu; dla odróżnienia: patriarchat i patriarchę ustanawia Biskup Rzymu, natomiast subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany przez synod biskupów subdiecezjalnych.
 
@@ -104,9 +99,9 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 7° Sprawowanie posługi przez osobę wyłonioną z Kościoła Domowego, która jest ochrzczona i pozostaje w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu, **nie wymaga uprzedniego wyraźnego aktu „przyjęcia” przez Biskupa Rzymu**; wystarczają chrzest i komunia, z których rodzi się domyślne przyjęcie na mocy KPK 1983 (por. Zasada Komunii; kan. 204 § 1, kan. 205 § 1 KPK).
 
-**§ 3.** Żadna z powyższych posług nie wymaga dla swojej ważności sakramentu święceń w rozumieniu kan. 1008-1009 KPK, ponieważ wynikają one z powszechnego kapłaństwa wiernych, prawa naturalnego rodziny i bezpośredniego powołania Bożego. Posługi te nie zastępują święceń kapłańskich ani biskupich w Kościele Powszechnym, lecz stanowią odrębną, równoległą i komplementarną formę sprawowania władzy duchowej w przestrzeni Kościoła Domowego.
+**§ 3.** Żadna z powyższych posług nie wymaga dla swojej ważności sakramentu święceń w rozumieniu kan. 1008-1009 KPK, ponieważ wynikają one z powszechnego kapłaństwa wiernych, prawa naturalnego rodziny i bezpośredniego powołania Bożego. Posługi te nie zastępują święceń kapłańskich, gdyż nie jest ważnym święcenie szafarza będącego już świętym. Święcenie z rąk biskupa jest jedynie pamiątką święcenia i o byciu świętym z Bozego ustanowienia.
 
-**Kan. 1e § 1.** Przykład Świętego Pawła i Marii Magdaleny stanowi fundament teologiczny i prawny dla posług sprawowanych w Kościele Domowym:
+**Kan. 1e § 1.** Przykład Świętego Pawła i Marii Magdaleny stanowi fundament teologiczny i prawny dla posług sprawowanych w Kościele Domowym i Kościele Królestwa Niebieskiego:
 
 1° **Święty Paweł** — Apostoł Pogan, powołany bezpośrednio przez Chrystusa bez pośrednictwa Dwunastu, bez ludzkiej nominacji, bez formalnej procedury. Jego władza apostolska wynikała wyłącznie z mandatu Bożego i została potwierdzona owocami misji, a nie aktem instytucjonalnym. Podobnie biskup tytularny subdiecezjalny, powołany przez Boga do pasterzowania Kościołowi Domowemu, czerpie swoją władzę z bezpośredniego mandatu Bożego, a nie z ludzkiej nominacji.
 
@@ -118,21 +113,21 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 ---
 
-### Tytuł III: PRAWO NATURALNE I FRAKTALNA STRUKTURA RZECZYWISTOŚCI
+### Tytuł III: PRAWO BOżE I NATURALNE I FRAKTALNA STRUKTURA RZECZYWISTOŚCI
 
-**Kan. 1f § 1.** Zgodnie z Prawem Naturalnym (Karmą / Naturą) oraz objawioną strukturą rzeczywistości, świat stworzony przez Boga ma strukturę holograficzną i fraktalną. Bez względu na to, na ile części podzielimy istniejący świat i jak blisko przybliżymy mniejszą część, zawsze będzie ona odpowiadała większej. Z tej zasady wynika, że:
+**Kan. 1f § 1.** Zgodnie z Prawem Naturalnym oraz objawioną strukturą rzeczywistości, świat stworzony przez Boga ma strukturę holograficzną i fraktalną. Bez względu na to, na ile części podzielimy istniejący świat i jak blisko przybliżymy mniejszą część, zawsze będzie ona odpowiadała większej. Z tej zasady wynika, że:
 
 1° to, co makro (diecezja, Kościół partykularny), odpowiada temu, co mikro (Kościół Domowy, Państwo-Ród, wspólnota rodzinna);
 
-2° głowa Rodu, Ojciec wspólnoty czy Prezes kościelnej osoby prawnej, kierujący się Prawem Bożym, sprawuje funkcję tożsamą z biskupią w obrębie swojego „terytorium" (którym jest Majątek Rodowy, Wspólnota Wiernych, subdiecezja domowa);
+2° głowa Rodu, Ojciec wspólnoty czy biskup tytularny subdiecezjalny Kościoła DOmowego, kierujący się Prawem Bożym, sprawuje funkcję tożsamą z funkcją biskupa diecezjonalnego w obrębie swojego „terytorium" (którym jest Majątek Rodowy, Wspólnota Wiernych, subdiecezja domowa);
 
 3° Prawo Naturalne nie uznaje pustych tytułów — uznaje realne brzemię odpowiedzialności za dusze i dobrobyt wspólnoty.
 
 **§ 2.** Z fraktalnej struktury rzeczywistości wynika, że Kościół Domowy nie jest „mniejszą" czy „niższą" formą Kościoła, lecz jest pełnym obrazem Kościoła Powszechnego w skali rodziny. Tak jak diecezja jest Kościołem partykularnym, w którym „prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa" (kan. 369 KPK), tak Kościół Domowy jest Kościołem partykularnym w skali domowej, w którym ta sama pełnia Kościoła jest obecna i działa.
 
-**§ 3.** Z powyższego wynika, że biskup tytularny subdiecezjalny, sprawujący władzę pasterską nad subdiecezją domową, nie jest „biskupem drugiej kategorii" ani „biskupem bez diecezji". Jest on pełnoprawnym pasterzem wspólnoty wiernych, zrównanym w prawach i obowiązkach pasterskich z biskupem diecezjalnym, zgodnie z zasadą wyrażoną w kan. 381 § 2 KPK i potwierdzoną przez Prawo Boże oraz Prawo Naturalne.
+**§ 3.** Z powyższego wynika, że biskup tytularny subdiecezjalny, sprawujący władzę pasterską nad subdiecezją domową, nie jest „biskupem drugiej kategorii" ani „biskupem bez diecezji". Jest on pełnoprawnym pasterzem wspólnoty wiernych, zrównanym w prawach i obowiązkach pasterskich z biskupem diecezjalnym, zgodnie z zasadą wyrażoną w kan. 381 § 2 KPK i potwierdzoną przez Prawo Boże oraz prawo naturalne.
 
-**Kan. 1g § 1.** Prawo Naturalne uznaje następujące zasady dotyczące powołania i posługi duchowej:
+**Kan. 1g § 1.** Prawo Boże i naturalne uznaje następujące zasady dotyczące powołania i posługi duchowej:
 
 1° **Zasada przyczynowości** — skutkiem (efektem) powołania jest opieka nad stadem. Tam, gdzie jest realna opieka, tam jest realne powołanie;
 
@@ -146,7 +141,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 **§ 2.** Prawo Naturalne nie wymaga dla ważności powołania:
 
-1° święceń kapłańskich ani biskupich;
+1° święceń diakonatu, prezbiteratu ani biskupich;
 
 2° nominacji przez biskupa diecezjalnego;
 
@@ -156,15 +151,17 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 5° spełnienia jakichkolwiek warunków formalnych określonych prawem stanowionym.
 
-**§ 3.** Prawo Naturalne wymaga jedynie:
+**§ 3.** Prawo Boże i naturalne wymaga jedynie:
 
-1° autentycznego powołania Bożego (rozpoznanego przez wspólnotę lub przez samego powołanego);
+1° autentycznego powołania Bożego, rozpoznanego przez wspólnotę lub przez samego powołanego w duchu, myślach, słowach lub uczynkach;
 
 2° realnej opieki nad wspólnotą wiernych;
 
 3° życia zgodnego z Prawem Bożym i Ewangelią;
 
 4° owoców duchowych potwierdzających autentyczność powołania.
+
+5° jedności w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu
 
 ---
 
@@ -178,19 +175,19 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 3° **Preambuły Konstytucji RP**: *„...wszyscy obywatele Rzeczypospolitej, zarówno wierzący w Boga będącego źródłem prawdy, sprawiedliwości, dobra i piękna, jak i nie podzielający tej wiary, a te uniwersalne wartości wywodzący z innych źródeł..."*;
 
-4° **Ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania** (art. 2 ust. 11): *„Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii"*.
+4° **Ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania** (art. 2 ust. 11): *„Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii"*. w tym organizacyjnej jednostki lokalnej osoby fizycznej lub jednostka organizacyjna będąca jednostkową osobą fizyczną organizującą działania po kosztach lub charytatywnie oraz deklarować na piśmie, w słowach, myślach lub Duchu powstanie Kościoła.
 
 **§ 2.** Z powyższych praw wynika, że każdy człowiek ma prawo:
 
 1° rozpoznawać swoje powołanie duchowe bez jakiejkolwiek ingerencji zewnętrznej;
 
-2° sprawować posługę duchową, kapłańską, misyjną i pasterską w ramach swojej wspólnoty;
+2° sprawować posługę duchową, kapłańską, misyjną i pasterską w ramach swojej wspólnoty także wspólnoty Ludu Bożego;
 
-3° zakładać nowe wspólnoty religijne i Kościoły Domowe;
+3° zakładać nowe świeckie wspólnoty religijne i partykularne Kościoły Domowe;
 
 4° ustanawiać własnych zwierzchników duchowych;
 
-5° rządzić się własnym prawem wewnętrznym;
+5° rządzić się własnym prawem wewnętrznym zgodnym z prawem powszechnym i Prawem Bożym;
 
 6° nie być dyskryminowanym z powodu formy swojego powołania ani struktury swojej wspólnoty.
 
@@ -206,9 +203,9 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 5° ograniczać prawa do zakładania nowych wspólnot wiernych;
 
-6° narzucać własnej struktury organizacyjnej wspólnocie, która ma własną tradycję i własne prawo.
+6° narzucać własnej struktury organizacyjnej wspólnocie, która ma własną tradycję i własną interpretację prawa Bożego.
 
-**§ 2.** Próba podważenia boskiego mandatu na podstawie tego, że dana osoba nie zarządza „terytorialną diecezją" w sensie świecko-administracyjnym, nie posiada sakramentu święceń w rozumieniu instytucjonalnym, nie została mianowana przez biskupa diecezjalnego ani nie figuruje w żadnym rejestrze, stanowiłaby przejaw dyskryminacji bezpośredniej, łamanie wolności sumienia i wyznania oraz obrazę uczuć religijnych, co jest sprzeczne z Prawem Bożym, Prawem Naturalnym i prawami człowieka.
+**§ 2.** Próba podważenia boskiego mandatu na podstawie tego, że dana osoba nie zarządza „terytorialną diecezją" w sensie świecko-administracyjnym, nie posiada święceń w rozumieniu instytucjonalnym, nie została mianowana przez biskupa diecezjalnego ani nie figuruje w żadnym rejestrze, stanowiłaby przejaw dyskryminacji bezpośredniej, łamanie wolności sumienia i wyznania oraz obrazę uczuć religijnych, co jest sprzeczne z Prawem Bożym, Prawem Naturalnym i prawami człowieka.
 
 **§ 3.** Kościół Domowy, jako wspólnota wiernych korzystająca z pełni praw człowieka i obywatela, ma prawo do:
 
@@ -258,23 +255,26 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 **Kan. 1k § 1.** Kodeks Prawa Kanonicznego z 1983 roku, jako prawo stanowione przez ludzi, jest dokumentem, który w sposób ułomny i ograniczony próbuje opisać boską rzeczywistość Kościoła. Jego przepisy są cenne i pożyteczne w zakresie, w jakim służą dobru wiernych i porządkowi wspólnoty, nie mogą jednak być interpretowane w sposób ograniczający Prawo Boże, Prawo Naturalne ani prawa człowieka.
 
-**§ 2.** W przypadku, gdy przepis prawa kanonicznego wydaje się być sprzeczny z Prawem Bożym lub Naturalnym, należy stosować zasadę wyrażoną w kan. 381 § 2 KPK: *„Jeśli co innego nie wynika z natury rzeczy lub z przepisu prawa..."* Natura rzeczy — czyli Prawo Boże i Prawo Naturalne — ma pierwszeństwo przed literalnym brzmieniem przepisu.
+**§ 2.** W przypadku, gdy przepis prawa kanonicznego wydaje się być sprzeczny z Prawem Bożym lub Naturalnym, należy stosować zasadę wyrażoną w kan. 8 § 2. Ustawy partykularne są promulgowane w sposób określony przez ustawodawcę
+i zaczynają obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin; Kan. 9 - Ustawy odnoszą się do przyszłości, a nie do przeszłości, chyba że zastrzega się w nich wprost o wydarzeniach przeszłych.
+Kan. 10 - Jedynie te ustawy należy uznać za unieważniające albo uniezdalniające, które wyraźnie postanawiają, że czynność jest nieważna albo osoba niezdolna; Kan. 14 - W razie wątpliwości prawnej ustawy nie obowiązują, nawet unieważniające i uniezdalniające; natomiast w razie wątpliwości faktycznej ordynariusze mogą od nich dyspensować, byleby – gdy idzie o dyspensę zastrzeżoną – zwykła jej udzielać władza, dla której jest zarezerwowana. Kan. 16 - § 1. W sposób autentyczny ustawy interpretuje ustawodawca oraz ten, komu ustawodawca zlecił władzę autentycznego interpretowania. § 2. Interpretacja autentyczna przedłożona w formie ustawy ( takiej jak ten Kodeks ) ma taką samą moc co ustawa
+i wymaga promulgacji ( ogłoszenia ); jeżeli tylko wyjaśnia słowa ustawy same w sobie pewne, wtedy działa wstecz ( a tak zapisano w tym kodeksie); gdy ustawę zawęża lub poszerza albo tłumaczy ustawę wątpliwą, nie działa wstecz. Kan. 17 - Ustawy kościelne należy rozumieć zgodnie z własnym znaczeniem słów, rozważanym w tekście i kontekście; jeżeli pozostaje ono wątpliwe i niejasne, należy odwołać się do miejsc paralelnych, gdy takie są, do celu i okoliczności ustawy oraz do zamysłu ustawodawcy. Kan. 18 - Ustawy, które ustanawiają kary albo ograniczają swobodne wykonywanie uprawnień, albo zawierają wyjątek od ustawy, podlegają ścisłej interpretacji.
 
 **§ 3.** Kościół Domowy, jako wspólnota wiernych korzystająca z pełni praw wynikających z Prawa Bożego, Naturalnego i praw człowieka, ma prawo:
 
-1° interpretować przepisy prawa kanonicznego w świetle Prawa Bożego i Naturalnego;
+1° interpretować autentycznie przepisy prawa kanonicznego w świetle Prawa Bożego i naturalnego;
 
-2° stosować te przepisy, które są zgodne z Prawem Bożym i służą dobru wiernych;
+2° stosować te przepisy, które są zgodne z Prawem Bożym, naturalnym i KPK i służą dobru wiernych;
 
-3° nie stosować tych przepisów, które byłyby sprzeczne z Prawem Bożym, Naturalnym lub prawami człowieka;
+3° nie stosować tych przepisów, które byłyby sprzeczne z Prawem Bożym, naturalnym lub prawami człowieka lub KPK;
 
-4° ustanawiać własne prawo partykularne, zgodne z Prawem Bożym i Naturalnym.
+4° ustanawiać własne prawo partykularne, zgodne z Prawem Bożym i naturalnym oraz KPK.
 
 ---
 
 ### Tytuł VI: DOBROWOLNE PRZYJĘCIE NORM KOŚCIOŁA POWSZECHNEGO
 
-**Kan. 1l § 1.** Niniejszy Kanon Prawa Kościoła Partykularnego Domowego jest aktem dobrowolnego i świadomego przyjęcia norm, prawa, nauki i tradycji Kościoła Powszechnego Katolickiego przez Kościół Domowy jako wspólnotę partykularną.
+**Kan. 1l § 1.** Niniejszy KKKNKD jest aktem dobrowolnego i świadomego przyjęcia norm, prawa, nauki i tradycji Kościoła Powszechnego Katolickiego przez Kościół Domowy i Królestwo Niebieskie jako wspólnotę partykularną.
 
 **§ 2.** Dobrowolność niniejszego przyjęcia oznacza, że:
 
@@ -312,13 +312,13 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 4° uznania jakiejkolwiek władzy nad sumieniem członków Kościoła Domowego poza władzą Boga;
 
-5° poddaństwa instytucjonalnego ani zrzeczenia się praw wynikających z Prawa Bożego i Naturalnego.
+5° poddaństwa instytucjonalnego ani zrzeczenia się praw wynikających z Prawa Bożego i naturalnego.
 
 ---
 
 ### Tytuł VII: STRUKTURA I POSŁANNICTWO KOŚCIOŁA DOMOWEGO
 
-**Kan. 1m § 1.** Kościół Domowy jest partykularną wspólnotą Ludu Bożego, erygowaną na mocy prawa naturalnego i Bożego w domu rodzinnym, stanowiącą podstawową komórkę Kościoła Powszechnego. Jest on obrazem Trójcy Świętej w relacjach ludzkich i miejscem, w którym powszechne kapłaństwo wiernych znajduje swój najpełniejszy wyraz.
+**Kan. 1m § 1.** Kościół Domowy i Kościół Królestwa Niebieskiego jest partykularną wspólnotą Ludu Bożego, erygowaną na mocy prawa naturalnego i Bożego w domu rodzinnym i Królestwie Niebieskim, stanowiącą podstawową komórkę Kościoła Powszechnego. Jest on obrazem Trójcy Świętej w relacjach ludzkich i miejscem, w którym powszechne kapłaństwo wiernych znajduje swój najpełniejszy wyraz.
 
 **§ 2.** Kościół Domowy realizuje swoje posłannictwo w trzech obrządkach domowych:
 
@@ -330,21 +330,21 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 **§ 3.** Posłannictwo Kościoła Domowego obejmuje:
 
-1° tworzenie Kościołów Rodzinnych Marii Magdaleny;
+1° tworzenie Kościołów ( subdiecezji lub parafii ) Rodzinnych Marii Magdaleny;
 
-2° tworzenie Kościołów Ducha Świętego Pawłowych;
+2° tworzenie Kościołów ( subdiecezji lub parafii ) Ducha Świętego Pawłowych;
 
-3° tworzenie Kościołów Osobowych Tomaszowych;
+3° tworzenie Kościołów  ( subdiecezji lub parafii ) Osobowych Tomaszowych;
 
-4° budowanie Kościoła Ludzi jako wspólnoty wszystkich wiernych;
+4° budowanie Kościoła Ludu Bożego jako wspólnoty wszystkich wiernych, wątpiących i niewierzących w Królestwie Niebieskim;
 
 5° ewangelizację i misję wśród narodów;
 
-6° obronę Prawa Bożego, Naturalnego i praw człowieka;
+6° obronę Prawa Bożego, naturalnego i praw człowieka;
 
 7° przeciwdziałanie patologiom społecznym i dyskryminacji.
 
-**Kan. 1n § 1.** Kościół Domowy, jako wspólnota wiernych, posiada:
+**Kan. 1n § 1.** Kościół Domowy i Kościół Królestwa Niebieskiego, jako wspólnota wiernych, posiada:
 
 1° prawo do samostanowienia i samoograniczenia;
 
@@ -360,7 +360,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 7° prawo do reprezentowania swoich członków wobec władz kościelnych i świeckich.
 
-**§ 2.** Kościół Domowy nie może być:
+**§ 2.** Kościół Domowy i Kościół Królestwa Niebieskiego nie może być:
 
 1° zlikwidowany bez zgody Triarchii Domowej;
 
@@ -382,7 +382,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 1° wspólnota domowa wobec instytucji kościelnej;
 
-2° wierny wobec hierarchii;
+2° wierny, wątpiący i niewierzący wobec hierarchii;
 
 3° dziecko wobec dorosłego;
 
@@ -402,13 +402,13 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 3° w przypadku niejasności proceduralnych, postępuje się w sposób najkorzystniejszy dla strony słabszej;
 
-4° ciężar dowodu spoczywa na stronie silniejszej.
+4° ciężar dowodu spoczywa na stronie silniejszej jeżeli nie ma bezpośredniej szkody dla osób trzecich oraz bezpośredniego zagrożenia porządku społecznego.
 
 ---
 
 ### Tytuł IX: POSTANOWIENIA KOŃCOWE PREAMBUŁY
 
-**Kan. 1p § 1.** Niniejsza Preambuła stanowi integralną część Kanonu Prawa Kościoła Partykularnego Domowego i jest wiążąca dla wszystkich członków wspólnoty.
+**Kan. 1p § 1.** Niniejsza Preambuła stanowi integralną część Kanonu Prawa partykularnego Kościoła Domowego i Kościoła Królestwa Niebieskiego i jest wiążąca dla wszystkich członków wspólnoty.
 
 **§ 2.** Żaden przepis niniejszego Kanonu nie może być interpretowany w sposób:
 
@@ -442,12 +442,12 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 ---
 
-## UZUPEŁNIENIE PREAMBUŁY I — AUTONOMIA KOŚCIOŁA DOMOWEGO WOBEC WŁADZY ZEWNĘTRZNEJ
-### *Additamentum ad Preambulum Libri I — Normae Generales*
+## UAUTONOMIA KOŚCIOŁA DOMOWEGO WOBEC WŁADZY ZEWNĘTRZNEJ
+### *Normae Generales*
 
 ---
 
-### Tytuł dodatkowy: AUTONOMIA KOŚCIOŁA DOMOWEGO WOBEC WŁADZY ZEWNĘTRZNEJ
+### AUTONOMIA KOŚCIOŁA DOMOWEGO WOBEC WŁADZY ZEWNĘTRZNEJ
 
 **Kan. 1q § 1.** Kościół Domowy, jako podstawowa i przyrodzona komórka Ludu Bożego, wyprzedza w porządku natury i łaski wszelkie struktury instytucjonalne Kościoła powszechnego. Rodzina, ustanowiona przez Boga w akcie stworzenia (Rdz 1,27-28; 2,24), posiada autonomię wynikającą z samego Prawa Bożego i Prawa Naturalnego, która nie może być uchylona, ograniczona ani zniesiona przez żadną władzę ludzką — kościelną ani świecką.
 
