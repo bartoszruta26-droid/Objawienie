@@ -406,7 +406,7 @@ i wymaga promulgacji ( ogłoszenia ); jeżeli tylko wyjaśnia słowa ustawy same
 
 ---
 
-### Tytuł IX: POSTANOWIENIA KOŃCOWE PREAMBUŁY
+### Tytuł IX: POSTANOWIENIA PREAMBUŁY
 
 **Kan. 1p § 1.** Niniejsza Preambuła stanowi integralną część Kanonu Prawa partykularnego Kościoła Domowego i Kościoła Królestwa Niebieskiego i jest wiążąca dla wszystkich członków wspólnoty.
 
@@ -442,14 +442,10 @@ i wymaga promulgacji ( ogłoszenia ); jeżeli tylko wyjaśnia słowa ustawy same
 
 ---
 
-## UAUTONOMIA KOŚCIOŁA DOMOWEGO WOBEC WŁADZY ZEWNĘTRZNEJ
-### *Normae Generales*
 
----
+### Tytuł X: AUTONOMIA KOŚCIOŁA DOMOWEGO WOBEC WŁADZY ZEWNĘTRZNEJ
 
-### AUTONOMIA KOŚCIOŁA DOMOWEGO WOBEC WŁADZY ZEWNĘTRZNEJ
-
-**Kan. 1q § 1.** Kościół Domowy, jako podstawowa i przyrodzona komórka Ludu Bożego, wyprzedza w porządku natury i łaski wszelkie struktury instytucjonalne Kościoła powszechnego. Rodzina, ustanowiona przez Boga w akcie stworzenia (Rdz 1,27-28; 2,24), posiada autonomię wynikającą z samego Prawa Bożego i Prawa Naturalnego, która nie może być uchylona, ograniczona ani zniesiona przez żadną władzę ludzką — kościelną ani świecką.
+**Kan. 1q § 1.** Kościół Domowy, jako podstawowa i przyrodzona komórka Ludu Bożego, wyprzedza w porządku natury i łaski wszelkie struktury instytucjonalne Kościoła Powszechnego. Rodzina, ustanowiona przez Boga w akcie stworzenia (Rdz 1,27-28; 2,24), posiada autonomię wynikającą z samego Prawa Bożego i Prawa Naturalnego, która nie może być uchylona, ograniczona ani zniesiona przez żadną władzę ludzką — kościelną ani świecką.
 
 **§ 2.** Stolica Apostolska i Państwo Watykańskie, jako podmioty prawa międzynarodowego, nie posiadają kompetencji do ingerowania w życie prywatne rodziny, w wewnętrzne sprawy małżeńskie, w wychowanie dzieci ani w organizację kultu sprawowanego w domu rodzinnym. Wynika to z:
 
@@ -567,8 +563,6 @@ Autonomia Kościoła Domowego jest zawsze ograniczona Prawem Bożym, Prawem Natu
 
 ## UZUPEŁNIENIE PREAMBUŁY II — DOBROWOLNE PRZYJĘCIE NORM KOŚCIOŁA POWSZECHNEGO
 ### *Additamentum ad Preambulum Libri I — De Voluntaria Acceptatione Normarum Ecclesiae Universalis*
-
-> Uwaga redakcyjna: dawne „Kan. 1e–1i” tej części brzmiały identycznie jak przepisy o dobrowolnym przyjęciu norm w części poprzedzającej; zachowano je w niniejszym rozdziale pod jednolitymi oznaczeniami kan. 1u–1y.
 
 ---
 
@@ -1068,11 +1062,11 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 4° przewodniczenie związkowi subdiecezjatów z woli wyboru synodu biskupów subdiecezjalnych przez hierarchę związku subdiecezjatów, wybranego z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu;
 
-5° tytuł biskupa przyjętego przez Biskupa Rzymskiego;
+5° tytuł biskupa z woli Bożej i z zachowaniem prawa Bożego domyślnie przyjętego przez Biskupa Rzymskiego;
 
-6° tytuł biskupa nieprzyjętego przez Biskupa Rzymskiego;
+6° tytuł biskupa nieprzyjętego przez Biskupa Rzymskiego ze względu udowodniony brak zachowania prawa;
 
-7° przyjęcie subdiecezji wolą biskupa diecezjalnego;
+7° przyjęcie subdiecezji wolą biskupa diecezjalnego z woli Bożej i z zachowaniem Prawa;
 
 8° powołanie subdiecezji z hierarchą biskupa wolą biskupa tytularnego Kościoła Domowego.
 
