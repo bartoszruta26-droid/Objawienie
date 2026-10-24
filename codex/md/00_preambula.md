@@ -1478,4 +1478,3 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 *Sigillum Ecclesiae Domesticae*
 *Sigillum Subdioecesis Domesticae*
-*Sigillum Patriarchatus Subdioecesium Domesticarum* — pieczęć patriarchatu zastrzeżona jest wyłącznie dla struktur ustanowionych wolą Biskupa Rzymu; strukturom pochodzącym z wyboru synodu przysługuje *Sigillum Foederis Subdioecesuatuum* (pieczęć związku subdiecezjatów) pod przewodnictwem hierarchy związku subdiecezjatów wybranego spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
