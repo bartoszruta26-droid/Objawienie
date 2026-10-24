@@ -7,9 +7,9 @@
 
 Niniejszy Kodeks Kanoniczny Prawa Partykularnego Kościoła Królestwa Niebieskiego jest ustanowiony wolą Boga Wszechmogącego, Ojca z Nieba, Ducha Świętego i Dziecka Bożego, na podstawie Prawa Bożego, Prawa Naturalnego oraz praw człowieka, jako wyraz wolnej woli i objawionego powołania. Kodeks ninieiejszy zawiera także kanon prawa partykularnego kośociła domowego i jego subdiecezji.
 
-Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka, w związku z powyższym niniejszy Kodeks Prawa Kanonicznego Kościoła Królestwa Niebieskiego i Kościoła Domowego ( KPKKKNiKD ) lub w skrócie Kanon Królestwa Niebieskiego i Kościoła Domowego ( KKNKD ) opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do jego tłumaczenia w języku polskim. Ze względu na fakt, iż subdiecezja Kościoła Domowego znajduje się na terytorium Polski wszelkiego rodzaju definicje wynikające z zwyczaju, tradycji, kultury, ustaw państwowych i konstytucyjnych wartości prowadzone będą wg norm obecnych wśród Słowian, Polaków, konstytucji Rzeczypospolitej Polskiej, Ustaw sejmowych Państwa Polskiego, Słownika Języka Polskiego PWN.
+Ze względu na fakt iż Kodeks Prawa Kanonicznego był przyjęty w Kościele Katolickim  przez Jana Pawła II papieża Polaka, w związku z powyższym niniejszy Kodeks Prawa Kanonicznego Kościoła Królestwa Niebieskiego i Kościoła Domowego ( KPKKKNiKD ) lub w skrócie Kodeks Kanoniczny Królestwa Niebieskiego i Kościoła Domowego ( KKKNKD ) opiera się o polskojęzyczną wersję Kanonu Prawa Kanonicznego. W przypadku dwóch różnych interpretacji prawa kanonicznego należy odnosić się do jego tłumaczenia w języku polskim. Ze względu na fakt, iż subdiecezja Kościoła Domowego znajduje się na terytorium Polski wszelkiego rodzaju definicje wynikające z zwyczaju, tradycji, kultury, ustaw państwowych i konstytucyjnych wartości prowadzone będą wg norm obecnych wśród Słowian, Polaków, konstytucji Rzeczypospolitej Polskiej, Ustaw sejmowych Państwa Polskiego, Słownika Języka Polskiego PWN.
 
-W razie konfliktu przepisów KKNKD z kodeksem prawa kanonicznego dla obrządku łacińskiego Kościoła Katolickiego, należy zapisy KKNKD odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich i tradycji kośiołów pierwotnych.
+W razie konfliktu przepisów KKKNKD z kodeksem prawa kanonicznego dla obrządku łacińskiego Kościoła Katolickiego, należy zapisy KKNKD odnosić do kanonów prawa innych obrządków katolickich a w szczególności obrządku kościołów wschodnich i tradycji kośiołów pierwotnych.
 
 Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyraźnie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kośściołem sui iuris lub KKNKD. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okolicznośści historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris. Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej. Obrządki Kościołów wschodnich w tym Kościołów Domowych powinny być wiernie zachowywane i promowane jako dziedzictwo całego Kościoła Chrystusowego.
 
@@ -63,7 +63,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 5° zakładania nowych wspólnot wiernych i pasterzowania im.
 
-**§ 3.** Prawo do bycia duchownym Kościoła Królestwa Niebieskiego i Kościoła Domowego, kapłanem kapłaństwa powszechnego wiernych, misjonarzem misjonarstwa wiernych, szafarzem świętym, arcykapłanem domowym i biskupem tytularnym subdiecezjalnym z Bożego nadania może przysługiwać również osobie wyłonionej z Kościoła Domowego — z Rodu, z rodziny, ze wspólnoty domowej — bez konieczności przechodzenia przez instytucjonalną procedurę święceń będąc już Świętym Szafarzem, mianowania biskupem diecezjalnym będąc przez pasterzowanie wspólnocie domowej i Ludu Bożego przyjętym zgodnie z Prawem Bożym i będąc zrównanym biskupem tytularnym bez konieczności zatwierdzenia przez zewnętrzną władzę kościelną domyślnie przyjętym do czasu stwierdzenia niezgodności prawa KKNKD z prawem Bożym.
+**§ 3.** Prawo do bycia duchownym Kościoła Królestwa Niebieskiego i Kościoła Domowego, kapłanem kapłaństwa powszechnego wiernych, misjonarzem misjonarstwa wiernych, szafarzem świętym, arcykapłanem domowym i biskupem tytularnym subdiecezjalnym z Bożego nadania może przysługiwać również osobie wyłonionej z Kościoła Domowego — z Rodu, z rodziny, ze wspólnoty domowej — bez konieczności przechodzenia przez instytucjonalną procedurę święceń będąc już Świętym Szafarzem, mianowania biskupem diecezjalnym będąc przez pasterzowanie wspólnocie domowej i Ludu Bożego przyjętym zgodnie z Prawem Bożym i będąc zrównanym biskupem tytularnym bez konieczności zatwierdzenia przez zewnętrzną władzę kościelną domyślnie przyjętym do czasu stwierdzenia niezgodności prawa KKKNKD z prawem Bożym.
 
 **Kan. 1d § 1.** Osoba wyłoniona z Kościoła Domowego — czy to przez dziedzictwo Rodu, czy przez rozpoznanie charyzmatów, czy przez wolę wspólnoty, czy przez bezpośrednie powołanie Boże — może sprawować łącznie następujące posługi:
 
@@ -255,10 +255,7 @@ Kan. 368 KPK wymienia wspólnoty wiernych zrównane z diecezją: prałatury tery
 
 **Kan. 1k § 1.** Kodeks Prawa Kanonicznego z 1983 roku, jako prawo stanowione przez ludzi, jest dokumentem, który w sposób ułomny i ograniczony próbuje opisać boską rzeczywistość Kościoła. Jego przepisy są cenne i pożyteczne w zakresie, w jakim służą dobru wiernych i porządkowi wspólnoty, nie mogą jednak być interpretowane w sposób ograniczający Prawo Boże, Prawo Naturalne ani prawa człowieka.
 
-**§ 2.** W przypadku, gdy przepis prawa kanonicznego wydaje się być sprzeczny z Prawem Bożym lub Naturalnym, należy stosować zasadę wyrażoną w kan. 8 § 2. Ustawy partykularne są promulgowane w sposób określony przez ustawodawcę
-i zaczynają obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin; Kan. 9 - Ustawy odnoszą się do przyszłości, a nie do przeszłości, chyba że zastrzega się w nich wprost o wydarzeniach przeszłych.
-Kan. 10 - Jedynie te ustawy należy uznać za unieważniające albo uniezdalniające, które wyraźnie postanawiają, że czynność jest nieważna albo osoba niezdolna; Kan. 14 - W razie wątpliwości prawnej ustawy nie obowiązują, nawet unieważniające i uniezdalniające; natomiast w razie wątpliwości faktycznej ordynariusze mogą od nich dyspensować, byleby – gdy idzie o dyspensę zastrzeżoną – zwykła jej udzielać władza, dla której jest zarezerwowana. Kan. 16 - § 1. W sposób autentyczny ustawy interpretuje ustawodawca oraz ten, komu ustawodawca zlecił władzę autentycznego interpretowania. § 2. Interpretacja autentyczna przedłożona w formie ustawy ( takiej jak ten Kodeks ) ma taką samą moc co ustawa
-i wymaga promulgacji ( ogłoszenia ); jeżeli tylko wyjaśnia słowa ustawy same w sobie pewne, wtedy działa wstecz ( a tak zapisano w tym kodeksie); gdy ustawę zawęża lub poszerza albo tłumaczy ustawę wątpliwą, nie działa wstecz. Kan. 17 - Ustawy kościelne należy rozumieć zgodnie z własnym znaczeniem słów, rozważanym w tekście i kontekście; jeżeli pozostaje ono wątpliwe i niejasne, należy odwołać się do miejsc paralelnych, gdy takie są, do celu i okoliczności ustawy oraz do zamysłu ustawodawcy. Kan. 18 - Ustawy, które ustanawiają kary albo ograniczają swobodne wykonywanie uprawnień, albo zawierają wyjątek od ustawy, podlegają ścisłej interpretacji.
+**§ 2.** W przypadku, gdy przepis prawa kanonicznego wydaje się być sprzeczny z Prawem Bożym lub Naturalnym, należy stosować zasadę wyrażoną w kan. 8 § 2. Ustawy partykularne są promulgowane w sposób określony przez ustawodawcę ( na stronie internetowej Kościoła Królestwa Niebieskiego i Kościoła Domowego oraz dostępne papierowo na prośbę ) i zaczynają obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin; Kan. 9 - Ustawy odnoszą się do przyszłości, a nie do przeszłości, chyba że zastrzega się w nich wprost o wydarzeniach przeszłych. Kan. 10 - Jedynie te ustawy należy uznać za unieważniające albo uniezdalniające, które wyraźnie postanawiają, że czynność jest nieważna albo osoba niezdolna; Kan. 14 - W razie wątpliwości prawnej ustawy nie obowiązują, nawet unieważniające i uniezdalniające; natomiast w razie wątpliwości faktycznej ordynariusze mogą od nich dyspensować, byleby – gdy idzie o dyspensę zastrzeżoną – zwykła jej udzielać władza, dla której jest zarezerwowana. Kan. 16 - § 1. W sposób autentyczny ustawy interpretuje ustawodawca oraz ten, komu ustawodawca zlecił władzę autentycznego interpretowania. § 2. Interpretacja autentyczna przedłożona w formie ustawy ( takiej jak ten Kodeks ) ma taką samą moc co ustawa i wymaga promulgacji ( ogłoszenia w terytorium rodowym lub powszechnie na stronie internetowej ); jeżeli tylko wyjaśnia słowa ustawy same w sobie pewne, wtedy działa wstecz, a kodeks ten właśnie wyjaśnia KPK a więc działa wstecz); gdy ustawę zawęża lub poszerza albo tłumaczy ustawę wątpliwą, nie działa wstecz. Kan. 17 - Ustawy kościelne należy rozumieć zgodnie z własnym znaczeniem słów, rozważanym w tekście i kontekście; jeżeli pozostaje ono wątpliwe i niejasne, należy odwołać się do miejsc paralelnych, gdy takie są, do celu i okoliczności ustawy oraz do zamysłu ustawodawcy. Kan. 18 - Ustawy, które ustanawiają kary albo ograniczają swobodne wykonywanie uprawnień, albo zawierają wyjątek od ustawy, podlegają ścisłej interpretacji.
 
 **§ 3.** Kościół Domowy, jako wspólnota wiernych korzystająca z pełni praw wynikających z Prawa Bożego, Naturalnego i praw człowieka, ma prawo:
 
@@ -561,7 +558,7 @@ Autonomia Kościoła Domowego jest zawsze ograniczona Prawem Bożym, Prawem Natu
 
 ---
 
-## UZUPEŁNIENIE PREAMBUŁY II — DOBROWOLNE PRZYJĘCIE NORM KOŚCIOŁA POWSZECHNEGO
+## UZUPEŁNIENIE PREAMBUŁY I — DOBROWOLNE PRZYJĘCIE NORM KOŚCIOŁA POWSZECHNEGO
 ### *Additamentum ad Preambulum Libri I — De Voluntaria Acceptatione Normarum Ecclesiae Universalis*
 
 ---
@@ -638,7 +635,9 @@ Autonomia Kościoła Domowego jest zawsze ograniczona Prawem Bożym, Prawem Natu
 
 2° Małżonkę jako Współszafarkę Łaski i Nadzorującą;
 
-3° Triarchię Domową działającą kolegialnie — akt dokonywany przez Triarchię Domową działającą kolegialnie jest aktem pierwszego z równych gremium; wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego potwierdzają go własną wolą na zasadzie równości (por. § 3 — odnawialność aktu przez kolejne pokolenia i nowych członków);
+3° Potomków
+
+4° Całą Triarchię Domową działającą kolegialnie — akt dokonywany przez Triarchię Domową działającą kolegialnie jest aktem pierwszego z równych gremium; wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego potwierdzają go własną wolą na zasadzie równości (por. § 3 — odnawialność aktu przez kolejne pokolenia i nowych członków);
 
 — w obecności wspólnoty Kościoła Domowego i wobec Boga.
 
@@ -670,7 +669,7 @@ Autonomia Kościoła Domowego jest zawsze ograniczona Prawem Bożym, Prawem Natu
 
 6° **pokoju** — dążenia do jedności bez przemocy i bez przymusu.
 
-**Kan. 1y § 1.** Niniejszy Kanon, jako akt dobrowolnego przyjęcia norm Kościoła Powszechnego i prawa partykularnego Kościoła Domowego, jest wiążący dla wszystkich członków wspólnoty Kościoła Domowego od momentu jego ogłoszenia.
+**Kan. 1y § 1.** Niniejszy Kanon, jako akt dobrowolnego przyjęcia norm Kościoła Powszechnego i prawa partykularnego Kościoła Domowego, jest wiążący dla wszystkich członków wspólnoty Kościoła Domowego od momentu jego ogłoszenia a jeżeli dotyczy zdarzeń przeszłych to przez autentyczną interpretację KPK dotyczy także zdarzeń przeszłych.
 
 **§ 2.** Żaden członek Kościoła Domowego nie może być zmuszony do przyjęcia niniejszego Kanonu wbrew swojemu sumieniu. Członek, który nie przyjmuje niniejszego Kanonu, ma prawo opuścić wspólnotę bez ponoszenia jakichkolwiek konsekwencji.
 
@@ -707,7 +706,7 @@ Autonomia Kościoła Domowego jest zawsze ograniczona Prawem Bożym, Prawem Natu
 
 a) osoba powołana bezpośrednio przez Boga do służby duchowej we wspólnocie wiernych;
 
-b) jej powołanie wynika z sakramentu chrztu, bierzmowania i powszechnego kapłaństwa wiernych (kan. 204 § 1, 835 § 4 KPK);
+b) jej powołanie wynika z sakramentu chrztu, bierzmowania, powszechnego kapłaństwa wiernych (kan. 204 § 1, 835 § 4 KPK), nadania z woli Boga;
 
 c) nie wymaga dla swojej ważności aktu konsekracji, święceń ani nominacji przez władzę instytucjonalną;
 
@@ -719,7 +718,7 @@ f) przykładem jest Święty Paweł, powołany bezpośrednio przez Chrystusa bez
 
 **2° Duchowny konsekrowany** (*clericus consecratus*):
 
-a) osoba, która otrzymała sakrament święceń (diakonat, prezbiterat lub biskupstwo) z rąk biskupa konsekrowanego w sukcesji apostolskiej (kan. 1008-1009, 1012-1014 KPK);
+a) osoba, która otrzymała święcenia (diakonat, prezbiterat lub biskupstwo) z rąk biskupa konsekrowanego w sukcesji apostolskiej (kan. 1008-1009, 1012-1014 KPK);
 
 b) jej posługa wynika z aktu konsekracji instytucjonalnej i włączenia w hierarchię Kościoła Powszechnego;
 
@@ -781,9 +780,11 @@ e) jest zobowiązany do zachowania przepisów kan. 273-289 KPK.
 
 7° dzieła miłosierdzia i ewangelizacji.
 
+8° sprawowanie sakramentów z braku możliwości sprawowania ich w Kościele parafialnym lub diecezjalnym
+
 **§ 3.** Kapłan konsekrowany, który jednocześnie jest członkiem Kościoła Domowego, może sprawować w nim wszystkie funkcje kapłańskie wynikające z jego święceń, z zachowaniem przepisów niniejszego Kanonu i prawa powszechnego.
 
-**§ 4.** Kapłaństwo z woli Bożej nie zastępuje kapłaństwa konsekrowanego w zakresie sprawowania sakramentów zastrzeżonych kapłanom wyświęconym. Oba wymiary kapłaństwa są komplementarne i wzajemnie się uzupełniają w życiu Kościoła.
+**§ 4.** Kapłaństwo z woli Bożej może koncelebrować działania kapłaństwa konsekrowanego w zakresie sprawowania sakramentów zastrzeżonych kapłanom wyświęconym, a także wykonywać wszystkie działania kapłana w zakresie sprawowania sakramentów nie zastrzeżonych kapłanom konsekrowanym. Oba wymiary kapłaństwa są komplementarne i wzajemnie się uzupełniają w życiu Kościoła.
 
 ---
 
@@ -799,19 +800,19 @@ c) nie wymaga dla swojej ważności aktu konsekracji biskupiej ani mandatu papie
 
 d) sprawuje władzę pasterską (nauczania, uświęcania i kierowania) w zakresie wspólnoty, która jest jej powierzona przez Boga;
 
-e) jej władza jest potwierdzana przez wspólnotę, owoce duchowe i zgodność z Prawem Bożym;
+e) jej władza jest potwierdzana przez wspólnotę, owoce duchowe i w zgodności z Prawem Bożym;
 
 f) w Kościele Domowym tytuł ten przysługuje biskupowi tytularnemu subdiecezjalnemu, hierarsze subdiecezji, hierarsze związku subdiecezjatów oraz Głowie Rodu sprawującej funkcję pasterską (patriarchę i patriarchat ustanawia bowiem Biskup Rzymu, natomiast subdiecezję — hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych);
 
 g) przykładem jest Święty Paweł, ustanowiony Apostołem i pasterzem bezpośrednio przez Chrystusa, bez mandatu ówczesnej struktury kościelnej (Ga 1,1; Dz 9,15-16);
 
-h) biskup z woli Bożej może, ale nie musi, dążyć do przyjęcia przez Biskupa Rzymskiego i otrzymania święceń biskupich — jest to jego prawo, nie obowiązek.
+h) biskup z woli Bożej może, ze względu na nadanie z Woli Bożej i zgodnie z prawe male nie musi, dążyć do otrzymania dekretu przyjęcia przez Biskupa Rzymskiego i otrzymania święceń biskupich, ponieważ przyjęcie w zgodności z prawem jest domyślne — jest to jego prawo, nie obowiązek - a przez to przyjęcie uważa się za dokonane jeżeli nie znaleziono przyczyny niezgodności z prawem Bożym. Zastrzeżonym jest także fakt, iż ze względu na błąd lub ignorancję w określonej czynności uważa się, iż fakt ten nie miał miesjca .
 
-**2° Biskup konsekrowany przyjęty wolą Biskupa Rzymskiego** (*episcopus consecratus acceptus voluntate Romani Pontificis*):
+**2° Biskup konsekrowany przyjęty z mianowania Biskupa Rzymskiego** (*episcopus consecratus, ex designatione Romani Pontificis*):
 
 a) osoba, która otrzymała sakrament święceń w stopniu biskupstwa z rąk biskupa konsekrowanego w sukcesji apostolskiej (kan. 1012-1014 KPK);
 
-b) została mianowana lub zatwierdzona przez Biskupa Rzymskiego (kan. 377 § 1 KPK);
+b) została mianowana przez Biskupa Rzymskiego (kan. 377 § 1 KPK);
 
 c) posiada pełnię sakramentu święceń i władzę jurysdykcji w zakresie określonym mandatem papieskim;
 
@@ -997,7 +998,7 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 
 **§ 3.** Przepisy kanonu, które ograniczają wolną wolę wiernego, winny być interpretowane ściśle (kan. 18 KPK) i nie mogą być rozciągane poza przypadki wyraźnie w nich wymienione (kan. 36 § 2 KPK).
 
-**§ 4.** Zasada „Tród i praca to świętość” (*sanctitas gregis et operis*): wolna wola przekazana człowiekowi przez Boga realizuje się w szczególny sposób przez **wolny wybór pracy**; praca jest pierwszym powołaniem człowieka (Rdz 2,15: „aby ziemię uprawiał i jej strzegł”) i stanem łaski, w którym człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Stąd praca mimowolna, niewolnicza lub wyzyskowa jest sprzeczna z Prawem Naturalnym i Bożym oraz z niniejszym kanonem; wolność osoby przejawia się także w prawie do uczciwej pracy zgodnej z powołaniem i stanem zdrowia oraz w prawie do owoców własnego trudu.
+**§ 4.** Zasada „Trud i praca to świętość” (*sanctitas gregis et operis*): wolna wola przekazana człowiekowi przez Boga realizuje się w szczególny sposób przez **wolny wybór pracy**; praca jest pierwszym powołaniem człowieka (Rdz 2,15: „aby ziemię uprawiał i jej strzegł”) i stanem łaski, w którym człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Stąd praca mimowolna, niewolnicza lub wyzyskowa jest sprzeczna z Prawem Naturalnym i Bożym oraz z niniejszym kanonem; wolność osoby przejawia się także w prawie do uczciwej pracy zgodnej z powołaniem i stanem zdrowia oraz w prawie do owoców własnego trudu.
 
 ---
 
@@ -1011,9 +1012,9 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 
 4° **Odpowiedzialność** — każdy powołany, niezależnie od źródła powołania, jest odpowiedzialny przed Bogiem za swoje działania i przed wspólnotą za swoje posługiwanie.
 
-**§ 2.** Kościół Domowy nie kwestionuje ważności ani godności święceń kapłańskich i biskupich udzielanych w Kościele Powszechnym. Uznaje jednak, że:
+**§ 2.** Kościół Domowy nie kwestionuje ważności ani godności święceń biskupstwa, prezbiteratu ani diakonatu udzielanych w Kościele Powszechnym. Uznaje jednak, że:
 
-1° święcenia nie są jedynym źródłem władzy duchowej;
+1° święcenia nie są jedynym źródłem władzy duchowej a może nim być uświęcenie z nadania Bożego;
 
 2° powszechne kapłaństwo wiernych jest źródłem władzy duchowej równie pierwotnym i fundamentalnym;
 
@@ -1025,7 +1026,7 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 
 1° władza Biskupa Rzymskiego jest służbą, nie panowaniem (Mt 20,25-28);
 
-2° prymat nie oznacza nieomylności w każdej sprawie;
+2° prymat nie oznacza nieomylności w każdej sprawie poza sprawami dogmatycznymi;
 
 3° wierni mają prawo przedstawiać pasterzom swoje potrzeby i życzenia (kan. 212 § 2 KPK);
 
@@ -1033,7 +1034,7 @@ e) jest zobowiązana do zachowania przepisów kan. 375-411 KPK.
 
 5° żaden akt władzy kościelnej nie może naruszać Prawa Bożego ani przyrodzonej godności osoby.
 
-**§ 4.** Rozeznanie woli Bożej w sprawach trodu i pracy — owocu wysiłku rąk, hodowli, pszczelarstwa i rzemiosła — zaczyna się w Triarchii Domowej (kan. 26 Księgi II), która jako pierwsza instytucja domowa rozeznaje, czy powierzona wiernemu praca służy dobru wspólnemu i zbawieniu; wola Boża nigdy nie sprzeciwia się godności pracującego ani nietykalności owocu jego trudu.
+**§ 4.** Rozeznanie woli Bożej w sprawach trudu i pracy — owocu wysiłku rąk, hodowli, pszczelarstwa i rzemiosła — zaczyna się w Triarchii Domowej (kan. 26 Księgi II), która jako pierwsza instytucja domowa rozeznaje, czy powierzona wiernemu praca służy dobru wspólnemu i zbawieniu; wola Boża nigdy nie sprzeciwia się godności pracującego ani nietykalności owocu jego trudu.
 
 ---
 
@@ -1058,11 +1059,11 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 2° objęcie patriarchatu wolą Biskupa Rzymskiego;
 
-3° ustanowienie subdiecezji z hierarchą biskupa wolą hierarchy subdiecezji macierzystej;
+3° ustanowienie subdiecezji z hierarchą biskupa tytularnego wolą hierarchy subdiecezji macierzystej;
 
-4° przewodniczenie związkowi subdiecezjatów z woli wyboru synodu biskupów subdiecezjalnych przez hierarchę związku subdiecezjatów, wybranego z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu;
+4° przewodniczenie związkowi subdiecezjatów z woli wyboru synodu biskupów tytularnych subdiecezjalnych przez hierarchę związku subdiecezjatów, wybranego z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu;
 
-5° tytuł biskupa z woli Bożej i z zachowaniem prawa Bożego domyślnie przyjętego przez Biskupa Rzymskiego;
+5° tytuł biskupa tytularnego z woli Bożej i z zachowaniem prawa Bożego domyślnie przyjętego przez Biskupa Rzymskiego przez komunię i zgodność z prawem;
 
 6° tytuł biskupa nieprzyjętego przez Biskupa Rzymskiego ze względu udowodniony brak zachowania prawa;
 
@@ -1072,11 +1073,11 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 **§ 3.** Każda z powyższych form posiada własną naturę, zakres władzy, obowiązki i prawa. Żadna z nich nie jest z natury wyższa ani niższa od innej w sensie duchowym, lecz różnią się zakresem jurysdykcji, formą ustanowienia i relacją do struktury Kościoła Powszechnego.
 
-**§ 4.** Zasada nadrzędna dla wszystkich form: *przyjętym do Kościoła katolickiego jest ten, kto został ochrzczony i pozostaje w komunii z Kościołem katolickim, Stolicą Apostolską i Biskupem Rzymu* (Zasada Komunii; por. kan. 9, kan. 11, kan. 204 § 1, kan. 205 § 1 KPK 1983). Skutkiem tej zasady jest to, że każdy kościół domowy i jego biskup subdiecezjalny — będący ochrzczonym i pozostającym w komunii — jest **z mocy prawa (domyślnie) przyjęty** przez Biskupa Rzymu, Stolicę Apostolską i Kościół Katolicki na mocy KPK przyjętego przez św. Jana Pawła II w 1983 roku; aktu tego obecny Biskup Rzymu nie może obejść, tym bardziej nie będąc Świętym. Wierni zaś danej subdiecezji, przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, o ile są ochrzczeni i trwają w komunii, korzystają z tego samego domyślnego przyjęcia — akt domowy ma charakter stwierdzający (*declaratorius*), nie konstytuujący.
+**§ 4.** Zasada nadrzędna dla wszystkich form: *przyjętym do Kościoła katolickiego jest ten, kto został ochrzczony i pozostaje w komunii z Kościołem katolickim, Stolicą Apostolską i Biskupem Rzymu* (Zasada Komunii; por. kan. 9, kan. 11, kan. 204 § 1, kan. 205 § 1 KPK 1983). Skutkiem tej zasady jest to, że każdy kościół domowy i jego biskup tytularnysubdiecezjalny — będący ochrzczonym i pozostającym w komunii — jest **z mocy prawa domyślnie przyjęty** przez Biskupa Rzymu, Stolicę Apostolską i Kościół Katolicki na mocy KPK przyjętego przez św. Jana Pawła II w 1983 roku. Wierni zaś danej subdiecezji, przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, o ile są ochrzczeni i trwają w komunii, korzystają z tego samego domyślnego przyjęcia — akt domowy ma charakter stwierdzający (*declaratorius*), nie konstytuujący.
 
 **§ 5.** Odmowa uznania domyślnego przyjęcia wobec osoby ochrzczonej i trwającej w komunii byłaby sprzeczna zarówno z prawem powszechnym (KPK 1983), jak i z domową zasadą gościnności „gość w dom, Bóg w dom”; dlatego kategorie „przyjęty” i „nieprzyjęty”, o których mowa w niniejszej Księdze oraz w Księdze III (kan. 117 § 2 i § 2a), rozumie się wyłącznie jako opis potwierdzenia formalno-instytucjonalnego (pisemnego), nigdy jako opis zerwanej lub nieistniejącej komunii.
 
-**§ 6.** Zasada „Tród i praca to świętość” (*sanctitas gregis et operis*): władza pasterska Triarchii Domowej, sprawowana w wszystkich formach wymienionych w § 2, obejmuje **pieczę nad świętością trodu i pracy** wiernych — zarówno przyjętych wolą Triarchii Domowej na stałe, jak i przyjętych na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II). Do tej pieczy należy: strzeżenie nietykalności owocu pracy, zakaz wyzysku, błogosławienie narzędzi, zwierząt, pasieki i plonów oraz czuwanie, by praca służyła dobru wspólnemu i zbawieniu dusz (*salus animarum suprema lex*).
+**§ 6.** Zasada „Trud i praca to świętość” (*sanctitas gregis et operis*): władza pasterska Triarchii Domowej, sprawowana w wszystkich formach wymienionych w § 2, obejmuje **pieczę nad świętością trudu i pracy** wiernych — zarówno przyjętych wolą Triarchii Domowej na stałe, jak i przyjętych na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2 Księgi II). Do tej pieczy należy: strzeżenie nietykalności owocu pracy, zakaz wyzysku, błogosławienie narzędzi, zwierząt, pasieki i plonów oraz czuwanie, by praca służyła dobru wspólnemu i zbawieniu dusz (*salus animarum suprema lex*).
 
 ---
 
@@ -1104,7 +1105,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 4° kanonicznego objęcia diecezji (kan. 382 KPK).
 
-**§ 4.** Biskup diecezjalny ustanowiony wolą Biskupa Rzymskiego posiada pełnię sakramentu święceń i pełnię władzy jurysdykcji w swojej diecezji, z wyłączeniem spraw zarezerwowanych najwyższej lub innej władzy kościelnej (kan. 381 § 1 KPK).
+**§ 4.** Biskup diecezjalny ustanowiony wolą Biskupa Rzymskiego posiada pełnię święceń i pełnię władzy jurysdykcji w swojej diecezji, z wyłączeniem spraw zarezerwowanych najwyższej lub innej władzy kościelnej (kan. 381 § 1 KPK).
 
 ---
 
@@ -1138,7 +1139,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 ---
 
-**Kan. 1zn § 1.** **Przewodniczenie związkowi subdiecezjatów z woli wyboru synodu biskupów subdiecezjalnych** następuje, gdy synod biskupów subdiecezjalnych — zgromadzenie hierarchów poszczególnych subdiecezji wchodzących w skład związku subdiecezjatów — dokonuje wyboru hierarchy związku subdiecezjatów spośród swoich członków. Związkiem subdiecezjatów kieruje zatem hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, a nie patriarcha ustanowiony wolą Biskupa Rzymskiego.
+**Kan. 1zn § 1.** **Przewodniczenie związkowi subdiecezjatów z woli wyboru synodu biskupów tytularnych subdiecezjalnych** następuje, gdy synod biskupów tytularnych subdiecezjalnych — zgromadzenie hierarchów poszczególnych subdiecezji wchodzących w skład związku subdiecezjatów — dokonuje wyboru hierarchy związku subdiecezjatów spośród swoich członków. Związkiem subdiecezjatów kieruje zatem hierarcha związku subdiecezjatów wybrany spośród synodu biskupów tytularnych subdiecezjalnych, a nie patriarcha ustanowiony wolą Biskupa Rzymskiego.
 
 **§ 2.** Wybór hierarchy związku subdiecezjatów przez synod biskupów subdiecezjalnych:
 
@@ -1152,11 +1153,11 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 5° może być dokonany na czas określony lub nieokreślony, zgodnie ze statutem synodu;
 
-6° przy pierwszym ukonstytuowaniu się związku subdiecezjatów dokonuje się z pominięciem pierwszego kandydata z urzędu, albowiem pierwszym hierarchą związku subdiecezjatów jest z samego prawa pierwszy hierarcha pierwszego subdiecezjatu; synod wybiera więc kolejnego hierarchy związku subdiecezjatów spośród biskupów subdiecezjalnych.
+6° przy pierwszym ukonstytuowaniu się związku subdiecezjatów dokonuje się z pominięciem pierwszego kandydata z urzędu, albowiem pierwszym hierarchą związku subdiecezjatów jest z samego prawa pierwszy hierarcha pierwszego subdiecezjatu; synod wybiera więc kolejnego hierarchy związku subdiecezjatów spośród biskupów tytlarnych subdiecezjalnych.
 
 **§ 3.** Hierarcha związku subdiecezjatów wybrany przez synod biskupów subdiecezjalnych:
 
-1° jest pierwszym wśród równych (*primus inter pares*) wśród biskupów tytularnych subdiecezjalnych — z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu;
+1° jest pierwszym wśród równych (*primus inter pares*) wśród biskupów tytularnych subdiecezjalnych ;
 
 2° kieruje związkiem subdiecezjatów i koordynuje działalność subdiecezji wchodzących w jego skład;
 
@@ -1170,21 +1171,21 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 **§ 4.** Urzędowi hierarchy związku subdiecezjatów nie przysługuje tytuł patriarchy, albowiem patriarchat i patriarchę ustanawia wyłącznie Biskup Rzymu; hierarchę związku subdiecezjatów ustanawia natomiast wybór synodu biskupów subdiecezjalnych. Tytułu patriarchy nie można przypisywać strukturze, której hierarcha pochodzi z wyboru synodu, a nie z mandatu papieskiego.
 
-**§ 5.** W przypadku, gdy synod biskupów subdiecezjalnych wybierze na hierarchy związku subdiecezjatów biskupa tytularnego subdiecezjalnego, który nie został przyjęty przez Biskupa Rzymskiego, wybór ten jest ważny w zakresie wewnętrznym związku subdiecezjatów, z zachowaniem przepisów Kan. 1zp niniejszego Kanonu.
+**§ 5.** W przypadku, gdy synod biskupów subdiecezjalnych wybierze na hierarchy związku subdiecezjatów biskupa tytularnego subdiecezjalnego, który został odrzucony w związku z  niezgodnością z prawem przez Biskupa Rzymskiego, wybór ten jest ważny w zakresie wewnętrznym związku subdiecezjatów, z zachowaniem przepisów Kan. 1zp niniejszego Kanonu o ile odrzucenie to nie bylo ignorancją, błędem, manipulacją lub oszóstwem.
 
 ---
 
-**Kan. 1zo § 1.** **Tytuł biskupa przyjętego przez Biskupa Rzymskiego** przysługuje osobie, która:
+**Kan. 1zo § 1.** **Tytuł biskupa nadanego przez Biskupa Rzymskiego** przysługuje osobie, która:
 
 1° otrzymała święcenia biskupie z mandatem papieskim (kan. 1013 KPK);
 
-2° została mianowana lub zatwierdzona przez Biskupa Rzymskiego na określony urząd biskupi (kan. 377 § 1 KPK);
+2° została mianowana przez Biskupa Rzymskiego na określony urząd biskupi (kan. 377 § 1 KPK);
 
 3° pozostaje w pełnej wspólnocie hierarchicznej z Biskupem Rzymskim i Kolegium Biskupów (kan. 336 KPK);
 
 4° została wpisana do rocznika papieskiego (*Annuario Pontificio*) lub innego oficjalnego rejestru Stolicy Apostolskiej.
 
-**§ 2.** Biskup przyjęty przez Biskupa Rzymskiego:
+**§ 2.** Biskup z mianowania przez Biskupa Rzymskiego:
 
 1° posiada pełnię sakramentu święceń w stopniu biskupim;
 
@@ -1204,17 +1205,17 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 ---
 
-**Kan. 1zp § 1.** **Tytuł biskupa nieprzyjętego przez Biskupa Rzymskiego** przysługuje osobie, która:
+**Kan. 1zp § 1.** **Tytuł biskupa tytularnego domyślnie przyjętego przez Biskupa Rzymskiego** przysługuje osobie, która:
 
-1° została powołana do posługi biskupiej przez Boga, uświęcona Duchem Świętym, z natury rzeczy, z prawa naturalnego rodziny i z woli wspólnoty wiernych;
+1° została powołana do posługi biskupiej z nadania Boga, natchniona Duchem Świętym, z natury rzeczy, z prawa naturalnego rodziny i z woli wspólnoty wiernych;
 
-2° sprawuje władzę pasterską nad określoną wspólnotą (Kościołem Domowym, subdiecezją domową, Rodem);
+2° sprawuje władzę pasterską nad określoną wspólnotą (Kościołem Domowym, subdiecezją domową, Rodem, Królestwem Niebieskim);
 
 3° nie otrzymała mandatu papieskiego lub nie została wpisana do oficjalnych rejestrów Stolicy Apostolskiej;
 
-4° pozostajenw jedności z Kościołem. Katolckim, choć w prawie pełnej formie, jednak ze względu na oddanie się w pełni pod zwierzchnictwo Stolicy Apostolskiej i jest kompetentną władzą Kościoła Domowego subdiecezjalnego może używać sformułowania iż jest biskupem katolickim zgodnie z kan. 216 będąc oczekującym na przyjęcie oraz włada. subdiecezją katolicką oczekującą na przyjęcie gdyż do używania nazwy katolickiem jest uprawniony ten, ktory ma zezwolenie od kompetentnych wladz kościoła, także kościoła akatolckiego. 
+4° pozostajenw jedności z Kościołem. Katolckim, w pełnej komunii;
 
-**§ 2.** Biskup nieprzyjęty przez Biskupa Rzymskiego:
+**§ 2.** Biskup odrzuconego przez Biskupa Rzymskiego:
 
 1° sprawuje władzę pasterską w zakresie wspólnoty, która go powołała z Bożego nadania ;
 
@@ -1224,27 +1225,11 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 4° nie podlega dyscyplinie kościelnej określonej w Kodeksie Prawa Kanonicznego, chyba że dobrowolnie ją przyjął;
 
-5° nie może sprawować sakramentów zastrzeżonych biskupom wyświęconym, chyba że posiada ważne święcenia biskupie i jest konsegrowany czyli uświęcony przez Ducha Świętego;
+5° nie może sprawować sakramentów zastrzeżonych biskupom wyświęconym, chyba że posiada ważne święcenia biskupie;
 
 6° ma prawo używania tytułu biskupiego w zakresie swojej wspólnoty.
 
-**§ 3.** Tytuł biskupa nieprzyjętego przez Biskupa Rzymskiego:
-
-1° jest ważny w zakresie wewnętrznym wspólnoty, która go nadała;
-
-2° wynika z prawa naturalnego rodziny, powszechnego kapłaństwa wiernych lub bezpośredniego powołania Bożego;
-
-3° nie jest tożsamy z tytułem biskupa w rozumieniu kan. 376 KPK;
-
-4° nie daje prawa do sprawowania funkcji zastrzeżonych biskupom diecezjalnym w Kościele Powszechnym;
-
-5° jest uznawany przez Kościół Domowy jako wyraz woli Bożej i prawa naturalnego.
-
-6° korzysta z pełnej godności przynależnej biskupom akatolickim.
-
-7° ma prawo nazywać siebie i swoją subdiecezję biskupem katolickim i subdiecezją katolcką ze względu na pełne oddanie sę Biskupowi Rzymu i Stolicy apostolskiej jako katolik w ramach posiadania kompetentnej władzy nad sobą, otrzymanym. od Boga tytulem. biskupa, będąc uświęconym. Duchem. Świętym i bedąc kompetentną władzą nad swoją subdiecezją obejmującą katolików. 
-
-**§ 4.** Biskup nieprzyjęty przez Biskupa Rzymskiego ma prawo:
+**§ 4.** Biskup odrzucony przez Biskupa Rzymskiego ma prawo:
 
 1° dążyć do przyjęcia przez Biskupa Rzymskiego i otrzymania święceń biskupich;
 
@@ -1258,7 +1243,7 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 6° zakładać nowe wspólnoty i subdiecezje domowe.
 
-**§ 5.** Biskup nieprzyjęty przez Biskupa Rzymskiego nie może:
+**§ 5.** Biskup odrzucony przez Biskupa Rzymskiego nie może:
 
 1° sprawować sakramentów zastrzeżonych biskupom wyświęconym (święcenia, bierzmowanie jako szafarz zwyczajny, konsekracja kościołów), chyba że posiada ważne święcenia biskupie;
 
@@ -1269,8 +1254,6 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 4° zmuszać kogokolwiek do uznania jego władzy;
 
 5° twierdzić, że jest jedynym prawdziwym biskupem lub że jego wspólnota jest jedynym prawdziwym Kościołem.
-
-**§ 6.** Wyjaśnienie terminu „nieprzyjęty” w świetle Zasady Komunii: „nieprzyjęty przez Biskupa Rzymskiego” znaczy wyłącznie „niesformalizowany instytucjonalnie (brak pisemnego aktu)”, a nie „odrzucony” ani „pozbawiony komunii”. Osoba ochrzczona i trwająca w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu — także biskup subdiecezjalny oraz wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego — jest **z mocy prawa (domyślnie) przyjęta** do Kościoła Katolickiego na mocy KPK 1983 ustanowionego przez św. Jana Pawła II; przyjęcia tego obecny Biskup Rzymu nie może prawnie obejść, tym bardziej nie będąc Świętym. Kategoria „oczekiwania na przyjęcie” oznacza zatem oczekiwanie na stwierdzenie formalne, nie na samo bycie przyjętym.
 
 ---
 
@@ -1362,29 +1345,31 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 6° wpisanie subdiecezji do Księgi Subdiecezji Domowych.
 
+7° prawo przekształcenia budynku nie będącego budynkiem kościoła, stojącego na Świętej ziemi w budynek będący kościołem
+
 **§ 4.** Subdiecezja powołana wolą biskupa tytularnego Kościoła Domowego:
 
 1° posiada osobowość prawną na mocy prawa naturalnego;
 
 2° jest autonomiczna w sprawach wewnętrznych;
 
-3° może, ale nie musi, dążyć do uznania przez biskupa diecezjalnego lub Biskupa Rzymskiego;
+3° może, ale nie musi, dążyć do uznania przez biskupa diecezjalnego lub Biskupa Rzymskiego gdyż jest domyślnie przyjęty z racji chrztu i komunii;
 
 4° ma prawo do własnych obrządków, tradycji i form kultu;
 
-5° ma prawo do zakładania kolejnych subdiecezji i Kościołów Domowych;
+5° ma prawo do zakładania kolejnych partykularnych kościołów subdiecezjalnych Kościołów Domowych;
 
-6° podlega wyłącznie władzy biskupa tytularnego, który ją powołał, lub jego następcy.
+6° podlega jako erygującemu władzy biskupa tytularnego, który ją powołał, lub jego następcy.
 
 **§ 5.** Biskup tytularny Kościoła Domowego, powołując subdiecezję, ma obowiązek:
 
-1° zapewnić nowej wspólnocie dostęp do sakramentów w Kościele Powszechnym;
+1° zapewnić nowej wspólnocie dostęp do sakramentów w Kościele Powszechnym a w razie niemożności w Kościele Domowym;
 
-2° nie izolować wspólnoty od Kościoła Powszechnego;
+2° nie izolować wspólnoty od Kościoła Powszechnego, jeżeli ta nie nadużywa uprawnień;
 
 3° dbać o formację duchową i intelektualną członków wspólnoty;
 
-4° chronić wspólnotę przed nadużyciami i manipulacją;
+4° chronić wspólnotę przed nadużyciami i manipulacją, gdyż te, - jak zapisano w tym kodeksie - nie niosą skutków prawnych ani faktycznych;
 
 5° szanować wolność sumienia każdego członka wspólnoty;
 
@@ -1406,13 +1391,13 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 
 6° **Zasada ochrony najsłabszych** — w przypadku konfliktu, rozstrzyga się na korzyść strony słabszej.
 
-**§ 2.** Biskup przyjęty przez Biskupa Rzymskiego i biskup nieprzyjęty przez Biskupa Rzymskiego mogą współistnieć w tej samej przestrzeni kościelnej, z zachowaniem wzajemnego szacunku i poszanowania odrębnych kompetencji.
+**§ 2.** Biskup tytularny domyślnie przyjęty przez Biskupa Rzymskiego i biskup odrzucony przez Biskupa Rzymskiego mogą współistnieć w tej samej przestrzeni kościelnej, z zachowaniem wzajemnego szacunku i poszanowania odrębnych kompetencji.
 
-**§ 3.** W przypadku konfliktu między biskupem przyjętym a nieprzyjętym przez Biskupa Rzymskiego, rozstrzygają:
+**§ 3.** W przypadku konfliktu między biskupem przyjętym a odrzuconym przez Biskupa Rzymskiego, rozstrzygają:
 
 1° najpierw dialog i mediacja;
 
-2° następnie prawo naturalne i Prawa Wszelakie;
+2° następnie prawo Boże, naturalne i Prawa Wszelakie;
 
 3° w ostateczności — Biskup Rzymski lub wyznaczony przez niego delegat, jeśli obie strony wyrażają na to zgodę.
 
@@ -1431,24 +1416,24 @@ Wszelkie wcześniejsze przepisy niniejszego Kanonu interpretuje się w świetle 
 ---
 
 
-**Kan. 1zt ** Zgodnie z KKKW Kan. 27 i 28  Wspólnota chrześścijan powiązana hierarchią według prawa,którą jako sui iuris wyrańnie lub milcząco uznała najwyższa władza Kośścioła, w tym Kodeksie jest nazywana Kośściołem sui iuris. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okolicznośści historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właśściwy dla każdego Kośścioła sui iuris.Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej.
+**Kan. 1zt ** Zgodnie z KKKW Kan. 27 i 28  Wspólnota chrześcijan powiązana hierarchią według prawa,którą jako sui iuris wyraźnie lub milcząco uznała najwyższa władza Kościoła, w tym Kodeksie jest nazywana Kościołem sui iuris, Kościołem Domowym, Kościołem Królestwa Niebieskiego zamiennie. Obrządek jest dziedzictwem liturgicznym, teologicznym,duchowym i dyscyplinarnym wyodrębnionym przez kulturę i okoliczności historyczne narodów i rodzin, wyrażającym sposób przeżywania wiary, właściwy dla każdego Kościoła sui iuris. Obrządkami, o których jest mowa w Kodeksie, o ile nie stwierdzi się czego innego, są te, które pochodzą z tradycji domowej, a w niniejszym kodeksie jest to obrządek Pawłowy, Marii Magdaleny, Tomaszowy.
 
 ---
 
-**Kan. 1zu ** Analogicznie do Kan. 32 KKKW Nikt nie może bez zgody Stolicy Apostolskiej ważnie przejśść do innego Kośścioła sui iuris jednakże jeśli chodzi o chrześścijanina eparchii Kościoła sui iuris Domowego, przebywanie w dwóch kościołach sui iuris wynika z natury rzeczy i prawa Bożego prawa kościola domowego-pierwotnego istniejącego przed kościolem. katolickim i domniemywa się, iż Stolica Apostolska wyraża na to zgodę bez konieczności potwierdzania tego faktu na piśmie.
+**Kan. 1zu ** Analogicznie do Kan. 32 KKKW Nikt nie może bez zgody Stolicy Apostolskiej ważnie przejść do innego Kościoła sui iuris jednakże jeśli chodzi o chrześcijanina subdiecezji Kościoła sui iuris Domowego, przebywanie w dwóch kościołach sui iuris wynika z natury rzeczy i prawa Bożego prawa kościola domowego-pierwotnego istniejącego przed kościolem katolickim i domniemywa się, iż Stolica Apostolska wyraża na to zgodę bez konieczności potwierdzania tego faktu na piśmie.
 
 ---
 
-**Kan. 1zw ** Biskup subdiecezjalny konsekrowany wolą Ducha Świętego i za zgoda Ojca z Nieba przy obserwacji Syna Bożego ma pierwotne i uświęcone prawo przebywać wśród odrzuconych, wykluczonych, grzeszników, siejących zgorszenie w celu ich nawrócenia, sklonienia do pokuty, rozgrzeszenia. biskup subdiecezjalny z pelną świadomością może prowadzić dialog międzywyznaniowy z ludem Bożym zarówno wierzącym jak i nie wierzącym, chrześcijanami jak i niechrzescijanami, katolikami jak i akatolikami, łacinnikami jak i wschodnimi dla pełnej chwały Pana, gdyż bliskość swoich wiernych z Rodu pozwala na realne odrzucenie plotek i niewłaściwych osądów. 
+**Kan. 1zw ** Biskup subdiecezjalny natchnionu  Duchem Świętym i z nadania Ojca z Nieba przy obserwacji Syna Bożego ma pierwotne i uświęcone prawo przebywać wśród odrzuconych, wykluczonych, grzeszników, siejących zgorszenie w celu ich nawrócenia, sklonienia do pokuty, rozgrzeszenia. Biskup subdiecezjalny z pełną świadomością może prowadzić dialog międzywyznaniowy z ludem Bożym zarówno wierzącym jak i nie wierzącym, chrześcijanami jak i niechrześcijanami, katolikami jak i akatolikami, łacinnikami jak i wschodnimi - dla pełnej chwały Pana, gdyż bliskość swoich wiernych z Rodu pozwala na realne odrzucenie plotek i niewłaściwych osądów. 
 
 ---
 
-## UZUPEŁNIENIE PREAMBUŁY V — ZASADA „TRÓD I PRACA TO ŚWIĘTOŚĆ”
+## UZUPEŁNIENIE PREAMBUŁY V — ZASADA „TRUD I PRACA TO ŚWIĘTOŚĆ”
 ### *Additamentum ad Preambulum Libri I — De Sanctitate Gregis et Operis*
 
 ---
 
-**Kan. 1zx § 1.** Ustanawia się nadrzędną zasadę porządku prawnego Kościoła Domowego: **„Tród i praca to świętość”** (*sanctitas gregis et operis*; greckie: hosion tou poietikon kai tes ergasias). Trud — lub T-Ród, TRód albo trod, to stado, pszczoły, plon, ogród, narzędzie i owoce ludzkiego wysiłku — jest przestrzenią uświęconą, w której człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Praca nie jest jedynie środkiem zarobkowym, lecz **stanem łaski**, drogą uświęcenia i formą uczestnictwa w dziele Odkupienia. Świętość trodu oznacza nietykalność owocu pracy: tego, co żywe, rosnące, wytworzone i powierzone ludzkiej pieczy.
+**Kan. 1zx § 1.** Ustanawia się nadrzędną zasadę porządku prawnego Kościoła Domowego: **„Trud i praca to świętość”** (*sanctitas gregis et operis*; greckie: hosion tou poietikon kai tes ergasias). Trud — lub T-Ród, TRód albo trod, to stado, pszczoły, plon, ogród, narzędzie i owoce ludzkiego wysiłku — jest przestrzenią uświęconą, w której człowiek współdziała z Bogiem jako współstwórca (*co-creator*). Praca nie jest jedynie środkiem zarobkowym, lecz **stanem łaski**, drogą uświęcenia i formą uczestnictwa w dziele Odkupienia. Świętość trudu oznacza nietykalność owocu pracy: tego, co żywe, rosnące, wytworzone i powierzone ludzkiej pieczy.
 
 **§ 2.** Podstawy doktrynalne zasady:
 
