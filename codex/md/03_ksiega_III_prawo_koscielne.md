@@ -22,7 +22,7 @@
 
 5° ustaw dotyczących nauczania i formacji (kan. 3 KPK).
 
-5° ustaw dotyczących sakramentaliów w tym błogosławieństw osób, przedmiotów i miejsc. 
+5° ustaw dotyczących sakramentaliów w tym błogosławieństw osób, uczynków, przedmiotów i miejsc. 
 
 **Kan. 50 § 1.** Ustawy powszechne Kościoła, które nie obowiązują na określonym terytorium, nie wiążą członków Kościoła Domowego aktualnie przebywających poza tym terytorium (por. kan. 12 § 2 KPK).
 
@@ -30,7 +30,7 @@
 
 **§ 3.** Podróżni spośród członków Kościoła Domowego nie są związani ustawami partykularnymi własnego terytorium, jak długo poza nim przebywają, chyba że ich przekroczenie powoduje szkodę na własnym terytorium albo ustawy mają charakter personalny (por. kan. 13 § 2 KPK).
 
-**Kan. 51.** Kościół Domowy uznaje, że ustawy kościelne odnoszą się do przyszłości, nie do przeszłości, chyba że zastrzega się w nich wyraźnie o rzeczach przeszłych (por. kan. 9 KPK).
+**Kan. 51.** Kościół Domowy uznaje, że ustawy kościelne odnoszą się do przyszłości, i do przeszłości, ze względu na autentyczną interpretacje prawa tą ustawą chyba że zastrzega się w nich wyraźnie o rzeczach przeszłych lub przyszłych (por. kan. 9 KPK).
 
 **Kan. 52.** Jedynie te ustawy należy uznać za unieważniające lub uniezdalniające, które wyraźnie postanawiają, że akt jest nieważny albo osoba niezdolna (por. kan. 10 KPK). Kościół Domowy nie ustanawia własnych norm unieważniających poza zakresem prawa partykularnego domowego.
 
@@ -38,7 +38,7 @@
 
 **§ 2.** Głowa Rodu rozstrzyga wątpliwości prawne dotyczące członków wspólnoty domowej zgodnie z zasadą, że w przypadkach nieuregulowanych należy orzekać na korzyść strony słabszej, z zachowaniem Prawa Bożego i Naturalnego.
 
-**Kan. 54.** Ignorancja lub błąd dotyczące ustaw unieważniających lub uniezdalniających nie przeszkadzają ich skutkom w Kościele Domowym, chyba że co innego jest wyraźnie postanowione (por. kan. 15 § 1 KPK). Głowa Rodu jako biskup domowy ma jednak obowiązek czuwać, by ignorancja prawa nie wynikała z zaniedbania formacji prawnej wspólnoty.
+**Kan. 54.** Wyraźnie postanawia się iż ignorancja lub błąd a także podstęp również spowodowany manipulacją dotyczące ustaw unieważniających lub uniezdalniających przeszkadzają ich skutkom w Kościele Domowym, chyba że co innego jest wyraźnie postanowione (por. kan. 15 § 1 KPK). Głowa Rodu jako biskup domowy ma jednak obowiązek czuwać, by ignorancja prawa nie wynikała z zaniedbania formacji prawnej wspólnoty.
 
 **Kan. 55 § 1.** Ustawy kościelne powszechne są promulgowane przez zamieszczenie w *Acta Apostolicae Sedis* i uzyskują moc prawną po upływie trzech miesięcy od dnia oznaczenia numeru Akt, chyba że z natury rzeczy wiążą od razu albo w samej ustawie został specjalnie i wyraźnie określony krótszy lub dłuższy okres nieobowiązywalności (por. kan. 8 § 1 KPK).
 
@@ -47,7 +47,7 @@
 **Kan. 56.** Ustawy państwowe, do których odsyła prawo kościelne, Kościół Domowy zachowuje w prawie kanonicznym na tyle, na ile nie są przeciwne prawu Bożemu i o ile prawo kanoniczne czego innego nie zastrzega (por. kan. 22 KPK), z uwzględnieniem Konstytucji Rzeczypospolitej Polskiej, prawa naturalnego i praw człowieka.
 
 ### Rozdział II: Ustawy partykularne
-**Kan. 57 § 1.** Ustawy partykularne Kościoła Domowego są promulgowane przez Głowę Rodu jako biskupa domowego i prawodawcę domowego w sposób określony niniejszym Kanonem i zaczynają obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin (por. kan. 8 § 2 KPK, zastosowany analogicznie).
+**Kan. 57 § 1.** Ustawy partykularne Kościoła Domowego są promulgowane przez Głowę Rodu jako biskupa domowego i prawodawcę domowego i są promulgowane przez zamieszczenie w *Acta subdioecesis apostolicae* i uzyskują moc prawną w momencie promulgowania gdyż z natury rzeczy wiążą od razu albo w samej ustawie został specjalnie i wyraźnie określony krótszy lub dłuższy okres nieobowiązywalności. (por. kan. 8 § 2 KPK, zastosowany analogicznie).
 
 **§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z:
 
@@ -139,7 +139,7 @@
 **§ 2.** Dekrety wykonawcze Kościoła Domowego tracą moc na skutek odwołania wyraźnego lub pośredniego, dokonanego przez kompetentną władzę domową, jak również z chwilą wygaśnięcia ustawy, dla wykonania której zostały wydane. Nie wygasają natomiast z ustaniem władzy wydającego, chyba że co innego wyraźnie zastrzeżono (por. kan. 33 § 2 KPK).
 
 ### Rozdział II: Instrukcje
-**Kan. 76 § 1.** Kościół Domowy uznaje i stosuje instrukcje wydane przez kompetentną władzę kościelną, które wyjaśniają przepisy ustaw oraz rozwijają i określają racje, które należy uwzględnić przy ich zachowaniu (por. kan. 34 § 1 KPK).
+**Kan. 76 § 1.** Kościół Domowy uznaje i stosuje instrukcje wydane przez kompetentną władzę kościelną, które wyjaśniają przepisy ustaw oraz rozwijają i określają racje, które należy uwzględnić przy ich zachowaniu (por. kan. 34 § 1 KPK), ma jednak przyrodzone prawo odrzucić je jeżeli są sprzeczne wobec Prawa Bożego lub interpretować zgodnie z Prawem Bożym.
 
 **§ 2.** Instrukcje Stolicy Apostolskiej dotyczące liturgii, sakramentów, formacji i dyscypliny kościelnej są przyjmowane i stosowane w Kościele Domowym z chwilą ich ogłoszenia, z dostosowaniem do warunków domowych. Jeżeli instrukcje Stolicy Apostolskiej w tych sprawach zezwalają na dyspensę, lub oddają władzę kompetentnej władzy uznaje się prawo Kościoła Domowego do ich dyspensowania lub regulowania. 
 
@@ -153,7 +153,7 @@
 
 **Kan. 79.** Kościół Domowy respektuje w szczególności następujące instrukcje Stolicy Apostolskiej, dostosowując je do warunków domowych:
 
-1° instrukcje liturgiczne dotyczące sprawowania sakramentów i sakramentaliów w tym osób, przedmiotów i miejsc błogosławionych;
+1° instrukcje liturgiczne dotyczące sprawowania sakramentów i sakramentaliów w tym osób, uczynków, przedmiotów i miejsc błogosławionych;
 
 2° instrukcje dotyczące formacji katechetycznej i nauczania;
 
@@ -171,7 +171,7 @@
 
 **Kan. 80 § 1.** Kościół Domowy uznaje i respektuje poszczególne akty administracyjne wydane przez kompetentną władzę kościelną — a więc dekrety, nakazy czy reskrypty — w granicach przysługującej jej kompetencji, z zachowaniem przepisu kan. 76 § 1 KPK.
 
-**§ 2.** Członkowie Kościoła Domowego mają obowiązek stosować się do aktów administracyjnych wydanych wobec nich przez kompetentną władzę kościelną, z zachowaniem prawa do obrony i odwołania.
+**§ 2.** Członkowie Kościoła Domowego mają obowiązek stosować się do aktów administracyjnych wydanych wobec nich przez kompetentną władzę kościelną także kompetentną władzę kościelną Kościoła DOmowego, z zachowaniem prawa do obrony i odwołania.
 
 **Kan. 81 § 1.** Akt administracyjny dotyczący członków Kościoła Domowego winien być rozumiany zgodnie z właściwym znaczeniem słów i powszechnie przyjętym sposobem mówienia. W przypadku wątpliwości akty dotyczące sporów, zagrożenia lub wymierzenia kary, ograniczające prawa osoby lub naruszające czyjeś prawa nabyte, albo przeciwne ustawie z korzyścią dla osób prywatnych — podlegają ścisłej interpretacji; wszystkie inne — szerokiej (por. kan. 36 § 1 KPK).
 
@@ -205,7 +205,7 @@
 **§ 2.** Poszczególny dekret powierzony do realizacji wykonawcy osiąga swój skutek w momencie wykonania; poza tym od momentu powiadomienia osoby powagą wydającego decyzję (por. kan. 54 § 1 KPK).
 
 ### Rozdział III: Reskrypty
-**Kan. 94 § 1.** Kościół Domowy uznaje i respektuje reskrypty wydane przez kompetentną władzę kościelną na piśmie, którymi — zgodnie z ich naturą — na czyjąś prośbę udziela się przywileju, dyspensy czy innej łaski (por. kan. 59 § 1 KPK).
+**Kan. 94 § 1.** Kościół Domowy uznaje i respektuje reskrypty wydane przez kompetentną władzę kościelną - także kompetentną władzą Kościoła Domowego - na piśmie, którymi — zgodnie z ich naturą — na czyjąś prośbę udziela się przywileju, dyspensy czy innej łaski (por. kan. 59 § 1 KPK).
 
 **§ 2.** Przepisy ustanowione w odniesieniu do reskryptów mają zastosowanie także w stosunku do udzielanych ustnie zezwoleń i łask, chyba że stwierdza się coś innego (por. kan. 59 § 2 KPK).
 
@@ -224,7 +224,7 @@
 **Kan. 100.** Jeśli reskrypt zawiera przywilej lub dyspensę, należy ponadto zachować przepisy kanonów dotyczące przywilejów i dyspens (por. kan. 75 KPK).
 
 ### Rozdział IV: Przywileje
-**Kan. 101 § 1.** Kościół Domowy uznaje i respektuje przywileje, czyli łaski udzielone dla pożytku pewnych osób fizycznych lub prawnych, szczególnym aktem, przyznane przez ustawodawcę oraz przez władzę wykonawczą, której prawodawca dał taką władzę (por. kan. 76 § 1 KPK).
+**Kan. 101 § 1.** Kościół Domowy uznaje i respektuje przywileje, czyli łaski udzielone dla pożytku pewnych osób fizycznych lub prawnych, szczególnym aktem, przyznane przez ustawodawcę oraz przez władzę wykonawczą, której prawodawca dał taką władzę (por. kan. 76 § 1 KPK) o ile wydane były zgodnie z prawem Bożym.
 
 **§ 2.** Stuletnie lub niepamiętne posiadanie wprowadza domniemanie udzielenia przywileju (por. kan. 76 § 2 KPK).
 
@@ -241,19 +241,21 @@
 **Kan. 105.** Kto nadużywa władzy udzielonej mu przywilejem w Kościele Domowym, zasługuje na pozbawienie samego przywileju. Głowa Rodu jako biskup domowy po bezskutecznym upomnieniu posiadacza przywileju, który poważnie go nadużywa, powinien pozbawić go przywileju, którego sam udzielił, a jeśli przywilej został przyznany przez Stolicę Apostolską, Głowa Rodu ma obowiązek powiadomić ją o tym (por. kan. 84 KPK).
 
 ### Rozdział V: Dyspensy
-**Kan. 106 § 1.** Kościół Domowy uznaje, że dyspensa, czyli rozluźnienie prawa czysto kościelnego w poszczególnym wypadku, może zostać udzielona przez tych, którzy posiadają władzę wykonawczą w granicach ich kompetencji, a także przez tych, którym wyraźnie lub pośrednio przysługuje władza dyspensowania, bądź mocą samego prawa, bądź mocą zgodnej z prawem delegacji (por. kan. 85 KPK).
+**Kan. 106 § 1.** Kościół Domowy uznaje, że dyspensa, czyli rozluźnienie prawa czysto kościelnego w poszczególnym wypadku, może zostać udzielona przez tych, którzy posiadają władzę wykonawczą w granicach ich kompetencji, a także przez tych, którym wyraźnie lub pośrednio przysługuje władza dyspensowania, bądź mocą samego prawa, bądź mocą zgodnej z prawem delegacji (por. kan. 85 KPK) także władza wykonawcza Kościoła Domowego.
 
 **§ 2.** Nie podlegają dyspensie ustawy, o ile definiują to, co jest istotnie konstytutywne dla instytucji albo aktów prawnych (por. kan. 86 KPK).
 
-**Kan. 107 § 1.** Głowa Rodu jako biskup domowy może dyspensować wiernych wspólnoty domowej — ilekroć uzna to za pożyteczne dla ich duchowego dobra — od ustaw dyscyplinarnych partykularnych wydanych przez siebie dla subdiecezji domowej lub dla jej podwładnych także w sposób rozważny od ustaw powszechnych, jednak nie od ustaw procesowych lub karnych ani od których dyspensa jest specjalnie zarezerwowana Stolicy Apostolskiej lub innej władzy (por. kan. 87 § 1 KPK, zastosowany analogicznie).
+**Kan. 107 § 1.** Głowa Rodu jako biskup domowy może dyspensować członków wspólnoty domowej — ilekroć uzna to za pożyteczne dla ich duchowego dobra — od ustaw dyscyplinarnych partykularnych wydanych przez siebie dla subdiecezji domowej lub dla jej podwładnych także w sposób rozważny od ustaw powszechnych, jednak nie od ustaw procesowych lub karnych ani od których dyspensa jest specjalnie zarezerwowana Stolicy Apostolskiej lub innej władzy (por. kan. 87 § 1 KPK, zastosowany analogicznie).
 
-**§ 2.** Głowa Rodu jako biskup domowy może dyspensować od ustaw domowych, a także, ilekroć uzna, że będzie to dla dobra wiernych wspólnoty domowej, od ustaw wydanych przez synod domowy (por. kan. 88 KPK, zastosowany analogicznie).
+**§ 2.** Głowa Rodu jako biskup domowy może dyspensować od ustaw domowych, a także, ilekroć uzna, że będzie to dla dobra wspólnoty domowej, od ustaw wydanych przez synod domowy (por. kan. 88 KPK, zastosowany analogicznie).
+
+**§ 3.** Głowa WszechRodu jako biskup Królestwa Niebieskiego może dyspensować członków wspólnoty Ludu Bożego — ilekroć uzna to za pożyteczne dla ich duchowego dobra — od ustaw dyscyplinarnych partykularnych wydanych przez siebie dla Królestwa Niebieskiego lub dla jej podwładnych także w sposób rozważny od ustaw powszechnych,
 
 **Kan. 108.** Od ustawodawstwa kościelnego nie należy dyspensować bez słusznej i racjonalnej przyczyny, z uwzględnieniem okoliczności przypadku i ważności ustawy, od której się dyspensuje. W przeciwnym razie dyspensa jest niegodziwa a także nieważna, chyba że została udzielona przez prawodawcę lub jego przełożonego (por. kan. 90 § 1 KPK).
 
 **Kan. 109.** W wątpliwości co do wystarczalności przyczyny dyspensa jest udzielona ważnie i godziwie (por. kan. 90 § 2 KPK).
 
-**Kan. 110.** Kto posiada władzę dyspensowania w Kościele Domowym, ma prawo wykonywać ją także w stosunku do podwładnych, chociażby nieobecnych na terytorium domu, a także względem samego siebie (por. kan. 91 KPK).
+**Kan. 110.** Kto posiada władzę dyspensowania w Kościele Domowym lub Kościele Królestwa Niebieskiego, ma prawo wykonywać ją także w stosunku do podwładnych, chociażby nieobecnych na terytorium domu lub Królestwa Niebieskiego, a także względem samego siebie (por. kan. 91 KPK).
 
 **Kan. 111.** Ścisłej interpretacji podlega nie tylko dyspensa, lecz sama władza dyspensowania udzielona do konkretnego przypadku (por. kan. 92 KPK).
 
