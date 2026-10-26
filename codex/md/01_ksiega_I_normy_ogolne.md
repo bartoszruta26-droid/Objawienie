@@ -14,7 +14,7 @@
 
 **Kan. 2 § 1.** Kościół Domowy jest pierwotną partykularną wspólnotą Ludu Bożego tak samo jak Kościół Królestwa Niebieskiego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym i Królestwa Niebieskiego , zgodnie z analogią do kan. 9 KPK, zastosowaną do wspólnoty rodzinnej. Kościół Domowy i Kościół Królestwa Niebieskiego, jako kościół pierwotny, jest pierwszy wśród równych mu wspólnot partykularnych (*primus inter pares particularium communitatum*) — pierwszy w czasie spotkania wiernego z Kościołem, równy im wszystkim co do godności.
 
-**§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium diecezjalne/subdiecezjalne Kościoła Domowego. Granice tej diecezji/subdiecezji obejmują:
+**§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium subdiecezjalne Kościoła Domowego. Granice tej subdiecezji obejmują:
 
 1° dom mieszkalny i jego bezpośrednie otoczenie;
 
