@@ -119,6 +119,7 @@
 ### Tytuł IV: Celibat i drobne postanowienia ogólne
 
 **Kan. 13.** § 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapłaństwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoła powszechnego; również powinien być w poważaniu stan duchownych związanych małżeństwem, usankcjonowany przez praktykę Kościoła pierwotnego i Kościołów wschodnich. Za celibat uznaje się wstrzemięźliwość płciową czyli zachowanie umiaru w kontaktach płciowych
+
 § 2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, należy zachować prawo partykularne.
 
 
