@@ -93,7 +93,9 @@
 
 **§ 12.** Obowiązek udzielenia schronienia na ziemi Rodu osobie potrzebującej (krewnemu, wędrowcowi, ubogiemu) jako wypełnienie zarządu ziemią danego w Rdz 1,28; odmowa możliwa tylko z poważnej przyczyny rozpoznanej przez Triarchię Domową. 
 
-**Kan. 17.** Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo uczestniczenia w życiu liturgicznym i decyzyjnym Kościoła Domowego stosownie do swojego wieku i dojrzałości.
+**Kan. 17.** § 1 Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo uczestniczenia rozumnie w życiu liturgicznym i decyzyjnym Kościoła Domowego stosownie do swojego wieku i dojrzałości.
+
+§2 Potomek przed osiągnięciem używania rozumu ma prawo do uczestniczenia emocjonalnie i przez dowolne zachowanie się w życiu liturgicznym i decyzyjnym Kościoła Domowego a wola ta powinna być jak najwłaściwiej rozpoznana przez wspólnotę Kościoła Domowego przyznając pierwszeństwo władzy rodzicieli.
 
 **Kan. 18.** Członkostwo w Kościele Domowym ustaje:
 
@@ -141,7 +143,7 @@
 
 **§ 2.** Wszyscy wierni Kościoła Domowego mają prawo do otrzymania od wspólnoty pomocy niezbędnej do prowadzenia życia chrześcijańskiego, zwłaszcza dostępu do sakramentów, formacji i modlitwy.
 
-**§ 3.** Zasada „Tród i praca to świętość” (*sanctitas gregis et operis*, Preambuła kan. 1zx) jest obowiązkiem sumienia każdego wiernego:
+**§ 3.** Zasada „Trud i praca to świętość” (*sanctitas gregis et operis*, Preambuła kan. 1zx) jest obowiązkiem sumienia każdego wiernego:
 
 1° każdy wierny ma obowiązek oddawać się uczciwej pracy zgodnie ze swoim stanem, powołaniem i siłami, pamiętając, że praca jest pierwszym powołaniem człowieka (Rdz 2,15) i drogą uświęcenia;
 
@@ -175,9 +177,9 @@
 
 10° wierni przyjęci wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego mają — na równi z członkami z mocy prawa naturalnego — prawo korzystać z owoców domyślnego przyjęcia do Kościoła Katolickiego: dostępu do sakramentów w Kościele powszechnym (kan. 213, kan. 843 § 1 KPK 1983) oraz opieki duszpasterskiej właściwej dla wiernych przyjętych do Kościoła.
 
-11° **prawo do godziwej pracy i ochrony trodu** (zasada „Tród i praca to świętość”, Preambuła kan. 1zx): prawo do pracy zgodnej z powołaniem i stanem zdrowia, do sprawiedliwej zapłaty lub udziału w plonie, do posiłku i odpoczynku od pierwszej godziny posługi, do błogosławieństwa narzędzia pracy, do prywatnej własności owocu własnego trudu oraz do poszanowania powierzonych mu zwierząt, pasieki, ogrodu i warsztatu; osoba podejmująca pracę nie może być zmuszana do pracy ponad siły ani do pracy wbrew sumieniu.
+11° **prawo do godziwej pracy i ochrony trudu** (zasada „Trud i praca to świętość”, Preambuła kan. 1zx): prawo do pracy zgodnej z powołaniem i stanem zdrowia, do sprawiedliwej zapłaty lub udziału w plonie, do posiłku i odpoczynku od pierwszej godziny posługi, do błogosławieństwa narzędzia pracy, do prywatnej własności owocu własnego trudu oraz do poszanowania powierzonych mu zwierząt, pasieki, ogrodu i warsztatu; osoba podejmująca pracę nie może być zmuszana do pracy ponad siły ani do pracy wbrew sumieniu.
 
-12° wierni przyjęci wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego mają prawo — na równych warunkach z członkami z mocy prawa naturalnego — uczestniczyć w **błogosławieństwach ziemi i plonów** obrządku domowego (poziom korzeniowy: Pobożność — Małżeństwo — Ziemia — Cierpliwość — Służenie, por. kan. 469 § 1 Księgi X), ponieważ więź z miejscem świętym rodzi udział w jego liturgicznym uświęcaniu.
+12° wierni przyjęci wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego mają prawo — na równych warunkach z członkami z mocy prawa naturalnego — uczestniczyć w **błogosławieństwach plonów** i **celebracji uświęcenia ziemi ** obrządku domowego, ponieważ więź z miejscem świętym rodzi udział w jego liturgicznym uświęcaniu.
 
 **Kan. 22.** Nikomu nie wolno bezprawnie naruszać dobrego imienia, które ktoś posiada, ani też naruszać prawa każdej osoby do ochrony własnej intymności (kan. 220 KPK). Dotyczy to w szczególności:
 
@@ -217,7 +219,7 @@
 
 1° prowadzenia życia świętego i dawania przykładu wiary;
 
-2° codziennej modlitwy osobistej i rodzinnej;
+2° codziennej modlitwy osobistej i rodzinnej w tym liturgii godzin będącej liturgią życia;
 
 3° uczestnictwa w sakramentach Kościoła Powszechnego;
 
@@ -261,13 +263,13 @@
 
 **§ 5.** Kwalifikacja kanoniczna Triarchii Domowej: na mocy kan. 114 § 1 KPK 1983 Triarchia jest osobą prawną ustanowioną albo na mocy samego przepisu prawa, albo przez specjalne przyznanie kompetentnej władzy wydane w formie dekretu, jako zespół osób skierowany do celu odpowiadającego misji Kościoła, ale przekraczającego cel poszczególnych jednostek; na mocy kan. 115 § 2 KPK 1983 — jako zespół co najmniej trzech osób, których działanie określają członkowie współdziałający w podejmowaniu decyzji na równych prawach lub nie, zgodnie z przepisami prawa i statutów — Triarchia jest kolegialna. Majątkiem Kościoła Domowego jako zespół rzeczy (fundacja autonomiczna) rządzi kan. 115 § 3 KPK.
 
-**§ 6.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; w Kościele Domowym kompetencję tę sprawuje biskup subdiecezjalny wraz z Triarchią jako kolegialnym zespołem osób, a akty przyjęcia wiernych (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) są formą tego swobodnego powierzania urzędów i funkcji we własnym Kościele partykularnym.
+**§ 6.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; w Kościele Domowym kompetencję tę sprawuje biskup subdiecezjalny wraz z Triarchią jako kolegialnym zespołem osób gdyż tak nakazuje tego prawo partykularnego Kościoła Domowego, a akty przyjęcia wiernych (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) są formą tego swobodnego powierzania urzędów i funkcji we własnym Kościele partykularnym.
 
 **§ 7.** Oparcie w kan. 205 KPK 1983: w pełnej wspólnocie Kościoła katolickiego pozostają na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; Triarchia Domowa i biskup subdiecezjalny, zachowując te trzy więzy, korzystają z pełnej wspólnoty *ex ipso iure* — dlatego aktu przyjęcia dokonywanego wolą Triarchii nie można stawiać wyżej ani przed komunią z Biskupem Rzymu, a gościna wobec ochrzczonego biskupa subdiecezjalnego jest obowiązkiem, nie fakultetem (*gość w dom, Bóg w dom*).
 
-**§ 8.** Triarchia Domowa działa zawsze „w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu”; aktu przyjęcia wolą Triarchii nie można interpretować jako aktu rzekomo wcześniejszego lub ważniejszego niż komunia z Biskupem Rzymu, ani jako warunku koniecznego dla bycia uznanym za katolika.
+**§ 8.** Triarchia Domowa działa zawsze w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu; aktu przyjęcia wolą Triarchii nie można interpretować jako aktu rzekomo wcześniejszego lub ważniejszego niż komunia z Biskupem Rzymu, ani jako warunku koniecznego dla bycia uznanym za katolika.
 
-**§ 9.** Piecza nad świętością trodu i pracy (*sanctitas gregis et operis*, Preambuła kan. 1zx): Triarchia Domowa sprawuje władzę decyzyjną również w zakresie rozeznania, powierzania i błogosławienia pracy wiernym — zarówno przyjętym na stałe wolą Triarchii Domowej, jak i przyjętym na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2). Do obowiązków Triarchii należy:
+**§ 9.** Piecza nad świętością trudu i pracy: Triarchia Domowa sprawuje władzę decyzyjną również w zakresie rozeznania, powierzania i błogosławienia pracy wiernym — zarówno przyjętym na stałe wolą Triarchii Domowej, jak i przyjętym na chwilę wolą władzy Kościoła Domowego (kan. 16 § 2). Do obowiązków Triarchii należy:
 
 1° wyznaczać pracę zgodną z powołaniem, wiekiem, stanem zdrowia i sumieniem każdego wiernego;
 
@@ -275,9 +277,9 @@
 
 3° zapewniać pracującemu posiłek, odpoczynek od pierwszej godziny posługi oraz błogosławieństwo narzędzia (kan. 256 Księgi IV);
 
-4° czuwać nad tadem: stadłem, pasieką, ogrodem, polem i warsztatem, jako przestrzenią uświęconą;
+4° czuwać nad stadem: stadem, pasieką, ogrodem, polem i warsztatem, jako przestrzenią uświęconą;
 
-5° rozstrzygać spory o udział w plonie według Księgi IX (kan. 453–462) i Księgi X (kan. 463–491), zawsze na korzyść strony słabszej (kan. 5 Księgi I).
+5° rozstrzygać spory o udział w plonie według Księgi IX (kan. 453–462) i Księgi X (kan. 463–491), w miarę możliwości na korzyść strony słabszej (kan. 5 Księgi I).
 
 **§ 10.** Triarchia Domowa jest jednocześnie **strażnikiem świętości ziemi domowej** (*custos sanctitatis terrae*); do jej wyłącznych kompetencji należy ocena, czy dany akt władzy (przyjęcie na chwilę, wyproszenie, zmiana sposobu korzystania z gruntu) nie narusza zasady „Ziemia to świętość” (*sanctitas terrae*).
 
@@ -285,7 +287,7 @@
 
 ### Tytuł V: Małżonka — nadzorująca i współszafarka
 
-**Kan. 27 § 1.** Małżonka pełni nieformalną funkcję nadzorczą nad Głową Rodu. Jest szyją, która kieruje głową, duszą wspólnoty i strażniczką ogniska domowego.
+**Kan. 27 § 1.** Małżonka pełni funkcję nadzorczą nad Głową Rodu. Jest szyją, która kieruje głową, duszą wspólnoty i strażniczką ogniska domowego.
 
 **§ 2.** Żadne działanie Głowy Rodu w charakterze biskupa domowego nie powinno być podejmowane bez wysłuchania opinii Małżonki, szczególnie w sprawach dotyczących:
 
@@ -387,7 +389,7 @@
 
 **§ 4.** Naruszenie godności wiernego przyjętego wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego stanowi jednocześnie naruszenie praw osoby przyjętej do Kościoła Katolickiego (kan. 208–223 KPK 1983) i jako takie podlega odwołaniu przewidzianemu w kan. 19 pkt 4.
 
-**§ 5.** Ochrona świętości trodu i pracy (zasada „Tród i praca to świętość”, Preambuła kan. 1zx): naruszeniem godności wiernego jest w szczególności zmuszanie go do pracy wbrew sumieniu lub ponad siły, wyzysk jego trudu, bezprawne zawłaszczenie owocu pracy (plonu, miodu, mleka, wytworu rąk) oraz znęcanie się nad powierzonymi mu zwierzętami lub niszczenie pasieki, ogrodu i narzędzi; każda taka praktyka podlega prawie do sprzeciwu, wysłuchania, obrony i odwołania opisanym w kan. 34.
+**§ 5.** Ochrona świętości trudu i pracy (zasada „Trud i praca to świętość”, Preambuła kan. 1zx): naruszeniem godności wiernego jest w szczególności zmuszanie go do pracy wbrew sumieniu lub ponad siły, wyzysk jego trudu, bezprawne zawłaszczenie owocu pracy (plonu, miodu, mleka, wytworu rąk) oraz znęcanie się nad powierzonymi mu zwierzętami lub niszczenie pasieki, ogrodu i narzędzi; każda taka praktyka podlega prawie do sprzeciwu, wysłuchania, obrony i odwołania opisanym w kan. 34.
 
 **§ 6.** Ochrona godności rozciąga się na sferę materialną pobytu (zasada „Ziemia to świętość”): godziwe miejsce zamieszkania na nieruchomości, dostęp do wody, ognia i stołu domowego; osoba przyjęta nawet na chwilę nie może być zamieszkiwana w warunkach poniżających (*condicio inhonesta*), bo to profanacja świętej ziemi (*profanatio terrae sanctae*).
 
@@ -565,7 +567,7 @@
 
 4° przykład życia zgodnego z Ewangelią;
 
-5° dostęp do sakramentów w Kościele Powszechnym;
+5° dostęp do sakramentów w Kościele Powszechnym a w przypadku wyższej niemożności ich udzielenia z Kościele Powszechnym udzielić ich w Kościele Domowym z rąk kapłana, szafarza świętego Głowy Rodu, a w razie niemożności współszafarki świętej, kapłanki ogniska domowego, a w razie niemożności najstarszego z potomków, a w razie niemożności a będąc kapłaniątkiem nałożyć samemu sobie;
 
 6° atmosferę miłości, bezpieczeństwa i akceptacji;
 
@@ -589,7 +591,7 @@
 
 6° uczestnictwa w decyzjach dotyczących rodziny stosownie do wieku i dojrzałości.
 
-7° uczestniczenia w ceremoniach rwligijnych prpwadzonych przez ktoregokolwiek z rodziców. 
+7° uczestniczenia w ceremoniach religijnych prowadzonych przez któregokolwiek z rodziców lub współpotomków. 
 
 ---
 
