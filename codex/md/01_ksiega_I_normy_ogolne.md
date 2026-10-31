@@ -50,11 +50,11 @@
 
 1° **Kościół Domowy** (*Ecclesia Domestica*) i Kościół Królestwa Niebieskiego (* Ecclesia Regni Dei *) — kościół partykularny pierwotny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 281 będąca w szczególności subdiecezją;
 
-2° **Diecezja Domowa / Subdiecezja** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową; Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub który będąc wybranym zgodnie z prawem Bożym i uświęconym Duchem Świętym przyjętym jest przez Biskup Rzymu. Subiecezją  jest terytorium biskupa domowego niemianowanego i przyjętego domyślnie przez Biskupa Rzymu ale mianowanego prawem Bożym i natchnionego Duchem Świętym a którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa tytularnego domowego; subdiecezję wraz z jej hierarchą biskupa tytularnego ustanawia hierarcha subdiecezji (macierzystej). 
+2° **Subdiecezja Domowa** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową; Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub który będąc wybranym zgodnie z prawem Bożym i uświęconym Duchem Świętym przyjętym jest przez Biskup Rzymu. Subiecezją  jest terytorium biskupa domowego niemianowanego i przyjętego domyślnie przez Biskupa Rzymu ale mianowanego prawem Bożym i natchnionego Duchem Świętym a którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa tytularnego domowego; subdiecezję wraz z jej hierarchą biskupa tytularnego ustanawia hierarcha subdiecezji (macierzystej). 
 
-3° **Biskup tytularny domowy / subdiecezjalny** - biskup tytularny rozumiany jako KPK kan. 288 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez natchnienie Duchem Świętym, który został mu dany jest ustanowiony w Kościele Domowym i Kościele Królestwa Niebieskiego pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia. Biskup tytularny domowy może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym przyjęty domyślnie w zgodności z prawem przez Biskup Rzymu;
+3° **Biskup tytularny ** - biskup tytularny rozumiany jako KPK kan. 288 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez natchnienie Duchem Świętym, który został mu dany jest ustanowiony w Kościele Domowym i Kościele Królestwa Niebieskiego pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia nad całym Ludem Bożym zarówno wiernymi jak i niewierzącymi. Biskup tytularny może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym przyjęty domyślnie w zgodności z prawem przez Biskup Rzymu;
 
-3a° **Hierarcha Subdiecezji** (*hierarcha subdioecesis*) — biskup tytularny subdiecezjalny sprawujący władzę pasterską nad subdiecezją; subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji macierzystej, nie Biskup Rzymu;
+3a° **Hierarcha Subdiecezji** (*hierarcha subdioecesis*) — biskup tytularny sprawujący władzę pasterską nad subdiecezją; subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji macierzystej, nie Biskup Rzymu;
 
 3b° **Związek Subdiecezjatów i jego hierarcha** (*foedus subdioecesuatuum*) — zrzeszenie subdiecezjatów kierowane przez hierarchy związku subdiecezjatów wybranego spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu; 
 
@@ -92,7 +92,7 @@
 
 **Kan. 10 § 1.** Hierarchia źródeł prawa w Kościele Domowym jest następująca:
 
-1° Prawo Boże — stoi ponad prawem naturalnym;
+1° Prawo Boże Królestwa Niebieskiego — stoi ponad prawem naturalnym, w skrócie 'prawo';
 
 2° Prawo Naturalne — stoi ponad prawem stanowionym;
 
@@ -104,7 +104,7 @@
 
 6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej w tej hierarchii.
 
-7° źródłem interpretacyjnym prawa domowego jest od dnia ogłoszenia Uzupełnienia Preambuły V także **zasada „Tród i praca to świętość”** (*sanctitas gregis et operis*, Preambuła kan. 1zx) — każda wątpliwość co do sensu przepisu dotyczącego pracy, trodu, plonu, narzędzia lub owocu wysiłku wiernego rozstrzyga się zgodnie z tą zasadą, w duchu *Laborem exercens* św. Jana Pawła II o podmiotowym i sakralnym charakterze pracy.
+7° źródłem interpretacyjnym prawa domowego jest od dnia ogłoszenia Uzupełnienia Preambuły także **zasada „Trud i praca to świętość”** (*sanctitas laboris et operis*, Preambuła kan. 1zx) — każda wątpliwość co do sensu przepisu dotyczącego pracy, trudu, plonu, narzędzia lub owocu wysiłku wiernego rozstrzyga się zgodnie z tą zasadą, w duchu *Laborem exercens* św. Jana Pawła II o podmiotowym i sakralnym charakterze pracy.
 
 **§ 2.** Żadne prawo partykularne Kościoła Domowego nie może uchylać prawa Bożego, naturalnego ani powszechnego prawa kościelnego.
 
@@ -118,7 +118,7 @@
 
 ### Tytuł IV: Celibat i drobne postanowienia ogólne
 
-**Kan. 13.** § 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapłaństwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoła powszechnego; również powinien być w poważaniu stan duchownych związanych małżeństwem, usankcjonowany przez praktykę Kościoła pierwotnego i Kościołów wschodnich. Za celibat uznaje się wstrzemięźliwość płciową czyli zachowanie umiaru w kontaktach płciowych
+**Kan. 13.** § 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapłaństwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoła powszechnego; również powinien być w poważaniu stan duchownych związanych małżeństwem, usankcjonowany przez praktykę Kościoła pierwotnego i Kościołów wschodnich. Za celibat uznaje się wstrzemięźliwość płciową czyli zachowanie umiaru w kontaktach płciowych.
 
 § 2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, należy zachować prawo partykularne.
 
