@@ -315,7 +315,7 @@
 
 **§ 2.** Głowa Rodu jako biskup tytularny domostwa, subdiecezji i Królestwa Niebieskiego , ustanowiony przez Ojca z Nieba i natchniony Duchem Świętym i domyślnie zatwierdzony przez Biskupa Rzymskiego jeżeli jego wybór z Bożego nadania został dokonany zgodnie z prawem, sprawuje władzę rządzenia w zakresie subdiecezji domowej i Królestwem Niebieskim zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów przez partykularny akt oddania się władzom kościoła powszechnego (por. kan. 5 § 2 KPK).
 
-**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezjalny  przez Biskupa Rzymskiego) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej w tym Triarchii Ojca z Nieba, Ducha Świętego i Syna Bożego i ustanowienia hierarchy subdiecezji macierzystej; dotyczy to także subdiecezji z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn). Ustanawiając subdiecezję i jej hierarchy, hierarcha macierzysty działa jako pierwszy z równych; przepis o „pominięciu pierwszego hierarchy związku subdiecezjatów” należy czytać jako wyraz porządku służebnego, nie hierarchii wartości osób — wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego nie tracą nic z równości wobec nowego hierarchy.
+**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezji) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej w tym Triarchii Ojca z Nieba, Ducha Świętego i Syna Bożego i ustanowienia hierarchy subdiecezji macierzystej; dotyczy to także subdiecezji z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów tytularnych subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn). Ustanawiając subdiecezję i jej hierarchy, hierarcha macierzysty działa jako pierwszy z równych; przepis o „pominięciu pierwszego hierarchy związku subdiecezjatów” należy czytać jako wyraz porządku służebnego, nie hierarchii wartości osób — wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego nie tracą nic z równości wobec nowego hierarchy.
 
 **§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
 
@@ -407,13 +407,13 @@
 
 9° Prawie partykularnym diecezji, na której terytorium znajduje się Kościół Domowy.
 
-**§ 2.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by żaden przepis prawa partykularnego Kościoła Domowego nie był sprzeczny z prawem powszechnym Kościoła, a w przypadku wątpliwości pierwszeństwo przysługuje prawu powszechnemu.
+**§ 2.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek czuwać, by żaden przepis prawa partykularnego Kościoła Domowego nie był sprzeczny z prawem powszechnym Kościoła, a w przypadku wątpliwości pierwszeństwo przysługuje prawu powszechnemu.
 
 **Kan. 133 § 1.** Kościół Domowy respektuje w szczególności następujące obszary prawa powszechnego:
 
 1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-1165 KPK) w interpretacji jaka wskazano w księgach kodeksu kanonicznego kosciola domowego ;
 
-2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliób błogosławienia osob, przedmiotow i miejsc oraz pogrzebu kościelnego a takze liturgi zycia będącej liturgia godzin (kan. 834-839 KPK);
+2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliów błogosławienia osób, uczynków, przedmiotów i miejsc oraz pogrzebu kościelnego a takze liturgi zycia będącej liturgią godzin (kan. 834-839 KPK);
 
 3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 3 KPK);
 
@@ -427,7 +427,7 @@
 
 **§ 2.** W sprawach nieuregulowanych niniejszym Kanonem Kościoła Domowego stosuje się bezpośrednio przepisy Kodeksu Prawa Kanonicznego z 1983 roku.
 
-**Kan. 134 § 1.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 134 § 1.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° znać i stosować prawo powszechne Kościoła w zakresie dotyczącym wspólnoty domowej;
 
@@ -465,13 +465,13 @@
 
 3° formacji i nauczania;
 
-4° kultu Bożego i roku liturgicznego w tym prawa do sprawowania liturgii obrządku domowego Pawlowego, Marii Magdaleny, Tomaszowego i liturgii zycia będacej liturgią godzin;
+4° kultu Bożego i roku liturgicznego w tym prawa do sprawowania liturgii obrządku domowego Pawlowego, Marii Magdaleny, Tomaszowego i liturgii życia będacej liturgią godzin;
 
 5° zarządu dobrami kościelnymi;
 
 6° spraw małżeńskich i rodzinnych.
 
-**§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym subdiecezji Kościoła Domowego, Głowa Rodu jako biskup domowy winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła.
+**§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym subdiecezji Kościoła Domowego, Głowa Rodu jako biskup tytularny domostwa winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła.
 
 **Kan. 137 § 1.** Kościół Domowy respektuje zarządzenia biskupa diecezjalnego dotyczące:
 
@@ -489,13 +489,13 @@
 
 7° zarządzeń dotyczących stowarzyszeń wiernych.
 
-**§ 2.** Głowa Rodu jako biskup domowy ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym subdiecezji Kościoła Domowego.
+**§ 2.** Głowa Rodu jako biskup tytularny domostwa ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym subdiecezji Kościoła Domowego.
 
 **Kan. 138.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 8 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
 
 ## Tytuł XII: PRZEPISY KOŃCOWE
 
-**Kan. 139.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
+**Kan. 139.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa tytularnego domostwa, po konsultacji z Triarchią Domową.
 
 **Kan. 140.** W sprawach nieuregulowanych niniejszą Księgą stosuje się bezpośrednio przepisy Kodeksu Prawa Kanonicznego z 1983 roku, a w sprawach nieuregulowanych także przez Kodeks — przepisy Prawa Bożego, Naturalnego i praw człowieka.
 
@@ -515,9 +515,9 @@
 
 7° naruszający jedność z Biskupem Rzymskim i Kościołem Powszechnym.
 
-**Kan. 142.** Głowa Rodu jako biskup domowy ma obowiązek czuwać, by wszystkie przepisy niniejszej Księgi były stosowane w duchu miłości, sprawiedliwości i miłosierdzia, mając zawsze przed oczyma najwyższą zasadę: *salus animarum suprema lex* (zbawienie dusz najwyższym prawem, por. kan. 882 KPK).
+**Kan. 142.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek czuwać, by wszystkie przepisy niniejszej Księgi były stosowane w duchu miłości, sprawiedliwości i miłosierdzia, mając zawsze przed oczyma najwyższą zasadę: *salus animarum suprema lex* (zbawienie dusz najwyższym prawem, por. kan. 882 KPK).
 
-**Kan. 143.** W przypadku wątpliwości co do stosowania prawa powszechnego w Kościele Domowym, Głowa Rodu jako biskup domowy winien:
+**Kan. 143.** W przypadku wątpliwości co do stosowania prawa powszechnego w Kościele Domowym, Głowa Rodu jako biskup tytularny domostwa winien:
 
 1° zwrócić się o wyjaśnienie do kompetentnej władzy kościelnej w tym małżonki i potomka;
 
