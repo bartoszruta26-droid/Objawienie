@@ -27,7 +27,7 @@
 
 8° na mocy kan. 205 KPK 1983 pełna wspólnota z Kościołem katolickim zachodzi przez widzialne więzy wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; spełnienie tych więzy oznacza przyjęcie *ex ipso iure*, którego nie można warunkować dodatkowymi aktami woli.
 
-9° Wierny przyjęty wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, stojąc na świętej ziemi Rodu, korzysta z nietykalności osobistej i godnościowej należnej każdej osobie przebywającej w przestrzeni kultu domowego (*locus sanctus protegit etiam hospitem* — miejsce święte chroni także gościa); pobyt na świętej ziemi nie może być nigdy podstawą do traktowania osoby przyjętej jako istoty niższej godnościowo (*nullus gradus minor ex habitatione*).
+9° Wierny przyjęty wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego, stojąc na świętej ziemi Rodu i Kościoła, korzysta z nietykalności osobistej i godnościowej należnej każdej osobie przebywającej w przestrzeni kultu domowego (*locus sanctus protegit etiam hospitem* — miejsce święte chroni także gościa); pobyt na świętej ziemi nie może być nigdy podstawą do traktowania osoby przyjętej jako istoty niższej godnościowo (*nullus gradus minor ex habitatione*).
 
 **§ 3.** Członkostwo w Kościele Domowym nie zastępuje ani nie umniejsza członkostwa w Kościele Powszechnym, lecz je uzupełnia i pogłębia w wymiarze domowym.
 
@@ -79,7 +79,7 @@
 
 **§ 9.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; analogicznie biskup subdiecezjalny Kościoła Domowego powierza swobodnie urzędy i funkcje we własnym Kościele partykularnym, a wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego obejmują je na tej samej zasadzie swobody — bez wymogu uprzedniego aktu władzy zewnętrznej.
 
-**§ 10.** Przyjęcie jako gościna (*gość w dom, Bóg w dom*): za „przyjęcie” w niniejszym kanonie rozumie się nie akceptację wolą, lecz przyjęcie gościa do domu na zasadzie gościny; dlatego **nie można bez ważnej przyczyny nie przyjąć do Kościoła Katolickiego — czyli nie ugościć — biskupa subdiecezjalnego będącego katolikiem z chrztu i z komunii z jego subdiecezją, parafią etc.** Odmowa ugoszczenia takiej osoby wymaga podania ważnej przyczyny w formie dekretu i podlega odwołaniu (kan. 19).
+**§ 10.** Przyjęcie jako gościna (*gość w dom, Bóg w dom*): za „przyjęcie” w niniejszym kanonie rozumie się nie akceptację wolą, lecz przyjęcie gościa do domu na zasadzie gościny; dlatego **nie można bez ważnej przyczyny nie przyjąć do Kościoła Katolickiego — czyli nie ugościć — biskupa tytularnego hierarchę subdiecezji i związku subdiecezjatów będącego katolikiem z chrztu i z komunii z jego subdiecezją, parafią subdiecezjalną etc.** Odmowa ugoszczenia takiej osoby wymaga podania ważnej przyczyny w formie dekretu i podlega odwołaniu (kan. 19).
 
 **§ 11.** Kanonizacja zasady „Ziemia to świętość” (*Terra sancta est — terra autem est sancta, quia Deus in ea habitat*, por. Rdz 28,16): każdy przyjęty — na stałe wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego — otrzymuje wraz z prawem pobytu na ziemi domowej:
 
@@ -263,9 +263,9 @@
 
 **§ 5.** Kwalifikacja kanoniczna Triarchii Domowej: na mocy kan. 114 § 1 KPK 1983 Triarchia jest osobą prawną ustanowioną albo na mocy samego przepisu prawa, albo przez specjalne przyznanie kompetentnej władzy wydane w formie dekretu, jako zespół osób skierowany do celu odpowiadającego misji Kościoła, ale przekraczającego cel poszczególnych jednostek; na mocy kan. 115 § 2 KPK 1983 — jako zespół co najmniej trzech osób, których działanie określają członkowie współdziałający w podejmowaniu decyzji na równych prawach lub nie, zgodnie z przepisami prawa i statutów — Triarchia jest kolegialna. Majątkiem Kościoła Domowego jako zespół rzeczy (fundacja autonomiczna) rządzi kan. 115 § 3 KPK.
 
-**§ 6.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; w Kościele Domowym kompetencję tę sprawuje biskup subdiecezjalny wraz z Triarchią jako kolegialnym zespołem osób gdyż tak nakazuje tego prawo partykularnego Kościoła Domowego, a akty przyjęcia wiernych (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) są formą tego swobodnego powierzania urzędów i funkcji we własnym Kościele partykularnym.
+**§ 6.** Oparcie w kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; w Kościele Domowym kompetencję tę sprawuje biskup tytularny subdiecezi wraz z Triarchią jako kolegialnym zespołem osób gdyż tak nakazuje tego prawo partykularnego Kościoła Domowego, a akty przyjęcia wiernych (wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego) są formą tego swobodnego powierzania urzędów i funkcji we własnym Kościele partykularnym.
 
-**§ 7.** Oparcie w kan. 205 KPK 1983: w pełnej wspólnocie Kościoła katolickiego pozostają na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; Triarchia Domowa i biskup subdiecezjalny, zachowując te trzy więzy, korzystają z pełnej wspólnoty *ex ipso iure* — dlatego aktu przyjęcia dokonywanego wolą Triarchii nie można stawiać wyżej ani przed komunią z Biskupem Rzymu, a gościna wobec ochrzczonego biskupa subdiecezjalnego jest obowiązkiem, nie fakultetem (*gość w dom, Bóg w dom*).
+**§ 7.** Oparcie w kan. 205 KPK 1983: w pełnej wspólnocie Kościoła katolickiego pozostają na ziemi ci ochrzczeni, którzy w jego widzialnym organizmie łączą się z Chrystusem więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego; Triarchia Domowa i biskup  tytularny subdiecezji, zachowując te trzy więzy, korzystają z pełnej wspólnoty *ex ipso iure* — dlatego aktu przyjęcia dokonywanego wolą Triarchii nie można stawiać wyżej ani przed komunią z Biskupem Rzymu, a gościna wobec ochrzczonego biskupa tytularnego subdiecezji jest obowiązkiem, nie fakultetem (*gość w dom, Bóg w dom*) nawet po mimo faktu, iż kapłan z nadania Bożego opiekuje się całym Ludem Bożym zarówno wiernymi i niewierzącymi, a Biskup Rzymu jedynie wiernymi.
 
 **§ 8.** Triarchia Domowa działa zawsze w komunii z Kościołem Katolickim, Stolicą Apostolską i Biskupem Rzymu; aktu przyjęcia wolą Triarchii nie można interpretować jako aktu rzekomo wcześniejszego lub ważniejszego niż komunia z Biskupem Rzymu, ani jako warunku koniecznego dla bycia uznanym za katolika.
 
@@ -347,7 +347,7 @@
 
 ### Tytuł VI: Równość godności i komplementarność ról
 
-**Kan. 30 § 1.** Z racji odrodzenia w Chrystusie wszyscy wierni Kościoła Domowego są równi co do godności i działania (kan. 8 KPK). Żadna funkcja, rola czy stanowisko w strukturze Kościoła Domowego nie daje przewagi ontologicznej jednej osoby nad drugą. Zasada równości wiernych (kan. 8 KPK) znajduje dopełnienie w regule pierwszeństwa funkcjonalnego: niektórzy są „pierwsi” (Biskup Rzymu pośród biskupów; Kościół domowy pośród wspólnot; biskup domowy subdiecezjalny pośród hierarchów spotykanych przez wiernego), lecz zawsze „pierwsi z równych”.
+**Kan. 30 § 1.** Z racji odrodzenia w Chrystusie wszyscy wierni Kościoła Domowego są równi co do godności i działania (kan. 8 KPK). Żadna funkcja, rola czy stanowisko w strukturze Kościoła Domowego nie daje przewagi ontologicznej jednej osoby nad drugą. Zasada równości wiernych (kan. 8 KPK) znajduje dopełnienie w regule pierwszeństwa funkcjonalnego: niektórzy są „pierwsi” (Biskup Rzymu pośród biskupów; Kościół Domowy pośród wspólnot; biskup tytularny domostwa i subdiecezji pośród hierarchów spotykanych przez wiernego), lecz zawsze „pierwsi z równych”.
 
 **§ 2.** Każdemu z małżonków przysługują jednakowe obowiązki i prawa w tym, co dotyczy wspólnoty życia małżeńskiego (kan. 245 KPK). Podział ról funkcjonalnych (Głowa Rodu jako zarządzający, Małżonka jako nadzorująca) nie zmienia tej fundamentalnej równości.
 
@@ -423,7 +423,7 @@
 
 6° **prawo do ochrony miejsca świętego** (*confugium ad terram sanctam*) — osoba przyjęta nawet na chwilę, wobec groźby bezprawnego wyproszenia lub przemocy, chroni się na terenie nieruchomości (dom, ogród, kaplica domowa) i nie może być z niego wydana; Triarchia Domowa rozpoznaje sprawę w trybie pilnym.
 
-**§ 2.** Głowa Rodu jako biskup domowy nie może:
+**§ 2.** Głowa Rodu jako biskup tytularny domostwa nie może:
 
 1° stosować jakiejkolwiek formy przemocy fizycznej wobec członków wspólnoty;
 
@@ -487,13 +487,13 @@
 
 **§ 4.** Podział ról w Triarchii Domowej (Ojciec jako głowa, Matka jako szyja i nadzorująca, Potomek jako sekretarz i dziedzic) ma charakter funkcjonalny i komplementarny. Nie narusza on w żaden sposób ontologicznej równości godności obojga małżonków jako Dzieci Bożych (por. kan. 245 KPK).
 
-**§ 5.** Małżeństwo w Kościele Domowym jest obrazem miłości Chrystusa do Kościoła. Głowa Rodu jako biskup domowy ma obowiązek czuwać nad tym, by małżeństwo było przeżywane jako sakrament, a nie jedynie jako umowa organizacyjna czy spółka.
+**§ 5.** Małżeństwo w Kościele Domowym jest obrazem miłości Chrystusa do Kościoła. Głowa Rodu jako biskup tytularny domostwa ma obowiązek czuwać nad tym, by małżeństwo było przeżywane jako sakrament, a nie jedynie jako umowa organizacyjna czy spółka.
 
 **Kan. 38 § 1.** Małżeństwo stwarza zgoda stron między osobami prawnie do tego zdolnymi, wyrażona zgodnie z prawem, której nie może uzupełnić żadna ludzka władza (kan. 167 § 1 KPK).
 
 **§ 2.** Zgoda małżeńska jest aktem woli, którym mężczyzna i kobieta w nieodwołalnym przymierzu wzajemnie się sobie oddają i przyjmują w celu stworzenia małżeństwa (kan. 167 § 2 KPK).
 
-**§ 3.** Głowa Rodu jako biskup domowy subdiecezjalny ma obowiązek czuwać nad tym, by zgoda małżeńska była wyrażona w sposób wolny, świadomy i pełny, bez jakiegokolwiek przymusu, bojaźni czy podstępu.
+**§ 3.** Głowa Rodu jako biskup tytularny domostwa i subdiecezji ma obowiązek czuwać nad tym, by zgoda małżeńska była wyrażona w sposób wolny, świadomy i pełny, bez jakiegokolwiek przymusu, bojaźni czy podstępu.
 
 **Kan. 39 § 1.** Małżeństwo cieszy się przychylnością prawa, dlatego w wątpliwości należy uważać je za ważne, dopóki nie udowodni się czegoś przeciwnego (kan. 170 KPK).
 
