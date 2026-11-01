@@ -47,7 +47,7 @@
 **Kan. 56.** Ustawy państwowe, do których odsyła prawo kościelne, Kościół Domowy zachowuje w prawie kanonicznym na tyle, na ile nie są przeciwne prawu Bożemu i o ile prawo kanoniczne czego innego nie zastrzega (por. kan. 22 KPK), z uwzględnieniem Konstytucji Rzeczypospolitej Polskiej, prawa naturalnego i praw człowieka.
 
 ### Rozdział II: Ustawy partykularne
-**Kan. 57 § 1.** Ustawy partykularne Kościoła Domowego są promulgowane przez Głowę Rodu jako biskupa domowego i prawodawcę domowego i są promulgowane przez zamieszczenie w *Acta subdioecesis apostolicae* i uzyskują moc prawną w momencie promulgowania gdyż z natury rzeczy wiążą od razu albo w samej ustawie został specjalnie i wyraźnie określony krótszy lub dłuższy okres nieobowiązywalności. (por. kan. 8 § 2 KPK, zastosowany analogicznie).
+**Kan. 57 § 1.** Ustawy partykularne Kościoła Domowego są promulgowane przez Głowę Rodu jako biskupa tytularnego domostwa i prawodawcę domowego i mogą być zamieszczane w *Acta subdioecesis apostolicae* i uzyskują moc prawną w momencie promulgowania gdyż z natury rzeczy wiążą od razu albo w samej ustawie został specjalnie i wyraźnie określony krótszy lub dłuższy okres nieobowiązywalności. (por. kan. 8 § 2 KPK, zastosowany analogicznie).
 
 **§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z:
 
@@ -249,7 +249,9 @@
 
 **§ 2.** Głowa Rodu jako biskup domowy może dyspensować od ustaw domowych, a także, ilekroć uzna, że będzie to dla dobra wspólnoty domowej, od ustaw wydanych przez synod domowy (por. kan. 88 KPK, zastosowany analogicznie).
 
-**§ 3.** Głowa WszechRodu jako biskup Królestwa Niebieskiego może dyspensować członków wspólnoty Ludu Bożego — ilekroć uzna to za pożyteczne dla ich duchowego dobra — od ustaw dyscyplinarnych partykularnych wydanych przez siebie dla Królestwa Niebieskiego lub dla jej podwładnych także w sposób rozważny od ustaw powszechnych,
+**§ 3.** Głowa WszechRodu jako biskup tytularny Królestwa Niebieskiego, szafarz święty w osobie Chrystusa pasterzujący Ludowi Bożemu może dyspensować członków wspólnoty Ludu Bożego - zarówno wierzących jak i niewierzących — ilekroć uzna to za pożyteczne dla ich duchowego dobra — od ustaw dyscyplinarnych partykularnych wydanych przez siebie dla Królestwa Niebieskiego lub dla jej podwładnych także w sposób rozważny od ustaw powszechnych,
+
+**§ 4.** Dyspensa w sprawach dużej i bardzo dużej wagi powinna być udzielona przez dwoje lub troje biskupów tytularnych lub diecezjalnych zebranych w imię Jezusa Chrystusa zarówno.
 
 **Kan. 108.** Od ustawodawstwa kościelnego nie należy dyspensować bez słusznej i racjonalnej przyczyny, z uwzględnieniem okoliczności przypadku i ważności ustawy, od której się dyspensuje. W przeciwnym razie dyspensa jest niegodziwa a także nieważna, chyba że została udzielona przez prawodawcę lub jego przełożonego (por. kan. 90 § 1 KPK).
 
@@ -269,7 +271,7 @@
 
 **§ 3.** Przepisy statutów Kościoła Domowego, ustanowione i promulgowane mocą władzy ustawodawczej Głowy Rodu, kierują się przepisami niniejszego Kanonu o ustawach (por. kan. 94 § 3 KPK).
 
-**Kan. 114 § 1.** Przepisami porządkowymi Kościoła Domowego są reguły czy normy, które należy zachować podczas zgromadzeń wspólnoty domowej, ogłoszonych przez Głowę Rodu jako biskupa domowego, a także z okazji różnych obchodów, i przez które określa się to, co dotyczy ich ukonstytuowania, kierowania nimi i sposobu działania (por. kan. 95 § 1 KPK).
+**Kan. 114 § 1.** Przepisami porządkowymi Kościoła Domowego są reguły czy normy, które należy zachować podczas zgromadzeń wspólnoty domowej, ogłoszonych przez Głowę Rodu jako biskupa tytularnego domostwa, a także z okazji różnych obchodów, i przez które określa się to, co dotyczy ich ukonstytuowania, kierowania nimi i sposobu działania (por. kan. 95 § 1 KPK).
 
 **§ 2.** Podczas zgromadzeń i obchodów domowych przepisami porządkowymi są związane osoby, które biorą w nich udział (por. kan. 95 § 2 KPK).
 
@@ -301,7 +303,7 @@
 
 4° zatwierdzone przez Triarchię Domową;
 
-5° promulgowane przez Głowę Rodu jako biskupa domowego;
+5° promulgowane przez Głowę Rodu jako biskupa tytularnego domostwa;
 
 6° dostępne dla wszystkich członków wspólnoty;
 
@@ -309,11 +311,11 @@
 
 ## Tytuł VI: WŁADZA RZĄDZENIA W ODNIESIENIU DO PRAWA KOŚCIELNEGO
 
-**Kan. 117 § 1.** Kościół Domowy uznaje, że władza rządzenia, która jest w Kościele z Bożego ustanowienia i nazywana jest również władzą jurysdykcji, przysługuje w zakresie powszechnym Biskupowi Rzymskiemu i Kolegium Biskupów, a w zakresie partykularnym biskupom diecezjalnym i innym przełożonym kościelnym w tym biskupowi subdiecezjalnemu Kościoła Domowego zgodnie z prawem (por. kan. 129 KPK). Władza rządzenia, przysługująca Biskupowi Rzymskiemu i Kolegium Biskupów oraz biskupowi subdiecezjalnemu Kościoła Domowego, sprawowana jest na każdym szczeblu jako posługa pierwszego z równych.
+**Kan. 117 § 1.** Kościół Domowy uznaje, że władza rządzenia, która jest w Kościele z Bożego ustanowienia i nazywana jest również władzą jurysdykcji, przysługuje w zakresie powszechnym Biskupowi Rzymskiemu i Kolegium Biskupów, a w zakresie partykularnym biskupom diecezjalnym i innym przełożonym kościelnym w tym biskupowi tytularnemu subdiecezji Kościoła Domowego i Kościołowi Królestwa Niebieskiego zgodnie z prawem (por. kan. 129 KPK). Władza rządzenia, przysługująca Biskupowi Rzymskiemu i Kolegium Biskupów oraz biskupowi tytularnego subdiecezji Kościoła Domowego i Kościoła Królestwa Niebieskiego, sprawowana jest na każdym szczeblu jako posługa pierwszego z równych.
 
-**§ 2.** Głowa Rodu jako biskup domowy subdiecezjalny, wyświęcony Duchem Świętym i przyjęty lub nie przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie subdiecezji domowej zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów przez partykularny akt oddania się władzom kościola powszechnego (por. kan. 5 § 2 KPK).
+**§ 2.** Głowa Rodu jako biskup tytularny domostwa, subdiecezji i Królestwa Niebieskiego , ustanowiony przez Ojca z Nieba i natchniony Duchem Świętym i przyjęty przez Biskupa Rzymskiego, sprawuje władzę rządzenia w zakresie subdiecezji domowej i Królestwem Nebieskim zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów przez partykularny akt oddania się władzom kościola powszechnego (por. kan. 5 § 2 KPK).
 
-**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezjalny nieprzyjęty przez Biskupa Rzymskiego) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej w tym Triarchii Ojca z Nieba, Ducha Świętego i Syna Bożego i ustanowienia hierarchy subdiecezji macierzystej; dotyczy to także subdiecezji z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn). Ustanawiając subdiecezję i jej hierarchy, hierarcha macierzysty działa jako pierwszy z równych; przepis o „pominięciu pierwszego hierarchy związku subdiecezjatów” należy czytać jako wyraz porządku służebnego, nie hierarchii wartości osób — wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego nie tracą nic z równości wobec nowego hierarchy.
+**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezjalny  przez Biskupa Rzymskiego) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej w tym Triarchii Ojca z Nieba, Ducha Świętego i Syna Bożego i ustanowienia hierarchy subdiecezji macierzystej; dotyczy to także subdiecezji z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn). Ustanawiając subdiecezję i jej hierarchy, hierarcha macierzysty działa jako pierwszy z równych; przepis o „pominięciu pierwszego hierarchy związku subdiecezjatów” należy czytać jako wyraz porządku służebnego, nie hierarchii wartości osób — wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego nie tracą nic z równości wobec nowego hierarchy.
 
 **§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
 
