@@ -393,7 +393,7 @@
 
 ## Tytuł V: TRZY OBRZĄDKI DOMOWE
 
-**Kan. 176 § 1.** Dom rodzinny jako diecezja Kościoła Domowego jest miejscem świętym, w którym sprawowany jest kult Boży. Kościół Domowy uznaje, że przestrzeń domu winna być uświęcona przez modlitwę, błogosławieństwo i codzienną obecność Boga (por. kan. 335, 1226 KPK).
+**Kan. 176 § 1.** Dom rodzinny jako subdiecezja, Kościół Domowu jest miejscem świętym, w którym sprawowany jest kult Boży. Kościół Domowy uznaje, że przestrzeń domu winna być uświęcona przez modlitwę, błogosławieństwo i codzienną obecność Boga (por. kan. 335, 1226 KPK).
 
 **§ 2.** W każdym Kościele Domowym winno być przynajmniej jedno miejsce przeznaczone na modlitwę i sprawowanie obrzędów — kaplica domowa, kącik modlitewny lub ołtarzyk domowy (por. kan. 356-1229 KPK).
 
@@ -489,15 +489,15 @@
 
 **Kan. 182 § 1.** Cnoty w Kościele Domowym rozumiane są jako trwałe dyspozycje duchowe, moralne i intelektualne, które uzdalniają wiernych do działania zgodnego z Prawem Bożym i Naturalnym. Cnoty te są zarówno darem łaski, jak i owocem osobistego wysiłku formacyjnego.
 
-**§ 2.** Osoby, przedmioty i miejsca błogosławione w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
+**§ 2.** Osoby, uczynki, przedmioty i miejsca błogosławione w Kościele Domowym są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK). W przestrzeni domowej sprawowane są przez Głowę Rodu jako szafarza świętego na mocy powszechnego kapłaństwa wiernych (por. kan. 835 § 4 KPK) oraz prawa naturalnego.
 
 **§ 3.** Dary Ducha Świętego w Kościele Domowym rozumiane są jako stałe dyspozycje, które czynią człowieka uległym wobec poruszeń Ducha Świętego (por. KKK 1830-1831). Wierni Kościoła Domowego mają prawo i obowiązek prosić o te Dary, przyjmować je i rozwijać w codziennym życiu.
 
-**§ 4.** Charyzmaty w Kościele Domowym rozumiane są jako szczególne łaski Ducha Świętego udzielane wiernym dla budowania Ciała Chrystusowego i dobra wspólnoty (por. kan. 117 § 1, 211, 215 KPK). Głowa Rodu jako biskup domowy ma prawo i obowiązek rozpoznawać, potwierdzać, zachęcać do rozwoju i koordynować charyzmaty wśród członków wspólnoty i jako apostoł także nakładać charyzmaty.
+**§ 4.** Charyzmaty w Kościele Domowym rozumiane są jako szczególne łaski Ducha Świętego udzielane wiernym dla budowania Ciała Chrystusowego i dobra wspólnoty (por. kan. 117 § 1, 211, 215 KPK). Głowa Rodu jako biskup tytularny domostwa ma prawo i obowiązek rozpoznawać, potwierdzać, zachęcać do rozwoju i koordynować charyzmaty wśród członków wspólnoty i jako apostoł także nakładać charyzmaty.
 
 **Kan. 183 § 1.** Każdy wierny Kościoła Domowego, na mocy sakramentu chrztu i bierzmowania, posiada prawo i obowiązek rozwijania cnót, przyjmowania Darów Ducha Świętego i korzystania z charyzmatów dla dobra własnego i wspólnoty (por. kan. 1 KPK).
 
-**§ 2.** Głowa Rodu jako biskup domowy ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, funkcji osób, przedmiotów i mijsc błogosławionych, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
+**§ 2.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek zapewnić każdemu członkowi wspólnoty dostęp do formacji w zakresie cnót, funkcji osób, przedmiotów i miejsc błogosławionych, Darów i charyzmatów, stosownie do jego wieku, stanu i powołania.
 
 **§ 3.** Małżonka jako współszafarka łaski ma prawo i obowiązek współuczestniczenia w nauczaniu cnót, sprawowaniu przedmiotów błogosławionych i rozpoznawaniu Darów oraz charyzmatów w Kościele Domowym.
 
@@ -517,7 +517,7 @@
 
 6° nie mogą być narzucane wbrew woli osoby zainteresowanej.
 
-**Kan. 185 § 1.** Głowa Rodu jako biskup domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, przedmiotami błogosławionymi, Darami i charyzmatami oraz obrządki liturgiczne Pawlowy, Marii Magdaleny, Tomaszowy, pod warunkiem że:
+**Kan. 185 § 1.** Głowa Rodu jako biskup tytularny domowy ma prawo ustanawiać własne formuły błogosławieństw, modlitw i obrzędów związanych z cnotami, przedmiotami błogosławionymi, Darami i charyzmatami oraz obrządki liturgiczne Pawłowy, Marii Magdaleny, Tomaszowy, pod warunkiem że:
 
 1° są zgodne z duchem liturgii Kościoła;
 
@@ -545,11 +545,11 @@
 
 7° **Uroczystość Wszystkich Świętych** — celebracja soli (mądrość świętych) i świadectwa.
 
-## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, SAKRAMENTALIACH BŁOGOSŁAWIONYCH OSÓB PRZEDMIOTÓW I MIEJSC, DARACH I CHARYZMATACH
+## Tytuł VII: PRZEPISY OGÓLNE O CNOTACH, SAKRAMENTALIACH BŁOGOSŁAWIONYCH OSÓB, UCZYNKÓW, PRZEDMIOTÓW I MIEJSC, DARACH I CHARYZMATACH
 
 ### Rozdział I: Przepisy ogólne o nauczaniu cnót
 
-**Kan. 187 § 1.** Nauczanie cnót w Kościele Domowym jest obowiązkiem Głowy Rodu jako biskupa domowego i pierwszego katechety wspólnoty (por. kan. 139 § 2, 774 § 2, 776 KPK).
+**Kan. 187 § 1.** Nauczanie cnót w Kościele Domowym jest obowiązkiem Głowy Rodu jako biskupa tytularnego domostwa i pierwszego katechety wspólnoty (por. kan. 139 § 2, 774 § 2, 776 KPK).
 
 **§ 2.** Nauczanie cnót winno obejmować:
 
@@ -619,7 +619,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Pobożności to **Służenie** (*Diakonia*) — szczególna łaska do bezinteresownej pomocy bliźnim, opieki nad słabymi i chorymi oraz budowania wspólnoty.
 
-**Kan. 190.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 190.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° codziennie praktykować modlitwę poranną i wieczorną jako wyraz Pobożności;
 
@@ -665,7 +665,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Umiarkowania to **Kreatywna Inspiracja** (*Inspiratio Creativa*) — szczególna łaska do tworzenia dzieł piękna, sztuki i kultury na chwałę Bożą i dla dobra wspólnoty.
 
-**Kan. 192.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 192.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° nauczać członków wspólnoty umiarkowania w korzystaniu z dóbr materialnych;
 
@@ -759,7 +759,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Sprawiedliwości to **Uzdrawianie** (*Sanatio*) — szczególna łaska do przywracania zdrowia fizycznego, psychicznego, duchowego i relacyjnego.
 
-**Kan. 196.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 196.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° nauczać członków wspólnoty sprawiedliwości, przebaczenia i miłosierdzia;
 
@@ -807,7 +807,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Skrupulatności to **Języki** (*Linguae*) — szczególna łaska modlitwy, uwielbienia i głoszenia Słowa Bożego w sposób natchniony.
 
-**Kan. 198.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 198.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° błogosławić chleb i pokarmy przed każdym posiłkiem rodzinnym;
 
@@ -855,7 +855,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Roztropności to **Rozróżnianie Duchów** (*Discretio Spirituum*) — szczególna łaska do rozpoznawania działania Ducha Bożego, ducha ludzkiego i ducha złego.
 
-**Kan. 200.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 200.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° nauczać członków wspólnoty rozeznania duchowego;
 
@@ -905,7 +905,7 @@
 
 **§ 5.** Charyzmat związany z cnotą Nadziei to **Proroctwo** (*Prophetia*) — szczególna łaska do przekazywania Słowa Bożego, objawiania Bożego zamysłu i wzywania do nawrócenia.
 
-**Kan. 202.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 202.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° nauczać członków wspólnoty ufności w Boży plan i perspektywy wieczności;
 
@@ -941,7 +941,7 @@
 
 **§ 3.** Przedmioty błogosławione te nie zastępują sakramentów świętych, lecz je przedłużają, przygotowują do nich i pogłębiają ich owoce w codziennym życiu rodzinnym.
 
-**Kan. 204 § 1.** Szafarzem przedmiotów błogosławionych w Kościele Domowym jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy:
+**Kan. 204 § 1.** Szafarzem przedmiotów błogosławionych w Kościele Domowym jest Głowa Rodu jako biskup tytularny domostwa i arcykapłan, działający na mocy:
 
 1° powszechnego kapłaństwa wiernych wynikającego z sakramentu chrztu (por. kan. 204 § 1 KPK);
 
@@ -1226,7 +1226,7 @@
 
 **Kan. 214 § 1.** Kościół Domowy uznaje i naucza, że siedem Darów Ducha Świętego — Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza Pobożność — jest udzielanych wiernym w sakramencie bierzmowania i rozwijanych przez całe życie chrześcijańskie.
 
-**§ 2.** Głowa Rodu jako biskup domowy ma prawo i obowiązek:
+**§ 2.** Głowa Rodu jako biskup tytularny domostwa ma prawo i obowiązek:
 
 1° nauczać o Darach Ducha Świętego;
 
@@ -1354,7 +1354,7 @@
 
 **Kan. 224 § 1.** Kościół Domowy uznaje, że Duch Święty udziela wiernym rozmaitych charyzmatów dla budowania Ciała Chrystusowego i dobra wspólnoty (por. 1 Kor 12,4-11; kan. 117 § 1, 211 KPK).
 
-**§ 2.** Głowa Rodu jako biskup domowy ma prawo i obowiązek:
+**§ 2.** Głowa Rodu jako biskup tytularny domostwa ma prawo i obowiązek:
 
 1° rozpoznawać charyzmaty wśród członków wspólnoty;
 
@@ -1656,7 +1656,7 @@
 
 8° wspierać innych członków wspólnoty w ich rozwoju duchowym.
 
-**Kan. 237.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 237.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° codziennie sprawować przynajmniej jedno błogosławieństwo integrujące wszystkie trzy wymiary;
 
@@ -1682,13 +1682,13 @@
 
 6° korzystać z posługi Głowy Rodu jako szafarza świętego;
 
-**Kan. 239 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
+**Kan. 239 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa tytularnego domostwa, po konsultacji z Triarchią Domową.
 
 **§ 2.** W sprawach nieuregulowanych niniejszą Księgą stosuje się przepisy Kodeksu Prawa Kanonicznego z 1983 roku, Prawo Boże, Prawo Naturalne i prawa człowieka.
 
 **§ 3.** Żaden przepis niniejszej Księgi nie może być interpretowany w sposób sprzeczny z Prawem Bożym, naruszający godność osoby ludzkiej lub ograniczający wolność sumienia.
 
-**Kan. 240.** Głowa Rodu jako biskup domowy ma obowiązek:
+**Kan. 240.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
 
 1° czuwać nad wiernym stosowaniem przepisów niniejszej Księgi;
 
@@ -1706,9 +1706,9 @@
 
 ### Rozdział I: Szafarz i warunki sprawowania przedmiotów błogosławionych narzędziowych
 
-**Kan. 242 § 1.** Szafarzem przedmiotów błogosławionych narzędziowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 4 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
+**Kan. 242 § 1.** Szafarzem przedmiotów błogosławionych narzędziowych jest Głowa Rodu jako biskup tytularny domostwa i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych (kan. 4 § 1 KPK) oraz prawa naturalnego uznającego ojca za kapłana ogniska domowego.
 
-**§ 2.** Małżonka jako współszafarka łaski może błogosławić narzędzia pracy domowej (misę, igłę, grzebień) w nieobecności Głowy Rodu lub za jego delegacją.
+**§ 2.** Małżonka jako współszafarka łaski może błogosławić narzędzia pracy domowej (misę, igłę, grzebień) w nieobecności Głowy Rodu, w jego niemocy lub za jego delegacją.
 
 **§ 3.** Potomstwo, po osiągnięciu używania rozumu, może uczestniczyć w obrzędach błogosławieństwa narzędzi jako ministranci i świadkowie.
 
@@ -2199,7 +2199,7 @@
 
 ## Tytuł XIV: PRZEDMIOTY BŁOGOSŁAWIONE NARZĘDZIOWE
 
-**Kan. 262 § 1.** Głowa Rodu jako biskup domowy ma obowiązek prowadzić systematyczną formację członków wspólnoty w zakresie cnót, przedmiotów błogosławionych, Darów i charyzmatów.
+**Kan. 262 § 1.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek prowadzić systematyczną formację członków wspólnoty w zakresie cnót, przedmiotów błogosławionych, Darów i charyzmatów.
 **§ 2.** Formacja ta winna obejmować:
 
 1° cotygodniową katechezę domową (Obrządek Tomaszowy);
@@ -2316,9 +2316,9 @@
 
 6° odnawiane w błogosławieństwie przynajmniej raz w roku.
 
-**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia przedmiotów błogosławionych kultowych jest Głowa Rodu jako biskup domowy i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 204 § 1 KPK, kan. 230 § 2 KPK).
+**Kan. 272 § 1.** Szafarzem błogosławieństwa i poświęcenia przedmiotów błogosławionych kultowych jest Głowa Rodu jako biskup tytularny domostwa i arcykapłan, działający na mocy powszechnego kapłaństwa wiernych oraz prawa naturalnego (por. kan. 204 § 1 KPK, kan. 230 § 2 KPK).
 
-**§ 2.** Małżonka jako współszafarka łaski może błogosławić przedmioty błogosławione kultowe w nieobecności Głowy Rodu lub za jego delegacją.
+**§ 2.** Małżonka jako współszafarka łaski może błogosławić przedmioty błogosławione kultowe w nieobecności Głowy Rodu , jego niemocy lub za jego delegacją.
 
 **§ 3.** Potomstwo, po osiągnięciu używania rozumu, może uczestniczyć w obrzędach błogosławieństwa jako ministranci i świadkowie.
 
