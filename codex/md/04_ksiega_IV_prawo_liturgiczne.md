@@ -1,6 +1,6 @@
 # KSIĘGA IV — UŚWIĘCAJĄCE ZADANIE KOŚCIOŁA DOMOWEGO (*De Ecclesiae domesticae munere sanctificandi*)
 
-*Liturgia w tyl liturgia życia będąca liturgią godzin oraz obrządki domowe Pawlowy, Marii Magdaleny i Tomaszowy, sakramentalia błogosławienia osob, przedmiotów i miejsc,  rok liturgiczny domowy, modlitwa domowa, trzy obrządki oraz cnoty, dary i charyzmaty stanowią serce uświęcającego zadania Kościoła Domowego.*
+*Liturgia w tym liturgia życia będąca liturgią godzin oraz obrządki domowe Pawlowy, Marii Magdaleny i Tomaszowy, sakramentalia błogosławienia osób, uczynków, przedmiotów i miejsc,  rok liturgiczny domowy, modlitwa domowa, trzy obrządki oraz cnoty, dary i charyzmaty stanowią serce uświęcającego zadania Kościoła Domowego i Kościoła Królestwa Niebieskiego.*
 
 ---
 
@@ -14,7 +14,7 @@
 
 2° celebracje Słowa Bożego w tym obrządki Pawlowy, Marii Magdaleny i Tomaszowy;
 
-3° osoby, przedmioty i miejsca błogosławione i błogosławieństwa;
+3° osoby, uczynki, przedmioty i miejsca błogosławione i ich błogosławieństwa;
 
 4° obrzędy roku liturgicznego domowego;
 
@@ -22,7 +22,7 @@
 
 6° modlitwę wspólnotową i indywidualną.
 
-**Kan. 145.** Głowa Rodu jako arcykapłan przewodniczy liturgii domowej. W jego nieobecności funkcję tę sprawuje Małżonka lub wyznaczony członek wspólnoty.
+**Kan. 145.** Głowa Rodu jako arcykapłan przewodniczy liturgii domowej. W jego nieobecności funkcję tę sprawuje Małżonka lub wyznaczony członek wspólnoty w szczególności potomek.
 
 **Kan. 146.** Liturgia domowa powinna być sprawowana:
 
@@ -46,13 +46,16 @@
 
 5° dostosowanie do możliwości i wieku uczestników.
 
-## Tytuł II: OSOBY, PRZEDMIOTY I MIEJSCA BŁOGOSŁAWIONE DOMOWE — PRZEPISY OGÓLNE
+## Tytuł II: OSOBY, UCZYNKI, PRZEDMIOTY I MIEJSCA BŁOGOSŁAWIONE DOMOWE — PRZEPISY OGÓLNE
 
-**Kan. 148 § 1.** Sakramentalia domowe czyli osoby, przedmioty i miejsca błogosławione domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
+**Kan. 148** Sakramentalia domowe czyli osoby, uczynki, przedmioty i miejsca błogosławione domowe są świętymi znakami, przez które na podobieństwo sakramentów oznaczane i otrzymywane są ze wstawiennictwa Kościoła skutki, zwłaszcza duchowe (por. kan. 1166 KPK).
 
-**§ 2.** Szczegółowe formuły błogosławieństw siedmiu osób, przedmiotów i miejsc błogosławionych (wody, soli, chleba, popiołu, oleju, świecy i ziemi) zawiera Tytuł VIII niniejszej Księgi (kan. 207–213).
 
 ## Tytuł III: ROK LITURGICZNY W KOŚCIELE DOMOWYM
+
+**Kan. XXX - Błogosławieństwo korony:**
+**Kan. XXX - Błogosławieństwo czoła:**
+**Kan. XXX - Błogosławieństwo gardła:**
 
 **Kan. 149 — Błogosławieństwo popiołu i obrzęd pokutny (Serce — Sprawiedliwość — Pokuta):**
 
