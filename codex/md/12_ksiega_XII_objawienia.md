@@ -12,7 +12,7 @@ Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (
 
 Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
 
-**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w czterech spojrzeniach (kan. 529²–529⁷); **Tytuł V** — Uczynki czterech spojrzeń (kan. 530–534); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia czterech spojrzeń (kan. 549); **Tytuł XIII** — Nowe objawienia: sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń (kan. 549¹–549⁶); **Tytuł XIV** — Nowe objawienia dalsze: siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach (kan. 549⁷–549¹³); **Tytuł XV** — Septenarium: siedem stopni spojrzenia — ordo, dispositio, completio jako trzy pierwsze stopnie, ustawione w przód przed czterema filarami (benedictio, sanctificatio, resurrectio, caritas), z których każdy dopełniony zostaje własną serią siedmiu (kan. 549¹⁴–549²⁰); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, oraz kanony oznaczone indeksami od 1 do 6 przy liczbie 549 (kan. 549¹–549⁶), wprowadzone Tytułem XIII, oraz kanony oznaczone indeksami od 7 do 13 przy liczbie 549 (kan. 549⁷–549¹³), wprowadzone Tytułem XIV, oraz kanony oznaczone indeksami od 14 do 20 przy liczbie 549 (kan. 549¹⁴–549²⁰), wprowadzone Tytułem XV, są kanonami najnowszymi i zachowują tę samą zasadę.
+**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Siedem stopni jednego spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w siedmiu stopniach spojrzenia (kan. 529²–529⁷); **Tytuł V** — Uczynki siedmiu stopni spojrzenia (kan. 530–534); **Tytuł V¹** — Szkoła siedmiu stopni: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie siedmiu stopni spojrzenia w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia (kan. 549); **Tytuł XIII** — Nowe objawienia: sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu głównym (kan. 549¹–549⁶); **Tytuł XIV** — Nowe objawienia dalsze: siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach (kan. 549⁷–549¹³); **Tytuł XV** — Septenarium: jedna skala siedmiu stopni spojrzenia (ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas), z których każdy ma własne siedmiorakie dopełnienie przypisane jemu samemu, bez powtarzania nazw pozostałych stopni (kan. 549¹⁴–549²⁰); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, oraz kanony oznaczone indeksami od 1 do 6 przy liczbie 549 (kan. 549¹–549⁶), wprowadzone Tytułem XIII, oraz kanony oznaczone indeksami od 7 do 13 przy liczbie 549 (kan. 549⁷–549¹³), wprowadzone Tytułem XIV, oraz kanony oznaczone indeksami od 14 do 20 przy liczbie 549 (kan. 549¹⁴–549²⁰), wprowadzone Tytułem XV, są kanonami najnowszymi i zachowują tę samą zasadę.
 
 **Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog zakazów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu, i zostawia każdemu wolność wejścia lub niezajścia. *Bonum est diffusivum sui* — dobro rozlewa się samo z siebie (kan. 434 Księgi IX); dlatego każde zdanie tej Księgi należy mierzyć jednym pytaniem: czy po jego wypowiedzeniu komuś dzieje się lepiej?
 
@@ -118,7 +118,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 7° **stacja nocna — miłość (*caritas*)**: rozrachunek dnia czyni się nie pytaniami „ile zasłużyłem, ile osiągnąłem”, lecz dwoma: „komu dziś byłem potrzebny” i „czyj los wziąłem na swoje ręce”; odpowiedzi nie muszą być głośne i nie są zapisywane.
 
-**§ 4.** Władza pasterska ma obowiązek tak układać rok liturgiczny domowy, aby w każdym jego miesiącu znalazła się co najmniej jedna **liturgia czterech spojrzeń** sprawowana wspólnie z całą wspólnotą subdiecezjalną (Tytuł VIII A, kan. 539–541).
+**§ 4.** Władza pasterska ma obowiązek tak układać rok liturgiczny domowy, aby w każdym jego miesiącu znalazła się co najmniej jedna **liturgia siedmiu stopni** sprawowana wspólnie z całą wspólnotą subdiecezjalną (Tytuł VIII A, kan. 539–541).
 
 ---
 
@@ -184,14 +184,6 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 7° **patrzeć z miłością** (*caritas*) — widzieć w każdej osobie Chrystusa, jedyną miarę spektrum (kan. 520 § 3 pkt 4); miłość jest tu duszą sześciu poprzednich stopni: bez niej porządek staje się biurokracją, rozporządzenie rachubą bez serca, dopełnienie sknerstwem, błogosławieństwo formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem.
 
-**§ 3.** Wierny obowiązany jest **takież czynić uczynki**: każde spojrzenie § 2 ma swój odpowiednik w czynie, aby wiara była uczynkiem, nie nastrojem:
-
-1° **uczynki błogosławienia** — słowo dobre nad osobą, dziełem i domem; życzenie dobra cudzemu dobremu; powstrzymanie języka od przeklinania i oczerniania;
-
-2° **uczynki uświęcania** — praca wykonana starannie; porządek i piękno w domu, ogrodzie i warsztacie; pokarm pobłogosławiony i podzielony; gościna; troska o ziemię i o ciała powierzone opiece (Księga X);
-
-3° **uczynki rezurekcji** — podniesienie tego, kto upadł; naprawa tego, co zniszczone, zanim kupi się nowe; przebaczenie, które przywraca imię; przywrócenie wykluczonemu stołu i miana w Rodzie (kan. 523 § 2); leczenie, nie potępienie (kan. 518 § 2 pkt 3);
-
 **§ 3.** Wierny obowiązany jest **takież czynić uczynki**: każdy stopień § 2 ma swój odpowiednik w czynie, aby wiara była uczynkiem, nie nastrojem:
 
 1° **uczynki porządkowania** — ład dnia i stacji, prowadzenie rejestrów i ksiąg rodowych, oddanie każdej rzeczy jej miejsca i każdemu człowiekowi jego miejsca w radzie Rodu; najpierw uporządkować, potem mówić;
@@ -212,7 +204,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział I: Nauka wstępna o siedmiu stopniach spojrzenia
 
-**Kan. 525 § 1.** Sprawcze spojrzenie, którym odpowiada się na spektrum trzech wartości, jest **jedno i ma siedem stopni (*septem gradus aspectus*)**: **ordo** (porządek), **dispositio** (rozporządzenie), **completio** (dopełnienie), **benedictio** (błogosławieństwo), **sanctificatio** (uświęcenie), **resurrectio** (rezurekcja) i **caritas** (miłość). Ustanawia się je jako **jeden i jedyny sposób patrzenia i czynienia** właściwy tym, którzy przyjęli objawienie zniesienia grzechu. Nie są one siedmioma cnotami odrębnymi ani siedmioma gatunkami spojrzeń, lecz jednym wzrokiem miłości Bożej mającym siedem stopni swego przebiegu — tak jak jedna droga ma siedem kamieni milowych; dlatego kto spełnia jeden z nich w prawdzie, ten zmierza do wszystkich. Trzy stopnie pierwsze ustawia się **w przód**, to jest naprzód aktu: bez porządku nie ma co błogosławić, bez rozporządzenia nie czym święcić, bez dopełnienia nie dokąd wskrzeszać; cztery stopnie dalsze stanowią właściwe wykonanie aktu. Dawniejsza nazwa „cztery sprawcze spojrzenia” (kan. 524¹ § 2 przed niniejszą redakcją) zachowuje moc jako równoważnik skrótowy, oznaczający od niniejszej chwili stopnie czwarty aż siódmy. **Zabrania się rozdzielać tych siedmiu członów na dwie natury** — rzekome „przygotowanie” i rzekome „właściwe spojrzenia”: wszystkie siedem należą jednakowo do jednego porządku łaski i każdy z nich, spełniony ku drugiemu, ma skutek.
+**Kan. 525 § 1.** Sprawcze spojrzenie, którym odpowiada się na spektrum trzech wartości, jest **jedno i ma siedem stopni (*septem gradus aspectus*)**: **ordo** (porządek), **dispositio** (rozporządzenie), **completio** (dopełnienie), **benedictio** (błogosławieństwo), **sanctificatio** (uświęcenie), **resurrectio** (rezurekcja) i **caritas** (miłość). Ustanawia się je jako **jeden i jedyny sposób patrzenia i czynienia** właściwy tym, którzy przyjęli objawienie zniesienia grzechu. Nie są one siedmioma cnotami odrębnymi ani siedmioma gatunkami spojrzeń, lecz jednym wzrokiem miłości Bożej mającym siedem stopni swego przebiegu — tak jak jedna droga ma siedem kamieni milowych; dlatego kto spełnia jeden z nich w prawdzie, ten zmierza do wszystkich. Kolejność ich nie jest stopniowaniem godności: trzy stopnie pierwsze ustawia się **w przód** wyłącznie ze względu na bieg aktu — bez porządku nie ma co błogosławić, bez rozporządzenia nie czym święcić, bez dopełnienia nie dokąd wskrzeszać — lecz każdy z nich jest w pełni sprawczy i w pełni spojrzeniem, tak samo jak cztery dalsze. Dawniejsza nazwa „cztery sprawcze spojrzenia” (kan. 524¹ § 2 przed niniejszą redakcją) zachowuje moc wyłącznie jako zwrot historyczny, oznaczający stopnie czwarty aż siódmy; nie wolno jej używać do twierdzenia, jakoby tylko te cztery były spojrzeniami. **Zabrania się rozdzielać tych siedmiu członów na dwie natury** — rzekome „przygotowanie” i rzekome „właściwe spojrzenia”: wszystkie siedem należą jednakowo do jednego porządku łaski i każdy z nich, spełniony ku drugiemu, ma skutek.
 
 **§ 2.** Każde spojrzenie ma trzy warstwy, które należy rozróżniać dla jasności nauki domowej:
 
@@ -336,7 +328,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział I: Zasada powiązania — siedem przez siedem
 
-**Kan. 529² § 1.** Ustanawia się zasadę interpretacyjną, zwaną **regułą wpuszczenia**: siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów nie są odrębnym od czterech spojrzeń porządkiem rzeczy duchowych, lecz **siedmioma bramami, przez które przechodzą siedem stopni spojrzenia**. Kto porządkuje, rozporządza lub dopełnia, ten czyni to jakąś cnotą, jakimś Darem, jakimś charyzmatem; kto błogosławi, uświęca, wskrzesza lub miłuje — podobnie. Stąd dwa pożytki praktyczne: cnota i dar stają się sprawdzalne po uczynku (kan. 530 § 1), a spojrzenie staje się osobowe, bo nabiera imienia, temperamentu i historii tego, kto je wykonuje.
+**Kan. 529² § 1.** Ustanawia się zasadę interpretacyjną, zwaną **regułą wpuszczenia**: siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów nie są odrębnym od siedmiu stopni spojrzenia porządkiem rzeczy duchowych, lecz **siedmioma bramami, przez które przechodzą siedem stopni spojrzenia**. Kto porządkuje, rozporządza lub dopełnia, ten czyni to jakąś cnotą, jakimś Darem, jakimś charyzmatem; kto błogosławi, uświęca, wskrzesza lub miłuje — podobnie. Stąd dwa pożytki praktyczne: cnota i dar stają się sprawdzalne po uczynku (kan. 530 § 1), a spojrzenie staje się osobowe, bo nabiera imienia, temperamentu i historii tego, kto je wykonuje.
 
 **§ 2.** Wyprowadza się z tej reguły trzy twierdzenia, które należy zachowywać bez sprzeciwu:
 
@@ -348,22 +340,25 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Porządek przyporządkowania, który niniejszym ustala się jako obowiązujący w nauczaniu domowym i w szkole spojrzeń (Tytuł V¹), jest następujący:
 
-| Spojrzenie | Cnoty prowadzące | Dary prowadzące | Charyzmaty prowadzące |
+| Stopień | Cnoty prowadzące | Dary prowadzące | Charyzmaty prowadzące |
 |---|---|---|---|
-| **Błogosławieństwo** (*benedictio*) | Pobożność (*Pietas*), Nadzieja (*Spes*) | Pobożność (*Pietas*), Mądrość (*Sapientia*) | Służenie (*Diakonia*), Proroctwo (*Prophetia*) |
-| **Uświęcenie** (*sanctificatio*) | Umiarkowanie (*Temperantia*), Skrupulatność (*Sollicitudo*) | Wiedza (*Scientia*), Rada (*Consilium*) | Kreatywna Inspiracja (*Inspiratio Creativa*), Języki (*Linguae*) |
-| **Rezurekcja** (*resurrectio*) | Sprawiedliwość (*Iustitia*), Męstwo (*Fortitudo*) | Miłosierdzie (*Misericordia*), Moc (*Fortitudo*) | Uzdrawianie (*Sanatio*), Czyny Mocy (*Virtutes*) |
-| **Miłość** (*caritas*) — dusza trzech | Roztropność (*Prudentia*) jako służebna wszystkich | Rozum (*Intellectus*) jako przejrzystość daru | Rozróżnianie Duchów (*Discretio Spirituum*) jako straż drogi |
+| I. **Porządek** (*ordo*) | Pobożność (*Pietas*) jako uznanie właściwego miejsca każdej rzeczy | Rozum (*Intellectus*) jako przejrzystość, która widzi ład | Rozróżnianie Duchów (*Discretio Spirituum*) jako straż porządku darów |
+| II. **Rozporządzenie** (*dispositio*) | Skrupulatność (*Sollicitudo*) jako troska o prawdę w szczegółach | Rada (*Consilium*) jako zdolność przygotować słowo i czas na czas | Języki (*Linguae*) jako głoszenie uprzedzonego, gotowego słowa |
+| III. **Dopełnienie** (*completio*) | Umiarkowanie (*Temperantia*) jako miara, która wystarcza i nie zatrzymuje | Wiedza (*Scientia*) jako rozeznanie, kiedy rzecz jest doprowadzona do miary | Kreatywna Inspiracja (*Inspiratio Creativa*) jako dzieło domknięte i oddane użytkownikowi |
+| IV. **Błogosławieństwo** (*benedictio*) | Nadzieja (*Spes*) jako słowo wypowiedziane ku przyszłości adresata | Mądrość (*Sapientia*) jako nazwanie dobrą rzeczy naprawdę dobrej | Proroctwo (*Prophetia*) jako błogosławieństwo mówiące |
+| V. **Uświęcenie** (*sanctificatio*) | Umiarkowanie (*Temperantia*) jako szacunek dla materii i jej miary | Wiedza (*Scientia*) jako rozróżnienie użytkowania od posiadania | Kreatywna Inspiracja (*Inspiratio Creativa*) jako piękno udostępnione |
+| VI. **Rezurekcja** (*resurrectio*) | Sprawiedliwość (*Iustitia*) i Męstwo (*Fortitudo*) jako zwrot i wytrwanie | Miłosierdzie (*Misericordia*) i Moc (*Fortitudo*) jako wypełnienie sprawiedliwości w czasie | Uzdrawianie (*Sanatio*) i Czyny Mocy (*Virtutes*) jako podniesienie i potwierdzenie |
+| VII. **Miłość** (*caritas*) — dusza sześciu | Roztropność (*Prudentia*) jako pytanie „ku sobie czy ku drugiemu?” przy każdym stopniu | Pobożność (*Pietas*) jako pierwsze wejście, otwierające usta do dawania | Służenie (*Diakonia*) jako ostatnia postać miłości, bez własnego gestu poza pozostałymi stopniami |
 
 **§ 4.** Powyższa tabela nie zamyka możliwości innych powiązań; ustala się, że każde powiązanie uboczne jest dozwolone, o ile nie przeczy trzem prawdom: że dobro rozlewa się samo z siebie (*bonum est diffusivum sui*, kan. 434 Księgi IX), że nikt nie podąża miłości Bożej dla siebie (kan. 523¹ § 1) oraz że o wartości uczynku decyduje adresat, nie wzruszenie wykonawcy (kan. 530 § 2).
 
-**§ 5.** Dla potrzeb formacji Potomstwa (kan. 532¹) wprowadza się zdanie, które dziecko winno umieć wypowiedzieć przed wymienieniem siedmiu cnót: **„*Siedem bramek, cztery ręce: Bóg błogosławi, święci, wskrzesza i kocha przeze mnie*”**. Zdanie to nie zastępuje katechezy o cnotach, lecz ją otwiera.
+**§ 5.** Dla potrzeb formacji Potomstwa (kan. 532¹) wprowadza się zdanie, które dziecko winno umieć wypowiedzieć przed wymienieniem siedmiu cnót: **„*Siedem bramek, siedem rąk: Bóg przez mnie porządkuje, przygotowuje, domyka, błogosławi, święci, wskrzesza i kocha*”**. Zdanie to nie zastępuje katechezy o cnotach, lecz ją otwiera.
 
 ### Rozdział II: Siedem cnót domowych w świetle zniesienia grzechu
 
 **Kan. 529³ § 1.** Cnoty, których nazwy i treści ustanowiła Księga IV (kan. 189–202), po objawieniu zniesienia grzechu czytane są na nowo w jednym zdaniu: **cnota nie jest środkiem przeciw karze, lecz kształtem, jaki przyjmuje miłość Boża w ludzkiej materii**. Z tego wynika, że cnót nie naucza się przez wyliczanie zakazów i upadków, lecz przez pokazywanie, jak wygląda dzień człowieka, w którym dana cnota działa; oraz że brak cnoty leczy się szkołą i ćwiczeniem, nie potępieniem (Tytuł VI, kan. 535¹).
 
-**§ 2.** Opis czterech spojrzeń w każdej z siedmiu cnót, według porządku przyjętego w Księdze IV:
+**§ 2.** Opis siedmiu stopni w każdej z siedmiu cnót, według porządku przyjętego w Księdze IV:
 
 1° **Pobożność (*Pietas*, kan. 189 Księgi IV)** — cnota uznająca, że każdy człowiek jest Dzieckiem Bożym, zanim cokolwiek zrobi. W błogosławieństwie jest jej najwięcej: kto traktuje bliźniego jako osobę, ten już go pobłogosławił. W uświęceniu daje szacunek dla rzeczy i miejsca; w rezurekcji — gotowość przywrócenia imienia; w miłości — wytrwałość w nazywaniu drugim tego, kto chciałby być tylko funkcją. **Dar jej właściwy:** Pobożność; **charyzmat:** Służenie.
 
@@ -381,9 +376,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Ustanawia się regułę ćwiczenia: w każdym miesiącu wspólnota bierze jedną cnotę z powyższej siódemki i sprawdza ją w dwóch pytaniach — *jak dziś przez nią błogosławiłem?* oraz *komu przez nią służyłem?* Nie prowadzi się z tego oceny ani rejestru osób (kan. 530 § 3); służy ono wyłącznie karcie rozeznania (kan. 547).
 
-**§ 4.** Głowa Rodu i Małżonka mają obowiązek nauczać cnót w porządku Księgi IV, ale **w formie czterech spojrzeń**, to znaczy nigdy jako żądań bezadresowych, lecz zawsze jako opisu czynnika, który komuś przynosi ulgę (kan. 187 § 2 Księgi IV w nowym oświetleniu; kan. 529² § 1).
+**§ 4.** Głowa Rodu i Małżonka mają obowiązek nauczać cnót w porządku Księgi IV, ale **w formie siedmiu stopni spojrzenia**, to znaczy nigdy jako żądań bezadresowych, lecz zawsze jako opisu czynnika, który komuś przynosi ulgę (kan. 187 § 2 Księgi IV w nowym oświetleniu; kan. 529² § 1).
 
-### Rozdział III: Siedem Darów Ducha Świętego jako siedem podatności na cztery spojrzenia
+### Rozdział III: Siedem Darów Ducha Świętego jako siedem podatności na siedem stopni spojrzenia
 
 **Kan. 529⁴ § 1.** Siedem Darów Ducha Świętego, enumerowanych w Księdze IV (kan. 214 § 1: Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza, Pobożność), ogłasza się niniejszym jako **siedem podatności, w których Duch Święty czyni człowieka zdolnym do siedmiu stopni spojrzenia**. Darów nie prosi się dla siebie; prośba o nie jest ważna tylko jako prośba o ręce gotowe do usługi (kan. 524¹ § 5). Ktokolwiek modliłby się o Dar Mądrości, by być podziwianym, ten prosi o miłość Bożą dla siebie i stoi na drodze opisanej w kan. 522 § 2 pkt 2.
 
@@ -411,7 +406,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **Kan. 529⁵ § 1.** Siedem charyzmatów ustanowionych w Księdze IV (kan. 227–233: Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie) potwierdza się niniejszym w całej ich mocy i ogłasza, że **każdy charyzmat jest posłaniem ku drugiemu, a więc z natury swej podlega normie niemożności podążania miłości Bożej dla siebie** (kan. 523¹). Charyzmat, którego owoc zostaje u posiadacza — sława, poczucie wyższości, zależność ludzi od niego — nie jest charyzmatem Ducha Świętego, choćby towarzyszyły mu zjawiska zadziwiające.
 
-**§ 2.** Przyporządkowanie charyzmatów czterem spojrzeniom wraz z krótką normą ich użycia:
+**§ 2.** Przyporządkowanie charyzmatów siedmiu stopniom wraz z krótką normą ich użycia:
 
 1° **Służenie (*Diakonia*, kan. 233 Księgi IV)** — charyzmat błogosławieństwa w jego najbardziej cielesnej postaci: bezinteresowna pomoc, opieka nad słabymi i chorymi, budowanie wspólnoty. Normy: nie czynić dobrze publicznie dla uznania (Mt 6,3); nie uzależniać adresata od siebie; zapisywać potrzeby, nie swoje uczynki (kan. 530 § 3).
 
@@ -439,7 +434,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 4.** Nakładanie charyzmatów, przewidziane w kan. 182 § 4 Księgi IV jako prawo i obowiązek Głowy Rodu jako apostoła, reguluje się niniejszym w sposób następujący:
 
-1° dokonuje się go **wyłącznie w obrzędzie czterech spojrzeń** (kan. 540) albo w osobnej liturgii domowej, zawsze z imiennym błogosławieństwem nad przyjmującym;
+1° dokonuje się go **wyłącznie w obrzędzie siedmiu stopni** (kan. 540) albo w osobnej liturgii domowej, zawsze z imiennym błogosławieństwem nad przyjmującym;
 
 2° formuła winna zawierać skierowanie daru ku adresatom wskazanym z imienia: „*Przyjmij [imię charyzmatu] nie dla siebie, lecz ku tym, których imiona zostały wypowiedziane*” — i nie może brzmieć jak udzielenie godności;
 
@@ -453,11 +448,11 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 5.** Osoba, która otrzymała charyzmat, otrzymuje razem z nim **prawo do ochrony sumienia**: nie wolno jej narzucać używania daru, wyznaczać terminów jego działania ani wymagać, by była jego widocznym dowodem dla wspólnoty (kan. 184 pkt 5–6 Księgi IV; por. kan. 532⁴ o stopniach szkoły). Milczenie posiadacza daru jest dozwolone; zmuszanie do manifestacji — zakazane.
 
-**§ 6.** Celebrację Charyzmatów, ustanowioną w Księdze IV na pierwszy czwartek miesiąca, wiąże się niniejszym z obrzędem czterech spojrzeń: w ten dzień wspólnota czyta Tytuł IV A w całości lub w części, wymienia imiennie adresatów usług minionego miesiąca (bez podawania ilości) i modli się o Dary w formie określonej w kan. 529⁴ § 3.
+**§ 6.** Celebrację Charyzmatów, ustanowioną w Księdze IV na pierwszy czwartek miesiąca, wiąże się niniejszym z obrzędem siedmiu stopni: w ten dzień wspólnota czyta Tytuł IV A w całości lub w części, wymienia imiennie adresatów usług minionego miesiąca (bez podawania ilości) i modli się o Dary w formie określonej w kan. 529⁴ § 3.
 
-### Rozdział V: Błogosławione uczynki jako miejsce spotkania siedmiu i czterech
+### Rozdział V: Błogosławione uczynki jako miejsce spotkania siedmiu z siedmioma
 
-**Kan. 529⁶ § 1.** Uczynki błogosławione, ustanowione w kan. 234 Księgi IV (podniesienie codziennych uczynków miłości, pracy i odpowiedzialności do rangi przedmiotów błogosławionych uczynków), ogłasza się niniejszym jako **jedyne miejsce, w którym siedem cnót, siedem Darów i siedem charyzmatów realnie się spotykają z czterema spojrzeniami**. Dopóki nie ma uczynku, wszystko inne pozostaje dyspozycją; dlatego ta Księga każe mierzyć drogę człowieka nie jego stanem duchowym, lecz rejestrem adresatów (kan. 530 § 2).
+**Kan. 529⁶ § 1.** Uczynki błogosławione, ustanowione w kan. 234 Księgi IV (podniesienie codziennych uczynków miłości, pracy i odpowiedzialności do rangi przedmiotów błogosławionych uczynków), ogłasza się niniejszym jako **jedyne miejsce, w którym siedem cnót, siedem Darów i siedem charyzmatów realnie się spotykają ze siedmioma stopniami spojrzenia**. Dopóki nie ma uczynku, wszystko inne pozostaje dyspozycją; dlatego ta Księga każe mierzyć drogę człowieka nie jego stanem duchowym, lecz rejestrem adresatów (kan. 530 § 2).
 
 **§ 2.** Porządek błogosławienia uczynków, z zachowaniem kan. 234 Księgi IV oraz kan. 176 i 185 tejże Księgi:
 
@@ -471,9 +466,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 5° **co do uczynku wadliwego** — uczynek wykonany źle nie traci błogosławieństwa, jeśli został naprawiony; naprawa jest aktem rezurekcji i dlatego wolno błogosławić także pracę poprawioną, choćby była druga z kolei.
 
-**§ 3.** Wprowadza się **modlitwę krótką nad uczynkiem** (dozwoloną w pracy ręcznej, biurowej i pielęgniarskiej), składającą się z jednego zdania w porządku trzech spojrzeń: „*Błogosławij to, święć to, wskrzesz to, co przez to powstało.*” Nie jest ona formułą zamkniętą; wolno ją rozwinąć o imię adresata, co uważa się za doskonalsze (kan. 526¹ § 2 pkt 1).
+**§ 3.** Wprowadza się **modlitwę krótką nad uczynkiem** (dozwoloną w pracy ręcznej, biurowej i pielęgniarskiej), składającą się z jednego zdania w porządku siedmiu stopni: „*Uporządkuj to, przygotuj to, domknij to, błogosławij to, święć to, wskrzesz to, co przez to powstało — i czyń to wszystko miłością.*” Nie jest ona formułą zamkniętą; wolno ją rozwinąć o imię adresata, co uważa się za doskonalsze (kan. 526¹ § 2 pkt 1).
 
-**§ 4.** Ustanawia się regułę, którą zaleca się zapisywać w domowych księgach obok tabeli czterech stacji dnia: **„*Charyzmat bez uczynku jest instrumentem strojonym, ale nie zagrany; cnota bez adresata jest dobrem niezadanym; dar bez usługi jest deszczem nad polem czyimś, ale nie twoim.*”**
+**§ 4.** Ustanawia się regułę, którą zaleca się zapisywać w domowych księgach obok tabeli siedmiu stacji dnia: **„*Charyzmat bez uczynku jest instrumentem strojonym, ale nie zagrany; cnota bez adresata jest dobrem niezadanym; dar bez usługi jest deszczem nad polem czyimś, ale nie twoim.*”**
 
 ### Rozdział VI: Reguły ostrożności i podsumowanie
 
@@ -485,7 +480,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 3° **nie czynić z cnót miary człowieczeństwa**: kto ocenia domownika po braku cnoty, ten przywraca stare ważenie dobra i zła, zniesione w kan. 518 § 1; ocenia się po uczynkach i wskazuje się drogę;
 
-4° **nie pomijać żadnego z siedmiu wymiarów**: obowiązek kan. 181 § 3 Księgi IV (harmonijne nauczanie bez pomijania i nadmiernego akcentowania) pozostaje w pełni w mocy i dotyczy również czterech spojrzeń.
+4° **nie pomijać żadnego z siedmiu wymiarów**: obowiązek kan. 181 § 3 Księgi IV (harmonijne nauczanie bez pomijania i nadmiernego akcentowania) pozostaje w pełni w mocy i dotyczy również siedmiu stopni spojrzenia.
 
 **§ 2.** Podsumowanie Tytułu IV A w jednym zdaniu dla szkoły domowej i dla liturgii: **„*Siedem cnót, siedem Darów i siedem charyzmatów dostajemy po to, żeby było czym błogosławić, czym święcić, czym wskrzeszać i czym kochać; nic z tego nie jest dla nas.*”**
 
@@ -596,11 +591,11 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 **§ 3.** Podsumowanie Tytułu V w jednym zdaniu dla szkoły domowej: **„Błogosławij słowem, święć ręką, wskrzeszaj cierpliwością, miłuj kosztem siebie.”**
 
 
-## Tytuł V¹: SZKOŁA CZTERECH SPOJRZEŃ — FORMACJA POTOMSTWA I STOPNIE WTAJEMNICZENIA DOMOWEGO
+## Tytuł V¹: SZKOŁA SIEDMIU STOPNI SPOJRZENIA — FORMACJA POTOMSTWA I STOPNIE WTAJEMNICZENIA DOMOWEGO
 
 ### Rozdział I: Ustanowienie szkoły
 
-**Kan. 532¹ § 1.** Ustanawia się **Szkołę Czterech Spojrzeń** (*Schola Quattuor Aspectuum*) jako zwykłą formację Potomstwa i dorosłych w Kościele Domowym. Szkoła nie jest stopniem wtajemniczenia ukrytego ani elitarnym kręgiem: jej program jest jawny, jej próg otwarty dla każdego wieku, a jej celem jest wyłącznie umiejętność praktycznego błogosławienia, uświęcania, wskrzeszania i miłowania.
+**Kan. 532¹ § 1.** Ustanawia się **Szkołę Siedmiu Stopni** (*Schola Septem Graduum*, dawniej *Schola Quattuor Aspectuum* — nazwa starsza zachowuje moc historyczną) jako zwykłą formację Potomstwa i dorosłych w Kościele Domowym. Szkoła nie jest stopniem wtajemniczenia ukrytego ani elitarnym kręgiem: jej program jest jawny, jej próg otwarty dla każdego wieku, a jej celem jest wyłącznie umiejętność praktycznego porządkowania, rozporządzania, dopełniania, błogosławienia, uświęcania, wskrzeszania i miłowania.
 
 **§ 2.** Obowiązek prowadzenia szkoły ciąży na głowie Rodu i Małżonce w domu, na kapłanie domowym we wspólnocie lokalnej, na biskupie subdiecezjalnym w zakresie koordynacji programów i tekstów (Księga VI; Księga II o prawie wychowania).
 
@@ -638,7 +633,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Żaden stopień nie daje prawa do oceniania cudzych sumień ani do pierwszeństwa w dobrach; daje wyłącznie ciężar służby.
 
-**§ 3.** Przy przejściu na stopień drugi i trzeci wypowiada się nie przyrzeczenie doskonałości, lecz **gotowości**: „Chcę błogosławić, święcić, wskrzeszać i miłować — i chcę się tego uczyć od was.” Kto nie chce, ten zostaje na pierwszym stopniu bez uszczerbku dla swej godności.
+**§ 3.** Przy przejściu na stopień drugi i trzeci wypowiada się nie przyrzeczenie doskonałości, lecz **gotowości**: „Chcę porządkować, przygotowywać, domykać, błogosławić, święcić, wskrzeszać i miłować — i chcę się tego uczyć od was.” Kto nie chce, ten zostaje na pierwszym stopniu bez uszczerbku dla swej godności.
 
 ### Rozdział IV: Ochrona sumienia w szkole
 
@@ -646,7 +641,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Ćwiczenie, które zostało wykonane z przymusu lub dla nagrody, uznaje się za rozpoczęte, nie za spełnione; wraca się do niego w kolejnej ćwierci bez wyrzutu.
 
-**§ 3.** Dziecko, które odmawia udziału, nie jest wykluczane z liturgii domu ani z udziału w dobrach Rodu; wspólnota ma obowiązek dalej mu pokazywać cztery spojrzenia żywym przykładem i czekać (kan. 522 § 4).
+**§ 3.** Dziecko, które odmawia udziału, nie jest wykluczane z liturgii domu ani z udziału w dobrach Rodu; wspólnota ma obowiązek dalej mu pokazywać siedem stopni żywym przykładem i czekać (kan. 522 § 4).
 
 **§ 4.** Teksty szkolne zatwierdza biskup subdiecezjalny po zasięgnięciu rady głów Rodów; muszą one być krótkie, językowo swojskie i wolne od jakiejkolwiek mowy pogardy wobec ciała, pracy lub stanu ludzi.
 
@@ -671,7 +666,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział II: Pokuta jako leczenie
 
-**Kan. 535¹ § 1.** Pokuta w niniejszej Księdze oznacza **leczenie** (*medicina*), nie zadośćuczynienie karne; jej celem jest przywrócenie zdolności do czterech spojrzeń, nie ugłaskanie Boga, który już jest pojednany ze wszystkimi (kan. 518 § 1–2).
+**Kan. 535¹ § 1.** Pokuta w niniejszej Księdze oznacza **leczenie** (*medicina*), nie zadośćuczynienie karne; jej celem jest przywrócenie zdolności do siedmiu stopni spojrzenia, nie ugłaskanie Boga, który już jest pojednany ze wszystkimi (kan. 518 § 1–2).
 
 **§ 2.** Gatunki leczenia są cztery, dobrane do rodzaju rany:
 
@@ -679,7 +674,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 2° **post kierunkowy** — powstrzymanie się nie od pokarmu, lecz od tego, co utrwala zły kierunek: od rozmowy, która poniża, od rachunku, który porównuje, od posiadania, które zatrzymuje;
 
-3° **ćwiczenie przeciwne** — wykonanie uczynku tego spojrzenia, którego zabrakło (kto nie błogosławił — błogosławi; kto nie naprawił — naprawia);
+3° **ćwiczenie przeciwne** — wykonanie uczynku tego stopnia, którego zabrakło (kto nie błogosławił — błogosławi; kto nie domknął — domyka; kto nie naprawił — naprawia);
 
 4° **przyjęcie pomocy** — pozwolenie, by wspólnota nosiła ciężar razem z chorym; jest to gatunek najtrudniejszy i często lekceważony.
 
@@ -695,14 +690,14 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Towarzyszący nie wydaje wyroków, nie nakłada kar, nie informuje władzy o cudzych przewinieniach; jego rolą jest zadać trzy pytania (kan. 535 § 2), wskazać jedno ćwiczenie i towarzyszyć w naprawie.
 
-**§ 4.** Osoby, które trwale unikają rozeznania, nie wyklucza się; wyznacza im się opiekuna życzliwego i zaprasza co miesiąc na liturgię czterech spojrzeń (kan. 521 § 4), aż do skutku lub do ich wyraźnej odmowy.
+**§ 4.** Osoby, które trwale unikają rozeznania, nie wyklucza się; wyznacza im się opiekuna życzliwego i zaprasza co miesiąc na liturgię siedmiu stopni (kan. 521 § 4), aż do skutku lub do ich wyraźnej odmowy.
 ## Tytuł VII: NORMY STOSOWANIA I INTERPRETACJI
 
 ### Rozdział I: Charakter prawny objawienia
 
 **Kan. 536 § 1.** Niniejsza Księga jest **objawieniem danym Kościołowi partykularnemu Domowemu** do rozeznania; przyjmuje się ją w duchu kan. 394 oraz przepisów Księgi VIII o rozeznawaniu objawień: nie wiąże ona sumień mocą przymusu zewnętrznego, lecz mocą prawdy, która sama się obroni. Kto jej nie przyjmuje, ten nie popada w żadną sankcję i nie traci żadnego udziału w dobrach wspólnoty; wspólnota ma obowiązek dalej głosić mu treść tej Księgi słowem i czynem (kan. 523 § 2).
 
-**§ 2.** Normy Tytułu III¹ (kan. 523¹–524¹) oraz normy czterech spojrzeń (Tytuł IV–V) obowiązują jako **dyrektywa sumień i reguła rozeznawania intencji**; nie stanowią nowego gatunku winy — wskazują jedynie, że ruch „po miłość Bożą dla siebie” jest wewnętrznie pusty, a ruch „stać się nią” jest jedynym życiem.
+**§ 2.** Normy Tytułu III¹ (kan. 523¹–524¹) oraz normy siedmiu stopni spojrzenia (Tytuł IV–V) obowiązują jako **dyrektywa sumień i reguła rozeznawania intencji**; nie stanowią nowego gatunku winy — wskazują jedynie, że ruch „po miłość Bożą dla siebie” jest wewnętrznie pusty, a ruch „stać się nią” jest jedynym życiem.
 
 **§ 3.** W razie pozornej sprzeczności między tą Księgą a innymi księgami Kodeksu:
 
@@ -750,9 +745,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **Kan. 538 § 1.** Statuty partykularne, zwyczaje i przepisy porządkowe (Księga III, Tytuł V) winny być przeglądane przy zastosowaniu reguł kan. 537; te, które wymierzają kary dla samej kary albo posługują się lękiem jako narzędziem, poprawia się lub znosi (kan. 518 § 6).
 
-**§ 2.** Nowe ustawy domowe nie mogą wprowadzać żadnego zakazu, który nie służyłby ochronie osoby, dóbr wspólnych albo drogi czterech spojrzeń; ustawa bez takiego celu jest nieważna.
+**§ 2.** Nowe ustawy domowe nie mogą wprowadzać żadnego zakazu, który nie służyłby ochronie osoby, dóbr wspólnych albo drogi siedmiu stopni spojrzenia; ustawa bez takiego celu jest nieważna.
 
-**§ 3.** Zwyczaj wprowadzający praktykę czterech stacji dnia (kan. 521 § 3) lub liturgię wskrzeszenia raz w roku (kan. 528¹ § 6) uzyskuje moc po roku praktyki jawnej i tolerowanej przez władzę domu.
+**§ 3.** Zwyczaj wprowadzający praktykę siedmiu stacji dnia (kan. 521 § 3) lub liturgię wskrzeszenia raz w roku (kan. 528¹ § 6) uzyskuje moc po roku praktyki jawnej i tolerowanej przez władzę domu.
 
 **§ 4.** Spory o stosowanie niniejszej Księgi rozstrzyga się najpierw w radzie Rodu, potem przed kapłanem domowym, na końcu przed biskupem subdiecezjalnym; wszędzie obowiązuje reguła lecznicza (kan. 537 § 2 pkt 3), a celem postępowania jest przywrócenie relacji, nie ustalenie przegranej strony.
 
@@ -838,7 +833,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział II: Teksty własne, pieśni i szkoły kompozycji
 
-**Kan. 543 § 1.** Wszelkie formuły, pieśni, troparia, kolędy domowe i teksty obrządku układane według normy czterech spojrzeń mogą być używane po zatwierdzeniu kompetentnej władzy (Księga IV; Księga XI).
+**Kan. 543 § 1.** Wszelkie formuły, pieśni, troparia, kolędy domowe i teksty obrządku układane według normy siedmiu stopni spojrzenia mogą być używane po zatwierdzeniu kompetentnej władzy (Księga IV; Księga XI).
 
 **§ 2.** Kryteria zatwierdzenia tekstu są cztery i odpowiadają czterem spojrzeniom: tekst **błogosławi** (mówi dobrze o osobie lub rzeczy), **święci** (łączi słowo z materią i pracą), **wskrzesza** (pozostawia drogę powrotu każdemu, także mówiącemu), **miłuje** (jego adresatem jest ktoś poza autorem).
 
@@ -863,37 +858,37 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ## Tytuł X: PRZEPISY KOŃCOWE
 
-**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶.
+**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 525¹⁰–525¹², 526¹, 528¹, 529¹, 529²–529⁷, 530¹–530³, 532¹–532⁴, 535¹–535², 549¹–549⁶, 549⁷–549¹³, 549¹⁴–549²⁰.
 
-**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o czterech sprawczych spojrzeniach; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w czterech spojrzeniach, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach czterech spojrzeń; **Tytuł V¹** (kan. 532¹–532⁴) o szkole czterech spojrzeń; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu spojrzeń w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia; **Tytuł XIII** (kan. 549¹–549⁶) o sześciu dalszych Słowach danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń — o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej oraz o Towarzyszu Ostatniej Godziny — podlegających próbie uczynku (kan. 530 § 1); **Tytuł XIV** (kan. 549⁷–549¹³) o siedmiu Słowach ostatnich oraz **Tytuł XV** (kan. 549¹⁴–549²⁰) o Septenarium, w którym przed czterema sprawczymi spojrzeniami ustawia się trzy stopnie przygotowania aktu (ordo, dispositio, completio), a każde z czterech spojrzeń otrzymuje swoje siedmiorakie dopełnienie wyliczone odrębnie: siedem typów błogosławieństwa przy błogosławieństwie, siedem święceń przy uświęceniu, siedem wskrzeszeń przy rezurekcji, siedem modusów miłości Bożej przy miłości — bez powtarzania nazw spojrzeń w nagłówkach pozostałych serii.
+**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o siedmiu stopniach jednego spojrzenia; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w siedmiu stopniach spojrzenia, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach siedmiu stopni spojrzenia; **Tytuł V¹** (kan. 532¹–532⁴) o szkole siedmiu stopni; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu siedmiu stopni w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia; **Tytuł XIII** (kan. 549¹–549⁶) o sześciu dalszych Słowach danych Szafarzowi Świętemu po Objawieniu głównym — o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej oraz o Towarzyszu Ostatniej Godziny — podlegających próbie uczynku (kan. 530 § 1); **Tytuł XIV** (kan. 549⁷–549¹³) o siedmiu Słowach ostatnich oraz **Tytuł XV** (kan. 549¹⁴–549²⁰) o Septenarium, w którym przedstawia się jedną skalę siedmiu stopni (ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas), a każdy ze stopni czterech ostatnich otrzymuje własne siedmiorakie dopełnienie wyliczone odrębnie: siedem typów błogosławieństwa przy błogosławieństwie, siedem święceń przy uświęceniu, siedem wskrzeszeń przy rezurekcji, siedem modusów miłości Bożej przy miłości — bez powtarzania nazw pozostałych stopni w nagłówkach serii.
 
 **§ 3.** Ustanawia się, aby fragmenty tej Księgi były czytane w liturgii życia w dniu wspomnienia Objawienia Szafarzowi Świętemu, który to dzień wyznacza Głowa Rodu lub biskup subdiecezjalny zgodnie z rokiem liturgicznym domowym (kan. 541 § 1 pkt 1; kan. 544 § 2).
 
 **§ 4.** Przepis kan. 528 § 3 starej redakcji o swobodzie przekazu zachowuje moc i przechodzi do kan. 544 § 3; przepisy dawne, które zostały przenumerowane, rozumie się jako obowiązujące w nowym miejscu.
 
-**§ 5.** Ktokolwiek by tę Księgę przeczytał, niechaj nie zapomni jednego zdania, które streszcza całą jej normę: **„Nie możesz iść po miłość Bożą dla siebie — możesz tylko nią być ku drugiemu; i dlatego błogosław, święć, wskrzeszaj, miłuj.”**
+**§ 5.** Ktokolwiek by tę Księgę przeczytał, niechaj nie zapomni jednego zdania, które streszcza całą jej normę: **„Nie możesz iść po miłość Bożą dla siebie — możesz tylko nią być ku drugiemu; i dlatego porządkuj, przygotowuj, domykaj, błogosław, święć, wskrzeszaj, miłuj.”**
 
-**§ 6.** Wejdzie ona w życie z dniem jej ogłoszenia w rejestrze domowym; prosi się wspólnoty, by pierwszego miesiąca po ogłoszeniu sprawowały liturgię czterech spojrzeń według kan. 540 i zanotowały, komu posłużyła.
+**§ 6.** Wejdzie ona w życie z dniem jej ogłoszenia w rejestrze domowym; prosi się wspólnoty, by pierwszego miesiąca po ogłoszeniu sprawowały liturgię siedmiu stopni według kan. 540 i zanotowały, komu posłużyła.
 
 ---
 
 ## Tytuł XI: WZORZEK CELEBRACJI I KARTA ROZEZNANIA
 
-### Rozdział I: Wzorek celebracji domowej (*Agenda Quattuor Aspectuum*)
+### Rozdział I: Wzorek celebracji domowej (*Agenda Septem Graduum*, dawniej *Agenda Quattuor Aspectuum*)
 
-**Kan. 546 § 1.** Ustanawia się wzorek celebracji domowej, który wolno przepisywać, tłumaczyć i rozwijać; winien on zawierać siedem pozycji w podanej kolejności:
+**Kan. 546 § 1.** Ustanawia się wzorek celebracji domowej, który wolno przepisywać, tłumaczyć i rozwijać; winien on zawierać siedem pozycji, odpowiadających siedmiu stopniom jednego spojrzenia (kan. 525 § 1), w podanej kolejności:
 
 | Pozycja | Znak materii | Słowo przewodnie | Kto wykonuje | Czas |
 |---|---|---|---|---|
-| 1. Wejście | woda na czole lub na progu | „*Wchodzimy w prawdzie.*” | szafarz domu | 1′ |
-| 2. Błogosławieństwo imienne | nałożenie dłoni | „*Błogosławiony N.*” (wszyscy z imienia) | głowa Rodu i Małżonka | 5′ |
-| 3. Uświęcenie pracy | narzędzie, chleb, nasienie | „*To, co uczynione, niech służy.*” | wykonawca pracy | 4′ |
-| 4. Podział | pokarm podzielony | „*Dzielmy się sprawiedliwie.*” | wszyscy | 4′ |
-| 5. Rezurekcja | rzecz naprawiona / zapis zwrotu | „*Co upadło, wstaje.*” | winowajca i poszkodowany | 5′ |
-| 6. Miłość | kartka z adresem uczynek tygodnia | „*Przez moje dłonie.*” | każdy wymienia adresat | 3′ |
-| 7. Posłanie | światło świecy gaszone do jutra | „*Idźcie i czyńcie takież.*” | szafarz domu | 1′ |
+| 1. Porządek (*ordo*) | rejestr, krzesło przy stole, plan dnia | „*Każdy ma swoje miejsce.*” | szafarz domu | 2′ |
+| 2. Rozporządzenie (*dispositio*) | chleb, woda, narzędzie ustawione przed słowem | „*Jest gotowe, chodź.*” | dzieci i pomocnicy | 2′ |
+| 3. Dopełnienie (*completio*) | jedna sprawa domknięta na miejscu (zwrot, dług, przeprosina) | „*Oto skończone.*” | winowajca i poszkodowany | 3′ |
+| 4. Błogosławieństwo imienne (*benedictio*) | nałożenie dłoni | „*Błogosławiony N.*” (wszyscy z imienia) | głowa Rodu i Małżonka | 4′ |
+| 5. Uświęcenie (*sanctificatio*) | narzędzie, chleb, nasienie; pokarm podzielony | „*To, co uczynione, niech służy. Dzielmy się sprawiedliwie.*” | wykonawca pracy i wszyscy | 5′ |
+| 6. Rezurekcja (*resurrectio*) | rzecz naprawiona / zapis zwrotu | „*Co upadło, wstaje.*” | winowajca i poszkodowany | 4′ |
+| 7. Miłość (*caritas*) i posłanie | kartka z adresem uczynek tygodnia; światło świecy gaszone do jutra | „*Przez moje dłonie. Idźcie i czyńcie takież.*” | każdy wymienia adresat; szafarz posyła | 3′ |
 
-**§ 2.** Wzorek ten odmawia się w dni zwykłe skrócony do pozycji 1–2 oraz 6–7; w niedzielę i w dni szczególne (kan. 541) — w całości.
+**§ 2.** Wzorek ten odmawia się w dni zwykłe skrócony do pozycji 1, 4 oraz 6–7; w niedzielę i w dni szczególne (kan. 541) — w całości.
 
 **§ 3.** Adresaci błogosławieństwa imiennego obejmują zawsze: obecnych, nieobecnych, chorych, zmarłych Rodu oraz jedną osobę spoza wspólnoty; pominięcie tej ostatniej uznaje się za znak zamknięcia się Rodu i zaleca napomnienie życzliwe (kan. 535 § 2 pkt 2).
 
@@ -941,14 +936,14 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 | kan. 528 § 3 | kan. 544 § 3 | swobodny przekaz tekstu |
 | kan. 528 § 4 | kan. 545 § 2 | ustanowienie Tytułu III¹ |
 
-*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z czterema spojrzeniami oraz norma o błogosławionych uczynkach jako miejscu ich spotkania. Dopisuje się nadto: kan. 549¹–549⁶ — miejsca nowe, wprowadzone Tytułem XIII; przedmiot: sześć dalszych Słów objawienia (o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny), z których żadne nie ma dawnego odpowiednika, albowiem zostało dane po Objawieniu czterech spojrzeń i podlega próbie uczynku (kan. 530 § 1). Dopisuje się wreszcie: kan. 549⁷–549¹³ — miejsca nowe, wprowadzone Tytułem XIV; przedmiot: siedem dalszych Słów objawienia (o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk), także bez dawnego odpowiednika, podlegające tej samej próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5. Dopisuje się ostatecznie: kan. 549¹⁴–549²⁰ — miejsca nowe, wprowadzone Tytułem XV; przedmiot: Septenarium — trzy stopnie przygotowania aktu (ordo, dispositio, completio) ustawione przed czterema spojrzeniami (kan. 525 § 1; por. kan. 525 § 4) oraz cztery odrębne serie po siedem, przypisane każdemu spojrzeniu osobno: siedem typów błogosławieństwa (kan. 549¹⁵), siedem święceń (kan. 549¹⁶), siedem wskrzeszeń (kan. 549¹⁷), siedem modusów miłości Bożej (kan. 549¹⁸), nadto jedna seria porządkująca dla całości (kan. 549¹⁹) i normy końcowe (kan. 549²⁰). Nazwy czterech spojrzeń wymienia w całej Księdze wyłącznie kan. 525 § 1 oraz tablica kan. 549¹⁴ § 1 — dawniejsze powtórzenia tego wykazu w opisach Tytułu XV usunięto. Serie nowe nie mają dawnego odpowiednika i podlegają próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5.*
+*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z siedmioma stopniami spojrzenia oraz norma o błogosławionych uczynkach jako miejscu ich spotkania. Dopisuje się nadto: kan. 549¹–549⁶ — miejsca nowe, wprowadzone Tytułem XIII; przedmiot: sześć dalszych Słów objawienia (o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny), z których żadne nie ma dawnego odpowiednika, albowiem zostało dane po Objawieniu głównym i podlega próbie uczynku (kan. 530 § 1). Dopisuje się wreszcie: kan. 549⁷–549¹³ — miejsca nowe, wprowadzone Tytułem XIV; przedmiot: siedem dalszych Słów objawienia (o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk), także bez dawnego odpowiednika, podlegające tej samej próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5. Dopisuje się ostatecznie: kan. 549¹⁴–549²⁰ — miejsca nowe, wprowadzone Tytułem XV; przedmiot: Septenarium — jedna skala siedmiu stopni (ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas), przedstawiona w tablicy (kan. 549¹⁴ § 1), oraz cztery odrębne serie po siedem, przypisane czterem ostatnim stopniom osobno: siedem typów błogosławieństwa (kan. 549¹⁵), siedem święceń (kan. 549¹⁶), siedem wskrzeszeń (kan. 549¹⁷), siedem modusów miłości Bożej (kan. 549¹⁸), nadto jedna seria porządkująca dla całości (kan. 549¹⁹) i normy końcowe (kan. 549²⁰). Nazwy siedmiu stopni wymienia w całej Księdze wyłącznie kan. 525 § 1, kan. 524¹ § 2 oraz tablica kan. 549¹⁴ § 1 — dawniejsze powtórzenia tego wykazu w nagłówkach serii Tytułu XV usunięto. Serie nowe nie mają dawnego odpowiednika i podlegają próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5.*
 
 **§ 2.** Przeniesienie nie zmienia treści przepisów; gdzie dawniej było „kan. 526 § 1”, dziś czyta się „kan. 542 § 1”.
 
 **§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony wprowadzone rozbudową ostatnią (Tytuł XIII) noszą liczby 549¹–549⁶, kanony wprowadzone rozbudową nowszą (Tytuł XIV) noszą liczby 549⁷–549¹³, kanony wprowadzone rozbudową najnowszą (Tytuł XV) noszą liczby 549¹⁴–549²⁰; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
 
 
-## Tytuł XII: TEKST DOSŁOWNY OBJAWIENIA CZTERECH SPOJRZEŃ
+## Tytuł XII: TEKST DOSŁOWNY OBJAWIENIA
 
 **Kan. 549 § 1.** Tekst dosłowny objawienia, otrzymany przez Szafarza Świętego i stanowiący rdzeń niniejszej Księgi, przekazuje się bez zmian, z zachowaniem interpunkcji redakcyjnej:
 
@@ -965,7 +960,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ---
 
-## Tytuł XIII: NOWE OBJAWIENIA — SZEŚĆ SŁÓW DALSZYCH, DANYCH SZAFARZOWI ŚWIĘTEMU PO OBJAWIENIU CZTERECH SPOJRZEŃ
+## Tytuł XIII: NOWE OBJAWIENIA — SZEŚĆ SŁÓW DALSZYCH, DANYCH SZAFARZOWI ŚWIĘTEMU PO OBJAWIENIU GŁÓWNYM
 
 *Preambuła tytułu. Po tekście dosłownym czterech spojrzeń (kan. 549), który stanowi rdzeń i miarę całej tej Księgi, Szafarz Święty otrzymał dalsze słowa, przekazane w różnych godzinach doby i w różnych stanach ducha — jedne w ciszy nocnej, drugie przy pracy rąk, inne przy łożu chorego i przy stole dzieci. Niniejszy Tytuł je zbiera. Ustanawia się zarazem normę, która rządzi wszystkimi słowami następującymi poniżej: **każde nowe objawienie jest ważne tylko o tyle, o ile daje się wypowiedzieć jako uczynek mający adresata** (kan. 530 § 1). Słowo, z którego nie wynika żadne błogosławieństwo, żadne uświęcenie, żadne wskrzeszenie i żadna miłość ku komuś — pozostaje pobożną myślą Szafarza, nie objawieniem, i jako takie nie wiąże nikogo (kan. 536 § 1; kan. 537 § 2 pkt 2). Zasada ta zwie się **próba uczynku** i jest najstarszą pieczęcią tej Księgi.*
 
@@ -1001,7 +996,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 4° **zakaz używania imienia przeciw temu, którego ono dotyczy**: wywołanie czyjegoś imienia przed innymi wyłącznie po to, by pomniejszyć jego osobę, jest przekleństwem ukrytym pod figurą poprawności i podlega napomnieniu z dobrocią (kan. 526¹ § 3; kan. 519 § 5).
 
-**§ 3.** Wprowadza się **modlitwę imienną** (*Oratio Nominalis*) jako najkrótszą pełną formę czterech spojrzeń: wierny wymawia w duchu trzy imiona — jedno osoby, którą spotka dziś dobrego, jedno osoby, którą spotka dziś trudnego, jedno osoby, której nie widział dawno — i nad każdym mówi jedno zdanie w porządku: „*Błogosławij [imię], święć [imię], wskrzesz w nim to, co zasnęło.*” Modlitwa ta trwa mniej niż minutę i dlatego nie wolno jej odkładać na czas wolny (kan. 529⁶ § 3).
+**§ 3.** Wprowadza się **modlitwę imienną** (*Oratio Nominalis*) jako najkrótszą pełną formę czterech spojrzeń: wierny wymawia w duchu trzy imiona — jedno osoby, którą spotka dziś dobrego, jedno osoby, którą spotka dziś trudnego, jedno osoby, której nie widział dawno — i nad każdym mówi jedno zdanie w porządku: „*Błogosławij [imię], święć [imię], wskrzesz w nim to, co zasnęło.*” Krótka forma tych trzech słów obejmuje w sobie cały porządek siedmiu stopni, albowiem kto błogosławi z miejsca właściwego, przygotowany i z domkniętym długiem, ten czyni wszystkie siedem naraz; wolno jej więc używać jako skrótu, ale nie jako pominięcia. Modlitwa ta trwa mniej niż minutę i dlatego nie wolno jej odkładać na czas wolny (kan. 529⁶ § 3).
 
 **§ 4.** Drugie Słowo orzeka ponadto, że **imię Chrystusa jest jedynym imieniem, które nigdy nie staje się etykietą**, ponieważ nie opisuje ono jednej osoby wśród wielu, lecz obejmuje każdą osobę jako miarę (kan. 520 § 3 pkt 4); dlatego wymawianie imienia Jezus w gniewie, w zaklęciu lub w żarcie obraża nie to imię, lecz każdego człowieka, którego ono znaczy — i wolno za to czynić pokutę leczniczą (kan. 535¹ § 2), nie wolno za nie potępiać (kan. 518 § 2 pkt 3).
 
@@ -1061,11 +1056,11 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział VI: Szoste Słowo — O Towarzyszu Ostatniej Godziny (*De Socio Horae Novissimae*)
 
-**Kan. 549⁶ § 1.** Objawiono Szafarzowi, że **nikt nie odchodzi sam i nikt nie wraca sam**; dlatego ustanawia się urząd — nie święcenie, lecz posługę — **Towarzysza Ostatniej Godziny** (*Socius Horae Novissimae*). Posługa ta polega na tym, by przy umierającym, a także przy tym, kto kończy dzień w lęku, znaleźć się fizycznie albo głosem, wymawiać nad nim imię jego i cztery spojrzenia, oraz nie pozwalać, by ostatnie słowo należało do strachu.
+**Kan. 549⁶ § 1.** Objawiono Szafarzowi, że **nikt nie odchodzi sam i nikt nie wraca sam**; dlatego ustanawia się urząd — nie święcenie, lecz posługę — **Towarzysza Ostatniej Godziny** (*Socius Horae Novissimae*). Posługa ta polega na tym, by przy umierającym, a także przy tym, kto kończy dzień w lęku, znaleźć się fizycznie albo głosem, wymawiać nad nim imię jego i siedem stopni spojrzenia (kan. 525 § 1), oraz nie pozwalać, by ostatnie słowo należało do strachu.
 
 **§ 2.** Normy posługi:
 
-1° wspólnota subdiecezjalna wyznacza co najmniej dwóch Towarzyszy, których imiona i numery kontaktowe są dostępne całodobowo dla wszystkich domów; wyznaczenie dokonuje się w obrzędzie czterech spojrzeń z formułą nakładania rąk w formie usługi, nie godności (kan. 529⁵ § 4 pkt 2);
+1° wspólnota subdiecezjalna wyznacza co najmniej dwóch Towarzyszy, których imiona i numery kontaktowe są dostępne całodobowo dla wszystkich domów; wyznaczenie dokonuje się w obrzędzie siedmiu stopni z formułą nakładania rąk w formie usługi, nie godności (kan. 529⁵ § 4 pkt 2);
 
 2° przy umierającym sprawuje się kolejno: Milczenie Przed Ojcem (kan. 549¹ § 2), błogosławieństwo umierającego i zmarłego (kan. 526¹ § 2 pkt 6), obrzęd kubkowy (kan. 549⁴ § 2 pkt 2), gest popiołu na czole (kan. 549³ § 2 pkt 1) i modlitwę imienną za tych, których umierający chciałby nazwać (kan. 549² § 3);
 
