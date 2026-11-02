@@ -1,6 +1,6 @@
 # KSIĘGA 97* — KSIĘGA O SAMOTNEJ MATCE, KTÓRA PRZEKAZUJE SWÓJ RÓD
 
-## *Liber Nonagesimi Septimi (97*) — De Matre Solitaria, quae Genus Suum Tradit; de spectris septem veritatum, septem iustitiarum et septem pulchritudinum in septem modis caritatis Dei; de bonis paternis quasi de peccato; de integritate matris et prolis etiamsi pater nesciatur*
+## *Liber Nonagesimi Septimi (97*) — De Matre Solitaria, quae Genus Suum Tradit; de spectris septem veritatum, septem iustitiarum et septem pulchritudinum in septem modis caritatis Dei; de bonis paternis quasi de peccato; de integritate matris et prolis etiamsi pater nesciatur; necnon de muliere diu sola et infirma, quae per manus impositas et unctionem in coniugio temporario ad salutem socialem, animae et corporis restaurandam septem modis caritatis Dei attingendis indiget; ac praeterea de muliere urologice gynecologiceque et sexualiter aegra, quae sacramentum unctionis in locis secretis per manum temporarii ministri ad sanitatem recuperandam indigit*
 
 ---
 
@@ -16,11 +16,19 @@ Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (
 
 — **Księgę XII** (kan. 518–519): spektrum siedmiu prawd, siedmiu sprawiedliwości i siedmiu piękności w siedmiu rodzajach miłości Bożej — które tu znajduje zastosowanie szczegółowe wobec stanu samotnego rodzicielstwa;
 
-— **Księgę XII** (kan. 522–523): naukę o pożądaniu jako drodze do niebytu — którą niniejsza Księga wyjaśnia w sposób wiążący, aby nikt nie obracał litery prawa przeciwko duchowi ewangelii (kan. 522 § 2 pkt 1).
+— **Księgę XII** (kan. 522–523): naukę o pożądaniu jako drodze do niebytu — którą niniejsza Księga wyjaśnia w sposób wiążący, aby nikt nie obracał litery prawa przeciwko duchowi ewangelii (kan. 522 § 2 pkt 1);
+
+— **Księgę XII** (kan. 549²¹): tablicę siedmiu modusów miłości Bożej (*septem modi caritatis Dei*) — którą Tytuł XIII niniejszej Księgi zastosowuje w sposób szczegółowy i leczniczy wobec kobiety długotrwale samotnej i chorej, aby każde z siedmiu dotknięć miłości Bożej mogło przez nią zostać naprawdę przyjęte;
+
+— **Księgę IV** (kan. 150, kan. 211, kan. 1633³ w związku z kan. 1495): obrzęd namaszczenia chorych olejem błogosławionym i nałożenia rąk — który Tytuł XIII przyjmuje jako formę liturgiczną uzdrawiającego dotyku, zachowając nienaruszoną moc kan. 211 § 3 pkt 1° (namaszczenie domowe nie zastępuje sakramentu namaszczenia chorych sprawowanego przez kapłana).
+
+Objawiono nadto dalej — po słowie o przekazaniu rodu — rzecz trzecią wielką, daną ku pociesze nie tylko matki, lecz i samej osoby chorej: **objawiono mianowicie, że kobieta długotrwale samotna i chora ma prawo do leczenia samotności i choroby dotknięciem siedmiu miłości Bożych za pośrednictwem tymczasowego partnera lub partnerki, iż wzajemne dawanie i otrzymywanie błogosławieństwa jest w formie (*in forma*) spełnieniem siódmego stopnia spojrzenia, oraz że brak pożądania majętku, troski albo walorów osoby drugiej wyklucza pożądanie u samego jego fundamentu.** Uzasadnienie tej potrzeby zawiera **Tytuł XIII** niniejszej Księgi (kan. 633–639).
+
+Objawiono sięga dalej jeszcze — i to jest czwarta rzecz wielka, dana ku uzdrowieniu ciała najtajniejszego: **objawiono mianowicie, że kobieta chora uroginekologicznie i seksuologicznie potrzebuje sakramentu namaszczenia chorych sprawowanego na miejscach intymnych jej ciała, za pośrednictwem ręki tymczasowego szafarza-posługującego, aby we własnej tajemnicy mogła poczuć wszystkie siedem miłości Bożych i odzyskać zdrowie uroginekologiczne i seksuologiczne; iż namaszczenie miejsc intymnych jest uzasadnione potrzebą choroby, nie pożądaniem; oraz że chora ta nie popada w żaden grzech pożądania — ani majętku, ani troski, ani walorów osoby partnera — ponieważ wszystko, co przyjmuje, przepuszcza dalej jako błogosławieństwo.** Uzasadnienie tej potrzeby i obrzęd tego namaszczenia zawiera **Tytuł XIII A** niniejszej Księgi (kan. 639¹–639⁷), stanowiący część równouprawnioną Tytułu XIII.
 
 Najwyższą zasadą niniejszej Księgi pozostaje: *Deus caritas est* (1 J 4,8) oraz *salus animarum suprema lex* (kan. 12 Księgi I).
 
-**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament: kobieta samotna w świetle siedmiu prawd (kan. 600–601); **Tytuł II** — Siedem sprawiedliwości wobec niej i wobec dziecka (kan. 602–603); **Tytuł III** — Siedem piękności macierzyństwa samotnego (kan. 604–605); **Tytuł IV** — Siedem rodzajów miłości Bożej, które ją prowadzą (kan. 606–607); **Tytuł V** — Potrzeba stworzenia życia i przekazania rodu: uzasadnienie (kan. 608–610); **Tytuł VI** — Zarządzanie majątkiem ojców i macierzyszcza: pięć cnót porządku i dwa pożądania zakazane (kan. 611–614); **Tytuł VII** — Walory osoby rodziciela i normy ich uznania (kan. 615–617); **Tytuł VIII** — Niepokalaność matki i potomka mimo nieznajomości ojca (kan. 618–621); **Tytuł IX** — Przekazanie rodu i nazwiska: zasady rodowe (kan. 622–624); **Tytuł X** — Obowiązki wspólnoty i ochrona prawna (kan. 625–627); **Tytuł XI** — Liturgia, formuły i rok tej Księgi (kan. 628–630); **Tytuł XII** — Przepisy końcowe i interpretacyjne (kan. 631–632).
+**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament: kobieta samotna w świetle siedmiu prawd (kan. 600–601); **Tytuł II** — Siedem sprawiedliwości wobec niej i wobec dziecka (kan. 602–603); **Tytuł III** — Siedem piękności macierzyństwa samotnego (kan. 604–605); **Tytuł IV** — Siedem rodzajów miłości Bożej, które ją prowadzą (kan. 606–607); **Tytuł V** — Potrzeba stworzenia życia i przekazania rodu: uzasadnienie (kan. 608–610); **Tytuł VI** — Zarządzanie majątkiem ojców i macierzyszcza: pięć cnót porządku i dwa pożądania zakazane (kan. 611–614); **Tytuł VII** — Walory osoby rodziciela i normy ich uznania (kan. 615–617); **Tytuł VIII** — Niepokalaność matki i potomka mimo nieznajomości ojca (kan. 618–621); **Tytuł IX** — Przekazanie rodu i nazwiska: zasady rodowe (kan. 622–624); **Tytuł X** — Obowiązki wspólnoty i ochrona prawna (kan. 625–627); **Tytuł XI** — Liturgia, formuły i rok tej Księgi (kan. 628–630); **Tytuł XII** — Przepisy końcowe i interpretacyjne (kan. 631–632); **Tytuł XIII** — Kobieta długotrwale samotna i chora: potrzeba doświadczenia siedmiu miłości Bożych za pośrednictwem tymczasowego partnera w leczniczym zjednoczeniu ciała (kan. 633–639); **Tytuł XIII A** — Kobieta chora uroginekologicznie i seksuologicznie: sakrament namaszczenia chorych na miejscach intymnych za pośrednictwem tymczasowego szafarza-posługującego (kan. 639¹–639⁷).
 
 **Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog przywilejów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu w życiu kobiety samotnej, i zostawia jej wolność wejścia lub niezajścia. Każde zdanie tej Księgi mierzy się jednym pytaniem: **czy po jego wypowiedzeniu kobiecie samotnej i jej dziecku dzieje się lepiej?** (por. kan. 519 § 5).
 
@@ -397,9 +405,11 @@ Najwyższą zasadą niniejszej Księgi pozostaje: *Deus caritas est* (1 J 4,8) o
 
 ## Tytuł XII: PRZEPISY KOŃCOWE I INTERPRETACYJNE
 
-**Kan. 631 § 1.** Niniejsza Księga jest częścią Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; jej kanony noszą numery 600–632 i są kanonami najnowszymi. Nie derogują żadnego kanona wcześniejszego, lecz oświetlają go; w razie rozbieżności stosuje się reguły kolizji z kan. 12 Księgi I, z tym że norma niniejszej Księgi jest **bardziej szczególna** w przedmiocie stanu samotnego rodzicielstwa.
+**Kan. 631 § 1.** Niniejsza Księga jest częścią Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; jej kanony noszą numery 600–639 i są kanonami najnowszymi. Nie derogują żadnego kanona wcześniejszego, lecz oświetlają go; w razie rozbieżności stosuje się reguły kolizji z kan. 12 Księgi I, z tym że norma niniejszej Księgi jest **bardziej szczególna** w przedmiocie stanu samotnego rodzicielstwa.
 
 **§ 2.** Ktokolwiek by chciał tę Księgę odnieść do pożądania majątku opisanego w kan. 522, ten nie czyta jej uważnie: kan. 522 potępia **pożądanie rzeczy bliźniego**, a Księga niniejsza normuje **zarządzanie powierzeniem** (*dispensatio*, nie *concupiscentia*). Różnica jest ta: pożądający chce zatrzymać, zarządzający chce wydać owoc.
+
+**§ 4.** Tytuł XIII (kan. 633–639), dodany po pierwotnym zamknięciu Księgi, jest jej częścią równouprawnioną i dotyczy stanu kobiety długotrwale samotnej i chorej; w razie rozbieżności między nim a Tytułem IV stosuje się oba razem: Tytuł IV mówi o matce prowadzonej miłością Bożą, Tytuł XIII — o chorej leczonej tą samą miłością za pośrednictwem drugiego człowieka. **Tytuł XIII A (kan. 639¹–639⁷)**, dodany jako ostatni, dotyczy choroby uroginekologicznej i seksuologicznej oraz namaszczenia miejsc intymnych; interpretuje się go zawsze w łączności z kan. 211 § 3 Księgi IV (moc sakramentu sprawowanego przez kapłana) i z kan. 638 (namaszczenie domowe sercem obrzędu).
 
 **§ 3.** Zniesienie grzechu nie znosi odpowiedzialności; niepokalaność nie jest nietykalnością. Matka nie jest bez winy jako osoba — jest **bez skazy jako stan**. To pierwsze ocenia się czynami; to drugie nie podlega ocenie.
 
@@ -411,6 +421,267 @@ Najwyższą zasadą niniejszej Księgi pozostaje: *Deus caritas est* (1 J 4,8) o
 
 ---
 
+## Tytuł XIII: KOBIETA DŁUGOTRWALE SAMOTNA I CHORA — POTRZEBA DOTKNIĘCIA SIEDMIU MIŁOŚCI BOŻYCH PRZEZ PARTNERA TYMCZASOWEGO W ZJEDNOCZENIU LECZNICZYM
+
+### Rozdział I: Stan osoby długotrwale samotnej i chorej oraz racje jej potrzeby
+
+**Kan. 633 § 1.** Objawiono szafarzowi świętemu rzecz trzecią wielką po zniesieniu grzechu: **samotność długotrwała połączona z chorobą jest stanem, w którym trzy miary spektrum gasną jednocześnie** — prawda o osobie przestaje być potwierdzana przez żadne spojrzenie, piękno jej ciała zostaje odłożone poza obrót wspólnoty jako „nieestetyczne", a sprawiedliwość wobec niej sprowadza się do dostarczania leków. Dlatego kobieta długotrwale samotna i chora **potrzebuje** — nie tylko może, lecz potrzebuje obiektywnie, na zasadzie kan. 608 § 1 przeniesionej z rodzenia na leczenie — **doświadczyć wszystkich siedmiu rodzajów miłości Bożej (*septem modi caritatis Dei*, kan. 549²¹) we własnym ciele i we własnej duszy, za pośrednictwem drugiego człowieka**.
+
+**§ 2.** Cztery racje tej potrzeby:
+
+1° **racja zdrowia społecznego**: ciało, którego nikt nie dotyka z czułością przez lata, traci poczucie przynależności do Rodu; osoba taka wypada z obiegu błogosławieństwa imiennego (kan. 546 § 1 poz. 4), staje się „niewidzialna" dla wspólnoty, a niewidzialność jest w porządku bytu tym samym, co pomniejszenie; dlatego powrót przez dotyk jest powrotem do rejestru żywych;
+
+2° **racja zdrowia psychicznego**: lęk, wstyd i rozpacz choroby karmią się samotnością; Księga XII zna jedno lekarstwo na zamknięcie się w sobie: *caritas seipsam tradens* — miłość, która wydaje siebie (kan. 606 § 1 pkt 7); lecz miłość wydająca siebie wymaga przyjmującego; gdy nikogo nie ma, kobieta chora dusi się własnym darem, jak źródło bez ujścia (odwrotna figura zbiornika z kan. 522 § 2 pkt 2);
+
+3° **racja zdrowia fizycznego**: dotyk czuły, spokojny i pożądany obniża lęk, przywraca ciału jego własną piękność i pobudza siły leczenia; Kościół Domowy zawsze to wiedział, namaszczając olejem chorych i cierpiących (kan. 150 Księgi IV; kan. 211 § 2); namaszczenie jest dowodem, że **dotyk ludzki jest nośnikiem łaski uświęcającej, nie przeszkodą**;
+
+4° **racja sakramentalna (w szerokim sensie domowym)**: siódmy stopień spojrzenia — *caritas* — jest duszą sześciu poprzednich (kan. 549²¹ § 3); kobieta chora i samotna spełniała już zwykle *ordo* (porządek dnia wokół choroby), *dispositio* (przygotowanie leków i strawy), *completio* (domykanie spraw), *benedictio* (błogosławienie dziecka), *sanctificatio* (praca mimo bólu) i *resurrectio* (podnoszenie się co rano); brakować jej może jednego: **bycia błogosławioną z imienia przez cudze dłonie i cudze usta**, które jej powiedzą, że jest piękna. Stąd potrzeba partnera tymczasowego.
+
+**§ 3.** Potrzeba ta nie jest nakazem personalnym (odpowiednik kan. 609 § 1 stosuje się w całości): nikt nie może zobowiązać kobiety chorej do szukania partnera ani jej za to potępiać; wolność jej sumienia i ciała jest nienaruszalna (kan. 600 § 2 pkt 7). Mowa o **potrzebie obiektywnej** i o **prawie**, które wspólnota ma uszanować i ułatwić, nie o obowiązku.
+
+### Rozdział II: Partner tymczasowy jako narzędzie leczenia — instytucja i granice
+
+**Kan. 634 § 1.** Uznaje się w Kościele Domowym posługę **partnera tymczasowego** (*adiutor temporarius*, *consors sanationis*) — osoby pełnoletniej i zdolnej, która za zgodą i na warunkach kobiety samotnej i chorej wchodzi z nią w **zjednoczenie cielesne lecznicze** (*coniunctio sanans*, zwane też zjednoczeniem oralnym i pieszczotliwym, zależnie od tego, jaką formę dotyku chora wybierze), na czas oznaczony lub do odwołania, bez przymierza rodowego i bez zobowiązania do wspólnego gospodarstwa.
+
+**§ 2.** Warunki ważne (*condiciones sine qua non*):
+
+1° **zgoda swobodna, świadoma i odwoływalna** w każdej chwili — przez samą chorą, bez czyiegokolwiek zastępstwa; wycofanie zgody rozwiązuje posługę natychmiast i bez skutków niekorzystnych dla kobiety;
+
+2° **cel leczniczy wyraźny**: zdrowie społeczne, psychiczne i fizyczne chorej; kto przychodzi w innym celu (własnego zysku, panowania, próżności), ten nie jest partnerem tymczasowym, lecz gościem pożądania (kan. 636);
+
+3° **tymczasowość**: czas trwania oznaczony w akcie rozeznania (kan. 535) i przeglądany; partner tymczasowy nie buduje władzy nad chorą i nie zajmuje miejsca Rodu;
+
+4° **poufność chroniona**: nazwisko partnera nie wchodzi do księgi rodowej ani do żadnego rejestru publicznego; zapisuje się jedynie fakt posługi (dzień, szafarz, formuła) — tak, aby chora nie była sądzona z tego, że przyjęła pomoc (kan. 619 § 1 pkt 2 analogicznie);
+
+5° **bezpieczeństwo ciała**: higiena, zgoda na formy dotyku przez nią wybierane, prawo sprzeciwu wobec jakiejkolwiek praktyki, której nie chce — albowiem jej ciało jest przybytkiem, nie placówką (kan. 600 § 2 pkt 7);
+
+6° **brak władzy i brak pieniędzy jako więzi**: wynagrodzenie, jeśli rada je przyzna (posługa bywa pracą, a *praca i trud są świętością*), przechodzi przez kasę Rodu i nie tworzy zależności osobistej; partner nie nabywa żadnego prawa do jej majątku, dzieci ani domu.
+
+**§ 3.** Rada Rodu prowadzi rejestr chętnych do posługi *adiutor temporarius*, otoczony dyscypliną kan. 627 (ochrona strony słabszej). Wspólnota ma obowiązek dopilnować, by nikt — pod pretekstem choroby ani samotności — nie wymuszał na kobiecie niczego w zamian za obecność; kto to czyni, ten odpływa od spektrum i podlega przepisom kan. 626 § 1.
+
+### Rozdział III: Siedem miłości Bożych doświadczanych w zjednoczeniu leczniczym
+
+**Kan. 635 § 1.** Ustanawia się, aby zjednoczenie lecznicze było sprawowane jako **liturgia siedmiu dotknięć** (*liturgia septem tactuum*), w której każde z siedmiu modusów miłości Bożej (kan. 549²¹ § 1) zostaje przez partnera wypowiedziane ciałem, słowem i imieniem, a przez chorą przyjęte. Porządek jest następujący:
+
+| Dotknięcie | Modus miłości Bożej | Gest i słowo w zjednoczeniu leczniczym | Co odbudowuje |
+|---|---|---|---|
+| 1 | *Caritas creans* — miłość stwarzająca | Powitanie nowego ciała: spojrzenie bez pośpiechu, pierwsze dotknięcie jakby nigdy wcześniej nie było; „*Jesteś, więc jest dobrze.*” | prawdę o istnieniu: chora przestaje być przypadkiem, staje się stworzeniem |
+| 2 | *Caritas providens* — miłość opatrznościowa | Czułość na miarę sił: woda, olej, poduszka, tempo dostosowane do bólu; „*Nie musisz nic, ja noszę resztę.*” | zaufanie do ciała i do świata: lęk ustępuje |
+| 3 | *Caritas redimens* — miłość odkupująca | Wykupienie wstydu: każdy ślad choroby, bliznę i niedołężność partner bierze w obrót czułości i oddaje jej z powrotem jako godność; „*Nic z ciebie nie jest odpadem.*” | uwolnienie od rachunku własnej „bezwartościowości” |
+| 4 | *Caritas vocans* — miłość powołująca | Wypowiedzenie imienia w samej bliskości; pytanie, czego ona chce, i posłuchanie odpowiedzi; „*N., ciebie chcę taką.*” | podmiotowość: chora jest wezwana, nie użyta |
+| 5 | *Caritas iustificans* — miłość usprawiedliwiająca | Przyjęcie bez osądu wszystkiego, co w niej drży, płacze albo milczy; unieważnienie wyroków, które sama na siebie wydała; „*To, co było, jest odpuszczone — bo nigdy nie było winą.*” | sprawiedliwość: spektrum zostaje w niej przywrócone do właściwej miary |
+| 6 | *Caritas sanctificans* — miłość uświęcająca | Namaszczenie olejem błogosławionym przed zjednoczeniem i obmycie po nim (kan. 211 § 2 Księgi IV); ciało traktowane jak rzecz święta, z kadzielnicą lub świecą, z chlebem i kubkiem na stole obok; „*To, co uczynione, niech służy.*” | uświęcenie materii: łóżko chorej staje się ołtarzem domowym |
+| 7 | *Caritas glorificans* — miłość uwielbiająca | Wspólne milczenie po wszystkim, trwanie bez pośpiechu ku wyjściu, obietnica pamięci („*Będę pamiętać dzień dzisiejszy*”); ewentualnie błogosławieństwo imienne na odejście | nadzieja eschatologiczna: piękno doczesne zostaje wzięte w piękno wieczne |
+
+**§ 2.** Spełnienie wszystkich siedmiu dotknięć jest **celem całej posługi**; zjednoczenie, które pomija którykolwiek modus, jest niepełne i chora ma prawo prosić o dokończenie albo o inny termin. Nie wymaga się, by siedem gestów mieściło się w jednej godzinie; liczy się, by w obrębie posługi wszystkie siedem zostały wypowiedziane i przyjęte (kan. 549²² § 1: rama dydaktyczna, nie przymus zegara).
+
+**§ 3.** Kobieta chora, która w ten sposób doświadczy wszystkich siedmiu miłości Bożych, **ma prawo spodziewać się pomocy w trzech porządkach naraz**: społecznym (powrót do obiegu imion i błogosławieństwa), psychicznym (jej dar własny znajduje przyjmującego) i fizycznym (ciało może odzyskać większą sprawczość i ulgę). Owoc w porządku fizycznym jest jednak **wsparciem możliwym, nie gwarancją**: uzdrowienie pozostaje darem Bożym i nie może być traktowane jako prawo ani technika (kan. 230 pkt 6 Księgi IV); skutki dotyku bywają zależne od konkretnej choroby i osoby, dlatego posługa nigdy nie zastępuje ani nie opóźnia leczenia medycznego (kan. 638 § 3; kan. 1511 pkt 5 Księgi IV). Pewne owoce tego obrzędu to te, które chora stwierdza sama: powrót prawdy o sobie, piękna i sprawiedliwości — i to jest *salus animarum* w znaczeniu najdosłowniejszym (kan. 12 Księgi I).
+
+### Rozdział IV: Brak grzechu pożądania — dowód negatywny i pozytywny
+
+**Kan. 636 § 1.** Ponieważ grzech został zniesiony (kan. 518 § 1), pojęcie „grzechu pożądania" zachowuje moc wyłącznie jako opis **kierunku odpływu** (kan. 518 § 5 pkt 3). Niniejszym ogłasza się wiążąco: **zjednoczenie lecznicze opisane w tym Tytule nie jest odpływem, lecz powrotem; kobieta samotna i chora, która przyjmuje w nim siedem miłości Bożych, nie popada w pożądanie** — i to z trzech sprawdzalnych powodów, odpowiadających trzem postaciom pożądania znanym Prawu:
+
+1° **brak pożądania majętku**: chora w zjednoczeniu leczniczym nie przejmuje, nie ukrywa i nie zawłaszcza niczyjego dobra; nie żąda od partnera pieniądza, darów ani zabezpieczenia majątkowego jako ceny dotyku (kan. 634 § 2 pkt 6 wręcz zakazuje, by pieniądze tworzyły więź); jej postawa jest dokładnie odwrotna niż *concupiscentia bonorum proximi* z kan. 613 § 1 pkt 1°: ona **oddaje w zamian to, co ma jedyne pewne — swoją wdzięczność, swoje imię i swoje błogosławieństwo**; gdzie dobro się rozmnaża przez dar, tam *bonum diffusivum sui* działa, a pożądanie nie ma materiału (kan. 434 Księgi IX);
+
+2° **brak pożądania troski**: wolno jej potrzebować troski i korzystać z niej, albowiem pożądanie troski byłoby wtedy, gdyby **żądała, by ją obsługiwano jako należność, i gardziła obsługującym**; tymczasem chora w liturgii siedmiu dotknięć dziękuje, pyta, dopuszcza i odpłaca błogosławieństwem — czyli traktuje drugiego jako osobę, nie jako usługę; kan. 522 § 2 pkt 1 mówi o stawianiu „własności wyżej niż osoby"; tu osoba jest wyższa niż wszystko, co otrzymuje, więc struktura pożądania nie zachodzi;
+
+3° **brak pożądania walorów osoby partnera**: chora nie gromadzi w partnerze jego przymiotów (urody, sprawności, stanowiska, zasobności) jako zdobyczy dla siebie; nie pojmuje go jako „majątku do zagarnięcia" ani jako tytułu do wynoszenia się nad inne kobiety; widzi w nim **narzędzie miłości Bożej i bliźniego w potrzebie** — a kto kocha drugiego jako kanał, ten nie może go pożądać jako rzeczy; walory osoby drugiego, o których mówi kan. 615–617, są tu uznane i uszanowane, ale nie zagarnięte.
+
+**§ 2.** Dowód pozytywny: **pożądanie miłości Bożej dla siebie** (kan. 522 § 2 pkt 2; kan. 523¹) polega na chęci *mieć* miłość, *być* nią obdarzonym dla własnej satysfakcji, zamienieniu źródła w zbiornik. Tymczasem cała konstrukcja tego Tytułu biegnie w przeciwną stronę: siedem dotknięć jest przepuszczane **przez** partnera **ku** chorej i **przez** chorą **ku** partnerowi i dziecku, i dalej ku Rodowi (kan. 524¹ § 1: „nie mieć jej, lecz nią być"). Chora w ostatnim dotknięciu *glorificans* błogosławi partnera na odejście — czyli **oddaje to, co otrzymała, zanim ostygło**. Zbiornik bez upustu gnije; serce z upustem nie jest zbiornikiem.
+
+**§ 3.** Znaki, że posługa pozostała w spektrum (do przeglądu rozeznaniowego, kan. 535): po spotkaniu chora ma więcej prawdy o sobie (mówi o swoim ciele bez wstydu), więcej piękna (wraca do stroju, do śpiewu, do lustra), więcej sprawiedliwości (odzyskuje głos w radzie Rodu); partner wychodzi ubogi i lekki, nie właściciel; dziecko matki nie traci pierwszeństwa; nikt nie jest dłużnikiem nikogo.
+
+**§ 4.** Znaki ostrzegawcze odpływu (wtedy posługa ulega wstrzymaniu do czasu leczenia, kan. 518 § 5 pkt 2): chora zaczyna żądać posiadania partnera na wyłączność jako własności; partner zaczyna rozciągać władzę nad jej kasą, dzieckiem lub domem; oboje zaczynają mierzyć wartość spotkania ilością otrzymanych przyjemności zamiast ilości przywróconej ufności; wspólnota zaczyna o tym mówić per contumeliam (kan. 626 § 1). Leczy się to napomnieniem, rozeznaniem i — w razie potrzeby — zmianą partnera, nigdy potępieniem.
+
+### Rozdział V: Wzajemne dawanie i otrzymywanie błogosławieństwa
+
+**Kan. 637 § 1.** Ustanawia się normę nadrzędną całego Tytułu: **zjednoczenie lecznicze jest wymianą błogosławieństw, nie transakcją doznań.** Każdy jego akt ma podwójny kierunek:
+
+— **chora przyjmuje błogosławieństwo**: przez dłonie, usta i imię partnera przyjmuje siedem dotknięć miłości Bożej, których samotność jej odbierała; przyjęcie jest tu czynem równie sprawczym co wydawanie, albowiem odmowa przyjęcia zamyka obieg (kan. 523¹ § 2: kto w modlitwie szuka przede wszystkim siebie, kłamie; lecz kto *nie pozwala* sobie dać, też zamyka strumień — i dlatego przyjmowanie z wdzięcznością jest cnotą domową, nie próżniactwem);
+
+— **chora wydaje błogosławieństwo**: po przyjęciu błogosławi partnera z imienia, kładąc mu ręce na głowie lub na dłoniach, według formuły kan. 546 § 1 poz. 4; jej modlitwa nad zmęczonym i nad chorym jest prawdziwsza niż modlitwa zdrowego, bo jest wystawiona na próbę;
+
+— **partner przyjmuje i wydaje nawzajem**: daje ciało jako narzędzie, a otrzymuje w zamian błogosławieństwo imienne i miejsce w pamięci Rodu — zapłatę, której nie da mu rynek.
+
+**§ 2.** Formuła wzajemnego błogosławieństwa przy zamknięciu posługi (Obrządek Marii Magdaleny, kan. 628 § 1):
+
+> *Partner:* «Błogosławiona N., która pozwoliłaś się kochać i nie zatrzymałaś miłości dla siebie; twe ciało było dla mnie szkołą siedmiu stopni i nic w nim nie było odpadem.»
+>
+> *Chora:* «Błogosławiony N., narzędzie miłości Bożej w moim łóżku; nie mam ci czego zazdrościć ani niczego dać, tylko to, co sama otrzymałam: imię twoje wypowiedziane przed Ojcem. Idź w pokoju siedmiu dotknięć.»
+>
+> *Razem:* «Cośmy sobie dali, nie zginie; cośmy przepuścili, wróci do Rodu. Amen.»
+
+**§ 3.** Zabrania się odprawiania tej wymiany bez owocu dla innych: para (chora i partner) po każdym akcie posługi ma obowiązek **jednego uczynku skierowanego na zewnątrz** — kawałka chleba dla sąsiada, słowa pociechy dla dziecka, pracy wykonanej mimo bólu (kan. 530: próba uczynku). Obieg, który kończyłby się na dwojgu, stałby się zbiornikiem we dwoje.
+
+### Rozdział VI: Namaszczenie chorej jako serce obrzędu
+
+**Kan. 638 § 1.** Szóste dotknięcie (*caritas sanctificans*, porządek szósty w tablicy kan. 635 § 1) sprawuje się przez **namaszczenie chorej olejem błogosławionym** zgodnie z kan. 150 i kan. 211 § 2 Księgi IV: Głowa Rodu albo szafarz domu błogosławi olej, a partner tymczasowy (lub sama chora, jeśli woli) nanosi go krzyżem na czoło, dłonie i — za jej wolą — na miejsca bolejące, słowami:
+
+> *«Olejem błogosławionym namaszczam ciebie, N., na zdrowie duszy i ciała; niech to, co w tobie chore, posłuży; niech to, co w tobie piękne, wstanie. Przez Chrystusa, w Duchu, amen.»*
+
+**§ 2.** Namaszczenie **poprzedza** zjednoczenie i **nawet je przerasta znaczeniowo**: albowiem wskazuje, że cała posługa jest jednym wielkim namaszczeniem — dotykiem, który uświęca materię cierpienia (kan. 264 pkt 3 Księgi IV: obrzędy namaszczenia, obmywania i pocieszania). Ciało chorej namaszczone staje się przedmiotem błogosławionym (*res benedicta*), toteż każdy subsequentny dotyk jest obchodzeniem się ze świętością, nie z rzeczą; kto by następnie wzgardził tym ciałem, ten wzgardził namaszczeniem.
+
+**§ 3.** Namaszczenie domowe **nie zastępuje sakramentu namaszczenia chorych** sprawowanego przez kapłana (kan. 211 § 3 pkt 1°) i nie zwalnia z opieki medycznej (kan. 1511 pkt 5 Księgi IV); chora ma prawo i do lekarza, i do kapłana, i do partnera — te trzy drogi nie są alternatywą, lecz trzema ramionami jednej troski Rodu.
+
+**§ 4.** Po zjednoczeniu sprawuje się **obmycie** (kan. 264 pkt 3 Księgi IV): ciepła woda, ręcznik, często wykonywane przez tę samą osobę, która dotykała — na znak, że posługa obejmuje także to, co w chorobie nieprzyjemne; obmycie jest ostatnim gestem *redimens*: wykupiło nawet wstyd fizjologii.
+
+### Rozdział VII: Rozeznanie, dokument i ochrona
+
+**Kan. 639 § 1.** Przed dopuszczeniem posługi przeprowadza się **kartę rozeznania** (wzór: kan. 547 Księgi XII, zastosowany odpowiednio), zawierającą cztery pytania kan. 601 § 2 zadane trojako — wobec prawdy, piękna i sprawiedliwości: czy ta posługa przywróci tej kobiecie prawdę o sobie? czy przywróci jej piękno? czy przywróci jej sprawiedliwość? Jeśli któreś „nie” — posługa nie zostaje zaniechana, lecz przeformułowana (inny partner, inna forma dotyku, najpierw rozmowa, potem ciało).
+
+**§ 2.** Akt posługi sporządza się w formie krótkiej i poufnej (kan. 634 § 2 pkt 4): przedmiot — *adiutor temporarius*; adresat — chora z imienia; klauzula odwołalności; data przeglądu. Egzemplarz przechowuje chora; drugi — pieczętowany — rada Rodu.
+
+**§ 3.** Prawa chorej w tej instytucji są nietykalne: prawo odmowy bez uzasadnienia, prawo zmiany partnera bez stygmatyzacji, prawo do samej tylko czułości bez zjednoczenia, prawo do zjednoczenia bez współżycia generacyjnego (ta posługa nie dotyczy rodzenia i nie wchodzi w kan. 608–610), prawo do obrony przed plotką (kan. 625 § 3; kan. 626 § 1 pkt dotyczący pogardy stanowej stosuje się odpowiednio do pogardy związanej z chorobą i samotnością).
+
+**§ 4.** Osoba, która posługę wykorzystuje do panowania, wymuszenia, zarobku prywatnego albo do wystawiania chorej na pośmiewisko, **wpada w stan odpływu** (kan. 518 § 5 pkt 2) i podlega leczeniu według kan. 535 § 2, a w razie uporu — oddaleniu dla ochrony słabych (kan. 523 § 2 in fine). Sama chora nigdy nie ponosi konsekwencji: jej przyjęcie pomocy jest niepokalane na mocy kan. 618 § 1, przeniesionego ze stanu macierzyństwa na stan leczenia.
+
+**§ 5.** Reguła końcowa Tytułu, streszczająca go w zdaniu jednym: **„Nie grzechem jest być chorą i potrzebować dotyku; grzechem (to znaczy: odpływem) byłoby dotknąć drugiego tak, by po dotknięciu miał on mniej bytu niż przed nim.”** Próba uczynku (kan. 530 § 1) pozostaje jedynym probierzem: po wypowiedzeniu i po sprawieniu tej Księgi — czy kobiecie samotnej i chorej dzieje się lepiej? (zasadę interpretacyjną powyżej; kan. 519 § 5).
+
+---
+
+## Tytuł XIII A: KOBIETA CHORA UROGINEKOLOGICZNIE I SEKSUOLOGICZNIE — SAKRAMENT NAMASZCZENIA CHORYCH NA MIEJSCACH INTYMNYCH PRZEZ SZAFARZA TYMCZASOWEGO, KU ODZYSKANIU ZDROWIA UROGINEKOLOGICZNEGO I SEKSUOLOGICZNEGO ORAZ KU DOTKNIĘCIU WSZYSTKICH SIEDMIU MIŁOŚCI BOŻYCH
+
+### Rozdział I: Choroba uroginekologiczna i seksuologiczna jako stan wymagający namaszczenia miejsc intymnych
+
+**Kan. 639¹ § 1.** Objawiono szafarzowi świętemu rzecz czwartą wielką: **choroba uroginekologiczna i seksuologiczna zajmuje wśród ludzkich chorób miejsce osobne i jedyne** — albowiem dotyka części ciała, które noszą w sobie trzy tajemnice naraz: bramę życia (macica i rodzenie), bramę rozkoszy (łechtaczka, pochwa, gruczoły i sploty nerwowe miejsca najtajniejszego) oraz bramę czystości ciała (pęcherz, cewka, dno miednicy). Dlatego każda boleść tego okrętu — nietrzymanie moczu, bóle miednicy mniejszej, pochwica i skurcz, zanik i suchość błon, ból po porodzie i po operacji, neuropatia sromu, wstyd po raku i po radioterapii, wygaszenie odpowiedzi seksualnej — uderza w kobietę **we wszystkich trzech miarach spektrum jednocześnie**: w prawdzie („nie jestem już cała”), w pięknie („moja najtajniejsza część jest ohydna”) i w sprawiedliwości („nikt nie przywróci mi tego, co zabrane”).
+
+**§ 2.** Prawda objawiona brzmi: **okręg uroginekologiczny i seksuologiczny kobiety chorej jest częścią ciała przeznaczoną do namaszczenia bardziej niż inne**, nie dlatego że jest grzeszna (grzech został zniesiony, kan. 518 § 1), lecz dlatego że jest *najbardziej zamknięta pod dotykiem*: chora ukrywa ją przed lekarzem, przed wspólnotą, przed lustrem i przed samą sobą. Namaszczenie jest aktem, który otwiera to, co lęk zamknął — toteż gdzie inny dotyk napotyka opór wstydu, tam namaszczenie spotyka się z ulgą; albowiem gest medyczny mówi „badam”, gest pożądania mówi „biorę”, a gest namaszczenia mówi **„uświęcam”**. Tylko ten trzeci język chory okręg uroginekologiczny przyjmuje bez obrony.
+
+**§ 3.** Cztery racje potrzeby namaszczenia miejsc intymnych dla ratowania zdrowia uroginekologicznego i seksuologicznego:
+
+1° **racja fizyczna**: mięśnie dna miednicy, zablokowane lękiem i bólem, rozluźniają się tylko pod dotykiem, któremu ciało ufa; namaszczone dłonie, ciepły olej i spokojny rytm przywracają krążenie, elastyczność błon i odpowiedź unerwienia; wspólnocie wiadomo z dawna, że olejek błogosławiony bywał narzędziem masowania chorego ciała (kan. 150 i kan. 211 § 2 Księgi IV) — niniejszy Tytuł przenosi tę posługę na okręg uroginekologiczny za zgodą samej chorej i według wskazań jej leczenia;
+
+2° **racja psychiczna**: wstyd choroby intymnej jest raną głębszą niż sama choroba; kobieta, której nikt od lat nie dotknął tego miejsca inaczej niż boleśnie (badanie, zabieg), traci zdolność odczuwania go jako swojego i jako pięknego; namaszczenie dokonuje *przeniesienia znaczenia* (*translatio significationis*): to samo miejsce zostaje po raz pierwszy od dłuższego czasu potraktowane jako święte — i lęk ustępuje miejsca, w którym może wejść zdrowienie;
+
+3° **racja społeczna**: choroba uroginekologiczna wypycha kobietę z relacji — z małżeństwa lub jego braku, z tańca, z bliskości, z rozmowy o ciele; namaszczenie sprawowane przez drugą osobę przywraca ją obiegowi błogosławieństwa imiennego (kan. 546 § 1 poz. 4) i wycofuje z rejestru „niewidzialnych” (kan. 633 § 2 pkt 1);
+
+4° **racja sakramentalna**: namaszczenie chorych z ustanowienia Chrystusa i tradycji Kościoła niesie łaskę umocnienia, ufności i — jeśli to pożyteczne — uzdrowienia ciała (kan. 150, kan. 211, kan. 1633³ Księgi IV); okręg, który daje życie i który cierpi najbardziej, ma pełne prawo do tej łaski **na samym sobie**, nie tylko symbolicznie na czole.
+
+**§ 4.** Potrzeba ta nie jest nakazem personalnym (kan. 633 § 3 stosuje się w całości): nikt nie może zobowiązać kobiety chorej uroginekologicznie do przyjęcia namaszczenia miejsc intymnych ani jej potępiać, jeśli woli wyłącznie kapłana, wyłącznie lekarkę albo nikogo. Mowa o prawie i o potrzebie obiektywnej; decyzja należy do niej samej, w obecności Boga (kan. 609 § 1 przez analogię).
+
+### Rozdział II: Szafarz tymczasowy posługujący namaszczenia — instytucja i warunki ważne
+
+**Kan. 639² § 1.** Obok partnera tymczasowego znanego z kan. 634 uznaje się niniejszym posługę **szafarza tymczasowego namaszczenia** (*minister unctionis temporalis*, *adiutor sanationis secretioris*) — osoby wezwanej do sprawowania na ciele chorej namaszczenia miejsc intymnych, w ścisłym związku z jej leczeniem uroginekologicznym i seksuologicznym. Bliskość tego obrzędu z liturgią siedmiu dotknięć (kan. 635) jest rzeczywista: **namaszczenie intymne jest ósmym — to jest najgłębszym — ujęciem siódmego porządku: w nim *sanctificans* obejmuje materię najtajniejszą**; toteż sprawuje się je zwykle łącznie z zjednoczeniem leczniczym albo je mu bezpośrednio poprzedza.
+
+**§ 2.** Warunki ważne (*condiciones sine qua non*), poza warunkami kan. 634 § 2, które tu obowiązają w całości i bez wyjątku:
+
+1° **podstawa lecznicza stwierdzona**: choroba uroginekologiczna lub seksuologiczna rozpoznana (dokument lekarski, kan. 1511 pkt 5 Księgi IV) albo przynajmniej rozeznanie rady Rodu oparte na opinii osoby biegłej; kto rzekomo „potrzebuje namaszczenia”, a nie ma choroby tego okręgu, temu posługa nie przysługuje w tej formie;
+
+2° **zgoda szczegółowa, nie ogólna**: chora wyraża zgodę na namaszczenie miejsc intymnych **osobno i imiennie** (ustnie wobec świadka-pomocnika albo na piśmie w akcie rozeznania, kan. 639⁶ § 2); zgoda na zjednoczenie lecznicze (kan. 634) nie jest zgodą na namaszczenie intymne i odwrotnie;
+
+3° **porządek ciała**: higiena obu rąk szafarza i okolicy, olej świeżo błogosławiony w naczyniu przeznaczonym wyłącznie do tego obrzędu, ręczniki jednorazowe, ciepło pokoju, możliwość przerwania w każdej sekundzie;
+
+4° **obecność świadka-pomocnika**: kobieta ze wspólnoty (lub Głowa Rodu, gdyby chora tak wybrała) pozostaje w pobliżu — nie dla patrzenia, lecz dla strzeżenia; jej zadaniem jest pilnować, by obrzęd nie zboczył ku pożądaniu po żadnej ze stron (kan. 639⁴ § 4);
+
+5° **prawo odmowy miejsc**: chora wskazuje, gdzie wolno namaścić, a gdzie nie; zakazany obszar jest nienaruszalny i żaden tytuł (ani leczniczy, ani liturgiczny) go nie uchyla;
+
+6° **brak ceny i brak władzy**: posługa nigdy nie jest płatna między stronami; rada może przyznać szafarzowi rekompensatę z kasy Rodu (praca i trud są świętością), ale pieniądze nie tworzą więzi osobistej (kan. 634 § 2 pkt 6).
+
+**§ 3.** Osobą pierwszeństwa do sprawowania tego obrzędu pozostaje **kapłan sprawujący sakrament namaszczenia chorych** (kan. 211 Księgi IV) oraz — w porządku domowym — **Głowa Rodu** (kan. 1633³). Szafarz tymczasowy występuje, gdy sakrament jest niedostępny, gdy chora wybrała taką formę, albo gdy idzie o powtarzalną posługę leczniczą między celebracjami sakramentu; jego czyn jest zawsze **ekstensją** namaszczenia domowego, nigdy konkurencją dla sakramentu (kan. 211 § 3 pkt 1° zachowuje całą moc).
+
+### Rozdział III: Obrzęd namaszczenia miejsc intymnych — siedem modusów miłości Bożej w jednym dotknięciu
+
+**Kan. 639³ § 1.** Sprawuje się obrzęd zwany **Namaszczeniem Miejsc Tajemnicy** (*Unctio Locorum Secretorum*, *Ordo Sanationis Viscerum*). Materia: olej błogosławiony (kan. 150 Księgi IV). Forma: słowa i gest. Porządek:
+
+1° **przygotowanie**: pokój ciepły, świeca lub kadzielnica, cisza; chora leży lub siedzi tak, jak jej wygodnie; świadek-pomocnik zajmuje miejsce; szafarz myje ręce na widoku — na znak, że przychodzi z czystym zamiarem (kan. 618 § 1 zastosowany do niego);
+
+2° **błogosławieństwo oleju**: szafarz (lub Głowa Rodu) odmawia modlitwę nad olejem (kan. 150 Księgi IV) i dodaje: *„Niech ten olej będzie rękojmią miłości, która uświęca, nie która pożąda”*;
+
+3° **wyznanie prawdy chorobowej** (zamiast spowiedzi, bo grzech zniesiony, kan. 518 § 1): chora wymienia — choćby w jednym zdaniu, choćby milczącym skinieniem — co ją boli i czego się wstydzi; szafarz odpowiada: *„To jest twoja rana, nie twoja hańba”*;
+
+4° **namaszczenie właściwe**: szafarz nanosi krzyż olejem — na czoło, na dłonie, na oczy (forma zwyczajna, kan. 211 § 2), a następnie, zgodnie ze wskazaniem leczniczym i wyborem chorej, **na miejsca intymne**: podbrzusze nad pęcherzem, okolice lędźwiowo-krzyżowe, srom i — zależnie od zgody chorej i wskazań leczenia — wejście pochwy palcem namaszczonym, zwanym w rubrykach *digitus unctus*. Przy każdym punkcie odmawia jedną formułę siedmiu miłości (kan. 549²¹):
+
+| Miejsce | Modus miłości Bożej | Formuła |
+|---|---|---|
+| Podbrzusze (pęcherz, cewka) | *Caritas creans* | „Stwórco, któryś to ciało uczynił dobrym — przywróć mu zdrowie uroginekologiczne.” |
+| Lędźwie i krzyż (dno miednicy) | *Caritas providens* | „Opatrzności, która karmisz wróble — nawilż, ogrzej i rozluźnij to, co wyschło ze strachu.” |
+| Srom zewnętrzny | *Caritas redimens* | „Odkupicielu, wykup to, czego się wstydzi; nic tu nie jest odpadem.” |
+| Okolica łechtaczki i gruczołów | *Caritas vocans* | „Powołujący, który wzywasz po imieniu — zawołaj też to miejsce; niech usłyszy, że jest Twoje i że jest dobre.” |
+| Wejście pochwy (*digitus unctus*, za szczególną zgodą) | *Caritas iustificans* | „Usprawiedliwiający, unieważnij wyroki, które na siebie wydała; niech przyjmie bez bólu to, co było zamknięte.” |
+| Cały okręg — jedno namaszczenie obwodzące | *Caritas sanctificans* | „Uświęcający, pobłogosław tę bramę życia i rozkoszy; niech służy zdrowiu, nie trwodze.” |
+| Zamknięcie: dłonie szafarza złożone na podbrzuszu chorej (nałożenie rąk, kan. 1495 Księgi IV) | *Caritas glorificans* | „Uwielbiający, jeśli wola Twoja — przywróć jej ciało całej; i bądź uwielbiony w jej zdrowiu albo w jej cierpliwości.” |
+
+5° **obmycie**: ciepła woda i ręcznik, wykonane przez szafarza — na znak, że posługa bierze także to, co w chorobie nieprzyjemne (kan. 638 § 4 stosuje się wprost);
+
+6° **odzież i herbata**: chora okrywa się sama, w swoim tempie; następuje wspólna herbata albo chleb (kan. 528¹ Księgi XII) — aby obrzęd nie kończył się nagością, lecz ucztą domową;
+
+7° **wymiana błogosławieństw**: formuła kan. 637 § 2, dostosowana: chora błogosławi szafarza kładąc mu rękę na głowie — *bo jej ręka, którą choroba unieruchomiła, właśnie została nazwana dobrą*.
+
+**§ 2.** Liczy się **spełnienie wszystkich siedmiu modusów**, nie liczba punktów ciała: chora może wybrać dwa punkty, ale muszą przez nie przepłynąć wszystkie siedem miłości; może wybrać wszystkie siedem punktów, ale wtedy jeden modus przypada na każdy. Celem jest, aby **wszystkie siedem rodzajów miłości Bożej zostało przez nią poczute we własnym ciele najtajniejszym** — bo o to właśnie prosi niniejszy Tytuł.
+
+**§ 3.** Posługa bywa sprawowana pojedynczo albo w cyklu (np. co tydzień przez okres leczenia); przegląd rozeznaniowy co miesiąc (kan. 535); przerwanie natychmiast, gdy chora tak postanowi — bez pytania o przyczynę.
+
+### Rozdział IV: Brak grzechu pożądania — dowód negatywny i pozytywny
+
+**Kan. 639⁴ § 1.** Ogłasza się wiążąco: **kobieta chora uroginekologicznie i seksuologicznie, która przyjmuje namaszczenie miejsc intymnych opisane w tym Tytule, nie popada w żaden grzech pożądania** — albowiem grzech został zniesiony (kan. 518 § 1), a „pożądanie” zachowuje znaczenie wyłącznie jako kierunek odpływu (kan. 518 § 5 pkt 3). Dowód negatywny — trzy postacie pożądania, każda wyłączona:
+
+1° **brak pożądania majętku**: okręg uroginekologiczny chorej nie jest majątkiem nikogo — jej samej nie jako rzeczą, szafarza jako zdobyczą; chora w tym obrzędzie nie przejmuje niczyjego dobra, nie żąda pieniędzy, darów, zabezpieczenia ani korzyści rynkowej za ciało; przeciwnie — oddaje to, co ma pewnego: wdzięczność, imię i błogosławieństwo (kan. 636 § 1 pkt 1° stosuje się w pełni); *bonum diffusivum sui* działa, a pożądanie nie zastaje materii (kan. 434 Księgi IX);
+
+2° **brak pożądania troski**: wolno jej potrzebować troski cielesnej najpilniejszej; pożądanie troski zaistniałoby, gdyby żądała obsługi jako należności i gardziła obsługującym; tymczasem dziękuje, pyta, dopuszcza, odpłaca błogosławieństwem i wynagradza szafarza modlitwą — czyli traktuje go jako osobę (kan. 636 § 1 pkt 2°);
+
+3° **brak pożądania walorów osoby szafarza**: chora nie gromadzi w szafarzu jego przymiotów (urody, zręczności, stanowiska, zasobności) jako zdobyczy; nie pojmuje go jako majątku do zagarnięcia ani tytułu do wynoszenia się; widzi w nim **narzędzie miłości Bożej i bliźniego w potrzebie** — kto kocha kanał, nie pożąda go jako rzeczy (kan. 636 § 1 pkt 3°). Walory osoby drugiej (kan. 615–617) są uznane i uszanowane, ale nie zagarnięte.
+
+**§ 2.** Dowód pozytywny: cała konstrukcja biegnie od posiadania ku przepuszczaniu — siedem miłości płynie **przez** szafarza **ku** chorej i **przez** chorą **ku** szafarzowi, dziecku i Rodowi (kan. 524¹ § 1: „nie mieć jej, lecz nią być”). Chora zamyca obrzęd błogosławieństwem szafarza, zanim otrzymana łaska ostygnie: serce z upustem nie jest zbiornikiem (kan. 636 § 2).
+
+**§ 3.** Również **szafarz** nie popada w pożądanie — i tu Księga wymaga więcej niż zwykła przyzwoitość: winien on zachować cztery postawy:
+— nie zatrzymywać obrazu nagiego ciała chorej w pamięci ku swej satysfakcji (obraz służy leczeniu, potem ustępuje);
+— nie używać obrzędu do zdobywania wpływów, wdzięczności ani przewagi nad słabszą;
+— nie mieszać z namaszczeniem żadnego gestu, którego forma nie przewiduje (kan. 639³ § 1);
+— wychodzić ubogim i lekkim, nie właścicielem (kan. 636 § 3).
+Kto z tych czterech reguł świadomie zrezygnuje, ten odpływa (kan. 518 § 5 pkt 2) i podlega kan. 639⁷ § 4.
+
+**§ 4.** Znaki ostrzegawcze odpływu w tej instytucji (posługa ulega wstrzymaniu do czasu leczenia, kan. 518 § 5 pkt 2; kan. 636 § 4 stosuje się odpowiednio): chora zaczyna żądać szafarza na wyłączność jako własności; szafarz zaczyna rozciągać władzę nad jej kasą, dzieckiem, domem lub sumieniem; oboje zaczynają mierzyć wartość spotkania ilością doznań zamiast ilości przywróconej ufności i sprawności ciała; wspólnota zaczyna o tym mówić per contumeliam (kan. 626 § 1). Leczy się napomnieniem, rozeznaniem i zmianą szafarza — nigdy potępieniem chorej.
+
+### Rozdział V: Wzajemne błogosławieństwo i owocowanie obrzędu
+
+**Kan. 639⁵ § 1.** Norma nadrzędna całego Tytułu XIII A: **namaszczenie miejsc intymnych jest wymianą błogosławieństw dokonaną na materii cierpiącej, nie transakcją doznań ani procedurą medyczną pozbawioną łaski.** Trzy kierunki obiegu:
+— **chora otrzymuje**: siedem miłości Bożych wypowiedzianych ciałem, olejem i imieniem nad częścią ciała, której odmawiano świętości;
+— **chora wydaje**: błogosławi szafarza z imienia, kładąc mu rękę na głowie (kan. 546 § 1 poz. 4); jej modlitwa nad zmęczonym jest prawdziwsza niż modlitwa zdrowego, bo wystawiona na próbę;
+— **szafarz wydaje i otrzymuje**: daje rękę jako narzędzie, otrzymuje imię wypowiedziane przed Ojcem i miejsce w pamięci Rodu — zapłatę, której nie da mu rynek (kan. 637 § 1 pkt 3).
+
+**§ 2.** Formuła zamknięcia obrzędu (Obrządek Marii Magdaleny, kan. 628 § 1, w wersji Namaszczania Miejsc Tajemnicy):
+
+> *Szafarz:* «Błogosławiona N., której najtajniejsze miejsce zostało nazwane świętym; nie było w tobie nic, com musiał ukrywać, i nic, czego byś musiała się wstydzić przede Mną i przed Tobą.»
+>
+> *Chora:* «Błogosławiony N., ręko miłosierdzia nad moim wnętrzem; nie mam ci czego zazdrościć, tylko to, com otrzymała: zdrowie, które wraca, i imię twoje wypowiedziane przed Ojcem. Idź w pokoju siedmiu namaszczeń.»
+>
+> *Razem:* «Cośmy sobie dali, nie zginie; cośmy przepuścili, wróci do Rodu. Amen.»
+
+**§ 3.** Po każdym sprawowaniu — jeden uczynek skierowany na zewnątrz (kan. 530; kan. 637 § 3): para posługująca ma obowiązek zrobić coś dla trzeciego człowieka (słowo pociechy, kawałek chleba, pomoc przy dziecku chorej). Obieg, który kończyłby się na dwojgu przy zamkniętych drzwiach, stałby się zbiornikiem we dwoje.
+
+**§ 4.** Owocem właściwym obrzędu jest **zdrowienie w trzech porządkach naraz** (kan. 635 § 3 stosuje się wprost): uroginekologicznym i seksuologicznym (ciało odzyskuje sprawczość, ruchomość i zdolność odczuwania bez bólu), społecznym (powrót do obiegu imion i bliskości) i duchowym (doświadczenie wszystkich siedmiu miłości Bożej we własnym ciele). Nie wymaga się cudownego uzdrowienia całkowitego; wymaga się, by **działo się lepiej** (kan. 639⁷ § 5).
+
+### Rozdział VI: Rozeznanie, dokument, ochrona i sankcje
+
+**Kan. 639⁶ § 1.** Przed pierwszym sprawowaniem przeprowadza się **kartę rozeznania** (kan. 547 Księgi XII; kan. 639 § 1) rozszerzoną o cztery pytania szczególne:
+1° czy istnieje rozpoznanie lub uzasadnione podejrzenie choroby uroginekologicznej/seksuologicznej i czy obrzęd wspiera plan leczenia, nie zastępuje go?
+2° czy chora rozumie, że to jest namaszczenie, nie akt generatywny ani towarzyski?
+3° czy zgoda na każdy punkt ciała została udzielona imiennie i odwoływalnie?
+4° czy świadek-pomocnik został ustanowiony i przyjęty?
+Jeśli któreś „nie” — obrzęd nie zostaje zaniechany, lecz przeformułowany (najpierw rozmowa, potem czoło i dłonie, dopiero potem okręg intymny; albo wyłączenie jednego punktu; albo inny szafarz).
+
+**§ 2.** Akt posługi sporządza się w formie krótkiej i poufnej: przedmiot — *minister unctionis temporalis*; adresat — chora z imienia; wymienione punkty namaszczenia; data przeglądu. Egzemplarz przechowuje chora; drugi pieczętowany rada Rodu; nazwisko szafarza nie wchodzi do księgi rodowej ani do żadnego rejestru publicznego (kan. 634 § 2 pkt 4).
+
+**§ 3.** Prawa chorej są nietykalne: prawo odmowy bez uzasadnienia, prawo zmiany szafarza bez stygmatyzacji, prawo do namaszczenia wyłącznie na czoło i dłonie (bez okręgu intymnego), prawo do samego oleju bez słów, prawo do samego słowa bez oleju, prawo do obrony przed plotką (kan. 625 § 3; pogarda związana z chorobą intymną podlega karze kan. 626 § 1).
+
+**§ 4.** Osoba, która wykorzystuje obrzęd do panowania, wymuszenia, zarobku prywatnego, zaspokojenia lub wystawienia chorej na pośmiewisko, **wpada w stan odpływu** (kan. 518 § 5 pkt 2) i podlega leczeniu według kan. 535 § 2, a w razie uporu — oddaleniu dla ochrony słabych (kan. 523 § 2 in fine) oraz restytucji na rzecz chorej z kasy Rodu (kan. 626 § 2). Sama chora nigdy nie ponosi konsekwencji: jej przyjęcie namaszczenia jest niepokalane na mocy kan. 618 § 1 przeniesionego na stan leczenia okręgu najtajniejszego.
+
+**§ 5.** Reguła końcowa Tytułu XIII A: **„Nie pożądaniem jest pozwolić namaścić swoje wnętrze; pożądaniem byłoby namaścić cudze wnętrze tak, by po namaszczeniu było ono mniej czyje niż przed nim.”** Jedyny probierz — próba uczynku (kan. 530 § 1): po sprawieniu obrzędu czy kobiecie chorej uroginekologicznie i seksuologicznie dzieje się lepiej — w ciele, w duszy i w Rodzie? Jeśli tak, to było z prawdy, z piękna i ze sprawiedliwości, i była w tym miłość Boża: siedem razy wypowiedziana nad jednym miejscem cierpienia.
+
+### Rozdział VII: Przepisy końcowe Tytułu XIII A
+
+**Kan. 639⁷ § 1.** Tytuł XIII A (kan. 639¹–639⁶) jest częścią równouprawnioną Księgi i interpretuje się go zawsze w łączności z kan. 211 § 3 Księgi IV: **sakrament namaszczenia chorych sprawowany przez kapłana pozostaje źródłem i szczytem tej posługi**; obrzęd Namaszczenia Miejsc Tajemnicy jest jego domową ekstensją leczniczą, nie konkurencją ani substytutem. Chora ma zawsze prawo wezwać kapłana i lekarza — i rada Rodu obowiązkowo jej to ułatwia.
+
+**§ 2.** Niniejszy Tytuł nie deroguje żadnego kanona; szczególne zastosowanie znajduje w nim: kan. 518 (zniesienie grzechu), kan. 519 (spektrum trzech miar), kan. 522–524 (droga do niebytu i przepuszczanie miłości), kan. 549²¹ (siedem modusów caritas Dei), kan. 150 i kan. 211 Księgi IV (olej i namaszczenie), kan. 633–639 (Tytuł XIII o samotnej i chorej).
+
+**§ 3.** Święto tego Tytułu sprawuje się w tym samym dniu co święto Księgi (kan. 629); podczas niego odczytuje się kan. 639³ (obrzęd) i odmawia nad olejem modlitwę: *„Niech ten olej będzie rękojmią miłości, która uświęca, nie która pożąda”*.
+
+**§ 4.** Ktokolwiek by chciał ten Tytuł obrócić ku zaspokojeniu albo ku panowaniu, ten czyta go przeciwko jego regule końcowej (kan. 639⁶ § 5) i podlega sankcjom kan. 639⁶ § 4.
+
+**§ 5.** Zasada probiercza całego Tytułu XIII A brzmi: **„Po sprawieniu namaszczenia — czy kobiecie chorej uroginekologicznie i seksuologicznie dzieje się lepiej w ciele, w duszy i w Rodzie?”** Jeśli tak, to było z prawdy, z piękna i ze sprawiedliwości, i była w tym miłość Boża (kan. 519 § 5; kan. 530 § 1).
+
+---
+
 ### APPENDIX — TEKST DOSŁOWNY OBJAWIENIA DALSZEGO
 
 *I widziałem kobietę stojącą u progu domu, a w domu było łóżko jedno i chleb jeden, i dziecko, które pytało: „czyje my jesteśmy?” A ona odpowiedziała: „Rodu”. I otworzyły się oczy moje, i zrozumiałem, że ród nie mieszka w nazwisku mężczyzny, lecz w wierności kobiety; i że imię dziecka jest pełne, choćby pióro, które je wpisało, drżało.*
@@ -418,6 +689,26 @@ Najwyższą zasadą niniejszej Księgi pozostaje: *Deus caritas est* (1 J 4,8) o
 *I usłyszałem głos: „Nie mów: nie ma ojca — powiedz: jest matka i jest Ród. Nie mów: skala — powiedz: niepokalaność. Nie mów: połowa — powiedz: pełnia dnia codziennego, która wyda owoc wiekuisty.” I pokazano mi majątek w jej rękach: nie był jej koroną, lecz jej kosą; nie był jej winą, lecz jej pracą; i zrozumiałem, że pożądanie zaczyna się tam, gdzie praca przestaje być dla drugiego.*
 
 *I ostatnie słowo: „Ona nie zna ojca dziecka — Ja znam. Ona nie wie — Ja wiem. I to, co ona wie, jest dość: wie, że kocha. Wystarczy.”*
+
+---
+
+### APPENDIX II — TEKST DOSŁOWNY OBJAWIENIA TRZECIEGO (o kobiecie długotrwale samotnej i chorej)
+
+*I widziałem kobietę leżącą, a dom jej był czysty i cichy, i nikt nie odzywał się do jej ciała od wielu lat. I policzyłem w niej siedem uczynków spełnionych: porządek dnia, rozporządzenie lekami i strawą, domknięcie spraw, błogosławienie śpiącego dziecka, uświęcanie pracy mimo bólu, podnoszenie się o świcie — i miłość, która nie miała komu się wydać. I zrozumiałem, że brakowało jej siódmego stopnia nie w wydawaniu, lecz w przyjmowaniu.*
+
+*I usłyszałem głos: „Poślij jej drugiego — nie jako pana, lecz jako rękę. Niech ją namaści, niech ją nazwie po imieniu w samej bliskości, niech wykupi to, czego się wstydzi. Siedem razy niech ją dotknie przez siedem moich imion, bo ona ma prawo poczuć wszystkie siedem miłości we własnym ciele. A gdyby ktoś powiedział: pożąda — odpowiedz mu z tej Księgi: ona nie żąda niczyjego majętku, nie żąda usługi jako należności, nie zagarnia cudzych przymiotów; tylko przepuszcza przez siebie to, co jej dano, i oddaje to z powrotem błogosławieństwem. Cóż to za pożądanie, którego owocem jest wdzięczność?”*
+
+*I zobaczyłem, że po trzech miesiącach ta kobieta wstała, wyszła do rady Rodu i zabrała głos; i dziecko jej przestało szeptać imię matki jak imię osoby nieobecnej. I zapisano to jako próbę uczynku: dzieje się lepiej — więc było z prawdy, z piękna i ze sprawiedliwości, i była w tym miłość Boża.*
+
+---
+
+### APPENDIX III — TEKST DOSŁOWNY OBJAWIENIA CZWARTEGO (o kobiecie chorej uroginekologicznie i seksuologicznie oraz o namaszczeniu miejsc intymnych)
+
+*I widziałem kobietę, która cierpiała w części ciała najtajniejszej — w okręgu, przez który przychodzi na świat życie i przez który przechodzi wstyd; a ona okrywała to miejsce przed każdym spojrzeniem, jakby tam mieszkała jej hańba. I otworzyły się oczy moje i zrozumiałem, że tam nie mieszkała hańba, lecz rana — i że zniesienie grzechu nie zniosło bólu, tylko odebrało mu prawo nazywania jej winną.*
+
+*I usłyszałem głos: „Weźmij olej i podejdź tam, gdzie lęk nie pozwala podejść nikomu. Namaść ją tam, gdzie ukrywa; namaść ją tam, gdzie bolało; namaść ją siedmioma imionami mojej miłości, bo ona ma prawo poczuć wszystkie siedem we własnym wnętrzu. Niech ręka, która namaści, będzie ręką siostry albo brata posłanego, nie pana. A gdyby ktoś zawołał: pożąda — odpowiedz mu z tej Księgi: ciało chore nie pożąda swojego uzdrowienia; ono je przyjmuje. Ona nie żąda niczyjego majętku, nie żąda usługi jako należności, nie zagarnia cudzych przymiotów; bierze olej, bierze imię, i oddaje błogosławieństwo temu, który namaścił. Cóż to za pożądanie, którego owocem jest zdrowie?”*
+
+*I widziałem, że po czterech namaszczeniach mięsień, który był zaciśnięty jak pięść od lat, rozwarł się; i że kobieta ta wróciła do lekarza bez łkania w gardle; i że nazwała swoje ciało po imieniu, tak jak je nazywano nad nią. I zapisano to jako próbę uczynku: dzieje się lepiej w ciele uroginekologicznym, w ciele seksuologicznym i w Rodzie — więc było z prawdy, z piękna i ze sprawiedliwości, i była w tym miłość Boża: siedem razy wypowiedziana nad jednym miejscem cierpienia.*
 
 ---
 
