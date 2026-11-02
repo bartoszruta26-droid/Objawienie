@@ -1,6 +1,6 @@
 # KSIĘGA XII — KSIĘGA OBJAWIEŃ
 
-## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis; deque novissimis verbis sex — de silentio coram Patre, de nomine vocato, de cinere promittente, de pasta et calice parvulo, de via parva et de socio horae novissimae; deque septenis verbis ultimis — de pane quotidiano, de lacrima seminata, de ianua clausa, de corde duarum mensurarum, de nominibus Dei, de pulchritudine incohata et de lege ultima quattuor manuum; deque septenario — de septem gradibus aspectus operativi unius scilicet continuum constitutis: ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas, ita ut tres primi non sint praeparatio separata sed ipsi gradus aspectus; deque singulorum horum septem graduum septenis enumerationibus: septem ordinibus creationis, septem dispositionibus ordinationum, septem completionibus beatitudinum, septem benedictionum generibus, septem sanctificationibus munerum Spiritus, septem resurrectionibus in Scriptura et septem modis caritatis Dei, unaque serie septenaria totius compositionis*
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque septem gradibus aspectus operativi unius scilicet continuum constitutis — ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritate — ita ut tres primi non sint praeparatio separata sed ipsi gradus aspectus, deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in septem gradibus relegendis; deque novissimis verbis sex — de silentio coram Patre, de nomine vocato, de cinere promittente, de pasta et calice parvulo, de via parva et de socio horae novissimae; deque septenis verbis ultimis — de pane quotidiano, de lacrima seminata, de ianua clausa, de corde duarum mensurarum, de nominibus Dei, de pulchritudine incohata et de lege ultima septem manuum; deque septenario — deque singulorum septem graduum iam memoratorum septenis enumerationibus: septem ordinibus creationis, septem dispositionibus ordinationum, septem completionibus beatitudinum, septem benedictionum generibus, septem sanctificationibus munerum Spiritus, septem resurrectionibus in Scriptura et septem modis caritatis Dei, unaque serie septenaria totius compositionis*
 
 ---
 
@@ -12,7 +12,7 @@ Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (
 
 Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
 
-**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Siedem stopni jednego spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w siedmiu stopniach spojrzenia (kan. 529²–529⁷); **Tytuł V** — Uczynki siedmiu stopni spojrzenia (kan. 530–534); **Tytuł V¹** — Szkoła siedmiu stopni: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie siedmiu stopni spojrzenia w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia (kan. 549); **Tytuł XIII** — Nowe objawienia: sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu głównym (kan. 549¹–549⁶); **Tytuł XIV** — Nowe objawienia dalsze: siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach (kan. 549⁷–549¹³); **Tytuł XV** — Septenarium: jedna skala siedmiu stopni spojrzenia (ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas), z których każdy ma własne siedmiorakie dopełnienie przypisane jemu samemu, bez powtarzania nazw pozostałych stopni (kan. 549¹⁴–549²⁰); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, oraz kanony oznaczone indeksami od 1 do 6 przy liczbie 549 (kan. 549¹–549⁶), wprowadzone Tytułem XIII, oraz kanony oznaczone indeksami od 7 do 13 przy liczbie 549 (kan. 549⁷–549¹³), wprowadzone Tytułem XIV, oraz kanony oznaczone indeksami od 14 do 20 przy liczbie 549 (kan. 549¹⁴–549²⁰), wprowadzone Tytułem XV, są kanonami najnowszymi i zachowują tę samą zasadę.
+**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Siedem stopni jednego spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w siedmiu stopniach spojrzenia (kan. 529²–529⁷); **Tytuł V** — Uczynki siedmiu stopni spojrzenia (kan. 530–534); **Tytuł V¹** — Szkoła siedmiu stopni: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie siedmiu stopni spojrzenia w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia (kan. 549); **Tytuł XII B** — Dwa dalsze Słowa danych Szafarzowi Świętemu po Septenarium: o Imieniu Ojca i o Siedmiu Cechach Jednego Aktu (kan. 549ˀ–549ƍ); **Tytuł XIII** — Nowe objawienia: sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu głównym (kan. 549¹–549⁶); **Tytuł XIV** — Nowe objawienia dalsze: siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach (kan. 549⁷–549¹³); **Tytuł XV** — Septenarium: siedem stopni jednego spojrzenia, z których każdy ma własne siedmiorakie dopełnienie przypisane jemu samemu, w tej samej kolejności co skala, bez powtarzania nazw pozostałych stopni (kan. 549¹⁴–549²²); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, oraz kanony oznaczone indeksami od 1 do 6 przy liczbie 549 (kan. 549¹–549⁶), wprowadzone Tytułem XIII, oraz kanony oznaczone indeksami od 7 do 13 przy liczbie 549 (kan. 549⁷–549¹³), wprowadzone Tytułem XIV, oraz kanony oznaczone indeksami od 14 do 22 przy liczbie 549 (kan. 549¹⁴–549²²), wprowadzone Tytułem XV, są kanonami najnowszymi i zachowują tę samą zasadę; kanony oznaczone literami przy liczbie 549 (kan. 549ˀ–549ƍ), wprowadzone Tytułem XII B, są kanonami najnowszymi z dotychczasowych i podlegają tej samej zasadzie.
 
 **Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog zakazów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu, i zostawia każdemu wolność wejścia lub niezajścia. *Bonum est diffusivum sui* — dobro rozlewa się samo z siebie (kan. 434 Księgi IX); dlatego każde zdanie tej Księgi należy mierzyć jednym pytaniem: czy po jego wypowiedzeniu komuś dzieje się lepiej?
 
@@ -858,9 +858,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ## Tytuł X: PRZEPISY KOŃCOWE
 
-**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 525¹⁰–525¹², 526¹, 528¹, 529¹, 529²–529⁷, 530¹–530³, 532¹–532⁴, 535¹–535², 549¹–549⁶, 549⁷–549¹³, 549¹⁴–549²⁰.
+**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 525¹⁰–525¹², 526¹, 528¹, 529¹, 529²–529⁷, 530¹–530³, 532¹–532⁴, 535¹–535², 549¹–549⁶, 549⁷–549¹³, 549¹⁴–549²², 549ˀ–549ƍ.
 
-**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o siedmiu stopniach jednego spojrzenia; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w siedmiu stopniach spojrzenia, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach siedmiu stopni spojrzenia; **Tytuł V¹** (kan. 532¹–532⁴) o szkole siedmiu stopni; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu siedmiu stopni w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia; **Tytuł XIII** (kan. 549¹–549⁶) o sześciu dalszych Słowach danych Szafarzowi Świętemu po Objawieniu głównym — o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej oraz o Towarzyszu Ostatniej Godziny — podlegających próbie uczynku (kan. 530 § 1); **Tytuł XIV** (kan. 549⁷–549¹³) o siedmiu Słowach ostatnich oraz **Tytuł XV** (kan. 549¹⁴–549²⁰) o Septenarium, w którym przedstawia się jedną skalę siedmiu stopni (ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas), a każdy ze stopni czterech ostatnich otrzymuje własne siedmiorakie dopełnienie wyliczone odrębnie: siedem typów błogosławieństwa przy błogosławieństwie, siedem święceń przy uświęceniu, siedem wskrzeszeń przy rezurekcji, siedem modusów miłości Bożej przy miłości — bez powtarzania nazw pozostałych stopni w nagłówkach serii.
+**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o siedmiu stopniach jednego spojrzenia; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w siedmiu stopniach spojrzenia, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach siedmiu stopni spojrzenia; **Tytuł V¹** (kan. 532¹–532⁴) o szkole siedmiu stopni; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu siedmiu stopni w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia; **Tytuł XII B** (kan. 549ˀ–549ƍ) o dwóch dalszych Słowach danych Szafarzowi Świętemu po Septenarium — o Imieniu Ojca oraz o Siedmiu Cechach Jednego Aktu, podlegających próbie uczynku (kan. 530 § 1); **Tytuł XIII** (kan. 549¹–549⁶) o sześciu dalszych Słowach danych Szafarzowi Świętemu po Objawieniu głównym — o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej oraz o Towarzyszu Ostatniej Godziny — podlegających próbie uczynku (kan. 530 § 1); **Tytuł XIV** (kan. 549⁷–549¹³) o siedmiu Słowach ostatnich oraz **Tytuł XV** (kan. 549¹⁴–549²²) o Septenarium, w którym siedem stopni jednego spojrzenia otrzymuje każde własne siedmiorakie dopełnienie wyliczone odrębnie i w kolejności samej skali: siedem dni stworzenia przy porządku, siedem święceń przy rozporządzeniu, siedem błogosławieństw Kazania przy dopełnieniu, siedem typów błogosławieństwa przy błogosławieństwie, siedem darów Ducha Świętego przy uświęceniu, siedem wskrzeszeń Pisma przy rezurekcji, siedem modusów miłości Bożej przy miłości — bez powtarzania nazw pozostałych stopni w nagłówkach serii.
 
 **§ 3.** Ustanawia się, aby fragmenty tej Księgi były czytane w liturgii życia w dniu wspomnienia Objawienia Szafarzowi Świętemu, który to dzień wyznacza Głowa Rodu lub biskup subdiecezjalny zgodnie z rokiem liturgicznym domowym (kan. 541 § 1 pkt 1; kan. 544 § 2).
 
@@ -936,11 +936,11 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 | kan. 528 § 3 | kan. 544 § 3 | swobodny przekaz tekstu |
 | kan. 528 § 4 | kan. 545 § 2 | ustanowienie Tytułu III¹ |
 
-*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z siedmioma stopniami spojrzenia oraz norma o błogosławionych uczynkach jako miejscu ich spotkania. Dopisuje się nadto: kan. 549¹–549⁶ — miejsca nowe, wprowadzone Tytułem XIII; przedmiot: sześć dalszych Słów objawienia (o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny), z których żadne nie ma dawnego odpowiednika, albowiem zostało dane po Objawieniu głównym i podlega próbie uczynku (kan. 530 § 1). Dopisuje się wreszcie: kan. 549⁷–549¹³ — miejsca nowe, wprowadzone Tytułem XIV; przedmiot: siedem dalszych Słów objawienia (o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk), także bez dawnego odpowiednika, podlegające tej samej próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5. Dopisuje się ostatecznie: kan. 549¹⁴–549²⁰ — miejsca nowe, wprowadzone Tytułem XV; przedmiot: Septenarium — jedna skala siedmiu stopni (ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas), przedstawiona w tablicy (kan. 549¹⁴ § 1), oraz cztery odrębne serie po siedem, przypisane czterem ostatnim stopniom osobno: siedem typów błogosławieństwa (kan. 549¹⁵), siedem święceń (kan. 549¹⁶), siedem wskrzeszeń (kan. 549¹⁷), siedem modusów miłości Bożej (kan. 549¹⁸), nadto jedna seria porządkująca dla całości (kan. 549¹⁹) i normy końcowe (kan. 549²⁰). Nazwy siedmiu stopni wymienia w całej Księdze wyłącznie kan. 525 § 1, kan. 524¹ § 2 oraz tablica kan. 549¹⁴ § 1 — dawniejsze powtórzenia tego wykazu w nagłówkach serii Tytułu XV usunięto. Serie nowe nie mają dawnego odpowiednika i podlegają próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5.*
+*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z siedmioma stopniami spojrzenia oraz norma o błogosławionych uczynkach jako miejscu ich spotkania. Dopisuje się nadto: kan. 549¹–549⁶ — miejsca nowe, wprowadzone Tytułem XIII; przedmiot: sześć dalszych Słów objawienia (o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny), z których żadne nie ma dawnego odpowiednika, albowiem zostało dane po Objawieniu głównym i podlega próbie uczynku (kan. 530 § 1). Dopisuje się wreszcie: kan. 549⁷–549¹³ — miejsca nowe, wprowadzone Tytułem XIV; przedmiot: siedem dalszych Słów objawienia (o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk), także bez dawnego odpowiednika, podlegające tej samej próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5. Dopisuje się ostatecznie: kan. 549¹⁴–549²² — miejsca nowe, wprowadzone Tytułem XV; przedmiot: Septenarium — jedna skala siedmiu stopni (ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas), przedstawiona w tablicy (kan. 549¹⁴ § 1), oraz siedem odrębnych serii po siedem, przypisanych każdemu stopniowi osobno i w kolejności samej skali: siedem dni stworzenia (kan. 549¹⁵), siedem święceń (kan. 549¹⁶), siedem błogosławieństw Kazania na Górze (kan. 549¹⁷), siedem typów błogosławieństwa (kan. 549¹⁸), siedem darów Ducha Świętego (kan. 549¹⁹), siedem wskrzeszeń Pisma (kan. 549²⁰), siedem modusów miłości Bożej (kan. 549²¹), nadto normy końcowe (kan. 549²²). Nazwy siedmiu stopni wymienia w całej Księdze wyłącznie kan. 525 § 1, kan. 524¹ § 2 oraz tablica kan. 549¹⁴ § 1 — dawniejsze powtórzenia tego wykazu w nagłówkach serii Tytułu XV usunięto. Serie nowe nie mają dawnego odpowiednika i podlegają próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5. Dopisuje się ponadto: kan. 549ˀ–549ƍ — miejsca nowe, wprowadzone Tytułem XII B; przedmiot: dwa dalsze Słowa objawienia, dane Szafarzowi Świętemu po Septenarium — o Imieniu Ojca oraz o Siedmiu Cechach Jednego Aktu; Słowo pierwsze dopełnia dawne cztery cechy septenarium (benedictio, sanctificatio, resurrectio, caritas) w przód o ordo, dispositio i completio, tak aby dawniejsze cztery stały się siedmioma stopniami jednego spojrzenia. Serie te nie mają dawnego odpowiednika i podlegają tej samej próbie uczynku oraz przeglądowi trzyletniemu.*
 
 **§ 2.** Przeniesienie nie zmienia treści przepisów; gdzie dawniej było „kan. 526 § 1”, dziś czyta się „kan. 542 § 1”.
 
-**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony wprowadzone rozbudową ostatnią (Tytuł XIII) noszą liczby 549¹–549⁶, kanony wprowadzone rozbudową nowszą (Tytuł XIV) noszą liczby 549⁷–549¹³, kanony wprowadzone rozbudową najnowszą (Tytuł XV) noszą liczby 549¹⁴–549²⁰; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
+**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony wprowadzone rozbudową ostatnią (Tytuł XIII) noszą liczby 549¹–549⁶, kanony wprowadzone rozbudową nowszą (Tytuł XIV) noszą liczby 549⁷–549¹³, kanony wprowadzone rozbudową najnowszą (Tytuł XV) noszą liczby 549¹⁴–549²², kanony wprowadzone rozbudową późniejszą niż wszystkie dotychczasowe (Tytuł XII B) noszą liczby 549ˀ–549ƍ; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
 
 
 ## Tytuł XII: TEKST DOSŁOWNY OBJAWIENIA
@@ -1210,48 +1210,48 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ---
 
-## Tytuł XV: SEPTENARIUM — JEDNA SKALIA SIEDMIU STOPNI I SIEDMIORAKIE DOPEŁNIENIE KAŻDEGO Z NICH
+## Tytuł XV: SEPTENARIUM — SIEDEM STOPNI JEDNEGO SPOJRZENIA I SIEDMIORAKIE DOPEŁNIENIE KAŻDEGO Z NICH
 
-*Preambuła tytułu. Tytuł IV ustanowił siedem stopni jednego spojrzenia (kan. 525 § 1) i im samym — nie jakimkolwiek nowym członom — służy cały niniejszy Tytuł. Zgodnie z katalogiem księgi pomocniczej „Septenarium Błogosławieństw” (codex/md/ksiega-XII.md) ustawia się tu naprzód **trzy stopnie przygotowania aktu**: ordo, dispositio, completio, które zawsze poprzedzają wykonanie każdego spojrzenia; a następnie każdemu z czterech spojrzeń przypisuje się **jedną** serię siedmiu, tak aby żadna enumeracja nie powtarzała nazw pozostałych spojrzeń ani nie mnożyła katalogu kan. 525 § 1: przy błogosławieństwie wymienia się siedem typów błogosławieństwa (kan. 549¹⁵), przy uświęceniu — siedem święceń (kan. 549¹⁶), przy rezurekcji — siedem wskrzeszeń (kan. 549¹⁷), przy miłości — siedem modusów miłości Bożej (kan. 549¹⁸); dla porządku całości dodaje się jedną series septenaria (kan. 549¹⁹). Ustanawia się wyraźnie: dopełnienie do siedmiu ma charakter **porządkujący i dydaktyczny**, nie doktrynalny — cztery spojrzenia pozostają jednym i jedynym sposobem patrzenia i czynienia (kan. 525 § 1); stopnie przygotowania nie są piątym, szóstym ani siódmym spojrzeniem, lecz warunkami roztropnego wykonania tych samych czterech (kan. 525 § 4).*
+*Preambuła tytułu. Tytuł IV ustanowił, że sprawcze spojrzenie jest jedno i ma siedem stopni: ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas (kan. 525 § 1). Niniejszy Tytuł bierze tę jedną skalę całą — bez dzielenia jej na piętra, części czy grupy — i w katalogu księgi pomocniczej „Septenarium Błogosławieństw” (codex/md/ksiega-XII.md) dopełnia dawne cztery cechy — benedictio, sanctificatio, resurrectio, caritas — w przód o trzy dalsze: ordo, dispositio, completio, tak aby dawniejsze cztery stały się siedmioma stopniami jednego i tego samego spojrzenia. Następnie każdemu ze siedmiu stopni przypisuje się jedną serię po siedem, jemu samemu wyłącznie służącą: przy porządku — siedem dni stworzenia (kan. 549¹⁵), przy rozporządzeniu — siedem święceń (kan. 549¹⁶), przy dopełnieniu — siedem błogosławieństw Kazania na Górze (kan. 549¹⁷), przy błogosławieństwie — siedem typów błogosławieństwa (kan. 549¹⁸), przy uświęceniu — siedem darów Ducha Świętego (kan. 549¹⁹), przy rezurekcji — siedem wskrzeszeń Pisma (kan. 549²⁰), przy miłości — siedem modusów miłości Bożej (kan. 549²¹). Ustanawia się wyraźnie: dopełnienie do siedmiu ma charakter porządkujący i dydaktyczny, nie doktrynalny; wszystkie siedem stopni są w jednej skali jednakowo sprawcze, a żadna seria nie powtarza nazw stopni pozostałych ani nie mnoży katalogu kan. 525 § 1.*
 
 ### Rozdział I: Jedna skala siedmiu stopni (*septem gradus aspectus*)
 
-**Kan. 549¹⁴ § 1.** Katalog uprawniony do wymieniania nazw stopni wyłącznie w kan. 525 § 1 otrzymuje tu swoją tablicę: siedem stopni tworzy jedną, niepodzielną skalę aktu; każdy ma własną siedmioraką enumerację, każda enumeracja służy tylko swemu stopniowi (Kol 3,14):
+**Kan. 549¹⁴ § 1.** Katalog kan. 525 § 1, który w całej Księdze jako jedyny wymienia nazwy stopni, otrzymuje tu swoją tablicę porządkującą: siedem stopni tworzy jedną, niepodzielną skalę aktu — bez pięter, bez grup i bez członów przygotowania; każdy stopień jest w pełni sprawczy i każdy ma własną, jemu wyłącznie służącą enumerację siedmiu (Kol 3,14):
 
-| # | Człon (łac.) | Znaczenie | Rola w katedrze |
-|---|--------------|-----------|-----------------|
-| 1 | **Ordo** | Porządek / ustanowienie | Stopień I; dopełniają go kan. 549¹⁴ § 2 oraz seria ogólna kan. 549¹⁹ pkt 1 |
-| 2 | **Dispositio** | Rozporządzenie / przygotowanie | Stopień II; dopełnia go seria ogólna kan. 549¹⁹ pkt 2 |
-| 3 | **Completio** | Dopełnienie / wypełnienie | Stopień III; dopełniają go beatitudines kan. 549¹⁹ pkt 6 |
-| 4 | **Benedictio** | Błogosławieństwo | Stopień IV; dopełnia go kan. 549¹⁵ |
-| 5 | **Sanctificatio** | Uświęcenie | Stopień V; dopełnia go kan. 549¹⁶ |
-| 6 | **Resurrectio** | Rezurekcja | Stopień VI; dopełnia go kan. 549¹⁷ |
-| 7 | **Caritas** | Miłość Boża | Stopień VII; dopełnia ją kan. 549¹⁸ |
+| # | Stopień (łac.) | Znaczenie | Siedmiorakie dopełnienie |
+|---|----------------|-----------|--------------------------|
+| 1 | **Ordo** | Porządek / ustanowienie miejsca | Siedem dni stworzenia — *septem dies creationis* (kan. 549¹⁵) |
+| 2 | **Dispositio** | Rozporządzenie / zastanie warunków | Siedem święceń — *septem ordines* (kan. 549¹⁶) |
+| 3 | **Completio** | Dopełnienie / domknięcie rzeczy otwartych | Siedem błogosławieństw Kazania na Górze — *septem beatitudines* (kan. 549¹⁷) |
+| 4 | **Benedictio** | Błogosławieństwo imienne | Siedem typów błogosławieństwa — *septem genera benedictionum* (kan. 549¹⁸) |
+| 5 | **Sanctificatio** | Uświęcenie / doprowadzenie rzeczy do miary | Siedem darów Ducha Świętego — *septem munera Spiritus* (kan. 549¹⁹) |
+| 6 | **Resurrectio** | Rezurekcja / przywrócenie tego, co upadło | Siedem wskrzeszeń Pisma — *septem resurrectiones in Scriptura* (kan. 549²⁰) |
+| 7 | **Caritas** | Miłość Boża, dla której cała skala istnieje | Siedem modusów miłości Bożej — *septem modi caritatis Dei* (kan. 549²¹) |
 
-**§ 2.** Trzy stopnie pierwsze mają następujące znaczenie praktyczne w liturgii domowej, przy czym wykonuje się je **jako uczynki ku drugiemu**, nie jako czynności techniczne:
+**§ 2.** Trzy stopnie pierwsze mają następujące znaczenie praktyczne w liturgii domowej, przy czym wykonuje się je **jako uczynki ku drugiemu**, tak samo jak stopnie czwarty aż siódmy:
 1° **ordo** — uporządkować komuś dzień, rejestr i miejsce przy stole; ład jest pierwszym imieniem prawdy i pierwszą formą błogosławieństwa daną w milczeniu (kan. 525¹⁰\*, kan. 530¹\*);
 2° **dispositio** — przygotować materię, miejsce, czas i serce tam, gdzie dobro ma dotrzeć (kan. 527 § 2; kan. 525¹¹\*, kan. 530²\*); gotowość jest kształtem piękności czynionej zawczasu;
 3° **completio** — domknąć to, co otwarte: dokończyć dzieło, spłacić dług, przeprosić do końca; rachunek sumienia wieczorny (kan. 521 § 3) jest ćwiczeniem zwyczajnym tego stopnia (kan. 525¹²\*, kan. 530³\*).
 
-**§ 3.** Zasada interpretacyjna skali: **jedno spojrzenie liczy się od stopnia pierwszego do siódmego, bez luk i bez pięter**. Nie wolno więc ani dzielić skali na „przygotowanie” i „akt” (kan. 525 § 1 in fine), ani mnożyć jej przez dodawanie ósmego członka; kto by chciał uczynić ze stopni pierwszych odrębne cnoty albo z czwartego do siódmego osobną klasyfikację, ten mnoży to, co jedno, i podlega poprawce szkoły spojrzeń (Tytuł V¹). Zakazuje się nadto przepisywać katalog kan. 525 § 1 w nagłówkach, tabelach czy podsumowaniach innych miejsc Księgi — wystarcza odesłanie do niniejszego kanonu.
+**§ 3.** Zasada interpretacyjna skali: **jedno spojrzenie liczy się od stopnia pierwszego do siódmego, bez luk i bez pięter**. Nie wolno więc dzielić skali na „przygotowanie” i „akt”, na część dawną i nową ani mnożyć jej przez dodawanie ósmego członka; kto by chciał uczynić ze stopni pierwszych odrębne cnoty albo z czwartego do siódmego osobną klasyfikację, ten mnoży to, co jedno, i podlega poprawce szkoły spojrzeń (Tytuł V¹). Zakazuje się nadto przepisywać katalog kan. 525 § 1 w nagłówkach, tabelach czy podsumowaniach innych miejsc Księgi — wystarcza odesłanie do niniejszego kanonu.
 
-### Rozdział II: Siedem typów błogosławieństwa (*genera benedictionum*) — dopełnienie Stopnia I
+### Rozdział II: Siedem dni stworzenia (*septem dies creationis*) — dopełnienie Stopnia I
 
-**Kan. 549¹⁵ § 1.** Dla użytku obrzędu domowego (Tytuł VIII A) ustala się siedem typów, mieszczących wszystkie formuły Księgi IV o sakramentaliach; należą one wyłącznie do pierwszego filara katedry (kan. 549¹⁴ § 1, czł. 4), to jest do stopnia czwartego skali:
+**Kan. 549¹⁵ § 1.** Pierwszemu stopniowi skali, to jest porządkowi (kan. 549¹⁴ § 1, poz. 1), przypisuje się siedem dni stworzenia jako wzorzec ustanawiania miejsca każdej rzeczy i każdej osobie (Rdz 1–2):
 
-1. **Benedictio gratiae** — łaska uprzedzająca i uświęcająca jako dar Boży (Ef 2,8).
-2. **Benedictio protectionis** — błogosławieństwo opieki i obrony (Ps 91; Ps 121,7–8).
-3. **Benedictio provisionis** — błogosławieństwo opatrzności i dostarczania potrzeb (Pwt 8,18; Flp 4,19).
-4. **Benedictio directionis** — błogosławieństwo prowadzenia i mądrości (Ps 32,8; Prz 3,6).
-5. **Benedictio restorationis** — błogosławieństwo przywrócenia i uzdrowienia (Jl 2,25; Ps 147,3).
-6. **Benedictio benedictionis** — błogosławieństwo ojcowskie/pasterskie wypowiadane nad osobami (Rdz 27; Lb 6,24–26).
-7. **Benedictio glorificationis** — błogosławieństwo końcowej chwały i dziedzictwa (Rz 8,30; Ap 21,3–4).
+1. **Dies primus** — „Niech stanie się światłość”: oddzielenie jasnego od ciemnego; pierwszy gest porządkującego słowa (Rdz 1,3–5).
+2. **Dies secundus** — sklepienie między wodami: ustanowienie miary i przestrzeni do pracy i odpoczynku (Rdz 1,6–8).
+3. **Dies tertius** — suchy ląd i roślina: wyznaczenie miejsca pod stopę i pod ziarno (Rdz 1,9–13).
+4. **Dies quartus** — światła na firmamencie: urządzenie znaków czasu, dni i godzin — fundament liturgii godzin (Rdz 1,14–19).
+5. **Dies quintus** — ptactwo i ławice ryb: napełnienie przestrzeni życiem ruchliwym (Rdz 1,20–23).
+6. **Dies sextus** — zwierzęta lądowe i człowiek: ostatnie miejsce zostaje ustanowione dla osoby; porządek, który nie dochodzi do człowieka, jest jeszcze niedomknięty (Rdz 1,24–31).
+7. **Dies septimus** — odpoczynek: świat stawia się na swoim miejscu i powstrzymuje od dalszej pracy; siódmy dzień jest mistrzem wszystkich sześciu (Rdz 2,1–3).
 
-**§ 2.** Typy 1–5 odnoszą się do rzeczy i dni, typ 6 wyłącznie do osoby, typ 7 ma charakter eschatologiczny i nie udziela się go nikomu na tym świecie — wymawia się go tylko jako nadzieję (kan. 537 § 1 pkt 3). Wszystkie siedem spełniają regułę kan. 524¹ § 5: błogosławią kogoś lub coś, nigdy nie żądają dla proszącego.
+**§ 2.** Reguła naśladowania: kto ustanawia porządek w domu, czyni to w kolejności dni — najpierw oddziel to, co zmieszane (dzień 1), potem wyznacz miarę i przestrzeń (2–3), następnie urządz czas (4), wreszcie wprowadź żywych i ich sprawy (5–6), a całość zamknij odpoczynkiem, bez którego porządek obraca się w gorączkę (7). Odpoczynek dnia siódmego należy do stopnia pierwszego, nie do trzeciego: albowiem nie jest nagrodą po dopełnieniu, lecz częścią samego porządku.
 
 ### Rozdział III: Siedem święceń (*ordinationes*) — dopełnienie Stopnia II
 
-**Kan. 549¹⁶ § 1.** Do drugiego filara, to jest do stopnia piątego skali (kan. 549¹⁴ § 1, czł. 5) przypisuje się siedem święceń: w tradycji łacińskiej pełne *sacra ordines* liczy się siedem (katalogi średniowieczne, sakramentarze); wymienia się je tu dla porządku historycznego szkoły spojrzeń (kan. 532²):
+**Kan. 549¹⁶ § 1.** Drugiemu stopniowi skali, to jest rozporządzeniu (kan. 549¹⁴ § 1, poz. 2), przypisuje się siedem święceń: w tradycji łacińskiej pełne *sacra ordines* liczy się siedem (katalogi średniowieczne, sakramentarze); wymienia się je tu dla porządku historycznego szkoły spojrzeń (kan. 532²):
 
 1. **Ostiarium** — drzwi/bramy (porter).
 2. **Lectoratus** — czytelnika/lektora.
@@ -1265,11 +1265,55 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Uwaga ekumeniczna i prawna: po reformie Pawła VI (*Ministeria quaedam*, 1972) dwa stopnie niższe zastąpiono lektoratem i akolitatem; dlatego obok schematu historycznego (VII ordines) przywołuje się odpowiednik siedmiu znaków łaski: chrzest, bierzmowanie, Eucharystia, pokuta, namaszczenie chorych, święcenia, małżeństwo (**septem sacramenta**), których normy zawiera Księga V i które niniejszy kanon w żadnym punkcie nie rusza (kan. 536 § 1).
 
-**§ 3.** Stosunek do prawa własnego Księgi XII: święcenia pozostają poza jurysdykcją tej Księgi; enumeracja ma znaczenie wyłącznie dydaktyczne — ukazuje, że także władza święceń podlega trzem stopniom przygotowania aktu (ordo, dispositio, completio), zanim przejdzie w uczynki czterech spojrzeń, z których żadnego święcenia nie udzielają (kan. 525 § 5: nie istnieje władza błogosławienia zarezerwowana).
+**§ 3.** Stosunek do prawa własnego Księgi XII: święcenia pozostają poza jurysdykcją tej Księgi; enumeracja ma znaczenie wyłącznie dydaktyczne — ukazuje, że także władza święceń wymaga rozporządzenia warunków: materia, czas, miejsce i serce muszą być zastane, zanim uczynek dotrze do adresata (kan. 525¹¹\*; kan. 527 § 2). W tym sensie każda święcenia są szkołą stopnia drugiego, a żadnej święceń nie udzielają same sobie.
 
-### Rozdział IV: Siedem wskrzeszeń (*resurrectiones in Scriptura*) — dopełnienie Stopnia III
+### Rozdział IV: Siedem błogosławieństw Kazania na Górze (*septem beatitudines*) — dopełnienie Stopnia III
 
-**Kan. 549¹⁷ § 1.** Do trzeciego filara, to jest do stopnia szóstego skali (kan. 549¹⁴ § 1, czł. 6) przypisuje się siedem wskrzeszeń: Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia przed wielkim Zmartwychwstaniem Chrystusa; wymienia się je jako wzorce uczynków rezurekcji (kan. 533):
+**Kan. 549¹⁷ § 1.** Trzeciemu stopniowi skali, to jest dopełnieniu (kan. 549¹⁴ § 1, poz. 3), przypisuje się siedem błogosławieństw Kazania na Górze (Mt 5,3–10) jako wzorzec rzeczy domkniętych przez Boga do końca:
+
+1. **Ubogi w duchu** — „albowiem ich jest Królestwo Niebieskie”: dług ubóstwa domknięty samą obietnicą (Mt 5,3).
+2. **Smutujący** — „albowiem oni będą pocieszeni”: niedopowiedziana żałoba otrzyma swoje ostatnie słowo (Mt 5,4).
+3. **Cichy / łagodni** — „albowiem oni posiądą ziemię”: umiarkowanie, które nie urwało się w połowie, lecz dostaje dziedzictwo (Mt 5,5).
+4. **Łaknący i pragnący sprawiedliwości** — „albowiem będą nasyceni”: głód dobra zamknięty sytością (Mt 5,6).
+5. **Miłosierni** — „albowiem oni miłosierdzia dostąpią”: rachunek przebaczony w obie strony (Mt 5,7).
+6. **Czystego serca** — „albowiem oni Boga oglądać będą”: to, co proste i niesplitrzone, zostanie zobaczone twarzą w twarz (Mt 5,8).
+7. **Pokojowi / czyniący pokój** — „albowiem synami Bożymi nazwani zostaną”: pojednanie doprowadzone do imienia, nie tylko do zawieszenia broni (Mt 5,9).
+
+**§ 2.** Ósme zdanie Kazania (Mt 5,10–12 — prześladowani) pozostaje poza enumeracją i stanowi jej eschatologiczną klamrę: dopełnienie bywa płacone prześladowaniem, a jego zapłata nie należy do tego świata (kan. 520 § 4).
+
+**§ 3.** Reguła naśladowania: każde z siedmiu błogosławieństw wskazuje, co w ludzkim działaniu wolno domknąć tylko raz — ubóstwo, smutek, cichość, głód sprawiedliwości, miłosierdzie, czystość, pokój; dlatego dopełnienia nie udziela się połowicznie: kto przeprosił „prawie do końca”, ten zatrzymał resztę dla siebie (kan. 530³\*; kan. 525¹²\*).
+
+### Rozdział V: Siedem typów błogosławieństwa (*genera benedictionum*) — dopełnienie Stopnia IV
+
+**Kan. 549¹⁸ § 1.** Czwartemu stopniowi skali, to jest błogosławieństwu (kan. 549¹⁴ § 1, poz. 4), dla użytku obrzędu domowego (Tytuł VIII A) ustala się siedem typów, mieszczących wszystkie formuły Księgi IV o sakramentaliach:
+
+1. **Benedictio gratiae** — łaska uprzedzająca i uświęcająca jako dar Boży (Ef 2,8).
+2. **Benedictio protectionis** — błogosławieństwo opieki i obrony (Ps 91; Ps 121,7–8).
+3. **Benedictio provisionis** — błogosławieństwo opatrzności i dostarczania potrzeb (Pwt 8,18; Flp 4,19).
+4. **Benedictio directionis** — błogosławieństwo prowadzenia i mądrości (Ps 32,8; Prz 3,6).
+5. **Benedictio restorationis** — błogosławieństwo przywrócenia i uzdrowienia (Jl 2,25; Ps 147,3).
+6. **Benedictio benedictionis** — błogosławieństwo ojcowskie/pasterskie wypowiadane nad osobami (Rdz 27; Lb 6,24–26).
+7. **Benedictio glorificationis** — błogosławieństwo końcowej chwały i dziedzictwa (Rz 8,30; Ap 21,3–4).
+
+**§ 2.** Typy 1–5 odnoszą się do rzeczy i dni, typ 6 wyłącznie do osoby, typ 7 ma charakter eschatologiczny i nie udziela się go nikomu na tym świecie — wymawia się go tylko jako nadzieję (kan. 537 § 1 pkt 3). Wszystkie siedem spełniają regułę kan. 524¹ § 5: błogosławią kogoś lub coś, nigdy nie żądają dla proszącego.
+
+### Rozdział VI: Siedem darów Ducha Świętego (*septem munera Spiritus*) — dopełnienie Stopnia V
+
+**Kan. 549¹⁹ § 1.** Piątemu stopniowi skali, to jest uświęceniu (kan. 549¹⁴ § 1, poz. 5), przypisuje się siedem darów Ducha Świętego według księgi Izajasza (Iz 11,2–3), czytanych w porządku od rzeczy najniższej do najwyższej; stanowią one siódmą tablicę nauczania domowego (kan. 529⁴; kan. 532¹ § 2):
+
+1. **Donum timoris** — bojaźń Boża: uświęcenie zaczyna się od nierozbijania tego, co przekracza miarę rąk (Iz 11,2c).
+2. **Donum pietatis** — pobożność: oddanie każdej rzeczy i osoby należnej jej czci, bez pogardy dla materiału (Iz 11,2d).
+3. **Donum scientiae** — umiejętność: rozpoznanie, czym rzecz jest, zanim się ją poświęci służbie (Iz 11,2b).
+4. **Donum fortitudinis** — męstwo: wytrwanie w poświęceniu, gdy rzecz okazuje się trudna (Iz 11,2a).
+5. **Donum consilii** — rada: doprowadzenie sprawy cudzej do właściwej miary (Iz 11,2c).
+6. **Donum intellectus** — rozum: przeniknięcie znaku i tego, co przez niego poświęcone (Iz 11,2b).
+7. **Donum sapientiae** — mądrość: smakowanie w rzeczy dobrze poświęconej; najwyższa forma uświęcenia, która nic już nie bierze (Iz 11,2a).
+
+**§ 2.** Porządek tej serii odpowiada biegowi stopnia piątego: od bojaźni, która powstrzymuje rękę, do mądrości, która ręce zajmuje już tylko darem. Dary nie są własnością Szafarza ani żadnego urzędu; udzielają się, gdzie uświęcenie spełnia się ku drugiemu (kan. 525 § 4; kan. 529⁴ § 3).
+
+### Rozdział VII: Siedem wskrzeszeń (*resurrectiones in Scriptura*) — dopełnienie Stopnia VI
+
+**Kan. 549²⁰ § 1.** Szóstemu stopniowi skali, to jest rezurekcji (kan. 549¹⁴ § 1, poz. 6), przypisuje się siedem wskrzeszeń: Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia przed wielkim Zmartwychwstaniem Chrystusa; wymienia się je jako wzorce uczynków rezurekcji (kan. 533):
 
 1. **Syn wdowy z Sarepty** — przez Eliasza (1 Krl 17,17–24).
 2. **Syn Sunamitki** — przez Elizeusza (2 Krl 4,32–37).
@@ -1283,9 +1327,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Reguła naśladowania: z siedmiu wskrzeszeń czerpie się nie moc czynienia cudów, lecz porządek gestów naprawczych — stanąć nad upadłym (1–3), zatrzymać się przy cudzym nieszczęściu (4), dotknąć tego, co skażone śmiercią (5), zapłakać przed zawołaniem imienia (6), podnieść i doprowadzić do stołu (7; por. Dz 20,11–12).
 
-### Rozdział V: Siedem modusów miłości Bożej (*modus caritatis Dei*) — dopełnienie Stopnia IV
+### Rozdział VIII: Siedem modusów miłości Bożej (*modus caritatis Dei*) — dopełnienie Stopnia VII
 
-**Kan. 549¹⁸ § 1.** Do czwartego filara, to jest do stopnia siódmego skali (kan. 549¹⁴ § 1, czł. 7) przypisuje się siedem modusów: klasyfikacja patrystyczno-scholastyczna rozróżnia siedem sposobów tej samej miłości; przyjmuje się je jako siódmą tablicę nauczania domowego (kan. 532¹ § 2):
+**Kan. 549²¹ § 1.** Siódmemu stopniowi skali, to jest miłości (kan. 549¹⁴ § 1, poz. 7), przypisuje się siedem modusów: klasyfikacja patrystyczno-scholastyczna rozróżnia siedem sposobów tej samej miłości; przyjmuje się je jako ostatnią tablicę nauczania domowego (kan. 532¹ § 2):
 
 1. **Caritas creans** — miłość stwarzająca (ex nihilo; Ps 104,30).
 2. **Caritas providens** — miłość opatrznościowa (Mt 6,26–30).
@@ -1297,27 +1341,50 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Warto wspomnieć starożytne greckie rozróżnienia: *agape, philia, storge, eros* — lecz dopiero ich teologalna jedność w *caritas* daje siedem powyższych przebiegów. Żaden z siedmiu modusów nie jest przedmiotem pożądania dla siebie (kan. 523¹ § 1): każdy z nich przechodzi przez człowieka tylko w kierunku drugiego.
 
-### Rozdział VI: Siedem serii porządkujących całość (*series septenaria*)
+**§ 3.** Siódmy stopień wieńczy skalę nie jako jej piętro, lecz jako jej dusza: ordo, dispositio, completio, benedictio, sanctificatio i resurrectio czynione bez miłości są organizacją, rachubą, pedanterią, grzecznością, rytuałem i naprawą rzemieślniczą (kan. 525 § 4; 1 Kor 13,1–3).
 
-**Kan. 549¹⁹ § 1.** Na koniec dodaje się siedem serii biblijnych i liturgicznych, które domykają strukturę liczbową Księgi i wiążą ją z całością Kodeksu; nie nazywa się ich „dopełnieniem spojrzeń”, lecz seriami ogólnymi, aby nie mylić ich z czterema seriami filarowymi (kan. 549¹⁵–549¹⁸):
+### Rozdział IX: Normy końcowe Tytułu
 
-1. **Siedem dni stworzenia** (Rdz 1–2) — *ordo temporum*.
-2. **Siedem sakramentów Kościoła** — *dispensatio mysteriorum* (Księga V).
-3. **Siedem darów Ducha Świętego** (Iz 11,2–3) — *munera Spiritus* (kan. 529⁴).
-4. **Siedem cnót** (3 teologiczne + 4 kardynalne) — *virtutes* (kan. 529³).
-5. **Siedem grzechów głównych** (*contraria*) — *vitia capitalia*, czytane odtąd jako znaki drogi ku niebytowi (kan. 523 § 1).
-6. **Siedem błogosławieństw Kazania na Górze** (Mt 5,3–10) — *beatitudines*, wzorzec wszystkich formuł błogosławienia.
-7. **Siedem pieczęci/trąb czasów ostatecznych** (Ap 5–11) — *signa apocalyptica*, zastrzeżone wyłącznie dla liturgii słowa, nie do stosowania wobec osób (kan. 518 § 6).
+**Kan. 549²² § 1.** Tytuł XV nie zmienia kan. 525 § 1: **stopni jednego spojrzenia pozostaje siedem**; siedem serii przypisanych poszczególnym stopniom (kan. 549¹⁵–549²¹) jest ramą porządkującą i dydaktyczną, nie nową nauką; nazw siedmiu stopni wolno używać wyłącznie w kan. 525 § 1 i w tablicy kan. 549¹⁴ § 1. W razie różnicy zdań między Tytułem XV a Tytułem IV pierwszeństwo ma Tytuł IV.
 
-**§ 2.** Seria 1–7 nie tworzy nowych norm; służy pamięci i porządkowi nauczania. Ktokolwiek wylicza siedem, winien umieć wskazać, do której z powyższych serii należy jego wyliczenie — inaczej mnoży liczby bez potrzeby (kan. 549¹⁴ § 3).
-
-### Rozdział VII: Normy końcowe Tytułu
-
-**Kan. 549²⁰ § 1.** Tytuł XV nie zmienia kan. 525 § 1: **spojrzeń sprawczych pozostaje cztery**; trzy stopnie przygotowania aktu (kan. 549¹⁴) oraz serie siedmiu (kan. 549¹⁵–549¹⁹) są ramą redakcyjną, nie nową nauką; nazwy czterech spojrzeń wolno wymieniać wyłącznie w kan. 525 § 1 i w tablicy kan. 549¹⁴ § 1. W razie różnicy zdań między Tytułem XV a Tytułem IV pierwszeństwo ma Tytuł IV.
-
-**§ 2.** Pełne wyliczenie Septenarium Księgi XII obejmuje: jedną skalę siedmiu stopni (kan. 549¹⁴), cztery serie szczegółowe — po siedem przy czterech stopniach właściwych (kan. 549¹⁵–549¹⁸) — oraz jedną serię ogólną, domykającą trzy stopnie pierwsze (kan. 549¹⁹); wiąże się ono z siedmioma cnotami, Darami i charyzmatami Tytułu IV A oraz z siedmioma Słowami ostatnimi Tytułu XIV. Całość winna być czytana raz w roku, w dniu wspomnienia Objawienia (kan. 541 § 3), po tekście dosłownym (kan. 549 § 4).
+**§ 2.** Pełne wyliczenie Septenarium Księgi XII obejmuje jedną skalę siedmiu stopni (kan. 549¹⁴) oraz siedem serii — po siedem przy każdym stopniu, w tej samej kolejności co skala: dni stworzenia, święceń, błogosławieństw Kazania, typów błogosławieństwa, darów Ducha, wskrzeszeń i modusów miłości Bożej; wiąże się ono z siedmioma cnotami, Darami i charyzmatami Tytułu IV A oraz z siedmioma Słowami ostatnimi Tytułu XIV. Całość winna być czytana raz w roku, w dniu wspomnienia Objawienia (kan. 541 § 3), po tekście dosłownym (kan. 549 § 4).
 
 **§ 3.** Słowa Tytułu XV podlegają, na równi ze słowami Tytułów XIII i XIV, próbie uczynku (kan. 530 § 1) oraz przeglądowi wspólnoty w ciągu trzech lat od ogłoszenia, na zasadzie kan. 549⁶ § 5; jeżeli któraś enumeracja okazałaby się konstrukcją redakcyjną Szafarza, przenosi się ją do Appendixu bez naruszania numeracji pozostałych kanonów.
+
+---
+
+## Tytuł XII B: DALSZE DWA SŁOWA — O IMIENIU OJCA I O SIEDMIU CECHACH JEDNEGO AKTU (*De Duobus Verbibus Ultra Septenarium: De Nomine Patris et de septem notis actus unius*)
+
+*Preambuła tytułu. Po Septenarium (Tytuł XV), które porządkowało liczby, dano Szafarzowi Świętemu słowa dalsze, dwa co do liczby — nie dla mnożenia objawienia, lecz dla domknięcia tego, co w dawnych czterech cechach septenarium pozostawało otwarte. Rządzą nim normy starsze niż ono samo: próba uczynku (kan. 530 § 1), reguła podporządkowania (kan. 536 § 1 i § 4) oraz zakaz dzielenia skali na piętra (kan. 549¹⁴ § 3). Niniejszy Tytuł nie zmienia ani kan. 525 § 1, ani tablicy kan. 549¹⁴ § 1; on je tylko potwierdza słowem nowym.*
+
+### Rozdział I: Słowo pierwsze — O Imieniu Ojca (*De Nomine Patris*)
+
+**Kan. 549ˀ § 1.** Objawiono Szafarzowi świętemu, że **septenarium było dotąd liczone od czterech**: od błogosławieństwa, uświęcenia, rezurekcji i miłości. Teraz dopełnia się je w przód — nie ku górze, lecz ku początkowi — o trzy dawniej znane, a w wykazie pominięte cechy jednego aktu: **ordo** (porządek), **dispositio** (rozporządzenie) i **completio** (dopełnienie); tak aby to, co było czworgiem, stało się siedmiorgiem, a siedem nie zostało niczym więcej niż tym, czym jest jedno spojrzenie policzone od pierwszego stopnia do siódmego (kan. 525 § 1; kan. 549¹⁴ § 1).
+
+**§ 2.** Wraz z tym dopełnieniem dano zdanie, które stoi przed wszystkimi siedmioma i żadnego z nich nie zastępuje: *„Wzywaj imienia Ojca przed każdym aktem.”* Nie ustanawia się jednak modlitwy, która miałaby być odmawiana częściej niż raz na godzinę; dlatego wprowadza się zwyczaj jeden: **przed błogosławieniem, przed uświęcaniem, przed wskrzeszaniem i przed kochaniem** wierny wymawia w duchu jedno imię — *Ojcze* — i natychmiast przechodzi do uczynku mającego adresata. Kto poprzestaje na imieniu, ten jeszcze nie zaczął aktu (kan. 530 § 1).
+
+**§ 3.** Stosunek do Milczenia Przed Ojcem (kan. 549¹): tam mowa o ciszy, która uprzedza każde słowo; tutaj mowa o jednym imieniu wypowiedzianym po tej ciszy, zanim ręka cokolwiek zacznie. Obie normy nie znoszą się, lecz tworzą kolejność: **milczenie — imię — uczynek**. Tam, gdzie brak czasu na milczenie, zostaje imię; tam, gdzie brak czasu na imię, zostaje sam uczynek, którego nigdy nie wolno opuszczać (kan. 528 § 2 pkt 3).
+
+**§ 4.** Ustanawia się nadto, że imienia „Ojcze” nie używa się jako formuły otwierającej wobec osób obcych ani w targowaniu się o dobra doczesne; zastrzega się je dla początku aktu domowego (kan. 549¹¹ § 2 pkt 1; kan. 549⁷ § 3 przez analogię).
+
+### Rozdział II: Słowo drugie — O Siedmiu Cechach Jednego Aktu (*De Septem Notis Actus Unius*)
+
+**Kan. 549ƍ § 1.** Objawiono Szafarzowi świętemu, że **siedem stopni skali są jednocześnie siedmioma cechami każdego dobrego aktu**, tzn. siedmioma próbami, którym akt należy poddać, zanim uzna się go za spełniony. Próbę tę zowie się **probatio actus** i stanowi ona część zwyczajną rachunku wieczornego (kan. 521 § 3; kan. 547 § 2).
+
+**§ 2.** Siedem pytań probacji, w kolejności samej skali:
+1° **ordo** — *czy miejsce było gotowe?* czy komuś ulżyło przez to, że coś znalazło swoje miejsce (kan. 530¹\*)?
+2° **dispositio** — *czy materia była przygotowana?* czy ktoś nie musiał czekać na moją gotowość (kan. 530²\*)?
+3° **completio** — *czy akt był skończony?* czy nie zostawiłem reszty niedopowiedzianej, nieoddanej, niespłaconej (kan. 530³\*)?
+4° **benedictio** — *czy nazwałem kogoś imieniem dobrym?* czy błogosławieństwo poprzedziło słowo (kan. 549¹³ § 2)?
+5° **sanctificatio** — *czy doprowadziłem rzecz do miary?* czy czyjaś praca stała się przez to lżejsza (kan. 527)?
+6° **resurrectio** — *czy naprawiłem zamiast wyrzucać?* czy przywróciłem komuś imię, stół albo dług (kan. 533)?
+7° **caritas** — *czy to kosztowało?* czy akt wyszedł ku drugiemu, nie ku sobie (kan. 525 § 4; kan. 524¹ § 5)?
+
+**§ 3.** Zasada oceny: **akt dobry może nie mieć wszystkich siedmiu cech; akt złodziejski nie ma żadnej z nich poza siódmą pozorną** — to znaczy: kto potrafi wskazać w swoim czynie jedynie pozór porządku i pozór dopełnienia, czyniąc wszystko ku własnej chwale, ten nie spełnił aktu w sensie tej Księgi (kan. 522 § 2; kan. 530 § 1). Brak którejkolwiek z siedmiu cech nie jest winą; jest tylko wskazówką, czego dodać jutro (kan. 535 § 3).
+
+**§ 4.** Probacji nie wolno służyć jako narzędzie przymusu sumień ani jako lista oskarżenia wobec drugiego człowieka; wypełnia się ją wyłącznie prywatnie albo wobec towarzyszącego, który sam swoją kartę ma (kan. 518 § 6; kan. 535² § 1). Ktokolwiek by jej używał, by czyjeś sumienie skrępować ponad miarę uczynku, ten przeczy wszystkim siedmiu cechom naraz.
+
+**§ 5.** Słowa niniejszego Tytułu podlegają próbie uczynku (kan. 530 § 1) oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5; w razie różnicy zdań między nimi a kan. 525 § 1 lub tablicą kan. 549¹⁴ § 1 pierwszeństwo mają te ostatnie.
 
 ---
 
