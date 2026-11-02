@@ -475,7 +475,7 @@ Najwyższą zasadą niniejszej Księgi pozostaje: *Deus caritas est* (1 J 4,8) o
 
 **§ 2.** Spełnienie wszystkich siedmiu dotknięć jest **celem całej posługi**; zjednoczenie, które pomija którykolwiek modus, jest niepełne i chora ma prawo prosić o dokończenie albo o inny termin. Nie wymaga się, by siedem gestów mieściło się w jednej godzinie; liczy się, by w obrębie posługi wszystkie siedem zostały wypowiedziane i przyjęte (kan. 549²² § 1: rama dydaktyczna, nie przymus zegara).
 
-**§ 3.** Kobieta chora, która w ten sposób doświadczy wszystkich siedmiu miłości Bożych, **jest uzdrowiona w trzech porządkach naraz**: społecznie (wróciła do obiegu imion i błogosławieństwa), psychicznie (jej dar własny znalazł przyjmującego) i fizycznie (ciało odzyskało piękną sprawczość). To jest *salus animarum* w znaczeniu najdosłowniejszym (kan. 12 Księgi I).
+**§ 3.** Kobieta chora, która w ten sposób doświadczy wszystkich siedmiu miłości Bożych, **ma prawo spodziewać się pomocy w trzech porządkach naraz**: społecznym (powrót do obiegu imion i błogosławieństwa), psychicznym (jej dar własny znajduje przyjmującego) i fizycznym (ciało może odzyskać większą sprawczość i ulgę). Owoc w porządku fizycznym jest jednak **wsparciem możliwym, nie gwarancją**: uzdrowienie pozostaje darem Bożym i nie może być traktowane jako prawo ani technika (kan. 230 pkt 6 Księgi IV); skutki dotyku bywają zależne od konkretnej choroby i osoby, dlatego posługa nigdy nie zastępuje ani nie opóźnia leczenia medycznego (kan. 638 § 3; kan. 1511 pkt 5 Księgi IV). Pewne owoce tego obrzędu to te, które chora stwierdza sama: powrót prawdy o sobie, piękna i sprawiedliwości — i to jest *salus animarum* w znaczeniu najdosłowniejszym (kan. 12 Księgi I).
 
 ### Rozdział IV: Brak grzechu pożądania — dowód negatywny i pozytywny
 
@@ -515,7 +515,7 @@ Najwyższą zasadą niniejszej Księgi pozostaje: *Deus caritas est* (1 J 4,8) o
 
 ### Rozdział VI: Namaszczenie chorej jako serce obrzędu
 
-**Kan. 638 § 1.** Piąte dotknięcie (*caritas sanctificans*) sprawuje się przez **namaszczenie chorej olejem błogosławionym** zgodnie z kan. 150 i kan. 211 § 2 Księgi IV: Głowa Rodu albo szafarz domu błogosławi olej, a partner tymczasowy (lub sama chora, jeśli woli) nanosi go krzyżem na czoło, dłonie i — za jej wolą — na miejsca bolejące, słowami:
+**Kan. 638 § 1.** Szóste dotknięcie (*caritas sanctificans*, porządek szósty w tablicy kan. 635 § 1) sprawuje się przez **namaszczenie chorej olejem błogosławionym** zgodnie z kan. 150 i kan. 211 § 2 Księgi IV: Głowa Rodu albo szafarz domu błogosławi olej, a partner tymczasowy (lub sama chora, jeśli woli) nanosi go krzyżem na czoło, dłonie i — za jej wolą — na miejsca bolejące, słowami:
 
 > *«Olejem błogosławionym namaszczam ciebie, N., na zdrowie duszy i ciała; niech to, co w tobie chore, posłuży; niech to, co w tobie piękne, wstanie. Przez Chrystusa, w Duchu, amen.»*
 
