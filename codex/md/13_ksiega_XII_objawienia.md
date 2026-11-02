@@ -1,6 +1,6 @@
 # KSIĘGA XII — KSIĘGA OBJAWIEŃ
 
-## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam*
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam per benedictionem, sanctificationem, resurrectionem et caritatem*
 
 ---
 
@@ -8,13 +8,19 @@
 
 Szafarzowi świętemu, słudze ołtarza domowego i stróżowi przymierza Rodu, objawiono rzecz wielką i przedwieczną, którą przekazuje się niniejszą Księgą ku uciesze umysłu i zbawieniu dusz, aby była czytana w liturgii życia będącej liturgią godzin, śpiewana w obrządkach domowych Pawlowym, Marii Magdaleny i Tomaszowym oraz zachowywana jako norma wiary i obyczaju w Kościele Domowym i Królestwa Niebieskiego.
 
-Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (por. Mt 5,17); nie odrzuca żadnego kanona tego Kodeksu, lecz oświetla go nowym światłem, tak jak słońce nie burzy porządku dnia, lecz go ujawnia. W szczególności wlewa w Księgę IV nowe światło: błogosławieństwo, uświęcenie i rezurekcja, którymi sprawuje się liturgia godzin, otrzymują tu swą ostateczną normę — czyni się je ku drugiemu, nigdy dla siebie (Tytuł III¹, kan. 523¹–524¹).
+Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (por. Mt 5,17); nie odrzuca żadnego kanona tego Kodeksu, lecz oświetla go nowym światłem, tak jak słońce nie burzy porządku dnia, lecz go ujawnia. W szczególności wlewa w Księgę IV nowe światło: błogosławieństwo, uświęcenie i rezurekcja, którymi sprawuje się liturgia godzin, otrzymują tu swą ostateczną normę — czyni się je ku drugiemu, nigdy dla siebie (Tytuł III¹, kan. 523¹–524¹; Tytuł VIII A, kan. 536–549).
 
 Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
+
+**Struktura Księgi.** Niniejsza Księga dzieli się na jedenaście tytułów: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–528); **Tytuł V** — Uczynki czterech spojrzeń (kan. 529–535); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 535¹–535⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 530¹–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 539–541); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 536–549); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–545); **Tytuł X** — Przepisy końcowe (kan. 546–549). Trzy tytuły oznaczone indeksem¹ mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę.
+
+**Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog zakazów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu, i zostawia każdemu wolność wejścia lub niezajścia. *Bonum est diffusivum sui* — dobro rozlewa się samo z siebie (kan. 434 Księgi IX); dlatego każde zdanie tej Księgi należy mierzyć jednym pytaniem: czy po jego wypowiedzeniu komuś dzieje się lepiej?
 
 ---
 
 ## Tytuł I: FUNDAMENT OBJAWIENIA — ZNIESIENIE GRZECHU
+
+### Rozdział I: Akt objawienia i jego moc
 
 **Kan. 518 § 1.** Objawiono szafarzowi świętemu, iż **grzech został zniesiony**. Odtąd nie ma dobra i zła w starym sensie przeciwstawnych biegunów, których ważenie miałoby stanowić o winie lub potępieniu człowieka.
 
@@ -29,6 +35,16 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 4° miłosierdzie nie jest już wyjątkiem od prawa, lecz treścią całego prawa.
 
 **§ 3.** Prawda ta znajduje potwierdzenie w Piśmie Świętym: „*Bóg zamknął wszystkich w nieposłuszeństwie, aby wszystkim okazać miłosierdzie*\" (Rz 11,32); „*Kto Mnie zobaczył, zobaczył także i Ojca*\" (J 14,9); „*Bóg jest światłością, i nie ma w Nim żadnej ciemności*\" (1 J 1,5) — dlatego też ciemność nie może już oskarżać tych, których Światło wezwało po imieniu.
+
+### Rozdział I: Co pozostaje po zniesieniu grzechu
+
+**Kan. 518 § 4.** Zniesienie grzechu nie jest pozwoleniem na chaos ani unieważnieniem różnicy między czynem budującym a czynem niszczącym. Prawo moralne nie zostaje zniesione, lecz **przeniesione do wyższej kategorii**: zamiast pytania o winę pyta się o udział w bycie. Czyn dobry jest tym, co uczestniczy w prawdzie, pięknie i sprawiedliwości; czyn zły jest tym, co od nich odpływa — i karą zań nie jest gniew Boży, lecz sam odpływ.
+
+**§ 5.** Pozostaje zatem, w miejsce dawnego podziału na przykazania i występki, **jedno rozróżnienie trzech stanów**: 1° trwanie w spektrum — życie; 2° odpływanie od spektrum — leczenie; 3° upór w odpływie — droga ku niebytowi (kan. 522–523). Stany te nie są etykietami naklejanymi człowiekowi, lecz opisami kierunku; każdy z nich może się odmienić w każdej godzinie, aż do ostatniego oddechu.
+
+**§ 6.** Władza kościelna niniejszym zakazuje jakiejkolwiek formy posługiwania się poczuciem winy jako narzędziem przymusu: kto w Rodzie, w szkole domowej lub w obrzędzie wywołuje lęk przed potępieniem wiecznym po to, by uzyskać posłuszeństwo, ten dopuszcza się nadużycia władzy duchowej i podlega napomnieniu oraz — w razie uporania się — przepisom Księgi VII o ochronie sumień. Wiara rodzi się ze słuchania (Rz 10,17), nie ze strachu.
+
+### Rozdział II: Spektrum jako jedna miara
 
 **Kan. 519 § 1.** Zamiast dawnego porządku dobra i zła ustanowiony zostaje **jeden wieczny spektrum trzech wartości**: **prawdy, piękna i sprawiedliwości — w miłości Bożej**.
 
