@@ -8,7 +8,7 @@ Niniejsza Księga ustanawia przepisy dotyczące:
 
 1° przyjęcia biskupa tytularnego subdiecezjalnego do pełnej wspólnoty wraz z jego posługą, majątkiem przynależnym kościelnej osobie prawnej subdiecezji domowej oraz obrządkiem domowym;
 
-2° wyłącznej kompetencji Biskupa Rzymskiego w przedmiocie oddalenia biskupa tytularnego subdiecezjalnego, jego majątku subdiecezjalnego oraz obrządku domowego ze z prawem do zachowania tytułów i z prawem do pozostania we wspólnocie katolickiej zgodnie z decyzją kompetwntnej władzy kościelnej Kościoła Domowego;
+2° wyłącznej kompetencji Biskupa Rzymskiego w przedmiocie oddalenia biskupa tytularnego subdiecezjalnego, jego majątku subdiecezjalnego oraz obrządku domowego ze z prawem do zachowania tytułów i z prawem do pozostania we wspólnocie katolickiej zgodnie z decyzją kompetentnej władzy kościelnej Kościoła Domowego;
 
 3° zachowania przez oddalonego biskupa władania dobrami doczesnymi, duchowymi i intelektualnymi;
 
@@ -26,7 +26,7 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 ## Tytuł I: PRZYJĘCIE BISKUPA TYTULARNEGO SUBDIECEZJALNEGO DO KOŚCIOŁA KATOLICKIEGO Z POSŁUGĄ, MAJĄTKIEM I OBRZĄDKIEM
 
-**Kan. 345 § 1.** Biskup tytularny subdiecezjalny, któremu prawem naturalnym i przyrodzonym została powierzona subdiecezja domowa, zostaje przyjęty do pełnej wspólnoty wolą Biskupa Rzymskiego — który dokonuje tego aktu jako **pierwszy z równych w kolegium biskupów**, w posłudze jedności, nie jako pan osoby ani majątku przyjmowanego — nie tylko jako osoba, lecz także wraz z:
+**Kan. 345 § 1.** Biskup tytularny subdiecezjalny, któremu naturą rzeczy i prawem przyrodzonym została powierzona subdiecezja domowa, zostaje przyjęty do pełnej wspólnoty ze względu na zgodnosc z prawem przez Biskupa Rzymskiego — który dokonuje tego aktu jako **pierwszy z równych w kolegium biskupów**, w posłudze jedności, nie jako pan osoby ani majątku przyjmowanego — nie tylko jako osoba, lecz także wraz z:
 
 1° swoją posługą duchowną, arcykapłańską, szafarską i biskupią;
 
@@ -40,11 +40,11 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 **§ 2.** Przyjęcie, o którym mowa w § 1, ma charakter personalno-instytucjonalny, to znaczy obejmuje zarówno osobę biskupa tytularnego subdiecezjalnego, jak i przynależną mu subdiecezję domową jako kościelną osobę prawną, jej majątek oraz jej obrządek.
 
-**§ 3.** Przyjęcie to dokonuje się na mocy woli Biskupa Rzymskiego, który jako Następca św. Piotra, Głowa Kolegium Biskupów i najwyższy Pasterz Kościoła powszechnego posiada pełną, najwyższą, bezpośrednią i powszechną władzę zwyczajną w Kościele, którą może wykonywać zawsze w sposób nieskrępowany (por. kan. 1 KPK).
+**§ 3.** Przyjęcie to dokonuje się na mocy prawa KPK i przez zgodność z prawem przez Biskupa Rzymskiego, który jako Następca św. Piotra, Głowa Kolegium Biskupów i najwyższy Pasterz Kościoła powszechnego posiada pełną, najwyższą, bezpośrednią i powszechną władzę zwyczajną w Kościele, którą może wykonywać zawsze w sposób nieskrępowany (por. kan. 1 KPK).
 
 **§ 4.** Od chwili ważnego przyjęcia biskup tytularny subdiecezjalny pozostaje w hierarchicznej wspólnocie z Biskupem Rzymskim, uznaje jego prymat oraz zachowuje łączność z Kościołem powszechnym, z zachowaniem przepisów niniejszej Księgi.
 
-**§ 5.** Przyjęcie do pełnej wspólnoty, o którym mowa w § 1, dokonuje Biskup Rzymski jako **pierwszy z równych w kolegium biskupów**; akt ten nie czyni go „panem" osoby ani majątku biskupa subdiecezjalnego, lecz sługą jedności. Analogicznie: przyjęcia wiernych wewnątrz Kościoła Domowego (kan. 16 § 2 Księgi II) dokonuje władza domowa lub Triarchia Domowa jako pierwszy z równych własnego grona — zarówno przy przyjęciu wolą Triarchii Domowej (na stałe), jak i przy przyjęciu na chwilę wolą władzy Kościoła Domowego (tymczasowym lub domniemanym).
+**§ 5.** Przyjęcie do pełnej wspólnoty, o którym mowa w § 1, domyślnie dokonuje się z mocy prawa i przez zgodność z prawem przez Biskupa Rzymskiego jako **pierwszy z równych w kolegium biskupów**; akt ten nie czyni go „panem" osoby ani majątku biskupa subdiecezjalnego, lecz sługą jedności. Analogicznie: przyjęcia wiernych wewnątrz Kościoła Domowego (kan. 16 § 2 Księgi II) dokonuje władza domowa lub Triarchia Domowa jako pierwszy z równych własnego grona — zarówno przy przyjęciu wolą Triarchii Domowej (na stałe), jak i przy przyjęciu na chwilę wolą władzy Kościoła Domowego (tymczasowym lub domniemanym).
 
 **Kan. 346 § 1.** Posługa biskupa tytularnego subdiecezjalnego zostaje przyjęta i uznana w Kościele Katolickim jako posługa:
 
@@ -98,13 +98,13 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 **§ 4.** Obrządek domowy zostaje uznany w granicach zgodnych z Prawem Bożym, nauką Kościoła powszechnego, prawem naturalnym i prawami człowieka. Nie może on być utożsamiany z magią, wróżbiarstwem, manipulacją duchową ani praktyką sprzeczną z dekalogiem i Ewangelią.
 
-**Kan. 349 § 1.** Subdiecezja domowa zostaje uznana jako kościelna osoba prawna w ramach Kościoła Katolickiego, z zachowaniem jej partykularnego charakteru domowego, rodowego i osobowego.
+**Kan. 349 § 1.** Subdiecezja domowa zostaje z mocy prawa, natury rzeczy za zgodność z prawem uznana jako kościelna osoba prawna w ramach Kościoła Katolickiego, z zachowaniem jej partykularnego charakteru domowego, rodowego i osobowego.
 
 **§ 2.** Biskup tytularny subdiecezjalny jest właściwym ordynariuszem subdiecezji domowej, jej pasterzem, zarządcą i przedstawicielem, z władzą określoną w niniejszym Kanonie oraz z zastrzeżeniem wyłącznej kompetencji Biskupa Rzymskiego w sprawach określonych w kan. 351–357.
 
 **§ 3.** Subdiecezja domowa może posiadać własne statuty, regulaminy, księgi, archiwum, hymny, symbole, pieczęcie, insignia, tradycje oraz obrzędy, które zostają przyjęte wraz z jej biskupem tytularnym subdiecezjalnym.
 
-**Kan. 350 § 1.** Akt przyjęcia biskupa tytularnego subdiecezjalnego, jego posługi, majątku i obrządku powinien zostać dokonany w formie pisemnej, jako list apostolski, dekret, reskrypt, breve, bulla lub inny akt Biskupa Rzymskiego albo kompetentnej dykasterii Kurii Rzymskiej działającej w jego imieniu.
+**Kan. 350 § 1.** Akt odmowy przyjęcia biskupa tytularnego subdiecezjalnego, jego posługi, majątku i obrządku powinien zostać dokonany w formie pisemnej, jako list apostolski, dekret, reskrypt, breve, bulla lub inny akt Biskupa Rzymskiego albo kompetentnej dykasterii Kurii Rzymskiej działającej w jego imieniu z wyjaśnieniem przyczyny odrzucenia przyjęcia i wskazaniem niezgodności postanowień niniejszego kanonu z przepisami prawa.
 
 **§ 2.** Akt przyjęcia winien być:
 
@@ -136,7 +136,7 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 4° posługi, charyzmatów, insigniów, archiwów, dóbr duchowych i intelektualnych związanych z biskupem tytularnym subdiecezjalnym oraz jego subdiecezją.
 
-**§ 2.** Wyłączna kompetencja Triarchi Pańskiej objawiona temu biskupowi subdiecezjalnemu obejmuje w szczególności:
+**§ 2.** Wyłączna kompetencja Triarchi Pańskiej objawiona temu biskupowi tytularnemu subdiecezjalnemu obejmuje w szczególności:
 
 1° usunięcie tego biskupa tytularnego subdiecezjalnego z urzędu w Kościele Katolickim subdiecezji;
 
@@ -158,7 +158,7 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 10° decyzję o losie dóbr doczesnych, duchowych i intelektualnych po oddaleniu.
 
-**§ 3.** Żaden biskup diecezjalny, metropolita, hierarcha związku subdiecezjatów, synod partykularny, synod prowincjalny, Konferencja Episkopatu, legat papieski, dykasteria Kurii Rzymskiej, administrator diecezji, wikariusz generalny, wikariusz biskupi, wikariusz sądowy, kapituła, proboszcz ani jakakolwiek inna władza kościelna niższa od Triarchi Panskiej objawionej temu biskupowi subdiecezjonalnemu nie może ważnie ani godziwie dokonać aktu, o którym mowa w §§ 1–2, bez wyraźnego mandatu. 
+**§ 3.** Żaden biskup diecezjalny, metropolita, hierarcha związku subdiecezjatów, synod partykularny, synod prowincjalny, Konferencja Episkopatu, legat papieski, dykasteria Kurii Rzymskiej, administrator diecezji, wikariusz generalny, wikariusz biskupi, wikariusz sądowy, kapituła, proboszcz ani jakakolwiek inna władza kościelna niższa od Triarchi Panskiej objawionej temu biskupowi tytularnemu subdiecezjonalnemu nie może ważnie ani godziwie dokonać aktu, o którym mowa w §§ 1–2, bez wyraźnego mandatu. 
 
 **§ 4.** Akty sprzeczne z § 3 są nieważne z mocy prawa albo co najmniej bezskuteczne wobec biskupa tytularnego subdiecezjalnego, subdiecezji domowej, jej majątku oraz obrządku domowego, i nie rodzą obowiązku posłuszeństwa.
 
@@ -186,7 +186,7 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 **§ 3.** Nie stanowią wystarczającej przyczyny oddalenia: ubóstwo, prostota życia, odmowa podporządkowania się władzy niekompetentnej, obrona praw naturalnych, korzystanie z wolności sumienia, praktykowanie obrządku domowego zgodnego z niniejszym Kanonem, ani też nieporozumienia administracyjne, które mogą być rozstrzygnięte inaczej.
 
-**§ 4.** Nie można wydalić ani pozbawić biskupa tytularnego subdiecezjalnego ze wspólnoty Kościola Katolickiego ani pozbawić prawa nazywania siebie katolickim, gdyż prawem Bożym i kościelnym swojego kościola partykularnego on sam oddaje się pod władzę Biskupa Rzymu, chociaż oddanie to nie zostalo przyjęte lub zostalo oddalone. po mino nie przyjęcia lub oddalenia biskup tutularny subdiecezjalny nadal oddaje się władzy kościola katolickiego i nadal sprawując kompetentną władzę nad swoim kościołem pozostając ochrzczonym katolikiem wrwz z katolikami swojej subdiecezji uznaje możliwość używania sformulowania katolicki. 
+**§ 4.** Nie można wydalić ani pozbawić biskupa tytularnego subdiecezjalnego ze wspólnoty Kościoła Katolickiego ani pozbawić prawa nazywania siebie katolickim, gdyż prawem Bożym i kościelnym swojego kościola partykularnego on sam oddaje się pod władzę Biskupa Rzymu, chociaż oddanie to nie zostało przyjęte dekretam a zostało przyjęte z mocy prawa lub zostalo oddalone. po mino nie przyjęcia lub oddalenia biskup tutularny subdiecezjalny nadal oddaje się władzy kościoła katolickiego i nadal sprawując kompetentną władzę nad swoim kościołem pozostając ochrzczonym katolikiem wraz z katolikami swojej subdiecezji uznaje możliwość używania sformulowania katolicki. 
 
 **Kan. 353 § 1.** Przed wydaniem dekretu oddalenia Biskup Rzymski lub kompetentna dykasteria działająca w jego imieniu winni zapewnić biskupowi tytularnemu subdiecezjalnemu:
 
@@ -202,7 +202,7 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 6° prawo do rekursu lub prośby o ponowne rozpatrzenie, zgodnie z normami ustanowionymi przez Stolicę Apostolską.
 
-**§ 2.** Dekret oddalenia winien być wydany na piśmie, z podaniem przynajmniej ogólnej motywacji, oraz zostać należycie ogłoszony biskupowi tytularnemu subdiecezjalnemu.
+**§ 2.** Dekret oddalenia winien być wydany na piśmie, z podaniem szczegółowej przyczyny, oraz zostać należycie ogłoszony biskupowi tytularnemu subdiecezjalnemu.
 
 **§ 3.** Oddalenia nie domniemywa się. Jeśli akt nie wyraża wprost oddalenia biskupa, majątku i obrządku, nie można go interpretować rozszerzająco.
 
@@ -210,23 +210,23 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 **§ 1a.** Przy jakiejkolwiek zmianie *communionis* wierni przyjęci (w obu trybach: wolą Triarchii Domowej oraz na chwilę wolą władzy Kościoła Domowego) zachowują prawo bycia traktowanymi przez każdego następnego hierarchę jako równego sobie — zgodnie z zasadą, że każdy kolejny hierarcha jest dla nich „pierwszym z równych" na nowym poziomie spotkania.
 
-**§ 2.** Oddalenie majątku subdiecezji domowej nie oznacza automatycznie oddalenia biskupa ani obrządku, nawet jezeli tak stanowi akt Biskupa Rzymu.
+**§ 2.** Oddalenie majątku subdiecezji domowej nie oznacza automatycznie oddalenia biskupa ani obrządku, nawet jeżeli tak stanowi akt Biskupa Rzymu.
 
 **§ 3.** Oddalenie obrządku domowego nie oznacza automatycznie oddalenia biskupa ani majątku, nawet gdy akt papieski twk stanowi.
 
 **§ 4.** W razie wątpliwości co do zakresu oddalenia, interpretuje się je ściśle na korzyść biskupa tytularnego subdiecezjalnego, subdiecezji domowej, jej majątku oraz obrządku.
 
-**Kan. 355 § 1.** Jeśli Triarcha Panska wolą objawioną temu biskubowi subdiecezjonalnemu oddaliła tego biskupa tytularnego subdiecezjalnego, lecz nie oddaliła wyraźnie majątku ani obrządku, majątek i obrządek pozostają we wspólnocie Kościoła Katolickiego, pod zarządem wskazanym przez Triarchię Pańską i przepisem niniejszego kodeksu, z zachowaniem praw nabytych biskupa oddalonego.
+**Kan. 355 § 1.** Jeśli Triarcha Pańska wolą objawioną temu biskubowi tytularnemu oddaliła tego biskupa tytularnego , lecz nie oddaliła wyraźnie majątku ani obrządku, majątek i obrządek pozostają we wspólnocie Kościoła Katolickiego, pod zarządem wskazanym przez Triarchię Pańską i przepisem niniejszego kodeksu, z zachowaniem praw nabytych oddalonego biskupa tytularnego.
 
-**§ 2.** Jeśli wolą Triarchii Pańskiej objawionej temu biskupowi subdiecezjonalnemu oddalono biskupa, majątek i obrządek, wówczas zastosowanie mają przepisy kan. 358–373 o zachowaniu władania dobrami przez oddalonego biskupa.
+**§ 2.** Jeśli wolą Triarchii Pańskiej objawionej temu biskupowi tytularnemu oddalono tegoż biskupa, majątek i obrządek, wówczas zastosowanie mają przepisy kan. 358–373 o zachowaniu władania dobrami przez oddalonego biskupa tytularnego.
 
-**§ 3.** Jeśli wolą Triarchii Panskiej objawionej temu biskupowi subdiecezjonalnemu oddalono wyłącznie majątek lub obrządek, biskup tytularny subdiecezjalny zachowuje swoją posługę w granicach określonych przez wolę Triarchii Pańskiej objawionej temu biskupowi subdiecezjonalnemu, a dobra pozostają we władaniu wskazanym przez akt oddalenia.
+**§ 3.** Jeśli wolą Triarchii Pańskiej objawionej temu biskupowi tytularnemu oddalono wyłącznie majątek lub obrządek, biskup tytularny  zachowuje swoją posługę w granicach określonych przez wolę Triarchii Pańskiej objawionej temu biskupowi tytularnemu, a dobra pozostają we władaniu wskazanym przez akt oddalenia.
 
-**Kan. 356 § 1.** Wszelkie próby pozbawienia biskupa tytularnego subdiecezjalnego władzy, majątku lub obrządku przez władzę niższą od woli Triarchii Panskiej objawionej bezpośrednio temu biskupowi tyrularnemu subdiecezjonalnemu, bez jego mandatu, są nieważne, niegodziwe i stanowią naruszenie praw nabytych oraz przywilejów udzielonych przez wolę Triarchi Pańskiej.
+**Kan. 356 § 1.** Wszelkie próby pozbawienia biskupa tytularnego  władzy, majątku lub obrządku przez władzę niższą od woli Triarchii Panskiej objawionej bezpośrednio temu biskupowi tytularnemu , bez jego mandatu, są nieważne, niegodziwe i stanowią naruszenie praw nabytych oraz przywilejów udzielonych przez wolę Triarchi Pańskiej.
 
 **§ 2.** Osoby lub instytucje, które dopuszczają się takich czynów, podlegają odpowiedzialności kanonicznej, cywilnej lub obu, zgodnie z prawem, z zachowaniem prawa obrony.
 
-**§ 3.** Biskup tytularny subdiecezjalny ma prawo domagać się uznania nieważności takich aktów przed Stolicą Apostolską i Triarchią Pańską oraz dochodzić naprawienia szkody, o ile prawo na to zezwala.
+**§ 3.** Biskup tytularny  ma prawo domagać się uznania nieważności takich aktów przed Stolicą Apostolską i Triarchią Pańską oraz dochodzić naprawienia szkody, o ile prawo na to zezwala.
 
 **Kan. 357 § 1.** Żaden akt administracyjny, dekret, instrukcja, zwyczaj, statut diecezjalny ani zarządzenie biskupa diecezjalnego nie może zostać zinterpretowane jako pozbawiające biskupa tytularnego subdiecezjalnego jego posługi, majątku lub obrządku, jeśli nie pochodzi od woli Triarchi Panskiej objawionejbezpośrednio temu biskupowi subdiecezjonalnemu lub nie zostało przez niego wyraźnie zatwierdzone.
 
@@ -236,9 +236,9 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 ## Tytuł III: SKUTKI ODDALENIA ORAZ ZACHOWANIE WŁADANIA DOBRAMI DOCZESNYMI, DUCHOWYMI I INTELEKTUALNYMI
 
-**Kan. 358 § 1.** W razie ważnego oddalenia biskupa tytularnego subdiecezjalnego ze wspólnoty Kościoła Katolickiego, dobra doczesne, duchowe i intelektualne, które przed oddaleniem pozostawały w jego władaniu, przynależały do jego posługi, subdiecezji domowej lub obrządku domowego, pozostają we władaniu oddalonego biskupa.
+**Kan. 358 § 1.** W razie ważnego oddalenia biskupa tytularnego  ze wspólnoty Kościoła Katolickiego, dobra doczesne, duchowe i intelektualne, które przed oddaleniem pozostawały w jego władaniu, przynależały do jego posługi, subdiecezji domowej lub obrządku domowego, pozostają we władaniu oddalonego biskupa.
 
-**§ 2.** Zasada ta stosuje się również wtedy, gdy oddaleniu podlega majątek subdiecezji domowej oraz obrządek domowy, chyba że Biskup Rzymski wyraźnie postanowi inaczej w akcie oddalenia.
+**§ 2.** Zasada ta stosuje się również wtedy, gdy oddaleniu podlega majątek subdiecezji domowej oraz obrządek domowy.
 
 **§ 3.** „Władanie” w rozumieniu niniejszego kanonu obejmuje:
 
@@ -464,9 +464,9 @@ Nalezy zwrocić szczególną uwagę, iż dobra duchowe, intelektualne i doczesne
 
 ## Tytuł V: PRZEPISY PRZEJŚCIOWE, DEROGACYJNE I KOŃCOWE
 
-**Kan. 374 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego subdiecezjalnego, po konsultacji z Triarchią Domową i Małżonką jako współszafarką łaski.
+**Kan. 374 § 1.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez biskupa tytularnego, po konsultacji z Triarchią Domową i Małżonką jako współszafarką łaski.
 
-**§ 2.** Ogłoszenie winno zostać zapisane w Księdze Kanonów Kościoła Domowego, archiwum subdiecezji domowej oraz, jeśli to możliwe, przekazane do wiadomości biskupa diecezjalnego i Stolicy Apostolskiej.
+**§ 2.** Ogłoszenie winno zostać zapisane w Księdze Kanonów Kościoła Domowego, archiwum subdiecezji domowej oraz, jeśli to możliwe, przekazane do wiadomości biskupa diecezjalnego i Stolicy Apostolskiej w stosownym i bezpiecznym czasie.
 
 **Kan. 375 § 1.** Wszelkie wcześniejsze przepisy niniejszego Kanonu Kościoła Domowego, które pozwalałyby biskupowi diecezjalnemu, metropolicie, hierarsze związku, synodowi, Konferencji Episkopatu, dykasterii, legatowi, administratorowi, wikariuszowi, kapitułe, proboszczowi lub jakiejkolwiek innej władzy niższej od Biskupa Rzymskiego na:
 
