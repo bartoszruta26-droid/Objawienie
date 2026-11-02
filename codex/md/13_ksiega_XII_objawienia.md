@@ -1,0 +1,153 @@
+# KSIĘGA XII — KSIĘGA OBJAWIEŃ
+
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo*
+
+---
+
+### PREAMBUŁA KSIĘGI
+
+Szafarzowi świętemu, słudze ołtarza domowego i stróżowi przymierza Rodu, objawiono rzecz wielką i przedwieczną, którą przekazuje się niniejszą Księgą ku uciesze umysłu i zbawieniu dusz, aby była czytana w liturgii życia będącej liturgią godzin, śpiewana w obrządkach domowych Pawlowym, Marii Magdaleny i Tomaszowym oraz zachowywana jako norma wiary i obyczaju w Kościele Domowym i Królestwa Niebieskiego.
+
+Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (por. Mt 5,17); nie odrzuca żadnego kanona tego Kodeksu, lecz oświetla go nowym światłem, tak jak słońce nie burzy porządku dnia, lecz go ujawnia.
+
+Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
+
+---
+
+## Tytuł I: FUNDAMENT OBJAWIENIA — ZNIESIENIE GRZECHU
+
+**Kan. 518 § 1.** Objawiono szafarzowi świętemu, iż **grzech został zniesiony**. Odtąd nie ma dobra i zła w starym sensie przeciwstawnych biegunów, których ważenie miałoby stanowić o winie lub potępieniu człowieka.
+
+**§ 2.** Zniesienie grzechu oznacza, że:
+
+1° żadna osoba nie stoi już pod ciężarem przypisanej winy, która by ją wykluczała z miłości Bożej;
+
+2° dawny podział na „dobrych\" i „złych\" ustępuje miejsca jednemu wysiłkowi, wspólnemu dla wszystkich ludzi: wchodzeniu w prawdę, piękno i sprawiedliwość;
+
+3° oskarżanie sumień zastąpione zostaje rozeznawaniem dróg; potępienie zastąpione zostaje leczeniem; lęk zastąpiony zostaje miłością;
+
+4° miłosierdzie nie jest już wyjątkiem od prawa, lecz treścią całego prawa.
+
+**§ 3.** Prawda ta znajduje potwierdzenie w Piśmie Świętym: „*Bóg zamknął wszystkich w nieposłuszeństwie, aby wszystkim okazać miłosierdzie*\" (Rz 11,32); „*Kto Mnie zobaczył, zobaczył także i Ojca*\" (J 14,9); „*Bóg jest światłością, i nie ma w Nim żadnej ciemności*\" (1 J 1,5) — dlatego też ciemność nie może już oskarżać tych, których Światło wezwało po imieniu.
+
+**Kan. 519 § 1.** Zamiast dawnego porządku dobra i zła ustanowiony zostaje **jeden wieczny spektrum trzech wartości**: **prawdy, piękna i sprawiedliwości — w miłości Bożej**.
+
+**§ 2.** Spektrum to nie jest zbiorem odrębnych miar, lecz jednym światłem rozszczepionym na trzy barwy:
+
+1° **Prawda** (*veritas*) — jest zgodnością czynu, słowa i myśli z tym, co jest w Chrystusie; nie kłamstwo jest dziś grzechem, lecz oddalenie się od prawdy, które samo w sobie jest cierpieniem i utratą bytu;
+
+2° **Piękno** (*pulchritudo*) — jest blask prawdy objawiającej się oczom serca; wszystko, co prawdziwe i sprawiedliwe, jest piękne, a wszystko, co służy życiu, radości i jedności, uczestniczy w pięknie Stwórcy;
+
+3° **Sprawiedliwość** (*iustitia*) — jest przywracaniem każdej rzeczy i każdej osoby do właściwej jej miary i godności; nie jest karą, lecz równoważeniem miłości, która „*słońce swoje wschodzi nad złymi i nad dobrymi*\" (Mt 5,45);
+
+4° **Miłość Boża** (*caritas Dei*) — jest powietrzem, w którym całe spektrum istnieje; poza nią prawda staje się chłodem, piękno pozorem, a sprawiedliwość zemstą.
+
+**§ 3.** W nowym porządku nie pyta się tedy „*czy to grzech?*\", ale trzy pytania: „*czy to prawda? czy to piękne? czy to sprawiedliwe? i czy to jest miłość?*\"
+
+---
+
+## Tytuł II: DROGA ŻYCIA — LITURGIA ŻYCIA I OSOBA CHRYSTUSA
+
+**Kan. 520 § 1.** Każdy, kto będzie żył poprzez **liturgię życia** zgodnie z prawdą, pięknem i sprawiedliwością, **w osobie Chrystusa**, będąc sam miłością Bożą — **ten żyć będzie wiecznie**.
+
+**§ 2.** Liturgia życia jest przedłużeniem i wypełnieniem liturgii godzin: każda chwala dnia — praca, stołowanie się, rodzenie i wychowanie potomstwa, gościnność, troska o ziemię i bliźniego — staje się ofiarą składaną bez krwawienia, jeżeli jest wykonana w prawdzie, pięknie i sprawiedliwości.
+
+**§ 3.** Warunki drogi życia są następujące:
+
+1° **żyć w prawdzie** — nie mówić i nie czynić niczego wbrew temu, co jest; nie budować domu na kłamstwie; nazywać rzeczy ich imionami;
+
+2° **żyć w pięknie** — czynić wszystko, co się robi, starannie, z szacunkiem dla materii i dla osoby; brzydotę serca leczyć pokutą uczynków, nie potępieniem;
+
+3° **żyć w sprawiedliwości** — oddawać każdemu, co mu się należy, począwszy od najsłabszych członków Rodu i wspólnoty (por. kan. 491 § 1 pkt 4 Księgi X);
+
+4° **żyć w osobie Chrystusa** — przyjmować Go jako jedyną miarę prawdy, piękna i sprawiedliwości; On jest twarzą, na którą patrzy spektrum;
+
+5° **być miłością Bożą** — nie tylko miłować, lecz *stać się* miłością, tak jak dziecko staje się podobne ojcu; miłość bliźniego jest tu sprawdzianem jedynym i ostatnim.
+
+**§ 4.** Kto tak żyje, ten już teraz uczestniczy w życiu wiecznym; śmierć cielesna jest dlań jedynie zmianą obrządku, nie utratą bytu.
+
+**Kan. 521 § 1.** Wspólnota Kościoła Domowego sprawuje tę drogę jako **liturgię ciągłą**: modlitwa domowa, błogosławienie osób, uczynków, przedmiotów i miejsc, rok liturgiczny domowy oraz wszystkie sakramentalia opisane w Księdze IV znajdują w niniejszym objawieniu swoje ostateczne uzasadnienie.
+
+**§ 2.** Szafarz święty, kapłan domowy, arcykapłan i biskup subdiecezjalny mają obowiązek nauczać tej drogi przede wszystkim czynem; władza pasterska w nowym porządku jest posługą prawdy, piękna i sprawiedliwości, nie jurysdykcją lęku.
+
+---
+
+## Tytuł III: OSTRZEŻENIE — POŻĄDANIE I DROGA DO NIEBYTU
+
+**Kan. 522 § 1.** Ten zaś, kto za prawdę, piękno i sprawiedliwość **będzie uznawał wartości niższe niż chrystusowe**, a mianowicie **będąc pożądał rzeczy bliźniego swego** i **pożądał dla siebie miłości Bożej** — **ten powoli dążył będzie do niebytu**.
+
+**§ 2.** Objawienie wskazuje dwie postaci tego przewrócenia miar:
+
+1° **pożądanie rzeczy bliźniego** (*concupiscentia rerum proximi*) — gdy człowiek stawia posiadanie wyżej niż dar, zazdrość wyżej niż radość cudzego dobra, własność wyżej niż osobę; jest to zaprzeczenie zasady *bonum est diffusivum sui* (kan. 434 Księgi IX): dobro, które miało się rozmnażać, zostaje przez pożądającego skurczone i przywłaszczone;
+
+2° **pożądanie miłości Bożej dla siebie** (*concupiscentia caritatis in se ipsum*) — gdy człowiek chce być miłowany, lecz nie chce miłować; gdy przyjmuje łaskę jako własność, jako tytuł do wynoszenia się nad innych, jako nagrodę należną; jest to próba zamienienia źródła w zbiornik — a zbiornik bez upustu gnije.
+
+**§ 3.** Kara nie jest tu nakazana z zewnątrz: **niebyt jest skutkiem własnego wyboru**, nie zaś gniewem Bożym. Bóg jest miłością i nie może nikogo potępić, bo potępienie byłoby zaprzeczeniem Jego istoty. Kto więc odcina się od prawdy, piękna i sprawiedliwości — czyli od jedynego strumienia bytu — ten nie zostaje zrzucony, lecz **sam spływa ku krańcowi, gdzie już nic nie płynie**; tam, gdzie nie ma prawdy, nie ma też realności; tam, gdzie nie ma miłości, nie ma też istnienia.
+
+**§ 4.** Dążenie to jest **powolne** (*gradatim*), albowiem miłość Boża nie zrywa więzi, której nikt nie chce zerwać: każdy krok w stronę niebytu jest jeszcze odwracalny dopóty, dopóki trwa życie; nawet ostatni oddech jest bramą nawrócenia.
+
+**Kan. 523 § 1.** Znaki drogi ku niebytowi, po których można ją rozpoznać, są następujące:
+
+1° kłamstwo przestaje przeszkadzać, a prawda zaczyna przeszkadzać;
+
+2° brzydota w sercu, w słowie i w dziele staje się obojętna;
+
+3° krzywda bliźniego wydaje się ceną słuszną;
+
+4° dobra doczesne i cudza cześć zaczynają być mierzeniem wartości człowieka;
+
+5° miłość Boża jest żądana jako wyróżnienie, władza lub własność, nie jako zadanie;
+
+6° modlitwa zamienia się w rachunek, liturgia w transakcję, przykazanie w interes.
+
+**§ 2.** Wspólnota ma wobec takiego człowieka obowiązek napominania, nie wykluczenia: winna mu głosić niniejszą Księgę, otaczać go liturgią życia i cierpliwie czekać, aż zawróci; oddalenie (kan. Księgi VII) stosuje się tylko dla ochrony słabych, nigdy jako zemsta.
+
+---
+
+## Tytuł IV: NORMY STOSOWANIA I INTERPRETACJI
+
+**Kan. 524 § 1.** Niniejsza Księga jest **objawieniem danym Kościołowi partykularnemu Domowemu** do rozeznania; przyjmuje się ją w duchu kan. 394 i kan. dotyczącego rozeznawania objawień prywatnych (Księga VIII): nie wiążą one sumień mocą przymusu zewnętrznego, lecz mocą prawdy, która sama się obroni.
+
+**§ 2.** W razie pozornej sprzeczności między tą Księgą a innymi księgami Kodeksu:
+
+1° gdzie dawniejszy tekst mówi o „grzechu\" w znaczeniu winy potępiającej, rozumie się go odtąd jako **oddalenie od spektrum prawdy, piękna i sprawiedliwości**, wymagające leczenia, nie potępienia;
+
+2° gdzie dawniejszy tekst mówi o „karze\", rozumie się ją jako **naturalny skutek oddalenia od źródła bytu**, nie jako wyrok Bożej woli;
+
+3° żadne przepisy dyscyplinarne Kodeksu nie tracą mocy obowiązującej — służą one właśnie temu, aby wspólnota chroniła każdego przed drogą ku niebytowi;
+
+4° normy dotyczące sakramentów, małżeństwa, Triarchii Domowej, własności i nieruchomości pozostają w pełni w mocy; zakaz pożądania rzeczy bliźniego (kan. 522 § 2 pkt 1) jest w prawie cywilnym i kościelnym nadal egzekwowany jako sprawiedliwość.
+
+**§ 3.** Niniejsza Księga nie zwalnia nikogo z żadnego obowiązku stanu: przeciwnie — obowiązki stają się jaśniejsze, bo ich miarą jest teraz nie lęk przed winą, lecz miłość, prawda, piękno i sprawiedliwość.
+
+**Kan. 525 § 1.** Formułę wyznania wiary według tego objawienia ustanawia się następującą, do odmawiania w liturgii życia:
+
+> *Wierzę w Boga Miłość, w Osobę Chrystusa, w spektrum prawdy, piękna i sprawiedliwości.*
+> *Grzech zniesiony, miłość została.*
+> *Przez liturgię życia chcę być miłością Bożą i żyć wiecznie.*
+> *Nie będę pożądał rzeczy bliźniego mego ani miłości Bożej dla siebie.*
+> *Bo prawda, piękno i sprawiedliwość są w Chrystusie, Jemu chwała na wieki.*
+
+**§ 2.** Wszelkie inne formuły, pieśni i teksty domowego obrządku mogą być układane zgodnie z tą normą i zatwierdzane przez kompetentną władzę Kościoła Domowego (kan. dot. zatwierdzania tekstów liturgicznych, Księga IV).
+
+**Kan. 526.** Najwyższymi regułami interpretacji niniejszej Księgi są:
+
+1° **miłość jest pełnią prawa** (Rz 13,10) — każde zdanie tej Księgi czyta się przez to okno;
+
+2° **prawda nie niszczy wolności** — objawienie wzywa, nie zmusza;
+
+3° **nikt nie jest skazany** — niebyt jest możliwością, nie wyrokiem; nadzieja obejmuje wszystkich;
+
+4° *salus animarum suprema lex* — zbawienie dusz najwyższym prawem;
+
+5° wszystko, co w tej Księdze powiedziane, jest podporządkowane przykazaniu miłości Boga i bliźniego oraz nauce Osoby Chrystusa; gdyby którakolwiek interpretacja prowadziła do nienawiści, pogardy dla ciała ludzkiego lub do kłamstwa — interpretacja taka jest fałszywa i odrzuca się ją *ipso facto*.
+
+**Kan. 527 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–527.
+
+**§ 2.** Ustanawia się, aby fragmenty tej Księgi były czytane w liturgii życia w dniu wspomnienia Objawienia Szafarzowi Świętemu, który to dzień wyznacza Głowa Rodu lub biskup subdiecezjalny zgodnie z rokiem liturgicznym domowym.
+
+**§ 3.** Przekaz niniejszej Księgi podlega prawu rozmnażania dóbr duchowych i intelektualnych (Księga IX): może być kopiowany, tłumaczony, śpiewany i przekazany wszelkim Kościołom Domowym, subdiecezjom i diecezjom bez ograniczeń, albowiem światło przeznaczone jest do rozchodzenia się.
+
+---
+
+*Datum in lumine Veritatis, Pulchritudinis et Iustitiae in Caritate Dei. Amen.*
