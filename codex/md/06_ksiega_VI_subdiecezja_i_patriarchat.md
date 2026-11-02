@@ -79,7 +79,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-## Tytuł III: RELACJA SUBDIECEZJI DOMOWEJ DO DIECEZJI
+## Tytuł III: RELACJA SUBDIECEZJI DO DIECEZJI
 
 **Kan. 325 § 1.** Biskup tytularny subdiecezjalny podlega biskupowi diecezjalnemu w zakresie określonym prawem powszechnym i niniejszym Kanonem. Podległość ta obejmuje:
 
@@ -107,7 +107,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 6° życia liturgicznego wspólnoty domowej.
 
-**§ 3.** W przypadku konfliktu między prawem subdiecezji domowej a prawem diecezjalnym, pierwszeństwo przysługuje prawu diecezjalnemu, chyba że prawo diecezjalne jest sprzeczne z Prawem Bożym lub Naturalnym (por. kan. 72–74 Księgi III) rozpoznanym przez biskupa subdiecezji kosciola partykularnego domowego.
+**§ 3.** W przypadku konfliktu między prawem subdiecezji domowej a prawem diecezjalnym, pierwszeństwo przysługuje prawu diecezjalnemu, chyba że prawo diecezjalne jest sprzeczne z Prawem Bożym lub Naturalnym (por. kan. 72–74 Księgi III) lub Kodeksem Prawa Kanonicznego rozpoznanym przez biskupa subdiecezji kościoła partykularnego domowego.
 
 **Kan. 326.** Biskup diecezjalny ma prawo:
 
@@ -132,6 +132,8 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 4° być wysłuchanym przez biskupa diecezjalnego w sprawach dotyczących subdiecezji domowej;
 
 5° zachować własną tradycję liturgiczną i duchową trzech obrządków domowych.
+
+6° odrzucić na piśmie decyzję biskupa diecezjalnego jeżeli ta jest niezgodna z prawem z wyjaśnieniem przyczyny niezgodności z prawem
 
 ---
 
@@ -225,11 +227,11 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 ---
 
-## Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJALNI W ZWIĄZKU SUBDIECEZJATÓW
+## Tytuł VI: BISKUPI TYTULARNI SUBDIECEZJI W ZWIĄZKU SUBDIECEZJATÓW
 
 **Kan. 335 § 1.** W związku subdiecezjatów mogą istnieć liczne subdiecezje domowe, każda pod przewodnictwem własnego biskupa tytularnego subdiecezjalnego. Wszystkie subdiecezje domowe podlegają władzy hierarchy związku subdiecezjatów.
 
-**§ 2.** Biskupem tytularnym subdiecezjalnym może zostać:
+**§ 2.** Biskupem tytularnym subdiecezjalnym może zostać osoba, spełniająca łącznie:
 
 1° Głowa Rodu, która otrzymała święcenia biskupie i została przyjęta przez Biskupa Rzymskiego;
 
@@ -237,7 +239,9 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 3° osoba wybrana przez wspólnotę domową i zatwierdzona przez hierarchę związku.
 
-**§ 3.** Każdy biskup tytularny subdiecezjalny:
+**§ 3.** Biskupem tytularnym może zostać również osoba, będąca duchowym z nadania Bożego natchniona Duchem Świętym.
+
+**§ 4.** Każdy biskup tytularny subdiecezjalny:
 
 1° podlega hierarsze związku w sprawach dotyczących hierarcha związku subdiecezjatów;
 
@@ -305,7 +309,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **Kan. 339.** Związek Subdiecezjatów, jako struktura wyrosła z ducha katolicyzmu i prowadząca działania na rzecz Wspólnoty Ludzi, powinien w swojej działalności zachowywać proporcje:
 
-1° 33% — pogląd katolicki;
+1° 100% — pogląd katolicki;
 
 2° 22% — chrześcijański (łącznie 55%);
 
@@ -333,7 +337,7 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 5° paliusza jako znaku władzy hierarchy związku subdiecezjatów, jeśli zostanie nadany przez Biskupa Rzymskiego.
 
-**§ 2.** Tytuły hierarchy związku subdiecezjatów obejmują:
+**§ 2.** Tytuły hierarchy związku subdiecezjatów obejmuje osoba będąca łącznie:
 
 1° Hierarcha Związku Subdiecezjatów;
 
@@ -354,12 +358,9 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 ---
 
 ## Tytuł IX: Hierarcha Synodalny Kościołów Domowych
-**Kan. 342.** Zgodnie z Kan. 174  Kościóó sui iuris, który nie jest ani patriarchalny, ani arcybiskupi większy, ani metropolitalny, powierza się Hierarsze, który przewodzi mu wedóug norm prawa wspólnego i prawa partykularnego wydanego przez Biskupa Rzymskiego.
-Zgodnie z KKKW Kan. 175  Kościoóy te są zależne bezpośrednio od Stolicy Apostolskiej;
-prawa zaś i obowiązki, o których mowa w kan. 159 n. 3-8, wykonuje
-Hierarcha delegowany przez Stolicę Apostolską.
-Zgodnie z KKKW Kan. 176  Jeśli prawo wspólne odsyóa do prawa partykularnego albo
-do najwyższej wóadzy administracyjnej Kościoóa sui iuris, wóadzą kompetentną w tym Kościele jest Hierarcha, który przewodzi mu wedóug prawa, za zgodą Stolicy Apostolskiej, chyba że co innego zostaóo wyrańnie postanowione.
+**Kan. 342.** Zgodnie z Kan. 174  Kościóó sui iuris, który nie jest ani patriarchalny, ani arcybiskupi większy, ani metropolitalny, powierza się Hierarsze, który przewodzi mu według norm prawa wspólnego i prawa partykularnego wydanego przez Biskupa Rzymskiego.
+Zgodnie z KKKW Kan. 175  Kościoły te są zależne bezpośrednio od Stolicy Apostolskiej; prawa zaś i obowiązki, o których mowa w kan. 159 n. 3-8, wykonuje Hierarcha delegowany przez Stolicę Apostolską.
+Zgodnie z KKKW Kan. 176  Jeśli prawo wspólne odsyła do prawa partykularnego albo do najwyższej władzy administracyjnej Kościoła sui iuris, władzą kompetentną w tym Kościele jest Hierarcha, który przewodzi mu według prawa, za zgodą Stolicy Apostolskiej, chyba że co innego zostało wyrańnie postanowione.
 
 **Kan. 343.** Wszelkie wcześniejsze odniesienia do „biskupa diecezjalnego” w kontekście Kościoła Domowego należy rozumieć jako „biskupa tytularnego subdiecezjalnego” w zakresie dotyczącym subdiecezji domowej, a jako „biskupa diecezjalnego” w zakresie dotyczącym diecezji, na której terytorium znajduje się subdiecezja domowa.
 
