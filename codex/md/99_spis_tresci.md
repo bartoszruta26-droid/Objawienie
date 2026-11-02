@@ -16,6 +16,7 @@
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
 | [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A; sześć dalszych Słów objawienia: o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny — Tytuł XIII; siedem Słów ostatnich: o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk — Tytuł XIV) | kan. 518–549 oraz 523¹–524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶, 549⁷–549¹³ |
+| [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród (potrzeba stworzenia życia i przekazania rodu przez kobietę samotną; siedem prawd, siedem sprawiedliwości i siedem poziomów piękna w siedmiu rodzajach miłości Bożej wobec stanu samotnego rodzicielstwa; zarządzanie majątkiem jako powierzenie — pięć cnót porządku oraz dwa pożądania zakazane; walory osoby rodziciela; niepokalaność matki i potomka mimo nieznajomości ojca; przekazanie rodu linią żeńską; ochrona prawna i liturgia Obrządku Marii Magdaleny) | kan. 600–632 |
 | [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -274,6 +275,30 @@
 - **Tytuł VII: Wyznanie wiary i liturgia objawienia** — kan. 552–555
 - **Tytuł VIII: Przepisy końcowe** — kan. 556–561
 - Appendix I: Tekst dosłowny objawienia; Appendix II: Reguła czterech prób (karta rozeznania); Appendix III: Skorowidz kanonów dawnych i nowych
+
+## Księga 97* — Księga o samotnej matce, która przekazuje swój ród
+*(plik: `97_ksiega_97x_samotna_matka_przekazanie_rodu.md`; kan. 600–632; objawienie dalsze po Księdze XII)*
+
+- **Tytuł I: Fundament — kobieta samotna w świetle siedmiu prawd** — kan. 600–601
+  - Rozdział I: Siedem prawd o stanie samotnym — kan. 600
+  - Rozdział II: Spektrum siedmiu wartości jako jedna miara stanu samotnego — kan. 601
+- **Tytuł II: Siedem sprawiedliwości wobec kobiety samotnej i wobec jej dziecka** — kan. 602–603
+- **Tytuł III: Siedem poziomów piękna macierzyństwa samotnego** — kan. 604–605
+- **Tytuł IV: Siedem rodzajów miłości Bożej, które prowadzą matkę samotną** — kan. 606–607
+- **Tytuł V: Potrzeba stworzenia życia i przekazania rodu — uzasadnienie** — kan. 608–610
+  - Rozdział I: Cztery racje potrzeby (bytu, Rodu, wspólnoty, dziecka) — kan. 608–609
+  - Rozdział II: Nowy Kościół Domowy pod sercem matki — kan. 610
+- **Tytuł VI: Zarządzanie majątkiem — pięć cnót porządku i dwa pożądania zakazane** — kan. 611–614
+  - Rozdział I: Majątek jako powierzenie, nie jako zdobycz — kan. 611
+  - Rozdział II: Pięć cnót porządkowania majątku (ordo, dispositio, completio, benedictio, sanctificatio) — kan. 612
+  - Rozdział III: Dwa pożądania zakazane — kiedy porządek majętności staje się grzechem — kan. 613–614
+- **Tytuł VII: Walory osoby rodziciela** — kan. 615–617
+- **Tytuł VIII: Niepokalaność matki i potomka mimo nieznajomości ojca** — kan. 618–621
+- **Tytuł IX: Przekazanie rodu i nazwiska** — kan. 622–624
+- **Tytuł X: Obowiązki wspólnoty i ochrona prawna** — kan. 625–627
+- **Tytuł XI: Liturgia, formuły i rok Księgi** — kan. 628–630
+- **Tytuł XII: Przepisy końcowe i interpretacyjne** — kan. 631–632
+- Appendix: Tekst dosłowny objawienia dalszego
 
 ## Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański
 *(plik: `12_tradycja_bizantyjsko_slowianska.md`; dokument historyczno-teologiczny, nie normatywny)*
