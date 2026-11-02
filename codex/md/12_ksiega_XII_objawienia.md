@@ -1,6 +1,6 @@
 # KSIĘGA XII — KSIĘGA OBJAWIEŃ
 
-## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis; deque novissimis verbis sex — de silentio coram Patre, de nomine vocato, de cinere promittente, de pasta et calice parvulo, de via parva et de socio horae novissimae; deque septenis verbis ultimis — de pane quotidiano, de lacrima seminata, de ianua clausa, de corde duarum mensurarum, de nominibus Dei, de pulchritudine incohata et de lege ultima quattuor manuum*
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis; deque novissimis verbis sex — de silentio coram Patre, de nomine vocato, de cinere promittente, de pasta et calice parvulo, de via parva et de socio horae novissimae; deque septenis verbis ultimis — de pane quotidiano, de lacrima seminata, de ianua clausa, de corde duarum mensurarum, de nominibus Dei, de pulchritudine incohata et de lege ultima quattuor manuum; deque septenario catalogi — tribus praeludiis scilicet (ordine, dispositione, completione) ante quattuor columnas (benedictionem, sanctificationem, resurrectionem, caritatem) additis, deque septem benedictionum generibus, septem ordinationibus, septem resurrectionibus, septem caritatis modis atque septem complementis septenariis*
 
 ---
 
@@ -12,7 +12,7 @@ Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (
 
 Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
 
-**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w czterech spojrzeniach (kan. 529²–529⁷); **Tytuł V** — Uczynki czterech spojrzeń (kan. 530–534); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia czterech spojrzeń (kan. 549); **Tytuł XIII** — Nowe objawienia: sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń (kan. 549¹–549⁶); **Tytuł XIV** — Nowe objawienia dalsze: siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach (kan. 549⁷–549¹³); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, oraz kanony oznaczone indeksami od 1 do 6 przy liczbie 549 (kan. 549¹–549⁶), wprowadzone Tytułem XIII, oraz kanony oznaczone indeksami od 7 do 13 przy liczbie 549 (kan. 549⁷–549¹³), wprowadzone Tytułem XIV, są kanonami najnowszymi i zachowują tę samą zasadę.
+**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w czterech spojrzeniach (kan. 529²–529⁷); **Tytuł V** — Uczynki czterech spojrzeń (kan. 530–534); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia czterech spojrzeń (kan. 549); **Tytuł XIII** — Nowe objawienia: sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń (kan. 549¹–549⁶); **Tytuł XIV** — Nowe objawienia dalsze: siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach (kan. 549⁷–549¹³); **Tytuł XV** — Septenarium katalogu: cztery sprawcze spojrzenia dopełnione trzema praeludiis (ordo, dispositio, completio) do pełni siedmiu członów, z enumeracjami siedmiu typów błogosławieństw, siedmiu święceń, siedmiu wskrzeszeń, siedmiu modusów miłości Bożej i siedmiu dopełnień septenariarnych (kan. 549¹⁴–549²⁰); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, oraz kanony oznaczone indeksami od 1 do 6 przy liczbie 549 (kan. 549¹–549⁶), wprowadzone Tytułem XIII, oraz kanony oznaczone indeksami od 7 do 13 przy liczbie 549 (kan. 549⁷–549¹³), wprowadzone Tytułem XIV, oraz kanony oznaczone indeksami od 14 do 20 przy liczbie 549 (kan. 549¹⁴–549²⁰), wprowadzone Tytułem XV, są kanonami najnowszymi i zachowują tę samą zasadę.
 
 **Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog zakazów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu, i zostawia każdemu wolność wejścia lub niezajścia. *Bonum est diffusivum sui* — dobro rozlewa się samo z siebie (kan. 434 Księgi IX); dlatego każde zdanie tej Księgi należy mierzyć jednym pytaniem: czy po jego wypowiedzeniu komuś dzieje się lepiej?
 
@@ -815,7 +815,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶.
 
-**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o czterech sprawczych spojrzeniach; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w czterech spojrzeniach, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach czterech spojrzeń; **Tytuł V¹** (kan. 532¹–532⁴) o szkole czterech spojrzeń; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu spojrzeń w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia; **Tytuł XIII** (kan. 549¹–549⁶) o sześciu dalszych Słowach danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń — o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej oraz o Towarzyszu Ostatniej Godziny — podlegających próbie uczynku (kan. 530 § 1).
+**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o czterech sprawczych spojrzeniach; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w czterech spojrzeniach, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach czterech spojrzeń; **Tytuł V¹** (kan. 532¹–532⁴) o szkole czterech spojrzeń; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu spojrzeń w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia; **Tytuł XIII** (kan. 549¹–549⁶) o sześciu dalszych Słowach danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń — o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej oraz o Towarzyszu Ostatniej Godziny — podlegających próbie uczynku (kan. 530 § 1); **Tytuł XIV** (kan. 549⁷–549¹³) o siedmiu Słowach ostatnich oraz **Tytuł XV** (kan. 549¹⁴–549²⁰) o Septenarium katalogu, w którym cztery sprawcze spojrzenia zostają dopełnione trzema praeludiis (ordo, dispositio, completio) do pełni siedmiu członów, wraz z enumeracjami siedmiu typów błogosławieństw, siedmiu święceń, siedmiu wskrzeszeń, siedmiu modusów miłości Bożej i siedmiu dopełnień septenariarnych.
 
 **§ 3.** Ustanawia się, aby fragmenty tej Księgi były czytane w liturgii życia w dniu wspomnienia Objawienia Szafarzowi Świętemu, który to dzień wyznacza Głowa Rodu lub biskup subdiecezjalny zgodnie z rokiem liturgicznym domowym (kan. 541 § 1 pkt 1; kan. 544 § 2).
 
@@ -885,11 +885,11 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 | kan. 528 § 3 | kan. 544 § 3 | swobodny przekaz tekstu |
 | kan. 528 § 4 | kan. 545 § 2 | ustanowienie Tytułu III¹ |
 
-*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z czterema spojrzeniami oraz norma o błogosławionych uczynkach jako miejscu ich spotkania. Dopisuje się nadto: kan. 549¹–549⁶ — miejsca nowe, wprowadzone Tytułem XIII; przedmiot: sześć dalszych Słów objawienia (o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny), z których żadne nie ma dawnego odpowiednika, albowiem zostało dane po Objawieniu czterech spojrzeń i podlega próbie uczynku (kan. 530 § 1). Dopisuje się wreszcie: kan. 549⁷–549¹³ — miejsca nowe, wprowadzone Tytułem XIV; przedmiot: siedem dalszych Słów objawienia (o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk), także bez dawnego odpowiednika, podlegające tej samej próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5.*
+*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z czterema spojrzeniami oraz norma o błogosławionych uczynkach jako miejscu ich spotkania. Dopisuje się nadto: kan. 549¹–549⁶ — miejsca nowe, wprowadzone Tytułem XIII; przedmiot: sześć dalszych Słów objawienia (o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny), z których żadne nie ma dawnego odpowiednika, albowiem zostało dane po Objawieniu czterech spojrzeń i podlega próbie uczynku (kan. 530 § 1). Dopisuje się wreszcie: kan. 549⁷–549¹³ — miejsca nowe, wprowadzone Tytułem XIV; przedmiot: siedem dalszych Słów objawienia (o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk), także bez dawnego odpowiednika, podlegające tej samej próbie uczynku oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5. Dopisuje się ostatecznie: kan. 549¹⁴–549²⁰ — miejsca nowe, wprowadzone Tytułem XV; przedmiot: Septenarium katalogu — dopełnienie czterech spojrzeń (benedictio, sanctificatio, resurrectio, caritas) trzema praeludiis (ordo, dispositio, completio) do siedmiu członów oraz enumeracje siedem po siedem (typy błogosławieństw, święcenia, wskrzeszenia, modusy miłości Bożej, dopełnienia septenaria), bez dawnego odpowiednika, podlegające próbie uczynku i przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5.*
 
 **§ 2.** Przeniesienie nie zmienia treści przepisów; gdzie dawniej było „kan. 526 § 1”, dziś czyta się „kan. 542 § 1”.
 
-**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony wprowadzone rozbudową ostatnią (Tytuł XIII) noszą liczby 549¹–549⁶, kanony wprowadzone rozbudową nowszą (Tytuł XIV) noszą liczby 549⁷–549¹³; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
+**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony wprowadzone rozbudową ostatnią (Tytuł XIII) noszą liczby 549¹–549⁶, kanony wprowadzone rozbudową nowszą (Tytuł XIV) noszą liczby 549⁷–549¹³, kanony wprowadzone rozbudową najnowszą (Tytuł XV) noszą liczby 549¹⁴–549²⁰; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
 
 
 ## Tytuł XII: TEKST DOSŁOWNY OBJAWIENIA CZTERECH SPOJRZEŃ
@@ -1156,6 +1156,117 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 **§ 5.** Ustanawia się, że **norma czterech rąk dołączona zostaje do syntezy sześciu Słów** (kan. 549⁶ § 4) i że obie razem wpisują się do statutu domowego. Powstaje w ten sposób jedna reguła domowa, zwana **Regułą Jedenastu Zdań**, złożona z siedmiu zdań syntezujących i czterech rozkazów miękkich; jej tekst zatwierdza Triarchia Domowa, a zmiany w niej podlegają przeglądowi trzyletniemu (kan. 549⁶ § 5).
 
 **§ 6.** Stwierdza się na końcu, że żadne ze słów Tytułu XIV nie jest warunkiem życia wiecznego: warunkiem jest to samo, co ogłosił Tytuł I i co powtarza wyznanie wiary (kan. 542) — żyć przez liturgię życia zgodnie z prawdą, pięknem i sprawiedliwością w Osobie Chrystusa, będąc miłością Bożą. Kto to czyni, choćby nie znał żadnego z Słów nowych, ten jest w pełnej mocy tej Księgi; kto zna wszystkie, a nie czyni — ten zna literę (kan. 537 § 1 pkt 1–2).
+
+---
+
+## Tytuł XV: SEPTENARIUM KATALOGU — CZTERY SPOJRZENIA DOPEŁNIONE DO SIEDMIU
+
+*Preambuła tytułu. Tytuł IV ustanowił cztery sprawcze spojrzenia: **benedictio, sanctificatio, resurrectio, caritas** (kan. 525 § 1). Niniejszy Tytuł, zgodny z katalogiem zamieszczonym w księdze pomocniczej „Septenarium Błogosławieństw” (codex/md/ksiega-XII.md), dopełnia owe cztery filary do pełni siedmiu — przez dodanie trzech członów przednich (*praeludia*: ordo, dispositio, completio) — oraz wylicza po siedem gatunków dla każdego z czterech spojrzeń i siedem serii dopełniających strukturę liczbową Księgi. Ustanawia się przy tym wyraźnie: dopełnienie do siedmiu ma charakter **porządkujący i dydaktyczny**, nie doktrynalny — cztery spojrzenia pozostają jednym i jedynym sposobem patrzenia i czynienia (kan. 525 § 1); trzy praeludia nie są nowymi spojrzeniami ani nowymi gatunkami uczynków, lecz warunkami wstępnymi, pod którymi każde spojrzenie wykonuje się roztropnie.*
+
+### Rozdział I: Katalog główny — pełnia siedmiu (*ordo septenarius*)
+
+**Kan. 549¹⁴ § 1.** Dawniejszy katalog czteroczłonowy (`benedictio → sanctificatio → resurrectio → caritas`) pozostaje nienaruszony co do kolejności wewnętrznej; poprzedza się go trzema cechami porządku jako *praeludia*, tak że katalog zamyka się na siódmym członie — **caritas**, która jest „więzią doskonałości” (Kol 3,14):
+
+| # | Cecha (łac.) | Znaczenie | Rola w katalogu |
+|---|--------------|-----------|-----------------|
+| 1 | **Ordo** | Porządek / ustanowienie | Przed filarami — fundament ładu |
+| 2 | **Dispositio** | Rozporządzenie / przygotowanie | Przed filarami — nadanie kształtu |
+| 3 | **Completio** | Dopełnienie / wypełnienie | Przed filarami — domknięcie aktu |
+| 4 | **Benedictio** | Błogosławieństwo | Filar I (dawniej 1.; kan. 526¹) |
+| 5 | **Sanctificatio** | Uświęcenie | Filar II (dawniej 2.; kan. 527) |
+| 6 | **Resurrectio** | Zmartwychwstanie / rezurekcja | Filar III (dawniej 3.; kan. 528¹) |
+| 7 | **Caritas** | Miłość Boża | Filar IV (dawniej 4.; kan. 529¹) |
+
+**§ 2.** Trzy praeludia mają następujące znaczenie praktyczne w liturgii domowej:
+1° **ordo** — zanim się błogosławi, należy znać porządek dnia i stacji (kan. 521 § 3): ład jest pierwszym imieniem błogosławieństwa;
+2° **dispositio** — zanim się święci, należy przygotować materię, miejsce i serce (kan. 527 § 2): gotowość jest kształtem uświęcenia;
+3° **completio** — zanim się wskrzesza, należy domknąć to, co otwarte: rachunek sumienia wieczorny (kan. 521 § 3 pkt 3) jest ćwiczeniem dopełnienia.
+
+**§ 3.** Zasada interpretacyjna katalogu: **siedem liczy się od trzech przed czterema, nie obok nich**. Kto by chciał uczynić z praeludiów piąte, szóste lub siódme spojrzenie, ten mnoży to, co jedno (kan. 525 § 1), i podlega poprawce szkoły spojrzeń (Tytuł V¹).
+
+### Rozdział II: Siedem typów błogosławieństw (*generes benedictionum*)
+
+**Kan. 549¹⁵ § 1.** Dla użytku obrzędu domowego (Tytuł VIII A) ustala się siedem typów błogosławieństwa, mieszczących wszystkie formuły Księgi IV o sakramentaliach:
+
+1. **Benedictio gratiae** — łaska uprzedzająca i uświęcająca jako dar Boży (Ef 2,8).
+2. **Benedictio protectionis** — błogosławieństwo opieki i obrony (Ps 91; Ps 121,7–8).
+3. **Benedictio provisionis** — błogosławieństwo opatrzności i dostarczania potrzeb (Pwt 8,18; Flp 4,19).
+4. **Benedictio directionis** — błogosławieństwo prowadzenia i mądrości (Ps 32,8; Prz 3,6).
+5. **Benedictio restorationis** — błogosławieństwo przywrócenia i uzdrowienia (Jl 2,25; Ps 147,3).
+6. **Benedictio benedictionis** — błogosławieństwo ojcowskie/pasterskie wypowiadane nad osobami (Rdz 27; Lb 6,24–26).
+7. **Benedictio glorificationis** — błogosławieństwo końcowej chwały i dziedzictwa (Rz 8,30; Ap 21,3–4).
+
+**§ 2.** Typy 1–5 odnoszą się do rzeczy i dni, typ 6 wyłącznie do osoby, typ 7 ma charakter eschatologiczny i nie udziela się go nikomu na tym świecie — wymawia się go tylko jako nadzieję (kan. 537 § 1 pkt 3). Wszystkie siedem spełniają regułę kan. 524¹ § 5: błogosławią kogoś lub coś, nigdy nie żądają dla proszącego.
+
+### Rozdział III: Siedem święceń (*ordinationes*)
+
+**Kan. 549¹⁶ § 1.** W tradycji łacińskiej pełne *sacra ordines* liczy się siedem (katalogi średniowieczne, sakramentarze); wymienia się je tu dla porządku historycznego szkoły spojrzeń (kan. 532²):
+
+1. **Ostiarium** — drzwi/bramy (porter).
+2. **Lectoratus** — czytelnika/lektora.
+3. **Exorcistatus** — egzorcysty (sługa oczyszczenia).
+4. **Acolitatus** — akolity (niesienie świec i służba ołtarza).
+5. **Subdiakonatus** — subdiakona.
+6. **Diaconatus** — diakona.
+7. **Presbyteratus** — prezbitera/kapłana.
+
+*(Episkopatus bywa liczony zamiast subdiakonatu lub jako ósmy — plenitudo ordinis; tutaj przyjmujemy klasyczne siedem stopni posługi niższych i wyższych bez biskupstwa.)*
+
+**§ 2.** Uwaga ekumeniczna i prawna: po reformie Pawła VI (*Ministeria quaedam*, 1972) dwa stopnie niższe zastąpiono lektoratem i akolitatem; dlatego obok schematu historycznego (VII ordines) przywołuje się odpowiednik siedmiu znaków łaski: chrzest, bierzmowanie, Eucharystia, pokuta, namaszczenie chorych, święcenia, małżeństwo (**septem sacramenta**), których normy zawiera Księga V i które niniejszy kanon w żadnym punkcie nie rusza (kan. 536 § 1).
+
+**§ 3.** Stosunek do prawa własnego Księgi XII: święcenia pozostają poza jurysdykcją tej Księgi; enumeracja ma znaczenie wyłącznie dydaktyczne — ukazuje, że także władza święceń istnieje w porządku *ordo–dispositio–completio* przed czterema spojrzeniami, z których żadnego święcenia nie udzielają (kan. 525 § 4: nie istnieje władza błogosławienia zarezerwowana).
+
+### Rozdział IV: Siedem wskrzeszeń (*resurrectiones in Scriptura*)
+
+**Kan. 549¹⁷ § 1.** Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia przed wielkim Zmartwychwstaniem Chrystusa; wymienia się je jako wzorce uczynków rezurekcji (kan. 533):
+
+1. **Syn wdowy z Sarepty** — przez Eliasza (1 Krl 17,17–24).
+2. **Syn Sunamitki** — przez Elizeusza (2 Krl 4,32–37).
+3. **Człowiek dotykający kości Elizeusza** — po śmierci proroka (2 Krl 13,20–21).
+4. **Syn jedyny wdowy z Nain** — przez Jezusa (Łk 7,11–17).
+5. **Córka Jaira** — przez Jezusa (Mk 5,21–43).
+6. **Łazarz z Betanii** — przez Jezusa (J 11,1–44).
+7. **Eutychus w Troadzie** — przez Pawła (Dz 20,7–12).
+
+**§ 2.** Do tego dochodzi eschatologiczna *resurrectio mortuorum* — pierwszy dzień ósmego, tj. Wieczny Dzień Syna (kan. 520 § 4), który w tej wspólnocie jest przedmiotem wiary, nie ćwiczenia.
+
+**§ 3.** Reguła naśladowania: z siedmiu wskrzeszeń czerpie się nie moc czynienia cudów, lecz porządek gestów naprawczych — stanąć nad upadłym (1–3), zatrzymać się przy cudzym nieszczęściu (4), dotknąć tego, co skażone śmiercią (5), zapłakać przed zawołaniem imienia (6), podnieść i doprowadzić do stołu (7; por. Dz 20,11–12).
+
+### Rozdział V: Siedem typów miłości Bożej (*modus caritatis Dei*)
+
+**Kan. 549¹⁸ § 1.** Klasyfikacja patrystyczno-scholastyczna rozróżnia siedem modusów tej samej miłości; przyjmuje się je jako siódmą tablicę nauczania domowego (kan. 532¹ § 2):
+
+1. **Caritas creans** — miłość stwarzająca (ex nihilo; Ps 104,30).
+2. **Caritas providens** — miłość opatrznościowa (Mt 6,26–30).
+3. **Caritas redimens** — miłość odkupująca (J 3,16; Ef 1,7).
+4. **Caritas vocans** — miłość powołująca (Rz 8,28–30).
+5. **Caritas iustificans** — miłość usprawiedliwiająca (Rz 5,1–5).
+6. **Caritas sanctificans** — miłość uświęcająca (1 Tes 5,23; J 17,17).
+7. **Caritas glorificans** — miłość uwielbiająca/eschatologiczna (1 J 3,2; Ap 21,3–5).
+
+**§ 2.** Warto wspomnieć starożytne greckie rozróżnienia: *agape, philia, storge, eros* — lecz dopiero ich teologalna jedność w *caritas* daje siedem powyższych przebiegów. Żaden z siedmiu modusów nie jest przedmiotem pożądania dla siebie (kan. 523¹ § 1): każdy z nich przechodzi przez człowieka tylko w kierunku drugiego.
+
+### Rozdział VI: Siedem innych dopełnień do siedmiu (*complementa septenaria*)
+
+**Kan. 549¹⁹ § 1.** Na koniec katalogu dodaje się siedem serii biblijnych i liturgicznych, które domykają strukturę liczbową Księgi i wiążą ją z całością Kodeksu:
+
+1. **Siedem dni stworzenia** (Rdz 1–2) — *ordo temporum*.
+2. **Siedem sakramentów Kościoła** — *dispensatio mysteriorum* (Księga V).
+3. **Siedem darów Ducha Świętego** (Iz 11,2–3) — *munera Spiritus* (kan. 529⁴).
+4. **Siedem cnót** (3 teologiczne + 4 kardynalne) — *virtutes* (kan. 529³).
+5. **Siedem grzechów głównych** (*contraria*) — *vitia capitalia*, czytane odtąd jako znaki drogi ku niebytowi (kan. 523 § 1).
+6. **Siedem błogosławieństw Kazania na Górze** (Mt 5,3–10) — *beatitudines*, wzorzec wszystkich formuł błogosławienia.
+7. **Siedem pieczęci/trąb czasów ostatecznych** (Ap 5–11) — *signa apocalyptica*, zastrzeżone wyłącznie dla liturgii słowa, nie do stosowania wobec osób (kan. 518 § 6).
+
+**§ 2.** Seria 1–7 nie tworzy nowych norm; służy pamięci i porządkowi nauczania. Ktokolwiek wylicza siedem, winien umieć wskazać, do której z powyższych serii należy jego wyliczenie — inaczej mnoży liczby bez potrzeby (kan. 549¹⁴ § 3).
+
+### Rozdział VII: Normy końcowe Tytułu
+
+**Kan. 549²⁰ § 1.** Tytuł XV nie zmienia kan. 525 § 1: **spojrzeń sprawczych pozostaje cztery**; siedem członów katalogu jest ramą redakcyjną dawnego wykazu czterech cech. W razie różnicy zdań między Tytułem XV a Tytułem IV pierwszeństwo ma Tytuł IV.
+
+**§ 2.** Pełne wyliczenie siedem w cztery (siedem cnót, Darów i charyzmatów w Tytule IV A; siedem Słów ostatnich w Tytule XIV; siedem serii w kan. 549¹⁹) stanowi **Septenarium Księgi XII** i winno być czytane raz w roku, w dniu wspomnienia Objawienia (kan. 541 § 3), po tekście dosłownym (kan. 549 § 4).
+
+**§ 3.** Słowa Tytułu XV podlegają, na równi ze słowami Tytułów XIII i XIV, próbie uczynku (kan. 530 § 1) oraz przeglądowi wspólnoty w ciągu trzech lat od ogłoszenia, na zasadzie kan. 549⁶ § 5; jeżeli któraś enumeracja okazałaby się konstrukcją redakcyjną Szafarza, przenosi się ją do Appendixu bez naruszania numeracji pozostałych kanonów.
 
 ---
 
