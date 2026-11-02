@@ -2,25 +2,25 @@
 
 *Katalog cech: siedmiorakie dopełnienie czterech filarów.*
 
-## I. Katalog główny (przed i po)
+## I. Katalog główny (ordo septenarius)
 
-Cztery filary wymienione w dawnym katalogu — **benedictio, sanctificatio, resurrectio, caritas** — zostają tu dopełnione do pełni siedmiu. Poprzedzamy je trzema cechami porządku (ordo, dispositio, completio), a zamykamy je następującymi po sobie odniesieniami do chwały i życia wiecznego.
+Cztery sprawcze spojrzenia, których nazwy wolno wymieniać wyłącznie w tym wykazie i w kan. 525 § 1 Księgi zasadniczej, otrzymują tu ramę porządkującą: **trzy stopnie przygotowania aktu** (ordo, dispositio, completio) zawsze poprzedzają wykonanie spojrzenia; same spojrzenia pozostają cztery i żaden stopień wstępny nie jest piątym, szóstym ani siódmym spojrzeniem.
 
 ### Pełnia siedmiu (ordo septenarius)
 
-| # | Cecha (łac.) | Znaczenie | Rola w katalogu |
+| # | Człon (łac.) | Znaczenie | Rola w katedrze |
 |---|--------------|-----------|-----------------|
-| 1 | **Ordo** | Porządek / ustanowienie | Przed filarami — fundament ładu |
-| 2 | **Dispositio** | Rozporządzenie / przygotowanie | Przed filarami — nadanie kształtu |
-| 3 | **Completio** | Dopełnienie / wypełnienie | Przed filarami — domknięcie aktu |
-| 4 | **Benedictio** | Błogosławieństwo | Filara I (dawniej 1.) |
-| 5 | **Sanctificatio** | Uświęcenie | Filara II (dawniej 2.) |
-| 6 | **Resurrectio** | Zmartwychwstanie | Filara III (dawniej 3.) |
-| 7 | **Caritas** | Miłość Boża | Filara IV (dawniej 4.) |
+| 1 | **Ordo** | Porządek / ustanowienie | Stopień wstępny — ład przed aktem |
+| 2 | **Dispositio** | Rozporządzenie / przygotowanie | Stopień wstępny — kształt przed aktem |
+| 3 | **Completio** | Dopełnienie / wypełnienie | Stopień wstępny — domknięcie przed aktem |
+| 4 | **Benedictio** | Błogosławieństwo | Filar I; dopełnia go seria II |
+| 5 | **Sanctificatio** | Uświęcenie | Filar II; dopełnia go seria III |
+| 6 | **Resurrectio** | Rezurekcja | Filar III; dopełnia go seria IV |
+| 7 | **Caritas** | Miłość Boża | Filar IV; dopełnia ją seria V |
 
-> Dawniejszy katalog czteroczłonowy (`benedictio → sanctificatio → resurrectio → caritas`) pozostaje nienaruszony co do kolejności wewnętrznej; trzy nowe cechy wchodzą przed niego jako *praeludia*, a sam katalog zamyka się na siódmym członie — **caritas**, która jest „więzią doskonałości" (Col 3,14).
+> Dawniejszy katalog czteroczłonowy pozostaje nienaruszony co do kolejności wewnętrznej; trzy stopnie wstępne poprzedzają akt, a całość domyka **caritas**, która jest „więzią doskonałości” (Kol 3,14).
 
-## II. Siedem typów błogosławieństw (*benedictiones*)
+## II. Siedem typów błogosławieństwa (*genera benedictionum*) — dopełnienie Filara I
 
 1. **Benedictio gratiae** — łaska uprzedzająca i uświęcająca dar Boży (Ef 2,8).
 2. **Benedictio protectionis** — błogosławieństwo opieki i obrony (Ps 91; Ps 121,7–8).
@@ -30,7 +30,7 @@ Cztery filary wymienione w dawnym katalogu — **benedictio, sanctificatio, resu
 6. **Benedictio benedictionis** — błogosławieństwo ojcowskie/pasterskie wypowiadane nad osobami (Rdz 27; Lb 6,24–26).
 7. **Benedictio glorificationis** — błogosławieństwo końcowej chwały i dziedzictwa (Rz 8,30; Ap 21,3–4).
 
-## III. Siedem święceń (*ordinationes*)
+## III. Siedem święceń (*ordinationes*) — dopełnienie Filara II
 
 W tradycji łacińskiej pełne *sacra ordines* liczy się siedem (doktryna średniowieczna, np. katalogi soborowe i sakramentarze):
 
@@ -46,7 +46,7 @@ W tradycji łacińskiej pełne *sacra ordines* liczy się siedem (doktryna śred
 
 Uwaga ekumeniczna: po reformie Pawła VI (Ministeria quaedam, 1972) dwa stopnie niższe zastąpiono lektoratem i akolitatem; dlatego obok schematu historycznego (VII ordines) przywołujemy odpowiednik siedmiu znaków łaski: chrzest, bierzmowanie, Eucharystia, pokuta, namaszczenie chorych, święcenia, małżeństwo (septem sacramenta).
 
-## IV. Siedem wskrzeszeń (*resurrectiones in Scriptura*)
+## IV. Siedem wskrzeszeń (*resurrectiones in Scriptura*) — dopełnienie Filara III
 
 Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia przed wielkim Zmartwychwstaniem Chrystusa:
 
@@ -60,7 +60,7 @@ Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia prze
 
 Do tego dochodzi eschatologiczna *resurrectio mortuorum* — pierwszy dzień ósmego, tj. Wieczny Dzień Syna.
 
-## V. Siedem typów miłości Bożej (*caritas Dei*)
+## V. Siedem modusów miłości Bożej (*modus caritatis Dei*) — dopełnienie Filara IV
 
 Klasyfikacja patrystyczno-scholastyczna rozróżnia siedem modusów tej samej miłości:
 
@@ -74,9 +74,9 @@ Klasyfikacja patrystyczno-scholastyczna rozróżnia siedem modusów tej samej mi
 
 Warto też wspomnieć starożytne greckie rozróżnienia: agape, philia, storge, eros — lecz dopiero ich teologalna jedność w *caritas* daje siedem powyższych przebiegów.
 
-## VI. Siedem innych dopełnień do siedmiu (*complementa septenaria*)
+## VI. Siedem serii porządkujących całość (*series septenaria*)
 
-Na koniec katalogu dodajemy siedem serii biblijnych i liturgicznych, które domykają strukturę księgi:
+Na koniec dodajemy siedem serii biblijnych i liturgicznych, które domykają strukturę księgi; nie nazywamy ich „dopełnieniem spojrzeń”, lecz seriami ogólnymi, aby nie mylić ich z czterema seriami filarowymi (rozdz. II–V):
 
 1. **Siedem dni stworzenia** (Rdz 1–2) — ordo temporum.
 2. **Siedem sakramentów Kościoła** — dispensatio mysteriorum.
@@ -88,4 +88,4 @@ Na koniec katalogu dodajemy siedem serii biblijnych i liturgicznych, które domy
 
 ## VII. Podsumowanie struktury
 
-Księga XII prezentuje teraz pełne **Septenarium**: trzy praeludia (ordo, dispositio, completio) poprzedzają cztery dawne filary (benedictio, sanctificatio, resurrectio, caritas), tworząc siedem członów katalogu. Każdemu filarowi przypisano odrębną serię siedmiu typów, co daje spójną architekturę liczbową i treściową tekstu.
+Księga XII prezentuje teraz pełne **Septenarium**: trzy stopnie przygotowania aktu (ordo, dispositio, completio) poprzedzają cztery sprawcze spojrzenia, które pozostają niezmienione co do liczby i nazwy (kan. 525 § 1 Księgi zasadniczej). Każdemu spojrzeniu przypisano **jedną** odrębną serię siedmiu — błogosławieństwu typy błogosławieństwa, uświęceniu święcenia, rezurekcji wskrzeszenia biblijne, miłości modusy miłości Bożej — a dla porządku całości jedną serię ogólną. Nazwy czterech spojrzeń występują w tym katalogu wyłącznie raz, w tablicy rozdziału I; dawniejsze powtórzenia w nagłówkach pozostałych rozdziałów usunięto, tak aby każdy wyraz oznaczał tylko to, co znaczy.
