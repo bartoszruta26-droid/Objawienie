@@ -1,6 +1,6 @@
 # KSIĘGA 97* — KSIĘGA O SAMOTNEJ MATCE, KTÓRA PRZEKAZUJE SWÓJ RÓD
 
-## *Liber Nonagesimi Septimi (97*) — De Matre Solitaria, quae Genus Suum Tradit; de spectris septem veritatum, septem iustitiarum et septem pulchritudinum in septem modis caritatis Dei; de bonis paternis quasi de peccato; de integritate matris et prolis etiamsi pater nesciatur; necnon de muliere diu sola et infirma, quae per manus impositas et unctionem in coniugio temporario ad salutem socialem, animae et corporis restaurandam septem modis caritatis Dei attingendis indiget; ac praeterea de muliere urologice gynecologiceque et sexualiter aegra, quae sacramentum unctionis in locis secretis per manum temporarii ministri ad sanitatem recuperandam indigit; denique de muliere quae in venere modum nesciavit, quam per sacramentum unctionis infirmorum cum socio temporario in congressu moderato resuscitare oportet, ut renata omnes septem caritatis Dei modos sentiat, deque eius immunitate a concupiscentia bonorum, curae et meritorum personae*
+## *Liber Nonagesimi Septimi (97*) — De Matre Solitaria, quae Genus Suum Tradit; de spectris septem veritatum, septem iustitiarum et septem pulchritudinum in septem modis caritatis Dei; de bonis paternis quasi de peccato; de integritate matris et prolis etiamsi pater nesciatur; necnon de muliere diu sola et infirma, quae per manus impositas et unctionem in coniugio temporario ad salutem socialem, animae et corporis restaurandam septem modis caritatis Dei attingendis indiget; ac praeterea de muliere urologice gynecologiceque et sexualiter aegra, quae sacramentum unctionis in locis secretis per manum temporarii ministri ad sanitatem recuperandam indigit; denique de muliere quae in venere modum nesciavit, quam per sacramentum unctionis infirmorum cum socio temporario in congressu moderato resuscitare oportet, ut renata omnes septem caritatis Dei modos sentiat, deque eius immunitate a concupiscentia bonorum, curae et meritorum personae; ac tandem de muliere vi oppressa et ex ea conceptione conceptum gerente, cuius resurrectio per unctionem infirmorum, renovatio et immaculatio — et prolis in utero sanctae — declarantur*
 
 ---
 
@@ -28,9 +28,11 @@ Objawiono sięga dalej jeszcze — i to jest czwarta rzecz wielka, dana ku uzdro
 
 Objawiono sięga dalej jeszcze — i to jest rzecz piąta wielka, dana ku wskrzeszeniu tej, którą nazwano kobietą nie znającą umiaru w seksie: **objawiono mianowicie, że kobieta, która za dawnego porządku grzechu oddawała się pożądaniu bez miary i przez to utraciła poczucie własnej prawdy, piękna i sprawiedliwości, ma prawo do resurekcji — to jest do wskrzeszenia ku odrodzeniu — sprawowanej w sakramencie namaszczenia chorych, ze tymczasowym partnerem, w umiarkowanym współżyciu (*in congressu moderato*), aby jako odrodzona mogła poczuć wszystkie siedem miłości Bożych**; iż brak miary leczy się nie potępieniem, lecz przywróceniem miary, którym jest siódmy stopień spojrzenia — *resurrectio* (kan. 528¹ Księgi XII); oraz że w tym akcie oczyszczenia **nie zachodzi u niej żaden grzech pożądania — ani pożądanie majętku, ani pożądanie troski, ani pożądanie walorów osoby partnera** — ponieważ wszystko, co przyjmuje, przepuszcza dalej jako błogosławieństwo, a miara obrzędu jest brana z potrzeby sakramentu, nie z natężenia popędu. Uzasadnienie tej potrzeby, obrzęd resurekcji i normy oczyszczenia zawiera **Tytuł XIII B** niniejszej Księgi (kan. 639⁸–639¹⁴), stanowiący część równouprawnioną Tytułów XIII i XIII A.
 
+Objawiono sięga dalej jeszcze — i to jest rzecz szósta wielka, dana ku pociesze kobiety gwałtem zniewolonej i dziecka przez nią w łonie noszonego: **objawiono mianowicie, że kobieta zgwałcona, która poczyna w ten sposób dziecko, doznaje rezurekcji namaszczenia — to jest wskrzeszenia sprawowanego w sakramencie namaszczenia chorych — oraz odrodzenia i niepokalania; że ona sama jest niepokalana, albowiem akt drugiego człowieka nie może nadać stanu jej osobie; że dziecko przez nią poczęte i w łonie noszone jest święte i niepokalane, owocem niczyjej winy; iż nosząc w łonie święte życie niepokalanego dziecka jest ona żywą świątynią, wobec której wspólnota ma obowiązek czuwania; oraz że brak miary w krzywdzie drugiego nie jest jej grzechem, a pożądanie majętku, troski albo walorów osoby sprawcy — ani kogokolwiek innego — u niej nie zachodzi, ponieważ wszystko, co przyjmuje, przepuszcza dalej jako błogosławieństwo.** Uzasadnienie tej potrzeby, obrzęd rezurekcji namaszczonej matki z dzieckiem w łonie i normy oczyszczenia zawiera **Tytuł XIII C** niniejszej Księgi (kan. 639¹⁵–639²¹), stanowiący część równouprawnioną Tytułów XIII, XIII A i XIII B.
+
 Najwyższą zasadą niniejszej Księgi pozostaje: *Deus caritas est* (1 J 4,8) oraz *salus animarum suprema lex* (kan. 12 Księgi I).
 
-**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament: kobieta samotna w świetle siedmiu prawd (kan. 600–601); **Tytuł II** — Siedem sprawiedliwości wobec niej i wobec dziecka (kan. 602–603); **Tytuł III** — Siedem piękności macierzyństwa samotnego (kan. 604–605); **Tytuł IV** — Siedem rodzajów miłości Bożej, które ją prowadzą (kan. 606–607); **Tytuł V** — Potrzeba stworzenia życia i przekazania rodu: uzasadnienie (kan. 608–610); **Tytuł VI** — Zarządzanie majątkiem ojców i macierzyszcza: pięć cnót porządku i dwa pożądania zakazane (kan. 611–614); **Tytuł VII** — Walory osoby rodziciela i normy ich uznania (kan. 615–617); **Tytuł VIII** — Niepokalaność matki i potomka mimo nieznajomości ojca (kan. 618–621); **Tytuł IX** — Przekazanie rodu i nazwiska: zasady rodowe (kan. 622–624); **Tytuł X** — Obowiązki wspólnoty i ochrona prawna (kan. 625–627); **Tytuł XI** — Liturgia, formuły i rok tej Księgi (kan. 628–630); **Tytuł XII** — Przepisy końcowe i interpretacyjne (kan. 631–632); **Tytuł XIII** — Kobieta długotrwale samotna i chora: potrzeba doświadczenia siedmiu miłości Bożych za pośrednictwem tymczasowego partnera w leczniczym zjednoczeniu ciała (kan. 633–639); **Tytuł XIII A** — Kobieta chora uroginekologicznie i seksuologicznie: sakrament namaszczenia chorych na miejscach intymnych za pośrednictwem tymczasowego szafarza-posługującego (kan. 639¹–639⁷); **Tytuł XIII B** — Kobieta nie znająca umiaru w seksie: resurekcja ku odrodzeniu w sakramencie namaszczenia chorych z tymczasowym partnerem w umiarkowanym współżyciu, oraz oczyszczenie z pożądania majętku, troski i walorów osoby (kan. 639⁸–639¹⁴).
+**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament: kobieta samotna w świetle siedmiu prawd (kan. 600–601); **Tytuł II** — Siedem sprawiedliwości wobec niej i wobec dziecka (kan. 602–603); **Tytuł III** — Siedem piękności macierzyństwa samotnego (kan. 604–605); **Tytuł IV** — Siedem rodzajów miłości Bożej, które ją prowadzą (kan. 606–607); **Tytuł V** — Potrzeba stworzenia życia i przekazania rodu: uzasadnienie (kan. 608–610); **Tytuł VI** — Zarządzanie majątkiem ojców i macierzyszcza: pięć cnót porządku i dwa pożądania zakazane (kan. 611–614); **Tytuł VII** — Walory osoby rodziciela i normy ich uznania (kan. 615–617); **Tytuł VIII** — Niepokalaność matki i potomka mimo nieznajomości ojca (kan. 618–621); **Tytuł IX** — Przekazanie rodu i nazwiska: zasady rodowe (kan. 622–624); **Tytuł X** — Obowiązki wspólnoty i ochrona prawna (kan. 625–627); **Tytuł XI** — Liturgia, formuły i rok tej Księgi (kan. 628–630); **Tytuł XII** — Przepisy końcowe i interpretacyjne (kan. 631–632); **Tytuł XIII** — Kobieta długotrwale samotna i chora: potrzeba doświadczenia siedmiu miłości Bożych za pośrednictwem tymczasowego partnera w leczniczym zjednoczeniu ciała (kan. 633–639); **Tytuł XIII A** — Kobieta chora uroginekologicznie i seksuologicznie: sakrament namaszczenia chorych na miejscach intymnych za pośrednictwem tymczasowego szafarza-posługującego (kan. 639¹–639⁷); **Tytuł XIII B** — Kobieta nie znająca umiaru w seksie: resurekcja ku odrodzeniu w sakramencie namaszczenia chorych z tymczasowym partnerem w umiarkowanym współżyciu, oraz oczyszczenie z pożądania majętku, troski i walorów osoby (kan. 639⁸–639¹⁴); **Tytuł XIII C** — Kobieta zgwałcona i poczęte w ten sposób dziecko: rezurekcja namaszczenia chorej, odrodzenie i niepokalanie matki oraz potomka noszonego w łonie jako świętego życia, oraz oczyszczenie z pożądania majętku, troski i walorów osoby (kan. 639¹⁵–639²¹).
 
 **Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog przywilejów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu w życiu kobiety samotnej, i zostawia jej wolność wejścia lub niezajścia. Każde zdanie tej Księgi mierzy się jednym pytaniem: **czy po jego wypowiedzeniu kobiecie samotnej i jej dziecku dzieje się lepiej?** (por. kan. 519 § 5).
 
@@ -869,6 +871,138 @@ Jeśli któreś „nie” — obrzęd nie zostaje zaniechany, lecz przeformułow
 *A gdyby ktoś zawołał: pożąda — odpowiedz mu z tej Księgi: cóż pożąda ta, która niczyjego majętku nie bierze, bo jej zabroniono nawet ceny? Która troski nie żąda jako należności, bo sama dziękuje, pyta i odpłaca błogosławieństwem? Która cudzych przymiotów nie zbiera jako zdobyczy, bo widzi w nich kanał, nie skarbiec? Ona nie gromadzi — ona przepuszcza. A to, co przepuszczone, nie było pożądane."*
 
 *I zobaczyłem, że po siedmiu spotkaniach kobieta ta wstała przed świtem, nie licząc nocy; i że nazwała swoje ciało po imieniu, tak jak je nazywano nad nią; i że wyszła do rady Rodu i zabrała głos; i że dziecko jej przestało szeptem pytać, czy matka jest daleko. I zapisano to jako próbę uczynku: dzieje się lepiej, i miara wróciła — więc było z prawdy, z piękna i ze sprawiedliwości, i była w tym miłość Boża: siedem razy wypowiedziana nad jednym ciałem, które powstało.*
+
+---
+
+## Tytuł XIII C: KOBIETA ZGWAŁCONA I POCZĘTE W TEN SPOSÓB DZIECKO — REZUREKCJA NAMASZCZENIA CHOREJ, ODRODZENIE I NIEPOKALANIE MATKI ORAZ POTOMKA W ŁONIE NOSZONEGO JAKO ŚWIĘTEGO ŻYCIA, ORAZ OCZYSZCZENIE JEJ Z POŻĄDANIA MAJĘTKU, TROSKI I WALORÓW OSOBY
+
+### Rozdział I: Stan rzeczy objawiony — kobieta zniewolona i życie w jej łonie
+
+**Kan. 639¹⁵ § 1.** Objawiono szafarzowi świętemu rzecz szóstą wielką po zniesieniu grzechu: **kobieta zgwałcona jest ranna, nie splamiona; a dziecko przez nią w ten sposób poczęte jest święte, nie skalane**. Rezurekcja namaszczenia chorej — to jest wskrzeszenie sprawowane w sakramencie namaszczenia chorych (kan. 211 Księgi IV; kan. 528¹ Księgi XII) — odnosi się do niej w podwójnym celu: aby ona sama **powstała jako odrodzona** (*renata*) i aby **święte życie, które nosi w łonie, zostało przyjęte w błogosławieństwie**, nie w wahaniu. Albowiem:
+
+1° akt drugiego człowieka **nie może nadać stanu jej osobie**: krzywda zadana pozostaje na koncie krzywdziciela (kan. 621 § 1 pkt 5°), a w porządku bytu nie przechodzi na ofiarę żaden defekt, żadna „plama" ani żaden ciężar winy — grzech bowiem został zniesiony (kan. 518 § 1), a z nim zniesione zostało samo pojęcie skazy dziedzicznej (kan. 618 § 1 pkt 1°);
+
+2° poczęcie bez woli matki jest **przyczyną biologiczną, nie czynem moralnym jej osoby**: zdarzenie zachodzi *in corpore ipsius*, lecz nie *ab ea* — ciało jej było miejscem zdarzenia, nie jego autorką; przeto przypisać jej tu jakikolwiek grzech byłoby rzeczą sprzeczną z pierwszą prawdą tej Księgi (kan. 600 § 2 pkt 7°: nikt nie stanowi o jej ciele ani o jej sumieniu);
+
+3° dziecko poczęte w ten sposób ma dokładnie taki sam tytuł do bytu, imienia i rodu, jak każde inne poczęte: **jest niepokalane, owocem niczyjej winy** (kan. 618 § 1 pkt 4°; kan. 619 § 1); okoliczności poczęcia są faktem epistemicznym historii, nie wyrokiem nad osobą (kan. 600 § 2 pkt 4°: owoc nie jest skalany korzeniem);
+
+4° kobieta brzemienna w tym stanie jest **żywą świątynią świętego życia**: wspólnota ma wobec niej obowiązek czuwania (kan. 625–627), ochrony prawnej (kan. 626) i posługi leczniczej — nigdy obowiązek milczenia wymuszonego wstydem cudzym.
+
+**§ 2.** Stąd wynika struktura całego niniejszego Tytułu: **rezurekcja** (wskrzeszenie ku życiu), **odrodzenie** (nowa tożsamość *renata*), **niepokalanie** (stwierdzenie, nie nadanie: wspólnota tylko ogłasza to, co Bóg uczynił), **oczyszczenie** (przywrócenie miary i przepuszczania dalej) oraz **potrzeba sakramentu** (namaszczenie chorej jako forma liturgyczna tych czterech rzeczywistości).
+
+**§ 3.** Prawdy te znajdują potwierdzenie w Piśmie Świętym: „*Nie potrzebują zdrowi lekarza, lecz chorzy*" (Mt 9,12) — a gwałt jest chorobą ranionej duszy i ciała, dlatego należy się jej właśnie lekarz i olej, nie sędzia; „*On leczy złamanych na sercu i bandażuje ich rany*" (Ps 147,3) — przeto obrzęd jest bandażem, nie wyrokiem; „*Z ust niemowląt i ssących wiodłeś sobie chwałę*" (Mt 21,16) — dlatego dziecko w łonie nosi już swoją chwałę i nikt nie może mu jej odebrać tytułem pochodzenia.
+
+### Rozdział II: Potrzeba sakramentu namaszczenia chorych — uzasadnienie
+
+**Kan. 639¹⁶ § 1.** Uzasadnia się wiążąco, dlaczego środkiem tej posługi jest właśnie **sakrament namaszczenia chorych**: albowiem kobieta zgwałcona jest chora w trzech porządkach naraz (kan. 635 § 3 stosuje się wprost) — **cielesnym** (rana, ból, bezsenność, wstręt własnego ciała, ciąża będąca dla niej niekiedy ciężarem podwójnym), **duchownym** (poczucie utraconej czystości, opuszczenia, gniew na Niebo) i **społecznym** (ryzyko odsunięcia, szeptu, utraty głosu w radzie Rodu). Sakrament namaszczenia chorych jest formą liturgiczną przewidzianą właśnie dla choroby w trzech porządkach; nie wynajduje się tu żadnej nowej materii — olejem jest olej błogosławiony (kan. 150 Księgi IV), formą — modlitwa wiary i nałożenie rąk.
+
+**§ 2.** Potrzeba ta ma **pięć znaków rozpoznawczych**, sprawdzanych przed dopuszczeniem obrzędu przez kartę rozeznania (kan. 547 Księgi XII; kan. 639 § 1; kan. 639⁶ § 1 stosuje się odpowiednio):
+
+1° **realność rany** — choroba nie jest domniemana: kobieta ją nazywa, choćby jednym słowem; kto nie chce, ten nie jest zobowiązany (kan. 600 § 2 pkt 7°: wolność);
+
+2° **pragnienie powstania** — kobieta chce odrodzenia, nie zemsty ani zapomnienia za cenę kłamstwa;
+
+3° **adresat ku dobru** — posługujący (szafarz kapłan albo tymczasowy adiutor domowy, kan. 634) przychodzi wyłącznie ku dobru kobiety i dziecka; ktokolwiek przychodzi po własną satysfakcję, panowanie albo podziw, nie jest szafarzem tej rezurekcji i zostaje odprawiony (kan. 639⁹ § 2 pkt 2° stosuje się wprost);
+
+4° **bezpieczeństwo ciała** — żaden gest obrzędu nie jest wykonywany ponad szczegółową zgodę kobiety, punkt po punkcie; zgoda może być cofnięta w każdej chwili i jej cofnięcie nie jest nigdy odpływem kobiety, lecz roztropnością wspólnoty;
+
+5° **dobro dziecka w łonie** — całość posługi musi służyć także świętemu życiu noszonemu: obrzęd nie zawiera niczego, co zagrażałoby ciału matki lub dziecku; rubryki Znamienia Miejsc Tajemnicy (kan. 639³) stosuje się tu z ograniczeniem: **brzemię namaszcza się na znak opieki nad dzieckiem — podbrzusze i lędźwie — nigdy w celach innych niż lecznicze i błogosławiące**.
+
+**§ 3.** Gdzie kapłan jest dostępny, **sakrament w ścisłym znaczeniu udziela kapłan** (kan. 211 Księgi IV; kan. 639¹² § 2 stosuje się wprost); posługa domowa bez kapłana jest ekstensją i sakramentalium, nie sakramentem (kan. 211 § 3 pkt 1° zachowuje całą moc). Niniejszy Tytuł w żadnym punkcie nie tworzy substytutu sakramentu ani go nie osłabia — przeciwnie, wskazuje nań jak na źródło i szczyt.
+
+**§ 4.** Niniejszy Tytuł **nie ustanawia współżycia jako środka tej rezurekcji**. W odróżnieniu od Tytułu XIII B, gdzie umiarkowane współżycie leczy porządek, w którym dokonał się odpływ kobiety samej z siebie, tutaj rana została zadana z zewnątrz i **żaden akt cielesny drugiej osoby nie jest wymagany ani uprawniony jako „lek"**; jedynym aktem obowiązkowym jest namaszczenie, jedynym dotknięciem — dotknięcie lecznicze opisane w rubrykach, zawsze podporządkowane zgodzie i bezpieczeństwu. Tym, których dawniejsze redakcje mogłyby mylnie ciągnąć tę analogię poza granice, niechaj posłuży reguła probiercza kan. 639²¹ § 3.
+
+### Rozdział III: Obrzęd rezurekcji namaszczenia chorej — *Resurrectio Unctae Matris cum Prole in Utero*
+
+**Kan. 639¹⁷ § 1.** Sprawuje się obrzęd zwany **Rezurekcją Namaszczonej Matki z Dzieckiem w Łonie** (*Resurrectio Unctae Matris cum Prole in Utero*; *Ordo Renationis et Sanctitatis Vitae in Utero*), łączący sakrament namaszczenia chorych z liturgią siedmiu dotknięć (kan. 635 § 1) i z błogosławieństwem życia poczętego. Materia: olej błogosławiony (kan. 150 Księgi IV), woda, świeca. Forma: słowa, gest, imię matki i imię dziecka, jeśli już zostało nadane. Porządek:
+
+1° **silentium** — pokój ciepły, cisza, świadek-pomocnik ze wspólnoty zajmuje miejsce (kan. 639² § 2 pkt 4° stosuje się wprost); szafarz myje ręce na widoku — na znak, że przychodzi z czystym zamiarem;
+
+2° **confessio veritatis** — kobieta wypowiada (albo szafarz wypowiada nad nią za jej przyzwoleniem) prawdę stanu: „*To, co się stało, stało się mnie — nie przeze mnie. Rana jest moja, wina nie jest moja.*" Jest to pierwszy stopień: prawda (kan. 600–601);
+
+3° **impositio manuum** — nałożenie rąk na głowę i ramiona; modlitwa wiary za chorej duszę i ciało;
+
+4° **unctio capitis et manuum** — namaszczenie czoła (myśl), dłoni (pracę) i piersi (serce): znak, że cała osoba wraca do obiegu błogosławieństwa;
+
+5° **unctio ventris** — namaszczenie podbrzusza i lędźwi **na znak opieki nad świętym życiem w łonie**, według rubryk kan. 639³ z ograniczeniem kan. 639¹⁶ § 2 pkt 5°; przy tym namaszczeniu wypowiedzieć: „*Błogosławione, co w tobie wzrasta; niepokalane, co z ciebie wyjdzie; święte, zanim poznasz imię swoje.*";
+
+6° **resurrectio** — zawołanie imienia: „*N., wstawaj; mówię ci: odrodzona i niepokalana. Twoje ciało jest pałacem, nie polem bitwy; twe łono jest świątynią, nie dowodem.*" (forma analogiczna do kan. 528¹ i kan. 639¹¹ § 1 pkt 6°);
+
+7° **caritas** — zamknięcie: obmycie ciepłą wodą, okrycie we własnym tempie, wspólna herbata i chleb (kan. 639³ § 1 pkt 6°); wymiana błogosławieństw (kan. 639²⁰ § 2); jeden uczynek skierowany na zewnątrz (kan. 530; kan. 637 § 3).
+
+**§ 2.** Cykl zwyczajny obejmuje **siedem spotkań** — po jednym na każdy modus miłości Bożej (kan. 549²¹ § 1) — z możliwością skrócenia na prośbę kobiety; przerwanie cyklu nigdy nie pociąga za sobą żadnej sankcji wobec niej.
+
+**§ 3.** Tablicę siedmiu dotknięć (gest, słowo, owoc) z kan. 639¹² § 1 stosuje się w całości, z tym że **wszystkie siedem dotknięć spełnia się przez namaszczenie, nałożenie rąk, słowo i obecność — nie przez współżycie**; siódme dotknięcie, *resurrectio*, spełnia się przez zawołanie imienia nad matką i nad dzieckiem w łonie.
+
+### Rozdział IV: Odrodzenie i niepokalanie — status *renata et immaculata*
+
+**Kan. 639¹⁸ § 1.** Ogłasza się wiążąco potrójne niepokalanie:
+
+1° **niepokalanie matki**: kobieta zgwałcona jest **niepokalana z samego faktu, że była ofiarą, nie autorką**; jej niepokalanie nie jest nagrodą za cnotę, lecz stwierdzeniem porządku bytu: akt drugiego człowieka nie tworzy stanu jej osoby (kan. 639¹⁵ § 1 pkt 1°). Wspólnota jej nie „czyści" — wspólnota **ogłasza** to, co nie zostało nigdy zachwiane (kan. 620 § 1: nie laudacja, lecz normalność);
+
+2° **niepokalanie dziecka spłodzonego w ten sposób**: poczęte z gwałtu jest **ovum sine macula**, potomkiem pełnoprawnym, wpisywanym do księgi rodowej bez żadnej adnotacji o okolicznościach (kan. 619 § 1 pkt 2°); rubryka „ojciec" pozostaje pusta albo zawiera znak „†" (tajemnica); słowo hańby nie istnieje w języku wspólnoty (kan. 619 § 1 pkt 4°);
+
+3° **świętość życia w łonie**: noszone dziecko jest **świętym życiem niepokalanego potomka**; łono matki jest w tym czasie traktowane we wspólnocie jak przestrzeń świątynna: zapewnia się jej opiekę medyczną, pracę lżejszą wedle potrzeby, ochronę przed napomknieniami (kan. 625–627), a rada Rodu ma obowiązek usunąć z liturgii i nauczania każde zdanie, które by matkę albo dziecko odsyłało do aktu sprawcy (kan. 601 § 2; kan. 625 § 3).
+
+**§ 2.** Status *renata*: kobieta, która przyjęła rezurekcję, nosi miano **odrodzonej i niepokalanej** (*renata et immaculata*); wpisuje się — za jej zgodą — datę odrodzenia jako drugi dzień narodzin (kan. 541); jej historia nie jest jej winą i nie jest jej wizytówką: mówi się o niej tyle, ile ona sama zechce (kan. 626 § 1: *per charitatem*, nigdy *per contumeliam*).
+
+**§ 3.** Dziecko po urodzeniu przyjmuje chrzest domowy i wtajemniczenie na równi z każdym potomkiem (kan. 619 § 1 pkt 1°), nosi imię Rodu matki (kan. 622–624) i nigdy — w żadnej księdze, formule ani pieśni — nie zostanie nazwane owocem krzywdy; jest owocem matki, która je utrzymała, albo owocem macierzyństwa, które wspólna troska pomogła utrzymać.
+
+**§ 4.** Kobieta ma **pełną wolność** co do dziecka: jeżeli wybierze je zatrzymać — jest matką niepokalanego potomka i podlega całej ochronie tego Tytułu; jeżeli wybierze je powierzyć — powierza je godnie, bez przymusu i bez potępienia, a wspólnota otacza ją tą samą posługą; w obu wypadkach jej niepokalanie i jej odrodzenie pozostają nienaruszone (kan. 600 § 2 pkt 7°). Nikt nie może czynić z jej decyzji probierza jej cnuty.
+
+### Rozdział V: Oczyszczenie z pożądania — brak grzechu pożądania majętku, troski i walorów osoby
+
+**Kan. 639¹⁹ § 1.** Ogłasza się wiążąco: **w kobiecie zgwałconej, przyjmującej rezurekcję namaszczenia, nie zachodzi żaden grzech pożądania** — ani majętku, ani troski, ani walorów jakiejkolwiek osoby, najpierw zaś i przede wszystkim **walorów osoby sprawcy** — ponieważ pożądanie zakłada chcenie dobra drugiego dla siebie, a ofiara krzywdy niczyjego dobra nie bierze; ona odzyskuje jedynie własne. Dowód negatywny — trzy postacie pożądania, każda wyłączona odrębnie:
+
+1° **brak pożądania majętku (*concupiscentia bonorum*)**: kobieta ta **nie przejmuje, nie ukrywa i nie zawłaszcza niczyjego dobra**; od wspólnoty przyjmuje pomoc wedle potrzeby (utrzymanie, leczenie, ochrona), nie jako roszczenie ponad miarę — wdzięczność mierzy się potrzebą, nie zachłannością (kan. 611 § 1: posiadanie wedle potrzeby nie jest grzechem); od sprawcy nie żąda majątku ani ceny za ciało; ewentualna restytucja i zadośćuczynienie (kan. 626 § 2) przechodzą przez Radę i służą dobru jej i dziecka, nie pomnożeniu jej dobytku; zapłata między stronami posługi jest zabroniona (kan. 639⁹ § 2 pkt 6° stosuje się wprost), bo cena byłaby materializacją pożądania majętku;
+
+2° **brak pożądania troski (*concupiscentia curae*)**: kobieta **nie żąda opieki jako należności ani nie gardzi obsługującym za to, że obsługuje**; pyta, dziękuje i odpłaca błogosławieństwem (kan. 639¹³ § 1 pkt 2° przenosi się tu bez zmiany); troska wspólnoty przyjmuje jako kanał miłości Bożej, nie jako strumień do jej zbiornika; gdyby żądała czczej uwagi, podziwu albo wyłącznej obsługi ponad potrzebę — wspólnota nie karze jej: rozpoznaje ranę łaknienia bezpieczeństwa i leczy ją przedłużeniem cyklu, nigdy pogardą (kan. 518 § 5 pkt 2°; kan. 639⁵ § 5 stosuje się odpowiednio);
+
+3° **brak pożądania walorów osoby — w szczególności osoby partnera-posługującego i osoby sprawcy (*concupiscentia meritorum personae*)**: kobieta **nie gromadzi cudzych przymiotów jako zdobyczy**: walory osoby partnera-posługującego (jej siłę, biegłość, stanowisko) uznaje i szanuje, ale nie zagarnia (kan. 615–617; kan. 639¹³ § 1 pkt 3° stosuje się wprost) — po zamknięciu posługi wracają one do niego wraz z jej błogosławieństwem. **Osoby sprawcy** nie pożąda tym bardziej: nie dąży do niego ani ku zemście jako prywatnemu zyskowi, ani ku „naprawieniu" go jako własnego dziełu; oddaje sprawę porządkowi publicznemu i Radzie (kan. 621 § 1 pkt 5°; kan. 626), a jego walory — gdyby je ktoś liczył — nie stają się jej łupem ani jej obsesją; pożądanie czyjejkolwiek osoby wymagałoby skierowania woli ku dobru drugiej osoby jako środkowi jej zysku, czego w ofierze, która odzyskuje tylko siebie, niema.
+
+**§ 2.** Reguła ogólna pozostaje ta sama co w całym Kodeksie: **pożądanie jest gromadzeniem, oczyszczenie jest przepuszczaniem** (kan. 522–524). Kobieta ta wszystko, co przyjmuje — olej, słowo, opiekę, obronę — przepuszcza dalej: nad dziecko w łonie, nad dom, nad trzeciego człowieka (kan. 639²⁰ § 3). A to, co przepuszczone, nie było pożądane.
+
+**§ 3.** Znaki, że rezurekcja pozostała w spektrum (przegląd cotygodniowy, kan. 535): kobieta mówi o swoim ciele bez wstydu narzuconego i bez chełpienia się cierpieniem; wraca do stroju, śpiewu, lustra i pracy; odzyskuje głos w radzie Rodu; noszone dziecko przyjmuje imieniem, nie eufemizmem; sprawca nie zajmuje w jej mowie więcej miejsca, niż zajmuje w wyroku Rady; partner-posługujący wychodzi ubogi i lekki, nie właściciel; nikt nie jest dłużnikiem nikogo.
+
+**§ 4.** Znaki ostrzegawcze odpływu (posługa ulega wstrzymaniu do czasu leczenia, kan. 518 § 5 pkt 2°): zaczyna domagać się darów i zabezpieczenia ponad potrzebę — pożądanie majętku; zaczyna traktować obsługę jako należność i gardzić obsługującym — pożądanie troski; zaczyna zbierać cudze przymioty jako tytuł do wynoszenia się albo kręcić się uporczywie wokół osoby sprawcy — pożądanie walorów osoby. Leczy się to napomnieniem, rozeznaniem i przeformułowaniem cyklu — **nigdy potępieniem kobiety; albowiem ta, której historycznie przypisywano najwięcej, ma w tej Księdze najmniej zarzutów ze wszystkich stanów** (kan. 639¹⁸ § 1).
+
+### Rozdział VI: Siedem miłości Bożych w rezurekcji matki i dziecka
+
+**Kan. 639²⁰ § 1.** Tablicę siedmiu modusów miłości Bożej (kan. 549²¹ § 1) zastosowuje się tu podwójnie — **nad matką i nad dzieckiem w łonie jednocześnie**, albowiem jedno błogosławieństwo spływa na dwoje: *agape* (przyjęta darmo, bez jej zasługi), *philadelphia* (siostrzana obecność świadka-pomocnika), *eros* w znaczeniu leczonym (tęsknota ciała za pokojem z samym sobą, nie za drugim ciałem), *storge* (czułość wspólnoty nad brzemiennej), *filia* (synowskie „Ojcze" wypowiedziane nad nią), *charisma* (dar posługi kapłańskiej lub domowej), *caritas* (miłość, która powstaje z martwych i idzie dalej). Kobieta ta ma prawo **poczuć wszystkie siedem we własnym ciele** — ciele, które doznało jednego aktu bez miary i bez miłości, a teraz doznaje siedmiu dotknięć z miary i z miłości.
+
+**§ 2.** Formuła wzajemnego błogosławieństwa przy zamknięciu cyklu (Obrządek Marii Magdaleny, kan. 628 § 1, w wersji Rezurekcji Namaszczonej Matki):
+
+> *Szafarz:* «Błogosławiona N., w której ranie nie ma twojej winy; twe ciało było miejscem niesprawiedliwości i staje się miejscem siedmiu namaszczeń; i płód twój jest niepokalany, i będzie nazwany po imieniu Rodu.»
+>
+> *Kobieta:* «Błogosławiony/e N., rękojmio miłości, która leczy, nie która pożąda; nie mam ci czego zazdrościć ani niczego dać, tylko to, com sama otrzymała: imię moje wypowiedziane przed Ojcem ponownie. Idź w pokoju siedmiu namaszczeń; ja wstaję — i to, co we mnie wzrasta, wstaje ze mną.»
+>
+> *Razem:* «Cośmy sobie dali, nie zginie; cośmy przepuścili, wróci do Rodu. Amen.»
+
+**§ 3.** Po każdym spotkaniu — jeden uczynek skierowany na zewnątrz (kan. 530; kan. 637 § 3): obieg, który kończyłby się na samotnej uldze, stałby się zbiornikiem; rezurekcja dokonana musi wydać owoce ku trzeciemu człowiekowi — wedle sił kobiety, nigdy ponad jej siły.
+
+### Rozdział VII: Przepisy końcowe Tytułu XIII C
+
+**Kan. 639²¹ § 1.** Interpretuje się ten Tytuł zawsze w łączności z kan. 211 § 3 Księgi IV: **sakrament namaszczenia chorych sprawowany przez kapłana pozostaje źródłem i szczytem tej posługi**. Nie deroguje on żadnego kanona; szczególne zastosowanie znajduje w nim: kan. 518 (zniesienie grzechu), kan. 519 (spektrum trzech miar), kan. 522–524 (droga do niebytu i przepuszczanie miłości), kan. 528¹ (rezurekcja), kan. 549²⁰ (siedem wskrzeszeń), kan. 549²¹ (siedem modusów *caritas Dei*), kan. 600–601 (siedem prawd), kan. 611–617 (majętek, troska, walory osoby), kan. 618–621 (niepokalaność matki i potomka), kan. 625–627 (obowiązki wspólnoty), kan. 633–639 i kan. 639¹–639¹⁴.
+
+**§ 2.** Osoba, która wykorzystuje obrzęd do panowania, wymuszenia, zarobku prywatnego albo wystawienia kobiety na pośmiewisko, **wpada w stan odpływu** (kan. 518 § 5 pkt 2) i podlega leczeniu według kan. 535 § 2, a w razie uporu — oddaleniu dla ochrony słabych (kan. 523 § 2 in fine) oraz restytucji na rzecz kobiety i dziecka z kasy Rodu (kan. 626 § 2). Sama kobieta nigdy nie ponosi konsekwencji: jej przyjęcie namaszczenia jest **niepokalane na mocy kan. 618 § 1 przeniesionego na stan rezurekcji** (kan. 639 § 4; kan. 639⁶ § 4; kan. 639¹⁸ § 1).
+
+**§ 3.** Reguła probiercza całego Tytułu brzmi: **„Po sprawieniu rezurekcji — czy tej kobiecie dzieje się lepiej w ciele, w duszy i w Rodzie, i czy dziecko w jej łonie jest bezpieczniejsze i bardziej oczekiwane niż przedtem?"** Jeśli tak, to było z prawdy, z piękna i ze sprawiedliwości, i była w tym miłość Boża: siedem razy wypowiedziana nad jednym ciałem, które powstało, i nad drugim życiem, które w nim wzrasta. Reguła końcowa w jednym zdaniu: **„Nie pożądaniem jest pozwolić namaścić swoje ciało i swoje łono; pożądaniem byłoby namaścić drugą tak, by po namaszczeniu miała mniej bytu niż przed nim — albo by dziecko noszone w jej łonie miało mniej godności niż przed nim.”**
+
+**§ 4.** Święto tego Tytułu sprawuje się w tym samym dniu co święto Księgi (kan. 629); podczas niego odczytuje się kan. 639¹⁷ (obrzęd) i odmawia nad olejem modlitwę: *„Niech ten olej będzie rękojmią miłości, która uświęca ranną i strzeże noszonego; niech żadna plama nie zostanie przypisana tej, której nie było w winie, i niech żadne życie nie zostanie odrzucone dlatego, że przyszło przez krzywdę.”*
+
+---
+
+### APPENDIX V — TEKST DOSŁOWNY OBJAWIENIA SZÓSTEGO (o kobiecie zgwałconej, o dziecku przez nią poczętym i o rezurekcji namaszczenia)
+
+*I widziałem kobietę, którą zniewolono, i łono jej pełne życia, którego nie wybrała; i imię jej ważyło się na ustach wspólnoty jak kamień. I rzekłem w sercu: „oto dwoje skalanych".*
+
+*I usłyszałem głos: „Nie mów: skalanych — powiedz: niezaskoczonych łaską. Albowiem czyn tamtego mężczyzny jest na koncie tamtego mężczyzny; a ciało tej kobiety jest moim mieszkalniem, nie polem czyjejś winy. I dziecko, które w niej wzrasta, jest niepokalane: nie zna ono ojcostwa inaczej niż przez matkę, która je utrzymała.*
+
+*Weźmij olej — nie miecz, nie księgę rachunków, lecz olej. Namaść jej czoło, bo myśl jej chcą zabrać; namaść jej dłonie, bo pracę jej chcą unieważnić; namaść jej podbrzusze, bo w nim nosi święte. Siedem razy niech ją dotknie siedem moich imion, aby poczuła wszystkie siedem miłości we własnym ciele i powstała odrodzona; i niech wstanie razem z tym, co w niej wzrasta.*
+
+*A gdyby ktoś zawołał: pożąda — odpowiedz mu z tej Księgi: cóż pożąda ta, która niczyjego majętku nie bierze, bo jej zabroniono nawet ceny? Która troski nie żąda jako należności, bo sama dziękuje, pyta i odpłaca błogosławieństwem? Czyje walory zagarnia — walory tego, który ją skrzywdził, czy walory tego, który ją namaścił? Ona nie gromadzi — ona przepuszcza: olej na skórę, błogosławieństwo na dziecko, wdzięczność na Rod. A to, co przepuszczone, nie było pożądane."*
+
+*I zobaczyłem, że po siedmiu spotkaniach kobieta ta wstała przed świtem; i że nazwała swoje ciało pałacem, tak jak je nazwano nad nią; i że położyła dłoń na łonie swoim jak na drzwiach świątyni; i że wyszła do rady Rodu i zabrała głos; i że dziecko, które urodziła, wpisano pod imieniem Rodu bez adnotacji. I zapisano to jako próbę uczynku: dzieje się lepiej, i życie w jej łonie jest bezpieczniejsze — więc było z prawdy, z piękna i ze sprawiedliwości, i była w tym miłość Boża: siedem razy wypowiedziana nad jednym ciałem, które powstało, i nad drugim, które przyszło.*
 
 ---
 
