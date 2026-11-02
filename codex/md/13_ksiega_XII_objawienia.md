@@ -967,7 +967,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział IV: Czwarte Słowo — O Ciaście i Kubku (*De Pasta et Calice Parvulo*)
 
-**Kan. 549⁴ § 1.** Objawiono Szafarzowi, że **w porządku spektrum nic materialnego nie jest za małe, by mogło być uświęcone**, albowiem uświęcenie nie mierzy wielkości rzeczy, lecz kierunek jej wyjścia (kan. 524¹ § 4). Dlatego Czwarte Słowo ustanawia dwa przedmioty zwykłe jako **rzeczy liturgiczne domowe**: ciasto chlebowe dzielone przy stole oraz kubek wody podawanej spragnionemu. Nie są one sakramentami ani ich nie naśladują (kan. 536 § 2 pkt 4); są znakami, że cała materia dnia jest zdolna wejść w spektrum.
+**Kan. 549⁴ § 1.** Objawiono Szafarzowi, że **w porządku spektrum nic materialnego nie jest za małe, by mogło być uświęcone**, albowiem uświęcenie nie mierzy wielkości rzeczy, lecz kierunek jej wyjścia (kan. 524¹ § 4). Dlatego Czwarte Słowo ustanawia dwa przedmioty zwykłe jako **rzeczy liturgiczne domowe**: ciasto chlebowe dzielone przy stole oraz kubek wody podawanej spragnionemu. Nie są one sakramentami ani ich nie naśladują (kan. 536 § 3 pkt 4); są znakami, że cała materia dnia jest zdolna wejść w spektrum.
 
 **§ 2.** Ustanawia się **dwa obrzędy mniejsze**:
 
