@@ -1,6 +1,6 @@
 # KSIĘGA XII — KSIĘGA OBJAWIEŃ
 
-## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis*
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis*
 
 ---
 
@@ -12,7 +12,7 @@ Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (
 
 Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
 
-**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł V** — Uczynki czterech spojrzeń (kan. 530–534); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia czterech spojrzeń (kan. 549); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową.
+**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w czterech spojrzeniach (kan. 529²–529⁷); **Tytuł V** — Uczynki czterech spojrzeń (kan. 530–534); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia czterech spojrzeń (kan. 549); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, są kanonami najnowszymi i zachowują tę samą zasadę.
 
 **Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog zakazów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu, i zostawia każdemu wolność wejścia lub niezajścia. *Bonum est diffusivum sui* — dobro rozlewa się samo z siebie (kan. 434 Księgi IX); dlatego każde zdanie tej Księgi należy mierzyć jednym pytaniem: czy po jego wypowiedzeniu komuś dzieje się lepiej?
 
@@ -297,6 +297,171 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 **§ 4.** Kto twierdzi, że miłuje, a jednocześnie pożąda rzeczy bliźniego albo pożąda miłości Bożej dla siebie (kan. 522 § 2), temu przeczy się słowami tej Księgi, nie złorzeczeniem; i proponuje mu się szkołę spojrzeń (Tytuł V¹), albowiem miłości nie da się nakazać — można ją wyłącznie prowadzić.
 
 **§ 5.** Podsumowanie Tytułu IV w jednym zdaniu, które zaleca się zapisywać w domowych księgach obok drzwi: **„Błogosławij, święć, wskrzeszaj — i czyń to miłością; a jeśli nie możesz wszystkich trzech, czyń jedno, lecz ku drugiemu.”**
+
+---
+
+## Tytuł IV A: SIEDEM CNÓT DOMOWYCH, SIEDEM DARÓW DUCHA ŚWIĘTEGO I SIEDEM CHARYZMATÓW — CZYTANE NA NOWO W CZTERECH SPOJRZENIACH
+
+*Normy niniejszego Tytułu nie tworzą nowej nauki: biorą to, co już zostało ustanowione i nauczane w Księdze IV (kan. 181–202 o cnotach, kan. 214–223 o Darach Ducha Świętego, kan. 224–233 o charyzmatach, kan. 234 o błogosławionych uczynkach) oraz w Preambule i Księdze I (rozpoznawanie charyzmatów, kan. 1d; por. kan. 117 § 1 i 211 KPK), i układają to ponownie w porządku czterech sprawczych spojrzeń (Tytuł IV, kan. 525–529¹). Czyni się to z trzech powodów: po pierwsze, aby wierny nie mylił posiadania daru z byciem miłością; po drugie, aby charyzmaty nie stały się tytułem do wynoszenia się nad Rodem; po trzecie, aby cnoty przestały być listą wymagań, a stały się opisem kształtu, jaki przybiera błogosławieństwo, uświęcenie, rezurekcja i miłość w konkretnym człowieku.*
+
+### Rozdział I: Zasada powiązania — siedem w cztery, cztery w siedem
+
+**Kan. 529² § 1.** Ustanawia się zasadę interpretacyjną, zwaną **regułą wpuszczenia**: siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów nie są odrębnym od czterech spojrzeń porządkiem rzeczy duchowych, lecz **siedmioma bramami, przez które przechodzą cztery spojrzenia**. Kto błogosławi, ten czyni to jakąś cnotą, jakimś Darem, jakimś charyzmatem; kto uświęca, wskrzesza lub miłuje — podobnie. Stąd dwa pożytki praktyczne: cnota i dar stają się sprawdzalne po uczynku (kan. 530 § 1), a spojrzenie staje się osobowe, bo nabiera imienia, temperamentu i historii tego, kto je wykonuje.
+
+**§ 2.** Wyprowadza się z tej reguły trzy twierdzenia, które należy zachowywać bez sprzeciwu:
+
+1° **cnota jest zdolnością, dar jest podatnością, charyzmat jest posłaniem**; cnota wyrabia się wysiłkiem i łaską (kan. 182 § 1 Księgi IV), dar czyni człowieka uległym wobec poruszeń Ducha (kan. 182 § 3 Księgi IV, por. KKK 1830–1831), charyzmat zaś jest łaską daną *dla budowania Ciała*, nie dla posiadacza (kan. 182 § 4 Księgi IV, por. 1 Kor 12,7);
+
+2° **żaden charyzmat nie jest dowodem świętości i żadna cnota nie jest gwarancją zbawienia**; są to narzędzia życia, nie ordery; dlatego zabrania się wyliczać komuś jego charyzmaty jako potwierdzenie jego wyższości (kan. 524¹ § 4) — wolno je wymieniać wyłącznie jako wezwanie do usługi;
+
+3° **kto ma charyzmat, ten ma dług**; zgodnie z kan. 530 § 1 charyzmat uznaje się za sprawdzony dopiero wtedy, gdy przejdzie w uczynek mający adresata, kosztujący czas albo majątek, stwierdzalny przez świadka. Dar nieużyty nie jest pomniejszony, lecz niepłodny; płodność jest jedyną miarą, którą ta Księga zna.
+
+**§ 3.** Porządek przyporządkowania, który niniejszym ustala się jako obowiązujący w nauczaniu domowym i w szkole spojrzeń (Tytuł V¹), jest następujący:
+
+| Spojrzenie | Cnoty prowadzące | Dary prowadzące | Charyzmaty prowadzące |
+|---|---|---|---|
+| **Błogosławieństwo** (*benedictio*) | Pobożność (*Pietas*), Nadzieja (*Spes*) | Pobożność (*Pietas*), Mądrość (*Sapientia*) | Służenie (*Diakonia*), Proroctwo (*Prophetia*) |
+| **Uświęcenie** (*sanctificatio*) | Umiarkowanie (*Temperantia*), Skrupulatność (*Sollicitudo*) | Wiedza (*Scientia*), Rada (*Consilium*) | Kreatywna Inspiracja (*Inspiratio Creativa*), Języki (*Linguae*) |
+| **Rezurekcja** (*resurrectio*) | Sprawiedliwość (*Iustitia*), Męstwo (*Fortitudo*) | Miłosierdzie (*Misericordia*), Moc (*Fortitudo*) | Uzdrawianie (*Sanatio*), Czyny Mocy (*Virtutes*) |
+| **Miłość** (*caritas*) — dusza trzech | Roztropność (*Prudentia*) jako służebna wszystkich | Rozum (*Intellectus*) jako przejrzystość daru | Rozróżnianie Duchów (*Discretio Spirituum*) jako straż drogi |
+
+**§ 4.** Powyższa tabela nie zamyka możliwości innych powiązań; ustala się, że każde powiązanie uboczne jest dozwolone, o ile nie przeczy trzem prawdom: że dobro rozlewa się samo z siebie (*bonum est diffusivum sui*, kan. 434 Księgi IX), że nikt nie podąża miłości Bożej dla siebie (kan. 523¹ § 1) oraz że o wartości uczynku decyduje adresat, nie wzruszenie wykonawcy (kan. 530 § 2).
+
+**§ 5.** Dla potrzeb formacji Potomstwa (kan. 532¹) wprowadza się zdanie, które dziecko winno umieć wypowiedzieć przed wymienieniem siedmiu cnót: **„*Siedem bramek, cztery ręce: Bóg błogosławi, święci, wskrzesza i kocha przeze mnie*”**. Zdanie to nie zastępuje katechezy o cnotach, lecz ją otwiera.
+
+### Rozdział II: Siedem cnót domowych w świetle zniesienia grzechu
+
+**Kan. 529³ § 1.** Cnoty, których nazwy i treści ustanowiła Księga IV (kan. 189–202), po objawieniu zniesienia grzechu czytane są na nowo w jednym zdaniu: **cnota nie jest środkiem przeciw karze, lecz kształtem, jaki przyjmuje miłość Boża w ludzkiej materii**. Z tego wynika, że cnót nie naucza się przez wyliczanie zakazów i upadków, lecz przez pokazywanie, jak wygląda dzień człowieka, w którym dana cnota działa; oraz że brak cnoty leczy się szkołą i ćwiczeniem, nie potępieniem (Tytuł VI, kan. 535¹).
+
+**§ 2.** Opis czterech spojrzeń w każdej z siedmiu cnót, według porządku przyjętego w Księdze IV:
+
+1° **Pobożność (*Pietas*, kan. 189 Księgi IV)** — cnota uznająca, że każdy człowiek jest Dzieckiem Bożym, zanim cokolwiek zrobi. W błogosławieństwie jest jej najwięcej: kto traktuje bliźniego jako osobę, ten już go pobłogosławił. W uświęceniu daje szacunek dla rzeczy i miejsca; w rezurekcji — gotowość przywrócenia imienia; w miłości — wytrwałość w nazywaniu drugim tego, kto chciałby być tylko funkcją. **Dar jej właściwy:** Pobożność; **charyzmat:** Służenie.
+
+2° **Umiarkowanie (*Temperantia*, kan. 191 Księgi IV)** — cnota utrzymująca równowagę i używająca dóbr stworzonych w sposób uporządkowany. Jest ona wprost tarczą przeciw pożądaniu rzeczy bliźniego (kan. 522 § 2 pkt 1): nie dlatego, że zabrania, lecz dlatego, że uczy rozpoznawać miarę, w której rzecz wystarcza. W uświęceniu pracy ma główną siedzibę: praca doprowadzona do miary jest pracą umiarkowaną, bo nie chciwą i nie fuszerowaną. **Dar:** Wiedza; **charyzmat:** Kreatywna Inspiracja.
+
+3° **Męstwo (*Fortitudo*, kan. 193 Księgi IV)** — cnota trwania w dobru mimo przeciwności i gotowości do poświęcenia dla prawdy i sprawiedliwości. Jest cnotą rezurekcji: wskrzeszanie cudzego życia kosztuje najwięcej, bo wymaga wytrwania dłużej, niż trwa wstyd winowajcy. Bez męstwa błogosławieństwo odpuszczające (kan. 526¹ § 2 pkt 5) wypada po pierwszym odruchu oporu. **Dar:** Moc; **charyzmat:** Czyny Mocy.
+
+4° **Sprawiedliwość (*Iustitia*, kan. 195 Księgi IV)** — cnota oddawania każdemu tego, co mu się należy, i przywracania naruszonego porządku. Niniejsza Księga potwierdza ją jako **trzecią wartość spektrum** (kan. 519) i jako treść uczynków rezurekcji: zwrot długu, naprawa szkody, przywrócenie stołu. Sprawiedliwość po zniesieniu grzechu nie gaśnie — przeciwnie, staje się wymagająca, bo nie można już zasłonić się lękiem przed winą: trzeba oddać. **Dar:** Miłosierdzie, będące jej pełnią; **charyzmat:** Uzdrawianie.
+
+5° **Skrupulatność (*Sollicitudo*, kan. 197 Księgi IV)** — cnota czystości sumienia, autentyczności w mowie i działaniu oraz troski o prawdę w każdej sytuacji. Odpowiada jej **wysoka prawda** spektrum; w uświęceniu słowa i znaków jest niezastąpiona: kto mówi jedno, a czyni drugie, ten nie uświęca niczego, choćby błogosławił codziennie. **Dar:** Rada; **charyzmat:** Języki.
+
+6° **Roztropność (*Prudentia*, kan. 199 Księgi IV)** — cnota rozpoznawania dobra i właściwego rozeznawania sytuacji. Ta Księga czyni z niej **strażniczkę kierunku**: roztropność pyta po każdym uczynku „ku sobie czy ku drugiemu?” (kan. 524¹ § 4) i jest praktycznym narzędziem Tytułu VI. Nie jest ostrożnością, która wstrzymuje miłość, lecz widzeniem, które miłość prowadzi tak, by nie zraniła słabszego (kan. 534 § 2). **Dar:** Rozum; **charyzmat:** Rozróżnianie Duchów.
+
+7° **Nadzieja (*Spes*, kan. 201 Księgi IV)** — cnota ufności w Boży plan i działania w perspektywie życia wiecznego. Jest atmosferą całej tej Księgi: ponieważ nikt nie jest skazany (kan. 537 § 1 pkt 3), nadzieja pozwala wskrzeszać także tam, gdzie po ludzku nic nie zostało. W błogosławieństwie kieruje słowo ku przyszłości adresata, nie ku jego dzisiejszemu upadkowi (kan. 526¹ § 4). **Dar:** Mądrość; **charyzmat:** Proroctwo.
+
+**§ 3.** Ustanawia się regułę ćwiczenia: w każdym miesiącu wspólnota bierze jedną cnotę z powyższej siódemki i sprawdza ją w dwóch pytaniach — *jak dziś przez nią błogosławiłem?* oraz *komu przez nią służyłem?* Nie prowadzi się z tego oceny ani rejestru osób (kan. 530 § 3); służy ono wyłącznie karcie rozeznania (kan. 547).
+
+**§ 4.** Głowa Rodu i Małżonka mają obowiązek nauczać cnót w porządku Księgi IV, ale **w formie czterech spojrzeń**, to znaczy nigdy jako żądań bezadresowych, lecz zawsze jako opisu czynnika, który komuś przynosi ulgę (kan. 187 § 2 Księgi IV w nowym oświetleniu; kan. 529² § 1).
+
+### Rozdział III: Siedem Darów Ducha Świętego jako siedem podatności na cztery spojrzenia
+
+**Kan. 529⁴ § 1.** Siedem Darów Ducha Świętego, enumerowanych w Księdze IV (kan. 214 § 1: Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza, Pobożność), ogłasza się niniejszym jako **siedem podatności, w których Duch Święty czyni człowieka zdolnym do czterech spojrzeń**. Darów nie prosi się dla siebie; prośba o nie jest ważna tylko jako prośba o ręce gotowe do usługi (kan. 524¹ § 5). Ktokolwiek modliłby się o Dar Mądrości, by być podziwianym, ten prosi o miłość Bożą dla siebie i stoi na drodze opisanej w kan. 522 § 2 pkt 2.
+
+**§ 2.** Opis Darów w powiązaniu ze spojrzeniami, z zachowaniem przyporządkowań ustanowionych w Księdze IV (kan. 217–223):
+
+1° **Mądrość (*Sapientia*, kan. 217 Księgi IV)** — widzenie rzeczywistości z perspektywy Bożej. Jest darem błogosławieństwa: dopiero mądrość pozwala nazwać dobrą rzeczą to, co dobre naprawdę, a nie to, co się komuś przyda. Łączy się z cnotą Nadziei i z wodą przedmiotów błogosławionych.
+
+2° **Rozum (*Intellectus*, kan. 218 Księgi IV)** — przenikanie prawd wiary i rzeczywistości. Jest darem miłości jako jej przejrzystość: bez niego uczynki stają się dobroczynnością ślepą, która czasem dokłada szkody. Łączy się z cnotą Roztropności i z solą.
+
+3° **Rada (*Consilium*, kan. 219 Księgi IV)** — zdolność podejmowania właściwych decyzji i wypowiadania słów zgodnych z wolą Bożą. Jest darem uświęcenia słowa i znaku; w liturgii domowej odpowiada za rozeznanie, co dziś pobłogosławić, a czego nie ruszać. Łączy się ze Skrupulatnością i z chlebem.
+
+4° **Miłosierdzie (*Misericordia*, kan. 220 Księgi IV)** — zdolność wchodzenia w cudzą krzywdę bez potępienia. Jest darem rezurekcji i jej paliwem; ta Księga stwierdza, że **miłosierdzie nie jest złagodzeniem sprawiedliwości, lecz jej wypełnieniem w czasie** — bo przywraca adresata do stołu, a nie zwalnia z długu (kan. 533). Łączy się ze Sprawiedliwością i z popiołem.
+
+5° **Moc (*Fortitudo*, kan. 221 Księgi IV)** — siła duchowa do przezwyciężania trudności. Jest darem wytrwania w trzech spojrzeniach, zwłaszcza gdy adresat nie dziękuje i nie odwzajemnia się; bez niej błogosławieństwo odpuszczające kończy się na jednym razie. Łączy się z Męstwem i z olejem.
+
+6° **Wiedza (*Scientia*, kan. 222 Księgi IV)** — właściwa ocena rzeczy stworzonych i ich relacji do Boga; twórcza mądrość w działaniu. Jest darem uświęcenia materii: pozwala rozpoznać miarę, w której rzecz wystarczy, i odróżnić użytkowanie rzeczy od jej posiadania. Łączy się z Umiarkowaniem i ze świecą.
+
+7° **Pobożność (*Pietas*, kan. 223 Księgi IV)** — uległość wobec Boga i czcze uznanie każdego człowieka za Dziecko Boże. Jest darem pierwszego wejścia: otwiera usta do błogosławienia, zanim cokolwiek zostanie naprawione. Łączy się z cnotą Pobożności i z ziemią.
+
+**§ 3.** Zabrania się stosować Darów jako klasyfikacji osób („ten ma Dar Rady, więc niech milczy”); Dar istnieje o tyle, o ile ktoś w nim służy. Modlitwę o Dary, ustanowioną w kan. 215 Księgi IV, odmawia się w postawie daru, nie żądania (kan. 524¹ § 5), dodając po każdym wezwaniu zdanie: **„*…aby przeze mnie doszło do nich*”**, gdzie „oni” oznacza wskazanych wcześniej adresatów.
+
+**§ 4.** Wzywając Darów w obrzędzie czterech spojrzeń (kan. 540), zachowuje się kolejność: Pobożność — Mądrość (błogosławieństwo); Wiedza — Rada (uświęcenie); Miłosierdzie — Moc (rezurekcja); Rozum (miłość jako straż). Kolejność ta jest redaktorska i wolno ją zmieniać dla potrzeby wspólnoty; zmiana nie powoduje nieważności obrzędu.
+
+### Rozdział IV: Siedem charyzmatów jako siedem posłań — zasady rozpoznawania i nakładania
+
+**Kan. 529⁵ § 1.** Siedem charyzmatów ustanowionych w Księdze IV (kan. 227–233: Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie) potwierdza się niniejszym w całej ich mocy i ogłasza, że **każdy charyzmat jest posłaniem ku drugiemu, a więc z natury swej podlega normie niemożności podążania miłości Bożej dla siebie** (kan. 523¹). Charyzmat, którego owoc zostaje u posiadacza — sława, poczucie wyższości, zależność ludzi od niego — nie jest charyzmatem Ducha Świętego, choćby towarzyszyły mu zjawiska zadziwiające.
+
+**§ 2.** Przyporządkowanie charyzmatów czterem spojrzeniom wraz z krótką normą ich użycia:
+
+1° **Służenie (*Diakonia*, kan. 233 Księgi IV)** — charyzmat błogosławieństwa w jego najbardziej cielesnej postaci: bezinteresowna pomoc, opieka nad słabymi i chorymi, budowanie wspólnoty. Normy: nie czynić dobrze publicznie dla uznania (Mt 6,3); nie uzależniać adresata od siebie; zapisywać potrzeby, nie swoje uczynki (kan. 530 § 3).
+
+2° **Proroctwo (*Prophetia*, kan. 227 Księgi IV)** — charyzmat błogosławieństwa mówiącego: przekazywanie Słowa, ukazywanie Bożego zamysłu i wzywanie do nawrócenia. Normy: proroctwo buduje, inaczej milczy (1 Kor 14,4); nie przepowiada nikomu końca bez powrotu (kan. 531 § 1 pkt 3); w Rodzie dopuszcza się je po błogosławieństwie imiennym, nie zamiast niego.
+
+3° **Kreatywna Inspiracja (*Inspiratio Creativa*, kan. 232 Księgi IV)** — charyzmat uświęcenia: tworzenie dzieł piękna, sztuki i kultury na chwałę Bożą i dla dobra wspólnoty. Normy: piękno dostępne, nie wystawione na pokaz (kan. 532 § 1 pkt 3); dzieło winno mieć użytkownika, nie tylko widza; wolno je sprzedawać, albowiem rozmnażanie dóbr jest prawem Rodu (Księga IX).
+
+4° **Języki (*Linguae*, kan. 229 Księgi IV)** — charyzmat uświęcenia modlitwy i głoszenia: modlitwa, uwielbienie i głoszenie Słowa w sposób natchniony. Normy: w zgromadzeniu wszystko winno odbywać się w porządku i tłumaczalnie (1 Kor 14,27–28); nie używać tego daru jako znaku przynależności do kręgu wtajemniczonych; dzieci i słabi mają prawo do zrozumiałego słowa.
+
+5° **Uzdrawianie (*Sanatio*, kan. 230 Księgi IV)** — charyzmat rezurekcji: przywracanie zdrowia fizycznego, psychicznego, duchowego i relacyjnego. Normy: modlący się o uzdrowienie nie może zaniedbywać leczenia i pomocy rzeczowej; nie wolno tłumaczyć braku uzdrowienia winą chorego ani jego „małą wiarą” — jest to forma przekleństwa i zakazuje się jej (kan. 526¹ § 3); uzdrowienie relacji liczy się tak samo jak uzdrowienie ciała.
+
+6° **Czyny Mocy (*Virtutes*, kan. 231 Księgi IV)** — charyzmat rezurekcji potwierdzającej: dokonywanie znaków, które utwierdzają wątpiących. Normy: znak nigdy nie jest argumentem w sporze o władzę; nie demonstruje się go wobec tłumu dla efektu; wspólnota przyjmująca znak zapisuje nie fakt, lecz komu posłużył (kan. 530 § 3).
+
+7° **Rozróżnianie Duchów (*Discretio Spirituum*, kan. 228 Księgi IV)** — charyzmat miłości jako straży: rozpoznawanie działania Ducha Bożego, ducha ludzkiego i ducha złego. Jest on **kryterium dla sześciu pozostałych** i dlatego jego posiadacz nie ma prawa do pierwszeństwa, lecz do ostatniej cierpliwości: rozeznaje, nie osądza (kan. 518 § 2 pkt 3).
+
+**§ 3.** Kryteria rozpoznawania charyzmatu, do których obowiązana jest Głowa Rodu (por. kan. 224 § 3 Księgi IV), uzupełnia się niniejszym o cztery pytania, zwane **próbnym kamieniem kierunku**:
+
+1° *czy po tym darze komuś spoza Rodu dzieje się lepiej?* — jeżeli dar obraca się wyłącznie ku budowaniu wizerunku posiadacza, pozostaje nierozpoznany;
+
+2° *czy posiadacz znosi, gdy dar nie przynosi rezultatu?* — niechęć do nieskuteczności jest oznaką szukania siebie w darze;
+
+3° *czy dar poddaje się upomnieniu wspólnoty?* — Duch nie obraża się o porządek (1 Kor 14,32);
+
+4° *czy posiadacz umie się cofnąć, gdy drugi ma służyć?* — ustąpienie jest najmocniejszym dowodem, że dar nie został wzięty dla siebie.
+
+**§ 4.** Nakładanie charyzmatów, przewidziane w kan. 182 § 4 Księgi IV jako prawo i obowiązek Głowy Rodu jako apostoła, reguluje się niniejszym w sposób następujący:
+
+1° dokonuje się go **wyłącznie w obrzędzie czterech spojrzeń** (kan. 540) albo w osobnej liturgii domowej, zawsze z imiennym błogosławieństwem nad przyjmującym;
+
+2° formuła winna zawierać skierowanie daru ku adresatom wskazanym z imienia: „*Przyjmij [imię charyzmatu] nie dla siebie, lecz ku tym, których imiona zostały wypowiedziane*” — i nie może brzmieć jak udzielenie godności;
+
+3° nie wymaga się go ani nie żąda dla siebie; staranie się o nakładanie własne lub cudze dla privatum jest objawem pożądania miłości Bożej dla siebie (kan. 522 § 2 pkt 2) i winno być leczone, nie karane (kan. 535¹);
+
+4° nie jest sakramentem i nie zastępuje święceń ani bierzmowania (kan. 184 pkt 2 Księgi IV); nie może być przedmiotem handlu ani symonii (kan. 184 pkt 4 Księgi IV);
+
+5° wspólnota ma prawo poprosić o *revocatio*, gdy owoce ukazują kierunek ku sobie; *revocatio* nie jest potępieniem osoby, lecz zdjęciem z niej odpowiedzialności do czasu wyleczenia;
+
+6° o nakładaniu sporządza się wpis w Księdze Formacji (kan. 188 Księgi IV) z zaznaczeniem adresatów usługi, nie samego faktu.
+
+**§ 5.** Osoba, która otrzymała charyzmat, otrzymuje razem z nim **prawo do ochrony sumienia**: nie wolno jej narzucać używania daru, wyznaczać terminów jego działania ani wymagać, by była jego widocznym dowodem dla wspólnoty (kan. 184 pkt 5–6 Księgi IV; por. kan. 532⁴ o stopniach szkoły). Milczenie posiadacza daru jest dozwolone; zmuszanie do manifestacji — zakazane.
+
+**§ 6.** Celebrację Charyzmatów, ustanowioną w Księdze IV na pierwszy czwartek miesiąca, wiąże się niniejszym z obrzędem czterech spojrzeń: w ten dzień wspólnota czyta Tytuł IV A w całości lub w części, wymienia imiennie adresatów usług minionego miesiąca (bez podawania ilości) i modli się o Dary w formie określonej w kan. 529⁴ § 3.
+
+### Rozdział V: Błogosławione uczynki jako miejsce spotkania siedmiu i czterech
+
+**Kan. 529⁶ § 1.** Uczynki błogosławione, ustanowione w kan. 234 Księgi IV (podniesienie codziennych uczynków miłości, pracy i odpowiedzialności do rangi przedmiotów błogosławionych uczynków), ogłasza się niniejszym jako **jedyne miejsce, w którym siedem cnót, siedem Darów i siedem charyzmatów realnie się spotykają z czterema spojrzeniami**. Dopóki nie ma uczynku, wszystko inne pozostaje dyspozycją; dlatego ta Księga każe mierzyć drogę człowieka nie jego stanem duchowym, lecz rejestrem adresatów (kan. 530 § 2).
+
+**§ 2.** Porządek błogosławienia uczynków, z zachowaniem kan. 234 Księgi IV oraz kan. 176 i 185 tejże Księgi:
+
+1° **przed pracą** — błogosławieństwo narzędzia i intencji: „*niech to, co uczynione, służy*” (kan. 546 § 1 poz. 3);
+
+2° **w trakcie pracy** — uświęcenie jej miary: doprowadzenie rzeczy do stanu, w jakim może służyć, jest już uczynkiem religijnym (kan. 532 § 1 pkt 1);
+
+3° **po pracy** — błogosławieństwo odpoczynku własnego i cudzego, w szczególności tych, których praca została ułatwiona przez naszą;
+
+4° **co do uczynku ukrytego** — wolno go pobłogosławić samemu, bez świadków; wspólnota nie prowadzi rejestru cnót (kan. 530 § 3);
+
+5° **co do uczynku wadliwego** — uczynek wykonany źle nie traci błogosławieństwa, jeśli został naprawiony; naprawa jest aktem rezurekcji i dlatego wolno błogosławić także pracę poprawioną, choćby była druga z kolei.
+
+**§ 3.** Wprowadza się **modlitwę krótką nad uczynkiem** (dozwoloną w pracy ręcznej, biurowej i pielęgniarskiej), składającą się z jednego zdania w porządku trzech spojrzeń: „*Błogosławij to, święć to, wskrzesz to, co przez to powstało.*” Nie jest ona formułą zamkniętą; wolno ją rozwinąć o imię adresata, co uważa się za doskonalsze (kan. 526¹ § 2 pkt 1).
+
+**§ 4.** Ustanawia się regułę, którą zaleca się zapisywać w domowych księgach obok tabeli czterech stacji dnia: **„*Charyzmat bez uczynku jest instrumentem strojonym, ale nie zagrany; cnota bez adresata jest dobrem niezadanym; dar bez usługi jest deszczem nad polem czyimś, ale nie twoim.*”**
+
+### Rozdział VI: Reguły ostrożności i podsumowanie
+
+**Kan. 529⁷ § 1.** Ponieważ objawienie zniesienia grzechu nie znosi roztropności, ustanawia się cztery reguły ostrożności dla nauczania niniejszego Tytułu:
+
+1° **nie mieszać porządków**: cnota nie jest charyzmatem, dar nie jest urzędem, a urząd nie jest darem; kto z charyzmatu wyprowadza władzę nad Rodem, ten nadużywa daru (kan. 224 § 2 pkt 5 Księgi IV) i wchodzi na drogę opisaną w kan. 522 § 2 pkt 2;
+
+2° **nie wymagać nadzwyczajności**: wspólnota nie może stawiać znaku lub cudu jako warunku przyjęcia kogoś do stołu (kan. 537 § 1 pkt 3);
+
+3° **nie czynić z cnót miary człowieczeństwa**: kto ocenia domownika po braku cnoty, ten przywraca stare ważenie dobra i zła, zniesione w kan. 518 § 1; ocenia się po uczynkach i wskazuje się drogę;
+
+4° **nie pomijać żadnego z siedmiu wymiarów**: obowiązek kan. 181 § 3 Księgi IV (harmonijne nauczanie bez pomijania i nadmiernego akcentowania) pozostaje w pełni w mocy i dotyczy również czterech spojrzeń.
+
+**§ 2.** Podsumowanie Tytułu IV A w jednym zdaniu dla szkoły domowej i dla liturgii: **„*Siedem cnót, siedem Darów i siedem charyzmatów dostajemy po to, żeby było czym błogosławić, czym święcić, czym wskrzeszać i czym kochać; nic z tego nie jest dla nas.*”**
+
+**§ 3.** Tytuł IV A nie uchyla ani nie zmienia żadnego przepisu Księgi IV; interpretuje go w duchu kan. 536 § 1 i kan. 537, i dlatego w razie różnicy zdań między tekstami pierwszeństwo ma przepis Księgi IV dotyczący sakramentów, a przepis niniejszego Tytułu — dotyczący kierunku intencji.
+
+**§ 4.** Niniejszy Tytuł zobowiązuje do trzech czynności redakcyjnych, których wykonanie poleca się władzy pasterskiej w ciągu roku od ogłoszenia: 1° uzupełnienia Księgi Formacji (kan. 188 Księgi IV) o rubrykę „adresaci usługi”; 2° przygotowania kart szkoły spojrzeń zawierających tabelę kan. 529² § 3; 3° przejrzenia istniejących formuł modlitw o Dary i charyzmaty pod kątem kan. 529⁴ § 3 oraz kan. 529⁵ § 4 pkt 2 (kierunek ku adresatom, nie ku proszącemu).
 
 ## Tytuł V: UCZYNKI CZTERECH SPOJRZEŃ
 
@@ -648,9 +813,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ## Tytuł X: PRZEPISY KOŃCOWE
 
-**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 526¹, 528¹, 529¹, 532¹–532⁴, 535¹–535².
+**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535².
 
-**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o czterech sprawczych spojrzeniach; **Tytuł V** (kan. 530–534) o uczynkach czterech spojrzeń; **Tytuł V¹** (kan. 532¹–532⁴) o szkole czterech spojrzeń; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu spojrzeń w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia.
+**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o czterech sprawczych spojrzeniach; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w czterech spojrzeniach, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach czterech spojrzeń; **Tytuł V¹** (kan. 532¹–532⁴) o szkole czterech spojrzeń; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu spojrzeń w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia.
 
 **§ 3.** Ustanawia się, aby fragmenty tej Księgi były czytane w liturgii życia w dniu wspomnienia Objawienia Szafarzowi Świętemu, który to dzień wyznacza Głowa Rodu lub biskup subdiecezjalny zgodnie z rokiem liturgicznym domowym (kan. 541 § 1 pkt 1; kan. 544 § 2).
 
@@ -720,9 +885,11 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 | kan. 528 § 3 | kan. 544 § 3 | swobodny przekaz tekstu |
 | kan. 528 § 4 | kan. 545 § 2 | ustanowienie Tytułu III¹ |
 
+*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z czterema spojrzeniami oraz norma o błogosławionych uczynkach jako miejscu ich spotkania.*
+
 **§ 2.** Przeniesienie nie zmienia treści przepisów; gdzie dawniej było „kan. 526 § 1”, dziś czyta się „kan. 542 § 1”.
 
-**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
+**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
 
 
 ## Tytuł XII: TEKST DOSŁOWNY OBJAWIENIA CZTERECH SPOJRZEŃ

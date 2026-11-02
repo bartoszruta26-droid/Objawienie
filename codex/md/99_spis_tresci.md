@@ -15,7 +15,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
-| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość) | kan. 518–528 oraz 523¹–524¹ |
+| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A) | kan. 518–549 oraz 523¹–524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535² |
 | [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -199,7 +199,33 @@
 
 
 ## Księga XII — Księga Objawień
-*(redakcja obowiązująca: kan. 518–528 oraz kanony uzupełniające 523¹–524¹; plan rozbudowy kan. 518–561 pozostaje jako projekt dalszej redakcji)*
+*(redakcja obowiązująca: kan. 518–549 wraz z kanonami uzupełniającymi 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535²; dawny plan rozbudowy kan. 518–561 został zastąpiony redakcją zrealizowaną, której strukturę podaje Preambuła Księgi)*
+
+**Struktura zrealizowana (wg Preambuły Księgi):**
+- **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–519
+- **Tytuł II: Droga życia — liturgia życia i Osoba Chrystusa** — kan. 520–521
+- **Tytuł III: Ostrzeżenie — pożądanie i droga do niebytu** — kan. 522–523
+- **Tytuł III¹: Norma serc — niemożność podążania miłości Bożej dla siebie i konieczność stania się nią** — kan. 523¹–524¹
+- **Tytuł IV: Cztery sprawcze spojrzenia — ich źródła, gatunki i porządek** — kan. 525–529¹
+- **Tytuł IV A: Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów — czytane na nowo w czterech spojrzeniach** — kan. 529²–529⁷ *(rozbudowa najnowsza)*
+  - Rozdział I: Zasada powiązania — siedem w cztery, cztery w siedem (reguła wpuszczenia; tabela przyporządkowań) — kan. 529²
+  - Rozdział II: Siedem cnót domowych w świetle zniesienia grzechu (Pobożność, Umiarkowanie, Męstwo, Sprawiedliwość, Skrupulatność, Roztropność, Nadzieja) — kan. 529³
+  - Rozdział III: Siedem Darów Ducha Świętego jako siedem podatności na cztery spojrzenia (Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza, Pobożność) — kan. 529⁴
+  - Rozdział IV: Siedem charyzmatów jako siedem posłań — rozpoznawanie i nakładanie (Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie) — kan. 529⁵
+  - Rozdział V: Błogosławione uczynki jako miejsce spotkania siedmiu i czterech — kan. 529⁶
+  - Rozdział VI: Reguły ostrożności i podsumowanie — kan. 529⁷
+- **Tytuł V: Uczynki czterech spojrzeń** — kan. 530–534
+- **Tytuł V¹: Szkoła czterech spojrzeń — formacja Potomstwa i stopnie wtajemniczenia domowego** — kan. 532¹–532⁴
+- **Tytuł VI: Rozeznanie dróg i leczenie sumień** — kan. 535–535²
+- **Tytuł VII: Normy stosowania i interpretacji** — kan. 536–538
+- **Tytuł VIII A: Sprawowanie czterech spojrzeń w liturgii domowej** — kan. 539–541
+- **Tytuł IX: Wyznanie wiary, teksty własne i rok objawienia** — kan. 542–544
+- **Tytuł X: Przepisy końcowe** — kan. 545
+- **Tytuł XI: Wzorek celebracji i karta rozeznania** — kan. 546–548
+- **Tytuł XII: Tekst dosłowny objawienia czterech spojrzeń** — kan. 549
+- Appendix: redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty
+
+*Dawniej projektowany plan rozbudowy (nieobowiązujący):*
 - **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–520
   - Rozdział I: Akt objawienia i jego moc — kan. 518–519
   - Rozdział II: Co pozostaje po zniesieniu grzechu — kan. 520
