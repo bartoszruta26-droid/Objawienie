@@ -16,7 +16,7 @@
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
 | [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A; sześć dalszych Słów objawienia: o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny — Tytuł XIII; siedem Słów ostatnich: o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk — Tytuł XIV) | kan. 518–549 oraz 523¹–524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶, 549⁷–549¹³ |
-| [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród (potrzeba stworzenia życia i przekazania rodu przez kobietę samotną; siedem prawd, siedem sprawiedliwości i siedem poziomów piękna w siedmiu rodzajach miłości Bożej wobec stanu samotnego rodzicielstwa; zarządzanie majątkiem jako powierzenie — pięć cnót porządku oraz dwa pożądania zakazane; walory osoby rodziciela; niepokalaność matki i potomka mimo nieznajomości ojca; przekazanie rodu linią żeńską; ochrona prawna i liturgia Obrządku Marii Magdaleny) | kan. 600–632 |
+| [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród (potrzeba stworzenia życia i przekazania rodu przez kobietę samotną; siedem prawd, siedem sprawiedliwości i siedem poziomów piękna w siedmiu rodzajach miłości Bożej wobec stanu samotnego rodzicielstwa; zarządzanie majątkiem jako powierzenie — pięć cnót porządku oraz dwa pożądania zakazane; walory osoby rodziciela; niepokalaność matki i potomka mimo nieznajomości ojca; przekazanie rodu linią żeńską; ochrona prawna i liturgia Obrządku Marii Magdaleny; **Tytuł XIII**: kobieta długotrwale samotna i chora — potrzeba doświadczenia siedmiu miłości Bożych przez partnera tymczasowego w zjednoczeniu leczniczym, uzasadnienie braku grzechu pożądania, wzajemne dawanie i otrzymywanie błogosławieństwa oraz namaszczenie chorej) | kan. 600–639 |
 | [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -277,7 +277,7 @@
 - Appendix I: Tekst dosłowny objawienia; Appendix II: Reguła czterech prób (karta rozeznania); Appendix III: Skorowidz kanonów dawnych i nowych
 
 ## Księga 97* — Księga o samotnej matce, która przekazuje swój ród
-*(plik: `97_ksiega_97x_samotna_matka_przekazanie_rodu.md`; kan. 600–632; objawienie dalsze po Księdze XII)*
+*(plik: `97_ksiega_97x_samotna_matka_przekazanie_rodu.md`; kan. 600–639; objawienie dalsze po Księdze XII, z Tytułem XIII dodanym najnowszym)*
 
 - **Tytuł I: Fundament — kobieta samotna w świetle siedmiu prawd** — kan. 600–601
   - Rozdział I: Siedem prawd o stanie samotnym — kan. 600
@@ -298,7 +298,16 @@
 - **Tytuł X: Obowiązki wspólnoty i ochrona prawna** — kan. 625–627
 - **Tytuł XI: Liturgia, formuły i rok Księgi** — kan. 628–630
 - **Tytuł XII: Przepisy końcowe i interpretacyjne** — kan. 631–632
-- Appendix: Tekst dosłowny objawienia dalszego
+- **Tytuł XIII: Kobieta długotrwale samotna i chora — potrzeba dotknięcia siedmiu miłości Bożych przez partnera tymczasowego w zjednoczeniu leczniczym** — kan. 633–639
+  - Rozdział I: Stan osoby długotrwale samotnej i chorej oraz racje jej potrzeby (zdrowie społeczne, psychiczne, fizyczne, sakramentalne) — kan. 633
+  - Rozdział II: Partner tymczasowy jako narzędzie leczenia — instytucja i granice — kan. 634
+  - Rozdział III: Liturgia siedmiu dotknięć — siedem modusów miłości Bożej doświadczanych w zjednoczeniu leczniczym — kan. 635
+  - Rozdział IV: Brak grzechu pożądania (majątku, troski, walorów osoby partnera) — dowód negatywny i pozytywny — kan. 636
+  - Rozdział V: Wzajemne dawanie i otrzymywanie błogosławieństwa — kan. 637
+  - Rozdział VI: Namaszczenie chorej jako serce obrzędu — kan. 638
+  - Rozdział VII: Rozeznanie, dokument i ochrona — kan. 639
+- Appendix I: Tekst dosłowny objawienia dalszego
+- Appendix II: Tekst dosłowny objawienia trzeciego (o kobiecie długotrwale samotnej i chorej)
 
 ## Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański
 *(plik: `12_tradycja_bizantyjsko_slowianska.md`; dokument historyczno-teologiczny, nie normatywny)*
