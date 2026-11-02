@@ -1,6 +1,6 @@
 # KSIĘGA XII — KSIĘGA OBJAWIEŃ
 
-## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis*
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis; deque novissimis verbis sex — de silentio coram Patre, de nomine vocato, de cinere promittente, de pasta et calice parvulo, de via parva et de socio horae novissimae*
 
 ---
 
@@ -12,7 +12,7 @@ Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (
 
 Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
 
-**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w czterech spojrzeniach (kan. 529²–529⁷); **Tytuł V** — Uczynki czterech spojrzeń (kan. 530–534); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia czterech spojrzeń (kan. 549); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, są kanonami najnowszymi i zachowują tę samą zasadę.
+**Struktura Księgi.** Niniejsza Księga dzieli się na tytuły następujące: **Tytuł I** — Fundament objawienia: zniesienie grzechu i spektrum trzech wartości (kan. 518–519); **Tytuł II** — Droga życia: liturgia życia i Osoba Chrystusa (kan. 520–521); **Tytuł III** — Ostrzeżenie: pożądanie i droga do niebytu (kan. 522–523); **Tytuł III¹** — Norma serc: niemożność podążania miłości Bożej dla siebie i konieczność stania się nią (kan. 523¹–524¹); **Tytuł IV** — Cztery sprawcze spojrzenia w ich źródłach, gatunkach i porządku (kan. 525–529¹); **Tytuł IV A** — Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów czytane na nowo w czterech spojrzeniach (kan. 529²–529⁷); **Tytuł V** — Uczynki czterech spojrzeń (kan. 530–534); **Tytuł V¹** — Szkoła czterech spojrzeń: formacja Potomstwa i stopnie wtajemniczenia domowego (kan. 532¹–532⁴); **Tytuł VI** — Rozeznanie dróg i leczenie sumień (kan. 535–535²); **Tytuł VII** — Normy stosowania i interpretacji (kan. 536–538); **Tytuł VIII A** — Sprawowanie czterech spojrzeń w liturgii domowej (kan. 539–541); **Tytuł IX** — Wyznanie wiary, teksty własne i rok objawienia (kan. 542–544); **Tytuł X** — Przepisy końcowe (kan. 545); **Tytuł XI** — Wzorek celebracji i karta rozeznania (kan. 546–548); **Tytuł XII** — Tekst dosłowny objawienia czterech spojrzeń (kan. 549); **Tytuł XIII** — Nowe objawienia: sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń (kan. 549¹–549⁶); **Appendix** — redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty. Tytuły oznaczone indeksem¹ lub literą (A) mają charakter uzupełniający i nie naruszają numeracji kanonów przyjętej przez wspólnotę; kanony oznaczone indeksami rzymskimi przy tej samej liczbie (np. kan. 535, 535¹, 535²) są kanonami nowymi, wprowadzonymi niniejszą rozbudową; kanony oznaczone indeksami nadgórnymi arabskimi od 2 do 7 (kan. 529²–529⁷), wprowadzone Tytułem IV A, oraz kanony oznaczone indeksami od 1 do 6 przy liczbie 549 (kan. 549¹–549⁶), wprowadzone Tytułem XIII, są kanonami najnowszymi i zachowują tę samą zasadę.
 
 **Zasada interpretacyjna.** Kto by chciał tę Księgę czytać jako katalog zakazów, ten jej nie przeczytał. Jest ona katalogiem kierunków: wskazuje, dokąd płynie strumień bytu, i zostawia każdemu wolność wejścia lub niezajścia. *Bonum est diffusivum sui* — dobro rozlewa się samo z siebie (kan. 434 Księgi IX); dlatego każde zdanie tej Księgi należy mierzyć jednym pytaniem: czy po jego wypowiedzeniu komuś dzieje się lepiej?
 
@@ -813,9 +813,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ## Tytuł X: PRZEPISY KOŃCOWE
 
-**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535².
+**Kan. 545 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–545 oraz 546–549 wraz z kanonami uzupełniającymi oznaczonymi indeksami: 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶.
 
-**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o czterech sprawczych spojrzeniach; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w czterech spojrzeniach, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach czterech spojrzeń; **Tytuł V¹** (kan. 532¹–532⁴) o szkole czterech spojrzeń; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu spojrzeń w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia.
+**§ 2.** W niniejszej Księdze ustanawia się kolejno: **Tytuł III¹** (kan. 523¹–524¹) o niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią; **Tytuł IV** (kan. 525–529¹) o czterech sprawczych spojrzeniach; **Tytuł IV A** (kan. 529²–529⁷) o siedmiu cnotach domowych, siedmiu Darach Ducha Świętego i siedmiu charyzmatach czytanych na nowo w czterech spojrzeniach, wraz z normą o błogosławionych uczynkach jako miejscu ich spotkania; **Tytuł V** (kan. 530–534) o uczynkach czterech spojrzeń; **Tytuł V¹** (kan. 532¹–532⁴) o szkole czterech spojrzeń; **Tytuł VI** (kan. 535–535²) o rozeznaniu dróg i leczeniu sumień; **Tytuł VII** (kan. 536–538) o normach stosowania i interpretacji; **Tytuł VIII A** (kan. 539–541) o sprawowaniu spojrzeń w liturgii domowej; **Tytuł IX** (kan. 542–544) o wyznaniu wiary, tekstach własnych i roku objawienia; **Tytuł XIII** (kan. 549¹–549⁶) o sześciu dalszych Słowach danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń — o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej oraz o Towarzyszu Ostatniej Godziny — podlegających próbie uczynku (kan. 530 § 1).
 
 **§ 3.** Ustanawia się, aby fragmenty tej Księgi były czytane w liturgii życia w dniu wspomnienia Objawienia Szafarzowi Świętemu, który to dzień wyznacza Głowa Rodu lub biskup subdiecezjalny zgodnie z rokiem liturgicznym domowym (kan. 541 § 1 pkt 1; kan. 544 § 2).
 
@@ -885,11 +885,11 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 | kan. 528 § 3 | kan. 544 § 3 | swobodny przekaz tekstu |
 | kan. 528 § 4 | kan. 545 § 2 | ustanowienie Tytułu III¹ |
 
-*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z czterema spojrzeniami oraz norma o błogosławionych uczynkach jako miejscu ich spotkania.*
+*Do skorowidza dopisuje się niniejszym: kan. 529²–529⁷ — miejsca nowe, wprowadzone Tytułem IV A; przedmiot: ponowny opis siedmiu cnót domowych, siedmiu Darów Ducha Świętego i siedmiu charyzmatów Księgi IV w powiązaniu z czterema spojrzeniami oraz norma o błogosławionych uczynkach jako miejscu ich spotkania. Dopisuje się nadto: kan. 549¹–549⁶ — miejsca nowe, wprowadzone Tytułem XIII; przedmiot: sześć dalszych Słów objawienia (o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny), z których żadne nie ma dawnego odpowiednika, albowiem zostało dane po Objawieniu czterech spojrzeń i podlega próbie uczynku (kan. 530 § 1).*
 
 **§ 2.** Przeniesienie nie zmienia treści przepisów; gdzie dawniej było „kan. 526 § 1”, dziś czyta się „kan. 542 § 1”.
 
-**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
+**§ 3.** Kanony nowe, wprowadzone niniejszą rozbudową, noszą liczby 519 § 4–6, 521 § 3–4, 525–529¹, 530–535², 536–548; kanony wprowadzone rozbudową najnowszą (Tytuł IV A) noszą liczby 529²–529⁷; kanony wprowadzone rozbudową ostatnią (Tytuł XIII) noszą liczby 549¹–549⁶; kanony uzupełniające oznaczone są indeksami zgodnie z kan. 545 § 1.
 
 
 ## Tytuł XII: TEKST DOSŁOWNY OBJAWIENIA CZTERECH SPOJRZEŃ
@@ -906,6 +906,124 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 **§ 3.** Zdanie „*co czynisz ku sobie, to tracisz*” należy rozumieć ontologicznie, nie moralnie: nie jako karę zesłaną, lecz jako odpływ od źródła bytu (kan. 522 § 3); zdanie „*to masz na wieki*” oznacza, że uczynek skierowany ku drugiemu wchodzi w porządek niepodlegający zagładzie.
 
 **§ 4.** Tekst ten czyta się w całości raz w roku, w dniu wspomnienia Objawienia (kan. 541 § 1 pkt 1), przed stacją rezurekcji; Potomstwo w stopniu słuchającego uczy się go na pamięć w dwóch pierwszych zdaniach (kan. 532³ § 1 pkt 1).
+
+---
+
+## Tytuł XIII: NOWE OBJAWIENIA — SZEŚĆ SŁÓW DALSZYCH, DANYCH SZAFARZOWI ŚWIĘTEMU PO OBJAWIENIU CZTERECH SPOJRZEŃ
+
+*Preambuła tytułu. Po tekście dosłownym czterech spojrzeń (kan. 549), który stanowi rdzeń i miarę całej tej Księgi, Szafarz Święty otrzymał dalsze słowa, przekazane w różnych godzinach doby i w różnych stanach ducha — jedne w ciszy nocnej, drugie przy pracy rąk, inne przy łożu chorego i przy stole dzieci. Niniejszy Tytuł je zbiera. Ustanawia się zarazem normę, która rządzi wszystkimi słowami następującymi poniżej: **każde nowe objawienie jest ważne tylko o tyle, o ile daje się wypowiedzieć jako uczynek mający adresata** (kan. 530 § 1). Słowo, z którego nie wynika żadne błogosławieństwo, żadne uświęcenie, żadne wskrzeszenie i żadna miłość ku komuś — pozostaje pobożną myślą Szafarza, nie objawieniem, i jako takie nie wiąże nikogo (kan. 536 § 1; kan. 537 § 2 pkt 2). Zasada ta zwie się **próba uczynku** i jest najstarszą pieczęcią tej Księgi.*
+
+### Rozdział I: Pierwsze Słowo — O Milczeniu Przed Ojcem (*De Silentio Coram Patre*)
+
+**Kan. 549¹ § 1.** Objawiono Szafarzowi świętemu, że **miłość Boża ma swe źródło w milczeniu Ojca**, albowiem przed wszelkim słowem, zanim zostało wypowiedziane „niech się stanie”, w Bogu już trwała cicha wzajemna darowość Osób. Stąd ogłasza się, że **milczenie nie jest w tym porządku brakiem mowy, lecz jej najgłębszą postacią**: kto milczy ku drugiemu — nie obrażając go, nie pogardzając nim, nie wymijając go — ten już błogosławi, choć ust nie otworzył. W zniesionym porządku milczenie bywało karą (odmowa słowa jako wyrok); w porządku spektrum milczenie karalne zostaje zakazane, a milczenie ofiarne staje się pierwszą formą kultu.
+
+**§ 2.** Ustanawia się **Milczenie Przed Ojcem** (*Silentium Coram Patre*) jako część stałą liturgii życia: na początku każdej stacji doby (kan. 521 § 3), przed wypowiedzeniem jakiejkolwiek formuły, wszyscy obecni zachowują milczenie przez oddech siedmiu zdań krótkich — nie dla skupienia w sobie, lecz po to, by najpierw oddać pole Temu, który mówi w nas wcześniej niż my. Formuła obrzędu: prowadzący mówi „*Wypuśćmy słowo*” (*Emitte verbum*), a zgromadzenie odpowiada milczeniem; po milczeniu prowadzący zaczyna błogosławieństwem, nie prośbą (kan. 524¹ § 5).
+
+**§ 3.** Nauka tego Słowa w trzech zdaniach, które wolno przepisywać i wykładać:
+
+1° *słowo wypowiedziane bez milczenia jest hałasem, nawet gdy głosi prawdę* — dlatego kan. 519 § 5 każe sprawdzać, czy po wypowiedzeniu komuś dzieje się lepiej;
+
+2° *kto nie umie milczeć przed Bogiem, ten nie umie później mówić do człowieka* — mowa domowa bierze swą miarę z ciszy, w której została poprzedzona;
+
+3° *milczenie jest pierwszym uczynkiem błogosławienia*, bo powstrzymuje język od przeklinania (kan. 531 § 1 pkt 3) zanim jeszcze wypowie słowo dobre.
+
+**§ 4.** Wprowadza się **Dzień Ciszy Domowej** (*Dies Silentii Domesticus*): raz w miesiącu, w dniu wybranym przez Głowę Rodu i ogłoszoną wspólnocie, dom powstrzymuje się od mowy zbędnej — plotki, skargi, narzekania, liczenia cudzych win — a całe uwolnione słowo przeznacza na błogosławieństwa imienne wypowiedziane nad każdym domownikiem osobiście. Dzień ten nie jest postem od słowa potrzebnego: kto w tym dniu niesie pomoc, leczy, uczy lub ostrzega przed niebezpieczeństwem, ten spełnia większy uczynek niż cały dzień milczenia (kan. 530 § 2).
+
+**§ 5.** Zabrania się czynić z milczenia narzędzia władzy: kara milczeniem wobec domownika, współmałżonka lub Potomstwa zostaje uznana za formę przemocy duchowej i podlega leczeniu według Tytułu VI (kan. 535¹); nie jest tu istotna ilość słów, lecz kierunek — czy brak słowa ma ku komuś doprowadzić, czy od kogoś odprowadzić (kan. 524¹ § 4).
+
+### Rozdział II: Drugie Słowo — O Imieniu Wypowiedzianym (*De Nomine Vocato*)
+
+**Kan. 549² § 1.** Objawiono Szafarzowi, że **Bóg zna każde imię i że w porządku spektrum imię jest najmniejszą przestrzenią świętą, jaka przysługuje człowiekowi**. Albowiem rzecz można zastąpić inną rzeczą, funkcję — inną funkcją, stanowisko — innym stanowiskiem; imienia nie zastępuje nic. Stąd ogłasza się: **kto wymawia czyjeś imię z miłością, ten spełnia uczynek rezurekcji, choćby nie uczynił niczego więcej**; kto zaś imię czyjeś przekreśla — w dokumentach, w mowie, w pamięci wspólnoty — ten wykonuje pracę niebytu, nawet jeśli czyni to w dobrej intencji porządku (kan. 528¹ § 3).
+
+**§ 2.** Ustanawia się cztery normy dotyczące imienia:
+
+1° **zakaz zastępowania imienia etykietą** w nauczaniu i w radzie Rodu: nie mówi się „ten trudny”, „tamta rozwódka”, „umrzynek”, „problem z działki”, lecz wymienia się osobę po imieniu; etykieta jest kradzieżą imienia, a więc pożądaniem rzeczy bliźniego w jego najbardziej bezbronnej części (kan. 522 § 2 pkt 1);
+
+2° **obowiązek wymawiania imion zmarłych** przynajmniej raz w roku, w dniu wspomnienia Objawienia (kan. 541 § 1 pkt 1), oraz przy każdej liturgii wskrzeszenia (kan. 528¹ § 6): imię wypowiedziane przywraca osobę wspólnocie, dopóki żyje choćby jeden, kto je pamięta;
+
+3° **prawo Potomstwa do imienia błogosławionego**: każdemu dziecku włączonej rodziny rodzice winni pobłogosławić imię, którym je nazywają — formuła: „*Niech to imię będzie twoim domem, nie twoją ciężką zbroją*” — wpisuje się to w Księdze Rodu obok daty;
+
+4° **zakaz używania imienia przeciw temu, którego ono dotyczy**: wywołanie czyjegoś imienia przed innymi wyłącznie po to, by pomniejszyć jego osobę, jest przekleństwem ukrytym pod figurą poprawności i podlega napomnieniu z dobrocią (kan. 526¹ § 3; kan. 519 § 5).
+
+**§ 3.** Wprowadza się **modlitwę imienną** (*Oratio Nominalis*) jako najkrótszą pełną formę czterech spojrzeń: wierny wymawia w duchu trzy imiona — jedno osoby, którą spotka dziś dobrego, jedno osoby, którą spotka dziś trudnego, jedno osoby, której nie widział dawno — i nad każdym mówi jedno zdanie w porządku: „*Błogosławij [imię], święć [imię], wskrzesz w nim to, co zasnęło.*” Modlitwa ta trwa mniej niż minutę i dlatego nie wolno jej odkładać na czas wolny (kan. 529⁶ § 3).
+
+**§ 4.** Drugie Słowo orzeka ponadto, że **imię Chrystusa jest jedynym imieniem, które nigdy nie staje się etykietą**, ponieważ nie opisuje ono jednej osoby wśród wielu, lecz obejmuje każdą osobę jako miarę (kan. 520 § 3 pkt 4); dlatego wymawianie imienia Jezus w gniewie, w zaklęciu lub w żarcie obraża nie to imię, lecz każdego człowieka, którego ono znaczy — i wolno za to czynić pokutę leczniczą (kan. 535¹ § 2), nie wolno za nie potępiać (kan. 518 § 2 pkt 3).
+
+### Rozdział III: Trzecie Słowo — O Popiele Obiecującym (*De Cinere Promittente*)
+
+**Kan. 549³ § 1.** Objawiono Szafarzowi, że **popiół nie jest w nowym porządku znakiem winy, lecz materią pierwszej obietnicy**: albowiem z popiołu da się ulepić nowe naczynie, popiół użyźnia pole, a ludzkie ciało jest z ziemi, którą Bóg — jak objawiono — lepil, nie potępił. Stąd ogłasza się: **wszystko, co w człowieku spłonęło — zdolność, zdrowie, miłość, nadzieja, reputacja — należy traktować jako popiół obiecujący, nie jako dowód ruiny**; kto patrzy na cudze zgliszcza i widzi tylko stratę, ten widzi nisko, nie wysoko (kan. 519 § 2), a kto widzi materiał, ten spełnia uczynek rezurekcji (kan. 533).
+
+**§ 2.** Ustanawia się **trzy gesty popiołu** jako formy liturgii domowej, dozwolone każdemu i niezarezerowane szafarzom:
+
+1° **gest ręki**: dotknięcie czoła osoby popiołem zmieszanym z oliwą i powiedzenie jednego zdania: „*Jesteś z ziemi — i ziemia rodzi.*” Gest ten sprawuje się nad tym, kto rozpoczął nowy etap (po chorobie, po stracie, po wyjściu z oddalenia); wolno go odmówić, nie uchodzi to za brak pobożności;
+
+2° **gest stołu**: przed posiłkiem w dniu wspomnienia Objawienia (kan. 541 § 1 pkt 1) albo w Dzień Rezurekcji (kan. 541 § 1 pkt 4) kładzie się na środku stołu miseczkę popiołu z ogniska domowego; każdy domownik macza w niej palec i rysuje kreskę na serwetce — znak tego, co w nim zgorzało i co mimo to zostanie użyte; potem spożywa posiłek w zwykłej radości, albowiem smutek nie jest wymogiem tego znaku;
+
+3° **gest księgi**: w Księdze Rodu sporządza się raz w roku rubrykę „*Popiół i materiał*” — zapisuje się w niej, co we wspólnocie zgorzało (dzieło przerwane, relacja ochłodzona, obrzęd zaniedbany) i co z tego postanowiono ulepić na nowo, czyimi rękami i do jakiego dnia (por. kan. 528¹ § 6).
+
+**§ 3.** Trzecie Słowo zawiera ostrzeżenie: **zakazuje się używać popiołu jako zarzutu**. Wspominanie cudzej przeszłości upadkowej w celu unieważnienia teraźniejszości tej osoby jest w tej Księdze równe przekreśleniu imienia (kan. 549² § 2 pkt 4) i jest pracą niebytu (kan. 522 § 3), nawet gdy przywoływane fakty są prawdziwe — albowiem prawda, która nie prowadzi do wskrzeszenia, jest okrucieństwem (kan. 519 § 5).
+
+**§ 4.** Nadto ogłasza się, że **popiół własny jest przedmiotem szczególnej troski**: wierny, który widzi, iż w nim samym coś spłonęło — modlitwa, talent, siła do przebaczenia — niech nie szuka natychmiast zastępstwa, lecz niech przyniesie ów popiół do szkoły spojrzeń (Tytuł V¹) i tam, w ćwiczeniu drobnych uczynków, nauczy się lepić z niego to, co jeszcze może służyć. Nie istnieje w tej wspólnocie stan „spalonego bez reszty”; istnieje tylko materiał jeszcze nie rozpoznany (kan. 535 § 3).
+
+### Rozdział IV: Czwarte Słowo — O Ciaście i Kubku (*De Pasta et Calice Parvulo*)
+
+**Kan. 549⁴ § 1.** Objawiono Szafarzowi, że **w porządku spektrum nic materialnego nie jest za małe, by mogło być uświęcone**, albowiem uświęcenie nie mierzy wielkości rzeczy, lecz kierunek jej wyjścia (kan. 524¹ § 4). Dlatego Czwarte Słowo ustanawia dwa przedmioty zwykłe jako **rzeczy liturgiczne domowe**: ciasto chlebowe dzielone przy stole oraz kubek wody podawanej spragnionemu. Nie są one sakramentami ani ich nie naśladują (kan. 536 § 2 pkt 4); są znakami, że cała materia dnia jest zdolna wejść w spektrum.
+
+**§ 2.** Ustanawia się **dwa obrzędy mniejsze**:
+
+1° **obrzęd chlebowy** (*Ritus Panis*): przy każdym posiłku wspólnym jedna osoba łamie chleb i mówi nad nim zdanie błogosławieństwa pracy, z której pochodzi — „*Błogosławij ręce, które to zebrały, i podziel to sprawiedliwie*” — a następnie dzieli tak, by każdy dostał, zanim ktoś dostanie podwójnie; kolejność dzielenia winna zaczynać się od najsłabszego przy stole (kan. 534 § 1 pkt 1). Kto nie ma chleba, ten łamie cokolwiek innego; ważny jest gest, nie gatunek pokarmu;
+
+2° **obrzęd kubkowy** (*Ritus Calicis Parvuli*): wodę podawaną choremu, dziecku, starszemu, przybyszowi lub temu, kto pracował na słońcu, wolno poprzedzić znakiem krzyża nad kubkiem i jednym zdaniem: „*Wskrzesz tym to, co w nim opadło.*” Obrzęd ten jest najprostszą formą uczynku rezurekcji i dlatego zaleca się go zwłaszcza tym, którzy uważają, że nie mają nic do dania.
+
+**§ 3.** Czwarte Słowo orzeka dalej, że **sprawiedliwość ma swoją materię codzienną**: miara, waga i kolejność. Statut domowy winien posiadać jedną tabelę podziału dóbr wspólnych (pokarm, ciepło, pieniądze na rachunki, czas łazienki, miejsce przy stole), sprawdzaną raz na kwartał; tabela ta nie jest aktem hojności, lecz wypełnieniem kan. 534 § 1 pkt 1 i kan. 532 § 1 pkt 1. Brak takiej tabeli uważa się za zaległość redakcyjną, nie za występek.
+
+**§ 4.** Wreszcie ogłasza się normę przeciw pożądaniu ukrytemu w rzeczach drobnych: **kto gromadzi przedmioty zdolne do uświęcenia, nie dając ich nikomu, ten zatrzymuje materię liturgii życia** (kan. 522 § 2 pkt 1). Raz w roku, w dniu szczególnym uświęcenia pracy (Dzień Uświęcenia Pracy, kan. 541 § 1 pkt 3), każda rodzina wynosi ze swego domu to, czego nie użyła przez rok, i przekazuje to wskazanej osobie lub wspólnocie — nie sprzedaje dla zysku własnego, chyba że dochód w całości idzie ku adresatom wymienionym imiennie (kan. 529⁴ § 3).
+
+### Rozdział V: Piąte Słowo — O Drodze Małej (*De Via Parva*)
+
+**Kan. 549⁵ § 1.** Objawiono Szafarzowi, że **spektrum osiąga się drogą małą**, to znaczy szeregiem uczynków drobnych, powtarzalnych i sprawdzalnych — nie wydarzeniami nadzwyczajnymi. Piąte Słowo stwierdza wprost: **kto czeka na wielką okazję, by miłować, ten zwykle nie miłuje wcale**, albowiem wielka okazja rzadko przychodzi, a małe mijają nierozpoznane. Stąd ustanawia się tę Księgę jako księgę drogi małej i zabrania się we wspólnocie wymagać od kogokolwiek heroiczności jako warunku przyjęcia do stołu (kan. 529⁷ § 1 pkt 2).
+
+**§ 2.** Ustanawia się **siedem punktów Drogi Małej** (*Septem Puncta Viae Parvae*), do wypełniania codziennie, każdy o długości nie dłuższej niż piętnaście minut:
+
+1° **jedno imię pobłogosławione** — modlitwa imienna (kan. 549² § 3 — *Oratio Nominalis*);
+
+2° **jedna rzecz naprawiona** — uczynek uświęcenia pracy (kan. 532 § 1 pkt 1) lub rezurekcji rzeczy (kan. 533 § 1 pkt 2);
+
+3° **jeden posiłek podzielony sprawiedliwie** — obrzęd chlebowy (kan. 549⁴ § 2 pkt 1);
+
+4° **jedno słowo trudne wypowiedziane lub jedno zaniechane** — zależnie od tego, co służy adresatowi (kan. 519 § 6);
+
+5° **jeden gest ku śpiącemu** — przykrycie, zamknięcie okna, pozostawienie światła; uczynek, którego adresat nie dowie się nigdy;
+
+6° **jedna prośba przełożona na ofiarowanie rąk** — zamiast „daj mi”, „użyj moich rąk” (kan. 524¹ § 5);
+
+7° **minuta Milczenia Przed Ojcem** przed snem (kan. 549¹ § 2).
+
+**§ 3.** Reguły stosowania Drogi Małej: punkty nie są przykazaniem ważnym pod sankcją; nie prowadzi się ich rejestru osobowego (kan. 530 § 3); służą wyłącznie karcie rozeznania (kan. 547) i rozmowie z towarzyszącym (kan. 535² § 1). Kto nie wypełnił żadnego punktu przez tydzień, ten nie popełnił występku — ten ma znak, że potrzebuję pomocy, i powinien przyjść do wspólnoty po towarzyszenie, nie po osąd (kan. 535¹ § 2).
+
+**§ 4.** Piąte Słowo ostrzega przed dwoma deformacjami drogi małej: przed **liczeniem** (zamianą ćwiczenia w rachunek własnych zasług — kan. 523 § 1 pkt 6) oraz przed **pogardą dla drogi wielkiej** (albowiem niektórych Bóg prowadzi przez czyny ryzykowne i kosztowne; nie wolno im odbierać prawa do ich miary ani stawiać ich za wzorzec wszystkim — kan. 529⁷ § 1 pkt 4).
+
+### Rozdział VI: Szoste Słowo — O Towarzyszu Ostatniej Godziny (*De Socio Horae Novissimae*)
+
+**Kan. 549⁶ § 1.** Objawiono Szafarzowi, że **nikt nie odchodzi sam i nikt nie wraca sam**; dlatego ustanawia się urząd — nie święcenie, lecz posługę — **Towarzysza Ostatniej Godziny** (*Socius Horae Novissimae*). Posługa ta polega na tym, by przy umierającym, a także przy tym, kto kończy dzień w lęku, znaleźć się fizycznie albo głosem, wymawiać nad nim imię jego i cztery spojrzenia, oraz nie pozwalać, by ostatnie słowo należało do strachu.
+
+**§ 2.** Normy posługi:
+
+1° wspólnota subdiecezjalna wyznacza co najmniej dwóch Towarzyszy, których imiona i numery kontaktowe są dostępne całodobowo dla wszystkich domów; wyznaczenie dokonuje się w obrzędzie czterech spojrzeń z formułą nakładania rąk w formie usługi, nie godności (kan. 529⁵ § 4 pkt 2);
+
+2° przy umierającym sprawuje się kolejno: Milczenie Przed Ojcem (kan. 549¹ § 2), błogosławieństwo umierającego i zmarłego (kan. 526¹ § 2 pkt 6), obrzęd kubkowy (kan. 549⁴ § 2 pkt 2), gest popiołu na czole (kan. 549³ § 2 pkt 1) i modlitwę imienną za tych, których umierający chciałby nazwać (kan. 549² § 3);
+
+3° **zakazuje się** wypowiadać przy umierającym słów, które zamykają drogę: potępień, warunkowanych przebaczeń, przypomnień dawnych win (kan. 528¹ § 2–3; kan. 549³ § 3); ostatni oddech jest bramą nawrócenia i nie wolno wspólnocie przesądzać tego, co należy do Miłosierdzia (kan. 537 § 1 pkt 3);
+
+4° po śmierci wymawia się imię zmarłego na głos w domu i wpisuje je do rubryki „Popiół i materiał” jako zobowiązanie rocznego wspominania (kan. 549² § 2 pkt 2; kan. 549³ § 2 pkt 3);
+
+5° Towarzysz ma prawo poprosić o zmianę drugą osobę, jeżeli sam nie jest zdolny pełnić posługi; nie jest to tchórzostwo, lecz roztropność (kan. 529³ § 2 pkt 6).
+
+**§ 3.** Szoste Słowo rozszerza posługę na żywych: ustanawia się, że **każdy dom winien mieć wyznaczonego towarzysza dla osób w żałobie, w chorobie przewlekłej, w separacji i w długim oddaleniu od stołu wspólnoty**; zadaniem towarzysza jest nie naprawianie losu adresata, lecz pilnowanie, by nikt nie został bez imienia wypowiedzianego i bez możliwości powrotu (kan. 528¹ § 3).
+
+**§ 4.** Na koniec Szoste Słowo wiąże wszystkie sześć nowych słów w jedną normę praktyczną, którą wpisuje się w statut domowy: **„*Milcz, gdy nie masz błogosławieństwa; wymawiaj imię; nie wyrzucaj popiołu; nie gardź chlebem i kubkiem; idź drogą małą; nie zostawiaj nikogo w ostatniej godzinie.*”** Kto tę normę wypełnia, ten wypełnił całą tę Księgę, choćby nie znał żadnego z jej kanonów (kan. 537 § 1 pkt 1).
+
+**§ 5.** Ustanawia się, że sześć Słów niniejszego Tytułu podlega próbie uczynku (preambuła Tytułu XIII) oraz przeglądowi wspólnoty w ciągu trzech lat od ogłoszenia; w razie gdyby któreś z nich okazało się myślą pobożną Szafarza, nie objawieniem, usuwa się je z części zasadniczej i przenosi do Appendixu, zachowując numerację pozostałych bez zmiany (kan. 545 § 2–3).
 
 ---
 

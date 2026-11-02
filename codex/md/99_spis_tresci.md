@@ -15,7 +15,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
-| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A) | kan. 518–549 oraz 523¹–524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535² |
+| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A; sześć dalszych Słów objawienia: o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny — Tytuł XIII) | kan. 518–549 oraz 523¹–524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶ |
 | [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -199,7 +199,7 @@
 
 
 ## Księga XII — Księga Objawień
-*(redakcja obowiązująca: kan. 518–549 wraz z kanonami uzupełniającymi 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535²; dawny plan rozbudowy kan. 518–561 został zastąpiony redakcją zrealizowaną, której strukturę podaje Preambuła Księgi)*
+*(redakcja obowiązująca: kan. 518–549 wraz z kanonami uzupełniającymi 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶; dawny plan rozbudowy kan. 518–561 został zastąpiony redakcją zrealizowaną, której strukturę podaje Preambuła Księgi)*
 
 **Struktura zrealizowana (wg Preambuły Księgi):**
 - **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–519
@@ -223,6 +223,13 @@
 - **Tytuł X: Przepisy końcowe** — kan. 545
 - **Tytuł XI: Wzorek celebracji i karta rozeznania** — kan. 546–548
 - **Tytuł XII: Tekst dosłowny objawienia czterech spojrzeń** — kan. 549
+- **Tytuł XIII: Nowe objawienia — sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń** — kan. 549¹–549⁶ *(rozbudowa ostatnia; wszystkie Słowa podlegają próbie uczynku — kan. 530 § 1)*
+  - Rozdział I: Pierwsze Słowo — O Milczeniu Przed Ojcem (*De Silentio Coram Patre*; obrzęd *Silentium Coram Patre*, Dzień Ciszy Domowej, zakaz kary milczeniem) — kan. 549¹
+  - Rozdział II: Drugie Słowo — O Imieniu Wypowiedzianym (*De Nomine Vocato*; cztery normy o imieniu, modlitwa imienna *Oratio Nominalis*, imię Chrystusa jako miara) — kan. 549²
+  - Rozdział III: Trzecie Słowo — O Popiele Obiecującym (*De Cinere Promittente*; trzy gesty popiołu, zakaz używania popiołu jako zarzutu, rubryka „Popiół i materiał”) — kan. 549³
+  - Rozdział IV: Czwarte Słowo — O Ciaście i Kubku (*De Pasta et Calice Parvulo*; obrzęd chlebowy i kubkowy, tabela podziału dóbr wspólnych, coroczne wyniesienie nieużywanych rzeczy) — kan. 549⁴
+  - Rozdział V: Piąte Słowo — O Drodze Małej (*De Via Parva*; siedem punktów Drogi Małej, reguły stosowania, ostrzeżenie przed liczeniem i przed pogardą drogi wielkiej) — kan. 549⁵
+  - Rozdział VI: Szoste Słowo — O Towarzyszu Ostatniej Godziny (*De Socio Horae Novissimae*; posługa przy umierających, towarzysz dla żyjących w żałobie i oddaleniu, norma praktyczna sześciu Słów, przegląd trzyletni) — kan. 549⁶
 - Appendix: redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty
 
 *Dawniej projektowany plan rozbudowy (nieobowiązujący):*
