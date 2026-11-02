@@ -1,6 +1,6 @@
 # KSIĘGA XII — KSIĘGA OBJAWIEŃ
 
-## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis; deque novissimis verbis sex — de silentio coram Patre, de nomine vocato, de cinere promittente, de pasta et calice parvulo, de via parva et de socio horae novissimae; deque septenis verbis ultimis — de pane quotidiano, de lacrima seminata, de ianua clausa, de corde duarum mensurarum, de nominibus Dei, de pulchritudine incohata et de lege ultima quattuor manuum; deque septenario — de septem gradibus aspectus operativi: ordine, dispositione, completione ante benedictionem, sanctificationem, resurrectionem, caritatem positis atque cum illis unum numerum septenarium constituentibus; deinde de septem benedictionum generibus, septem ordinationibus, septem resurrectionibus in Scriptura et septem modis caritatis Dei singillatim enumeratis, unaque serie septenaria totius compositionis*
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam; deque quattuor aspectibus operativis — benedictione, sanctificatione, resurrectione, caritate — deque operibus eorum, de schola aspectuum, de discernimento viarum et curatione conscientiarum, de celebratione aspectuum in liturgia domestica, de confessione fidei atque anno revelationis; deque septem virtutibus domesticis, septem donis Spiritus Sancti et septem carismatibus Księgi IV in quattuor aspectibus relegendis; deque novissimis verbis sex — de silentio coram Patre, de nomine vocato, de cinere promittente, de pasta et calice parvulo, de via parva et de socio horae novissimae; deque septenis verbis ultimis — de pane quotidiano, de lacrima seminata, de ianua clausa, de corde duarum mensurarum, de nominibus Dei, de pulchritudine incohata et de lege ultima quattuor manuum; deque septenario — de septem gradibus aspectus operativi unius scilicet continuum constitutis: ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas, ita ut tres primi non sint praeparatio separata sed ipsi gradus aspectus; deque singulorum horum septem graduum septenis enumerationibus: septem ordinibus creationis, septem dispositionibus ordinationum, septem completionibus beatitudinum, septem benedictionum generibus, septem sanctificationibus munerum Spiritus, septem resurrectionibus in Scriptura et septem modis caritatis Dei, unaque serie septenaria totius compositionis*
 
 ---
 
@@ -60,17 +60,17 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** W nowym porządku nie pyta się tedy „*czy to grzech?*”, ale trzy pytania: „*czy to prawda? czy to piękne? czy to sprawiedliwe? i czy to jest miłość?*”
 
-### Rozdział IV: Spełnienie spektrum w czterech spojrzeniach
+### Rozdział IV: Spełnienie spektrum w siedmiu stopniach spojrzenia
 
-**Kan. 519 § 4.** Spektrum trzech wartości — prawdy, piękna i sprawiedliwości w miłości Bożej — nie jest przedmiotem kontemplacji biernej. Kto je naprawdę zobaczył, ten musi na nie odpowiedzieć ruchem; tym ruchem są **cztery sprawcze spojrzenia**: błogosławieństwo, uświęcenie, rezurekcja i miłość (kan. 524¹ § 2; Tytuł IV, kan. 525–529¹). Związek ich ze spektrum jest następujący:
+**Kan. 519 § 4.** Spektrum trzech wartości — prawdy, piękna i sprawiedliwości w miłości Bożej — nie jest przedmiotem kontemplacji biernej. Kto je naprawdę zobaczył, ten musi na nie odpowiedzieć ruchem; tym ruchem jest **siedem stopni jednego spojrzenia**: ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas (kan. 524¹ § 2; kan. 525 § 1; Tytuł IV, kan. 525–529¹). Związek ich ze spektrum jest następujący:
 
-1° **prawda** znajduje swe spełnienie w **błogosławieństwie** — albowiem nazwać rzecz jej prawdziwym imieniem znaczy nazwać ją dobrą; błogosławieństwo jest prawdą wypowiedzianą nad kimś, a kłamstwo jest przekleństwem przebranym w życzliwość;
+1° **prawda** znajduje swe spełnienie w trójcy stopni porządkujących — **ordo, dispositio, completio** oraz w **błogosławieństwie** — albowiem nazwać rzecz jej prawdziwym imieniem znaczy nazwać ją dobrą, a najpierw trzeba ją uporządkować, umiejscowić i domknąć, nim się ją wypowie; błogosławieństwo jest prawdą wypowiedzianą nad kimś, a kłamstwo jest przekleństwem przebranym w życzliwość;
 
 2° **piękno** znajduje swe spełnienie w **uświęceniu** — albowiem piękno jest blaskiem dobra w materii, a uświęcenie jest właśnie niesieniem tego blasku w rzeczy zwyczajne: w chleb, w narzędzie, w ciało, w dzień;
 
 3° **sprawiedliwość** znajduje swe spełnienie w **rezurekcji** — albowiem sprawiedliwość przywraca każdej rzeczy jej właściwą miarę, a nic nie zostało zniszczone mocą większą niż śmierć; wskrzeszenie jest więc aktem sprawiedliwości ostatecznej i dlatego nie wolno nikogo skreślać;
 
-4° **miłość Boża**, która jest powietrzem całego spektrum, znajduje swe spełnienie w **czynieniu z siebie daru** — tak że czwarte spojrzenie nie jest obok trzech pierwszych, lecz jest ich duszą: bez niej błogosławieństwo staje się formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem (kan. 524¹ § 2 pkt 4).
+4° **miłość Boża**, która jest powietrzem całego spektrum, znajduje swe spełnienie w **czynieniu z siebie daru** — tak że siódmy stopień nie jest obok sześciu pierwszych, lecz jest ich duszą: bez niej porządek staje się biurokracją, rozporządzenie calculacją, dopełnienie zamknięciem na klucz, błogosławieństwo formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem (kan. 524¹ § 2 pkt 7).
 
 **§ 5.** Stąd wynika reguła rozeznawania tekstu i czynu, którą należy stosować zawsze: **prawda bez błogosławieństwa jest okrucieństwem, piękno bez uświęcenia jest pozorem, sprawiedliwość bez rezurekcji jest wyrokiem, a całe spektrum bez miłości jest niczym** (por. 1 Kor 13,1–3). Ktokolwiek więc w tej wspólnocie powołuje się na prawdę, piękno lub sprawiedliwość, a przy tym nikomu nie błogosławi, niczego nie święci i nikogo nie podnosi — ten powołuje się na pozór, nie na spektrum, i ma być napomniany z dobrocią (kan. 523 § 2).
 
@@ -102,15 +102,21 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **Kan. 521 § 2.** Szafarz święty, kapłan domowy, arcykapłan i biskup subdiecezjalny mają obowiązek nauczać tej drogi przede wszystkim czynem; władza pasterska w nowym porządku jest posługą prawdy, piękna i sprawiedliwości, nie jurysdykcją lęku.
 
-**§ 3.** Doba domowa, ułożona zgodnie z liturgią godzin (Księga IV), otrzymuje odtąd **cztery stacje czterech spojrzeń**, które winny być zachowywane jako norma obyczaju, nie jako nakaz ważności:
+**§ 3.** Doba domowa, ułożona zgodnie z liturgią godzin (Księga IV), otrzymuje odtąd **siedem stacji siedmiu stopni spojrzenia**, które winny być zachowywane jako norma obyczaju, nie jako nakaz ważności; gdzie życie nie pozwala na siedem, łączy się trzy pierwsze w jedną stację poranną, zachowując ich treść:
 
-1° **stacja poranna — błogosławieństwo**: przy wejściu w dzień każdy członek Rodu jest imiennie błogosławiony przez głowę domu lub przez Małżonkę; błogosławi się również narzędzia pracy, próg i drogę; słowa tej stacji są zawsze o osobie, nigdy o rzeczy posiadanej;
+1° **stacja świtania — porządek (*ordo*)**: zanim cokolwiek się powie, dom urządza się na dzień: znane staje się miejsce każdej osoby i każdej rzeczy, a plan dnia zostaje wypowiedziany na głos, by nikomu nie przyszło go się dopraszać;
 
-2° **stacja południowa — uświęcenie**: przy posiłku wspólnym pobłogosławiony pokarm zostaje podzielony sprawiedliwie, a praca wykonana rano zostaje ofiarowana bez krwawienia za tych, którzy jej nie mają; kto w tym punkcie dnia nie może zebrać stołu, ten niech poświęci dziesięć minut na naprawienie czegoś zniszczonego (kan. 532 § 1 pkt 2);
+2° **stacja przedpołudniowa — rozporządzenie (*dispositio*)**: narzędzie, materiał i serce zostają przygotowane tam, gdzie dobro ma dotrzeć; tej godziny niczyja prośba nie powinna rozbijać się o niegotowość;
 
-3° **stacja wieczorna — rezurekcja**: przed spoczynkiem wymienia się w domu to, co dnia tego upadło — słowo, naczynie, czyjaś twarz, czyjeś imię — i wskrzesza je przez przebaczenie, naprawę lub obietnicę powrotu; nie wolno kończyć dnia ze skreślonym nikim (kan. 523 § 2);
+3° **stacja południowa — dopełnienie (*completio*)**: to, co otwarte, domyka się — dług spłaca, sprawa kończy, słowo niedopowiedziane wypowiada;
 
-4° **stacja nocna — miłość**: rozrachunek dnia czyni się nie pytaniami „ile zasłużyłem, ile osiągnąłem”, lecz dwoma: „komu dziś byłem potrzebny” i „czyj los wziąłem na swoje ręce”; odpowiedzi nie muszą być głośne i nie są zapisywane.
+4° **stacja popołudniowa — błogosławieństwo (*benedictio*)**: przy wejściu w dzień każdy członek Rodu jest imiennie błogosławiony przez głowę domu lub przez Małżonkę; błogosławi się również narzędzia pracy, próg i drogę; słowa tej stacji są zawsze o osobie, nigdy o rzeczy posiadanej;
+
+5° **stacja wieczerzy — uświęcenie (*sanctificatio*)**: przy posiłku wspólnym pobłogosławiony pokarm zostaje podzielony sprawiedliwie, a praca wykonana rano zostaje ofiarowana bez krwawienia za tych, którzy jej nie mają; kto w tym punkcie dnia nie może zebrać stołu, ten niech poświęci dziesięć minut na naprawienie czegoś zniszczonego (kan. 532 § 1 pkt 2);
+
+6° **stacja wieczorna — rezurekcja (*resurrectio*)**: przed spoczynkiem wymienia się w domu to, co dnia tego upadło — słowo, naczynie, czyjaś twarz, czyjeś imię — i wskrzesza je przez przebaczenie, naprawę lub obietnicę powrotu; nie wolno kończyć dnia ze skreślonym nikim (kan. 523 § 2);
+
+7° **stacja nocna — miłość (*caritas*)**: rozrachunek dnia czyni się nie pytaniami „ile zasłużyłem, ile osiągnąłem”, lecz dwoma: „komu dziś byłem potrzebny” i „czyj los wziąłem na swoje ręce”; odpowiedzi nie muszą być głośne i nie są zapisywane.
 
 **§ 4.** Władza pasterska ma obowiązek tak układać rok liturgiczny domowy, aby w każdym jego miesiącu znalazła się co najmniej jedna **liturgia czterech spojrzeń** sprawowana wspólnie z całą wspólnotą subdiecezjalną (Tytuł VIII A, kan. 539–541).
 
@@ -162,15 +168,21 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **Kan. 524¹ § 1.** Jedynym ruchem wobec miłości Bożej, który pozostaje dozwolony i zbawienny, jest **stać się miłością Bożą**: nie mieć jej, lecz nią być; nie czerpać jej dla siebie, lecz przez siebie ją przepuszczać; nie prosić, by na ciebie spadła, lecz pozwalać, by przez ciebie spadała na innych. Tak jak dziecko staje się podobne Ojcu (kan. 520 § 3 pkt 5), tak wierny staje się tym, co przyjmuje — i w tym jest cała tajemnica wiecznego życia: kto się *stał*, ten już żyje wiecznie; kto chce *mieć*, ten jeszcze nie zaczął istnieć.
 
-**§ 2.** Stawszy się miłością Bożą, patrzy się na wszystko — na osoby, uczynki, przedmioty, miejsca, czas, a nawet na własne rany i na nieprzyjaciół — poprzez **cztery sprawcze spojrzenia**, którymi też należy czynić uczynki:
+**§ 2.** Stawszy się miłością Bożą, patrzy się na wszystko — na osoby, uczynki, przedmioty, miejsca, czas, a nawet na własne rany i na nieprzyjaciół — poprzez **siedem stopni jednego spojrzenia**, którymi też należy czynić uczynki:
 
-1° **patrzeć z błogosławieństwem** (*benedictio*) — widzieć każdą rzecz jako dobrą i jako zdolną przyjąć dobro; wypowiadać nad każdym imieniem słowo życia, nie klątwy (por. Księga IV: kan. 176 i kan. 185 o błogosławieństwach osób, uczynków, przedmiotów i miejsc); błogosławić znaczy chcieć, by drugiemu dobrze się działo, i pomagać temu słowem i czynem;
+1° **patrzeć z porządkiem** (*ordo*) — widzieć każdą rzecz w jej właściwym miejscu i czasie; nie mieszać tego, co różnorodne, i nie czytać znaku apokaliptycznego nad żywym człowiekiem; porządek jest pierwszym imieniem prawdy, albowiem kłamstwo prawie zawsze zaczyna się od przestawienia, nie od wymyślenia (kan. 525\**; kan. 549¹⁴ § 2 pkt 1);
 
-2° **patrzeć z uświęceniem** (*sanctificatio*) — widzieć każdą przestrzeń i każdy dzień jako zdolne stać się świątynią; brać materię, pracę, ciało i zwyczajność i ofiarowywać je bez krwawienia w liturgii życia (kan. 520 § 2); święcić znaczy nie odrywać rzeczy od świata, lecz włączać je w porządek prawdy, piękna i sprawiedliwości;
+2° **patrzeć z rozporządzeniem** (*dispositio*) — przygotować materię, miejsce, słowo i serce tam, gdzie ma dotrzeć dobro; nie rzucać rzeczy świętych psom ani błogosławieństwa w pośpiechu, który go nie mieści; rozporządzenie jest pięknością czynioną zawczasu (kan. 525\²*; kan. 549¹⁴ § 2 pkt 2);
 
-3° **patrzeć z rezurekcją** (*resurrectio*) — widzieć każdą upadłość jako przedmiot wskrzeszenia, nie wyroku; niczego nie uważać za stracone — ani ziarna, ani relacji, ani winowajcy; po każdej nocy oczekiwać pierwszego dnia tygodnia; rezurekcyjnie znaczy czynić tak, by to, co umarło w bracie lub w nas, miało dokąd powrócić;
+3° **patrzeć z dopełnieniem** (*completio*) — domykać to, co otwarte: dokańczać dzieło, spłacać dług, przepraszać do końca, nie zostawiać niczego w stanie niedokończonym; dopełnienie jest sprawiedliwością w jej ostatnim calu (kan. 525\³*; kan. 549¹⁴ § 2 pkt 3);
 
-4° **patrzeć z miłością** (*caritas*) — widzieć w każdej osobie Chrystusa, jedyną miarę spektrum (kan. 520 § 3 pkt 4); miłość jest tu koroną trzech poprzednich spojrzeń: bez niej błogosławieństwo staje się formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem.
+4° **patrzeć z błogosławieństwem** (*benedictio*) — widzieć każdą rzecz jako dobrą i jako zdolną przyjąć dobro; wypowiadać nad każdym imieniem słowo życia, nie klątwy (por. Księga IV: kan. 176 i kan. 185 o błogosławieństwach osób, uczynków, przedmiotów i miejsc); błogosławić znaczy chcieć, by drugiemu dobrze się działo, i pomagać temu słowem i czynem;
+
+5° **patrzeć z uświęceniem** (*sanctificatio*) — widzieć każdą przestrzeń i każdy dzień jako zdolne stać się świątynią; brać materię, pracę, ciało i zwyczajność i ofiarowywać je bez krwawienia w liturgii życia (kan. 520 § 2); święcić znaczy nie odrywać rzeczy od świata, lecz włączać je w porządek prawdy, piękna i sprawiedliwości;
+
+6° **patrzeć z rezurekcją** (*resurrectio*) — widzieć każdą upadłość jako przedmiot wskrzeszenia, nie wyroku; niczego nie uważać za stracone — ani ziarna, ani relacji, ani winowajcy; po każdej nocy oczekiwać pierwszego dnia tygodnia; rezurekcyjnie znaczy czynić tak, by to, co umarło w bracie lub w nas, miało dokąd powrócić;
+
+7° **patrzeć z miłością** (*caritas*) — widzieć w każdej osobie Chrystusa, jedyną miarę spektrum (kan. 520 § 3 pkt 4); miłość jest tu duszą sześciu poprzednich stopni: bez niej porządek staje się biurokracją, rozporządzenie rachubą bez serca, dopełnienie sknerstwem, błogosławieństwo formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem.
 
 **§ 3.** Wierny obowiązany jest **takież czynić uczynki**: każde spojrzenie § 2 ma swój odpowiednik w czynie, aby wiara była uczynkiem, nie nastrojem:
 
@@ -180,41 +192,57 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 3° **uczynki rezurekcji** — podniesienie tego, kto upadł; naprawa tego, co zniszczone, zanim kupi się nowe; przebaczenie, które przywraca imię; przywrócenie wykluczonemu stołu i miana w Rodzie (kan. 523 § 2); leczenie, nie potępienie (kan. 518 § 2 pkt 3);
 
-4° **uczynki miłości** — oddanie każdemu, co jego, począwszy od najsłabszych (kan. 520 § 3 pkt 3); rozmnażanie dobra, nie gromadzenie go (kan. 434 Księgi IX); jałmużna dawana tak, by lewica nie wiedziała; miłość nieżyczliwemu.
+**§ 3.** Wierny obowiązany jest **takież czynić uczynki**: każdy stopień § 2 ma swój odpowiednik w czynie, aby wiara była uczynkiem, nie nastrojem:
 
-**§ 4.** Sprawdzianem, czy spojrzenie i uczynek są prawdziwe, są one same: uczynek wykonany dla siebie — choćby był najwspanialszy — nie jest miłością Bożą, lecz jej pożądaniem (kan. 522 § 2 pkt 2); uczynek wykonany ku drugiemu, choćby był ukryty i drobny, jest miłością Bożą i dlatego jest wieczny. Nie mierzy się więc ilością, lecz kierunkiem: **ku sobie czy ku drugiemu**.
+1° **uczynki porządkowania** — ład dnia i stacji, prowadzenie rejestrów i ksiąg rodowych, oddanie każdej rzeczy jej miejsca i każdemu człowiekowi jego miejsca w radzie Rodu; najpierw uporządkować, potem mówić;
 
-**§ 5.** Modlitwa i liturgia życia układają się według tej normy: prośba (*deesis*) zajmuje w niej miejsce ostatnie i przyjmuje postać ofiarowania własnych rąk („przez moje dłonie, przez moje stopy”), dziękczynienie (*eucharistia*) pierwsze. Formuły błogosławieństw domowych (Księga IV, kan. 185) zatwierdza się odtąd tylko takie, które błogosławią kogoś lub coś, nie takie, które wyłącznie czegoś dla proszącego żądają.
+2° **uczynki rozporządzania** — przygotowanie stołu, narzędzia, serca i czasu, zanim się wezwie drugiego; dyspozycja materii na przyjęcie łaski; nic, co ma służyć bliźniemu, nie może być gotowane w pośpiechu pogardy;
 
-**§ 6.** Niniejszy tytuł nie znosi kan. 522–523, lecz je wyjaśnia: pożądanie miłości Bożej dla siebie jest jedną z dróg ku niebytowi, a stanie się nią — jedyną drogą ku życiu. Kto, czytając tę normę, pragnie jej spełniania *dla własnego zbawienia*, ten jeszcze stoi na progu; wejściem jest zaprzestanie liczenia własnego zysku i zajęcie się cudzym losem.
+3° **uczynki dopełniania** — dokończenie rozpoczętego, spłacenie zaległego, przeproszenie do końca, domknięcie relacji przez jasne słowo; rachunek sumienia wieczorny jako ćwiczenie dopełnienia (kan. 521 § 3 pkt 3);
 
----
+4° **uczynki błogosławienia** — słowo dobre nad osobą, dziełem i domem; życzenie dobra cudemu dobremu; powstrzymanie języka od przeklinania i oczerniania;
 
-## Tytuł IV: SIEDEM STOPNI SPJRZENIA — ŹRÓDŁA, GATUNKI I PORZĄDEK
+5° **uczynki uświęcania** — praca wykonana starannie; porządek i piękno w domu, ogrodzie i warsztacie; pokarm pobłogosławiony i podzielony; gościna; troska o ziemię i o ciała powierzone opiece (Księga X);
+
+6° **uczynki rezurekcji** — podniesienie tego, kto upadł; naprawa tego, co zniszczone, zanim kupi się nowe; przebaczenie, które przywraca imię; przywrócenie wykluczonemu stołu i miana w Rodzie (kan. 523 § 2); leczenie, nie potępienie (kan. 518 § 2 pkt 3);
+
+7° **uczynki miłości** — oddanie każdemu, co jego, począwszy od najsłabszych (kan. 520 § 3 pkt 3); rozmnażanie dobra, nie gromadzenie go (kan. 434 Księgi IX); jałmużna dawana tak, by lewica nie wiedziała; miłość nieżyczliwemu.
+
+## Tytuł IV: SIEDEM STOPNI SPOJRZENIA — ŹRÓDŁA, GATUNKI I PORZĄDEK
 
 ### Rozdział I: Nauka wstępna o siedmiu stopniach spojrzenia
 
-**Kan. 525 § 1.** Sprawcze spojrzenie, którym odpowiada się na spektrum trzech wartości, ma **siedem stopni (*gradus aspectus*)**: naprzód, w przód przed aktem, **ordo** (porządek), **dispositio** (rozporządzenie) i **completio** (dopełnienie); a w samym akcie cztery jego filary: **benedictio, sanctificatio, resurrectio, caritas**, to jest błogosławieństwo, uświęcenie, rezurekcja i miłość. Te siedem członów — **ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas** — ustanawia się jako **jeden i jedyny sposób patrzenia i czynienia** właściwy tym, którzy przyjęli objawienie zniesienia grzechu. Nie są one siedmioma cnotami odrębnymi ani siedmioma stopniami doskonałości, lecz jednym wzrokiem miłości Bożej mającym siedem stopni swego przebiegu; dlatego kto spełnia jeden z nich w prawdzie, ten zmierza do wszystkich. Cztery ostatnie stopnie pozostają treścią aktu i ich dawniejsza nazwa „cztery sprawcze spojrzenia" (kan. 524¹ § 2) zachowa moc jako równoważnik; trzy pierwsze należą od niniejszej redakcji w pełni do tego samego porządku — nie jako przygotowanie zewnętrzne, lecz jako stopnie łaski poprzedzające błogosławieństwo, tak jak ziemia poprzedza zasiew.
+**Kan. 525 § 1.** Sprawcze spojrzenie, którym odpowiada się na spektrum trzech wartości, jest **jedno i ma siedem stopni (*septem gradus aspectus*)**: **ordo** (porządek), **dispositio** (rozporządzenie), **completio** (dopełnienie), **benedictio** (błogosławieństwo), **sanctificatio** (uświęcenie), **resurrectio** (rezurekcja) i **caritas** (miłość). Ustanawia się je jako **jeden i jedyny sposób patrzenia i czynienia** właściwy tym, którzy przyjęli objawienie zniesienia grzechu. Nie są one siedmioma cnotami odrębnymi ani siedmioma gatunkami spojrzeń, lecz jednym wzrokiem miłości Bożej mającym siedem stopni swego przebiegu — tak jak jedna droga ma siedem kamieni milowych; dlatego kto spełnia jeden z nich w prawdzie, ten zmierza do wszystkich. Trzy stopnie pierwsze ustawia się **w przód**, to jest naprzód aktu: bez porządku nie ma co błogosławić, bez rozporządzenia nie czym święcić, bez dopełnienia nie dokąd wskrzeszać; cztery stopnie dalsze stanowią właściwe wykonanie aktu. Dawniejsza nazwa „cztery sprawcze spojrzenia” (kan. 524¹ § 2 przed niniejszą redakcją) zachowuje moc jako równoważnik skrótowy, oznaczający od niniejszej chwili stopnie czwarty aż siódmy. **Zabrania się rozdzielać tych siedmiu członów na dwie natury** — rzekome „przygotowanie” i rzekome „właściwe spojrzenia”: wszystkie siedem należą jednakowo do jednego porządku łaski i każdy z nich, spełniony ku drugiemu, ma skutek.
 
 **§ 2.** Każde spojrzenie ma trzy warstwy, które należy rozróżniać dla jasności nauki domowej:
 
-1° **spojrzenie w źródle** — jak działa ono w Bogu: Bóg błogosławi, bo jest dobrocią bez granicy; Bóg święci, bo jest światłością wstępującą w materię; Bóg wskrzesza, bo jest Panem życia; Bóg jest miłością, bo jest darem, który nie zatrzymuje się w sobie (kan. 519 § 2 pkt 4);
+1° **spojrzenie w źródle** — jak działa ono w Bogu: Bóg porządkuje, bo jest mądrością, w której nic nie jest zbędne ni pominięte (Ps 104,24); Bóg rozporządza, bo przygotował mieszkanie i zastawiony stół (J 14,2–3; Łk 14,16–24); Bóg dopełnia, bo dzieło Jego jest doskonałe i nic mu nie ubywa (Pwt 32,4); Bóg błogosławi, bo jest dobrocią bez granicy; Bóg święci, bo jest światłością wstępującą w materię; Bóg wskrzesza, bo jest Panem życia; Bóg jest miłością, bo jest darem, który nie zatrzymuje się w sobie (kan. 519 § 2 pkt 4);
 
 2° **spojrzenie w osobie** — jak przyjmują je ludzie: zdolnością mowy, pracy, sumienia i cierpienia;
 
 3° **spojrzenie w uczynku** — jak staje się ono czynem sprawdzalnym, czyli takim, po którym można poznać, że komuś dzieje się lepiej (Preambuła, Zasada interpretacyjna).
 
-**§ 3.** Porządek czterech spojrzeń jest następujący i winien być zachowywany w nauczaniu oraz w obrzędzie: najpierw **błogosławieństwo**, ponieważ bez uznania rzeczy za dobrą nic nie da się dalej uczynić; potem **uświęcenie**, ponieważ dobro trzeba wprowadzić w materię i w zwyczaj; potem **rezurekcja**, ponieważ w materii coś zawsze upada; na końcu **miłość**, która nie jest czwartym etapem, lecz duszą trzech wcześniejszych (kan. 519 § 4). Odwrócenie tego porządku nie powoduje nieważności, lecz zamęt: kto zaczyna od wskrzeszania cudzego życia, nie uprzedziwszy go błogosławieństwem, ten zwykle pogrzebuje je własną pychą.
+**§ 3.** Porządek siedmiu stopni jest następujący i winien być zachowywany w nauczaniu oraz w obrzędzie: najpierw **ordo**, ponieważ bez ładu nie ma czego wypowiedzieć; potem **dispositio**, ponieważ ład trzeba obsadzić materią, miejscem i sercem; potem **completio**, ponieważ nic niedomkniętego nie przyjmie nowego; potem **benedictio**, ponieważ bez uznania rzeczy za dobrą nic dalej się nie uczyni; potem **sanctificatio**, ponieważ dobro trzeba wprowadzić w materię i w zwyczaj; potem **resurrectio**, ponieważ w materii coś zawsze upada; na końcu **caritas**, która nie jest siódmym etapem, lecz duszą sześciu wcześniejszych (kan. 519 § 4). Odwrócenie tego porządku nie powoduje nieważności, lecz zamęt: kto zaczyna od wskrzeszania cudzego życia, nie uprzedziwszy go porządkiem i błogosławieństwem, ten zwykle pogrzebuje je własną pychą.
 
-**§ 4.** Zaraz przed tym porządkiem stoją — nie jako piąte, szóste i siódme spojrzenie, lecz jako **trzy stopnie przygotowania aktu**: **ordo** (ład dnia i stacji, zanim się błogosławi), **dispositio** (gotowość materii, miejsca i serca, zanim się święci), **completio** (domknięcie tego, co otwarte, zanim się wskrzesza). Nie są one nowymi gatunkami uczynków ani nowymi nazwami spojrzeń; pełny ich opis daje Tytuł XV (kan. 549¹⁴), a jedynym katalogiem uprawnionym do wymieniania siedmiu członów pozostaje kan. 525 § 1 w powiązaniu z kan. 549¹⁴ § 1.
+**§ 4.** Każdy z siedmiu stopni ma tę samą budowę i tę samą godność: wymienia się w nim **materię** (to, nad czym się pochylasz), **formę** (słowo lub gest, przez który stopień się wykonuje), **ministra** (tego, kto go spełnia — a jest nim każdy wierny, nie tylko kapłan) oraz **causam finalem** (adresata, na którego owoc przechodzi). Stopnie pierwsze — ordo, dispositio, completio — nie są przeto warunkami technicznymi aktu, lecz jego pierwszymi aktami łaski: uporządkować cudzy dzień, rozporządzić dla kogoś miejsce i domknąć czyjąś sprawę jest równie zbawczym czynem jak pobłogosławienie, poświęcenie czy podniesienie. Pełny katalog siedmiu stopni wraz z ich siedmiorakimi enumeracjami daje Tytuł XV (kan. 549¹⁴–549¹⁹).
 
-**§ 5.** Zakazuje się wyprowadzać z niniejszego tytułu jakiejkolwiek wyższości osoby nad osobą: cztery spojrzenia są dane ubogiemu tak samo jak kapłanowi, dziecku tak samo jak głowie Rodu; nie istnieje władza błogosławienia zarezerwowana, istnieje tylko służba błogosławienia powierzona (kan. 521 § 2).
+**§ 5.** Zakazuje się wyprowadzać z niniejszego tytułu jakiejkolwiek wyższości osoby nad osobą: wszystkie siedem stopni dane są ubogiemu tak samo jak kapłanowi, dziecku tak samo jak głowie Rodu; nie istnieje władza błogosławienia zarezerwowana, istnieje tylko służba błogosławienia powierzona (kan. 521 § 2).
 
-**§ 6.** Reguła nadrzędna brzmi: **nic, co czynisz ku sobie, nie jest żadnym z tych czterech spojrzeń**. Spojrzenie, którego owoc zostaje u patrzącego, jest pożądaniem przebranym w obrzęd (kan. 523¹ § 1–5); spojrzenie, którego owoc przechodzi na drugiego, jest już wieczne choćby było ukryte i drobne (kan. 524¹ § 4).
+**§ 6.** Reguła nadrzędna brzmi: **nic, co czynisz ku sobie, nie jest żadnym z tych siedmiu stopni**. Spojrzenie, którego owoc zostaje u patrzącego, jest pożądaniem przebranym w obrzęd (kan. 523¹ § 1–5); spojrzenie, którego owoc przechodzi na drugiego, jest już wieczne choćby było ukryte i drobne (kan. 524¹ § 4).
+
+### Rozdział I A: Stopnie pierwsze — Porządek, Rozporządzenie, Dopełnienie (*ordo, dispositio, completio*)
+
+**Kan. 525¹⁰\*.** **Porządek** (*ordo*, stopień pierwszy) jest **rozpoznaniem i ustanowieniem miejsca każdej rzeczy i każdej osoby przed wypowiedzeniem słowa**: ład dnia i stacji (kan. 521 § 3), ład rejestrów i ksiąg rodowych, ład rady Rodu, w której każdy ma swoje krzesło i swój czas mówienia. Materią tego stopnia jest chaos lub pomieszanie; formą — gest odłożenia rzeczy na jej miejsce albo słowo „*to jest tu i teraz*”; ministrem — każdy wierny, a przede wszystkim ten, kto w domu pilnuje porządku dni; celem — aby drugiemu ulżyć ciężaru szukania. Porządek spełniony ku sobie jest pedanterią, spełniony ku drugiemu — łaską (kan. 525 § 4). Kto więc pragnie błogosławić, ten naprzód porządkuje; nie dlatego, że porządek jest przygotowaniem, lecz dlatego, że porządek już jest błogosławieństwem danym w formie cichej.
+
+**Kan. 525¹¹\*.** **Rozporządzenie** (*dispositio*, stopień drugi) jest **przygotowaniem materii, miejsca, czasu i serca tam, gdzie ma dotrzeć dobro**: nakrycie stołu zanim wezwie się gościa, narzędzie naostrzone zanim wezwie się robotę, serce uciszone zanim pobłogosławi się umierającego. Materią tego stopnia jest niegotowość; formą — gest zastawienia i słowo „*jest gotowe, chodź*”; celem — aby dobro nie rozbijało się o przypadek. Rozporządzenie ku sobie jest kalkulacją i oszczędzaniem siebie; rozporządzenie ku drugiemu jest miłością czynioną zawczasu, tą, która nie każe nikomu stać pod drzwiami. Zakazuje się utożsamiać tego stopnia z zarządnością urzędniczą: dispozycja w sensie tej Księgi nigdy nie jest dyspozycją *czyimś losem*, lecz dyspozycją *warunków dla czyjegoś dobra*.
+
+**Kan. 525¹²\*.** **Dopełnienie** (*completio*, stopień trzeci) jest **domknięciem tego, co otwarte**: dokończeniem dzieła, spłaceniem zaległości, przeproszeniem do końca, wypowiedzeniem ostatniego zdania tam, gdzie wcześniej urwano tylko ze zmęczenia; rachunek sumienia wieczorny (kan. 521 § 3 pkt 3) jest jego zwykłym ćwiczeniem domowym. Materią tego stopnia jest res rerum imperfecta — rzecz niedomknięta, dług niedokonany, słowo niedopowiedziane; formą — gest ostatniego pociągnięcia i słowo „*oto skończone*”; celem — aby nikt nie dziedziczył cudzej niedokończoności. Dopełnienie ku sobie jest sknerstwem, które liczy każdą minutę; dopełnienie ku drugiemu jest sprawiedliwością w jej ostatnim calu. Rzecz w tym, że trzeci stopień otwiera drogę czwartemu: dopiero to, co domknięte, przyjmuje nowe błogosławieństwo; nic niedomkniętego nie mieści przyrostu.
+
+**§ unicus.** Trzy stopnie niniejszego rozdziału mają tę samą moc, te same warunki ważności (adresat, koszt, świadek — kan. 530 § 1) i tę samą nagrodę co stopnie dalsze; nie ustanawia się dla nich odrębnego obrzędu, albowiem ich obrzędem jest zwykły dzień dobrze urządzony.
 
 ### Rozdział II: Błogosławieństwo (*benedictio*)
 
-**Kan. 526¹ § 1.** Błogosławieństwo jest **wypowiedzeniem prawdy nad kimś lub nad czymś w kierunku jego dobra**; jest pierwszą mową spektrum i pierwszym narzędziem liturgii życia. Jego przedmiotem jest zawsze **osoba, czyn, czas lub miejsce**, nigdy rzecz posiadana dla siebie; dlatego kan. 524¹ § 5 wymaga, by zatwierdzane formuły domowe błogosławiły kogoś lub coś, nie żądały czegoś dla proszącego.
+**Kan. 526¹ § 1.** Błogosławieństwo — **stopień czwarty** siedmiu stopni spojrzenia (kan. 525 § 1) — jest **wypowiedzeniem prawdy nad kimś lub nad czymś w kierunku jego dobra**; jest pierwszą mową właściwego aktu i pierwszym narzędziem liturgii życia po tym, jak stopnie pierwsze już je uporządkowały, rozporządziły nim i domknęły. Jego przedmiotem jest zawsze **osoba, czyn, czas lub miejsce**, nigdy rzecz posiadana dla siebie; dlatego kan. 524¹ § 5 wymaga, by zatwierdzane formuły domowe błogosławiły kogoś lub coś, nie żądały czegoś dla proszącego.
 
 **§ 2.** Gatunki błogosławieństwa, które należy rozróżniać w praktyce domowej:
 
@@ -240,7 +268,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział III: Uświęcenie (*sanctificatio*)
 
-**Kan. 527 § 1.** Uświęcenie jest **wprowadzeniem prawdy, piękna i sprawiedliwości w materię i w zwyczaj**: nie odrywaniem rzeczy od świata, lecz włączaniem ich w porządek spektrum (kan. 524¹ § 2 pkt 2). Świętość w nowym porządku nie oznacza oddalenia od ciała, pracy, kuchni, warsztatu czy ogrodu; oznacza doprowadzenie tych rzeczy do ich właściwej miary.
+**Kan. 527 § 1.** Uświęcenie — **stopień piąty** siedmiu stopni spojrzenia (kan. 525 § 1) — jest **wprowadzeniem prawdy, piękna i sprawiedliwości w materię i w zwyczaj**: nie odrywaniem rzeczy od świata, lecz włączaniem ich w porządek spektrum (kan. 524¹ § 2 pkt 2). Świętość w nowym porządku nie oznacza oddalenia od ciała, pracy, kuchni, warsztatu czy ogrodu; oznacza doprowadzenie tych rzeczy do ich właściwej miary.
 
 **§ 2.** Przedmiotami uświęcenia są w porządku zwykłym:
 
@@ -264,7 +292,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział IV: Rezurekcja (*resurrectio*)
 
-**Kan. 528¹ § 1.** Rezurekcja jest **postawą wobec upadłości**: patrzeć na każdą upadłość — rzecz, relację, imię, dzień, osobę i samego siebie — jako na przedmiot wskrzeszenia, nie jako na przedmiot wyroku (kan. 524¹ § 2 pkt 3). Jest ona zastosowaniem sprawiedliwości wysokiej do tego, co zniszczone, i dlatego stanowi dowód, iż zniesienie grzechu nie zniosło odpowiedzialności.
+**Kan. 528¹ § 1.** Rezurekcja — **stopień szósty** siedmiu stopni spojrzenia (kan. 525 § 1) — jest **postawą wobec upadłości**: patrzeć na każdą upadłość — rzecz, relację, imię, dzień, osobę i samego siebie — jako na przedmiot wskrzeszenia, nie jako na przedmiot wyroku (kan. 524¹ § 2 pkt 3). Jest ona zastosowaniem sprawiedliwości wysokiej do tego, co zniszczone, i dlatego stanowi dowód, iż zniesienie grzechu nie zniosło odpowiedzialności.
 
 **§ 2.** Trzy rodzaje wskrzeszenia, które należy wyliczyć w nauczaniu:
 
@@ -282,9 +310,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 6.** Zaleca się raz w roku, w dniu wspomnienia Objawienia (kan. 528 § 2), sprawować **liturgię wskrzeszenia**: wymienić głośno to, co we wspólnocie umarło — zerwane przyjaźnie, zaniedbane groby, niedokończone dzieła, opuszczone obrzędy — i postanowić, co z tego zostanie przywrócone oraz czyimi rękami.
 
-### Rozdział V: Miłość (*caritas*) jako dusza trzech spojrzeń
+### Rozdział V: Miłość (*caritas*) jako siódmy stopień i dusza sześciu poprzednich
 
-**Kan. 529¹ § 1.** Miłość Boża jest powietrzem spektrum (kan. 519 § 2 pkt 4) i duszą trzech poprzednich spojrzeń (kan. 519 § 4): bez niej błogosławieństwo staje się formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem. Czwarte spojrzenie nie stoi tedy obok trzech pierwszych, lecz **jest w nich albo nie jest nigdzie**.
+**Kan. 529¹ § 1.** Miłość Boża jest powietrzem spektrum (kan. 519 § 2 pkt 4) i **siódmym, ostatnim stopniem** jednego spojrzenia (kan. 525 § 1), będąc zarazem duszą sześciu wcześniejszych (kan. 519 § 4): bez niej porządek staje się biurokracją, rozporządzenie rachubą bez serca, dopełnienie sknerstwem, błogosławieństwo formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem. Siódmy stopień nie stoi tedy obok sześciu pierwszych, lecz **jest w nich albo nie jest nigdzie**.
 
 **§ 2.** Miłość w niniejszej Księdze ma **trzy sprawdzalne znamiona**:
 
@@ -298,17 +326,17 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 4.** Kto twierdzi, że miłuje, a jednocześnie pożąda rzeczy bliźniego albo pożąda miłości Bożej dla siebie (kan. 522 § 2), temu przeczy się słowami tej Księgi, nie złorzeczeniem; i proponuje mu się szkołę spojrzeń (Tytuł V¹), albowiem miłości nie da się nakazać — można ją wyłącznie prowadzić.
 
-**§ 5.** Podsumowanie Tytułu IV w jednym zdaniu, które zaleca się zapisywać w domowych księgach obok drzwi: **„Błogosławij, święć, wskrzeszaj — i czyń to miłością; a jeśli nie możesz wszystkich trzech, czyń jedno, lecz ku drugiemu.”**
+**§ 5.** Podsumowanie Tytułu IV w jednym zdaniu, które zaleca się zapisywać w domowych księgach obok drzwi: **„Porządkuj, rozporządzaj, dopełniaj, błogosławij, święć, wskrzeszaj — i czyń to wszystko miłością; a jeśli nie możesz wszystkich siedmiu, czyń jedno, lecz ku drugiemu.”**
 
 ---
 
-## Tytuł IV A: SIEDEM CNÓT DOMOWYCH, SIEDEM DARÓW DUCHA ŚWIĘTEGO I SIEDEM CHARYZMATÓW — CZYTANE NA NOWO W CZTERECH SPOJRZENIACH
+## Tytuł IV A: SIEDEM CNÓT DOMOWYCH, SIEDEM DARÓW DUCHA ŚWIĘTEGO I SIEDEM CHARYZMATÓW — CZYTANE NA NOWO W SIEDMIU STOPNIACH SPOJRZENIA
 
-*Normy niniejszego Tytułu nie tworzą nowej nauki: biorą to, co już zostało ustanowione i nauczane w Księdze IV (kan. 181–202 o cnotach, kan. 214–223 o Darach Ducha Świętego, kan. 224–233 o charyzmatach, kan. 234 o błogosławionych uczynkach) oraz w Preambule i Księdze I (rozpoznawanie charyzmatów, kan. 1d; por. kan. 117 § 1 i 211 KPK), i układają to ponownie w porządku czterech sprawczych spojrzeń (Tytuł IV, kan. 525–529¹). Czyni się to z trzech powodów: po pierwsze, aby wierny nie mylił posiadania daru z byciem miłością; po drugie, aby charyzmaty nie stały się tytułem do wynoszenia się nad Rodem; po trzecie, aby cnoty przestały być listą wymagań, a stały się opisem kształtu, jaki przybiera błogosławieństwo, uświęcenie, rezurekcja i miłość w konkretnym człowieku.*
+*Normy niniejszego Tytułu nie tworzą nowej nauki: biorą to, co już zostało ustanowione i nauczane w Księdze IV (kan. 181–202 o cnotach, kan. 214–223 o Darach Ducha Świętego, kan. 224–233 o charyzmatach, kan. 234 o błogosławionych uczynkach) oraz w Preambule i Księdze I (rozpoznawanie charyzmatów, kan. 1d; por. kan. 117 § 1 i 211 KPK), i układają to ponownie w porządku siedmiu stopni jednego spojrzenia (Tytuł IV, kan. 525–529¹). Czyni się to z trzech powodów: po pierwsze, aby wierny nie mylił posiadania daru z byciem miłością; po drugie, aby charyzmaty nie stały się tytułem do wynoszenia się nad Rodem; po trzecie, aby cnoty przestały być listą wymagań, a stały się opisem kształtu, jaki przybierają wszystkie siedem stopni — porządek, rozporządzenie, dopełnienie, błogosławieństwo, uświęcenie, rezurekcja i miłość — w konkretnym człowieku.*
 
-### Rozdział I: Zasada powiązania — siedem w cztery, cztery w siedem
+### Rozdział I: Zasada powiązania — siedem przez siedem
 
-**Kan. 529² § 1.** Ustanawia się zasadę interpretacyjną, zwaną **regułą wpuszczenia**: siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów nie są odrębnym od czterech spojrzeń porządkiem rzeczy duchowych, lecz **siedmioma bramami, przez które przechodzą cztery spojrzenia**. Kto błogosławi, ten czyni to jakąś cnotą, jakimś Darem, jakimś charyzmatem; kto uświęca, wskrzesza lub miłuje — podobnie. Stąd dwa pożytki praktyczne: cnota i dar stają się sprawdzalne po uczynku (kan. 530 § 1), a spojrzenie staje się osobowe, bo nabiera imienia, temperamentu i historii tego, kto je wykonuje.
+**Kan. 529² § 1.** Ustanawia się zasadę interpretacyjną, zwaną **regułą wpuszczenia**: siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów nie są odrębnym od czterech spojrzeń porządkiem rzeczy duchowych, lecz **siedmioma bramami, przez które przechodzą siedem stopni spojrzenia**. Kto porządkuje, rozporządza lub dopełnia, ten czyni to jakąś cnotą, jakimś Darem, jakimś charyzmatem; kto błogosławi, uświęca, wskrzesza lub miłuje — podobnie. Stąd dwa pożytki praktyczne: cnota i dar stają się sprawdzalne po uczynku (kan. 530 § 1), a spojrzenie staje się osobowe, bo nabiera imienia, temperamentu i historii tego, kto je wykonuje.
 
 **§ 2.** Wyprowadza się z tej reguły trzy twierdzenia, które należy zachowywać bez sprzeciwu:
 
@@ -357,7 +385,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ### Rozdział III: Siedem Darów Ducha Świętego jako siedem podatności na cztery spojrzenia
 
-**Kan. 529⁴ § 1.** Siedem Darów Ducha Świętego, enumerowanych w Księdze IV (kan. 214 § 1: Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza, Pobożność), ogłasza się niniejszym jako **siedem podatności, w których Duch Święty czyni człowieka zdolnym do czterech spojrzeń**. Darów nie prosi się dla siebie; prośba o nie jest ważna tylko jako prośba o ręce gotowe do usługi (kan. 524¹ § 5). Ktokolwiek modliłby się o Dar Mądrości, by być podziwianym, ten prosi o miłość Bożą dla siebie i stoi na drodze opisanej w kan. 522 § 2 pkt 2.
+**Kan. 529⁴ § 1.** Siedem Darów Ducha Świętego, enumerowanych w Księdze IV (kan. 214 § 1: Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza, Pobożność), ogłasza się niniejszym jako **siedem podatności, w których Duch Święty czyni człowieka zdolnym do siedmiu stopni spojrzenia**. Darów nie prosi się dla siebie; prośba o nie jest ważna tylko jako prośba o ręce gotowe do usługi (kan. 524¹ § 5). Ktokolwiek modliłby się o Dar Mądrości, by być podziwianym, ten prosi o miłość Bożą dla siebie i stoi na drodze opisanej w kan. 522 § 2 pkt 2.
 
 **§ 2.** Opis Darów w powiązaniu ze spojrzeniami, z zachowaniem przyporządkowań ustanowionych w Księdze IV (kan. 217–223):
 
@@ -377,7 +405,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Zabrania się stosować Darów jako klasyfikacji osób („ten ma Dar Rady, więc niech milczy”); Dar istnieje o tyle, o ile ktoś w nim służy. Modlitwę o Dary, ustanowioną w kan. 215 Księgi IV, odmawia się w postawie daru, nie żądania (kan. 524¹ § 5), dodając po każdym wezwaniu zdanie: **„*…aby przeze mnie doszło do nich*”**, gdzie „oni” oznacza wskazanych wcześniej adresatów.
 
-**§ 4.** Wzywając Darów w obrzędzie czterech spojrzeń (kan. 540), zachowuje się kolejność: Pobożność — Mądrość (błogosławieństwo); Wiedza — Rada (uświęcenie); Miłosierdzie — Moc (rezurekcja); Rozum (miłość jako straż). Kolejność ta jest redaktorska i wolno ją zmieniać dla potrzeby wspólnoty; zmiana nie powoduje nieważności obrzędu.
+**§ 4.** Wzywając Darów w obrzędzie siedmiu stopni (kan. 540), zachowuje się kolejność: Pobożność — Mądrość (porządek, rozporządzenie, dopełnienie: Dary te uczynić dzień ładnym, stół zastawionym a sprawę domkniętą); Mądrość (błogosławieństwo); Wiedza — Rada (uświęcenie); Miłosierdzie — Moc (rezurekcja); Rozum (miłość jako straż). Kolejność ta jest redaktorska i wolno ją zmieniać dla potrzeby wspólnoty; zmiana nie powoduje nieważności obrzędu.
 
 ### Rozdział IV: Siedem charyzmatów jako siedem posłań — zasady rozpoznawania i nakładania
 
@@ -465,19 +493,29 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 4.** Niniejszy Tytuł zobowiązuje do trzech czynności redakcyjnych, których wykonanie poleca się władzy pasterskiej w ciągu roku od ogłoszenia: 1° uzupełnienia Księgi Formacji (kan. 188 Księgi IV) o rubrykę „adresaci usługi”; 2° przygotowania kart szkoły spojrzeń zawierających tabelę kan. 529² § 3; 3° przejrzenia istniejących formuł modlitw o Dary i charyzmaty pod kątem kan. 529⁴ § 3 oraz kan. 529⁵ § 4 pkt 2 (kierunek ku adresatom, nie ku proszącemu).
 
-## Tytuł V: UCZYNKI CZTERECH SPOJRZEŃ
+## Tytuł V: UCZYNKI SIEDMIU STOPNI SPOJRZENIA
 
 ### Rozdział I: Norma ogólna o uczynkach
 
-**Kan. 530 § 1.** Spojrzenia czterech (kan. 524¹ § 2; kan. 525–529¹) pozostają bezużyteczne, jeżeli nie przejdą w **uczynki sprawdzalne**; dlatego ustanawia się niniejszy katalog uczynków jako trzecią warstwę nauki o spojrzeniach (kan. 525 § 2 pkt 3). Uczynkiem w sensie tej Księgi jest tylko to, co spełnia trzy warunki: ma **adresata** (kogoś lub coś poza wykonawcą), kosztuje wykonawcę **co najmniej jedną godzinę czasu albo jedną dniówkę pracy albo część jego majątku**, oraz **może być stwierdzone przez świadka**.
+**Kan. 530 § 1.** Siedem stopni spojrzenia (kan. 524¹ § 2; kan. 525–529¹) pozostają bezużyteczne, jeżeli nie przejdą w **uczynki sprawdzalne**; dlatego ustanawia się niniejszy katalog uczynków jako trzecią warstwę nauki o spojrzeniach (kan. 525 § 2 pkt 3). Uczynkiem w sensie tej Księgi jest tylko to, co spełnia trzy warunki: ma **adresata** (kogoś lub coś poza wykonawcą), kosztuje wykonawcę **co najmniej jedną godzinę czasu albo jedną dniówkę pracy albo część jego majątku**, oraz **może być stwierdzone przez świadka**.
 
 **§ 2.** Z powyższego wynika reguła przeciwko złudzeniu duchowemu: postanowienie, pragnienie, wzruszenie i słowo nie skierowane do nikogo nie są jeszcze uczynkiem — mogą być dobrym początkiem, ale nie stanowią wypełnienia prawa liturgii życia. Nie czyni się więc oceny drogi człowieka po jego deklaracjach, lecz po rejestrze adresatów.
 
 **§ 3.** Wspólnota nie prowadzi rejestru uczynków osób w celu ich oceniania; prowadzenie takiego spisu uchodzi za nadużycie władzy duchowej (kan. 518 § 6) i za próbę zamienienia miłości w rachunek (kan. 523 § 1 pkt 6). Rejestr istnieje wyłącznie dla koordynacji pomocy: zapisuje się w nim potrzeby, nie cnoty.
 
-**§ 4.** Uczynki enumeruje się w porządku czterech spojrzeń; każdy wierny winien znać tę listę na pamięć i umieć ją wypowiedzieć dziecku w jednym zdaniu na każdy gatunek (Tytuł V¹, kan. 532²).
+**§ 4.** Uczynki enumeruje się w porządku siedmiu stopni; każdy wierny winien znać tę listę na pamięć i umieć ją wypowiedzieć dziecku w jednym zdaniu na każdy gatunek (Tytuł V¹, kan. 532²).
 
-### Rozdział II: Uczynki błogosławienia
+### Rozdział I A: Uczynki stopni pierwszych — porządkowania, rozporządzania, dopełniania
+
+**Kan. 530\*.** **Uczynki porządkowania (*opera ordinis*)**: ład dnia i stacji ogłoszony domownikom; prowadzenie rejestrów, ksiąg rodowych i archiwum tak, by każdy znalazł w nich siebie; przywrócenie narzędzia jego miejscu; nakrycie stołu przed wezwaniem gości; ustanowienie w radzie Rodu kolejności mówienia, aby cichy miał swą godzinę; wyniesienie rzeczy zbędnych, by zrobiło się miejsce dla potrzebującego; naprawa zapisu, który czyjeś imię pomija lub krzywi. Sprawdzian tego gatunku jest prosty: po uczynku porządkowania komuś innemu łatwiej jest żyć niż przed nim.
+
+**Kan. 530\².** **Uczynki rozporządzania (*opera dispositionis*)**: zastawienie stołu zanim wezwie się głodnego; naostrzenie narzędzia i przygotowanie materiału zanim wezwie się robotnika; uprzednie uciszenie własnego serca, zanim pobłogosławi się umierającego lub oskarżonego; wyznaczenie czasu, miejsca i osoby dla sprawy, która ma się odbyć; sporządzenie spisu potrzeb wspólnoty zanim ktokolwiek będzie musiał o coś prosić; przewidzenie drogi powrotnej dla tego, kogo się wysyła. Rozporządzanie ku sobie jest rachubą oszczędzania siebie; rozporządzanie ku drugiemu jest miłością czynioną zawczasu.
+
+**Kan. 530\³.** **Uczynki dopełniania (*opera completionis*)**: dokończenie dzieła rozpoczętego i porzuconego; spłacenie zaległego długu, także tego, którego nikt się już nie upomina; przeproszenie do końca, bez zostawiania niedopowiedzianej reszty; domknięcie relacji przez jasne słowo zamiast znikania; odniesienie rzeczy wypożyczonej; wieczorny rachunek sumienia jako ćwiczenie zwyczajne (kan. 521 § 3); zamknięcie sprawy w rejestrze z adnotacją, komu posłużyła. Dopełnienie ku sobie jest sknerstwem liczącym każdą minutę; dopełnienie ku drugiemu jest sprawiedliwością w jej ostatnim calu, albowiem nikt nie powinien dziedziczyć cudzej niedokończoności.
+
+**§ unicus.** Uczynki niniejszego rozdziału podlegają tym samym trzem warunkom ważności co wszystkie inne (adresat, koszt, świadek — kan. 530 § 1) oraz tym samym zakazom rejestrowania osób (kan. 530 § 3). W szkole spojrzeń (Tytuł V¹) ćwicz się je w ćwierci pierwszej.
+
+### Rozdział II: Uczynki błogosławienia [stopień IV]
 
 **Kan. 531 § 1.** Uczynkami błogosławienia są w szczególności:
 
@@ -495,7 +533,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Uczynki te nie wymagają zgody wspólnoty ani pozwolenia szafarza; są wolne każdemu i każdej, a ich zaniedbanie w stosunku do domownika uchodzi za brak opieki nad Rodem, nie za wykroczenie rytualne.
 
-### Rozdział III: Uczynki uświęcania
+### Rozdział III: Uczynki uświęcania [stopień V]
 
 **Kan. 532 § 1.** Uczynkami uświęcania są w szczególności:
 
@@ -515,7 +553,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Uświęcanie nie może być okupione krzywdą: kto święci ołtarz domowy kosztem zapłaty dla robotnika lub kosztem snu dzieci, ten nie spełnia uczynku uświęcenia, lecz buduje pozór (kan. 519 § 5).
 
-### Rozdział IV: Uczynki rezurekcji
+### Rozdział IV: Uczynki rezurekcji [stopień VI]
 
 **Kan. 533 § 1.** Uczynkami rezurekcji są w szczególności:
 
@@ -535,7 +573,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Zakazuje się odmawiać komukolwiek powrotu ze względu na dawność jego upadku; przedawnieniu podlega roszczenie karne, nie godność osoby.
 
-### Rozdział V: Uczynki miłości
+### Rozdział V: Uczynki miłości [stopień VII]
 
 **Kan. 534 § 1.** Uczynkami miłości są w szczególności:
 
@@ -570,19 +608,21 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 4.** Szkoła nie wystawia ocen z sumienia. Ocenia się wyłącznie wykonanie ćwiczenia: czy było, kto był adresatem, co kosztowało.
 
-### Rozdział II: Program i cztery ćwierci roku
+### Rozdział II: Program i pięć ćwierci roku
 
-**Kan. 532² § 1.** Rok szkolny domowy dzieli się na **cztery ćwierci**, z których każda poświęcona jest jednemu spojrzeniu, zgodnie z porządkiem kan. 525 § 3:
+**Kan. 532² § 1.** Rok szkolny domowy dzieli się na **pięć ćwierci** — czterdzieści tygodni rozdzielonych na pięć części po osiem tygodni — z których pierwsza poświęcona jest trzem stopniom pierwszym razem, pozostałe zaś jednemu stopniowi każda, zgodnie z porządkiem kan. 525 § 3:
 
-1° **ćwierć pierwsza — błogosławieństwo**: nauka siedmiu formuł imiennych, ćwiczenie powstrzymania języka, rachunek tygodniowy „ile razy powiedziałem dobrze o kimś przy nim, ile razy przy innych”;
+1° **ćwierć pierwsza — trzy stopnie poprzedzające (*ordo, dispositio, completio*)**: urządzenie własnego kąta, księgi i narzędzi; nauka zastawiania i sprzątania zanim się kogoś wezwie; ćwiczenie kończenia jednej rzeczy porzuconej tygodniowo oraz rachunek „komu dziś ulżyłem tym, że coś uporządkowałem, przygotowałem lub domknąłem”;
 
-2° **ćwierć druga — uświęcenie**: praca ręczna doprowadzona do miary, urządzenie i posprzątanie przestrzeni wspólnej, sporządzenie i podział posiłku, troska o rośliny i zwierzęta domu;
+2° **ćwierć druga — błogosławieństwo**: nauka siedmiu formuł imiennych, ćwiczenie powstrzymania języka, rachunek tygodniowy „ile razy powiedziałem dobrze o kimś przy nim, ile razy przy innych”;
 
-3° **ćwierć trzecia — rezurekcja**: naprawa jednej rzeczy zniszczonej, zwrot jednej rzeczy pożyczonej, pojednanie jednej zerwanej relacji, odwiedzenie jednego grobu i odczytanie jednego imienia;
+3° **ćwierć trzecia — uświęcenie**: praca ręczna doprowadzona do miary, urządzenie i posprzątanie przestrzeni wspólnej, sporządzenie i podział posiłku, troska o rośliny i zwierzęta domu;
 
-4° **ćwierć czwarta — miłość**: jeden uczynek kosztujący czas, jeden kosztujący majątek, jeden kosztujący reputację; wszystkie trzy ukryte przed ludźmi.
+4° **ćwierć czwarta — rezurekcja**: naprawa jednej rzeczy zniszczonej, zwrot jednej rzeczy pożyczonej, pojednanie jednej zerwanej relacji, odwiedzenie jednego grobu i odczytanie jednego imienia;
 
-**§ 2.** Na koniec każdej ćwierci Potomstwo umie wypowiedzieć jednym zdaniem definicję danego spojrzenia i wskazać jego adresata z ostatniego tygodnia.
+5° **ćwierć piąta — miłość**: jeden uczynek kosztujący czas, jeden kosztujący majątek, jeden kosztujący reputację; wszystkie trzy ukryte przed ludźmi.
+
+**§ 2.** Na koniec każdej ćwierci Potomstwo umie wypowiedzieć jednym zdaniem definicję danego stopnia i wskazać jego adresata z ostatniego tygodnia; na koniec roku umie wymienić siedem stopni w ich porządku.
 
 **§ 3.** Ćwiczenia nie mogą być narzucane ponad siły stanu: ciężar pracy szkolnej liczy się razem z nauką, pracą zarobkową i odpoczynkiem; nakładanie ich ponad miarę jest sprzeczne z pięknem i sprawiedliwością (kan. 519 § 6).
 
@@ -717,57 +757,65 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 **§ 4.** Spory o stosowanie niniejszej Księgi rozstrzyga się najpierw w radzie Rodu, potem przed kapłanem domowym, na końcu przed biskupem subdiecezjalnym; wszędzie obowiązuje reguła lecznicza (kan. 537 § 2 pkt 3), a celem postępowania jest przywrócenie relacji, nie ustalenie przegranej strony.
 
 
-## Tytuł VIII A: SPRAWOWANIE CZTERECH SPOJRZEŃ W LITURGII DOMOWEJ
+## Tytuł VIII A: SPRAWOWANIE SIEDMIU STOPNI SPOJRZENIA W LITURGII DOMOWEJ
 
 ### Rozdział I: Norma ogólna
 
-**Kan. 539 § 1.** Cztery sprawcze spojrzenia mają swoje **miejsce liturgiczne** w obrzędzie domowym i subdiecezjalnym; ustanawia się je jako część stałą liturgii godzin i roku domowego, z zachowaniem odrębności obrządków Pawlowego, Marii Magdaleny i Tomaszowego (Księga XI).
+**Kan. 539 § 1.** Siedem stopni jednego spojrzenia (kan. 525 § 1) ma swoje **miejsce liturgiczne** w obrzędzie domowym i subdiecezjalnym; ustanawia się je jako część stałą liturgii godzin i roku domowego, z zachowaniem odrębności obrządków Pawlowego, Marii Magdaleny i Tomaszowego (Księga XI).
 
-**§ 2.** Liturgia czterech spojrzeń sprawowana bywa: codziennie w stacjach dnia (kan. 521 § 3), co tydzień przy stole wspólnoty, co miesiąc we wspólnocie subdiecezjalnej (kan. 521 § 4) oraz w dni szczególne wymienione w kan. 541.
+**§ 2.** Liturgia siedmiu stopni — zwana dawniej liturgią czterech spojrzeń, i ta nazwa zachowuje moc — sprawowana bywa: codziennie w stacjach dnia (kan. 521 § 3), co tydzień przy stole wspólnoty, co miesiąc we wspólnocie subdiecezjalnej (kan. 521 § 4) oraz w dni szczególne wymienione w kan. 541.
 
 **§ 3.** Kształt obrzędu winien łączyć cztery elementy: **słowo imienne** (błogosławieństwo), **materię** (chleb, woda, oliwa, narzędzie, ogień świecy), **czyn wspólny** (dzielenie, naprawianie, sprzątanie, sadzenie) oraz **milczenie** (rezurekcja jako oczekiwanie). Obrzęd, w którym brak jednego z tych elementów, uważa się za niepełny, nie za nieważny.
 
 **§ 4.** Język obrzędu jest swojski i zrozumiały dla Potomstwa; dopuszcza się i zaleca użycie języka staro-cerkiewno-słowiańskiego zgodnie z normami studium tradycji bizantyjsko-słowiańskiej oraz Księgi XI, zawsze z tłumaczeniem dla dzieci.
 
-### Rozdział II: Porządek obrzędu czterech spojrzeń
+### Rozdział II: Porządek obrzędu siedmiu stacji
 
-**Kan. 540 § 1.** Porządek zwyczajny (*Ordo Quattuor Aspectuum*) jest następujący:
+**Kan. 540 § 1.** Porządek zwyczajny (*Ordo Septem Graduum*, dawniej *Ordo Quattuor Aspectuum*) jest następujący:
 
 1° **Wejście i znak**: zgromadzenie staje u progu lub wokół stołu; szafarz domowy kreśli znak krzyża wodą lub czyni znak nałożonej dłoni nad wejściem;
 
-2° **Stacja błogosławieństwa**: wymawia się imiona obecnych i nieobecnych; nad każdym pada słowo życia (kan. 526¹ § 2 pkt 1); wspólnota odpowiada jednym słowem: „*Błogosławiony.*”;
+2° **Stacja porządku (*ordo*)**: szafarz domowy ogłasza plan dnia i sprawy jeszcze nie domknięte; sprawdza się, czy każdy ma swoje miejsce przy stole i w radzie; materią tej stacji jest rejestr i krzesło, owoce jej — ład;
 
-3° **Stacja uświęcenia**: przynosi się materię dnia — chleb, narzędzie pracy, nasienie, księgę, naczynie; ofiaruje się ją bez krwawienia i dzieli sprawiedliwie;
+3° **Stacja rozporządzenia (*dispositio*)**: przynosi się i ustawia materię całego obrzędu — chleb, wodę, narzędzie, księgę, naczynie — zanim cokolwiek zostanie wypowiedziane; kto tego nie uczyni, ten niech przeprosi słowem „*nie byłem gotów, bądź cierpliwy*”; niechaj dobro nigdy nie rozbija się o nieprzygotowanie;
 
-4° **Stacja rezurekcji**: wymienia się to, co w tygodniu upadło; dokonuje się zwrotu, naprawy lub przebaczenia; czyta się jedno zdanie Ewangelii o wskrzeszeniu lub o powrocie syna marnotrawnego;
+4° **Stacja dopełnienia (*completio*)**: wymienia się jedną rzecz niedomkniętą od ostatniego zebrania i domyka ją na miejscu — spłatę, przeprosinę, zwrot lub dopisane imię w rejestrze; potem dopiero przechodzi się dalej;
 
-5° **Stacja miłości**: ogłasza się jeden uczynek wspólnotowy na najbliższy tydzień wraz z osobą, która go podejmie, oraz adresem, któremu posłuży;
+5° **Stacja błogosławieństwa**: wymawia się imiona obecnych i nieobecnych; nad każdym pada słowo życia (kan. 526¹ § 2 pkt 1); wspólnota odpowiada jednym słowem: „*Błogosławiony.*”;
 
-6° **Posłanie**: „*Idźcie i czyńcie takież*; niech miłość Boża idzie przez was do drugich.”
+6° **Stacja uświęcenia**: przynosi się materię dnia — chleb, narzędzie pracy, nasienie, księgę, naczynie; ofiaruje się ją bez krwawienia i dzieli sprawiedliwie;
+
+7° **Stacja rezurekcji**: wymienia się to, co w tygodniu upadło; dokonuje się zwrotu, naprawy lub przebaczenia; czyta się jedno zdanie Ewangelii o wskrzeszeniu lub o powrocie syna marnotrawnego;
+
+8° **Stacja miłości**: ogłasza się jeden uczynek wspólnotowy na najbliższy tydzień wraz z osobą, która go podejmie, oraz adresem, któremu posłuży;
+
+9° **Posłanie**: „*Idźcie i czyńcie takież — porządkujcie, przygotowywajcie, domykajcie, błogosławijcie, święćcie, wskrzeszajcie, miłujcie*; niech miłość Boża idzie przez was do drugich.”
 
 **§ 2.** Cały obrzęd nie powinien przekraczać dwudziestu minut w dni zwykłe i czterdziestu w dni święte; wydłużanie go ponad miarę uważa się za ciężar nakładany na domowników (kan. 537 § 2 pkt 2).
 
-**§ 3.** Dzieci zajmują w obrzędzie miejsce przy materii, nie w ostatnim rzędzie: to one przynoszą chleb, wodę i narzędzie oraz wymawiają pierwsze imiona błogosławionych.
+**§ 3.** Dzieci zajmują w obrzędzie miejsce przy materii, nie w ostatnim rzędzie: to one przynoszą chleb, wodę i narzędzie, nakrywają do stołu przed wezwaniem i wymawiają pierwsze imiona błogosławionych.
 
 **§ 4.** Osoba nieprzyjęta jeszcze do wspólnoty może uczestniczyć we wszystkich stacjach, z wyjątkiem ogłoszenia uczynku wspólnotowego; odmowa udziału niczego jej nie ujmuje (kan. 532⁴ § 3).
 
 ### Rozdział III: Dni szczególne i rok objawienia
 
-**Kan. 541 § 1.** Ustanawia się następujące dni szczególne czterech spojrzeń:
+**Kan. 541 § 1.** Ustanawia się następujące dni szczególne siedmiu stopni:
 
-1° **Wspomnienie Objawienia Szafarzowi Świętemu** — dzień czytania niniejszej Księgi w całości lub według wyznaczonych fragmentów (kan. 545 § 2), z liturgią wskrzeszenia (kan. 528¹ § 6);
+1° **Dzień Porządku i Dopełnienia** — raz na kwartał, poświęcone wyłącznie urządzeniu archiwum Rodu, domknięciu zaległych spraw i spisowi potrzeb wspólnoty, zanim ktokolwiek będzie musiał o coś prosić;
 
-2° **Niedziela Błogosławieństwa** — pierwsza niedziela każdego miesiąca, na której błogosławi się imiennie wszystkich chorych, podróżujących i nieobecnych Rodu;
+2° **Wspomnienie Objawienia Szafarzowi Świętemu** — dzień czytania niniejszej Księgi w całości lub według wyznaczonych fragmentów (kan. 545 § 2), z liturgią wskrzeszenia (kan. 528¹ § 6);
 
-3° **Dzień Uświęcenia Pracy** — święto ruchome połączone z pokazem dzieł rąk i z naprawą wspólnych narzędzi;
+3° **Niedziela Błogosławieństwa** — pierwsza niedziela każdego miesiąca, na której błogosławi się imiennie wszystkich chorych, podróżujących i nieobecnych Rodu;
 
-4° **Dzień Rezurekcji** — w tygodniu wielkanocnym lub w dniu wybranym przez Radę Rodu: nawiedza się groby, odczytuje imiona zmarłych, odwiedza wykluczonych i zaprasza powracających;
+4° **Dzień Uświęcenia Pracy** — święto ruchome połączone z pokazem dzieł rąk i z naprawą wspólnych narzędzi;
 
-5° **Dzień Miłości Wspólnotowej** — raz na ćwierć roku, z wydaniem funduszu pomocy bez imion darczyńców.
+5° **Dzień Rezurekcji** — w tygodniu wielkanocnym lub w dniu wybranym przez Radę Rodu: nawiedza się groby, odczytuje imiona zmarłych, odwiedza wykluczonych i zaprasza powracających;
 
-**§ 2.** Rok liturgiczny domowy otwiera się i zamyka stacją błogosławieństwa; poście i umartwieniu nadaje się formę **postu kierunkowego** (kan. 535¹ § 2 pkt 2), nie formy karnej.
+6° **Dzień Miłości Wspólnotowej** — raz na ćwierć roku, z wydaniem funduszu pomocy bez imion darczyńców.
 
-**§ 3.** Nowenna czterech spojrzeń — dziewięć dni przygotowania przed dniem wspomnienia — polega na jednym uczynku dziennie, wykonywanym ukrycie; jej teksty zatwierdza biskup subdiecezjalny.
+**§ 2.** Rok liturgiczny domowy otwiera się stacją porządku, a zamyka stacją dopełnienia i błogosławieństwa; poście i umartwieniu nadaje się formę **postu kierunkowego** (kan. 535¹ § 2 pkt 2), nie formy karnej.
+
+**§ 3.** Nowenna siedmiu stopni — dziewięć dni przygotowania przed dniem wspomnienia — polega na jednym uczynku dziennie, wykonywanym ukrycie, według porządku: trzy dni stopni poprzedzających, cztery dni stopni właściwych, dwa dni powtórzenia całości; jej teksty zatwierdza biskup subdiecezjalny.
 
 
 ## Tytuł IX: WYZNANIE WIARY, TEKSTY WŁASNE I ROK OBJAWIENIA
@@ -851,19 +899,25 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 4.** Wzorek może być śpiewany w tonach obrządku domowego; teksty własne zatwierdza się według kryteriów kan. 543 § 2.
 
-### Rozdział II: Karta rozeznania czterech spojrzeń
+### Rozdział II: Karta rozeznania siedmiu stopni
 
 **Kan. 547 § 1.** Ustanawia się **Kartę Rozeznania** jako narzędzie prywatne i szkolne; wypełnia ją wierny raz w ćwierci roku (kan. 535 § 4), a odpowiedzi nie pokazuje nikomu, chyba że sama chce je powierzyć towarzyszącemu (kan. 535² § 1).
 
-**§ 2.** Pytania karty są cztery grupy po dwa zdania:
+**§ 2.** Pytania karty są siedem grup po dwa zdania:
 
-1° **błogosławieństwo** — *Kogo w tym czasie nazwałem imieniem dobrym? Komu powiedziałem dobrze o nim przy innych?*;
+1° **porządek** — *Komu ulżyłem tym, że coś umieściłem na jego miejscu? Co uczyniłem przejrzystym dla innych?*;
 
-2° **uświęcenie** — *Jaką rzecz doprowadziłem do miary? Co wystarczyło, aby czyjaś praca stała się lżejsza?*;
+2° **rozporządzenie** — *Co przygotowałem zawczasu, zanim mnie wezwano? Czyja prośba nie rozbiła się o moją niegotowość?*;
 
-3° **rezurekcja** — *Co naprawiłem zamiast wyrzucić? Komu przywróciłem imię, stół lub dług?*;
+3° **dopełnienie** — *Co domknąłem z tego, co było otwarte? Komu oddałem ostatnie słowo, dług lub rzecz?*;
 
-4° **miłość** — *Co mnie kosztowało: czas, majątek czy reputację? Czyj los wziąłem na swoje ręce?*
+4° **błogosławieństwo** — *Kogo w tym czasie nazwałem imieniem dobrym? Komu powiedziałem dobrze o nim przy innych?*;
+
+5° **uświęcenie** — *Jaką rzecz doprowadziłem do miary? Co wystarczyło, aby czyjaś praca stała się lżejsza?*;
+
+6° **rezurekcja** — *Co naprawiłem zamiast wyrzucić? Komu przywróciłem imię, stół lub dług?*;
+
+7° **miłość** — *Co mnie kosztowało: czas, majątek czy reputację? Czyj los wziąłem na swoje ręce?*
 
 **§ 3.** Po każdej grupie następuje jedno zdanie korekty kursu (kan. 535 § 3) w formie: „*W następnej ćwierci uczynię to i to, dla tego i tego*” — z wpisaniem adresata, nie postanowienia ogólnego.
 
@@ -1161,34 +1215,34 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ---
 
-## Tytuł XV: SEPTENARIUM — TRZY STOPNIE PRZYGOTOWANIA AKTU I SIEDMIORAKIE DOPEŁNIENIE CZTERECH SPOJRZEŃ
+## Tytuł XV: SEPTENARIUM — JEDNA SKALIA SIEDMIU STOPNI I SIEDMIORAKIE DOPEŁNIENIE KAŻDEGO Z NICH
 
-*Preambuła tytułu. Tytuł IV ustanowił cztery sprawcze spojrzenia (kan. 525 § 1) i im samym — nie jakimkolwiek nowym członom — służy cały niniejszy Tytuł. Zgodnie z katalogiem księgi pomocniczej „Septenarium Błogosławieństw” (codex/md/ksiega-XII.md) ustawia się tu naprzód **trzy stopnie przygotowania aktu**: ordo, dispositio, completio, które zawsze poprzedzają wykonanie każdego spojrzenia; a następnie każdemu z czterech spojrzeń przypisuje się **jedną** serię siedmiu, tak aby żadna enumeracja nie powtarzała nazw pozostałych spojrzeń ani nie mnożyła katalogu kan. 525 § 1: przy błogosławieństwie wymienia się siedem typów błogosławieństwa (kan. 549¹⁵), przy uświęceniu — siedem święceń (kan. 549¹⁶), przy rezurekcji — siedem wskrzeszeń (kan. 549¹⁷), przy miłości — siedem modusów miłości Bożej (kan. 549¹⁸); dla porządku całości dodaje się jedną series septenaria (kan. 549¹⁹). Ustanawia się wyraźnie: dopełnienie do siedmiu ma charakter **porządkujący i dydaktyczny**, nie doktrynalny — cztery spojrzenia pozostają jednym i jedynym sposobem patrzenia i czynienia (kan. 525 § 1); stopnie przygotowania nie są piątym, szóstym ani siódmym spojrzeniem, lecz warunkami roztropnego wykonania tych samych czterech (kan. 525 § 4).*
+*Preambuła tytułu. Tytuł IV ustanowił siedem stopni jednego spojrzenia (kan. 525 § 1) i im samym — nie jakimkolwiek nowym członom — służy cały niniejszy Tytuł. Zgodnie z katalogiem księgi pomocniczej „Septenarium Błogosławieństw” (codex/md/ksiega-XII.md) ustawia się tu naprzód **trzy stopnie przygotowania aktu**: ordo, dispositio, completio, które zawsze poprzedzają wykonanie każdego spojrzenia; a następnie każdemu z czterech spojrzeń przypisuje się **jedną** serię siedmiu, tak aby żadna enumeracja nie powtarzała nazw pozostałych spojrzeń ani nie mnożyła katalogu kan. 525 § 1: przy błogosławieństwie wymienia się siedem typów błogosławieństwa (kan. 549¹⁵), przy uświęceniu — siedem święceń (kan. 549¹⁶), przy rezurekcji — siedem wskrzeszeń (kan. 549¹⁷), przy miłości — siedem modusów miłości Bożej (kan. 549¹⁸); dla porządku całości dodaje się jedną series septenaria (kan. 549¹⁹). Ustanawia się wyraźnie: dopełnienie do siedmiu ma charakter **porządkujący i dydaktyczny**, nie doktrynalny — cztery spojrzenia pozostają jednym i jedynym sposobem patrzenia i czynienia (kan. 525 § 1); stopnie przygotowania nie są piątym, szóstym ani siódmym spojrzeniem, lecz warunkami roztropnego wykonania tych samych czterech (kan. 525 § 4).*
 
-### Rozdział I: Stopnie przygotowania aktu przed czterema spojrzeniami (*gradus praeparationis*)
+### Rozdział I: Jedna skala siedmiu stopni (*septem gradus aspectus*)
 
-**Kan. 549¹⁴ § 1.** Dawniejszy katalog czteroczłonowy, uprawniony do wymieniania nazw spojrzeń wyłącznie w kan. 525 § 1, otrzymuje tu ramę porządkującą: trzy stopnie wstępne poprzedzają akt, cztery filary stanowią jego treść, a całość domyka miłość jako więź doskonałości (Kol 3,14):
+**Kan. 549¹⁴ § 1.** Katalog uprawniony do wymieniania nazw stopni wyłącznie w kan. 525 § 1 otrzymuje tu swoją tablicę: siedem stopni tworzy jedną, niepodzielną skalę aktu; każdy ma własną siedmioraką enumerację, każda enumeracja służy tylko swemu stopniowi (Kol 3,14):
 
 | # | Człon (łac.) | Znaczenie | Rola w katedrze |
 |---|--------------|-----------|-----------------|
-| 1 | **Ordo** | Porządek / ustanowienie | Stopień wstępny — ład przed aktem |
-| 2 | **Dispositio** | Rozporządzenie / przygotowanie | Stopień wstępny — kształt przed aktem |
-| 3 | **Completio** | Dopełnienie / wypełnienie | Stopień wstępny — domknięcie przed aktem |
-| 4 | **Benedictio** | Błogosławieństwo | Filar I; dopełnia go kan. 549¹⁵ |
-| 5 | **Sanctificatio** | Uświęcenie | Filar II; dopełnia go kan. 549¹⁶ |
-| 6 | **Resurrectio** | Rezurekcja | Filar III; dopełnia go kan. 549¹⁷ |
-| 7 | **Caritas** | Miłość Boża | Filar IV; dopełnia ją kan. 549¹⁸ |
+| 1 | **Ordo** | Porządek / ustanowienie | Stopień I; dopełniają go kan. 549¹⁴ § 2 oraz seria ogólna kan. 549¹⁹ pkt 1 |
+| 2 | **Dispositio** | Rozporządzenie / przygotowanie | Stopień II; dopełnia go seria ogólna kan. 549¹⁹ pkt 2 |
+| 3 | **Completio** | Dopełnienie / wypełnienie | Stopień III; dopełniają go beatitudines kan. 549¹⁹ pkt 6 |
+| 4 | **Benedictio** | Błogosławieństwo | Stopień IV; dopełnia go kan. 549¹⁵ |
+| 5 | **Sanctificatio** | Uświęcenie | Stopień V; dopełnia go kan. 549¹⁶ |
+| 6 | **Resurrectio** | Rezurekcja | Stopień VI; dopełnia go kan. 549¹⁷ |
+| 7 | **Caritas** | Miłość Boża | Stopień VII; dopełnia ją kan. 549¹⁸ |
 
-**§ 2.** Trzy stopnie wstępne mają następujące znaczenie praktyczne w liturgii domowej:
-1° **ordo** — zanim się błogosławi, należy znać porządek dnia i stacji (kan. 521 § 3): ład jest pierwszym imieniem błogosławieństwa;
-2° **dispositio** — zanim się święci, należy przygotować materię, miejsce i serce (kan. 527 § 2): gotowość jest kształtem uświęcenia;
-3° **completio** — zanim się wskrzesza, należy domknąć to, co otwarte: rachunek sumienia wieczorny (kan. 521 § 3 pkt 3) jest ćwiczeniem dopełnienia.
+**§ 2.** Trzy stopnie pierwsze mają następujące znaczenie praktyczne w liturgii domowej, przy czym wykonuje się je **jako uczynki ku drugiemu**, nie jako czynności techniczne:
+1° **ordo** — uporządkować komuś dzień, rejestr i miejsce przy stole; ład jest pierwszym imieniem prawdy i pierwszą formą błogosławieństwa daną w milczeniu (kan. 525¹⁰\*, kan. 530¹\*);
+2° **dispositio** — przygotować materię, miejsce, czas i serce tam, gdzie dobro ma dotrzeć (kan. 527 § 2; kan. 525¹¹\*, kan. 530²\*); gotowość jest kształtem piękności czynionej zawczasu;
+3° **completio** — domknąć to, co otwarte: dokończyć dzieło, spłacić dług, przeprosić do końca; rachunek sumienia wieczorny (kan. 521 § 3) jest ćwiczeniem zwyczajnym tego stopnia (kan. 525¹²\*, kan. 530³\*).
 
-**§ 3.** Zasada interpretacyjna katedry: **siedem liczy się od trzech przed czterema, nie obok nich**. Kto by chciał uczynić ze stopni wstępnych nowe spojrzenia, ten mnoży to, co jedno (kan. 525 § 1), i podlega poprawce szkoły spojrzeń (Tytuł V¹). Zakazuje się nadto przepisywać katalog kan. 525 § 1 w nagłówkach, tabelach czy podsumowaniach innych miejsc Księgi — wystarcza odesłanie do niniejszego kanonu.
+**§ 3.** Zasada interpretacyjna skali: **jedno spojrzenie liczy się od stopnia pierwszego do siódmego, bez luk i bez pięter**. Nie wolno więc ani dzielić skali na „przygotowanie” i „akt” (kan. 525 § 1 in fine), ani mnożyć jej przez dodawanie ósmego członka; kto by chciał uczynić ze stopni pierwszych odrębne cnoty albo z czwartego do siódmego osobną klasyfikację, ten mnoży to, co jedno, i podlega poprawce szkoły spojrzeń (Tytuł V¹). Zakazuje się nadto przepisywać katalog kan. 525 § 1 w nagłówkach, tabelach czy podsumowaniach innych miejsc Księgi — wystarcza odesłanie do niniejszego kanonu.
 
-### Rozdział II: Siedem typów błogosławieństwa (*genera benedictionum*) — dopełnienie Filara I
+### Rozdział II: Siedem typów błogosławieństwa (*genera benedictionum*) — dopełnienie Stopnia I
 
-**Kan. 549¹⁵ § 1.** Dla użytku obrzędu domowego (Tytuł VIII A) ustala się siedem typów, mieszczących wszystkie formuły Księgi IV o sakramentaliach; należą one wyłącznie do pierwszego filara katedry (kan. 549¹⁴ § 1, czł. 4):
+**Kan. 549¹⁵ § 1.** Dla użytku obrzędu domowego (Tytuł VIII A) ustala się siedem typów, mieszczących wszystkie formuły Księgi IV o sakramentaliach; należą one wyłącznie do pierwszego filara katedry (kan. 549¹⁴ § 1, czł. 4), to jest do stopnia czwartego skali:
 
 1. **Benedictio gratiae** — łaska uprzedzająca i uświęcająca jako dar Boży (Ef 2,8).
 2. **Benedictio protectionis** — błogosławieństwo opieki i obrony (Ps 91; Ps 121,7–8).
@@ -1200,9 +1254,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Typy 1–5 odnoszą się do rzeczy i dni, typ 6 wyłącznie do osoby, typ 7 ma charakter eschatologiczny i nie udziela się go nikomu na tym świecie — wymawia się go tylko jako nadzieję (kan. 537 § 1 pkt 3). Wszystkie siedem spełniają regułę kan. 524¹ § 5: błogosławią kogoś lub coś, nigdy nie żądają dla proszącego.
 
-### Rozdział III: Siedem święceń (*ordinationes*) — dopełnienie Filara II
+### Rozdział III: Siedem święceń (*ordinationes*) — dopełnienie Stopnia II
 
-**Kan. 549¹⁶ § 1.** Do drugiego filara katedry (kan. 549¹⁴ § 1, czł. 5) przypisuje się siedem święceń: w tradycji łacińskiej pełne *sacra ordines* liczy się siedem (katalogi średniowieczne, sakramentarze); wymienia się je tu dla porządku historycznego szkoły spojrzeń (kan. 532²):
+**Kan. 549¹⁶ § 1.** Do drugiego filara, to jest do stopnia piątego skali (kan. 549¹⁴ § 1, czł. 5) przypisuje się siedem święceń: w tradycji łacińskiej pełne *sacra ordines* liczy się siedem (katalogi średniowieczne, sakramentarze); wymienia się je tu dla porządku historycznego szkoły spojrzeń (kan. 532²):
 
 1. **Ostiarium** — drzwi/bramy (porter).
 2. **Lectoratus** — czytelnika/lektora.
@@ -1218,9 +1272,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Stosunek do prawa własnego Księgi XII: święcenia pozostają poza jurysdykcją tej Księgi; enumeracja ma znaczenie wyłącznie dydaktyczne — ukazuje, że także władza święceń podlega trzem stopniom przygotowania aktu (ordo, dispositio, completio), zanim przejdzie w uczynki czterech spojrzeń, z których żadnego święcenia nie udzielają (kan. 525 § 5: nie istnieje władza błogosławienia zarezerwowana).
 
-### Rozdział IV: Siedem wskrzeszeń (*resurrectiones in Scriptura*) — dopełnienie Filara III
+### Rozdział IV: Siedem wskrzeszeń (*resurrectiones in Scriptura*) — dopełnienie Stopnia III
 
-**Kan. 549¹⁷ § 1.** Do trzeciego filara katedry (kan. 549¹⁴ § 1, czł. 6) przypisuje się siedem wskrzeszeń: Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia przed wielkim Zmartwychwstaniem Chrystusa; wymienia się je jako wzorce uczynków rezurekcji (kan. 533):
+**Kan. 549¹⁷ § 1.** Do trzeciego filara, to jest do stopnia szóstego skali (kan. 549¹⁴ § 1, czł. 6) przypisuje się siedem wskrzeszeń: Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia przed wielkim Zmartwychwstaniem Chrystusa; wymienia się je jako wzorce uczynków rezurekcji (kan. 533):
 
 1. **Syn wdowy z Sarepty** — przez Eliasza (1 Krl 17,17–24).
 2. **Syn Sunamitki** — przez Elizeusza (2 Krl 4,32–37).
@@ -1234,9 +1288,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Reguła naśladowania: z siedmiu wskrzeszeń czerpie się nie moc czynienia cudów, lecz porządek gestów naprawczych — stanąć nad upadłym (1–3), zatrzymać się przy cudzym nieszczęściu (4), dotknąć tego, co skażone śmiercią (5), zapłakać przed zawołaniem imienia (6), podnieść i doprowadzić do stołu (7; por. Dz 20,11–12).
 
-### Rozdział V: Siedem modusów miłości Bożej (*modus caritatis Dei*) — dopełnienie Filara IV
+### Rozdział V: Siedem modusów miłości Bożej (*modus caritatis Dei*) — dopełnienie Stopnia IV
 
-**Kan. 549¹⁸ § 1.** Do czwartego filara katedry (kan. 549¹⁴ § 1, czł. 7) przypisuje się siedem modusów: klasyfikacja patrystyczno-scholastyczna rozróżnia siedem sposobów tej samej miłości; przyjmuje się je jako siódmą tablicę nauczania domowego (kan. 532¹ § 2):
+**Kan. 549¹⁸ § 1.** Do czwartego filara, to jest do stopnia siódmego skali (kan. 549¹⁴ § 1, czł. 7) przypisuje się siedem modusów: klasyfikacja patrystyczno-scholastyczna rozróżnia siedem sposobów tej samej miłości; przyjmuje się je jako siódmą tablicę nauczania domowego (kan. 532¹ § 2):
 
 1. **Caritas creans** — miłość stwarzająca (ex nihilo; Ps 104,30).
 2. **Caritas providens** — miłość opatrznościowa (Mt 6,26–30).
@@ -1266,7 +1320,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **Kan. 549²⁰ § 1.** Tytuł XV nie zmienia kan. 525 § 1: **spojrzeń sprawczych pozostaje cztery**; trzy stopnie przygotowania aktu (kan. 549¹⁴) oraz serie siedmiu (kan. 549¹⁵–549¹⁹) są ramą redakcyjną, nie nową nauką; nazwy czterech spojrzeń wolno wymieniać wyłącznie w kan. 525 § 1 i w tablicy kan. 549¹⁴ § 1. W razie różnicy zdań między Tytułem XV a Tytułem IV pierwszeństwo ma Tytuł IV.
 
-**§ 2.** Pełne wyliczenie Septenarium Księgi XII obejmuje: trzy stopnie przygotowania aktu przed czterema filarami (kan. 549¹⁴), cztery serie filarowe — po siedem przy każdym spojrzeniu (kan. 549¹⁵–549¹⁸) — oraz jedną serię ogólną (kan. 549¹⁹); wiąże się ono z siedmioma cnotami, Darami i charyzmatami Tytułu IV A oraz z siedmioma Słowami ostatnimi Tytułu XIV. Całość winna być czytana raz w roku, w dniu wspomnienia Objawienia (kan. 541 § 3), po tekście dosłownym (kan. 549 § 4).
+**§ 2.** Pełne wyliczenie Septenarium Księgi XII obejmuje: jedną skalę siedmiu stopni (kan. 549¹⁴), cztery serie szczegółowe — po siedem przy czterech stopniach właściwych (kan. 549¹⁵–549¹⁸) — oraz jedną serię ogólną, domykającą trzy stopnie pierwsze (kan. 549¹⁹); wiąże się ono z siedmioma cnotami, Darami i charyzmatami Tytułu IV A oraz z siedmioma Słowami ostatnimi Tytułu XIV. Całość winna być czytana raz w roku, w dniu wspomnienia Objawienia (kan. 541 § 3), po tekście dosłownym (kan. 549 § 4).
 
 **§ 3.** Słowa Tytułu XV podlegają, na równi ze słowami Tytułów XIII i XIV, próbie uczynku (kan. 530 § 1) oraz przeglądowi wspólnoty w ciągu trzech lat od ogłoszenia, na zasadzie kan. 549⁶ § 5; jeżeli któraś enumeracja okazałaby się konstrukcją redakcyjną Szafarza, przenosi się ją do Appendixu bez naruszania numeracji pozostałych kanonów.
 
