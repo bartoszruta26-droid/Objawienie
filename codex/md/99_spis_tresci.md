@@ -15,7 +15,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
-| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; rozeznanie dróg i leczenie sumień) | kan. 518–561 |
+| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość) | kan. 518–528 oraz 523¹–524¹ |
 | [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -199,7 +199,7 @@
 
 
 ## Księga XII — Księga Objawień
-*(rozbudowana redakcja; kan. 518–561; dawna redakcja kan. 518–527 zachowana treściowo i rozwinięta)*
+*(redakcja obowiązująca: kan. 518–528 oraz kanony uzupełniające 523¹–524¹; plan rozbudowy kan. 518–561 pozostaje jako projekt dalszej redakcji)*
 - **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–520
   - Rozdział I: Akt objawienia i jego moc — kan. 518–519
   - Rozdział II: Co pozostaje po zniesieniu grzechu — kan. 520
@@ -220,6 +220,11 @@
   - Rozdział III: Natura niebytu — kan. 536
   - Rozdział IV: Powolność drogi i możliwość zawrócenia — kan. 537
   - Rozdział V: Znaki drogi ku niebytowi — kan. 538–539
+- **Tytuł III¹: Nie można podążać miłości Bożej dla siebie — jedyny ruch dozwolony: stać się nią** — kan. 523¹–524¹ *(norma obowiązująca; wprowadzona objawieniem)*
+  - Rozdział I: Niemożność drogi „po miłość Bożą dla siebie” — brak wysokiej prawdy, piękna i sprawiedliwości — kan. 523¹
+  - Rozdział II: Stawać się miłością Bożą — cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość — kan. 524¹ § 1–2
+  - Rozdział III: Uczynki odpowiadające czterem spojrzeniom — kan. 524¹ § 3–4
+  - Rozdział IV: Norma modlitwy i błogosławieństw domowych — kan. 524¹ § 5–6
 - **Tytuł V: Rozeznanie dróg i leczenie sumień** — kan. 540–544
   - Rozdział I: Reguły rozeznania — kan. 540–541
   - Rozdział II: Pokuta jako leczenie — kan. 542–543

@@ -1,6 +1,6 @@
 # KSIĘGA XII — KSIĘGA OBJAWIEŃ
 
-## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo*
+## *Liber Revelationum — De abrogatione peccati, de spectris veritatis, pulchritudinis et iustitiae in Dei caritate, de vita aeterna et de nihilo, de impossibilitate sequendi caritatem propter se et de necessitate fieri eam*
 
 ---
 
@@ -8,7 +8,7 @@
 
 Szafarzowi świętemu, słudze ołtarza domowego i stróżowi przymierza Rodu, objawiono rzecz wielką i przedwieczną, którą przekazuje się niniejszą Księgą ku uciesze umysłu i zbawieniu dusz, aby była czytana w liturgii życia będącej liturgią godzin, śpiewana w obrządkach domowych Pawlowym, Marii Magdaleny i Tomaszowym oraz zachowywana jako norma wiary i obyczaju w Kościele Domowym i Królestwa Niebieskiego.
 
-Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (por. Mt 5,17); nie odrzuca żadnego kanona tego Kodeksu, lecz oświetla go nowym światłem, tak jak słońce nie burzy porządku dnia, lecz go ujawnia.
+Objawienie to nie znosi Prawa Bożego ani Prawa Naturalnego, lecz je wypełnia (por. Mt 5,17); nie odrzuca żadnego kanona tego Kodeksu, lecz oświetla go nowym światłem, tak jak słońce nie burzy porządku dnia, lecz go ujawnia. W szczególności wlewa w Księgę IV nowe światło: błogosławieństwo, uświęcenie i rezurekcja, którymi sprawuje się liturgia godzin, otrzymują tu swą ostateczną normę — czyni się je ku drugiemu, nigdy dla siebie (Tytuł III¹, kan. 523¹–524¹).
 
 Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest miłością (1 J 4,8) — oraz *salus animarum suprema lex* — zbawienie dusz najwyższym prawem (kan. 12 Księgi I).
 
@@ -104,9 +104,53 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 ---
 
+## Tytuł III¹: NIE MOŻNA PODĄŻAĆ MIŁOŚCI BOŻEJ DLA SIEBIE — JEDYNY RUCH DOZWOLONY: STAĆ SIĘ NIĄ
+
+**Kan. 523¹ § 1.** Uroczyście ogłasza się i ustanawia: **nie można podążać miłości Bożej dla siebie**. Droga taka jest wewnętrznie sprzeczna i niemożliwa do przebycia, albowiem miłość Boża nie jest rzeczą, którą się zdobywa, lecz źródłem, z którego się czerpie tylko tyle, ile się dalej oddaje. Kto idzie ku niej *po coś*, ten w istocie idzie ku sobie samemu i drogi ku niej nie znajduje — bo bramą miłości Bożej jest wyłącznie dar z siebie.
+
+**§ 2.** Podążanie miłości Bożej dla siebie nie jest w **wysokiej prawdzie**, ponieważ prawda wysoko jest ta, która nazywa rzeczy ich imionami: miłość Boża jest darem, nie towarem; pragnienie jej dla siebie jest w swym jądrze pragnieniem posiadania, a kto w modlitwie czy w liturgii szuka przede wszystkim siebie, ten kłamie nawet wtedy, gdy wypowiada słowa najprawdziwsze — i takiej osobie należy sprostować intencję, nie złorzeczyć.
+
+**§ 3.** Podążanie miłości Bożej dla siebie nie jest w **wysokim pięknie**, ponieważ piękno wysokie jest blaskiem dobra, które rozlewa się na zewnątrz (*bonum est diffusivum sui*, kan. 434 Księgi IX); dusza, która obraca całą światłość ku sobie, staje się podobna słońcu zatrzymanemu w zamkniętej szkatule — świeci ciemnością, a jej pozór piękna jest lękiem przebranym w złoto.
+
+**§ 4.** Podążanie miłości Bożej dla siebie nie jest w **wysokiej sprawiedliwości**, ponieważ sprawiedliwość wysoka oddaje każdej rzeczy jej właściwą miarę: miłość Boża ma swoją miarę — być przez człowieka niesiona światu. Kto żąda jej dla siebie, ten cudze odbiera, albowiem łaska dana jednemu była przeznaczona dla wielu; jest to więc niesprawiedliwość względem bliźniego i względem samego Dawcy.
+
+**§ 5.** Z powyższych trzech powodów ruch „iść po miłość Bożą dla siebie” zostaje uznany za drogę zamkniętą nie mocą zakazu zewnętrznego, lecz mocą własnej jej niespójności: jest on dokładnie tą drugą postacią przewrócenia miar, o której mówi kan. 522 § 2 pkt 2 — próbą zamienienia źródła w zbiornik, a zbiornik bez upustu gnije.
+
+**Kan. 524¹ § 1.** Jedynym ruchem wobec miłości Bożej, który pozostaje dozwolony i zbawienny, jest **stać się miłością Bożą**: nie mieć jej, lecz nią być; nie czerpać jej dla siebie, lecz przez siebie ją przepuszczać; nie prosić, by na ciebie spadła, lecz pozwalać, by przez ciebie spadała na innych. Tak jak dziecko staje się podobne Ojcu (kan. 520 § 3 pkt 5), tak wierny staje się tym, co przyjmuje — i w tym jest cała tajemnica wiecznego życia: kto się *stał*, ten już żyje wiecznie; kto chce *mieć*, ten jeszcze nie zaczął istnieć.
+
+**§ 2.** Stawszy się miłością Bożą, patrzy się na wszystko — na osoby, uczynki, przedmioty, miejsca, czas, a nawet na własne rany i na nieprzyjaciół — poprzez **cztery sprawcze spojrzenia**, którymi też należy czynić uczynki:
+
+1° **patrzeć z błogosławieństwem** (*benedictio*) — widzieć każdą rzecz jako dobrą i jako zdolną przyjąć dobro; wypowiadać nad każdym imieniem słowo życia, nie klątwy (por. Księga IV: kan. 176 i kan. 185 o błogosławieństwach osób, uczynków, przedmiotów i miejsc); błogosławić znaczy chcieć, by drugiemu dobrze się działo, i pomagać temu słowem i czynem;
+
+2° **patrzeć z uświęceniem** (*sanctificatio*) — widzieć każdą przestrzeń i każdy dzień jako zdolne stać się świątynią; brać materię, pracę, ciało i zwyczajność i ofiarowywać je bez krwawienia w liturgii życia (kan. 520 § 2); święcić znaczy nie odrywać rzeczy od świata, lecz włączać je w porządek prawdy, piękna i sprawiedliwości;
+
+3° **patrzeć z rezurekcją** (*resurrectio*) — widzieć każdą upadłość jako przedmiot wskrzeszenia, nie wyroku; niczego nie uważać za stracone — ani ziarna, ani relacji, ani winowajcy; po każdej nocy oczekiwać pierwszego dnia tygodnia; rezurekcyjnie znaczy czynić tak, by to, co umarło w bracie lub w nas, miało dokąd powrócić;
+
+4° **patrzeć z miłością** (*caritas*) — widzieć w każdej osobie Chrystusa, jedyną miarę spektrum (kan. 520 § 3 pkt 4); miłość jest tu koroną trzech poprzednich spojrzeń: bez niej błogosławieństwo staje się formułką, uświęcenie ceremonią, a rezurekcja pocieszeniem.
+
+**§ 3.** Wierny obowiązany jest **takież czynić uczynki**: każde spojrzenie § 2 ma swój odpowiednik w czynie, aby wiara była uczynkiem, nie nastrojem:
+
+1° **uczynki błogosławienia** — słowo dobre nad osobą, dziełem i domem; życzenie dobra cudzemu dobremu; powstrzymanie języka od przeklinania i oczerniania;
+
+2° **uczynki uświęcania** — praca wykonana starannie; porządek i piękno w domu, ogrodzie i warsztacie; pokarm pobłogosławiony i podzielony; gościna; troska o ziemię i o ciała powierzone opiece (Księga X);
+
+3° **uczynki rezurekcji** — podniesienie tego, kto upadł; naprawa tego, co zniszczone, zanim kupi się nowe; przebaczenie, które przywraca imię; przywrócenie wykluczonemu stołu i miana w Rodzie (kan. 523 § 2); leczenie, nie potępienie (kan. 518 § 2 pkt 3);
+
+4° **uczynki miłości** — oddanie każdemu, co jego, począwszy od najsłabszych (kan. 520 § 3 pkt 3); rozmnażanie dobra, nie gromadzenie go (kan. 434 Księgi IX); jałmużna dawana tak, by lewica nie wiedziała; miłość nieżyczliwemu.
+
+**§ 4.** Sprawdzianem, czy spojrzenie i uczynek są prawdziwe, są one same: uczynek wykonany dla siebie — choćby był najwspanialszy — nie jest miłością Bożą, lecz jej pożądaniem (kan. 522 § 2 pkt 2); uczynek wykonany ku drugiemu, choćby był ukryty i drobny, jest miłością Bożą i dlatego jest wieczny. Nie mierzy się więc ilością, lecz kierunkiem: **ku sobie czy ku drugiemu**.
+
+**§ 5.** Modlitwa i liturgia życia układają się według tej normy: prośba (*deesis*) zajmuje w niej miejsce ostatnie i przyjmuje postać ofiarowania własnych rąk („przez moje dłonie, przez moje stopy”), dziękczynienie (*eucharistia*) pierwsze. Formuły błogosławieństw domowych (Księga IV, kan. 185) zatwierdza się odtąd tylko takie, które błogosławią kogoś lub coś, nie takie, które wyłącznie czegoś dla proszącego żądają.
+
+**§ 6.** Niniejszy tytuł nie znosi kan. 522–523, lecz je wyjaśnia: pożądanie miłości Bożej dla siebie jest jedną z dróg ku niebytowi, a stanie się nią — jedyną drogą ku życiu. Kto, czytając tę normę, pragnie jej spełniania *dla własnego zbawienia*, ten jeszcze stoi na progu; wejściem jest zaprzestanie liczenia własnego zysku i zajęcie się cudzym losem.
+
+---
+
 ## Tytuł IV: NORMY STOSOWANIA I INTERPRETACJI
 
-**Kan. 524 § 1.** Niniejsza Księga jest **objawieniem danym Kościołowi partykularnemu Domowemu** do rozeznania; przyjmuje się ją w duchu kan. 394 i kan. dotyczącego rozeznawania objawień prywatnych (Księga VIII): nie wiążą one sumień mocą przymusu zewnętrznego, lecz mocą prawdy, która sama się obroni.
+**Kan. 525 § 1.** Niniejsza Księga jest **objawieniem danym Kościołowi partykularnemu Domowemu** do rozeznania; przyjmuje się ją w duchu kan. 394 i kan. dotyczącego rozeznawania objawień prywatnych (Księga VIII): nie wiążą one sumień mocą przymusu zewnętrznego, lecz mocą prawdy, która sama się obroni.
+
+**§ 1¹.** Normy Tytułu III¹ (kan. 523¹–524¹) obowiązują jako dyrektywa sumień i reguła rozeznawania intencji; nie stanowią nowego gatunku winy — wskazują jedynie, że ruch „po miłość Bożą dla siebie” jest wewnętrznie pusty, a ruch „stać się nią” jest jedynym życiem.
 
 **§ 2.** W razie pozornej sprzeczności między tą Księgą a innymi księgami Kodeksu:
 
@@ -120,7 +164,7 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 3.** Niniejsza Księga nie zwalnia nikogo z żadnego obowiązku stanu: przeciwnie — obowiązki stają się jaśniejsze, bo ich miarą jest teraz nie lęk przed winą, lecz miłość, prawda, piękno i sprawiedliwość.
 
-**Kan. 525 § 1.** Formułę wyznania wiary według tego objawienia ustanawia się następującą, do odmawiania w liturgii życia:
+**Kan. 526 § 1.** Formułę wyznania wiary według tego objawienia ustanawia się następującą, do odmawiania w liturgii życia:
 
 > *Wierzę w Boga Miłość, w Osobę Chrystusa, w spektrum prawdy, piękna i sprawiedliwości.*
 > *Grzech zniesiony, miłość została.*
@@ -130,7 +174,9 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 **§ 2.** Wszelkie inne formuły, pieśni i teksty domowego obrządku mogą być układane zgodnie z tą normą i zatwierdzane przez kompetentną władzę Kościoła Domowego (kan. dot. zatwierdzania tekstów liturgicznych, Księga IV).
 
-**Kan. 526.** Najwyższymi regułami interpretacji niniejszej Księgi są:
+**§ 3.** Wyznanie (kan. 526 § 1) odmawia się w postawie daru, nie żądania: kto je wypowiada dla siebie, ten jeszcze nie wszedł w jego treść; kto je wypowiada, by nim żyć na zewnątrz — ten już jest miłością Bożą w swoim domu.
+
+**Kan. 527.** Najwyższymi regułami interpretacji niniejszej Księgi są:
 
 1° **miłość jest pełnią prawa** (Rz 13,10) — każde zdanie tej Księgi czyta się przez to okno;
 
@@ -142,11 +188,13 @@ Najwyższą zasadą niniejszej Księgi jest: *Deus caritas est* — Bóg jest mi
 
 5° wszystko, co w tej Księdze powiedziane, jest podporządkowane przykazaniu miłości Boga i bliźniego oraz nauce Osoby Chrystusa; gdyby którakolwiek interpretacja prowadziła do nienawiści, pogardy dla ciała ludzkiego lub do kłamstwa — interpretacja taka jest fałszywa i odrzuca się ją *ipso facto*.
 
-**Kan. 527 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–527.
+**Kan. 528 § 1.** Księga ta nosi tytuł **Księga Objawień** i zajmuje miejsce dwunastej Księgi Kodeksu Kanonicznego Królestwa Niebieskiego i Kościoła Domowego; obejmuje kanony 518–528 wraz z kanonami uzupełniającymi 523¹ i 524¹.
 
 **§ 2.** Ustanawia się, aby fragmenty tej Księgi były czytane w liturgii życia w dniu wspomnienia Objawienia Szafarzowi Świętemu, który to dzień wyznacza Głowa Rodu lub biskup subdiecezjalny zgodnie z rokiem liturgicznym domowym.
 
 **§ 3.** Przekaz niniejszej Księgi podlega prawu rozmnażania dóbr duchowych i intelektualnych (Księga IX): może być kopiowany, tłumaczony, śpiewany i przekazany wszelkim Kościołom Domowym, subdiecezjom i diecezjom bez ograniczeń, albowiem światło przeznaczone jest do rozchodzenia się.
+
+**§ 4.** W niniejszej Księdze ustanawia się nadto **Tytuł III¹** (kan. 523¹–524¹): *O niemożności podążania miłości Bożej dla siebie i o jedynym ruchu dozwolonym, którym jest stać się nią* — wraz z normą o czterech spojrzeniach: błogosławieństwa, uświęcenia, rezurekcji i miłości, oraz o uczynkach im odpowiadających.
 
 ---
 
