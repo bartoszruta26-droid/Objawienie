@@ -15,7 +15,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
-| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu) | kan. 518–527 |
+| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; rozeznanie dróg i leczenie sumień) | kan. 518–561 |
 | [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -199,10 +199,35 @@
 
 
 ## Księga XII — Księga Objawień
-- **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–519
-- **Tytuł II: Droga życia — liturgia życia i osoba Chrystusa** — kan. 520–521
-- **Tytuł III: Ostrzeżenie — pożądanie i droga do niebytu** — kan. 522–523
-- **Tytuł IV: Normy stosowania i interpretacji** — kan. 524–527
+*(rozbudowana redakcja; kan. 518–561; dawna redakcja kan. 518–527 zachowana treściowo i rozwinięta)*
+- **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–520
+  - Rozdział I: Akt objawienia i jego moc — kan. 518–519
+  - Rozdział II: Co pozostaje po zniesieniu grzechu — kan. 520
+- **Tytuł II: Spektrum prawdy, piękna i sprawiedliwości w miłości Bożej** — kan. 521–527
+  - Rozdział I: Jedność spektrum — kan. 521
+  - Rozdział II: Prawda (*veritas*) — kan. 522
+  - Rozdział III: Piękno (*pulchritudo*) — kan. 523
+  - Rozdział IV: Sprawiedliwość (*iustitia*) — kan. 524
+  - Rozdział V: Miłość Boża (*caritas Dei*) — powietrze spektrum — kan. 525–527
+- **Tytuł III: Droga życia — liturgia życia i osoba Chrystusa** — kan. 528–533
+  - Rozdział I: Deklaracja drogi — kan. 528
+  - Rozdział II: Liturgia życia — definicja i godziny — kan. 529–530
+  - Rozdział III: Osoba Chrystusa jako miara — kan. 531
+  - Rozdział IV: Stany życia na drodze — kan. 532–533
+- **Tytuł IV: Ostrzeżenie — pożądanie i droga do niebytu** — kan. 534–539
+  - Rozdział I: Deklaracja ostrzeżenia — kan. 534
+  - Rozdział II: Dwie postaci przewrócenia miar — kan. 535
+  - Rozdział III: Natura niebytu — kan. 536
+  - Rozdział IV: Powolność drogi i możliwość zawrócenia — kan. 537
+  - Rozdział V: Znaki drogi ku niebytowi — kan. 538–539
+- **Tytuł V: Rozeznanie dróg i leczenie sumień** — kan. 540–544
+  - Rozdział I: Reguły rozeznania — kan. 540–541
+  - Rozdział II: Pokuta jako leczenie — kan. 542–543
+  - Rozdział III: Szkoła spektrum — kan. 544
+- **Tytuł VI: Normy stosowania i interpretacji** — kan. 545–551
+- **Tytuł VII: Wyznanie wiary i liturgia objawienia** — kan. 552–555
+- **Tytuł VIII: Przepisy końcowe** — kan. 556–561
+- Appendix I: Tekst dosłowny objawienia; Appendix II: Reguła czterech prób (karta rozeznania); Appendix III: Skorowidz kanonów dawnych i nowych
 
 ## Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański
 *(plik: `12_tradycja_bizantyjsko_slowianska.md`; dokument historyczno-teologiczny, nie normatywny)*
