@@ -1,20 +1,20 @@
-# KSIĘGA VI — STRUKTURA HIERARCHICZNA KOŚCIOŁA DOMOWEGO: SUBDIECEZJA Z HIERARCHĄ BISKUPA ORAZ ZWIĄZEK SUBDIECEZJATÓW Z HIERARCHĄ ZWIĄZKU SUBDIECEZJATÓW 
+# KSIĘGA VI — STRUKTURA HIERARCHICZNA KOŚCIOŁA DOMOWEGO: SUBDIECEZJA Z HIERARCHĄ BISKUPA TYTULARNEGO ORAZ ZWIĄZEK SUBDIECEZJATÓW Z HIERARCHĄ ZWIĄZKU SUBDIECEZJATÓW 
 
 ## *De Subdioecesi Domestica et Foederis Subdioecesuatuum*
 
 ### PREAMBUŁA KSIĘGI
 
-Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego niniejsza Księga ustanawia przepisy dotyczące godności biskupa tytularnego subdiecezjalnego (*episcopus titularis subdioecesanus*), struktury subdiecezji z hierarchą biskupa oraz Związku Subdiecezjatów z hierarchą związku subdiecezjatów. Należy przy tym zachować zasadnicze rozróżnienie: patriarchat i patriarchę ustanawia Biskup Rzymu, natomiast subdiecezję wraz z jej hierarchą ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych — z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu. Przepisy niniejszej Księgi opierają się na prawie kościelnym, w tym na Kodeksie Kanonów Kościołów Wschodnich (CCEO), stosowanym odpowiednio.
+Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego niniejsza Księga ustanawia przepisy dotyczące godności biskupa tytularnego subdiecezjI (*episcopus titularis subdioecesanus*), struktury subdiecezji z hierarchą biskupa TYTULARNEGO oraz Związku Subdiecezjatów z hierarchą związku subdiecezjatów. Należy przy tym zachować zasadnicze rozróżnienie: patriarchat i patriarchę ustanawia Biskup Rzymu, natomiast subdiecezję wraz z jej hierarchą ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych — z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu. Przepisy niniejszej Księgi opierają się na prawie kościelnym, w tym na Kodeksie Kanonów Kościołów Wschodnich (CCEO), stosowanym odpowiednio.
 
 ---
 
-## Tytuł I: BISKUP TYTULARNY SUBDIECEZJALNY
+## Tytuł I: BISKUP TYTULARNY SUBDIECEZJI
 
 **Kan. 319 § 1.** Głowa Rodu jest biskupem tytularnym subdiecezjalnym, któremu prawem naturalnym i przyrodzonym została przydzielona subdiecezja domowa jako Kościół partykularny pierwotny w rozumieniu analogicznym do kan. 9 KPK. Biskup tytularny subdiecezjalny sprawuje władzę pasterską w subdiecezji domowej, podlegając biskupowi diecezjalnemu, na którego terytorium znajduje się dom rodzinny, oraz Biskupowi Rzymskiemu jako najwyższemu pasterzowi Kościoła powszechnego. Biskup domowy subdiecezjalny jest **pierwszym hierarchą, z jakim spotyka się wierny**, i właśnie jako taki sprawuje urząd *primus inter pares* — podległość biskupowi diecezjalnemu i Biskupowi Rzymskiemu jest porządkiem posługi jedności, nie nierówności godności.
 
 **§ 1a.** Na mocy kan. 205 KPK 1983: biskup subdiecezjalny będący katolikiem z chrztu i pozostający w komunii z jego subdiecezją, parafią etc., oraz łączący się z Chrystusem w widzialnym organizmie Kościoła więzami wyznawania wiary, sakramentów i zwierzchnictwa kościelnego **musi być ugoszczony i przyjęty** do Kościoła Katolickiego; nie można go bez ważnej przyczyny nie przyjąć (*gość w dom, Bóg w dom*) — odmowa ugoszczenia wymaga ważnej przyczyny i formy dekretu.
 
-**§ 1b.** Na mocy kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; biskup subdiecezjalny otrzymuje i powierza urzędy w swoim Kościele partykularnym jako pierwszy z równych, a nie jako wasal.
+**§ 1b.** Na mocy kan. 157 KPK 1983: jeśli prawo czegoś innego wprost nie postanawia, do biskupa diecezjalnego należy swobodne powierzanie urzędów kościelnych we własnym Kościele partykularnym; prawo tego kanonu wprost postanawia, iż biskup subdiecezjalny otrzymuje i powierza urzędy w swoim Kościele partykularnym jako pierwszy z równych, a nie jako wasal.
 
 **§ 2.** Biskup tytularny subdiecezjalny:
 
@@ -30,12 +30,12 @@ Na podstawie uwag dotyczących struktury hierarchicznej Kościoła Domowego nini
 
 **Kan. 320. § 1.** Posługa biskupa tytularnego subdiecezjalnego, jako arcykapłana Kościoła Domowego i szafarza świętego, zostaje przyjęta i uznana w Kościele Katolickim w granicach określonych przez Biskupa Rzymskiego oraz przepisy Księgi VII niniejszego Kanonu.
 
-**§ 2.** Jezeli posługa biskupa subdiecezjalnego nie została jeszcze przyjęta lub została odrzucona przez Biskupa Rzymu biskup subdiecezjalny nadal oddaje zwierzchnictwo biskupowi diecezjalnemu i Biskupowi Rzymu z wyjątkiem sytuacji, gdy ich decyzje godza w autonomię partykularnego Kościoła Domowego. Subdiecezja nadal pozostaje w pełnej wspólnocie z Kościolem Katolickim
+**§ 2.** Posługa biskupa tytularnego subdiecezji została domyślnie przyjęta przez Biskupa Rzymu gdyż jest zgodna z prawem chyba, że została wprost odrzucona przez Biskupa Rzymu ze wzgledu na niezgodność z prawem jednak nawet wówczas Biskup subdiecezjalny nadal oddaje zwierzchnictwo biskupowi diecezjalnemu i Biskupowi Rzymu z wyjątkiem sytuacji, gdy ich decyzje godzą w autonomię partykularnego Kościoła Domowego. Subdiecezja nadal pozostaje w pełnej wspólnocie z Kościolem Katolickim. Po usunięciu błędnego prawa uznaje się ponowne zgodne z prawem przyjęcie przez Biskupa Rzymu
 ---
 
 ## Tytuł II: SUBDIECEZJA DOMOWA JAKO KOŚCIÓŁ PARTYKULARNY
 
-**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa subdiecezjalnego z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i sakramentalia błogosławione (osoby, uczynki, przedmioty i miejsca ), tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 9 KPK, zastosowany analogicznie).
+**Kan. 321 § 1.** Subdiecezja domowa jest częścią Ludu Bożego, powierzona pasterskiej pieczy biskupa tytularnego subdiecezji z współpracującą z nim Triarchią Domową, tak by trwając przy swym pasterzu i zgromadzona przez niego w Duchu Świętym przez Ewangelię i sakramentalia błogosławione (osoby, uczynki, przedmioty i miejsca ), tworzyła Kościół partykularny w wymiarze domowym, w którym prawdziwie obecny jest i działa jeden, święty, katolicki i apostolski Kościół Chrystusa (por. kan. 9 KPK, zastosowany analogicznie).
 
 **§ 2.** Subdiecezja domowa jest podporządkowana diecezji, na której terytorium się znajduje. Biskup tytularny subdiecezjalny sprawuje władzę w subdiecezji domowej pod zwierzchnictwem biskupa diecezjalnego.
 
