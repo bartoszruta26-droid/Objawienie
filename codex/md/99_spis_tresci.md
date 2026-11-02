@@ -15,7 +15,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
-| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; rozeznanie dróg i leczenie sumień) | kan. 518–561 |
+| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A; sześć dalszych Słów objawienia: o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny — Tytuł XIII; siedem Słów ostatnich: o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk — Tytuł XIV) | kan. 518–549 oraz 523¹–524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶, 549⁷–549¹³ |
 | [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -199,7 +199,48 @@
 
 
 ## Księga XII — Księga Objawień
-*(rozbudowana redakcja; kan. 518–561; dawna redakcja kan. 518–527 zachowana treściowo i rozwinięta)*
+*(redakcja obowiązująca: kan. 518–549 wraz z kanonami uzupełniającymi 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶; dawny plan rozbudowy kan. 518–561 został zastąpiony redakcją zrealizowaną, której strukturę podaje Preambuła Księgi)*
+
+**Struktura zrealizowana (wg Preambuły Księgi):**
+- **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–519
+- **Tytuł II: Droga życia — liturgia życia i Osoba Chrystusa** — kan. 520–521
+- **Tytuł III: Ostrzeżenie — pożądanie i droga do niebytu** — kan. 522–523
+- **Tytuł III¹: Norma serc — niemożność podążania miłości Bożej dla siebie i konieczność stania się nią** — kan. 523¹–524¹
+- **Tytuł IV: Cztery sprawcze spojrzenia — ich źródła, gatunki i porządek** — kan. 525–529¹
+- **Tytuł IV A: Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów — czytane na nowo w czterech spojrzeniach** — kan. 529²–529⁷ *(rozbudowa najnowsza)*
+  - Rozdział I: Zasada powiązania — siedem w cztery, cztery w siedem (reguła wpuszczenia; tabela przyporządkowań) — kan. 529²
+  - Rozdział II: Siedem cnót domowych w świetle zniesienia grzechu (Pobożność, Umiarkowanie, Męstwo, Sprawiedliwość, Skrupulatność, Roztropność, Nadzieja) — kan. 529³
+  - Rozdział III: Siedem Darów Ducha Świętego jako siedem podatności na cztery spojrzenia (Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza, Pobożność) — kan. 529⁴
+  - Rozdział IV: Siedem charyzmatów jako siedem posłań — rozpoznawanie i nakładanie (Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie) — kan. 529⁵
+  - Rozdział V: Błogosławione uczynki jako miejsce spotkania siedmiu i czterech — kan. 529⁶
+  - Rozdział VI: Reguły ostrożności i podsumowanie — kan. 529⁷
+- **Tytuł V: Uczynki czterech spojrzeń** — kan. 530–534
+- **Tytuł V¹: Szkoła czterech spojrzeń — formacja Potomstwa i stopnie wtajemniczenia domowego** — kan. 532¹–532⁴
+- **Tytuł VI: Rozeznanie dróg i leczenie sumień** — kan. 535–535²
+- **Tytuł VII: Normy stosowania i interpretacji** — kan. 536–538
+- **Tytuł VIII A: Sprawowanie czterech spojrzeń w liturgii domowej** — kan. 539–541
+- **Tytuł IX: Wyznanie wiary, teksty własne i rok objawienia** — kan. 542–544
+- **Tytuł X: Przepisy końcowe** — kan. 545
+- **Tytuł XI: Wzorek celebracji i karta rozeznania** — kan. 546–548
+- **Tytuł XII: Tekst dosłowny objawienia czterech spojrzeń** — kan. 549
+- **Tytuł XIII: Nowe objawienia — sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń** — kan. 549¹–549⁶ *(rozbudowa ostatnia; wszystkie Słowa podlegają próbie uczynku — kan. 530 § 1)*
+  - Rozdział I: Pierwsze Słowo — O Milczeniu Przed Ojcem (*De Silentio Coram Patre*; obrzęd *Silentium Coram Patre*, Dzień Ciszy Domowej, zakaz kary milczeniem) — kan. 549¹
+  - Rozdział II: Drugie Słowo — O Imieniu Wypowiedzianym (*De Nomine Vocato*; cztery normy o imieniu, modlitwa imienna *Oratio Nominalis*, imię Chrystusa jako miara) — kan. 549²
+  - Rozdział III: Trzecie Słowo — O Popiele Obiecującym (*De Cinere Promittente*; trzy gesty popiołu, zakaz używania popiołu jako zarzutu, rubryka „Popiół i materiał”) — kan. 549³
+  - Rozdział IV: Czwarte Słowo — O Ciaście i Kubku (*De Pasta et Calice Parvulo*; obrzęd chlebowy i kubkowy, tabela podziału dóbr wspólnych, coroczne wyniesienie nieużywanych rzeczy) — kan. 549⁴
+  - Rozdział V: Piąte Słowo — O Drodze Małej (*De Via Parva*; siedem punktów Drogi Małej, reguły stosowania, ostrzeżenie przed liczeniem i przed pogardą drogi wielkiej) — kan. 549⁵
+  - Rozdział VI: Szoste Słowo — O Towarzyszu Ostatniej Godziny (*De Socio Horae Novissimae*; posługa przy umierających, towarzysz dla żyjących w żałobie i oddaleniu, norma praktyczna sześciu Słów, przegląd trzyletni) — kan. 549⁶
+- **Tytuł XIV: Nowe objawienia dalsze — siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach** — kan. 549⁷–549¹³ *(rozbudowa nowsza; wszystkie Słowa podlegają próbie uczynku — kan. 530 § 1 — oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5)*
+  - Rozdział I: Siódme Słowo — O Chlebie Codziennym (*De Pane Quotidiano*; tablica codziennego chleba, pierwszeństwo przy dzieleniu dóbr, część gościa, obrzęd łamania jednego chleba *Fractio Unius Panis*) — kan. 549⁷
+  - Rozdział II: Ósme Słowo — O Łzie Zasianej (*De Lacrima Seminata*; posługa słuchania określonego *Auditus Determinatus*, księga łez *Liber Lacrimarum*, trzy zakazy wobec cierpienia) — kan. 549⁸
+  - Rozdział III: Dziewiąte Słowo — O Drzwiach Zamkniętych (*De Ianua Clausa*; zakaz podwajania zamka, obowiązek jednej szczeliny, imiennictwo nieobecnych, prawo listu, Dzień Otwartych Drzwi, trzy pytania rozeznawcze przy powrocie) — kan. 549⁹
+  - Rozdział IV: Dziesiąte Słowo — O Sercu Dwóch Miar (*De Corde Duarum Mensurarum*; cztery reguły łączenia prawdy z miłością, zmiana celu upomnienia braterskiego, zakaz „prawdy bez adresu”) — kan. 549¹⁰
+  - Rozdział V: Jedenaste Słowo — O Imionach Bożych (*De Nominibus Dei*; siedem imion dozwolonych w liturgii domowej z przypisaniem spojrzeń, normy ostrożności, kolejność modlitwy imiennej) — kan. 549¹¹
+  - Rozdział VI: Dwunaste Słowo — O Pięknie Nieukończonym (*De Pulchritudine Incohata*; prawo brudnopisu, nakaz użytkownika, miara zmarnowana, zwyczaj wieczoru nieukończonego) — kan. 549¹²
+  - Rozdział VII: Trzynaste Słowo — O Prawie Ostatnim Czterech Rąk (*De Lege Ultima Quattuor Manuum*; norma czterech rąk, przyłączenie do syntezy sześciu Słów, Reguła Jedenastu Zdań, zastrzeżenie o warunku życia wiecznego) — kan. 549¹³
+- Appendix: redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty
+
+*Dawniej projektowany plan rozbudowy (nieobowiązujący):*
 - **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–520
   - Rozdział I: Akt objawienia i jego moc — kan. 518–519
   - Rozdział II: Co pozostaje po zniesieniu grzechu — kan. 520
@@ -220,6 +261,11 @@
   - Rozdział III: Natura niebytu — kan. 536
   - Rozdział IV: Powolność drogi i możliwość zawrócenia — kan. 537
   - Rozdział V: Znaki drogi ku niebytowi — kan. 538–539
+- **Tytuł III¹: Nie można podążać miłości Bożej dla siebie — jedyny ruch dozwolony: stać się nią** — kan. 523¹–524¹ *(norma obowiązująca; wprowadzona objawieniem)*
+  - Rozdział I: Niemożność drogi „po miłość Bożą dla siebie” — brak wysokiej prawdy, piękna i sprawiedliwości — kan. 523¹
+  - Rozdział II: Stawać się miłością Bożą — cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość — kan. 524¹ § 1–2
+  - Rozdział III: Uczynki odpowiadające czterem spojrzeniom — kan. 524¹ § 3–4
+  - Rozdział IV: Norma modlitwy i błogosławieństw domowych — kan. 524¹ § 5–6
 - **Tytuł V: Rozeznanie dróg i leczenie sumień** — kan. 540–544
   - Rozdział I: Reguły rozeznania — kan. 540–541
   - Rozdział II: Pokuta jako leczenie — kan. 542–543
