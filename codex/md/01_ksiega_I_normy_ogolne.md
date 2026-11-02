@@ -1,0 +1,126 @@
+# KANON PRAWA KANONICZNEGO KOŚCIOŁA DOMOWEGO
+## *Codex Iuris Canonici Ecclesiae Domesticae*
+
+
+## KSIĘGA I — NORMY OGÓLNE
+
+### Tytuł I: Przedmiot i zakres stosowania
+
+**Kan. 1 § 1.** Kanony niniejszego Kodeksu dotyczą Kościoła Domowego i Kościoła Królestwa Niebieskiego jako partykularnych wspólnot wiernych, wątpiących i niewierzących, erygowanej na mocy prawa naturalnego i Bożego w domu rodzinnym Głowy Rodu i Królestwie Niebieskim zgodnie z tradycją kościołów pierwotnych i ustanowionego prawem, i regulują jego ustrój, liturgię, posługi, zadania oraz porządek prawny.
+
+**§ 2.** Kościół Domowy i Kościół Królestwa Niebieskiego, o którym mowa w § 1, jest wspólnotą *sui iuris*, działającą wg tradycji prawa, tradycji ludzkiej pierwotnej i tradycji słowiańskiej powstałej od niepamiętnych czasów oraz tradycji rodzinnej powstałej przed trzydziestoma laty na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego (art. 18 Powszechnej Deklaracji Praw Człowieka, art. 9 Europejskiej Konwencji Praw Człowieka), prawa państwowego (ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, art. 2 ust. 11) oraz niniejszego Kanonu.
+
+**§ 3.** Niniejszy Kanon nie uchyla ani nie zmienia przepisów Kodeksu Prawa Kanonicznego z 1983 roku w zakresie, w jakim dotyczą one Kościoła Powszechnego, lecz stanowi prawo partykularne wspólnoty domowej, działającej w ramach powszechnego kapłaństwa wiernych (kan. 4 KPK) oraz teologii Kościoła Domowego (*Ecclesia Domestica*) i teologii Kościoła Królestwa Niebieskiego (* Ecclesia Regni Dei *).
+
+**Kan. 2 § 1.** Kościół Domowy jest pierwotną partykularną wspólnotą Ludu Bożego tak samo jak Kościół Królestwa Niebieskiego, w której istnieje i z której składa się jeden, święty, katolicki i apostolski Kościół Chrystusa w wymiarze domowym i Królestwa Niebieskiego , zgodnie z analogią do kan. 9 KPK, zastosowaną do wspólnoty rodzinnej. Kościół Domowy i Kościół Królestwa Niebieskiego, jako kościół pierwotny, jest pierwszy wśród równych mu wspólnot partykularnych (*primus inter pares particularium communitatum*) — pierwszy w czasie spotkania wiernego z Kościołem, równy im wszystkim co do godności.
+
+**§ 2.** Dom rodzinny Głowy Rodu stanowi terytorium subdiecezjalne Kościoła Domowego. Granice tej subdiecezji obejmują:
+
+1° dom mieszkalny i jego bezpośrednie otoczenie;
+
+2° ziemię, ogród i zabudowania należące do Rodu;
+
+3° miejsca czasowego pobytu rodziny podczas pielgrzymek, podróży i rekolekcji;
+
+4° przestrzeń wirtualną, w której wspólnota sprawuje łączność modlitewną i formacyjną.
+
+5° **trud** (*gregis et operis area*) — stado, pasiekę, pole, łąkę, pastwisko, ogród, warsztat i spichlerz wraz z narzędziami pracy oraz owocami ludzkiego wysiłku; terytorium trudu obejmuje zasada nadrzędna „Trud i praca to świętość” (*sanctitas gregis et operis*, Preambuła kan. 1zx) — jest to przestrzeń uświęcona, w której człowiek współdziała z Bogiem jako współstwórca.
+
+**§ 3.** Kościół Domowy i Kościół Królestwa Niebieskiego posiada osobowość prawną na mocy samego prawa naturalnego i Bożego. W porządku cywilnym może działać jako świecka organizacja religijna (art. 2 ust. 11 ustawy o gwarancjach wolności sumienia i wyznania), stowarzyszenie, lub Kościół niewpisany do rejestru Kościołów lub Kościół wpisany do rejestru Kościołów lub inna forma organizacyjna przewidziana prawem. Przepis prawa niniejszego kanonu stanowi, iż osobowość prawna Kościoła Domowego nie musi być wpisywana do żadnego rejestru jeżeli władze Kościoła Domowego i Kościoła Królestwa Niebieskiego sobie tego wyraźnie nie życzą.
+
+**§ 4.** Klauzula interpretacyjna ogólna: wszystkie przepisy dotyczące przyjęcia wiernych (kan. 14–19 Księgi II, Księga VII — Przyjęcie i Oddalenie, Preambuła kan. 1l oraz kan. 1u–1y i kan. 1zq) należy czytać i stosować w duchu zasady „pierwszy z równych” (*primus inter pares*): pierwszeństwo władzy domowej w akcie przyjęcia nie rodzi nierówności godności osoby przyjętej — ani przyjętej wolą Triarchii Domowej, ani przyjętej na chwilę wolą władzy Kościoła Domowego i Kościoła Królestwa Niebieskiego.
+
+**Kan. 3.** Niniejszy Kanon obowiązuje wszystkich członków Kościoła Domowego i Kościoła Królestwa Niebieskiego: Głowę Rodu, Małżonkę, Potomstwo oraz osoby przyjęte do wspólnoty na zasadach określonych w kanonach.
+
+1° Osoby przyjęte wolą Triarchii Domowej oraz osoby przyjęte na chwilę wolą władzy Kościoła Domowego są objęte obowiązkiem niniejszego kanonu na zasadzie równości z członkami zrodzonymi — różnicuje je tylko zakres i czas uprawnień, nie godność.
+
+**Kan. 4.** Ustawy niniejszego Kanonu odnoszą się do przyszłości, i do przeszłości w związku z autentyczną interpretacją prawa i tradycją istniejącą od niepamiętnych czasów, chyba że wyraźnie zastrzega się w nich inaczej (por. kan. 9 KPK).
+
+**Kan. 5 § 1.** W wątpliwości prawnej kanony niniejszego Kodeksu także obowiązują. W wątpliwości faktycznej Głowa Rodu jako biskup domowy może rozstrzygać zgodnie z roztropnością, sprawiedliwością i miłością, na korzyść strony słabszej. Szczegółowe dyrektywy rozstrzygania wątpliwości co do stosowania prawa powszechnego określają przepisy Księgi III — Prawo Kościelne (kan. 49–143), w szczególności normy o interpretacji ustaw (kan. 61–64).
+
+**Kan. 6.** Żaden zwyczaj przeciwny Prawu Bożemu nie może uzyskać mocy prawa w Kościele Domowym i Kościele Królestwa Niebieskiego. Szczegóły dotyczące zwyczaju (w tym trzydziestoletniego okresu przedawnienia przeciw prawu ludzkiemu) określa w sposób wyczerpujący Tytuł II Księgi III (kan. 65–70).
+
+**Kan. 7.** Prawa nabyte członków Kościoła Domowego pozostają nienaruszone, chyba że kanony niniejszego Kodeksu wyraźnie je odwołują.
+
+---
+
+### Tytuł II: Definicje i pojęcia
+
+**Kan. 8.** W niniejszym Kanonie:
+
+1° **Kościół Domowy** (*Ecclesia Domestica*) i Kościół Królestwa Niebieskiego (* Ecclesia Regni Dei *) — kościół partykularny pierwotny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi spełniająca definicję KPK kan. 281 będąca w szczególności subdiecezją;
+
+2° **Subdiecezja Domowa** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową; Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub który będąc wybranym zgodnie z prawem Bożym i uświęconym Duchem Świętym przyjętym jest przez Biskup Rzymu. Subiecezją  jest terytorium biskupa domowego niemianowanego i przyjętego domyślnie przez Biskupa Rzymu ale mianowanego prawem Bożym i natchnionego Duchem Świętym a którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa tytularnego domowego; subdiecezję wraz z jej hierarchą biskupa tytularnego ustanawia hierarcha subdiecezji (macierzystej). 
+
+3° **Biskup tytularny ** - biskup tytularny rozumiany jako KPK kan. 288 osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych przez natchnienie Duchem Świętym, który został mu dany jest ustanowiony w Kościele Domowym i Kościele Królestwa Niebieskiego pasterzem, ażeby był nauczycielem, kapłanem świętego kultu i sprawującym posługę rządzenia nad całym Ludem Bożym zarówno wiernymi jak i niewierzącymi. Biskup tytularny może zostać mianowany przez Biskupa Rzymu lub będąc wybranym zgodnie z prawem Bożym przyjęty domyślnie w zgodności z prawem przez Biskup Rzymu;
+
+3a° **Hierarcha Subdiecezji** (*hierarcha subdioecesis*) — biskup tytularny sprawujący władzę pasterską nad subdiecezją; subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji macierzystej, nie Biskup Rzymu;
+
+3b° **Związek Subdiecezjatów i jego hierarcha** (*foedus subdioecesuatuum*) — zrzeszenie subdiecezjatów kierowane przez hierarchy związku subdiecezjatów wybranego spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu; 
+
+4° **Głowa Rodu** (*Paterfamilias*, *Caput Familiae*) — mąż, ojciec, głowa szlachetnego Rodu, sprawujący posługę szafarza świętego, arcykapłana i biskupa tytularnego domowego;
+
+5° **Małżonka** — żona, matka, pełniąca funkcję nadzorczą, dusza wspólnoty i współszafarka łaski;
+
+6° **Potomek** — dziecko, syn lub córka, sekretarz woli Rodu i dziedzic tradycji;
+
+7° **Triarchia Domowa** — trójwładza Ojca, Matki i Potomka, stanowiąca radę decyzyjną Kościoła Domowego;
+
+8° **Obrządek Domowy** — ustalony porządek liturgiczny i duchowy sprawowany w domu;
+
+9° **Obrządek Rodzinny Marii Magdaleny** — wymiar kontemplacyjny i miłosierny wspólnoty;
+
+10° **Obrządek Ducha Świętego Pawłowy** — wymiar misyjny i charyzmatyczny wspólnoty;
+
+11° **Obrządek Osobowy Tomaszowy** — wymiar intelektualny i prawdomówny wspólnoty;
+
+12° **Przedmioty, miejsca i osoby błogosławione domowe** — sakramentalia będące błogosławieństwem czynów, miejsc, przedmiotów i osób, błogosławieństwa sprawowane przez Głowę Rodu w domu;
+
+13° **Liturgia Życia** — szczególna forma liturgii godzin, codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu i rodzinie obejmująca kontemplację, medytację i modlitwę w codziennych drobnych i obszernych czynnościach domowych.
+
+14° **Trud** — stado, pasieka, plon, ogród, narzędzie oraz owoce ludzkiego wysiłku; całość tego, co rodzi się z trudu rąk ludzkich przy współdziałaniu łaski Bożej;
+
+15° **Praca** (*labor*) — każde celowe, świadome działanie człowieka służące dobru wspólnemu i utrzymaniu życia, obejmujące uprawę roli, hodowlę, pszczelarstwo, rzemiosło, twórczość intelektualną i pracę domu; praca jest pierwszym powołaniem człowieka (Rdz 2,15) i stanem łaski, nie tylko środkiem zarobkowym;
+
+16° **Świętość trudu** (*sanctitas laboris et operis*) — zasada nadrzędna porządku prawnego Kościoła Domowego („Tród i praca to świętość”, Preambuła kan. 1zx), oznaczająca, że trud i praca są przestrzenią uświęconą, owoc pracy jest nietykalny, a wyzysk i praca przymusowa są zakazane; 
+
+---
+
+### Tytuł III: Zasady nadrzędne porządku prawnego Kościoła Domowego
+
+**Kan. 9.** Porządek prawny Kościoła Katolickiego — ustawy kościelne (powszechne i partykularne), ich interpretację, zwyczaj, dekrety ogólne i instrukcje, poszczególne akty administracyjne, reskrypty, przywileje, dyspensy oraz statuty i przepisy porządkowe — wraz ze wskazaniem, w jaki sposób Kościół Domowy każdy z tych elementów przyjmuje, stosuje i respektuje, określają w sposób wyczerpujący kolejne księgi. 
+
+**Kan. 10 § 1.** Hierarchia źródeł prawa w Kościele Domowym jest następująca:
+
+1° Prawo Boże Królestwa Niebieskiego — stoi ponad prawem naturalnym, w skrócie 'prawo';
+
+2° Prawo Naturalne — stoi ponad prawem stanowionym;
+
+3° powszechne prawo Kościoła Katolickiego (Kodeks Prawa Kanonicznego z 1983 roku oraz pozostałe źródła wymienione w kan. 68–69 Księgi III) — stoi ponad prawem partykularnym Kościoła Domowego i w sposób tożsamy Kodeks Kanonu Kościołó2 Wschodnich z 1990 roku;
+
+4° prawo partykularne diecezji, na której terytorium znajduje się subdiecezja i  dom rodzinny — w granicach określonych w kan. 72–74 Księgi III;
+
+5° prawo partykularne Kościoła Domowego — uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
+
+6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej w tej hierarchii.
+
+7° źródłem interpretacyjnym prawa domowego jest od dnia ogłoszenia Uzupełnienia Preambuły także **zasada „Trud i praca to świętość”** (*sanctitas laboris et operis*, Preambuła kan. 1zx) — każda wątpliwość co do sensu przepisu dotyczącego pracy, trudu, plonu, narzędzia lub owocu wysiłku wiernego rozstrzyga się zgodnie z tą zasadą, w duchu *Laborem exercens* św. Jana Pawła II o podmiotowym i sakralnym charakterze pracy.
+
+**§ 2.** Żadne prawo partykularne Kościoła Domowego nie może uchylać prawa Bożego, naturalnego ani powszechnego prawa kościelnego.
+
+**Kan. 11 § 1.** Ustawy niniejszego Kodeksu, stanowiące prawo partykularne Kościoła Domowego, promulguje Głowa Rodu jako prawodawca domowy w sposób określony przez samą ustawę; zaczynają one obowiązywać po miesiącu od dnia promulgacji, chyba że w samej ustawie określono inny termin (por. kan. 8 § 2 KPK, zastosowany analogicznie; szczegóły — kan. 57 Księgi III).
+
+**§ 2.** Ustawy partykularne Kościoła Domowego nie mogą być sprzeczne z normami wskazanymi w kan. 10 § 1. Ustawa powszechna Kościoła nie zmienia prawa partykularnego Kościoła Domowego, chyba że co innego jest w prawie wyraźnie zastrzeżone (por. kan. 20 KPK).
+
+**Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 58–60 Księgi III (porządkowanie ustaw, późniejsza ustawa derogująca, charakter personalny ustaw partykularnych), a ponadto w kan. 139–143 Księgi III oraz w kan. 344 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
+
+---
+
+### Tytuł IV: Celibat i drobne postanowienia ogólne
+
+**Kan. 13.** § 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapłaństwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoła powszechnego; również powinien być w poważaniu stan duchownych związanych małżeństwem, usankcjonowany przez praktykę Kościoła pierwotnego i Kościołów wschodnich. Za celibat uznaje się wstrzemięźliwość płciową czyli zachowanie umiaru w kontaktach płciowych.
+
+§ 2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, należy zachować prawo partykularne.
+
+
+---
