@@ -428,13 +428,13 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział I — Próba uczynku
 
-**Kan. 530 § 1.** Każde nauczanie tej Księgi podlega próbie uczynku: należy zapytać, czy prowadzi do konkretnego dobra, które można rozpoznać w życiu osoby lub wspólnoty.
+**Kan. 530¹ § 1.** Każde nauczanie tej Księgi podlega próbie uczynku: należy zapytać, czy prowadzi do konkretnego dobra, które można rozpoznać w życiu osoby lub wspólnoty.
 
 **§ 2.** Uczynek ma adresata. Nie wystarczy powiedzieć, że działało się z miłości; należy sprawdzić, czy działanie szanowało wolność, potrzeby i prawa człowieka, któremu miało służyć.
 
 **§ 3.** Przykładami uczynków są: przygotowanie posiłku, opieka nad chorym, uczciwa zapłata, naprawa rzeczy, nauczanie dziecka, wysłuchanie osoby samotnej, pomoc w transporcie, uczciwe rozliczenie długu, ochrona osoby zagrożonej i przywrócenie dobrego imienia.
 
-**Kan. 531 § 1.** Uczynek błogosławieństwa może polegać na:
+**Kan. 530² § 1.** Uczynek błogosławieństwa może polegać na:
 1° wypowiedzeniu prawdy bez upokarzania;
 2° nazwaniu człowieka po imieniu i uznaniu jego godności;
 3° przekazaniu słowa nadziei bez składania fałszywej obietnicy;
@@ -445,17 +445,15 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 **§ 3.** Uczynek rezurekcji może polegać na pomocy w leczeniu, odbudowie relacji tam, gdzie jest to bezpieczne, naprawieniu szkody, przywróceniu dostępu do wspólnoty i wsparciu osoby po kryzysie.
 
-**Kan. 532¹ § 1.** Uczynek miłości powinien być wolny od wyzysku. Nie wolno żądać za niego posłuszeństwa, wdzięczności, milczenia, świadczeń osobistych ani rezygnacji z praw.
+**Kan. 530³ § 1.** Uczynek miłości powinien być wolny od wyzysku. Nie wolno żądać za niego posłuszeństwa, wdzięczności, milczenia, świadczeń osobistych ani rezygnacji z praw.
 
 **§ 2.** Pomoc należy udzielać z uwzględnieniem kompetencji. Osoba nieprzygotowana nie powinna podejmować działań medycznych, prawnych ani technicznych przekraczających jej umiejętności.
 
-**§ 3.** Uczynek może być mały i dyskretny. Nie musi być publikowany ani przedstawiany jako dowód własnej świętości.
-
-**§ 4.** Wspólnota może gromadzić świadectwa dobra, lecz wyłącznie za zgodą osób zainteresowanych i bez naruszania prywatności.
+**§ 3.** Uczynek może być mały i dyskretny. Nie musi być publikowany ani przedstawiany jako dowód własnej świętości. Wspólnota może gromadzić świadectwa dobra wyłącznie za zgodą osób zainteresowanych i bez naruszania prywatności.
 
 ## Rozdział II — Praktyka siedmiu stopni w ciągu dnia
 
-**Kan. 532² § 1.** Doba domowa może być przeżywana w siedmiu stacjach:
+**Kan. 532¹ § 1.** Doba domowa może być przeżywana w siedmiu stacjach:
 1° poranek — uporządkowanie dnia;
 2° przedpołudnie — przygotowanie do pracy i służby;
 3° południe — sprawdzenie i dopełnienie rozpoczętych spraw;
@@ -466,7 +464,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 **§ 2.** Stacje nie są obowiązkiem mechanicznym. Można je łączyć, skracać lub pomijać, gdy wymaga tego zdrowie, praca, opieka lub bezpieczeństwo.
 
-**Kan. 532³ § 1.** Potomstwo uczy się siedmiu stopni przez przykłady dostosowane do wieku:
+**Kan. 532² § 1.** Potomstwo uczy się siedmiu stopni przez przykłady dostosowane do wieku:
 1° odkładam rzecz na miejsce;
 2° przygotowuję to, co będzie potrzebne;
 3° kończę rozpoczęte zadanie;
@@ -477,15 +475,13 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 **§ 2.** Dziecko nie może być obciążane odpowiedzialnością za emocje, zdrowie, finanse ani zbawienie dorosłych. Nauczanie ma być bezpieczne, zrozumiałe i wolne od zawstydzania.
 
-**Kan. 532⁴ § 1.** Wspólnota może prowadzić szkołę siedmiu stopni w cyklu siedmiu tematów: prawda, przygotowanie, odpowiedzialność, błogosławieństwo, świętość codzienności, naprawa i miłość.
+**Kan. 532³ § 1.** Wspólnota może prowadzić szkołę siedmiu stopni w cyklu siedmiu tematów: prawda, przygotowanie, odpowiedzialność, błogosławieństwo, świętość codzienności, naprawa i miłość.
 
 **§ 2.** Każdy temat obejmuje tekst biblijny, rozmowę, praktyczny uczynek i dobrowolną refleksję.
 
 **§ 3.** Udział w ćwiczeniach nie może być warunkiem otrzymania pomocy, uznania godności ani przynależności rodzinnej.
 
-**§ 4.** Formacja powinna uwzględniać wiek, niepełnosprawność, zdrowie, możliwości poznawcze i sytuację życiową uczestników.
-
----
+**Kan. 532⁴ § 1.** Formacja powinna uwzględniać wiek, niepełnosprawność, zdrowie, możliwości poznawcze i sytuację życiową uczestników. Nie wolno wymagać od dziecka, chorego ani osoby zależnej praktyk przekraczających ich możliwości.
 
 # TYTUŁ IX — ROZEZNANIE DRÓG I LECZENIE SUMIEŃ
 
@@ -624,7 +620,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 # TYTUŁ XIII — PRZEPISY KOŃCOWE KSIĘGI GŁÓWNEJ
 
-**Kan. 545 § 1.** Niniejsza Księga nosi tytuł *Księga Objawień* i obejmuje kanony 518–545 oraz kanony uzupełniające 523¹, 524¹, 528¹, 529¹–529⁷, 532¹–532⁴, 535¹–535² i 549¹–549²⁴.
+**Kan. 545 § 1.** Niniejsza Księga nosi tytuł *Księga Objawień* i obejmuje kanony 518–545 oraz kanony uzupełniające 523¹, 524¹, 528¹, 529¹–529⁷, 530¹–530³, 532¹–532⁴, 535¹–535² i 549¹–549²⁴.
 
 **§ 2.** Jej rdzeniem jest Objawienie o zniesieniu grzechu, spektrum prawdy, piękna i sprawiedliwości w miłości Bożej oraz siedmiu stopniach jednego aktu.
 
