@@ -194,11 +194,11 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 **§ 3.** Nie wolno obwiniać chorego za brak poprawy, odmawiać leczenia w imię wiary ani obiecywać skutku, którego człowiek nie może zagwarantować.
 
-**Kan. 529² § 1.** Stopień siódmy, *caritas*, jest spełnieniem całej drogi. Miłość Boża objawia się w wolnym darze, który szanuje prawdę, granice, godność i dobro wszystkich osób.
+**§ 4.** Stopień siódmy, *caritas*, jest spełnieniem całej drogi. Miłość Boża objawia się w wolnym darze, który szanuje prawdę, granice, godność i dobro wszystkich osób.
 
-**§ 2.** Miłość nie jest przymusem, kontrolą ani obowiązkiem znoszenia przemocy. Obejmuje troskę o bezpieczeństwo, zgodę, uczciwe granice i możliwość odmowy.
+**§ 5.** Miłość nie jest przymusem, kontrolą ani obowiązkiem znoszenia przemocy. Obejmuje troskę o bezpieczeństwo, zgodę, uczciwe granice i możliwość odmowy.
 
-**§ 3.** W każdym stopniu należy zapytać: czy ten akt służy dobru, czy tylko wizerunkowi wykonawcy? Czy pozostawia adresatowi wolność? Czy nie krzywdzi osób trzecich?
+**§ 6.** W każdym stopniu należy zapytać: czy ten akt służy dobru, czy tylko wizerunkowi wykonawcy? Czy pozostawia adresatowi wolność? Czy nie krzywdzi osób trzecich?
 
 ## Rozdział II — Spektrum w siedmiu stopniach
 
@@ -216,7 +216,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział I — Zasada porządkowania wszystkich siódemek
 
-**Kan. 529⁴ § 1.** Wszystkie siedmioelementowe serie niniejszej Księgi odnoszą się do jednej drogi, ale nie są tym samym katalogiem. Każda odpowiada na inne pytanie:
+**Kan. 529² § 1.** Wszystkie siedmioelementowe serie niniejszej Księgi odnoszą się do jednej drogi, ale nie są tym samym katalogiem. Każda odpowiada na inne pytanie:
 1° cnoty — jaki trwały kształt przyjmuje charakter człowieka?
 2° Dary Ducha Świętego — do jakiego rodzaju duchowej uległości i mądrego działania człowiek jest uzdalniany?
 3° charyzmaty — jaką szczególną posługę może otrzymać wspólnota?
@@ -233,7 +233,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział II — Siedem cnót domowych
 
-**Kan. 529⁵ § 1.** Przyjmuje się siedem cnót domowych ujętych w Księdze IV: pobożność, umiarkowanie, męstwo, sprawiedliwość, skrupulatność, roztropność i nadzieję. Są one siedmioma trwałymi dyspozycjami, które kształtują człowieka zdolnego do czynienia dobra.
+**Kan. 529³ § 1.** Przyjmuje się siedem cnót domowych ujętych w Księdze IV: pobożność, umiarkowanie, męstwo, sprawiedliwość, skrupulatność, roztropność i nadzieję. Są one siedmioma trwałymi dyspozycjami, które kształtują człowieka zdolnego do czynienia dobra.
 
 **§ 2. Siedem cnót:**
 1° **Pobożność (*Pietas*)** — uznanie Boga, godności człowieka, więzi rodzinnych i wdzięczności wobec życia. Jej owocem jest szacunek, troska i pamięć o zobowiązaniach.
@@ -250,7 +250,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział III — Siedem Darów Ducha Świętego
 
-**Kan. 529⁶ § 1.** W porządku przyjętym w Księdze IV wymienia się siedem Darów Ducha Świętego: Mądrość, Rozum, Radę, Miłosierdzie, Moc, Wiedzę i Pobożność. Niniejsza Księga zachowuje tę projektową enumerację i jej nazewnictwo; nie utożsamia jej z każdą historyczną wersją listy darów w tradycji chrześcijańskiej.
+**Kan. 529⁴ § 1.** W porządku przyjętym w Księdze IV wymienia się siedem Darów Ducha Świętego: Mądrość, Rozum, Radę, Miłosierdzie, Moc, Wiedzę i Pobożność. Niniejsza Księga zachowuje tę projektową enumerację i jej nazewnictwo; nie utożsamia jej z każdą historyczną wersją listy darów w tradycji chrześcijańskiej.
 
 **§ 2. Siedem Darów:**
 1° **Mądrość (*Sapientia*)** — widzenie spraw w świetle Boga i rozpoznawanie tego, co prowadzi do prawdziwego dobra.
@@ -267,7 +267,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział IV — Siedem charyzmatów
 
-**Kan. 529⁷ § 1.** W porządku Księgi IV zachowuje się siedem charyzmatów: Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywną Inspirację i Służenie. Charyzmat jest darem dla dobra innych, a nie dowodem wyższości osoby, która go rozpoznaje lub wykonuje.
+**Kan. 529⁵ § 1.** W porządku Księgi IV zachowuje się siedem charyzmatów: Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywną Inspirację i Służenie. Charyzmat jest darem dla dobra innych, a nie dowodem wyższości osoby, która go rozpoznaje lub wykonuje.
 
 **§ 2. Siedem charyzmatów:**
 1° **Proroctwo (*Prophetia*)** — wypowiadanie słowa, które buduje, pociesza, napomina i prowadzi ku prawdzie. Nie daje prawa do ogłaszania nieomylnych wyroków o cudzym losie.
@@ -283,6 +283,10 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 **§ 4.** Żaden charyzmat nie zastępuje kwalifikacji zawodowych, leczenia, obowiązków prawnych, zgody osoby ani procedur ochrony dzieci i osób zależnych.
 
 **§ 5.** Nie wolno nakładać, przyznawać ani ogłaszać charyzmatu jako rangi, urzędu lub święceń. Język posługi ma wskazywać na służbę, nie na władzę nad człowiekiem.
+
+**Kan. 529⁶ § 1.** Cnoty, Dary i charyzmaty są trzema odrębnymi porządkami: cnota kształtuje postawę, Dar uzdalnia do przyjęcia działania Ducha, a charyzmat służy określonej posłudze. Nie wolno ich utożsamiać ani wyprowadzać z jednego automatycznych wniosków o drugim.
+
+**Kan. 529⁷ § 1.** Żaden katalog duchowy nie może być używany do tworzenia hierarchii wartości osób, wymuszania posłuszeństwa, odmawiania pomocy lub zastępowania kompetencji zawodowych. Owoce rozeznaje się w prawdzie, wolności, pokorze, odpowiedzialności i dobru adresata.
 
 ---
 
