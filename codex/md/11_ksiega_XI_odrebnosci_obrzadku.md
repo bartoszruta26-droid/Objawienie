@@ -325,8 +325,8 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 ---
 
 
-## Tytuł V: Sprawowanie sakramentów przez duchownych Kościoła Domowego
-**Kan. 513 § 1.** Sakramenty są udzielane zgodnie z przepisami KPK kan. 840-
+## Tytuł IV: Sprawowanie sakramentów przez duchownych Kościoła Domowego
+**Kan. 513¹ § 1.** Sakramenty są udzielane zgodnie z przepisami KPK kan. 840-
 
 **§ 2.** Zgodnie z kan 844 § 2 KPK ilekroć domaga się tego konieczność lub zaleca prawdziwy pożytek duchowy i jeżeli nie zachodzi niebezpieczeńśtwo błędu lub indyferetyzmu, wolno wiernym w tym wiernym katolickim, dla których fizycznie lub moralnie jest niemożliwe udanie się do szafarza katolickiego ( przyjętego przez Biskupa Rzymu lub jednostronnie żyjacego z nim w komunii ), przyjąć sakramenty pokuty, Eucharystii i namaszczania chorych od szafarzy niekatolickich w tym biskupa subdiecezjalnego nie deklarującego komunii z Kosciolem Katolickim lub kapłana Kościoła Domowego nie deklarujacego komunii z Kosciolem Katolickim gdy w Kościele Domowym akatolickim sakramenty te są ważnie wymienione
 
@@ -375,6 +375,8 @@ lub Metropolita Kościoła metropolitalnego sui iuris za zgodą Rady Hierarchów
 władzę w tym władze partykularnego Kościoła Domowego akatolickiego a więc tym bardziej też i katolickiego. Natomiast biskup nie może ważnie wykonywać władzy rządzenia nad materią Powszechnego Kosciola Katolickiego bez zgody Biskupa Rzymskiego, który jest głową Kolegium Biskupów.
 
 **§ 4.** Przepisy § 1–3 odnoszą się do patriarchatu i patriarchy ustanawianych przez Biskupa Rzymskiego. Związek subdiecezjatów oraz subdiecezje z hierarchą biskupa ustanawia hierarcha subdiecezji; związkiem subdiecezjatów kieruje natomiast hierarcha związku subdiecezjatów wybrany spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI i VIII).
+
+## Tytuł VI: OSOBY PRAWNE, URZĘDY, WŁADZA RZĄDZENIA I HIERARCHOWIE
 
 **Kan. 514.** Zgodnie z KKKW Kan. 921  § 1. Osoby prawne są ustanowione dla celu odpowiadającego misji Kościoła, albo na mocy samego przepisu prawa, albo przez specjalne zezwolenie kompetentnej władzy w tym fundatora erygujacego osobe prawną, wydane w formie dekretu.
 § 2. Mocą samego prawa osobami prawnymi są Kościoóy sui iuris, jak też i inne instytucje, o których wyraźnie
