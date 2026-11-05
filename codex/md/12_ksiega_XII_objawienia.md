@@ -222,7 +222,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 3° charyzmaty — jaką szczególną posługę może otrzymać wspólnota?
 4° błogosławieństwa — jaką postawę i obietnicę Chrystus ogłasza w Kazaniu na Górze?
 5° wymiary uświęcenia — jakie obszary życia mogą zostać objęte świętością?
-6° wskrzeszenia — jakie biblijne świadectwa przywrócenia życia uczą nadziei i służby?
+6° rezurekcja — jakie sposoby mistycznego odrodzenia podnoszą człowieka po upadku duchowym, po umocnieniu i namaszczeniu chorych?
 7° sposoby miłości Bożej — jak jedna miłość działa od stworzenia aż po spełnienie.
 
 **§ 2.** Nie wolno utożsamiać cnoty z Darem, Daru z charyzmatem ani charyzmatu ze świętością. Cnota jest trwałą dyspozycją moralną; Dar jest darem Ducha; charyzmat jest łaską dla dobra wspólnoty; świętość jest drogą życia w Bogu i nie może być mierzona samym posiadaniem nadzwyczajnej zdolności.
@@ -363,24 +363,24 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 # TYTUŁ VI — SIEDEM REZUREKCJI I SIEDEM SPOSOBÓW MIŁOŚCI BOŻEJ
 
-## Rozdział I — Siedem biblijnych świadectw przywrócenia życia
+## Rozdział I — Siedem sposobów mistycznego odrodzenia po namaszczeniu chorych
 
-**Kan. 533 § 1.** W celu nauczania nadziei i służby wskazuje się siedem biblijnych opowieści o przywróceniu życia. Nie są one instrukcją wywoływania cudów ani obietnicą, że każdy chory odzyska zdrowie. Są świadectwami Bożego miłosierdzia i znakami nadziei.
+**Kan. 533 § 1.** Rezurekcja (*resurrectio*) oznacza w niniejszej Księdze mistyczne powstanie człowieka po upadku duchowym: odnowienie więzi z Bogiem, odzyskanie prawdy o sobie, podniesienie się z grzechu i zranienia oraz wejście w życie przemienione miłością. Nie oznacza ponownego zmartwychwstania Chrystusa ani fizycznego wskrzeszenia zmarłego.
 
-**§ 2. Siedem świadectw:**
-1° **Syn wdowy z Sarepty** — wskrzeszony za pośrednictwem Eliasza (1 Krl 17,17–24).
-2° **Syn Sunamitki** — przywrócony do życia za pośrednictwem Elizeusza (2 Krl 4,32–37).
-3° **Człowiek, który dotknął kości Elizeusza** — opowieść o przywróceniu życia (2 Krl 13,20–21).
-4° **Syn wdowy z Nain** — przywrócony do życia przez Jezusa (Łk 7,11–17).
-5° **Córka Jaira** — przywrócona do życia przez Jezusa (Mk 5,21–43).
-6° **Łazarz z Betanii** — wywołany z grobu przez Jezusa (J 11,1–44).
-7° **Eutychus w Troadzie** — przywrócony do życia po upadku podczas zgromadzenia, w opowiadaniu Dziejów Apostolskich (Dz 20,7–12).
+**§ 2.** W porządku tej drogi namaszczenie chorych poprzedza rezurekcję. Jest znakiem umocnienia, pocieszenia, zawierzenia Bogu i powierzenia Mu człowieka osłabionego chorobą, cierpieniem lub duchowym kryzysem. Rezurekcja jest następującym po nim obrazem powstania i odrodzenia. Namaszczenie nie jest ósmym sposobem rezurekcji, lecz progiem i przygotowaniem do niej. Wspólnota nie może sama przez się przypisywać swoim obrzędom skuteczności sakramentu namaszczenia chorych w rozumieniu prawa Kościoła katolickiego.
 
-**§ 3.** Centralnym i odrębnym fundamentem wiary chrześcijańskiej pozostaje Zmartwychwstanie Jezusa Chrystusa. Żadne z siedmiu przytoczonych wydarzeń nie jest z Nim utożsamiane ani nie zastępuje Jego Zmartwychwstania.
+**§ 3. Siedem sposobów mistycznego odrodzenia:**
+1° **Przebudzenie sumienia (*experrectio conscientiae*)** — człowiek odzyskuje zdolność stanięcia w prawdzie, rozpoznaje swój upadek i przestaje usprawiedliwiać zło albo utożsamiać siebie z własnym błędem.
+2° **Skrucha i zwrot ku Bogu (*contritio et conversio*)** — uznaje prawdę o swoim postępowaniu, żałuje wyrządzonego zła i zwraca się ku dobru; skrucha nie oznacza rozpaczy ani pogardy dla siebie.
+3° **Uzdrowienie zranienia (*sanatio vulneris*)** — przyjmuje opiekę i podejmuje drogę leczenia ran duchowych, psychicznych i cielesnych, z poszanowaniem wiedzy medycznej oraz granic własnych i cudzych.
+4° **Uwolnienie od więzów (*liberatio*)** — odchodzi od niszczących nałogów, kłamstw, lęku, zniewalających zależności i wzorców krzywdzenia; korzysta z odpowiedniej pomocy, zamiast polegać wyłącznie na deklaracji lub obrzędzie.
+5° **Pojednanie i naprawienie krzywdy (*reconciliatio et reparatio*)** — tam, gdzie jest to możliwe i bezpieczne, podejmuje pojednanie, przywraca sprawiedliwość, naprawia szkodę i respektuje granice osoby skrzywdzonej. Pojednania nie wolno wymuszać ani stawiać ponad bezpieczeństwem.
+6° **Odzyskanie godności i powołania (*restitutio dignitatis et vocationis*)** — przyjmuje, że upadek nie odbiera mu niezbywalnej godności, i na nowo podejmuje odpowiedzialność, dobro, służbę oraz właściwe sobie powołanie.
+7° **Życie odnowione w miłości (*vita nova in caritate*)** — potwierdza odrodzenie trwałymi owocami: prawdą, sprawiedliwością, miłosierdziem, wiernością, troską o bliźnich i wytrwałym czynieniem dobra.
 
-**§ 4.** Wspólnota naśladuje nie nadzwyczajną władzę nad życiem i śmiercią, lecz miłosierne postawy: zauważenie cierpienia, obecność przy rodzinie, wezwanie pomocy, troskę o chorego, podtrzymywanie nadziei, opiekę po kryzysie i przywracanie człowieka do relacji.
+**§ 4.** Siedem sposobów tworzy uporządkowaną drogę katechetyczną, ale nie jest sztywnym harmonogramem ani warunkiem, który każdy człowiek musi przejść w identycznej kolejności. Niektóre wymiary mogą zachodzić równocześnie, powracać lub wymagać długiego czasu. Człowiek nie jest winny temu, że zdrowienie przebiega powoli.
 
-**§ 5.** Nie wolno obwiniać osoby chorej ani jej rodziny za brak uzdrowienia. Nie wolno nakłaniać do porzucenia leczenia, rehabilitacji, leków lub konsultacji medycznej.
+**§ 5.** Rezurekcja nie jest obietnicą natychmiastowego ustąpienia choroby, cierpienia, skutków traumy ani wszystkich konsekwencji czynów. Nie wolno obwiniać chorego za brak poprawy ani nakłaniać go do porzucenia leczenia, rehabilitacji, leków, psychoterapii lub konsultacji medycznej. Jej istotą jest droga ku życiu, prawdzie i dobru, także wtedy, gdy uzdrowienie cielesne nie następuje.
 
 ## Rozdział II — Siedem sposobów działania miłości Bożej
 
@@ -878,18 +878,18 @@ Są to odrębne serie, a ich wspólną zasadą jest służba prawdzie, pięknu, 
 
 **§ 2.** Każdy Dar może służyć wszystkim siedmiu stopniom. Umieszczenie ich w tym miejscu Septenarium wskazuje na ich rolę w przemianie człowieka i jego działania, nie ogranicza ich do jednego rodzaju uczynku.
 
-## Rozdział VII — Siedem wskrzeszeń biblijnych jako seria rezurekcji
+## Rozdział VII — Siedem sposobów mistycznej rezurekcji
 
-**Kan. 549²⁰ § 1.** Siedem świadectw biblijnych przywrócenia życia, wymienionych w kan. 533, stanowi serię rezurekcji:
-1° syn wdowy z Sarepty;
-2° syn Sunamitki;
-3° człowiek dotykający kości Elizeusza;
-4° syn wdowy z Nain;
-5° córka Jaira;
-6° Łazarz z Betanii;
-7° Eutychus w Troadzie.
+**Kan. 549²⁰ § 1.** Siedem sposobów rezurekcji, określonych w kan. 533, opisuje mistyczne odrodzenie człowieka po upadku duchowym. Drogę tę poprzedza namaszczenie chorych jako znak umocnienia i powierzenia Bogu człowieka osłabionego. Następujące po nim wymiary odrodzenia to:
+1° *Experrectio conscientiae* — przebudzenie sumienia;
+2° *Contritio et conversio* — skrucha i zwrot ku Bogu;
+3° *Sanatio vulneris* — uzdrowienie zranienia;
+4° *Liberatio* — uwolnienie od więzów;
+5° *Reconciliatio et reparatio* — pojednanie i naprawienie krzywdy;
+6° *Restitutio dignitatis et vocationis* — odzyskanie godności i powołania;
+7° *Vita nova in caritate* — życie odnowione w miłości.
 
-**§ 2.** Seria ta jest świadectwem nadziei i miłosierdzia. Nie stanowi upoważnienia do twierdzenia, że człowiek może na żądanie dokonywać cudów.
+**§ 2.** Są to wymiary jednej drogi, a nie siedem odrębnych sakramentów ani siedem gwarantowanych cudów. Mogą przebiegać równolegle i w różnym tempie. Nie wolno wymuszać pojednania, zastępować nimi leczenia ani oceniać wartości człowieka według szybkości jego odrodzenia.
 
 ## Rozdział VIII — Siedem sposobów miłości Bożej jako spełnienie
 
@@ -969,8 +969,8 @@ Porządkuj, aby nikt nie został pominięty. Przygotowuj, aby dobro mogło się 
 2. Zdanie „grzech został zniesiony” jest interpretowane w tej redakcji jako zniesienie logiki ostatecznego potępienia człowieka i otwarcie drogi miłosierdzia, a nie jako zaprzeczenie krzywdzie, odpowiedzialności lub obowiązkowi naprawy.
 3. Siedem wymiarów uświęcenia i siedem form błogosławienia są pomocniczymi klasyfikacjami redakcyjnymi. Nie należy przypisywać im statusu dogmatycznego ani twierdzić, że są jedynymi możliwymi klasyfikacjami w tradycji chrześcijańskiej.
 4. Lista Darów Ducha Świętego zachowuje nazewnictwo projektu Księgi IV. Tradycja chrześcijańska posługuje się również innymi sposobami wyliczania i nazewnictwa; różnic tych nie należy ukrywać.
-5. Siedem wskrzeszeń biblijnych to wybrane świadectwa Pisma Świętego. Zmartwychwstanie Chrystusa pozostaje wydarzeniem centralnym i nie jest jednym z nich w sensie tej enumeracji.
+5. Siedem rezurekcji w tej Księdze oznacza siedem sposobów mistycznego odrodzenia człowieka po upadku duchowym, poprzedzonych namaszczeniem chorych. Nie są one siedmioma biblijnymi przypadkami wskrzeszenia ani fizycznym zmartwychwstaniem. Zmartwychwstanie Jezusa Chrystusa pozostaje centralnym i niepowtarzalnym fundamentem wiary chrześcijańskiej.
 6. Żadne postanowienie Księgi nie zastępuje leczenia, opieki psychologicznej, porady prawnej, ochrony przed przemocą ani obowiązujących norm prawa.
-7. Wszelkie przyszłe dodatki powinny zachować numerację, rozróżnienie źródeł i zasadę, że cnoty, Dary, charyzmaty, błogosławieństwa, wymiary uświęcenia, wskrzeszenia i sposoby miłości są odrębnymi seriami o wspólnym celu.
+7. Wszelkie przyszłe dodatki powinny zachować numerację, rozróżnienie źródeł i zasadę, że cnoty, Dary, charyzmaty, błogosławieństwa, wymiary uświęcenia, sposoby mistycznej rezurekcji i sposoby miłości są odrębnymi seriami o wspólnym celu.
 
 *Finis Libri Duodecimi — Redactio ordinata.*
