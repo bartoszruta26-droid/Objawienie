@@ -248,7 +248,7 @@
   - Rozdział IV: O Sercu Dwóch Miar — kan. 549¹⁰.
   - Rozdział V: O Imionach Bożych — kan. 549¹¹.
   - Rozdział VI: O Pięknie Nieukończonym — kan. 549¹².
-  - Rozdział VII: O Prawie Ostatnim Siedmiu Rąk — kan. 549¹³.
+  - Rozdział VII: O Prawie Ostatnim Czterech Rąk — kan. 549¹³.
 - **Tytuł XV: Septenarium — siedem stopni jednego spojrzenia i siedmiorakie dopełnienie każdego z nich** — kan. 549¹⁴–549²²
   - Rozdział I: Jedna skala siedmiu stopni — kan. 549¹⁴.
   - Rozdział II: Siedem dni stworzenia — kan. 549¹⁵.
