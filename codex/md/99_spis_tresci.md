@@ -17,7 +17,7 @@
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
 | [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień: Tytuły I–XVI; siedmiostopniowa skala spojrzenia, uczynki, rozeznanie, liturgia domowa, tekst dosłowny Objawienia, sześć Słów dalszych, siedem Słów ostatnich, Septenarium i dwa Słowa dopełniające | kan. 518–549²⁴ oraz kanony uzupełniające wskazane w strukturze szczegółowej |
 | [`ksiega-XII.md`](./ksiega-XII.md) | Aneks pomocniczy do Księgi XII — Septenarium | opracowanie dydaktyczne Tytułów XV–XVI; bez odrębnej numeracji kanonów |
-| [`96_ksiega_XCVI_zniesienie_grzechu_i_koniecznosc.md`](./96_ksiega_XCVI_zniesienie_grzechu_i_koniecznosc.md) | Księga 96 — Zniesienie grzechu, sprawiedliwość naprawcza i ratunkowe użycie cudzego dobra | kan. 550–599; kan. 599¹–599⁷ |
+| [`95_ksiega_XCV_prawda_i_koniecznosc_ratowania_zycia.md`](./95_ksiega_XCV_prawda_i_koniecznosc_ratowania_zycia.md) | Księga 95 — Prawda, ochrona bliźniego i rozeznanie konieczności w ratowaniu życia | kan. 549²⁵–549⁷⁹ |\n| [`96_ksiega_XCVI_zniesienie_grzechu_i_koniecznosc.md`](./96_ksiega_XCVI_zniesienie_grzechu_i_koniecznosc.md) | Księga 96 — Zniesienie grzechu, sprawiedliwość naprawcza i ratunkowe użycie cudzego dobra | kan. 550–599; kan. 599¹–599⁷ |
 | [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród; obejmuje także późniejsze Tytuły XIII A, XIII B i XIII C | kan. 600–639 oraz kan. 639¹–639²¹ |
 | [`98_tradycja_bizantyjsko_slowianska.md`](./98_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
@@ -265,6 +265,31 @@
   - Rozdział II: Piętnaste Słowo — O Siedmiu Cechach Jednego Aktu — kan. 549²⁴.
 - **Appendix:** redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty.
 - **Aneks pomocniczy Septenarium:** [`ksiega-XII.md`](./ksiega-XII.md) — tablice siedmiu stopni, siedmiu serii oraz siedmiu pytań probacji; opracowanie dydaktyczne, podporządkowane tekstowi głównemu.
+
+## Księga 95 — Prawda, ochrona bliźniego i rozeznanie konieczności w ratowaniu życia
+
+*(plik: `95_ksiega_XCV_prawda_i_koniecznosc_ratowania_zycia.md`; kan. 549²⁵–549⁷⁹; wewnętrzny projekt normatywny, bez uchylania prawa państwowego)*
+
+- **Preambuła:** prawda, godność osoby, ratowanie życia i ochrona człowieka przed fałszywym oskarżeniem.
+- **Tytuł I: Zasady podstawowe i definicje** — kan. 549²⁵–549³⁴
+  - Rozdział I: Prawda, świadectwo i ochrona osoby — kan. 549²⁵–549²⁹.
+  - Rozdział II: Hierarchia obowiązków i rozeznanie konieczności — kan. 549³⁰–549³⁴.
+- **Tytuł II: Milczenie, odmowa odpowiedzi i ochrona informacji** — kan. 549³⁵–549⁴⁴
+  - Rozdział I: Pierwszeństwo środków niekrzywdzących — kan. 549³⁵–549³⁹.
+  - Rozdział II: Ochronne wprowadzenie w błąd — kan. 549⁴⁰–549⁴⁴.
+- **Tytuł III: Fałszywe świadectwo przeciw bliźniemu** — kan. 549⁴⁵–549⁵⁴
+  - Rozdział I: Szczególna ochrona osoby fałszywie oskarżanej — kan. 549⁴⁵–549⁴⁹.
+  - Rozdział II: Skrajny przymus i granice osobistej winy — kan. 549⁵⁰–549⁵⁴.
+- **Tytuł IV: Świadectwo przed sądem i organami publicznymi** — kan. 549⁵⁵–549⁶²
+  - Rozdział I: Rzetelność postępowania i prawa świadka — kan. 549⁵⁵–549⁵⁹.
+  - Rozdział II: Sprostowanie i ochrona przed dalszą krzywdą — kan. 549⁶⁰–549⁶².
+- **Tytuł V: Zniesienie grzechu, pokuta i sprawiedliwość naprawcza** — kan. 549⁶³–549⁶⁹
+  - Rozdział I: Wina, krzywda i miłosierdzie — kan. 549⁶³–549⁶⁶.
+  - Rozdział II: Naprawienie krzywdy — kan. 549⁶⁷–549⁶⁹.
+- **Tytuł VI: Obowiązki wspólnoty i przepisy końcowe** — kan. 549⁷⁰–549⁷⁹
+  - Rozdział I: Zapobieganie sytuacjom skrajnej konieczności — kan. 549⁷⁰–549⁷⁴.
+  - Rozdział II: Reguła rozstrzygania konfliktu obowiązków — kan. 549⁷⁵–549⁷⁹.
+- **Formuła końcowa i uwagi redakcyjne:** ochrona życia bez ustanawiania prawa do fałszywego oskarżania; rozróżnienie oceny moralnej od prawa państwowego.
 
 ## Księga 96 — Zniesienie grzechu, sprawiedliwość naprawcza i ratunkowe użycie cudzego dobra
 
