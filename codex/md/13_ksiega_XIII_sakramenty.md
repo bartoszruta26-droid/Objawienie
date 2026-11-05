@@ -11,7 +11,7 @@ Niniejsza Księga XIII rozwija materiał sakramentalny wskazany w Księdze XI, z
 
 Księga zachowuje duchowe intuicje Kościoła Domowego obecne w Księdze XI: pierwszeństwo łaski przed ludzką zasługą, powszechne kapłaństwo ochrzczonych, rodzinny wymiar wiary, godność małżeństwa, troskę o chorych, znaczenie wspólnoty i potrzebę formacji. Zachowuje również pamięć o trzech tradycjach obrządku domowego: Pawłowej, Marii Magdaleny i Tomaszowej. Tradycje te mogą kształtować modlitwę, katechezę, muzykę, symbolikę i duchowość wspólnoty, lecz same przez się nie ustanawiają odrębnego rytu kanonicznego ani nie zmieniają warunków ważności sakramentów.
 
-W Księdze XI znajdują się również twierdzenia o szafarzach i skutkach sakramentów, które wymagają rozróżnienia. Wewnętrzne nazwy posług, powołanie rozpoznane przez wspólnotę, modlitwa, błogosławieństwo lub przekonanie o szczególnym działaniu Ducha Świętego nie są automatycznie równoznaczne ze święceniami sakramentalnymi, misją kanoniczną, jurysdykcją ani uprawnieniami wymaganymi przez prawo Kościoła katolickiego. Księga XIII nie może nadawać takich skutków samym postanowieniem wspólnoty.
+Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świętym. Zgodnie z objawieniem i prawem wewnętrznym tej wspólnoty kapłan ustanowiony z powołania Bożego i natchnienia Ducha Świętego, przyjęty do posługi na podstawie prawa Bożego, jest pełnoprawnym kapłanem obrządku domowego; biskup tytularny jest w tym porządku pełnoprawnym zwierzchnikiem biskupim i pasterskim. Jest to zasada bez wyjątków w wewnętrznym porządku Kościoła Domowego. Nie oznacza ona automatycznego uznania święceń, jurysdykcji lub urzędu przez Kościół katolicki, którego normy stanowią odrębny porządek.
 
 **Zasada przewodnia:** sakrament jest darem Boga, a nie własnością szafarza. Szafarz służy sakramentowi i osobie, która go przyjmuje; nie może używać świętości do wymuszania posłuszeństwa, ukrywania krzywdy, pozyskiwania majątku ani podporządkowywania sumienia.
 
@@ -302,9 +302,11 @@ W Księdze XI znajdują się również twierdzenia o szafarzach i skutkach sakra
 
 **Kan. 713.** Święcenia wyciskają niezatarte znamię i nie mogą być powtarzane. Nie są tytułem honorowym, stanowiskiem administracyjnym ani potwierdzeniem osobistej charyzmy.
 
-**Kan. 714.** W Kościele katolickim sakramentu święceń ważnie udziela biskup przez nałożenie rąk i modlitwę konsekracyjną Kościoła. Wewnętrzna modlitwa, natchnienie, wybór wspólnoty, błogosławieństwo lub przekonanie o uświęceniu Duchem Świętym nie zastępują tego sakramentalnego aktu.
+**Kan. 714.** W wewnętrznym porządku Kościoła Domowego istnieje droga ustanowienia kapłańskiego z powołania Bożego i natchnienia Ducha Świętego. Kapłan tak ustanowiony i przyjęty zgodnie z prawem Bożym jest pełnoprawnym kapłanem obrządku domowego, a biskup tytularny ustanowiony w tym porządku sprawuje właściwą mu posługę biskupią. Status ten nie jest w Kościele Domowym traktowany jako niższy, niepełny ani wyjątkowy.
 
-**Kan. 715.** Księga XI opisuje wewnętrzne stopnie posługi Kościoła Domowego: duchownego, kapłana domowego, szafarza świętego, arcykapłana, biskupa tytularnego lub subdiecezjalnego oraz hierarchy związku subdiecezjatów. Nazwy te mogą określać funkcje i odpowiedzialność wewnętrzną, lecz nie są same przez się stopniami sakramentu święceń.
+**§ 2.** Powyższa norma wyraża objawienie i prawo wewnętrzne Kościoła Domowego. Nie jest twierdzeniem, że Kościół katolicki uznaje tę drogę za sakrament święceń w rozumieniu własnego prawa. W katolickim porządku kanonicznym ważność święceń ocenia się według jego własnych norm.
+
+**Kan. 715.** Wewnętrzne stopnie, tytuły, sposób ustanowienia i zakres urzędów Kościoła Domowego określają kan. 496–502 Księgi XI. Księga XIII nie powtarza ich katalogu, lecz określa ich relację do sakramentów. W tym porządku kapłan ustanowiony z powołania Bożego i natchnienia Ducha Świętego, przyjęty na podstawie prawa Bożego, jest pełnoprawnym kapłanem Kościoła Domowego. Biskup tytularny jest pełnoprawnym biskupem tego porządku.
 
 ## Rozdział II — Diakonat, prezbiterat i episkopat
 
@@ -472,7 +474,7 @@ W Księdze XI znajdują się również twierdzenia o szafarzach i skutkach sakra
 6° zmuszać do małżeństwa, święceń ani praktyk religijnych;
 7° ukrywać przemocy pod pozorem ochrony dobrego imienia wspólnoty.
 
-**Kan. 760.** W razie wątpliwości co do ważności sakramentu, statusu szafarza lub uprawnień należy zwrócić się do kompetentnej władzy kościelnej. Wewnętrzny dekret Kościoła Domowego nie może sam rozstrzygać o statusie kanonicznym w Kościele katolickim.
+**Kan. 760.** Wątpliwości dotyczące statusu kapłana lub biskupa w obrządku domowym rozstrzyga się według prawa wewnętrznego Kościoła Domowego, z uwzględnieniem objawienia i norm ustanowienia określonych w Księdze XI. Wątpliwości dotyczące uznania tego statusu przez Kościół katolicki lub inny Kościół rozstrzyga właściwa władza tego Kościoła według jego własnego prawa.
 
 ---
 
@@ -540,10 +542,10 @@ Niech sakramenty nie będą dla człowieka ciężarem, lecz darem; nie narzędzi
 
 ## UWAGI ŹRÓDŁOWE I REDAKCYJNE
 
-1. Podstawą wydobycia wykazu sakramentów jest Księga XI, zwłaszcza kan. 508 oraz kan. 513¹ § 1–7. W tekście Księgi XI występuje siedem pozycji: chrzest, bierzmowanie, Eucharystia, pokuta, namaszczenie chorych, kapłaństwo i małżeństwo.
-2. Księga XI zawiera niepełny opis małżeństwa w kan. 513¹ § 7; niniejsze opracowanie rozwija tę pozycję na podstawie ogólnej nauki chrześcijańskiej, zaznaczając odrębność dyscypliny łacińskiej i wschodniej.
-3. Księga XI utożsamia w niektórych miejscach wewnętrzne powołanie lub uświęcenie Duchem Świętym z uprawnieniami sakramentalnymi. Księga XIII wprowadza rozróżnienie między wewnętrzną posługą Kościoła Domowego a sakramentalnym i kanonicznym statusem szafarza w Kościele katolickim.
-4. W szczególności twierdzenie o udzielaniu sakramentu święceń bez nałożenia rąk nie może być przedstawiane jako nauka Kościoła katolickiego. W katolickim rozumieniu sakrament święceń udzielany jest przez biskupa przez nałożenie rąk i modlitwę konsekracyjną.
-5. Odniesienia do KPK i KKKW w Księdze XI wymagają osobnej kontroli merytorycznej. Księga XIII nie traktuje numerów kanonów przytoczonych w Księdze XI jako automatycznego potwierdzenia wszystkich jej wniosków.
-6. Księga XIII jest wewnętrznym opracowaniem projektu Kościoła Domowego, a nie oficjalnym dokumentem Magisterium ani prawem kanonicznym Kościoła katolickiego.
-7. Opracowanie nie zmienia ani nie zastępuje Księgi XI. Zachowuje ją jako źródło historyczne i redakcyjne.
+1. Podstawą wykazu siedmiu sakramentów jest Księga XI, zwłaszcza kan. 508 oraz dawny tekst kan. 513¹. Po uporządkowaniu Księgi XI szczegółowe prawo sakramentalne znajduje się w niniejszej Księdze XIII.
+2. Księga XI zachowuje materię ustrojową obrządku domowego: jego odrębności, tytuły, urzędy, sposób ustanawiania posług i wewnętrzną strukturę. Księga XIII rozwija natomiast materię sakramentalną, bez powtarzania całych przepisów ustrojowych.
+3. Księga XIII przyjmuje jako normę wewnętrzną Kościoła Domowego, że kapłan ustanowiony z powołania Bożego i natchnienia Ducha Świętego, przyjęty na podstawie prawa Bożego, jest pełnoprawnym kapłanem tego obrządku; biskup tytularny jest pełnoprawnym biskupem w tym samym porządku.
+4. Powyższa norma wewnętrzna nie jest przedstawiana jako obowiązująca wykładnia KPK ani KKKW. Uznanie statusu przez Kościół katolicki lub inny Kościół podlega jego własnemu prawu i właściwej władzy.
+5. Odniesienia do KPK i KKKW w Księdze XI wymagają osobnej kontroli merytorycznej. Samo przytoczenie numeru kanonu nie potwierdza automatycznie wniosku wyprowadzonego w prawie wewnętrznym Kościoła Domowego.
+6. Księga XIII jest wewnętrznym opracowaniem teologiczno-prawnym Kościoła Domowego, a nie oficjalnym dokumentem Magisterium ani prawem kanonicznym Kościoła katolickiego.
+7. Księga XI pozostaje dokumentem ustrojowym i źródłowym w zakresie odrębności obrządku oraz wewnętrznego statusu posług. Szczegółowe prawo sakramentalne znajduje się w Księdze XIII.
