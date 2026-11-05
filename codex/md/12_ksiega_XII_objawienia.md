@@ -250,7 +250,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział III — Siedem Darów Ducha Świętego
 
-**Kan. 529⁴ § 1.** W porządku przyjętym w Księdze IV wymienia się siedem Darów Ducha Świętego: Mądrość, Rozum, Radę, Miłosierdzie, Moc, Wiedzę i Cierpliwość. Pobożność pozostaje cnotą, nie jest ósmym Darem ani zamiennikiem Cierpliwości. Niniejsza Księga zachowuje projektową enumerację Darów i odróżnia ją od innych historycznych wyliczeń w tradycji chrześcijańskiej.
+**Kan. 529⁴ § 1.** W porządku przyjętym w tej redakcji wymienia się siedem Darów Ducha Świętego: Mądrość, Rozum, Radę, Miłosierdzie, Moc, Dociekliwość i Cierpliwość. Pobożność pozostaje cnotą, nie jest ósmym Darem ani zamiennikiem Cierpliwości. Niniejsza Księga zachowuje projektową enumerację Darów i odróżnia ją od innych historycznych wyliczeń w tradycji chrześcijańskiej.
 
 **§ 2. Siedem Darów:**
 1° **Mądrość (*Sapientia*)** — widzenie spraw w świetle Boga i rozpoznawanie tego, co prowadzi do prawdziwego dobra.
@@ -258,7 +258,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 3° **Rada (*Consilium*)** — rozeznawanie właściwych środków i czasu działania, zwłaszcza gdy decyzja dotyczy dobra drugiego człowieka.
 4° **Miłosierdzie (*Misericordia*)** — zdolność współczucia, towarzyszenia cierpiącemu i szukania naprawy bez upokarzania.
 5° **Moc (*Fortitudo*)** — duchowa wytrwałość w dobru, szczególnie w obliczu przeszkód i niesprawiedliwości.
-6° **Wiedza (*Scientia*)** — rozpoznawanie stworzenia, jego praw, granic i właściwego użycia dóbr.
+6° **Dociekliwość (*Investigatio*)** — żywe pragnienie poznania prawdy przez stawianie uczciwych pytań, badanie źródeł, sprawdzanie świadectw, szukanie przyczyn i rozumienie zależności. Dociekliwość nie zadowala się pozorem ani pierwszą odpowiedzią; potrafi odróżnić fakt od przypuszczenia, uznać granice własnej wiedzy i skorygować błędny wniosek. Nie jest podejrzliwością, wścibstwem ani prawem do naruszania cudzej prywatności.
 7° **Cierpliwość (*Patientia*)** — wytrwałość w wierze, nadziei i miłości; spokojna stałość w dobru mimo trudności, bez bierności wobec krzywdy i bez rezygnacji z ochrony siebie lub bliźniego.
 
 **§ 3.** Dar nie jest prywatną własnością ani tytułem do przewodzenia innym. Prośba o Dar jest prośbą o zdolność służenia prawdzie, pięknu, sprawiedliwości i miłości.
@@ -283,7 +283,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 | Cnota | Przedmiot błogosławiony | Znaczenie przedmiotu | Dar Ducha Świętego | Charyzmat |
 |---|---|---|---|---|
 | **Pobożność (*Pietas*)** | Ziemia | Zakorzenienie i płodność | **Cierpliwość (*Patientia*)** | **Służenie (*Diakonia*)** |
-| **Umiarkowanie (*Temperantia*)** | Świeca i ogień | Światło i powołanie | **Wiedza (*Scientia*)** | **Kreatywna Inspiracja (*Inspiratio Creativa*)** |
+| **Umiarkowanie (*Temperantia*)** | Świeca i ogień | Światło i powołanie | **Dociekliwość (*Investigatio*)** | **Kreatywna Inspiracja (*Inspiratio Creativa*)** |
 | **Męstwo (*Fortitudo*)** | Olej | Umocnienie i uzdrawianie | **Moc (*Fortitudo*)** | **Czyny Mocy (*Virtutes*)** |
 | **Sprawiedliwość (*Iustitia*)** | Popiół | Pokuta i nawrócenie | **Miłosierdzie (*Misericordia*)** | **Uzdrawianie (*Sanatio*)** |
 | **Skrupulatność (*Sollicitudo*)** | Chleb | Wspólnota i dziękczynienie | **Rada (*Consilium*)** | **Języki (*Linguae*)** |
@@ -411,11 +411,11 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 | Oś działania | Pytanie rozeznania | Cnoty szczególnie pomocne | Dary szczególnie pomocne | Charyzmatyczny wymiar służby |
 |---|---|---|---|---|
-| I. Ordo — Porządek | Co jest prawdą i komu należy się właściwe miejsce? | Pobożność, roztropność, skrupulatność | Rozum, Wiedza | Rozróżnianie Duchów |
-| II. Dispositio — Przygotowanie | Co trzeba przygotować, aby dobro mogło się wydarzyć? | Roztropność, umiarkowanie, skrupulatność | Rada, Wiedza | Służenie |
+| I. Ordo — Porządek | Co jest prawdą i komu należy się właściwe miejsce? | Pobożność, roztropność, skrupulatność | Rozum, Dociekliwość | Rozróżnianie Duchów |
+| II. Dispositio — Przygotowanie | Co trzeba przygotować, aby dobro mogło się wydarzyć? | Roztropność, umiarkowanie, skrupulatność | Rada, Dociekliwość | Służenie |
 | III. Completio — Dopełnienie | Co należy uczciwie zakończyć lub rozliczyć? | Sprawiedliwość, męstwo, skrupulatność | Rada, Moc | Kreatywna Inspiracja, Służenie |
 | IV. Benedictio — Błogosławieństwo | Jak wypowiedzieć dobro bez fałszowania prawdy? | Nadzieja, pobożność, umiarkowanie | Mądrość, Cierpliwość | Proroctwo |
-| V. Sanctificatio — Uświęcenie | Jak materia, ciało, praca i relacja mogą służyć dobru? | Umiarkowanie, sprawiedliwość, pobożność | Wiedza, Mądrość | Języki, Kreatywna Inspiracja |
+| V. Sanctificatio — Uświęcenie | Jak materia, ciało, praca i relacja mogą służyć dobru? | Umiarkowanie, sprawiedliwość, pobożność | Dociekliwość, Mądrość | Języki, Kreatywna Inspiracja |
 | VI. Resurrectio — Rezurekcja | Co zostało zranione i jak można przywrócić dobro? | Męstwo, sprawiedliwość, nadzieja | Miłosierdzie, Moc | Uzdrawianie, Czyny Mocy |
 | VII. Caritas — Miłość | Czy cały akt jest darem, który szanuje wolność i godność? | Wszystkie cnoty, szczególnie roztropność | Wszystkie Dary, w jedności | Służenie i rozeznanie wszystkich charyzmatów |
 
@@ -873,7 +873,7 @@ Są to odrębne serie, a ich wspólną zasadą jest służba prawdzie, pięknu, 
 3° Rada;
 4° Miłosierdzie;
 5° Moc;
-6° Wiedza;
+6° Dociekliwość;
 7° Cierpliwość.
 
 **§ 2.** Każdy Dar może służyć wszystkim siedmiu stopniom. Umieszczenie ich w tym miejscu Septenarium wskazuje na ich rolę w przemianie człowieka i jego działania, nie ogranicza ich do jednego rodzaju uczynku.
