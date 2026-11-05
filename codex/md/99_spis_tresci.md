@@ -17,7 +17,7 @@
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
 | [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień: Tytuły I–XVI; siedmiostopniowa skala spojrzenia, uczynki, rozeznanie, liturgia domowa, tekst dosłowny Objawienia, sześć Słów dalszych, siedem Słów ostatnich, Septenarium i dwa Słowa dopełniające | kan. 518–549²⁴ oraz kanony uzupełniające wskazane w strukturze szczegółowej |
 | [`ksiega-XII.md`](./ksiega-XII.md) | Aneks pomocniczy do Księgi XII — Septenarium | opracowanie dydaktyczne Tytułów XV–XVI; bez odrębnej numeracji kanonów |
-| [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród; obejmuje także późniejsze Tytuły XIII A, XIII B i XIII C | kan. 600–639²¹ oraz kanony uzupełniające 639¹–639²¹ |
+| [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród; obejmuje także późniejsze Tytuły XIII A, XIII B i XIII C | kan. 600–639 oraz kan. 639¹–639²¹ |
 | [`98_tradycja_bizantyjsko_slowianska.md`](./98_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
