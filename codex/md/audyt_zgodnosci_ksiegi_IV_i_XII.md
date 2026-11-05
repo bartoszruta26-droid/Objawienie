@@ -41,7 +41,7 @@ W aktualnej redakcji Księgi XII wykaz brzmi:
 3. Rada (*Consilium*).
 4. Miłosierdzie (*Misericordia*).
 5. Moc (*Fortitudo*).
-6. Wiedza (*Scientia*).
+6. Dociekliwość (*Investigatio*).
 7. Cierpliwość (*Patientia*).
 
 Cierpliwość oznacza wytrwałość w wierze, nadziei i miłości; spokojną stałość w dobru mimo trudności, bez bierności wobec krzywdy i bez rezygnacji z ochrony siebie lub bliźniego.
@@ -63,7 +63,7 @@ Katalog siedmiu charyzmatów zachowuje dotychczasowe nazwy:
 Katalog pozostaje w tej kolejności. Natomiast **macierz przyporządkowań** odczytuje charyzmaty w odwrotnym kierunku, zgodnie z kolejnością cnót:
 
 1. Pobożność — Cierpliwość — Służenie.
-2. Umiarkowanie — Wiedza — Kreatywna Inspiracja.
+2. Umiarkowanie — Dociekliwość — Kreatywna Inspiracja.
 3. Męstwo — Moc — Czyny Mocy.
 4. Sprawiedliwość — Miłosierdzie — Uzdrawianie.
 5. Skrupulatność — Rada — Języki.
@@ -79,7 +79,7 @@ Księga XII została uzupełniona o pełną macierz siedmiu przedmiotów błogos
 | Cnota | Przedmiot | Znaczenie | Dar | Charyzmat |
 |---|---|---|---|---|
 | Pobożność | Ziemia | Zakorzenienie i płodność | Cierpliwość | Służenie |
-| Umiarkowanie | Świeca i ogień | Światło i powołanie | Wiedza | Kreatywna Inspiracja |
+| Umiarkowanie | Świeca i ogień | Światło i powołanie | Dociekliwość | Kreatywna Inspiracja |
 | Męstwo | Olej | Umocnienie i uzdrawianie | Moc | Czyny Mocy |
 | Sprawiedliwość | Popiół | Pokuta i nawrócenie | Miłosierdzie | Uzdrawianie |
 | Skrupulatność | Chleb | Wspólnota i dziękczynienie | Rada | Języki |
@@ -112,7 +112,7 @@ W aneksie `ksiega-XII.md`:
 3. Nie zmieniać liczby siedmiu cnót, Darów, charyzmatów ani przedmiotów.
 4. Zachować katalog charyzmatów w kolejności od Proroctwa do Służenia.
 5. W macierzy przyporządkowań stosować kolejność odwrotną: od Służenia do Proroctwa.
-6. Zachować powiązania: Ziemia–Cierpliwość–Służenie; Świeca i ogień–Wiedza–Kreatywna Inspiracja; Olej–Moc–Czyny Mocy; Popiół–Miłosierdzie–Uzdrawianie; Chleb–Rada–Języki; Sól–Rozum–Rozróżnianie Duchów; Woda–Mądrość–Proroctwo.
+6. Zachować powiązania: Ziemia–Cierpliwość–Służenie; Świeca i ogień–Dociekliwość–Kreatywna Inspiracja; Olej–Moc–Czyny Mocy; Popiół–Miłosierdzie–Uzdrawianie; Chleb–Rada–Języki; Sól–Rozum–Rozróżnianie Duchów; Woda–Mądrość–Proroctwo.
 7. Nie utożsamiać cnoty, Daru, charyzmatu i przedmiotu błogosławionego — są to odrębne kategorie powiązane w macierzy.
 8. Nie przedstawiać projektowej enumeracji Darów jako jedynego historycznego katalogu chrześcijańskiego.
 
