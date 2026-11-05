@@ -33,7 +33,7 @@
 3. **Rada (*Consilium*)**.
 4. **Miłosierdzie (*Misericordia*)**.
 5. **Moc (*Fortitudo*)**.
-6. **Wiedza (*Scientia*)**.
+6. **Dociekliwość (*Investigatio*)** — badanie źródeł, zadawanie pytań i sprawdzanie odpowiedzi w poszukiwaniu prawdy.
 7. **Cierpliwość (*Patientia*)**.
 
 *Uwaga: siódmym Darem w projekcie jest Cierpliwość (Patientia). Pobożność (Pietas) pozostaje cnotą. Nie należy ich utożsamiać. Historyczne wyliczenia darów w tradycji chrześcijańskiej mogą posługiwać się innym nazewnictwem.*
@@ -54,7 +54,7 @@ Charyzmaty są tu przyporządkowane w kolejności odwrotnej do katalogu, zgodnie
 | Cnota | Przedmiot | Znaczenie | Dar | Charyzmat |
 |---|---|---|---|---|
 | Pobożność (Pietas) | Ziemia | Zakorzenienie i płodność | Cierpliwość (Patientia) | Służenie (Diakonia) |
-| Umiarkowanie (Temperantia) | Świeca i ogień | Światło i powołanie | Wiedza (Scientia) | Kreatywna Inspiracja (Inspiratio Creativa) |
+| Umiarkowanie (Temperantia) | Świeca i ogień | Światło i powołanie | Dociekliwość (Investigatio) | Kreatywna Inspiracja (Inspiratio Creativa) |
 | Męstwo (Fortitudo) | Olej | Umocnienie i uzdrawianie | Moc (Fortitudo) | Czyny Mocy (Virtutes) |
 | Sprawiedliwość (Iustitia) | Popiół | Pokuta i nawrócenie | Miłosierdzie (Misericordia) | Uzdrawianie (Sanatio) |
 | Skrupulatność (Sollicitudo) | Chleb | Wspólnota i dziękczynienie | Rada (Consilium) | Języki (Linguae) |
