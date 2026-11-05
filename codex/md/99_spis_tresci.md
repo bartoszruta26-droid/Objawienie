@@ -211,30 +211,20 @@
 
 - **Preambuła:** zniesienie grzechu jako odrzucenie logiki ostatecznego potępienia; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; mapa Księgi.
 - **Tytuł I: Fundament Objawienia — zniesienie grzechu i spektrum miłości** — kan. 518–521.
-  - Rozdział I: Zniesienie grzechu i niezbywalna godność człowieka.
-  - Rozdział II: Chrystus jako miara drogi życia.
 - **Tytuł II: Ostrzeżenie i norma serca — miłość nie jest własnością** — kan. 522–524¹.
-  - Rozdział I: Pożądanie i odwrócenie kierunku.
-  - Rozdział II: Nie można posiadać miłości Bożej dla siebie.
 - **Tytuł III: Siedem stopni jednego spojrzenia** — kan. 525–529¹.
-  - Rozdział I: Jedność i kolejność: *ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas*.
-  - Rozdział II: Spektrum prawdy, piękna i sprawiedliwości w każdym stopniu.
+  - *Ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas.*
+  - Spektrum prawdy, piękna i sprawiedliwości obecne w każdym stopniu.
 - **Tytuł IV: Siedem serii duchowych — cnoty, Dary i charyzmaty** — kan. 529²–529⁷.
-  - Rozdział I: Zasada porządkowania wszystkich siódemek.
-  - Rozdział II: Siedem cnót domowych.
-  - Rozdział III: Siedem Darów Ducha Świętego.
-  - Rozdział IV: Siedem charyzmatów.
-  - Normy rozróżnienia i ochrony przed nadużyciem katalogów duchowych.
+  - Siedem cnót domowych; siedem Darów Ducha Świętego; siedem charyzmatów.
+  - Rozróżnienie cnoty, Daru i charyzmatu oraz ochrona przed nadużyciami.
 - **Tytuł V: Siedem błogosławieństw i siedem wymiarów uświęcenia** — kan. 530–532.
-  - Rozdział I: Błogosławieństwa Kazania na Górze.
-  - Rozdział II: Siedem form błogosławienia.
-  - Rozdział III: Siedem wymiarów uświęcenia.
+  - Błogosławieństwa Kazania na Górze; siedem form błogosławienia; siedem wymiarów uświęcenia.
 - **Tytuł VI: Siedem rezurekcji i siedem sposobów miłości Bożej** — kan. 533–534.
-  - Rozdział I: Siedem biblijnych świadectw przywrócenia życia.
-  - Rozdział II: Siedem sposobów działania jednej miłości Bożej.
+  - Siedem biblijnych świadectw przywrócenia życia; siedem sposobów działania jednej miłości Bożej.
 - **Tytuł VII: Synteza — jak wszystkie siódemki łączą się w jedną drogę** — kan. 535–535¹.
   - Macierz powiązań i siedem pytań rozeznania.
-- **Tytuł VIII: Uczynki i liturgia życia** — kan. 530–534 oraz kan. 532¹–532⁴ *(przepisy praktyczne; zakresy tematyczne wskazane w tekście głównym)*.
+- **Tytuł VIII: Uczynki i liturgia życia** — kan. 530¹–530³ oraz 532¹–532⁴.
 - **Tytuł IX: Rozeznanie dróg i leczenie sumień** — kan. 535².
 - **Tytuł X: Normy stosowania i interpretacji** — kan. 536–538.
 - **Tytuł XI: Liturgia domowa i rok Objawienia** — kan. 539–541.
@@ -248,7 +238,7 @@
   - Siedem dni stworzenia; siedem dyspozycji służby; siedem błogosławieństw; siedem form błogosławienia; siedem Darów; siedem biblijnych wskrzeszeń; siedem sposobów miłości; wykaz cnót i charyzmatów.
 - **Tytuł XIX: Dwa Słowa dopełniające — Imię Ojca i siedem cech jednego aktu** — kan. 549²³–549²⁴.
 
-*Uwaga: dawna, rozbudowana redakcja i jej Appendix zostały zastąpione uporządkowanym tekstem głównym. Numerację kanonów zachowano w granicach Księgi XII do kan. 549²⁴; Księga 95 rozpoczyna się od kan. 549²⁵.*
+*Uwaga: dawną, rozbudowaną redakcję i jej Appendix zastąpiono uporządkowanym tekstem głównym. Numerację kanonów zachowano do kan. 549²⁴; Księga 95 rozpoczyna się od kan. 549²⁵.*
 
 ## Księga 95 — Prawda, ochrona bliźniego i rozeznanie konieczności w ratowaniu życia
 
