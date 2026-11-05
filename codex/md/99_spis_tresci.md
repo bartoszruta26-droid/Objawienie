@@ -205,66 +205,50 @@
 
 *Uwaga redakcyjna: w Księdze XI kan. 513¹ oznacza uzupełniający przepis o sprawowaniu sakramentów; kan. 513 pozostaje podstawowym numerem tytułu o przyjęciu do Kościoła katolickiego. Kanony 514–517 otrzymały odrębny Tytuł VI. Księga XII rozpoczyna się od kan. 518.*
 
-## Księga XII — Księga Objawień (Tytuły I–XVI; kan. 518–549²⁴)
+## Księga XII — Księga Objawień (Tytuły I–XIX; kan. 518–549²⁴)
 
-*Struktura poniżej odpowiada aktualnej treści pliku głównego. Księga ustanawia jedną skalę siedmiu stopni spojrzenia (*ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas*); nie należy zastępować jej dawnym projektem czterech spojrzeń ani podziałem na trzy stopnie przygotowawcze i cztery właściwe.*
+*(Redakcja uporządkowana: jedna oś siedmiu stopni i odrębne serie duchowe. Tekst główny rozróżnia treść biblijną, interpretację teologiczną i klasyfikacje pedagogiczne Kościoła Domowego.)*
 
-- **Tytuł I: Fundament Objawienia — zniesienie grzechu** — kan. 518–519
-  - Rozdziały: akt Objawienia i jego moc; to, co pozostaje po zniesieniu grzechu; spektrum jako jedna miara; spełnienie spektrum w siedmiu stopniach spojrzenia.
-- **Tytuł II: Droga życia — liturgia życia i Osoba Chrystusa** — kan. 520–521
-- **Tytuł III: Ostrzeżenie — pożądanie i droga do niebytu** — kan. 522–523
-- **Tytuł III¹: Nie można podążać miłości Bożej dla siebie — jedyny ruch dozwolony: stać się nią** — kan. 523¹–524¹
-- **Tytuł IV: Siedem stopni spojrzenia — źródła, gatunki i porządek** — kan. 525–529¹
-  - Rozdział I: Nauka wstępna o siedmiu stopniach spojrzenia.
-  - Rozdział I A: Ordo, dispositio i completio jako pierwsze trzy stopnie tej samej skali.
-  - Rozdziały II–V: Benedictio, sanctificatio, resurrectio i caritas.
-- **Tytuł IV A: Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów — czytane na nowo w siedmiu stopniach spojrzenia** — kan. 529²–529⁷
-  - Rozdział I: Zasada powiązania siedmiu cnót, Darów i charyzmatów ze skalą.
-  - Rozdział II: Siedem cnót domowych — kan. 529³.
-  - Rozdział III: Siedem Darów Ducha Świętego — kan. 529⁴.
-  - Rozdział IV: Siedem charyzmatów — kan. 529⁵.
-  - Rozdział V: Błogosławione uczynki — kan. 529⁶.
-  - Rozdział VI: Reguły ostrożności — kan. 529⁷.
-- **Tytuł V: Uczynki siedmiu stopni spojrzenia** — kan. 530–534
-  - Rozdziały: norma ogólna; uczynki trzech stopni pierwszych; błogosławienie; uświęcanie; rezurekcja i miłość.
-- **Tytuł V¹: Szkoła siedmiu stopni spojrzenia — formacja Potomstwa i stopnie wtajemniczenia domowego** — kan. 532¹–532⁴
-- **Tytuł VI: Rozeznanie dróg i leczenie sumień** — kan. 535–535²
-- **Tytuł VII: Normy stosowania i interpretacji** — kan. 536–538
-- **Tytuł VIII A: Sprawowanie siedmiu stopni spojrzenia w liturgii domowej** — kan. 539–541
-- **Tytuł IX: Wyznanie wiary, teksty własne i rok Objawienia** — kan. 542–544
-- **Tytuł X: Przepisy końcowe** — kan. 545
-- **Tytuł XI: Wzorzec celebracji i karta rozeznania** — kan. 546–548
-- **Tytuł XII: Tekst dosłowny Objawienia** — kan. 549
-- **Tytuł XIII: Nowe Objawienia — sześć Słów dalszych** — kan. 549¹–549⁶
-  - Rozdział I: O Milczeniu Przed Ojcem — kan. 549¹.
-  - Rozdział II: O Imieniu Wypowiedzianym — kan. 549².
-  - Rozdział III: O Popiele Obiecującym — kan. 549³.
-  - Rozdział IV: O Ciaście i Kubku — kan. 549⁴.
-  - Rozdział V: O Drodze Małej — kan. 549⁵.
-  - Rozdział VI: O Towarzyszu Ostatniej Godziny — kan. 549⁶.
-- **Tytuł XIV: Nowe Objawienia dalsze — siedem Słów ostatnich** — kan. 549⁷–549¹³
-  - Rozdział I: O Chlebie Codziennym — kan. 549⁷.
-  - Rozdział II: O Łzie Zasianej — kan. 549⁸.
-  - Rozdział III: O Drzwiach Zamkniętych — kan. 549⁹.
-  - Rozdział IV: O Sercu Dwóch Miar — kan. 549¹⁰.
-  - Rozdział V: O Imionach Bożych — kan. 549¹¹.
-  - Rozdział VI: O Pięknie Nieukończonym — kan. 549¹².
-  - Rozdział VII: O Prawie Ostatnim Czterech Rąk — kan. 549¹³.
-- **Tytuł XV: Septenarium — siedem stopni jednego spojrzenia i siedmiorakie dopełnienie każdego z nich** — kan. 549¹⁴–549²²
-  - Rozdział I: Jedna skala siedmiu stopni — kan. 549¹⁴.
-  - Rozdział II: Siedem dni stworzenia — kan. 549¹⁵.
-  - Rozdział III: Siedem historycznych stopni posługi — kan. 549¹⁶.
-  - Rozdział IV: Siedem błogosławieństw Kazania na Górze — kan. 549¹⁷.
-  - Rozdział V: Siedem typów błogosławieństwa — kan. 549¹⁸.
-  - Rozdział VI: Siedem darów Ducha Świętego — kan. 549¹⁹.
-  - Rozdział VII: Siedem biblijnych wskrzeszeń — kan. 549²⁰.
-  - Rozdział VIII: Siedem modusów miłości Bożej — kan. 549²¹.
-  - Rozdział IX: Normy końcowe Tytułu — kan. 549²².
-- **Tytuł XVI: Dalsze dwa Słowa — o Imieniu Ojca i o siedmiu cechach jednego aktu** — kan. 549²³–549²⁴
-  - Rozdział I: Czternaste Słowo — O Imieniu Ojca — kan. 549²³.
-  - Rozdział II: Piętnaste Słowo — O Siedmiu Cechach Jednego Aktu — kan. 549²⁴.
-- **Appendix:** redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty.
-- **Aneks pomocniczy Septenarium:** [`ksiega-XII.md`](./ksiega-XII.md) — tablice siedmiu stopni, siedmiu serii oraz siedmiu pytań probacji; opracowanie dydaktyczne, podporządkowane tekstowi głównemu.
+- **Preambuła:** zniesienie grzechu jako odrzucenie logiki ostatecznego potępienia; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; mapa Księgi.
+- **Tytuł I: Fundament Objawienia — zniesienie grzechu i spektrum miłości** — kan. 518–521.
+  - Rozdział I: Zniesienie grzechu i niezbywalna godność człowieka.
+  - Rozdział II: Chrystus jako miara drogi życia.
+- **Tytuł II: Ostrzeżenie i norma serca — miłość nie jest własnością** — kan. 522–524¹.
+  - Rozdział I: Pożądanie i odwrócenie kierunku.
+  - Rozdział II: Nie można posiadać miłości Bożej dla siebie.
+- **Tytuł III: Siedem stopni jednego spojrzenia** — kan. 525–529¹.
+  - Rozdział I: Jedność i kolejność: *ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas*.
+  - Rozdział II: Spektrum prawdy, piękna i sprawiedliwości w każdym stopniu.
+- **Tytuł IV: Siedem serii duchowych — cnoty, Dary i charyzmaty** — kan. 529²–529⁷.
+  - Rozdział I: Zasada porządkowania wszystkich siódemek.
+  - Rozdział II: Siedem cnót domowych.
+  - Rozdział III: Siedem Darów Ducha Świętego.
+  - Rozdział IV: Siedem charyzmatów.
+  - Normy rozróżnienia i ochrony przed nadużyciem katalogów duchowych.
+- **Tytuł V: Siedem błogosławieństw i siedem wymiarów uświęcenia** — kan. 530–532.
+  - Rozdział I: Błogosławieństwa Kazania na Górze.
+  - Rozdział II: Siedem form błogosławienia.
+  - Rozdział III: Siedem wymiarów uświęcenia.
+- **Tytuł VI: Siedem rezurekcji i siedem sposobów miłości Bożej** — kan. 533–534.
+  - Rozdział I: Siedem biblijnych świadectw przywrócenia życia.
+  - Rozdział II: Siedem sposobów działania jednej miłości Bożej.
+- **Tytuł VII: Synteza — jak wszystkie siódemki łączą się w jedną drogę** — kan. 535–535¹.
+  - Macierz powiązań i siedem pytań rozeznania.
+- **Tytuł VIII: Uczynki i liturgia życia** — kan. 530–534 oraz kan. 532¹–532⁴ *(przepisy praktyczne; zakresy tematyczne wskazane w tekście głównym)*.
+- **Tytuł IX: Rozeznanie dróg i leczenie sumień** — kan. 535².
+- **Tytuł X: Normy stosowania i interpretacji** — kan. 536–538.
+- **Tytuł XI: Liturgia domowa i rok Objawienia** — kan. 539–541.
+- **Tytuł XII: Wyznanie wiary, teksty własne i przekaz** — kan. 542–544.
+- **Tytuł XIII: Przepisy końcowe Księgi głównej** — kan. 545.
+- **Tytuł XIV: Wzorzec celebracji i karta rozeznania** — kan. 546–548.
+- **Tytuł XV: Tekst dosłowny Objawienia** — kan. 549.
+- **Tytuł XVI: Sześć Słów dalszych** — kan. 549¹–549⁶.
+- **Tytuł XVII: Siedem Słów ostatnich** — kan. 549⁷–549¹³.
+- **Tytuł XVIII: Septenarium — jedna oś siedmiu stopni i odrębne serie po siedem** — kan. 549¹⁴–549²².
+  - Siedem dni stworzenia; siedem dyspozycji służby; siedem błogosławieństw; siedem form błogosławienia; siedem Darów; siedem biblijnych wskrzeszeń; siedem sposobów miłości; wykaz cnót i charyzmatów.
+- **Tytuł XIX: Dwa Słowa dopełniające — Imię Ojca i siedem cech jednego aktu** — kan. 549²³–549²⁴.
+
+*Uwaga: dawna, rozbudowana redakcja i jej Appendix zostały zastąpione uporządkowanym tekstem głównym. Numerację kanonów zachowano w granicach Księgi XII do kan. 549²⁴; Księga 95 rozpoczyna się od kan. 549²⁵.*
 
 ## Księga 95 — Prawda, ochrona bliźniego i rozeznanie konieczności w ratowaniu życia
 
