@@ -17,6 +17,7 @@
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
 | [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień: Tytuły I–XVI; siedmiostopniowa skala spojrzenia, uczynki, rozeznanie, liturgia domowa, tekst dosłowny Objawienia, sześć Słów dalszych, siedem Słów ostatnich, Septenarium i dwa Słowa dopełniające | kan. 518–549²⁴ oraz kanony uzupełniające wskazane w strukturze szczegółowej |
 | [`ksiega-XII.md`](./ksiega-XII.md) | Aneks pomocniczy do Księgi XII — Septenarium | opracowanie dydaktyczne Tytułów XV–XVI; bez odrębnej numeracji kanonów |
+| [`96_ksiega_XCVI_zniesienie_grzechu_i_koniecznosc.md`](./96_ksiega_XCVI_zniesienie_grzechu_i_koniecznosc.md) | Księga 96 — Zniesienie grzechu, sprawiedliwość naprawcza i ratunkowe użycie cudzego dobra | kan. 550–599; kan. 599¹–599⁷ |
 | [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród; obejmuje także późniejsze Tytuły XIII A, XIII B i XIII C | kan. 600–639 oraz kan. 639¹–639²¹ |
 | [`98_tradycja_bizantyjsko_slowianska.md`](./98_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
@@ -264,6 +265,29 @@
   - Rozdział II: Piętnaste Słowo — O Siedmiu Cechach Jednego Aktu — kan. 549²⁴.
 - **Appendix:** redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty.
 - **Aneks pomocniczy Septenarium:** [`ksiega-XII.md`](./ksiega-XII.md) — tablice siedmiu stopni, siedmiu serii oraz siedmiu pytań probacji; opracowanie dydaktyczne, podporządkowane tekstowi głównemu.
+
+## Księga 96 — Zniesienie grzechu, sprawiedliwość naprawcza i ratunkowe użycie cudzego dobra
+
+*(plik: `96_ksiega_XCVI_zniesienie_grzechu_i_koniecznosc.md`; kan. 550–599 oraz kan. 599¹–599⁷; wewnętrzny projekt normatywny, bez uchylania prawa państwowego)*
+
+- **Preambuła:** miłosierdzie, prawda, ochrona życia i prawa właściciela.
+- **Tytuł I: Zasady podstawowe i definicje** — kan. 550–559
+  - Rozdział I: Przedmiot, zasady interpretacji, definicje i rozróżnienie winy od odpowiedzialności — kan. 550–554.
+  - Rozdział II: Grzech, wina, wolność i godność osoby — kan. 555–559.
+- **Tytuł II: Stan konieczności i pierwszeństwo ratowania życia** — kan. 560–569
+  - Rozdział I: Rozpoznanie rzeczywistego zagrożenia życia i zdrowia — kan. 560–564.
+  - Rozdział II: Proporcjonalność, minimalizacja szkody i granice działania — kan. 565–569.
+- **Tytuł III: Cudze dobro użyte dla ratowania życia i zdrowia** — kan. 570–579
+  - Rozdział I: Nieoprocentowana pożyczka ratunkowa za zgodą — kan. 570–573.
+  - Rozdział II: Wyjątkowe użycie bez uprzedniej zgody i obowiązek rozliczenia — kan. 574–579.
+- **Tytuł IV: Zniesienie grzechu, rozeznanie w sprawie kradzieży i miłosierdzie** — kan. 580–589
+  - Rozdział I: Rozróżnienie kradzieży, przywłaszczenia i czynu ratunkowego — kan. 580–584.
+  - Rozdział II: Pojednanie, przebaczenie i ochrona pokrzywdzonego — kan. 585–589.
+- **Tytuł V: Restytucja, zwrot i nieoprocentowana pożyczka** — kan. 590–598
+  - Rozdział I: Zwrot rzeczy, harmonogram spłaty, brak odsetek i umorzenie — kan. 590–595.
+  - Rozdział II: Prawa właściciela, osoby potrzebującej i zakaz nadużycia — kan. 596–598.
+- **Tytuł V¹: Przepisy końcowe i zasada miłosierdzia** — kan. 599 oraz kan. 599¹–599⁷.
+- **Formuła końcowa i uwagi redakcyjne:** rozróżnienie norm wewnętrznych od prawa państwowego.
 
 ## Księga 97* — Księga o samotnej matce, która przekazuje swój ród
 
