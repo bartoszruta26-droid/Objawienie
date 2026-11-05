@@ -15,7 +15,7 @@ Objawienie nie pozwala nazywać zła dobrem ani krzywdy błogosławieństwem. Wz
 
 Odpowiedzią człowieka na spektrum jest **siedem stopni jednego spojrzenia**: *ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas*. Nie są to odrębne stopnie godności ani zamknięte etapy, które trzeba mechanicznie zaliczyć. Są to kolejne wymiary jednego dobrego aktu: uporządkować, przygotować, dopełnić, pobłogosławić, uświęcić, podnieść to, co upadło, i uczynić wszystko w miłości.
 
-W tej samej drodze uczestniczy siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów. Nie są one trzema konkurencyjnymi katalogami ani oznakami wyższości. Cnota kształtuje trwałą dyspozycję człowieka; Dar Ducha Świętego uzdalnia go do przyjęcia i wykonania dobra; charyzmat jest posłaniem ku wspólnocie i konkretnemu bliźniemu. Ich prawdziwość rozpoznaje się po owocach, nie po tytule, deklaracji ani niezwykłym doświadczeniu.
+W tej samej drodze uczestniczy siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów, a ich przyporządkowanie dopełnia siedem przedmiotów błogosławionych rzeczowych. Nie są one konkurencyjnymi katalogami ani oznakami wyższości. Cnota kształtuje trwałą dyspozycję człowieka; Dar Ducha Świętego uzdalnia go do przyjęcia i wykonania dobra; charyzmat jest posłaniem ku wspólnocie i konkretnemu bliźniemu. Ich prawdziwość rozpoznaje się po owocach, nie po tytule, deklaracji ani niezwykłym doświadczeniu.
 
 Księga porządkuje ponadto siedem błogosławieństw, siedem form błogosławienia, siedem wymiarów uświęcenia, siedem biblijnych świadectw przywrócenia życia oraz siedem sposobów miłości Bożej. Każda z tych siódemek opisuje inny aspekt tej samej drogi. Nie wolno ich mieszać ani uznawać, że jedna lista zastępuje drugą. Szczególnie należy odróżniać błogosławieństwa Kazania na Górze od rodzajów błogosławienia, a Dary Ducha Świętego od charyzmatów.
 
@@ -250,7 +250,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział III — Siedem Darów Ducha Świętego
 
-**Kan. 529⁴ § 1.** W porządku przyjętym w Księdze IV wymienia się siedem Darów Ducha Świętego: Mądrość, Rozum, Radę, Miłosierdzie, Moc, Wiedzę i Pobożność. Niniejsza Księga zachowuje tę projektową enumerację i jej nazewnictwo; nie utożsamia jej z każdą historyczną wersją listy darów w tradycji chrześcijańskiej.
+**Kan. 529⁴ § 1.** W porządku przyjętym w Księdze IV wymienia się siedem Darów Ducha Świętego: Mądrość, Rozum, Radę, Miłosierdzie, Moc, Wiedzę i Cierpliwość. Pobożność pozostaje cnotą, nie jest ósmym Darem ani zamiennikiem Cierpliwości. Niniejsza Księga zachowuje projektową enumerację Darów i odróżnia ją od innych historycznych wyliczeń w tradycji chrześcijańskiej.
 
 **§ 2. Siedem Darów:**
 1° **Mądrość (*Sapientia*)** — widzenie spraw w świetle Boga i rozpoznawanie tego, co prowadzi do prawdziwego dobra.
@@ -259,7 +259,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 4° **Miłosierdzie (*Misericordia*)** — zdolność współczucia, towarzyszenia cierpiącemu i szukania naprawy bez upokarzania.
 5° **Moc (*Fortitudo*)** — duchowa wytrwałość w dobru, szczególnie w obliczu przeszkód i niesprawiedliwości.
 6° **Wiedza (*Scientia*)** — rozpoznawanie stworzenia, jego praw, granic i właściwego użycia dóbr.
-7° **Pobożność (*Pietas*)** — postawa czci, wdzięczności i synowskiego zaufania wobec Boga, połączona z szacunkiem dla bliźniego.
+7° **Cierpliwość (*Patientia*)** — wytrwałość w wierze, nadziei i miłości; spokojna stałość w dobru mimo trudności, bez bierności wobec krzywdy i bez rezygnacji z ochrony siebie lub bliźniego.
 
 **§ 3.** Dar nie jest prywatną własnością ani tytułem do przewodzenia innym. Prośba o Dar jest prośbą o zdolność służenia prawdzie, pięknu, sprawiedliwości i miłości.
 
@@ -277,6 +277,20 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 5° **Czyny Mocy (*Virtutes*)** — szczególne znaki przypisywane działaniu Boga. Nie mogą być inscenizowane, używane do manipulacji ani traktowane jako dowód prawa do władzy.
 6° **Kreatywna Inspiracja (*Inspiratio Creativa*)** — tworzenie dzieł sztuki, piękna, kultury, nauki i praktycznych rozwiązań dla dobra ludzi.
 7° **Służenie (*Diakonia*)** — bezinteresowna i kompetentna pomoc, opieka, organizowanie wsparcia i troska o potrzebujących.
+
+**§ 2a. Macierz przyporządkowania według siedmiu cnót i przedmiotów błogosławionych.** Charyzmaty w poniższej macierzy podano w kolejności odwrotnej do ich wykazu w § 2, ponieważ odpowiadają kolejno cnotom od Pobożności do Nadziei. Nie zmienia to katalogu siedmiu charyzmatów; porządkuje ich związki z cnotami, Darami i przedmiotami błogosławionymi.
+
+| Cnota | Przedmiot błogosławiony | Znaczenie przedmiotu | Dar Ducha Świętego | Charyzmat |
+|---|---|---|---|---|
+| **Pobożność (*Pietas*)** | Ziemia | Zakorzenienie i płodność | **Cierpliwość (*Patientia*)** | **Służenie (*Diakonia*)** |
+| **Umiarkowanie (*Temperantia*)** | Świeca i ogień | Światło i powołanie | **Wiedza (*Scientia*)** | **Kreatywna Inspiracja (*Inspiratio Creativa*)** |
+| **Męstwo (*Fortitudo*)** | Olej | Umocnienie i uzdrawianie | **Moc (*Fortitudo*)** | **Czyny Mocy (*Virtutes*)** |
+| **Sprawiedliwość (*Iustitia*)** | Popiół | Pokuta i nawrócenie | **Miłosierdzie (*Misericordia*)** | **Uzdrawianie (*Sanatio*)** |
+| **Skrupulatność (*Sollicitudo*)** | Chleb | Wspólnota i dziękczynienie | **Rada (*Consilium*)** | **Języki (*Linguae*)** |
+| **Roztropność (*Prudentia*)** | Sól | Ochrona i rozeznanie | **Rozum (*Intellectus*)** | **Rozróżnianie Duchów (*Discretio Spirituum*)** |
+| **Nadzieja (*Spes*)** | Woda | Oczyszczenie i nowe życie | **Mądrość (*Sapientia*)** | **Proroctwo (*Prophetia*)** |
+
+**§ 2b.** Macierz odtwarza przyporządkowania przyjęte w Księdze IV. Kolejność charyzmatów jest tu odwrócona względem ich katalogu: Służenie, Kreatywna Inspiracja, Czyny Mocy, Uzdrawianie, Języki, Rozróżnianie Duchów, Proroctwo. Nie oznacza to zmiany nazw ani liczby charyzmatów.
 
 **§ 3.** Charyzmat rozpoznaje się po owocach: prawdzie, pokorze, odpowiedzialności, wolności adresata, gotowości do korekty i dobru wspólnoty. Zjawisko niezwykłe samo w sobie nie dowodzi pochodzenia Bożego.
 
@@ -400,7 +414,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 | I. Ordo — Porządek | Co jest prawdą i komu należy się właściwe miejsce? | Pobożność, roztropność, skrupulatność | Rozum, Wiedza | Rozróżnianie Duchów |
 | II. Dispositio — Przygotowanie | Co trzeba przygotować, aby dobro mogło się wydarzyć? | Roztropność, umiarkowanie, skrupulatność | Rada, Wiedza | Służenie |
 | III. Completio — Dopełnienie | Co należy uczciwie zakończyć lub rozliczyć? | Sprawiedliwość, męstwo, skrupulatność | Rada, Moc | Kreatywna Inspiracja, Służenie |
-| IV. Benedictio — Błogosławieństwo | Jak wypowiedzieć dobro bez fałszowania prawdy? | Nadzieja, pobożność, umiarkowanie | Mądrość, Pobożność | Proroctwo |
+| IV. Benedictio — Błogosławieństwo | Jak wypowiedzieć dobro bez fałszowania prawdy? | Nadzieja, pobożność, umiarkowanie | Mądrość, Cierpliwość | Proroctwo |
 | V. Sanctificatio — Uświęcenie | Jak materia, ciało, praca i relacja mogą służyć dobru? | Umiarkowanie, sprawiedliwość, pobożność | Wiedza, Mądrość | Języki, Kreatywna Inspiracja |
 | VI. Resurrectio — Rezurekcja | Co zostało zranione i jak można przywrócić dobro? | Męstwo, sprawiedliwość, nadzieja | Miłosierdzie, Moc | Uzdrawianie, Czyny Mocy |
 | VII. Caritas — Miłość | Czy cały akt jest darem, który szanuje wolność i godność? | Wszystkie cnoty, szczególnie roztropność | Wszystkie Dary, w jedności | Służenie i rozeznanie wszystkich charyzmatów |
@@ -860,7 +874,7 @@ Są to odrębne serie, a ich wspólną zasadą jest służba prawdzie, pięknu, 
 4° Miłosierdzie;
 5° Moc;
 6° Wiedza;
-7° Pobożność.
+7° Cierpliwość.
 
 **§ 2.** Każdy Dar może służyć wszystkim siedmiu stopniom. Umieszczenie ich w tym miejscu Septenarium wskazuje na ich rolę w przemianie człowieka i jego działania, nie ogranicza ich do jednego rodzaju uczynku.
 
@@ -894,9 +908,11 @@ Są to odrębne serie, a ich wspólną zasadą jest służba prawdzie, pięknu, 
 
 **Kan. 549²² § 1.** Dla zachowania pełnej pamięci o seriach duchowych powtarza się ich wykazy:
 - cnoty: Pobożność, Umiarkowanie, Męstwo, Sprawiedliwość, Skrupulatność, Roztropność, Nadzieja;
-- charyzmaty: Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie.
+- charyzmaty (katalog): Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie;
+- charyzmaty w macierzy przyporządkowań, od Pobożności do Nadziei: Służenie, Kreatywna Inspiracja, Czyny Mocy, Uzdrawianie, Języki, Rozróżnianie Duchów, Proroctwo;
+- siedem przedmiotów błogosławionych rzeczowych: Ziemia, Świeca i ogień, Olej, Popiół, Chleb, Sól, Woda — w kolejności odpowiadającej siedmiu cnotom.
 
-**§ 2.** Cnoty i charyzmaty nie są kolejnymi stopniami skali ani dowodem wyższości. Są odpowiednio dyspozycjami moralnymi i posługami dla dobra wspólnoty.
+**§ 2.** Cnoty i charyzmaty nie są kolejnymi stopniami skali ani dowodem wyższości. Są odpowiednio dyspozycjami moralnymi i posługami dla dobra wspólnoty. Przyporządkowanie charyzmatów do cnót przebiega w kolejności odwrotnej do katalogu charyzmatów: Służenie łączy się z Pobożnością i Cierpliwością, a następnie Kreatywna Inspiracja z Umiarkowaniem i Wiedzą, Czyny Mocy z Męstwem i Mocą, Uzdrawianie ze Sprawiedliwością i Miłosierdziem, Języki ze Skrupulatnością i Radą, Rozróżnianie Duchów z Roztropnością i Rozumem, a Proroctwo z Nadzieją i Mądrością. Pełna macierz obejmująca także siedem przedmiotów błogosławionych znajduje się w kan. 529⁵.
 
 **§ 3.** Septenarium należy czytać w kolejności: najpierw oś siedmiu stopni, następnie każdą serię oddzielnie, a na końcu macierz z kan. 535. W ten sposób uniknie się mieszania nazw, funkcji i źródeł.
 
