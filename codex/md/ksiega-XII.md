@@ -34,9 +34,9 @@
 4. **Miłosierdzie (*Misericordia*)**.
 5. **Moc (*Fortitudo*)**.
 6. **Wiedza (*Scientia*)**.
-7. **Pobożność (*Pietas*)**.
+7. **Cierpliwość (*Patientia*)**.
 
-*Uwaga: zachowano listę i nazewnictwo projektu Księgi IV; nie należy ukrywać, że historyczne wyliczenia darów w tradycji chrześcijańskiej mogą posługiwać się innym nazewnictwem.*
+*Uwaga: siódmym Darem w projekcie jest Cierpliwość (Patientia). Pobożność (Pietas) pozostaje cnotą. Nie należy ich utożsamiać. Historyczne wyliczenia darów w tradycji chrześcijańskiej mogą posługiwać się innym nazewnictwem.*
 
 ### 3. Siedem charyzmatów
 1. **Proroctwo (*Prophetia*)** — słowo budujące i wzywające do prawdy.
@@ -46,6 +46,20 @@
 5. **Czyny Mocy (*Virtutes*)** — znaki przypisywane działaniu Boga, bez inscenizacji i manipulacji.
 6. **Kreatywna Inspiracja (*Inspiratio Creativa*)** — tworzenie piękna i rozwiązań dla dobra ludzi.
 7. **Służenie (*Diakonia*)** — kompetentna, bezinteresowna pomoc.
+
+### 3a. Macierz powiązań: cnota, przedmiot, Dar i charyzmat
+
+Charyzmaty są tu przyporządkowane w kolejności odwrotnej do katalogu, zgodnie z kolejnością cnót.
+
+| Cnota | Przedmiot | Znaczenie | Dar | Charyzmat |
+|---|---|---|---|---|
+| Pobożność (Pietas) | Ziemia | Zakorzenienie i płodność | Cierpliwość (Patientia) | Służenie (Diakonia) |
+| Umiarkowanie (Temperantia) | Świeca i ogień | Światło i powołanie | Wiedza (Scientia) | Kreatywna Inspiracja (Inspiratio Creativa) |
+| Męstwo (Fortitudo) | Olej | Umocnienie i uzdrawianie | Moc (Fortitudo) | Czyny Mocy (Virtutes) |
+| Sprawiedliwość (Iustitia) | Popiół | Pokuta i nawrócenie | Miłosierdzie (Misericordia) | Uzdrawianie (Sanatio) |
+| Skrupulatność (Sollicitudo) | Chleb | Wspólnota i dziękczynienie | Rada (Consilium) | Języki (Linguae) |
+| Roztropność (Prudentia) | Sól | Ochrona i rozeznanie | Rozum (Intellectus) | Rozróżnianie Duchów (Discretio Spirituum) |
+| Nadzieja (Spes) | Woda | Oczyszczenie i nowe życie | Mądrość (Sapientia) | Proroctwo (Prophetia) |
 
 ### 4. Siedem błogosławieństw Kazania na Górze
 1. Ubodzy w duchu.
@@ -101,6 +115,19 @@ Zmartwychwstanie Jezusa Chrystusa pozostaje centralnym i odrębnym fundamentem w
 7. **Caritas glorificans** — miłość uwielbiająca.
 
 To siedem opisów działania jednej miłości Bożej, nie siedem odrębnych źródeł ani bytów.
+
+### 9. Siedem przedmiotów błogosławionych rzeczowych
+
+W kolejności odpowiadającej cnotom:
+1. Ziemia — zakorzenienie i płodność; Pobożność.
+2. Świeca i ogień — światło i powołanie; Umiarkowanie.
+3. Olej — umocnienie i uzdrawianie; Męstwo.
+4. Popiół — pokuta i nawrócenie; Sprawiedliwość.
+5. Chleb — wspólnota i dziękczynienie; Skrupulatność.
+6. Sól — ochrona i rozeznanie; Roztropność.
+7. Woda — oczyszczenie i nowe życie; Nadzieja.
+
+W katalogu Księgi IV kolejność rzeczowa jest następująca: Woda, Sól, Chleb, Popiół, Olej, Świeca i ogień, Ziemia.
 
 ## III. Jak czytać całość
 
