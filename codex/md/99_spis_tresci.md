@@ -15,9 +15,9 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
-| [`13_ksiega_XII_objawienia.md`](./13_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A; sześć dalszych Słów objawienia: o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny — Tytuł XIII; siedem Słów ostatnich: o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk — Tytuł XIV) | kan. 518–549 oraz 523¹–524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶, 549⁷–549¹³ |
+| [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A; sześć dalszych Słów objawienia: o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny — Tytuł XIII; siedem Słów ostatnich: o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk — Tytuł XIV; Septenarium i jego siedem serii — Tytuł XV; Imię Ojca i siedem cech jednego aktu — Tytuł XVI) | kan. 518–549²⁴ oraz 523¹–524¹, 526¹, 528¹, 529¹–529⁷, 532¹–532⁴, 535¹–535² |
 | [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród (potrzeba stworzenia życia i przekazania rodu przez kobietę samotną; siedem prawd, siedem sprawiedliwości i siedem poziomów piękna w siedmiu rodzajach miłości Bożej wobec stanu samotnego rodzicielstwa; zarządzanie majątkiem jako powierzenie — pięć cnót porządku oraz dwa pożądania zakazane; walory osoby rodziciela; niepokalaność matki i potomka mimo nieznajomości ojca; przekazanie rodu linią żeńską; ochrona prawna i liturgia Obrządku Marii Magdaleny; **Tytuł XIII**: kobieta długotrwale samotna i chora — potrzeba doświadczenia siedmiu miłości Bożych przez partnera tymczasowego w zjednoczeniu leczniczym, uzasadnienie braku grzechu pożądania, wzajemne dawanie i otrzymywanie błogosławieństwa oraz namaszczenie chorej); **Tytuł XIII A**: kobieta chora uroginekologicznie i seksuologicznie — sakrament namaszczenia chorych na miejscach intymnych przez szafarza tymczasowego ku odzyskaniu zdrowia uroginekologicznego i seksuologicznego oraz ku dotknięciu wszystkich siedmiu miłości Bożych; uzasadniony potrzebą choroby brak grzechu pożądania majętku, troski i walorów osoby partnera) | kan. 600–639 |
-| [`12_tradycja_bizantyjsko_slowianska.md`](./12_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
+| [`98_tradycja_bizantyjsko_slowianska.md`](./98_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
 -   **Tytuł I: Przedmiot i zakres stosowania** — kan. 1–7
@@ -199,7 +199,7 @@
 - **Tytuł IV: PRZEPISY KOŃCOWE** — kan. 513–514
 
 
-## Księga XII — Księga Objawień
+## Księga XII — Księga Objawień (Tytuły I–XVI; kan. 518–549²⁴)
 *(redakcja obowiązująca: kan. 518–549 wraz z kanonami uzupełniającymi 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶; dawny plan rozbudowy kan. 518–561 został zastąpiony redakcją zrealizowaną, której strukturę podaje Preambuła Księgi)*
 
 **Struktura zrealizowana (wg Preambuły Księgi):**
@@ -319,7 +319,7 @@
 - Appendix III: Tekst dosłowny objawienia czwartego (o kobiecie chorej uroginekologicznie i seksuologicznie oraz o namaszczeniu miejsc intymnych)
 
 ## Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański
-*(plik: `12_tradycja_bizantyjsko_slowianska.md`; dokument historyczno-teologiczny, nie normatywny)*
+*(plik: `98_tradycja_bizantyjsko_slowianska.md`; dokument historyczno-teologiczny, nie normatywny)*
 
 - **Część I. Geneza obrządku bizantyjsko-słowiańskiego**
   - Rozdział 1. Misja Cyryla i Metodego (863–885)
