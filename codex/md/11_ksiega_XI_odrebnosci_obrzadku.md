@@ -280,15 +280,13 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 6° w obrzadku domowym częste i zalecane jest blogosławienie osob, uczynków, przedmiotow i miejsc. 
 
-**Kan. 508 — Sakramenty:**
+**Kan. 508 — Relacja obrządku domowego do porządku sakramentalnego:**
 
-1° w obrządku łacińskim sakramenty są sprawowane najczęściej przez duchownych wyświęconych rękami biskupa;
+1° obrządek domowy uznaje siedem sakramentów chrześcijańskich i zachowuje ich odrębność od sakramentaliów, błogosławieństw oraz obrzędów domowych;
 
-2° w obrządku domowym sakramenty są najchętniej przyjmowane w Kościele Powszechnym (parafia, diecezja), jednakże z ważnej przyczyny moga być przyjmowane z rak biskupa uświęconego Duchem Świętym;
+2° szczegółowe zasady dotyczące natury, znaków, celebracji, szafarzy, przygotowania, owoców i dokumentowania sakramentów określa Księga XIII;
 
-3° w obrządku domowym sprawowane są przedmioty błogosławione, błogosławieństwa i obrzędy domowe przez kapłanów domowych i szafarzy świętych uświęconych Duchem Swięttm;
-
-4° w przypadkach przewidzianych w KPK, wobec istotnej przyczyny, jeżeli kanony KPK pozwalają i wyraźne nie zabraniają z rąk kapłana uswięxonego Duchem Swiętym, biskupa uświęconego Duchem Swiętym, biskupa wyświęconego rękoma biskupa, w Kościele Domowym szafarzem sakramentów mogą być te wymienione osoby.
+3° niniejsza Księga reguluje odrębności obrządku, organizację posług i wewnętrzny status osób sprawujących posługi; nie powtarza szczegółowych norm sakramentalnych Księgi XIII.
 
 **Kan. 509 — Dobra doczesne:**
 
@@ -325,43 +323,13 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 ---
 
 
-## Tytuł IV: Sprawowanie sakramentów przez duchownych Kościoła Domowego
-**Kan. 513¹ § 1.** Sakramenty są udzielane zgodnie z przepisami KPK kan. 840-
+## Tytuł IV: ODESŁANIE DO PRAWA SAKRAMENTALNEGO
 
-**§ 2.** Zgodnie z kan 844 § 2 KPK ilekroć domaga się tego konieczność lub zaleca prawdziwy pożytek duchowy i jeżeli nie zachodzi niebezpieczeńśtwo błędu lub indyferetyzmu, wolno wiernym w tym wiernym katolickim, dla których fizycznie lub moralnie jest niemożliwe udanie się do szafarza katolickiego ( przyjętego przez Biskupa Rzymu lub jednostronnie żyjacego z nim w komunii ), przyjąć sakramenty pokuty, Eucharystii i namaszczania chorych od szafarzy niekatolickich w tym biskupa subdiecezjalnego nie deklarującego komunii z Kosciolem Katolickim lub kapłana Kościoła Domowego nie deklarujacego komunii z Kosciolem Katolickim gdy w Kościele Domowym akatolickim sakramenty te są ważnie wymienione
+**Kan. 513¹ § 1.** Szczegółowe prawo sakramentalne obrządku domowego, obejmujące siedem sakramentów, ich teologię, znaki, celebrację, szafarzy, przygotowanie, skutki, duszpasterstwo i dokumentację, zawiera Księga XIII — Sakramenty Święte.
 
-**§ 3.** Chrzest - zgodnie z kan. 861 KPK §1 zwyczajnym szafarzem chrztu jest biskup Kościoła Domowego zarówno konsekrowany powołany z nadania Bożego i uswięxony Duchem swięttm jak i konsekrowany rekoma biskupa. Gdy szafarz zwyczajny jest nieobecny lub ma przeszkodę, chrztu godziwie udziela każdy człowiek mający właściwą intencję. 
+**§ 2.** Kanony niniejszej Księgi dotyczące tytułów, urzędów, powołania i wewnętrznej organizacji posług należy odczytywać łącznie z Księgą XIII. W szczegółowej materii sakramentalnej pierwszeństwo redakcyjne i systemowe ma Księga XIII.
 
-**§ 4.** Bierzmowanie - zgodnie z kan. 882 KPK zwyczajnym szafarzem sakramentu bierzmowania jest biskup także ten konsekrowany Duchem Swięttm, powołany przez Boga uswięcony Duchem Swięttm, tytularny lub subdiecezjalny Kościoła Domowego i na podstawie kan. 883 KPK na mocy samego prawa Bożego władzę udzielania bierzmowania posiadają w granicy swego terytorium subdiecezji biskupi subdiecezjalni zrównani prawem Bożym z biskupami konsekrowanymi diecezjalnymi. Ponadto biskup diecezjalny konsekrowany zgodnie z kan. 884 §1 powinien udzielać bierzmowania osobiście albo zatroszczyć się o to, by go udzielił inny biskup także konsekrowany biskup subdiecezji Kościoła Domowego, a zgodnie z kan. 886 §2 domniemywa się rozumnie zezwolenie od biskupa diecezjalnego na przeprowadzenie sakramentu bierzmowania wobec podwładnych biskupa diecezjalnego, którzy tymczasowo oddaja się posłudze biskupa Kościoła Domowego. Zgodnie z kan. 895. Nazwiska bierzmowanych należy zapisać w księdze bierzmowanych, przechowywanej w kurii diecezjalnej oraz zgodnie z kan. 896 KPK w sytuacji, gdy miejscowy proboszcz nie był obecny szafarz ma obowiązek osobiście lub przez przedstawiciela powiadomić proboszcza miejsca chrztu i biskupa diecezjalnego jak najszybciej o udzieleniu bierzmowania.
-
-**§ 4.** Zgodnie z kan. 900 KPK szafarzem, który sprawuje w osobie Chrystusa sakrament Eucharystii jest tylko kapłan ważnie wyświęcony Duchem Swięttm lub rekami biskupa, a godziwie sprawuje także eucharystię nie będąc w osobie Chrystusa ale z nim u boku każdy kapłan, także kapłan Kościoła Domowego, któremu prawo kanoniczne tego wprost nie zabrania z zachowaniem przepisów KPK. Zgodnie z kan. 903 nawet, jeżeli kapłan w tym kapłan wyświęcony Duchem Swięttm jest nieznany rektorowi kościoła, powinien być dopuszczony do odprawiania, jeżeli przedstawi pismo własnego ordynariusza w tym siebie samego jeżeli jest autonomicznym kaplanem  lub przełożonego biskupa subdiecezjalnego, wystawione nie wcześniej niż przed rokiem. W rozumieniu KPK kan 908 Kościół Domowy ma pełną wspólnotę z Kościołem Katolickim i koncelebrowanie Eucharystii nie jest zabronione. Zwyczajnym szafarzem Komunii świętej jest biskup także subdiecezjalny, oraz wierny wyznaczony zgodnie z kan. 230 KPK tam gdzie doradza konieczność Kościoła z braku szafarzy.
-
-**§ 5.** Pokuta - Zgodnie z kan, 965 KPK szafarzem sakramentu pokuty jest kapłan także kapłan konsekrowany Duchem Swiętym, jednakże do ważnego odpuszczenia grzechów  wymaga się aby szafarz posiadał władzę święcenia także tą nadaną Duchem Swiętym i upoważnienie do jej wykonania w odniesieniu do wiernych, którym udziela rozgrzeszenia otrzymane z mocy prawa Bożego, a upoważnienie do spowiadania wierni powinni udzielać tylko kapłanom także tym uświęconym Duchem Świętym, o którym skądinąd się dowiedzą iż są odpowiedni, z założeniem, iż ordynariuszem miejsca jest spowiadany wierny w obrębie miejsca w którym się znajduje. Szczególną formą rozgrzeszenia jest zgodnie z kan. 976 KPK upoważnienie ważności rozgrzeszenia wydanego przez kapłana konsekrowanego Duchem Swiętym nawet bez upoważnienia ordynariusza miejsca czyli rozgrzeszanego wiernego i nawet przy obecności kapłana upoważnionego uważa się za godne i ważne jeżeli penitent lub penitenci znajdują się w niebezpieczeństwie śmierci ciała lub śmierci duszy i nie osiągnięcia Królestwa Niebieskiego. Zgodnie z kan. 991 KPK każdy wierny ma prawo wyznać swoje grzechy wybranemu przez siebie spowiednikowi, także innego obrządku w tym obrządków Kościoła Domowego (Pawłowy, Marii Magdaleny, Tomaszowy ) prowadzonego przez Ojca, Matkę lub Potomka. Zgodnie z kan 995. KPK Ci mogą udzielać odpustów, którym tę władzę przyznaje Prawo Boże albo udziela jej Biskup Rzymski.
-
-**§ 6.** Namaszczenie chorych - Ci, którzy są prawem Bożym zrównani z biskupem diecezjalnym w tym biskupi subdiecezjalni mogą poświęcać olej zgodnie z kan 999 KPK. Zgodnie z Kan. 741 KKKW  Olej potrzebny przy sprawowaniu sakramentu namaszczenia chorych powinien być pobłogosławiony i, jeśli inaczej nie stanowi prawo partykularne własnego Kościoła sui iuris, przez tego samego kapłana, który sprawuje sakrament. Namaszczenia chorych ważnie udziela każdy kapłan w tym kapłan wyświęcony Duxhem Swiętym, któremu powierzono wolą Bożą duszpasterstwo w stosunku do wiernych powierzonych kapłanowi ich własną wolą i jego duszpasterskiej trosce zgodnie z kan 1003 KPK. W kan. 1004 KPK wskazano, że namaszczenia chorych można udzielić wiernemu, który znajdzie się w niebezpieczeństwie śmierci na skutek choroby lub starości zarówno wobec śmierci ciała jak i śmierci Duszy wynikającej z grzechu nie będącego grzechem ciężkim, przy którym jawnie i uparcie trwają.
-
-**§ 6.** Kapłaństwo - Szafarzem świętym jest osoba, która na mocy ustanowienia Bożego, przez sakrament kapłaństwa została naznaczona niezatartym charakterem zgodnie z kan. 1008 KPK. Ci, którzy zostali mianowani przez Biskupa Rzymu, konsekrowani i przeznaczeni do wypełnienia w osobie Chrystusa-Głowy zadania nauczania, uświęcania i kierowania - byli pasterzami Ludu Bożego, a Ci, którzy nie będąc przyjętymi przez Biskupa Rzymu ale będąc mianowani wolą Bożą i których czyny i osoba zostały uświęcone Duxhem Swięttm i których Bóg poświęcił ażeby wypełniając z Chrystusem-Głową zadania nauczania, uświęcania czynów i błogosławienia osób i kierowania także był pasterzem Ludu Bożego. Zgodnie z KKKW Kan. 744  Jedynie biskup ważnie udziela święceń poprzez włożenie
-rąk i modlitwę przepisaną przez Kościół natomiast zgodnie z Prawem Bożym Duch Święty ważnie udziela święceń bez nałożenia rąk. Ponadto KKKW Kan. 758  § 1. Aby ktoś mógł być godziwie wyświęcony wymaga się:
-1° przyjęcia sakramentu chryzmacji/chrztu;
-2° obyczajów oraz cech fizycznych i psychicznych odpowiednich do
-przyjęcia święceń;
-3° ukończenia wieku przepisanego prawem w postaci 24 lat;
-4° odpowiedniej wiedzy;
-5° przyjęcia święceń niższych według prawa partykularnego własnego
-Kościoła sui iuris w tym uznawanego w ttmze kościele uswięcenia Duchem Świętym;
-6° zachowania interstycji przewidzianych prawem partykularnym.
-§ 2. Wymaga się ponadto, aby kandydat nie by związany przeszkodami,
-według KKKW kan. 762 o ile nie udzielono dyspensy.
-§ 3. Odnośnie do żonatych kandydatów przystępujących do święceń, należy zachować prawo partykularne własnego Kościoła sui iuris, dyspensę nadana przepisami tefo kanonu i wola biskupa subdiecezjalnego.
-§ 4 Zgodnie z KKKW Kan. 760  § 1. Wyświęcić na diakona można po indywidualnej ocenie Rady Hierarchów lub Synodu Biskupów kościoła partykularnego 
-§ Hierarcha kościoła partykularnego może dyspensować od wymogów stawianych przed kandydatem do święceń
-
-**§ 7.** Małżeństwo
-
-
-**§ X.** Zgodnie z kan. 203 § 1 świeccy za pełnioną posługę nie otrzymuje się wynagrodzenia ze strony Kościoła lecz zachowuje się prawo zgodnie z kan 231 § 2 maja prawo do wynagrodzenia ze strony wiernych i dopuszczenia ich do prowadzenia zbiórki na odrębną tacę na terenie Kościoła.
-Zachowują prawo do wynagrodzenia ze strony Kościoła duchowni w tym biskupi subdiecezjalni i kapłani także konsekrowani Duchem Swiętym. W tym celu i zgodnie z kan. 945 KPK zgodnie z uznanym zwyczajem każdy kapłan także konsekrowany Duchem Świętym koncelebrujący Mszę świętą może przyjąć ofiarę złożoną, aby odprawił Mszę św. w określonej intencji.
-
+**§ 3.** Wewnętrzny status kapłana domowego, szafarza świętego lub biskupa tytularnego określają normy ustrojowe obrządku domowego, w szczególności kan. 496–502. Skutki tego statusu w porządku Kościoła Domowego określa Księga XIII. Nie należy utożsamiać wewnętrznego statusu z uznaniem kanonicznym przez odrębny Kościół lub wspólnotę.
 
 ---
 
