@@ -11,12 +11,13 @@
 | [`05_ksiega_V_prawo_sakramentalne.md`](./05_ksiega_V_prawo_sakramentalne.md) | Księga V — Posługa kapłańska i współudział Małżonki i Potomka | kan. 289–318 |
 | [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 319–344 |
 | [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 345–379 |
-| [`08_ksiega_VIII_przekazanie_patriarchatu.md`](./08_ksiega_VIII_przekazanie_patriarchatu.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
+| [`08_ksiega_VIII_przekazanie_hierarchi.md`](./08_ksiega_VIII_przekazanie_hierarchi.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
-| [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–514 |
-| [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień (zniesienie grzechu; spektrum prawdy, piękna i sprawiedliwości w miłości Bożej; liturgia życia; droga do niebytu; niemożność podążania miłości Bożej dla siebie i stanie się nią; cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość; siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów w świetle czterech spojrzeń — Tytuł IV A; sześć dalszych Słów objawienia: o Milczeniu Przed Ojcem, o Imieniu Wypowiedzianym, o Popiele Obiecującym, o Ciaście i Kubku, o Drodze Małej, o Towarzyszu Ostatniej Godziny — Tytuł XIII; siedem Słów ostatnich: o Chlebie Codziennym, o Łzie Zasianej, o Drzwiach Zamkniętych, o Sercu Dwóch Miar, o Imionach Bożych, o Pięknie Nieukończonym, o Prawie Ostatnim Czterech Rąk — Tytuł XIV; Septenarium i jego siedem serii — Tytuł XV; Imię Ojca i siedem cech jednego aktu — Tytuł XVI) | kan. 518–549²⁴ oraz 523¹–524¹, 526¹, 528¹, 529¹–529⁷, 532¹–532⁴, 535¹–535² |
-| [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród (potrzeba stworzenia życia i przekazania rodu przez kobietę samotną; siedem prawd, siedem sprawiedliwości i siedem poziomów piękna w siedmiu rodzajach miłości Bożej wobec stanu samotnego rodzicielstwa; zarządzanie majątkiem jako powierzenie — pięć cnót porządku oraz dwa pożądania zakazane; walory osoby rodziciela; niepokalaność matki i potomka mimo nieznajomości ojca; przekazanie rodu linią żeńską; ochrona prawna i liturgia Obrządku Marii Magdaleny; **Tytuł XIII**: kobieta długotrwale samotna i chora — potrzeba doświadczenia siedmiu miłości Bożych przez partnera tymczasowego w zjednoczeniu leczniczym, uzasadnienie braku grzechu pożądania, wzajemne dawanie i otrzymywanie błogosławieństwa oraz namaszczenie chorej); **Tytuł XIII A**: kobieta chora uroginekologicznie i seksuologicznie — sakrament namaszczenia chorych na miejscach intymnych przez szafarza tymczasowego ku odzyskaniu zdrowia uroginekologicznego i seksuologicznego oraz ku dotknięciu wszystkich siedmiu miłości Bożych; uzasadniony potrzebą choroby brak grzechu pożądania majętku, troski i walorów osoby partnera) | kan. 600–639 |
+| [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
+| [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień: Tytuły I–XVI; siedmiostopniowa skala spojrzenia, uczynki, rozeznanie, liturgia domowa, tekst dosłowny Objawienia, sześć Słów dalszych, siedem Słów ostatnich, Septenarium i dwa Słowa dopełniające | kan. 518–549²⁴ oraz kanony uzupełniające wskazane w strukturze szczegółowej |
+| [`ksiega-XII.md`](./ksiega-XII.md) | Aneks pomocniczy do Księgi XII — Septenarium | opracowanie dydaktyczne Tytułów XV–XVI; bez odrębnej numeracji kanonów |
+| [`97_ksiega_97x_samotna_matka_przekazanie_rodu.md`](./97_ksiega_97x_samotna_matka_przekazanie_rodu.md) | Księga 97* — Księga o samotnej matce, która przekazuje swój ród; obejmuje także późniejsze Tytuły XIII A, XIII B i XIII C | kan. 600–639²¹ oraz kanony uzupełniające 639¹–639²¹ |
 | [`98_tradycja_bizantyjsko_slowianska.md`](./98_tradycja_bizantyjsko_slowianska.md) | Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański (obrządek, język, źródła; rekonstrukcja najstarszych podań słowiańskich) | studium historyczno-teologiczne (bez numeracji kanonów) |
 
 ## Księga I — Normy Ogólne
@@ -189,134 +190,141 @@
 
 
 ## Księga XI — Odrębności obrządku domowego od obrządku łacińskiego
-- **Tytuł I: CELIBAT I MAŁŻEŃSTWO W OBRZĄDKU DOMOWYM** — kan. 492–495
-- **Tytuł II: PODZIAŁ POSŁUG W OBRZĄDKU DOMOWYM** — kan. 496–502
--   **Rozdział I: Duchowni obrządku domowego** — kan. 496–497
--   **Rozdział II: Kapłani domowi** — kan. 498
--   **Rozdział III: Szafarze święci** — kan. 499
--   **Rozdział IV: Biskupi niewyświęceni (subdiecezjalni) i wyświęceni (diecezjalni)** — kan. 500–502
-- **Tytuł III: INNE RÓŻNICE MIĘDZY OBRZĄDKIEM ŁACIŃSKIM A OBRZĄDKIEM DOMOWYM** — kan. 503–512
-- **Tytuł IV: PRZEPISY KOŃCOWE** — kan. 513–514
 
+- **Tytuł I: Celibat i małżeństwo w obrządku domowym** — kan. 492–495
+- **Tytuł II: Podział posług w obrządku domowym** — kan. 496–502
+  - Rozdział I: Duchowni obrządku domowego — kan. 496–497
+  - Rozdział II: Kapłani domowi — kan. 498
+  - Rozdział III: Szafarze święci — kan. 499
+  - Rozdział IV: Biskupi tytularni, subdiecezjalni i diecezjalni — kan. 500–502
+- **Tytuł III: Inne różnice między obrządkiem łacińskim a obrządkiem domowym** — kan. 503–512
+- **Tytuł IV: Sprawowanie sakramentów przez duchownych Kościoła Domowego** — kan. 513¹ *(kanon uzupełniający; zasady i granice posługi wymagają odczytania łącznie z prawem powszechnym i właściwymi kompetencjami szafarzy)*
+- **Tytuł V: Przyjęcie do Kościoła katolickiego** — kan. 513
+- **Tytuł VI: Osoby prawne, urzędy, władza rządzenia i hierarchowie** — kan. 514–517
+
+*Uwaga redakcyjna: w Księdze XI kan. 513¹ oznacza uzupełniający przepis o sprawowaniu sakramentów; kan. 513 pozostaje podstawowym numerem tytułu o przyjęciu do Kościoła katolickiego. Kanony 514–517 otrzymały odrębny Tytuł VI. Księga XII rozpoczyna się od kan. 518.*
 
 ## Księga XII — Księga Objawień (Tytuły I–XVI; kan. 518–549²⁴)
-*(redakcja obowiązująca: kan. 518–549 wraz z kanonami uzupełniającymi 523¹, 524¹, 526¹, 528¹, 529¹, 529²–529⁷, 532¹–532⁴, 535¹–535², 549¹–549⁶; dawny plan rozbudowy kan. 518–561 został zastąpiony redakcją zrealizowaną, której strukturę podaje Preambuła Księgi)*
 
-**Struktura zrealizowana (wg Preambuły Księgi):**
-- **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–519
+*Struktura poniżej odpowiada aktualnej treści pliku głównego. Księga ustanawia jedną skalę siedmiu stopni spojrzenia (*ordo, dispositio, completio, benedictio, sanctificatio, resurrectio, caritas*); nie należy zastępować jej dawnym projektem czterech spojrzeń ani podziałem na trzy stopnie przygotowawcze i cztery właściwe.*
+
+- **Tytuł I: Fundament Objawienia — zniesienie grzechu** — kan. 518–519
+  - Rozdziały: akt Objawienia i jego moc; to, co pozostaje po zniesieniu grzechu; spektrum jako jedna miara; spełnienie spektrum w siedmiu stopniach spojrzenia.
 - **Tytuł II: Droga życia — liturgia życia i Osoba Chrystusa** — kan. 520–521
 - **Tytuł III: Ostrzeżenie — pożądanie i droga do niebytu** — kan. 522–523
-- **Tytuł III¹: Norma serc — niemożność podążania miłości Bożej dla siebie i konieczność stania się nią** — kan. 523¹–524¹
-- **Tytuł IV: Cztery sprawcze spojrzenia — ich źródła, gatunki i porządek** — kan. 525–529¹
-- **Tytuł IV A: Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów — czytane na nowo w czterech spojrzeniach** — kan. 529²–529⁷ *(rozbudowa najnowsza)*
-  - Rozdział I: Zasada powiązania — siedem w cztery, cztery w siedem (reguła wpuszczenia; tabela przyporządkowań) — kan. 529²
-  - Rozdział II: Siedem cnót domowych w świetle zniesienia grzechu (Pobożność, Umiarkowanie, Męstwo, Sprawiedliwość, Skrupulatność, Roztropność, Nadzieja) — kan. 529³
-  - Rozdział III: Siedem Darów Ducha Świętego jako siedem podatności na cztery spojrzenia (Mądrość, Rozum, Rada, Miłosierdzie, Moc, Wiedza, Pobożność) — kan. 529⁴
-  - Rozdział IV: Siedem charyzmatów jako siedem posłań — rozpoznawanie i nakładanie (Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie) — kan. 529⁵
-  - Rozdział V: Błogosławione uczynki jako miejsce spotkania siedmiu i czterech — kan. 529⁶
-  - Rozdział VI: Reguły ostrożności i podsumowanie — kan. 529⁷
-- **Tytuł V: Uczynki czterech spojrzeń** — kan. 530–534
-- **Tytuł V¹: Szkoła czterech spojrzeń — formacja Potomstwa i stopnie wtajemniczenia domowego** — kan. 532¹–532⁴
+- **Tytuł III¹: Nie można podążać miłości Bożej dla siebie — jedyny ruch dozwolony: stać się nią** — kan. 523¹–524¹
+- **Tytuł IV: Siedem stopni spojrzenia — źródła, gatunki i porządek** — kan. 525–529¹
+  - Rozdział I: Nauka wstępna o siedmiu stopniach spojrzenia.
+  - Rozdział I A: Ordo, dispositio i completio jako pierwsze trzy stopnie tej samej skali.
+  - Rozdziały II–V: Benedictio, sanctificatio, resurrectio i caritas.
+- **Tytuł IV A: Siedem cnót domowych, siedem Darów Ducha Świętego i siedem charyzmatów — czytane na nowo w siedmiu stopniach spojrzenia** — kan. 529²–529⁷
+  - Rozdział I: Zasada powiązania siedmiu cnót, Darów i charyzmatów ze skalą.
+  - Rozdział II: Siedem cnót domowych — kan. 529³.
+  - Rozdział III: Siedem Darów Ducha Świętego — kan. 529⁴.
+  - Rozdział IV: Siedem charyzmatów — kan. 529⁵.
+  - Rozdział V: Błogosławione uczynki — kan. 529⁶.
+  - Rozdział VI: Reguły ostrożności — kan. 529⁷.
+- **Tytuł V: Uczynki siedmiu stopni spojrzenia** — kan. 530–534
+  - Rozdziały: norma ogólna; uczynki trzech stopni pierwszych; błogosławienie; uświęcanie; rezurekcja i miłość.
+- **Tytuł V¹: Szkoła siedmiu stopni spojrzenia — formacja Potomstwa i stopnie wtajemniczenia domowego** — kan. 532¹–532⁴
 - **Tytuł VI: Rozeznanie dróg i leczenie sumień** — kan. 535–535²
 - **Tytuł VII: Normy stosowania i interpretacji** — kan. 536–538
-- **Tytuł VIII A: Sprawowanie czterech spojrzeń w liturgii domowej** — kan. 539–541
-- **Tytuł IX: Wyznanie wiary, teksty własne i rok objawienia** — kan. 542–544
+- **Tytuł VIII A: Sprawowanie siedmiu stopni spojrzenia w liturgii domowej** — kan. 539–541
+- **Tytuł IX: Wyznanie wiary, teksty własne i rok Objawienia** — kan. 542–544
 - **Tytuł X: Przepisy końcowe** — kan. 545
-- **Tytuł XI: Wzorek celebracji i karta rozeznania** — kan. 546–548
-- **Tytuł XII: Tekst dosłowny objawienia czterech spojrzeń** — kan. 549
-- **Tytuł XIII: Nowe objawienia — sześć Słów dalszych, danych Szafarzowi Świętemu po Objawieniu czterech spojrzeń** — kan. 549¹–549⁶ *(rozbudowa ostatnia; wszystkie Słowa podlegają próbie uczynku — kan. 530 § 1)*
-  - Rozdział I: Pierwsze Słowo — O Milczeniu Przed Ojcem (*De Silentio Coram Patre*; obrzęd *Silentium Coram Patre*, Dzień Ciszy Domowej, zakaz kary milczeniem) — kan. 549¹
-  - Rozdział II: Drugie Słowo — O Imieniu Wypowiedzianym (*De Nomine Vocato*; cztery normy o imieniu, modlitwa imienna *Oratio Nominalis*, imię Chrystusa jako miara) — kan. 549²
-  - Rozdział III: Trzecie Słowo — O Popiele Obiecującym (*De Cinere Promittente*; trzy gesty popiołu, zakaz używania popiołu jako zarzutu, rubryka „Popiół i materiał”) — kan. 549³
-  - Rozdział IV: Czwarte Słowo — O Ciaście i Kubku (*De Pasta et Calice Parvulo*; obrzęd chlebowy i kubkowy, tabela podziału dóbr wspólnych, coroczne wyniesienie nieużywanych rzeczy) — kan. 549⁴
-  - Rozdział V: Piąte Słowo — O Drodze Małej (*De Via Parva*; siedem punktów Drogi Małej, reguły stosowania, ostrzeżenie przed liczeniem i przed pogardą drogi wielkiej) — kan. 549⁵
-  - Rozdział VI: Szoste Słowo — O Towarzyszu Ostatniej Godziny (*De Socio Horae Novissimae*; posługa przy umierających, towarzysz dla żyjących w żałobie i oddaleniu, norma praktyczna sześciu Słów, przegląd trzyletni) — kan. 549⁶
-- **Tytuł XIV: Nowe objawienia dalsze — siedem Słów ostatnich, danych Szafarzowi Świętemu po Sześciu Słowach** — kan. 549⁷–549¹³ *(rozbudowa nowsza; wszystkie Słowa podlegają próbie uczynku — kan. 530 § 1 — oraz przeglądowi trzyletniemu na zasadzie kan. 549⁶ § 5)*
-  - Rozdział I: Siódme Słowo — O Chlebie Codziennym (*De Pane Quotidiano*; tablica codziennego chleba, pierwszeństwo przy dzieleniu dóbr, część gościa, obrzęd łamania jednego chleba *Fractio Unius Panis*) — kan. 549⁷
-  - Rozdział II: Ósme Słowo — O Łzie Zasianej (*De Lacrima Seminata*; posługa słuchania określonego *Auditus Determinatus*, księga łez *Liber Lacrimarum*, trzy zakazy wobec cierpienia) — kan. 549⁸
-  - Rozdział III: Dziewiąte Słowo — O Drzwiach Zamkniętych (*De Ianua Clausa*; zakaz podwajania zamka, obowiązek jednej szczeliny, imiennictwo nieobecnych, prawo listu, Dzień Otwartych Drzwi, trzy pytania rozeznawcze przy powrocie) — kan. 549⁹
-  - Rozdział IV: Dziesiąte Słowo — O Sercu Dwóch Miar (*De Corde Duarum Mensurarum*; cztery reguły łączenia prawdy z miłością, zmiana celu upomnienia braterskiego, zakaz „prawdy bez adresu”) — kan. 549¹⁰
-  - Rozdział V: Jedenaste Słowo — O Imionach Bożych (*De Nominibus Dei*; siedem imion dozwolonych w liturgii domowej z przypisaniem spojrzeń, normy ostrożności, kolejność modlitwy imiennej) — kan. 549¹¹
-  - Rozdział VI: Dwunaste Słowo — O Pięknie Nieukończonym (*De Pulchritudine Incohata*; prawo brudnopisu, nakaz użytkownika, miara zmarnowana, zwyczaj wieczoru nieukończonego) — kan. 549¹²
-  - Rozdział VII: Trzynaste Słowo — O Prawie Ostatnim Czterech Rąk (*De Lege Ultima Quattuor Manuum*; norma czterech rąk, przyłączenie do syntezy sześciu Słów, Reguła Jedenastu Zdań, zastrzeżenie o warunku życia wiecznego) — kan. 549¹³
-- Appendix: redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty
-
-*Dawniej projektowany plan rozbudowy (nieobowiązujący):*
-- **Tytuł I: Fundament objawienia — zniesienie grzechu** — kan. 518–520
-  - Rozdział I: Akt objawienia i jego moc — kan. 518–519
-  - Rozdział II: Co pozostaje po zniesieniu grzechu — kan. 520
-- **Tytuł II: Spektrum prawdy, piękna i sprawiedliwości w miłości Bożej** — kan. 521–527
-  - Rozdział I: Jedność spektrum — kan. 521
-  - Rozdział II: Prawda (*veritas*) — kan. 522
-  - Rozdział III: Piękno (*pulchritudo*) — kan. 523
-  - Rozdział IV: Sprawiedliwość (*iustitia*) — kan. 524
-  - Rozdział V: Miłość Boża (*caritas Dei*) — powietrze spektrum — kan. 525–527
-- **Tytuł III: Droga życia — liturgia życia i osoba Chrystusa** — kan. 528–533
-  - Rozdział I: Deklaracja drogi — kan. 528
-  - Rozdział II: Liturgia życia — definicja i godziny — kan. 529–530
-  - Rozdział III: Osoba Chrystusa jako miara — kan. 531
-  - Rozdział IV: Stany życia na drodze — kan. 532–533
-- **Tytuł IV: Ostrzeżenie — pożądanie i droga do niebytu** — kan. 534–539
-  - Rozdział I: Deklaracja ostrzeżenia — kan. 534
-  - Rozdział II: Dwie postaci przewrócenia miar — kan. 535
-  - Rozdział III: Natura niebytu — kan. 536
-  - Rozdział IV: Powolność drogi i możliwość zawrócenia — kan. 537
-  - Rozdział V: Znaki drogi ku niebytowi — kan. 538–539
-- **Tytuł III¹: Nie można podążać miłości Bożej dla siebie — jedyny ruch dozwolony: stać się nią** — kan. 523¹–524¹ *(norma obowiązująca; wprowadzona objawieniem)*
-  - Rozdział I: Niemożność drogi „po miłość Bożą dla siebie” — brak wysokiej prawdy, piękna i sprawiedliwości — kan. 523¹
-  - Rozdział II: Stawać się miłością Bożą — cztery spojrzenia: błogosławieństwo, uświęcenie, rezurekcja, miłość — kan. 524¹ § 1–2
-  - Rozdział III: Uczynki odpowiadające czterem spojrzeniom — kan. 524¹ § 3–4
-  - Rozdział IV: Norma modlitwy i błogosławieństw domowych — kan. 524¹ § 5–6
-- **Tytuł V: Rozeznanie dróg i leczenie sumień** — kan. 540–544
-  - Rozdział I: Reguły rozeznania — kan. 540–541
-  - Rozdział II: Pokuta jako leczenie — kan. 542–543
-  - Rozdział III: Szkoła spektrum — kan. 544
-- **Tytuł VI: Normy stosowania i interpretacji** — kan. 545–551
-- **Tytuł VII: Wyznanie wiary i liturgia objawienia** — kan. 552–555
-- **Tytuł VIII: Przepisy końcowe** — kan. 556–561
-- Appendix I: Tekst dosłowny objawienia; Appendix II: Reguła czterech prób (karta rozeznania); Appendix III: Skorowidz kanonów dawnych i nowych
+- **Tytuł XI: Wzorzec celebracji i karta rozeznania** — kan. 546–548
+- **Tytuł XII: Tekst dosłowny Objawienia** — kan. 549
+- **Tytuł XIII: Nowe Objawienia — sześć Słów dalszych** — kan. 549¹–549⁶
+  - Rozdział I: O Milczeniu Przed Ojcem — kan. 549¹.
+  - Rozdział II: O Imieniu Wypowiedzianym — kan. 549².
+  - Rozdział III: O Popiele Obiecującym — kan. 549³.
+  - Rozdział IV: O Ciaście i Kubku — kan. 549⁴.
+  - Rozdział V: O Drodze Małej — kan. 549⁵.
+  - Rozdział VI: O Towarzyszu Ostatniej Godziny — kan. 549⁶.
+- **Tytuł XIV: Nowe Objawienia dalsze — siedem Słów ostatnich** — kan. 549⁷–549¹³
+  - Rozdział I: O Chlebie Codziennym — kan. 549⁷.
+  - Rozdział II: O Łzie Zasianej — kan. 549⁸.
+  - Rozdział III: O Drzwiach Zamkniętych — kan. 549⁹.
+  - Rozdział IV: O Sercu Dwóch Miar — kan. 549¹⁰.
+  - Rozdział V: O Imionach Bożych — kan. 549¹¹.
+  - Rozdział VI: O Pięknie Nieukończonym — kan. 549¹².
+  - Rozdział VII: O Prawie Ostatnim Siedmiu Rąk — kan. 549¹³.
+- **Tytuł XV: Septenarium — siedem stopni jednego spojrzenia i siedmiorakie dopełnienie każdego z nich** — kan. 549¹⁴–549²²
+  - Rozdział I: Jedna skala siedmiu stopni — kan. 549¹⁴.
+  - Rozdział II: Siedem dni stworzenia — kan. 549¹⁵.
+  - Rozdział III: Siedem historycznych stopni posługi — kan. 549¹⁶.
+  - Rozdział IV: Siedem błogosławieństw Kazania na Górze — kan. 549¹⁷.
+  - Rozdział V: Siedem typów błogosławieństwa — kan. 549¹⁸.
+  - Rozdział VI: Siedem darów Ducha Świętego — kan. 549¹⁹.
+  - Rozdział VII: Siedem biblijnych wskrzeszeń — kan. 549²⁰.
+  - Rozdział VIII: Siedem modusów miłości Bożej — kan. 549²¹.
+  - Rozdział IX: Normy końcowe Tytułu — kan. 549²².
+- **Tytuł XVI: Dalsze dwa Słowa — o Imieniu Ojca i o siedmiu cechach jednego aktu** — kan. 549²³–549²⁴
+  - Rozdział I: Czternaste Słowo — O Imieniu Ojca — kan. 549²³.
+  - Rozdział II: Piętnaste Słowo — O Siedmiu Cechach Jednego Aktu — kan. 549²⁴.
+- **Appendix:** redakcja pierwsza kan. 525–528, zachowana dla pamięci wspólnoty.
+- **Aneks pomocniczy Septenarium:** [`ksiega-XII.md`](./ksiega-XII.md) — tablice siedmiu stopni, siedmiu serii oraz siedmiu pytań probacji; opracowanie dydaktyczne, podporządkowane tekstowi głównemu.
 
 ## Księga 97* — Księga o samotnej matce, która przekazuje swój ród
-*(plik: `97_ksiega_97x_samotna_matka_przekazanie_rodu.md`; kan. 600–639; objawienie dalsze po Księdze XII, z Tytułem XIII dodanym najnowszym)*
+
+*(plik: `97_ksiega_97x_samotna_matka_przekazanie_rodu.md`; kan. 600–639²¹ wraz z kanonami uzupełniającymi; dokument wymaga odrębnego przeglądu prawnego, kanonicznego, medycznego i etycznego przed traktowaniem jego propozycji jako norm praktycznych)*
 
 - **Tytuł I: Fundament — kobieta samotna w świetle siedmiu prawd** — kan. 600–601
-  - Rozdział I: Siedem prawd o stanie samotnym — kan. 600
-  - Rozdział II: Spektrum siedmiu wartości jako jedna miara stanu samotnego — kan. 601
+  - Rozdział I: Siedem prawd o stanie samotnym — kan. 600.
+  - Rozdział II: Spektrum siedmiu wartości jako jedna miara stanu samotnego — kan. 601.
 - **Tytuł II: Siedem sprawiedliwości wobec kobiety samotnej i wobec jej dziecka** — kan. 602–603
 - **Tytuł III: Siedem poziomów piękna macierzyństwa samotnego** — kan. 604–605
 - **Tytuł IV: Siedem rodzajów miłości Bożej, które prowadzą matkę samotną** — kan. 606–607
 - **Tytuł V: Potrzeba stworzenia życia i przekazania rodu — uzasadnienie** — kan. 608–610
-  - Rozdział I: Cztery racje potrzeby (bytu, Rodu, wspólnoty, dziecka) — kan. 608–609
-  - Rozdział II: Nowy Kościół Domowy pod sercem matki — kan. 610
+  - Rozdział I: Cztery racje potrzeby — kan. 608–609.
+  - Rozdział II: Nowy Kościół Domowy pod sercem matki — kan. 610.
 - **Tytuł VI: Zarządzanie majątkiem — pięć cnót porządku i dwa pożądania zakazane** — kan. 611–614
-  - Rozdział I: Majątek jako powierzenie, nie jako zdobycz — kan. 611
-  - Rozdział II: Pięć cnót porządkowania majątku (ordo, dispositio, completio, benedictio, sanctificatio) — kan. 612
-  - Rozdział III: Dwa pożądania zakazane — kiedy porządek majętności staje się grzechem — kan. 613–614
+  - Rozdział I: Majątek jako powierzenie, nie jako zdobycz — kan. 611.
+  - Rozdział II: Pięć cnót porządkowania majątku — kan. 612.
+  - Rozdział III: Dwa pożądania zakazane — kan. 613–614.
 - **Tytuł VII: Walory osoby rodziciela** — kan. 615–617
 - **Tytuł VIII: Niepokalaność matki i potomka mimo nieznajomości ojca** — kan. 618–621
 - **Tytuł IX: Przekazanie rodu i nazwiska** — kan. 622–624
 - **Tytuł X: Obowiązki wspólnoty i ochrona prawna** — kan. 625–627
 - **Tytuł XI: Liturgia, formuły i rok Księgi** — kan. 628–630
 - **Tytuł XII: Przepisy końcowe i interpretacyjne** — kan. 631–632
-- **Tytuł XIII: Kobieta długotrwale samotna i chora — potrzeba dotknięcia siedmiu miłości Bożych przez partnera tymczasowego w zjednoczeniu leczniczym** — kan. 633–639
-  - Rozdział I: Stan osoby długotrwale samotnej i chorej oraz racje jej potrzeby (zdrowie społeczne, psychiczne, fizyczne, sakramentalne) — kan. 633
-  - Rozdział II: Partner tymczasowy jako narzędzie leczenia — instytucja i granice — kan. 634
-  - Rozdział III: Liturgia siedmiu dotknięć — siedem modusów miłości Bożej doświadczanych w zjednoczeniu leczniczym — kan. 635
-  - Rozdział IV: Brak grzechu pożądania (majątku, troski, walorów osoby partnera) — dowód negatywny i pozytywny — kan. 636
-  - Rozdział V: Wzajemne dawanie i otrzymywanie błogosławieństwa — kan. 637
-  - Rozdział VI: Namaszczenie chorej jako serce obrzędu — kan. 638
-  - Rozdział VII: Rozeznanie, dokument i ochrona — kan. 639
-- **Tytuł XIII A: Kobieta chora uroginekologicznie i seksuologicznie — sakrament namaszczenia chorych na miejscach intymnych przez szafarza tymczasowego** — kan. 639¹–639⁷
-  - Rozdział I: Choroba uroginekologiczna i seksuologiczna jako stan wymagający namaszczenia miejsc intymnych — kan. 639¹
-  - Rozdział II: Szafarz tymczasowy posługujący namaszczenia — instytucja i warunki ważne — kan. 639²
-  - Rozdział III: Obrzęd Namaszczenia Miejsc Tajemnicy — siedem modusów miłości Bożej w jednym dotknięciu — kan. 639³
-  - Rozdział IV: Brak grzechu pożądania (majętku, troski, walorów osoby szafarza) — dowód negatywny i pozytywny — kan. 639⁴
-  - Rozdział V: Wzajemne błogosławieństwo i owocowanie obrzędu — kan. 639⁵
-  - Rozdział VI: Rozeznanie, dokument, ochrona i sankcje — kan. 639⁶
-  - Rozdział VII: Przepisy końcowe Tytułu XIII A (sakrament kapłański jako źródło i szczyt; święto; reguła probiercza) — kan. 639⁷
-- Appendix I: Tekst dosłowny objawienia dalszego
-- Appendix II: Tekst dosłowny objawienia trzeciego (o kobiecie długotrwale samotnej i chorej)
-- Appendix III: Tekst dosłowny objawienia czwartego (o kobiecie chorej uroginekologicznie i seksuologicznie oraz o namaszczeniu miejsc intymnych)
+- **Tytuł XIII: Kobieta długotrwale samotna i chora** — kan. 633–639
+  - Rozdział I: Stan osoby długotrwale samotnej i chorej oraz racje jej potrzeby — kan. 633.
+  - Rozdział II: Partner tymczasowy — instytucja i granice — kan. 634.
+  - Rozdział III: Liturgia siedmiu dotknięć i modusy miłości — kan. 635.
+  - Rozdział IV: Rozeznanie braku pożądania — kan. 636.
+  - Rozdział V: Wzajemne błogosławieństwo — kan. 637.
+  - Rozdział VI: Namaszczenie chorej — kan. 638.
+  - Rozdział VII: Rozeznanie, dokument i ochrona — kan. 639.
+- **Tytuł XIII A: Kobieta chora uroginekologicznie i seksuologicznie — redakcja o namaszczeniu i ochronie osoby** — kan. 639¹–639⁷
+  - Rozdział I: Stan chorobowy i potrzeba opieki — kan. 639¹.
+  - Rozdział II: Szafarz tymczasowy — instytucja i warunki — kan. 639².
+  - Rozdział III: Obrzęd i siedem modusów miłości — kan. 639³.
+  - Rozdział IV: Ochrona przed pożądaniem i nadużyciem — kan. 639⁴.
+  - Rozdział V: Wzajemne błogosławieństwo — kan. 639⁵.
+  - Rozdział VI: Rozeznanie, dokument, ochrona i sankcje — kan. 639⁶.
+  - Rozdział VII: Przepisy końcowe Tytułu XIII A — kan. 639⁷.
+- **Tytuł XIII B: Kobieta, która nie znała umiaru — redakcja o resurekcji i granicach posługi** — kan. 639⁸–639¹⁴
+  - Rozdział I: Stan kobiety i racje potrzeby rozeznania — kan. 639⁸.
+  - Rozdział II: Partner tymczasowy — instytucja i warunki — kan. 639⁹.
+  - Rozdział III: Miara i granice opisywanej posługi — kan. 639¹⁰.
+  - Rozdział IV: Obrzęd resurekcji — kan. 639¹¹.
+  - Rozdział V: Tablica siedmiu modusów miłości — kan. 639¹².
+  - Rozdział VI: Rozeznanie i ochrona osoby — kan. 639¹³.
+  - Rozdział VII: Wymiana błogosławieństw i przepisy końcowe — kan. 639¹⁴.
+- **Tytuł XIII C: Kobieta doświadczająca gwałtu i dziecko poczęte w wyniku przemocy — redakcja o ochronie matki i dziecka** — kan. 639¹⁵–639²¹
+  - Rozdział I: Opis stanu i ochrona osoby — kan. 639¹⁵.
+  - Rozdział II: Potrzeba opieki i namaszczenia — kan. 639¹⁶.
+  - Rozdział III: Obrzęd opieki i namaszczenia — kan. 639¹⁷.
+  - Rozdział IV: Godność matki i dziecka — kan. 639¹⁸.
+  - Rozdział V: Ochrona przed nadużyciem i uprzedmiotowieniem — kan. 639¹⁹.
+  - Rozdział VI: Siedem modusów miłości w opiece nad matką i dzieckiem — kan. 639²⁰.
+  - Rozdział VII: Przepisy końcowe Tytułu XIII C — kan. 639²¹.
+- **Appendix I:** tekst dosłowny Objawienia dalszego.
+- **Appendix II:** tekst dosłowny Objawienia trzeciego o kobiecie długotrwale samotnej i chorej.
+- **Appendix III:** tekst dosłowny Objawienia czwartego dotyczącego choroby uroginekologicznej.
+- **Appendix IV:** tekst dosłowny Objawienia piątego dotyczącego kobiety, która nie znała umiaru.
+- **Appendix V:** tekst dosłowny Objawienia szóstego dotyczącego kobiety doświadczającej gwałtu i dziecka poczętego w wyniku przemocy.
 
 ## Studium komplementarne — Tradycja bizantyjsko-słowiańska i staro-cerkiewno-słowiański
 *(plik: `98_tradycja_bizantyjsko_slowianska.md`; dokument historyczno-teologiczny, nie normatywny)*
