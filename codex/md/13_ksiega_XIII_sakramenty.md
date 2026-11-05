@@ -1,0 +1,549 @@
+# KSIĘGA XIII — SAKRAMENTY ŚWIĘTE
+## *De Sacramentis Sanctis — Znaki łaski, przymierza i życia w Chrystusie*
+
+---
+
+## PREAMBUŁA
+
+Sakramenty są świętymi znakami ustanowionymi przez Chrystusa i powierzonymi Kościołowi, w których Bóg działa dla zbawienia człowieka. Nie są magicznymi czynnościami, nagrodami za doskonałość ani narzędziami władzy nad drugim człowiekiem. Są darami łaski, które należy przyjmować z wiarą, czcią, wolnością sumienia i odpowiedzialnością.
+
+Niniejsza Księga XIII rozwija materiał sakramentalny wskazany w Księdze XI, zwłaszcza w kan. 508 oraz kan. 513¹ § 1–7. Księga XI wymienia siedem sakramentów: chrzest, bierzmowanie, Eucharystię, pokutę, namaszczenie chorych, kapłaństwo (sakrament święceń) i małżeństwo. Księga XIII porządkuje tę listę, wyjaśnia jej znaczenie teologiczne, przygotowanie, celebrację, owoce duchowe, odpowiedzialność duszpasterską i dokumentowanie.
+
+Księga zachowuje duchowe intuicje Kościoła Domowego obecne w Księdze XI: pierwszeństwo łaski przed ludzką zasługą, powszechne kapłaństwo ochrzczonych, rodzinny wymiar wiary, godność małżeństwa, troskę o chorych, znaczenie wspólnoty i potrzebę formacji. Zachowuje również pamięć o trzech tradycjach obrządku domowego: Pawłowej, Marii Magdaleny i Tomaszowej. Tradycje te mogą kształtować modlitwę, katechezę, muzykę, symbolikę i duchowość wspólnoty, lecz same przez się nie ustanawiają odrębnego rytu kanonicznego ani nie zmieniają warunków ważności sakramentów.
+
+W Księdze XI znajdują się również twierdzenia o szafarzach i skutkach sakramentów, które wymagają rozróżnienia. Wewnętrzne nazwy posług, powołanie rozpoznane przez wspólnotę, modlitwa, błogosławieństwo lub przekonanie o szczególnym działaniu Ducha Świętego nie są automatycznie równoznaczne ze święceniami sakramentalnymi, misją kanoniczną, jurysdykcją ani uprawnieniami wymaganymi przez prawo Kościoła katolickiego. Księga XIII nie może nadawać takich skutków samym postanowieniem wspólnoty.
+
+**Zasada przewodnia:** sakrament jest darem Boga, a nie własnością szafarza. Szafarz służy sakramentowi i osobie, która go przyjmuje; nie może używać świętości do wymuszania posłuszeństwa, ukrywania krzywdy, pozyskiwania majątku ani podporządkowywania sumienia.
+
+---
+
+# TYTUŁ I — NATURA, CEL I PORZĄDEK SAKRAMENTÓW
+
+## Rozdział I — Pojęcie sakramentu
+
+**Kan. 640. § 1.** Sakrament jest skutecznym znakiem łaski, ustanowionym przez Chrystusa i powierzonym Kościołowi, przez który zostaje udzielone życie Boże. W teologii katolickiej sakramenty nie są jedynie symbolami ludzkich uczuć ani wyłącznie wspólnotowymi deklaracjami.
+
+**§ 2.** Znak sakramentalny obejmuje materię i formę właściwą danemu sakramentowi, działanie szafarza oraz intencję czynienia tego, co czyni Kościół. Konkretne warunki ważności i godziwości należy ustalać dla każdego sakramentu osobno.
+
+**§ 3.** Nie wolno sprowadzać sakramentu do samej materii, samej formuły, emocjonalnego przeżycia ani decyzji organizacyjnej. Nie wolno też uznawać, że dowolny obrzęd staje się sakramentem przez samo nazwanie go sakramentem.
+
+**Kan. 641.** Sakramenty są działaniem Boga, a nie osiągnięciem człowieka. Ich przyjęcie zobowiązuje do odpowiedzi wiary, nawrócenia i miłości, lecz nie oznacza, że człowiek staje się bezgrzeszny, nieomylny lub wolny od odpowiedzialności za swoje czyny.
+
+**Kan. 642.** Sakramenty służą:
+1° zjednoczeniu człowieka z Chrystusem;
+2° włączeniu i umocnieniu w życiu Kościoła;
+3° uświęceniu osoby i wspólnoty;
+4° przebaczeniu grzechów tam, gdzie sakrament niesie taką łaskę;
+5° umocnieniu w powołaniu i obowiązkach stanu;
+6° budowaniu jedności, która nie znosi różnorodności osób;
+7° dawaniu świadectwa miłości Boga w życiu codziennym.
+
+## Rozdział II — Siedem sakramentów
+
+**Kan. 643.** Kościół katolicki wyznaje siedem sakramentów Nowego Przymierza:
+1° Chrzest (*Baptismus*);
+2° Bierzmowanie (*Confirmatio*), nazywane w tradycji wschodniej także chryzmacją;
+3° Eucharystia (*Eucharistia*);
+4° Pokuta i pojednanie (*Paenitentia et Reconciliatio*);
+5° Namaszczenie chorych (*Unctio infirmorum*);
+6° Święcenia (*Ordo*);
+7° Małżeństwo (*Matrimonium*).
+
+**§ 2.** Sakramenty inicjacji chrześcijańskiej to chrzest, bierzmowanie i Eucharystia. Sakramenty uzdrowienia to pokuta i pojednanie oraz namaszczenie chorych. Sakramenty służące komunii i posłaniu to święcenia i małżeństwo.
+
+**§ 3.** Ten podział ma charakter teologiczny i katechetyczny. Nie oznacza hierarchii wartości osób ani stopniowania ich godności.
+
+**Kan. 644.** Żaden sakrament nie może być używany do wymuszania członkostwa, posłuszeństwa, pracy, świadczeń pieniężnych, zawarcia małżeństwa, pozostania w związku ani rezygnacji z pomocy zewnętrznej.
+
+**Kan. 645.** Należy odróżniać:
+1° sakramenty Kościoła katolickiego, których ważność i godziwość określa właściwa doktryna i prawo kanoniczne;
+2° obrzędy i sakramentalia Kościoła Domowego, ustanawiane w ramach jego wewnętrznej tradycji;
+3° modlitwy, błogosławieństwa i znaki pobożności ludowej;
+4° praktyki formacyjne, terapeutyczne, rodzinne i wspólnotowe.
+
+Żadna z kategorii wymienionych w punktach 2°–4° nie staje się przez samą nazwę sakramentem katolickim.
+
+## Rozdział III — Łaska, wolność i godność osoby
+
+**Kan. 646.** Sakrament jest darem, który należy przyjmować w wolności. Osoba przygotowująca się do sakramentu ma prawo do rzetelnej informacji o jego znaczeniu, wymaganiach, skutkach i właściwym szafarzu.
+
+**Kan. 647.** Nie wolno udzielać sakramentu pod przymusem, groźbą, szantażem emocjonalnym, presją ekonomiczną ani w warunkach uniemożliwiających świadomą decyzję. W przypadku małoletnich należy stosować właściwe normy dotyczące wieku, zgody, formacji i ochrony dziecka.
+
+**Kan. 648.** Nie wolno uzależniać dostępu do leczenia, mieszkania, żywności, edukacji, bezpieczeństwa ani pomocy od przyjęcia sakramentu lub udziału w obrzędzie.
+
+**Kan. 649.** Przygotowanie sakramentalne powinno uwzględniać wiek, zdolność rozumienia, stan zdrowia, sytuację rodzinną, język, kulturę, niepełnosprawność i realne możliwości osoby. Nie wolno traktować niepełnosprawności jako braku godności ani automatycznie zakładać niezdolności do wiary.
+
+**Kan. 650.** Wspólnota ma obowiązek chronić tajemnicę i prywatność osoby. Informacji o spowiedzi, chorobie, stanie sumienia, małżeństwie lub sytuacji rodzinnej nie wolno ujawniać bez podstawy prawnej i moralnej.
+
+---
+
+# TYTUŁ II — CHRZEST: NARODZENIE DO ŻYCIA W CHRYSTUSIE
+
+## Rozdział I — Znaczenie chrztu
+
+**Kan. 651.** Chrzest jest bramą sakramentów i fundamentem całego życia chrześcijańskiego. Przez chrzest człowiek zostaje obmyty z grzechu, odrodzony z wody i Ducha Świętego, włączony w Chrystusa i wszczepiony we wspólnotę Kościoła.
+
+**Kan. 652.** Chrzest wyciska niezatarte znamię sakramentalne. Nie powtarza się go, jeżeli został ważnie udzielony. W razie uzasadnionej wątpliwości co do faktu lub ważności chrztu należy postępować zgodnie z właściwymi normami kościelnymi, a nie samowolnie powtarzać obrzęd.
+
+**Kan. 653.** Chrzest ustanawia podstawową równość ochrzczonych w godności dzieci Bożych. Żaden urząd, pochodzenie, majątek, płeć, stan cywilny ani funkcja w Rodzie nie czyni człowieka bardziej ochrzczonym lub bardziej godnym łaski.
+
+## Rozdział II — Znak, formuła i szafarz
+
+**Kan. 654. § 1.** W zwyczajnej praktyce łacińskiej chrzest udzielany jest przez polanie wodą lub zanurzenie, przy jednoczesnym wypowiedzeniu trynitarnej formuły chrzcielnej w imię Ojca i Syna, i Ducha Świętego.
+
+**§ 2.** W Kościołach wschodnich zachowuje się właściwą tradycję liturgiczną, w tym obrzęd zanurzenia i chryzmacji, zgodnie z prawem danego Kościoła.
+
+**Kan. 655.** Zwyczajnymi szafarzami chrztu są biskup, prezbiter i diakon, zgodnie z właściwym prawem. W razie konieczności chrztu może udzielić każdy człowiek, który ma właściwą intencję i zachowuje istotny znak oraz formę chrztu.
+
+**Kan. 656.** Wewnętrzne określenie osoby jako kapłana domowego, biskupa domowego lub szafarza świętego nie rozstrzyga samo przez się, czy osoba ta jest szafarzem sakramentu w rozumieniu prawa katolickiego. W razie wątpliwości należy zwrócić się do kompetentnej władzy kościelnej.
+
+## Rozdział III — Przygotowanie i chrzest dzieci
+
+**Kan. 657.** Rodzice mają pierwszorzędną odpowiedzialność za wychowanie dziecka w wierze. Wspólnota ma ich wspierać, a nie zastępować ani pozbawiać praw rodzicielskich.
+
+**Kan. 658.** Przy chrzcie dziecka należy uwzględnić:
+1° rzeczywistą wolę rodziców lub osób uprawnionych;
+2° uzasadnioną nadzieję wychowania dziecka w wierze;
+3° rolę rodziców chrzestnych, jeśli przewiduje ją właściwa tradycja;
+4° godność i bezpieczeństwo dziecka;
+5° rzetelne odnotowanie udzielonego chrztu.
+
+**Kan. 659.** W przypadku osoby dorosłej przygotowanie powinno obejmować katechumenat lub odpowiednią formację, poznanie podstaw wiary, wolną decyzję, nawrócenie i przygotowanie do życia sakramentalnego.
+
+**Kan. 660.** Chrzest w niebezpieczeństwie śmierci powinien być udzielony bez nieuzasadnionej zwłoki, z zachowaniem istotnych warunków sakramentu. Nie wolno opóźniać chrztu z powodu sporu administracyjnego, jeśli zachodzi rzeczywista konieczność.
+
+## Rozdział IV — Owoce i zobowiązania chrzcielne
+
+**Kan. 661.** Owocami chrztu są:
+1° odpuszczenie grzechu pierworodnego i grzechów osobistych;
+2° nowe narodzenie w Chrystusie;
+3° udział w kapłańskim, prorockim i królewskim posłannictwie Chrystusa;
+4° włączenie do Kościoła;
+5° niezatarte znamię chrzcielne;
+6° powołanie do świętości i miłości bliźniego.
+
+**Kan. 662.** Powszechne kapłaństwo wiernych wynika z chrztu. Oznacza udział wszystkich ochrzczonych w ofiarowaniu życia Bogu, świadectwie wiary i służbie. Nie jest ono tożsame z sakramentalnym kapłaństwem urzędowym i nie uprawnia samo przez się do wykonywania czynności zastrzeżonych wyświęconym szafarzom.
+
+**Kan. 663.** W Kościele Domowym obchód rocznicy chrztu, zapalenie świecy, modlitwa rodzinna i błogosławieństwo dziecka mogą stanowić wartościowe praktyki pobożności. Nie zastępują jednak sakramentu chrztu ani nie powtarzają go.
+
+---
+
+# TYTUŁ III — BIERZMOWANIE: UMOCNIENIE DAREM DUCHA ŚWIĘTEGO
+
+## Rozdział I — Znaczenie bierzmowania
+
+**Kan. 664.** Bierzmowanie dopełnia łaskę chrztu i umacnia ochrzczonego szczególnym darem Ducha Świętego. Głębiej jednoczy go z Chrystusem, umacnia więź z Kościołem i uzdalnia do dojrzałego świadectwa wiary.
+
+**Kan. 665.** Bierzmowanie, podobnie jak chrzest i święcenia, wyciska niezatarte znamię i dlatego udziela się go tylko raz. Nie jest ono nagrodą za bezbłędność ani certyfikatem wyższości duchowej.
+
+**Kan. 666.** Tradycja wschodnia nazywa ten sakrament chryzmacją i zwykle łączy go liturgicznie z chrztem, także w przypadku dzieci. W tradycji łacińskiej bierzmowanie jest zazwyczaj udzielane po odpowiednim przygotowaniu, z uwzględnieniem norm wieku i dyscypliny diecezjalnej.
+
+## Rozdział II — Znak i szafarz
+
+**Kan. 667.** W tradycji łacińskiej istotnym znakiem bierzmowania jest namaszczenie krzyżmem na czole wraz z nałożeniem ręki i słowami sakramentalnymi określonymi przez księgi liturgiczne. W tradycjach wschodnich stosuje się właściwy obrzęd namaszczenia świętym myronem.
+
+**Kan. 668.** Zwyczajnym szafarzem bierzmowania w Kościele łacińskim jest biskup. Prezbiter może udzielić sakramentu w przypadkach i na podstawie upoważnienia przewidzianego prawem. W Kościołach wschodnich należy stosować dyscyplinę właściwą danemu Kościołowi sui iuris.
+
+**Kan. 669.** Samo rozpoznanie powołania, wewnętrzny wybór hierarchy, modlitwa o zstąpienie Ducha Świętego lub tytuł biskupi w Kościele Domowym nie ustanawiają uprawnienia do udzielania sakramentu bierzmowania w Kościele katolickim.
+
+## Rozdział III — Przygotowanie i świadectwo
+
+**Kan. 670.** Przygotowanie do bierzmowania obejmuje:
+1° poznanie podstaw wiary i znaczenia sakramentu;
+2° modlitwę i życie wspólnotowe;
+3° rozeznanie darów i odpowiedzialności;
+4° gotowość do świadectwa;
+5° poznanie zasad ochrony słabszych i odpowiedzialności za słowo;
+6° odpowiednią formację dostosowaną do wieku i możliwości kandydata.
+
+**Kan. 671.** Wybór świadka bierzmowania powinien uwzględniać jego dojrzałość, życie wiary i zdolność wspierania bierzmowanego. Świadek nie otrzymuje przez to władzy nad jego sumieniem.
+
+**Kan. 672.** Dary Ducha Świętego należy rozpoznawać przez owoce życia, pokorę, mądrość, służbę i miłość. Nie wolno przypisywać sobie lub innym szczególnego natchnienia w sposób, który znosi rozeznanie, odpowiedzialność i sprawdzanie prawdy.
+
+---
+
+# TYTUŁ IV — EUCHARYSTIA: DZIĘKCZYNIENIE, OFIARA I KOMUNIA
+
+## Rozdział I — Tajemnica Eucharystii
+
+**Kan. 673.** Eucharystia jest źródłem i szczytem całego życia chrześcijańskiego. W celebracji Kościół wspomina i sakramentalnie uobecnia jedyną ofiarę Chrystusa, składa Ojcu dziękczynienie, słucha słowa Bożego, przyjmuje Ciało i Krew Pańską oraz zostaje posłany do służby.
+
+**Kan. 674.** Eucharystia nie jest zwykłym posiłkiem, przedstawieniem ani symbolicznym zgromadzeniem bez odniesienia do rzeczywistej obecności Chrystusa. Nie jest też własnością celebransa, wspólnoty, Rodu ani fundatora miejsca kultu.
+
+**Kan. 675.** Wspólnota eucharystyczna wyraża jedność wiary i Kościoła. Nie wolno używać Komunii Świętej jako narzędzia publicznego upokorzenia, wymuszania lojalności ani karania osoby za konflikt osobisty.
+
+## Rozdział II — Liturgia słowa i liturgia eucharystyczna
+
+**Kan. 676.** Celebracja Eucharystii obejmuje liturgię słowa i liturgię eucharystyczną, które tworzą jeden akt kultu. Słowo Boże należy czytać wiernie, objaśniać odpowiedzialnie i odnosić do życia bez manipulowania tekstem.
+
+**Kan. 677.** Liturgia eucharystyczna obejmuje przygotowanie darów, modlitwę eucharystyczną, konsekrację, doksologię, modlitwę Pańską, znak pokoju, łamanie chleba i Komunię Świętą, zgodnie z właściwym obrządkiem i księgami liturgicznymi.
+
+**Kan. 678.** Chleb i wino używane do Eucharystii muszą odpowiadać wymaganiom właściwego prawa liturgicznego. Domowy posiłek, błogosławiony chleb, agapa lub wspólne łamanie chleba mogą być znakami braterskiej miłości, lecz nie stają się przez to Eucharystią.
+
+## Rozdział III — Szafarz i uczestnictwo
+
+**Kan. 679.** W Kościele katolickim ważnym szafarzem Eucharystii jest kapłan, który przyjął ważne święcenia prezbiteratu. Nikt nie może sam sobie nadać święceń ani zastąpić ich wewnętrznym tytułem, błogosławieństwem lub deklaracją powołania.
+
+**Kan. 680.** Biskup i prezbiter przewodniczą Eucharystii zgodnie z właściwą dyscypliną. Diakon i wierni świeccy pełnią właściwe im funkcje liturgiczne, lecz nie dokonują konsekracji eucharystycznej.
+
+**Kan. 681.** Należy odróżniać:
+1° przewodniczenie modlitwie i zgromadzeniu;
+2° głoszenie słowa Bożego;
+3° przygotowanie darów i służbę liturgiczną;
+4° udzielanie Komunii Świętej przez szafarzy uprawnionych;
+5° przewodniczenie modlitwie eucharystycznej i konsekrację, zastrzeżone ważnie wyświęconemu kapłanowi.
+
+**Kan. 682.** Wewnętrzne posługi Kościoła Domowego mogą obejmować przygotowanie liturgii, lekturę, śpiew, modlitwę wiernych, gościnność, opiekę nad chorymi i katechezę. Nie wolno jednak przedstawiać tych funkcji jako święceń prezbiteratu ani jako uprawnienia do konsekracji.
+
+## Rozdział IV — Komunia Święta
+
+**Kan. 683.** Komunia Święta jest przyjęciem Chrystusa i znakiem jedności Kościoła. Przygotowanie do niej obejmuje wiarę, odpowiednie usposobienie i zachowanie norm właściwych danemu Kościołowi.
+
+**Kan. 684.** W Kościele łacińskim zwyczajnymi szafarzami Komunii są biskup, prezbiter i diakon. Wierny świecki może być ustanowiony nadzwyczajnym szafarzem w warunkach przewidzianych prawem. Nie wynika z tego prawo do samodzielnego sprawowania Eucharystii.
+
+**Kan. 685.** Wierni powinni być pouczeni o warunkach dopuszczenia do Komunii w sposób prawdziwy, dyskretny i wolny od publicznego piętnowania. Wątpliwości należy rozstrzygać zgodnie z prawem Kościoła, a nie osobistą niechęcią.
+
+## Rozdział V — Eucharystia a życie domowe
+
+**Kan. 686.** Eucharystia zobowiązuje do budowania komunii w codzienności: dzielenia się chlebem, troski o ubogich, pojednania, sprawiedliwego podziału obowiązków i szacunku dla pracy.
+
+**Kan. 687.** Wspólnota może organizować agapy, posiłki świąteczne, błogosławieństwo stołu i modlitwy rodzinne. Powinna jasno nazywać je praktykami domowymi, aby nie mylić ich z sakramentalną celebracją Eucharystii.
+
+---
+
+# TYTUŁ V — POKUTA I POJEDNANIE: POWRÓT DO PRAWDY I MIŁOSIERDZIA
+
+## Rozdział I — Znaczenie sakramentu
+
+**Kan. 688.** Sakrament pokuty i pojednania jest darem miłosierdzia, w którym ochrzczony, uznający popełnione grzechy i żałujący za nie, otrzymuje przez posługę Kościoła przebaczenie oraz pojednanie z Bogiem i wspólnotą.
+
+**Kan. 689.** Sakrament ten nie zaprzecza prawdzie o złu ani odpowiedzialności za wyrządzone krzywdy. Przebaczenie grzechu nie usuwa automatycznie wszystkich skutków czynu, nie zwalnia z obowiązku naprawienia szkody ani nie odbiera osobie skrzywdzonej prawa do ochrony i sprawiedliwości.
+
+**Kan. 690.** Nawrócenie obejmuje:
+1° rachunek sumienia;
+2° żal za grzechy;
+3° postanowienie poprawy;
+4° wyznanie grzechów;
+5° rozgrzeszenie udzielone przez uprawnionego szafarza;
+6° zadośćuczynienie i naprawę możliwej do naprawienia szkody.
+
+## Rozdział II — Szafarz, tajemnica i uprawnienia
+
+**Kan. 691.** W Kościele katolickim szafarzem sakramentu pokuty jest kapłan ważnie wyświęcony na prezbitera, posiadający także wymaganą władzę do sprawowania sakramentu wobec penitentów, z wyjątkami przewidzianymi przez prawo.
+
+**Kan. 692.** Samo określenie osoby mianem kapłana domowego, arcykapłana, biskupa tytularnego lub szafarza świętego nie nadaje jej automatycznie święceń prezbiteratu ani upoważnienia do ważnego rozgrzeszania w Kościele katolickim.
+
+**Kan. 693.** Tajemnica sakramentalna spowiedzi jest nienaruszalna. Nie wolno ujawniać treści wyznanych grzechów ani wykorzystywać wiedzy uzyskanej w spowiedzi do szantażu, kontroli, korzyści, poniżania lub rozgrywek wspólnotowych.
+
+**Kan. 694.** Osoba, która nie jest uprawnionym szafarzem sakramentu, może wysłuchać, towarzyszyć, modlić się i pomóc w rozeznaniu, ale nie może przedstawiać rozmowy jako sakramentalnej spowiedzi ani ogłaszać sakramentalnego rozgrzeszenia.
+
+**Kan. 695.** W niebezpieczeństwie śmierci prawo Kościoła przewiduje szczególne rozwiązania dotyczące rozgrzeszenia. Nie wolno jednak rozszerzać wyjątków prawnych na sytuacje, których prawo nimi nie obejmuje.
+
+## Rozdział III — Pojednanie, sprawiedliwość i ochrona skrzywdzonych
+
+**Kan. 696.** Pojednanie chrześcijańskie nie oznacza przymusu powrotu do relacji, w której występuje przemoc, groźba, wykorzystywanie lub poważne niebezpieczeństwo.
+
+**Kan. 697.** Osoba skrzywdzona nie ma obowiązku spotykać się ze sprawcą, przyjmować jego przeprosin, wycofywać zawiadomienia ani rezygnować z ochrony prawnej w imię pojednania religijnego.
+
+**Kan. 698.** Zadośćuczynienie powinno być konkretne, proporcjonalne i możliwe do zweryfikowania. Może obejmować zwrot rzeczy, naprawienie szkody, sprostowanie kłamstwa, zaprzestanie naruszania granic, podjęcie leczenia lub przyjęcie odpowiedzialności prawnej.
+
+**Kan. 699.** Wewnętrzne postępowanie wspólnotowe nie zastępuje obowiązku zgłoszenia przestępstwa, udzielenia pomocy osobie zagrożonej ani współpracy z właściwymi organami, gdy wymaga tego prawo.
+
+---
+
+# TYTUŁ VI — NAMASZCZENIE CHORYCH: UMOCNIENIE W SŁABOŚCI
+
+## Rozdział I — Znaczenie sakramentu
+
+**Kan. 700.** Namaszczenie chorych jest sakramentem umocnienia, pocieszenia i łaski dla wiernego dotkniętego poważną chorobą lub podeszłym wiekiem. Nie jest wyłącznie sakramentem umierających i nie należy odkładać go do ostatnich chwil życia.
+
+**Kan. 701.** Sakrament ten łączy chorego z modlitwą Kościoła, umacnia jego ufność w Bogu, przynosi pociechę w cierpieniu, odpuszczenie grzechów, jeśli chory nie mógł go otrzymać przez sakrament pokuty, oraz może przynieść poprawę zdrowia, jeśli służy to zbawieniu człowieka.
+
+**Kan. 702.** Namaszczenie nie jest gwarancją fizycznego uzdrowienia. Brak poprawy stanu zdrowia nie świadczy o braku wiary, winie chorego ani nieskuteczności modlitwy wspólnoty.
+
+## Rozdział II — Szafarz i znak sakramentalny
+
+**Kan. 703.** W Kościele katolickim ważnym szafarzem namaszczenia chorych jest kapłan, czyli biskup lub prezbiter, zgodnie z właściwym prawem.
+
+**Kan. 704.** Olej używany do namaszczenia powinien być pobłogosławiony zgodnie z normami właściwego Kościoła. W Kościele łacińskim olej chorych jest zwykle poświęcany przez biskupa podczas Mszy Krzyżma; prawo przewiduje również określone sytuacje, w których kapłan może go pobłogosławić.
+
+**Kan. 705.** Wewnętrzny obrzęd namaszczenia w Kościele Domowym, modlitwa z użyciem oleju lub błogosławieństwo chorego mogą być praktyką religijną i znakiem troski. Nie wolno jednak przedstawiać ich jako sakramentu namaszczenia chorych Kościoła katolickiego, jeżeli nie są spełnione jego warunki.
+
+## Rozdział III — Osoby, którym udziela się sakramentu
+
+**Kan. 706.** Namaszczenia można udzielić wiernemu, który z powodu choroby lub starości znajduje się w poważnym niebezpieczeństwie. Sakrament można powtórzyć, jeżeli chory po wyzdrowieniu ponownie ciężko zachoruje albo jeśli w tej samej chorobie stan ulegnie znacznemu pogorszeniu.
+
+**Kan. 707.** Nie należy udzielać sakramentu osobie, która trwa w oczywistym uporze w grzechu ciężkim bez oznak nawrócenia; ocenę należy jednak prowadzić roztropnie, z uwzględnieniem stanu świadomości i możliwości chorego, bez osądzania jego wnętrza.
+
+**Kan. 708.** W razie nagłej choroby, wypadku lub pogorszenia stanu zdrowia należy niezwłocznie wezwać pomoc medyczną i, jeśli chory tego pragnie, kapłana. Modlitwa nie zastępuje pogotowia, leczenia, leków ani opieki paliatywnej.
+
+## Rozdział IV — Duszpasterstwo chorych
+
+**Kan. 709.** Troska o chorego obejmuje:
+1° obecność i wysłuchanie;
+2° wezwanie odpowiedniej pomocy medycznej;
+3° poszanowanie decyzji chorego i jego godności;
+4° pomoc w przyjęciu sakramentów, jeśli tego pragnie;
+5° wsparcie rodziny i opiekunów;
+6° ochronę przed samotnością, zaniedbaniem i przemocą;
+7° towarzyszenie także wtedy, gdy uzdrowienie nie następuje.
+
+**Kan. 710.** Chory nie jest ciężarem ani osobą mniej wartościową. Nie wolno przypisywać jego cierpieniu ukrytej winy, nakazywać odstawienia leków, odradzać konsultacji medycznej ani obiecywać pewnego uzdrowienia.
+
+**Kan. 711.** Namaszczenie chorych może duchowo poprzedzać drogę odnowienia i powstania człowieka po kryzysie, opisaną w Księdze XII jako mistyczna rezurekcja. Nie jest jednak jej warunkiem w sensie sakramentalnym ani automatyczną przyczyną poprawy zdrowia.
+
+---
+
+# TYTUŁ VII — ŚWIĘCENIA: SAKRAMENT POSŁUGI APOSTOLSKIEJ
+
+## Rozdział I — Natura sakramentu święceń
+
+**Kan. 712.** Sakrament święceń jest sakramentem, przez który misja powierzona przez Chrystusa Apostołom trwa w Kościele. Obejmuje trzy stopnie: diakonat, prezbiterat i episkopat.
+
+**Kan. 713.** Święcenia wyciskają niezatarte znamię i nie mogą być powtarzane. Nie są tytułem honorowym, stanowiskiem administracyjnym ani potwierdzeniem osobistej charyzmy.
+
+**Kan. 714.** W Kościele katolickim sakramentu święceń ważnie udziela biskup przez nałożenie rąk i modlitwę konsekracyjną Kościoła. Wewnętrzna modlitwa, natchnienie, wybór wspólnoty, błogosławieństwo lub przekonanie o uświęceniu Duchem Świętym nie zastępują tego sakramentalnego aktu.
+
+**Kan. 715.** Księga XI opisuje wewnętrzne stopnie posługi Kościoła Domowego: duchownego, kapłana domowego, szafarza świętego, arcykapłana, biskupa tytularnego lub subdiecezjalnego oraz hierarchy związku subdiecezjatów. Nazwy te mogą określać funkcje i odpowiedzialność wewnętrzną, lecz nie są same przez się stopniami sakramentu święceń.
+
+## Rozdział II — Diakonat, prezbiterat i episkopat
+
+**Kan. 716.** Diakon uczestniczy w posłudze słowa, liturgii i miłości. Nie sprawuje konsekracji eucharystycznej ani nie udziela sakramentalnego rozgrzeszenia.
+
+**Kan. 717.** Prezbiter zostaje wyświęcony do posługi słowa, sakramentów i pasterzowania we wspólnocie powierzonej mu zgodnie z prawem. Do jego zadań należy między innymi przewodniczenie Eucharystii, sprawowanie pokuty i namaszczenia chorych, zgodnie z właściwymi uprawnieniami.
+
+**Kan. 718.** Biskup otrzymuje pełnię sakramentu święceń. W komunii hierarchicznej z kolegium biskupów i jego głową sprawuje posługę nauczania, uświęcania i kierowania.
+
+**Kan. 719.** W Kościele katolickim święcenia prezbiteratu i episkopatu są zastrzeżone mężczyznom zgodnie z obowiązującą doktryną i dyscypliną Kościoła. Wspólnota nie może przedstawiać własnej normy jako zmiany nauczania Kościoła katolickiego. Kobiety i mężczyźni mają równą godność chrzcielną i mogą podejmować liczne posługi, funkcje i odpowiedzialności zgodnie z prawem.
+
+## Rozdział III — Powołanie, formacja i rozeznanie
+
+**Kan. 720.** Kandydat do święceń powinien być rozeznany pod względem wiary, dojrzałości, zdrowia, zdolności do służby, wiedzy teologicznej, wolności decyzji i gotowości do życia zgodnego z obowiązkami stanu.
+
+**Kan. 721.** Formacja powinna obejmować:
+1° Pismo Święte i teologię;
+2° liturgię i sakramentologię;
+3° prawo kanoniczne i etykę;
+4° duchowość i modlitwę;
+5° umiejętność słuchania i towarzyszenia;
+6° ochronę małoletnich i osób bezbronnych;
+7° odpowiedzialność finansową i przejrzystość;
+8° współpracę, rozeznawanie i przyjmowanie korekty.
+
+**Kan. 722.** Życie małżeńskie samo w sobie nie jest przeszkodą do święceń w tych Kościołach katolickich, których prawo dopuszcza święcenie żonatych mężczyzn do określonych stopni. Nie wolno jednak z tego wyprowadzać wniosku, że każda wspólnota może samodzielnie zmienić dyscyplinę święceń albo udzielać święceń osobom nieuprawnionym.
+
+**Kan. 723.** Żaden kandydat nie może być zmuszany do święceń, a żadna osoba nie może być zmuszana do przyjęcia czyjejś posługi jako sakramentalnie wiążącej, jeśli jej status nie został ustalony zgodnie z właściwym prawem.
+
+## Rozdział IV — Posługi Kościoła Domowego
+
+**Kan. 724.** Kościół Domowy może ustanawiać i powierzać funkcje wewnętrzne, takie jak:
+1° przewodniczenie modlitwie rodzinnej;
+2° przygotowanie celebracji i czytań;
+3° katecheza i formacja;
+4° opieka nad chorymi i potrzebującymi;
+5° posługa gościnności;
+6° troska o przedmioty liturgiczne i sakramentalia;
+7° koordynowanie życia wspólnoty;
+8° służba pojednaniu i pomocy, bez zastępowania sakramentu pokuty.
+
+**Kan. 725.** Wewnętrzne ustanowienie do posługi powinno być jawne, dobrowolne, ograniczone zakresem kompetencji, poddane ocenie i możliwe do zakończenia. Nie nadaje ono święceń sakramentalnych ani jurysdykcji w Kościele katolickim.
+
+**Kan. 726.** Posługa jest służbą, nie panowaniem. Urząd nie daje prawa do naruszania sumienia, prywatności, wolności, majątku, zdrowia ani bezpieczeństwa innych osób.
+
+---
+
+# TYTUŁ VIII — MAŁŻEŃSTWO: PRZYMIERZE ŻYCIA I MIŁOŚCI
+
+## Rozdział I — Natura małżeństwa
+
+**Kan. 727.** Małżeństwo jest przymierzem, przez które mężczyzna i kobieta ustanawiają ze sobą wspólnotę całego życia, skierowaną ku dobru małżonków oraz zrodzeniu i wychowaniu potomstwa. Między ochrzczonymi ważne małżeństwo jest sakramentem.
+
+**Kan. 728.** Małżeństwo jest wspólnotą równych co do godności osób. Wierność, jedność, wzajemna pomoc i odpowiedzialność nie mogą być interpretowane jako prawo jednego małżonka do dominacji nad drugim.
+
+**Kan. 729.** W tradycji Kościoła Domowego małżeństwo jest szczególnie cenione jako:
+1° obraz przymierza Chrystusa i Kościoła;
+2° wspólnota wzajemnego uświęcenia;
+3° środowisko wychowania dzieci;
+4° źródło odpowiedzialności za dom i bliźnich;
+5° droga świętości w codzienności.
+
+## Rozdział II — Zgoda małżeńska
+
+**Kan. 730.** Zgoda małżeńska powinna być wolna, świadoma, wzajemna i wyrażona bez przymusu, ciężkiej bojaźni, podstępu ani manipulacji.
+
+**Kan. 731.** Nie wolno wymuszać zawarcia małżeństwa przez groźby religijne, presję rodziny, obietnice majątkowe, szantaż, izolację, wykorzystanie zależności ani uzależnianie bezpieczeństwa od ślubu.
+
+**Kan. 732.** Rodzina i wspólnota mogą towarzyszyć narzeczonym, lecz nie mogą zastąpić ich osobistej zgody. Rodzice nie są właścicielami decyzji małżeńskiej swoich dorosłych dzieci.
+
+**Kan. 733.** Przygotowanie do małżeństwa powinno obejmować poznanie zobowiązań, komunikację, odpowiedzialność ekonomiczną, zdrowie, rodzicielstwo, seksualność, rozwiązywanie konfliktów, wierność, granice i sposoby uzyskiwania pomocy.
+
+## Rozdział III — Szafarstwo i celebracja
+
+**Kan. 734.** W tradycji łacińskiej małżonkowie udzielają sobie sakramentu przez wzajemne wyrażenie zgody małżeńskiej wobec Kościoła, przy zachowaniu formy kanonicznej lub zgodnej z prawem dyspensy. Kapłan lub diakon asystuje w imieniu Kościoła i przyjmuje zgodę zgodnie z prawem.
+
+**Kan. 735.** W katolickich Kościołach wschodnich celebracja małżeństwa ma właściwą dyscyplinę liturgiczną, w której błogosławieństwo kapłańskie ma znaczenie wymagane przez prawo danego Kościoła. Nie należy mechanicznie przenosić norm jednego obrządku na drugi.
+
+**Kan. 736.** Wewnętrzna ceremonia Kościoła Domowego może wyrażać błogosławieństwo, przymierze i publiczne zobowiązanie małżonków. Sama przez się nie zastępuje formy kanonicznej wymaganej do zawarcia małżeństwa katolickiego.
+
+## Rozdział IV — Jedność, wierność i nierozerwalność
+
+**Kan. 737.** Małżeństwo wymaga wzajemnej wierności i troski. Jedność nie oznacza wymazania osobowości, sumienia, praw ani odrębności każdego z małżonków.
+
+**Kan. 738.** Nierozerwalność małżeństwa sakramentalnego należy rozumieć zgodnie z nauczaniem Kościoła. Nie wolno jednak wykorzystywać tej zasady do nakazywania pozostawania w warunkach przemocy, zagrożenia życia lub zdrowia. Separacja i środki ochronne mogą być konieczne; ich zastosowanie nie jest tym samym co orzeczenie o nieważności małżeństwa lub rozwiązanie węzła.
+
+**Kan. 739.** Małżonkowie mają prawo do ochrony życia, zdrowia, godności, prywatności, własności i kontaktów z bliskimi. Żadne religijne uzasadnienie nie usprawiedliwia przemocy fizycznej, seksualnej, psychicznej, ekonomicznej ani duchowej.
+
+**Kan. 740.** Potomstwo nie jest własnością małżonków ani wspólnoty. Dobro dziecka, jego bezpieczeństwo, rozwój, edukacja i prawo do wysłuchania powinny być uwzględniane stosownie do wieku i dojrzałości.
+
+---
+
+# TYTUŁ IX — SAKRAMENTY W ŻYCIU KOŚCIOŁA DOMOWEGO
+
+## Rozdział I — Rodzina jako środowisko wiary
+
+**Kan. 741.** Rodzina jest pierwszym środowiskiem przekazywania wiary, modlitwy i praktyk miłości. Nie oznacza to, że rodzina może samodzielnie zastąpić Kościół w udzielaniu sakramentów.
+
+**Kan. 742.** Powszechne kapłaństwo ochrzczonych realizuje się w modlitwie, ofiarowaniu codzienności, wychowaniu, pracy, służbie, świadectwie i trosce o potrzebujących. Należy je odróżniać od sakramentalnego kapłaństwa urzędowego.
+
+**Kan. 743.** Triarchia Domowa — Ojciec, Matka i Potomek — może wspólnie rozeznawać rytm modlitwy, przygotowanie do sakramentów, troskę o chorych i rodzinne praktyki religijne. Jej wewnętrzna rola nie daje prawa do udzielania sakramentów zastrzeżonych ani do naruszania wolności osoby.
+
+## Rozdział II — Trzy tradycje obrządku domowego
+
+**Kan. 744.** Tradycja Pawłowa może podkreślać wymiar misyjny, wspólnotowy i apostolski sakramentów; tradycja Marii Magdaleny — kontemplację, nawrócenie, miłosierdzie i świadectwo; tradycja Tomaszowa — poznanie, dociekliwość, prawdę i odpowiedzialne rozeznanie.
+
+**Kan. 745.** Trzy tradycje mogą współtworzyć katechezę, modlitwy, pieśni, symbole i praktyki formacyjne. Nie są trzema różnymi zestawami sakramentów i nie zmieniają ich liczby.
+
+**Kan. 746.** Wspólnota powinna unikać rywalizacji obrządków. Żaden z nich nie może być używany do pogardzania innymi chrześcijanami, odmawiania pomocy ani tworzenia podziałów między domownikami.
+
+## Rozdział III — Sakramenty i sakramentalia
+
+**Kan. 747.** Sakramentalia są świętymi znakami ustanowionymi przez Kościół, które przygotowują ludzi do przyjęcia owoców sakramentów i uświęcają różne okoliczności życia. Nie działają w ten sam sposób co sakramenty i nie zastępują ich.
+
+**Kan. 748.** Do praktyk domowych mogą należeć błogosławieństwo domu, posiłku, pracy, świecy, wody, soli, chleba, popiołu, oleju, ziemi i narzędzi. Ich znaczenie należy objaśniać zgodnie z tradycją modlitewną, bez przypisywania im automatycznej skuteczności sakramentalnej.
+
+**Kan. 749.** Wykaz siedmiu przedmiotów symbolicznych Kościoła Domowego — woda, popiół, chleb, sól, ziemia, olej oraz świeca lub ogień — może służyć katechezie i modlitwie. Nie oznacza, że przedmioty te są materią siedmiu sakramentów ani że ich użycie udziela sakramentu.
+
+**Kan. 750.** Błogosławieństwo nie może być przedstawiane jako gwarancja powodzenia, zdrowia, płodności, bogactwa, zwycięstwa lub ochrony przed każdym nieszczęściem. Jest modlitwą Kościoła i prośbą o dobro, a nie zaklęciem.
+
+---
+
+# TYTUŁ X — PRZYGOTOWANIE, REJESTRY I ODPOWIEDZIALNOŚĆ
+
+## Rozdział I — Katecheza i przygotowanie
+
+**Kan. 751.** Przygotowanie do sakramentów powinno być systematyczne, dostosowane do osoby i prowadzone przez kompetentnych katechetów lub duszpasterzy. Powinno łączyć poznanie wiary, modlitwę, praktykę życia i rozeznanie.
+
+**Kan. 752.** Program formacji sakramentalnej powinien obejmować:
+1° Pismo Święte;
+2° podstawowe prawdy wiary;
+3° znaczenie danego sakramentu;
+4° istotne znaki i formuły;
+5° rolę szafarza i przyjmującego;
+6° skutki duchowe i zobowiązania;
+7° zasady ochrony godności i wolności;
+8° odróżnienie sakramentu od sakramentaliów i obrzędów wspólnotowych.
+
+**Kan. 753.** Nie wolno uzależniać dostępu do sakramentu od zakupu materiałów, opłacenia kursu, przekazania darowizny ani wykonania pracy na rzecz wspólnoty. Dobrowolne ofiary nie mogą stanowić ceny sakramentu.
+
+## Rozdział II — Dokumentacja
+
+**Kan. 754.** Sakramenty, których udzielenie wymaga wpisu do ksiąg kościelnych, należy dokumentować zgodnie z prawem właściwego Kościoła. Wpis powinien być rzetelny, czytelny, zabezpieczony i dostępny dla osoby uprawnionej.
+
+**Kan. 755.** Wewnętrzny rejestr Kościoła Domowego powinien jasno odróżniać:
+1° sakrament udzielony przez szafarza i w strukturze Kościoła katolickiego;
+2° sakrament udzielony w innym Kościele lub wspólnocie, którego status wymaga rozpoznania;
+3° obrzęd domowy lub błogosławieństwo;
+4° akt przygotowania, formacji lub przyjęcia do wspólnoty.
+
+**Kan. 756.** Nie wolno wpisywać do rejestru sakramentalnego, że ktoś przyjął sakrament, jeśli odbył jedynie obrzęd symboliczny, błogosławieństwo lub wewnętrzną ceremonię. W razie wątpliwości należy opisać fakt bez przesądzania skutku kanonicznego.
+
+**Kan. 757.** Osoba ma prawo uzyskać informację o własnych danych sakramentalnych oraz żądać sprostowania błędu zgodnie z właściwymi przepisami. Dane dzieci podlegają szczególnej ochronie.
+
+## Rozdział III — Szafarze i granice kompetencji
+
+**Kan. 758.** Każdy szafarz powinien znać granice własnych kompetencji, obowiązki wynikające z prawa, zasady ochrony osób małoletnich i bezbronnych oraz procedury reagowania na nadużycia.
+
+**Kan. 759.** Nie wolno:
+1° udawać szafarza sakramentu, którego nie można ważnie sprawować;
+2° fałszować dokumentacji sakramentalnej;
+3° żądać pieniędzy lub korzyści w zamian za sakrament;
+4° wykorzystywać spowiedzi lub kierownictwa duchowego do kontroli;
+5° uzależniać leczenia od modlitwy lub obrzędu;
+6° zmuszać do małżeństwa, święceń ani praktyk religijnych;
+7° ukrywać przemocy pod pozorem ochrony dobrego imienia wspólnoty.
+
+**Kan. 760.** W razie wątpliwości co do ważności sakramentu, statusu szafarza lub uprawnień należy zwrócić się do kompetentnej władzy kościelnej. Wewnętrzny dekret Kościoła Domowego nie może sam rozstrzygać o statusie kanonicznym w Kościele katolickim.
+
+---
+
+# TYTUŁ XI — DUSZPASTERSTWO SAKRAMENTALNE I ŻYCIE PO SAKRAMENCIE
+
+## Rozdział I — Sakrament nie kończy drogi
+
+**Kan. 761.** Przyjęcie sakramentu nie kończy formacji chrześcijańskiej. Każdy sakrament wzywa do dalszego wzrostu w wierze, nadziei i miłości.
+
+**Kan. 762.** Wspólnota powinna pomagać osobom po przyjęciu sakramentu w praktycznym przeżywaniu jego owoców: w modlitwie, służbie, odpowiedzialności rodzinnej, trosce o ubogich, uczciwej pracy i pojednaniu.
+
+**Kan. 763.** Nie wolno mierzyć owoców sakramentu samym prestiżem, emocjonalnym przeżyciem, liczbą uczestników ani pozycją w strukturze. Miarą dojrzałości są wiara, miłość, sprawiedliwość, prawda, pokora i służba.
+
+## Rozdział II — Towarzyszenie w kryzysie
+
+**Kan. 764.** Osobie przeżywającej kryzys wiary, chorobę, żałobę, rozpad relacji, uzależnienie lub doświadczenie przemocy należy zapewnić odpowiednią pomoc duchową, medyczną, psychologiczną, prawną lub społeczną.
+
+**Kan. 765.** Nie wolno twierdzić, że brak uzdrowienia, trudność w modlitwie, nieważność obrzędu lub cierpienie są dowodem odrzucenia przez Boga. Nie wolno zastępować fachowej pomocy oskarżeniem o brak wiary.
+
+**Kan. 766.** Pojednanie jest dobrem, ale nie może być wymuszane. Bezpieczeństwo osoby zagrożonej, ochrona dziecka i przerwanie przemocy mają pierwszeństwo przed zachowaniem pozorów jedności.
+
+## Rozdział III — Wspólnota jako świadek łaski
+
+**Kan. 767.** Kościół Domowy ma być miejscem, w którym sakramenty prowadzą do czynnej miłości: karmienia głodnych, odwiedzania chorych, przyjmowania gości, ochrony słabych, wychowania dzieci, szacunku dla małżonków i uczciwego gospodarowania dobrami.
+
+**Kan. 768.** Nie wolno wykorzystywać sakramentów do budowania kultu jednostki, wywyższania rodu, tworzenia niepodważalnej władzy ani wykluczania osób, które potrzebują pomocy.
+
+---
+
+# TYTUŁ XII — POSTANOWIENIA KOŃCOWE I ZASADY INTERPRETACJI
+
+**Kan. 769.** Księgę XIII należy interpretować w duchu miłości Bożej, prawdy, piękna i sprawiedliwości, z poszanowaniem godności każdej osoby oraz rzeczywistego statusu kanonicznego sakramentów i szafarzy.
+
+**Kan. 770.** W przypadku sprzeczności między wewnętrzną normą Kościoła Domowego a obowiązującym prawem państwowym lub prawem Kościoła katolickiego w sprawach należących do ich kompetencji, niniejsza Księga nie może być przedstawiana jako podstawa do naruszania tego prawa.
+
+**Kan. 771.** Księga XIII jest wewnętrznym dokumentem teologiczno-formacyjnym i normatywnym projektu Kościoła Domowego. Nie jest promulgowanym dokumentem Kościoła katolickiego, nie ustanawia nowego obrządku kanonicznego i nie nadaje święceń, jurysdykcji ani uprawnień sakramentalnych.
+
+**Kan. 772.** Księga XI pozostaje dokumentem źródłowym, z którego wydobyto wykaz siedmiu sakramentów i zasadnicze intuicje dotyczące ich przeżywania w obrządku domowym. Niniejsza Księga rozwija ten materiał, porządkuje go i wyraźnie oddziela sakramenty od wewnętrznych posług, błogosławieństw i obrzędów.
+
+**Kan. 773.** Wszelkie zmiany Księgi XIII powinny zachowywać:
+1° siedmiosakramentalny porządek;
+2° odrębność sakramentów inicjacji, uzdrowienia i komunii oraz posłania;
+3° prymat łaski Bożej;
+4° wolność i godność osoby;
+5° prawdę o warunkach ważności i godziwości sakramentów;
+6° rozróżnienie sakramentów od sakramentaliów i obrzędów domowych;
+7° ochronę chorych, dzieci, osób zależnych i skrzywdzonych;
+8° odpowiedzialność szafarzy i przejrzystość dokumentacji.
+
+---
+
+## ZAKOŃCZENIE — SIEDEM DARÓW ŁASKI, JEDNO ŻYCIE W CHRYSTUSIE
+
+Chrzest otwiera człowieka na nowe życie. Bierzmowanie umacnia go Duchem Świętym. Eucharystia karmi i jednoczy. Pokuta przywraca drogę pojednania. Namaszczenie chorych umacnia w słabości. Święcenia służą budowaniu Kościoła przez posługę apostolską. Małżeństwo uświęca przymierze miłości i odpowiedzialności.
+
+Siedem sakramentów nie jest siedmioma źródłami konkurującymi ze sobą. Wszystkie wypływają z jednego misterium Chrystusa i prowadzą do jednego celu: życia w Bogu i miłości bliźniego.
+
+Niech sakramenty nie będą dla człowieka ciężarem, lecz darem; nie narzędziem dominacji, lecz służby; nie zasłoną dla krzywdy, lecz wezwaniem do prawdy; nie ozdobą wspólnoty, lecz źródłem jej świętości.
+
+**Łaska nie poniża człowieka. Prawda nie odbiera mu godności. Miłość nie wymusza. Sprawiedliwość chroni. A piękno sakramentów staje się widzialne w życiu, które służy.**
+
+*In caritate Dei, veritate, pulchritudine et iustitia. Amen.*
+
+---
+
+## UWAGI ŹRÓDŁOWE I REDAKCYJNE
+
+1. Podstawą wydobycia wykazu sakramentów jest Księga XI, zwłaszcza kan. 508 oraz kan. 513¹ § 1–7. W tekście Księgi XI występuje siedem pozycji: chrzest, bierzmowanie, Eucharystia, pokuta, namaszczenie chorych, kapłaństwo i małżeństwo.
+2. Księga XI zawiera niepełny opis małżeństwa w kan. 513¹ § 7; niniejsze opracowanie rozwija tę pozycję na podstawie ogólnej nauki chrześcijańskiej, zaznaczając odrębność dyscypliny łacińskiej i wschodniej.
+3. Księga XI utożsamia w niektórych miejscach wewnętrzne powołanie lub uświęcenie Duchem Świętym z uprawnieniami sakramentalnymi. Księga XIII wprowadza rozróżnienie między wewnętrzną posługą Kościoła Domowego a sakramentalnym i kanonicznym statusem szafarza w Kościele katolickim.
+4. W szczególności twierdzenie o udzielaniu sakramentu święceń bez nałożenia rąk nie może być przedstawiane jako nauka Kościoła katolickiego. W katolickim rozumieniu sakrament święceń udzielany jest przez biskupa przez nałożenie rąk i modlitwę konsekracyjną.
+5. Odniesienia do KPK i KKKW w Księdze XI wymagają osobnej kontroli merytorycznej. Księga XIII nie traktuje numerów kanonów przytoczonych w Księdze XI jako automatycznego potwierdzenia wszystkich jej wniosków.
+6. Księga XIII jest wewnętrznym opracowaniem projektu Kościoła Domowego, a nie oficjalnym dokumentem Magisterium ani prawem kanonicznym Kościoła katolickiego.
+7. Opracowanie nie zmienia ani nie zastępuje Księgi XI. Zachowuje ją jako źródło historyczne i redakcyjne.
