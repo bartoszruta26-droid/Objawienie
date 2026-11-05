@@ -17,6 +17,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
+| [`13_ksiega_XIII_sakramenty.md`](./13_ksiega_XIII_sakramenty.md) | Księga XIII — Sakramenty Święte: natura, siedem sakramentów, celebracja, szafarze, przygotowanie i życie sakramentalne | kan. 640–773 |
 | [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień: Tytuły I–XIX; zniesienie grzechu, spektrum prawdy, piękna i sprawiedliwości w miłości Bożej, siedem stopni jednego aktu oraz odrębne serie duchowe | kan. 518–549²⁴ oraz kanony uzupełniające wskazane w strukturze szczegółowej |
 | [`audyt_zgodnosci_ksiegi_IV_i_XII.md`](./audyt_zgodnosci_ksiegi_IV_i_XII.md) | Audyt zgodności Księgi IV i XII — cnoty, Dary, charyzmaty i przedmioty błogosławione | dokument kontrolny i zalecenia redakcyjne; bez odrębnej numeracji kanonów |
 | [`ksiega-XII.md`](./ksiega-XII.md) | Aneks pomocniczy do Księgi XII — uporządkowane Septenarium | indeks dydaktyczny siedmiu stopni i odrębnych serii duchowych; bez odrębnej numeracji kanonów |
