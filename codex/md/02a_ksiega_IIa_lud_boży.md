@@ -149,6 +149,8 @@ Ważne jest rozróżnienie między wewnętrznym porządkiem Kościoła Domowego 
 
 **Kan. 27a.** § 1. Głowa Rodu pełni w wewnętrznym porządku Kościoła Domowego szczególną funkcję organizowania życia wspólnoty, troski o jej jedność i dawania przykładu służby.
 
+§ 1a. W tradycji Kościoła Domowego Głowa Rodu może być określana także mianem **biskupa tytularnego domowego**. Określenie to wyraża wewnętrzne rozumienie powołania pasterskiego: służbę nauczania, przewodniczenia modlitwie i świętemu kultowi w granicach właściwych dla tej wspólnoty oraz troskę o Lud Boży. Pierwotna Księga I ujmowała biskupa tytularnego jako osobę powołaną przez Boga, następcę Apostołów, nauczyciela, kapłana świętego kultu i sprawującego posługę rządzenia. Zachowuje się ten sens jako treść tradycji i teologii wewnętrznej wspólnoty. Samo użycie tytułu ani wybór lub przyjęcie w porządku wspólnoty nie nadaje jednak święceń biskupich, tytułu kanonicznego, urzędu, misji kanonicznej ani jurysdykcji w Kościele katolickim.
+
 § 2. Do jej obowiązków należy:
 1° dawanie przykładu uczciwości, modlitwy i odpowiedzialności;
 2° troska o dobro duchowe i materialne domowników;
