@@ -202,7 +202,7 @@ Niniejszy tekst jest wewnętrznym projektem teologiczno-normatywnym Kościoła D
 
 ## Rozdział II — Spektrum w siedmiu stopniach
 
-**Kan. 529³ § 1.** Prawda przenika wszystkie stopnie: porządek rozpoznaje fakty, przygotowanie gromadzi rzetelne informacje, dopełnienie nie ukrywa niedokończonej sprawy, błogosławieństwo nie kłamie o człowieku, uświęcenie nie fałszuje sensu rzeczy, rezurekcja nie zaprzecza cierpieniu, a miłość nie manipuluje.
+**Zasada wspólna.** Prawda przenika wszystkie stopnie: porządek rozpoznaje fakty, przygotowanie gromadzi rzetelne informacje, dopełnienie nie ukrywa niedokończonej sprawy, błogosławieństwo nie kłamie o człowieku, uświęcenie nie fałszuje sensu rzeczy, rezurekcja nie zaprzecza cierpieniu, a miłość nie manipuluje.
 
 **§ 2.** Piękno przenika wszystkie stopnie: ład, staranność, proporcja, dobre słowo, godne użycie materii, naprawa i dar tworzą harmonię życia.
 
@@ -857,7 +857,7 @@ Są to odrębne serie, a ich wspólną zasadą jest służba prawdzie, pięknu, 
 
 ## Rozdział VI — Siedem Darów Ducha Świętego jako seria uświęcenia
 
-**Kan. 549¹⁹ § 1.** Siedem Darów, wyliczonych w kan. 529⁶, przywołuje się jako serię uświęcenia:
+**Kan. 549¹⁹ § 1.** Siedem Darów, wyliczonych w kan. 529⁴, przywołuje się jako serię uświęcenia:
 1° Mądrość;
 2° Rozum;
 3° Rada;
