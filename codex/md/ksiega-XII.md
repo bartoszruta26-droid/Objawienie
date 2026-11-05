@@ -1,91 +1,145 @@
-# Księga XII — Septenarium Błogosławieństw
+# Aneks pomocniczy do Księgi XII — Septenarium
 
-*Katalog cech: siedmiorakie dopełnienie czterech filarów.*
+*Tablica porządkująca Tytułu XV i XVI Księgi Objawień. Niniejszy plik jest pomocniczym indeksem dydaktycznym; normatywne brzmienie kanonów znajduje się w pliku `12_ksiega_XII_objawienia.md`, w szczególności w kan. 549¹⁴–549²⁴.*
 
-## I. Katalog główny (ordo septenarius)
+## I. Jedna skala siedmiu stopni (*septem gradus aspectus*)
 
-Cztery sprawcze spojrzenia, których nazwy wolno wymieniać wyłącznie w tym wykazie i w kan. 525 § 1 Księgi zasadniczej, otrzymują tu ramę porządkującą: **trzy stopnie przygotowania aktu** (ordo, dispositio, completio) zawsze poprzedzają wykonanie spojrzenia; same spojrzenia pozostają cztery i żaden stopień wstępny nie jest piątym, szóstym ani siódmym spojrzeniem.
+Tytuł XV Księgi XII ustanawia **jedną, niepodzielną skalę siedmiu stopni**. Nie dzieli jej na trzy stopnie przygotowawcze i cztery właściwe spojrzenia. Każdy z siedmiu stopni należy do tej samej skali, jest sprawczy i ma własną serię siedmiu elementów (kan. 525 § 1; kan. 549¹⁴).
 
-### Pełnia siedmiu (ordo septenarius)
+| Nr | Stopień | Znaczenie robocze | Seria przypisana w Księdze XII |
+|---:|---|---|---|
+| 1 | **Ordo** | Porządek i ustanowienie miejsca | Siedem dni stworzenia — kan. 549¹⁵ |
+| 2 | **Dispositio** | Rozporządzenie i przygotowanie warunków | Siedem historycznych stopni posługi — kan. 549¹⁶ |
+| 3 | **Completio** | Dopełnienie i domknięcie spraw otwartych | Siedem błogosławieństw Kazania na Górze — kan. 549¹⁷ |
+| 4 | **Benedictio** | Błogosławieństwo osoby lub rzeczy | Siedem typów błogosławieństwa — kan. 549¹⁸ |
+| 5 | **Sanctificatio** | Uświęcenie i doprowadzenie do właściwej miary | Siedem darów Ducha Świętego — kan. 549¹⁹ |
+| 6 | **Resurrectio** | Przywrócenie tego, co upadło | Siedem biblijnych wskrzeszeń — kan. 549²⁰ |
+| 7 | **Caritas** | Miłość Boża jako cel i dusza całego aktu | Siedem modusów miłości Bożej — kan. 549²¹ |
 
-| # | Człon (łac.) | Znaczenie | Rola w katedrze |
-|---|--------------|-----------|-----------------|
-| 1 | **Ordo** | Porządek / ustanowienie | Stopień wstępny — ład przed aktem |
-| 2 | **Dispositio** | Rozporządzenie / przygotowanie | Stopień wstępny — kształt przed aktem |
-| 3 | **Completio** | Dopełnienie / wypełnienie | Stopień wstępny — domknięcie przed aktem |
-| 4 | **Benedictio** | Błogosławieństwo | Filar I; dopełnia go seria II |
-| 5 | **Sanctificatio** | Uświęcenie | Filar II; dopełnia go seria III |
-| 6 | **Resurrectio** | Rezurekcja | Filar III; dopełnia go seria IV |
-| 7 | **Caritas** | Miłość Boża | Filar IV; dopełnia ją seria V |
+**Reguła interpretacyjna:** siedem stopni nie jest podzielonych na „przygotowanie” i „akt”. Pierwsze trzy nie są dodatkiem do następnych czterech, a ostatni stopień nie jest odrębną nadbudową. Całość stanowi jedną skalę (kan. 549¹⁴ § 2–3; kan. 549²²).
 
-> Dawniejszy katalog czteroczłonowy pozostaje nienaruszony co do kolejności wewnętrznej; trzy stopnie wstępne poprzedzają akt, a całość domyka **caritas**, która jest „więzią doskonałości” (Kol 3,14).
+## II. Siedem dni stworzenia — dopełnienie stopnia pierwszego
 
-## II. Siedem typów błogosławieństwa (*genera benedictionum*) — dopełnienie Filara I
+Kan. 549¹⁵ odczytuje opis stworzenia (Rdz 1–2) jako tablicę ustanawiania miejsca i porządku:
 
-1. **Benedictio gratiae** — łaska uprzedzająca i uświęcająca dar Boży (Ef 2,8).
-2. **Benedictio protectionis** — błogosławieństwo opieki i obrony (Ps 91; Ps 121,7–8).
-3. **Benedictio provisionis** — błogosławieństwo opatrzności i dostarczania potrzeb (Pwt 8,18; Flp 4,19).
-4. **Benedictio directionis** — błogosławieństwo prowadzenia i mądrości (Ps 32,8; Prz 3,6).
-5. **Benedictio restorationis** — błogosławieństwo przywrócenia i uzdrowienia (Jl 2,25; Ps 147,3).
-6. **Benedictio benedictionis** — błogosławieństwo ojcowskie/pasterskie wypowiadane nad osobami (Rdz 27; Lb 6,24–26).
-7. **Benedictio glorificationis** — błogosławieństwo końcowej chwały i dziedzictwa (Rz 8,30; Ap 21,3–4).
+1. **Dzień pierwszy — światłość:** oddzielenie światła od ciemności i rozróżnienie początku.
+2. **Dzień drugi — sklepienie:** ustanowienie przestrzeni i granic.
+3. **Dzień trzeci — ląd i rośliny:** wyznaczenie miejsca pod życie i wzrost.
+4. **Dzień czwarty — światła:** urządzenie czasu, dni i godzin.
+5. **Dzień piąty — ptactwo i ryby:** napełnienie przestrzeni życiem.
+6. **Dzień szósty — zwierzęta i człowiek:** ustanowienie miejsca stworzeń lądowych i osoby ludzkiej.
+7. **Dzień siódmy — odpoczynek:** zatrzymanie pracy i domknięcie porządku przez odpoczynek.
 
-## III. Siedem święceń (*ordinationes*) — dopełnienie Filara II
+Odpoczynek należy do samego porządku, a nie wyłącznie do nagrody po wykonaniu pracy.
 
-W tradycji łacińskiej pełne *sacra ordines* liczy się siedem (doktryna średniowieczna, np. katalogi soborowe i sakramentarze):
+## III. Siedem historycznych stopni posługi — dopełnienie stopnia drugiego
 
-1. **Ostiarium** — drzwi/bramy (porter).
-2. **Lectoratus** — czytelnika/lektora.
-3. **Exorcistatus** — egzorcysty (sługa oczyszczenia).
-4. **Acolitatus** — akolity (nesienie świec i służba ołtarza).
-5. **Subdiakonatus** — subdiakona.
-6. **Diaconatus** — diakona.
-7. **Presbyteratus** — prezbitera/kapłana.
+Kan. 549¹⁶ przywołuje tradycyjny historyczny wykaz stopni posługi:
 
-*(Episkopatus bywa liczony zamiast subdiakonatu lub jako ósmy—plenitudo ordinis; tutaj przyjmujemy klasyczne siedem stopni posługi niższych i wyższych bez biskupstwa.)*
+1. **Ostiarium** — odźwierny.
+2. **Lectoratus** — lektor.
+3. **Exorcistatus** — egzorcysta.
+4. **Acolitatus** — akolita.
+5. **Subdiaconatus** — subdiakon.
+6. **Diaconatus** — diakon.
+7. **Presbyteratus** — prezbiter.
 
-Uwaga ekumeniczna: po reformie Pawła VI (Ministeria quaedam, 1972) dwa stopnie niższe zastąpiono lektoratem i akolitatem; dlatego obok schematu historycznego (VII ordines) przywołujemy odpowiednik siedmiu znaków łaski: chrzest, bierzmowanie, Eucharystia, pokuta, namaszczenie chorych, święcenia, małżeństwo (septem sacramenta).
+Jest to zestawienie historyczno-dydaktyczne, a nie twierdzenie, że współcześnie istnieje siedem stopni sakramentu święceń. Kan. 549¹⁶ § 2 odnotowuje reformę posług niższych dokonaną przez Pawła VI w 1972 r. i odsyła do siedmiu sakramentów jako odrębnego katalogu. Niniejsza tablica nie zmienia norm Księgi V.
 
-## IV. Siedem wskrzeszeń (*resurrectiones in Scriptura*) — dopełnienie Filara III
+## IV. Siedem błogosławieństw Kazania na Górze — dopełnienie stopnia trzeciego
 
-Stare i Nowe Przymierze przekazują siedem opisanych przywróceń do życia przed wielkim Zmartwychwstaniem Chrystusa:
+Kan. 549¹⁷ (Mt 5,3–10) wskazuje siedem postaw i obietnic:
 
-1. **Syn wdowy z Sarepty** — przez Eliasza (1 Krl 17,17–24).
-2. **Syn Sunamitki** — przez Elizeusza (2 Krl 4,32–37).
-3. **Człowiek dotykający kości Elizeusza** — po śmierci proroka (2 Krl 13,20–21).
-4. **Syn jedyny wdowy z Nain** — przez Jezusa (Łk 7,11–17).
-5. **Córka Jaira** — przez Jezusa (Mk 5,21–43).
-6. **Łazarz z Betanii** — przez Jezusa (J 11,1–44).
-7. **Eutychus w Troadzie** — przez Pawła (Dz 20,7–12).
+1. ubóstwo w duchu — Królestwo Niebieskie;
+2. smutek — pocieszenie;
+3. cichość i łagodność — dziedzictwo ziemi;
+4. głód i pragnienie sprawiedliwości — nasycenie;
+5. miłosierdzie — dostąpienie miłosierdzia;
+6. czystość serca — oglądanie Boga;
+7. czynienie pokoju — nazwanie synami Bożymi.
 
-Do tego dochodzi eschatologiczna *resurrectio mortuorum* — pierwszy dzień ósmego, tj. Wieczny Dzień Syna.
+W kan. 549¹⁷ § 2 prześladowanie z Mt 5,10–12 pełni funkcję eschatologicznej klamry, nie zaś ósmego elementu tej tablicy.
 
-## V. Siedem modusów miłości Bożej (*modus caritatis Dei*) — dopełnienie Filara IV
+## V. Siedem typów błogosławieństwa — dopełnienie stopnia czwartego
 
-Klasyfikacja patrystyczno-scholastyczna rozróżnia siedem modusów tej samej miłości:
+Kan. 549¹⁸ porządkuje formuły błogosławieństwa według ich przedmiotu i funkcji:
 
-1. **Caritas creans** — miłość stwarzająca (ex nihilo; Ps 104,30).
-2. **Caritas providens** — miłość opatrznościowa (Mt 6,26–30).
-3. **Caritas redimens** — miłość odkupująca (J 3,16; Ef 1,7).
-4. **Caritas vocans** — miłość powołująca (Rz 8,28–30).
-5. **Caritas iustificans** — miłość usprawiedliwiająca (Rz 5,1–5).
-6. **Caritas sanctificans** — miłość uświęcająca (1 Tes 5,23; J 17,17).
-7. **Caritas glorificans** — miłość uwielbiająca/eschatologiczna (1 J 3,2; Ap 21,3–5).
+1. **Benedictio gratiae** — błogosławieństwo łaski.
+2. **Benedictio protectionis** — błogosławieństwo ochrony.
+3. **Benedictio provisionis** — błogosławieństwo opatrzności i zabezpieczenia potrzeb.
+4. **Benedictio directionis** — błogosławieństwo prowadzenia i mądrości.
+5. **Benedictio restorationis** — błogosławieństwo przywrócenia i uzdrowienia.
+6. **Benedictio benedictionis** — błogosławieństwo wypowiadane nad osobą.
+7. **Benedictio glorificationis** — błogosławieństwo chwały i dziedzictwa, odczytywane jako nadzieja eschatologiczna.
 
-Warto też wspomnieć starożytne greckie rozróżnienia: agape, philia, storge, eros — lecz dopiero ich teologalna jedność w *caritas* daje siedem powyższych przebiegów.
+## VI. Siedem darów Ducha Świętego — dopełnienie stopnia piątego
 
-## VI. Siedem serii porządkujących całość (*series septenaria*)
+Kan. 549¹⁹, nawiązując do Iz 11,2–3, wymienia:
 
-Na koniec dodajemy siedem serii biblijnych i liturgicznych, które domykają strukturę księgi; nie nazywamy ich „dopełnieniem spojrzeń”, lecz seriami ogólnymi, aby nie mylić ich z czterema seriami filarowymi (rozdz. II–V):
+1. **Donum timoris** — bojaźń Boża.
+2. **Donum pietatis** — pobożność.
+3. **Donum scientiae** — umiejętność.
+4. **Donum fortitudinis** — męstwo.
+5. **Donum consilii** — rada.
+6. **Donum intellectus** — rozum.
+7. **Donum sapientiae** — mądrość.
 
-1. **Siedem dni stworzenia** (Rdz 1–2) — ordo temporum.
-2. **Siedem sakramentów Kościoła** — dispensatio mysteriorum.
-3. **Siedem darów Ducha Świętego** (Iz 11,2–3) — munera Spiritus.
-4. **Siedem cnót** (3 teologiczne + 4 kardynalne) — virtutes.
-5. **Siedem grzechów głównych** (contraria) — vitia capitalia.
-6. **Siedem błogosławieństw Kazania na Górze** (Mt 5,3–10) — beatitudines.
-7. **Siedem pieczęci/trąb czasów ostatecznych** (Ap 5–11) — signa apocalyptica.
+Wewnętrzny porządek tablicy prowadzi od powściągnięcia ręki przed tym, co przekracza jej miarę, ku mądrości służącej dobru. Dary nie są prywatną własnością szafarza (kan. 549¹⁹ § 2).
 
-## VII. Podsumowanie struktury
+## VII. Siedem wskrzeszeń biblijnych — dopełnienie stopnia szóstego
 
-Księga XII prezentuje teraz pełne **Septenarium**: trzy stopnie przygotowania aktu (ordo, dispositio, completio) poprzedzają cztery sprawcze spojrzenia, które pozostają niezmienione co do liczby i nazwy (kan. 525 § 1 Księgi zasadniczej). Każdemu spojrzeniu przypisano **jedną** odrębną serię siedmiu — błogosławieństwu typy błogosławieństwa, uświęceniu święcenia, rezurekcji wskrzeszenia biblijne, miłości modusy miłości Bożej — a dla porządku całości jedną serię ogólną. Nazwy czterech spojrzeń występują w tym katalogu wyłącznie raz, w tablicy rozdziału I; dawniejsze powtórzenia w nagłówkach pozostałych rozdziałów usunięto, tak aby każdy wyraz oznaczał tylko to, co znaczy.
+Kan. 549²⁰ wymienia siedem opisanych w Piśmie przywróceń do życia:
+
+1. syn wdowy z Sarepty — przez Eliasza (1 Krl 17,17–24);
+2. syn Sunamitki — przez Elizeusza (2 Krl 4,32–37);
+3. człowiek, który dotknął kości Elizeusza — po śmierci proroka (2 Krl 13,20–21);
+4. syn jedyny wdowy z Nain — przez Chrystusa (Łk 7,11–17);
+5. córka Jaira — przez Chrystusa (Mk 5,21–43);
+6. Łazarz z Betanii — przez Chrystusa (J 11,1–44);
+7. Eutychus w Troadzie — przez Pawła (Dz 20,7–12).
+
+Kan. 549²⁰ § 2 odróżnia te wydarzenia od eschatologicznej wiary w zmartwychwstanie umarłych. Tablica służy rozważaniu biblijnych wzorców przywracania, a sama w sobie nie ustanawia obietnicy dokonywania cudów.
+
+## VIII. Siedem modusów miłości Bożej — dopełnienie stopnia siódmego
+
+Kan. 549²¹ porządkuje siedem sposobów opisu jednej miłości Bożej:
+
+1. **Caritas creans** — miłość stwarzająca.
+2. **Caritas providens** — miłość opatrznościowa.
+3. **Caritas redimens** — miłość odkupująca.
+4. **Caritas vocans** — miłość powołująca.
+5. **Caritas iustificans** — miłość usprawiedliwiająca.
+6. **Caritas sanctificans** — miłość uświęcająca.
+7. **Caritas glorificans** — miłość uwielbiająca i eschatologiczna.
+
+Kan. 549²¹ § 2 zestawia tę tablicę z dawnymi rozróżnieniami greckimi (*agape, philia, storge, eros*), wskazując na ich odczytanie w jedności *caritas*. W kan. 549²¹ § 3 miłość zostaje określona jako dusza całej skali, nie jako jej dodatkowy poziom.
+
+## IX. Dalsze dwa Słowa — Tytuł XVI
+
+Tytuł XVI Księgi XII (kan. 549²³–549²⁴) dopowiada dwie normy związane z jedną skalą:
+
+- **Czternaste Słowo — O Imieniu Ojca:** przed działaniem przywołuje się imię Ojca; porządek praktyczny wyraża kolejność „milczenie — imię — uczynek” (kan. 549²³).
+- **Piętnaste Słowo — O Siedmiu Cechach Jednego Aktu:** siedem stopni skali staje się siedmioma pytaniami rachunku uczynku, nie narzędziem oskarżania sumienia drugiej osoby (kan. 549²⁴).
+
+### Siedem pytań probacji aktu
+
+1. **Ordo:** czy miejsce było gotowe i czy komuś pomógł ustanowiony porządek?
+2. **Dispositio:** czy materia, czas i warunki były przygotowane, zanim ktoś musiał czekać?
+3. **Completio:** czy sprawa została domknięta, oddana lub naprawiona?
+4. **Benedictio:** czy osoba została nazwana dobrym imieniem i potraktowana z szacunkiem?
+5. **Sanctificatio:** czy rzecz została doprowadzona do właściwej miary?
+6. **Resurrectio:** czy naprawiono to, co można było przywrócić, zamiast pochopnie odrzucać?
+7. **Caritas:** czy czyn wyszedł ku dobru drugiego człowieka, a nie ku własnej chwale?
+
+Brak którejkolwiek cechy jest wskazówką do poprawy kolejnego uczynku, a nie samodzielnym wyrokiem o człowieku (kan. 549²⁴ § 3–4).
+
+## X. Reguły korzystania z aneksu
+
+1. Niniejszy plik porządkuje treść Tytułów XV i XVI; nie zastępuje tekstu kanonów ani pozostałych Tytułów Księgi XII.
+2. W razie rozbieżności pierwszeństwo ma tekst główny Księgi XII, w szczególności kan. 525 § 1 oraz kan. 549¹⁴–549²⁴.
+3. Siedem serii ma charakter porządkujący i dydaktyczny zgodnie z kan. 549²²; nie tworzy dodatkowych sakramentów, urzędów ani warunków życia wiecznego.
+4. Probacja aktu służy osobistemu rozeznaniu i poprawie własnego działania; nie może być używana do przymuszania, zawstydzania ani kontrolowania sumienia innej osoby.
+
+---
+
+*Finis appendicis — Septenarium Księgi XII.*
