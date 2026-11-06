@@ -23,7 +23,7 @@
 
 ## UKŁAD KSIĘGI
 
-1. Zasady liturgii domowej i błogosławieństw.
+1. Zasady liturgii domowej i błogosławieństw, w tym błogosławieństwa korony, czoła i gardła.
 2. Modlitwa codzienna, niedziela i rok liturgiczny.
 3. Trzy obrządki domowe.
 4. Domowe miejsce modlitwy i przedmioty kultu.
@@ -165,6 +165,41 @@
 4° świętuje patronalne dni Rodu i wspólnoty;
 5° sprawuje obrzędy związane z życiem rodziny;
 6° podejmuje dodatkowe błogosławieństwa osób, przedmiotów i miejsc, jeżeli służą rzeczywistej potrzebie.
+
+## Rozdział IV — Błogosławieństwa korony, czoła i gardła
+
+**Kan. 16¹. Zasady wspólne.**  
+§ 1. Wewnętrzna praktyka Kościoła Domowego wyróżnia trzy błogosławieństwa obejmujące symbolicznie: koronę głowy, czoło oraz gardło. Są one modlitwami o dobro całego człowieka, a ich układ odpowiada trzem górnym poziomom macierzy formacyjnej z kan. 82.  
+§ 2. Błogosławieństwa te mogą być sprawowane osobno albo łącznie. Nie są sakramentami, nie powtarzają chrztu, bierzmowania ani Eucharystii i nie nadają żadnych uprawnień duchowych lub urzędowych. Powiązania sakramentalne wskazane w macierzy mają wyłącznie charakter katechetyczny.  
+§ 3. Znak krzyża można uczynić nad osobą lub w jej obecności. Dotknięcie głowy, czoła lub szyi nie jest konieczne i wymaga uprzedniej zgody. Nie stosuje się nacisku, masażu ani substancji mogących podrażnić skórę, oczy lub drogi oddechowe.  
+§ 4. Każde błogosławieństwo obejmuje, stosownie do sytuacji: chwilę ciszy, czytanie Słowa Bożego, wskazanie cnoty, Daru i charyzmatu, modlitwę o dobro osoby oraz znak krzyża. Uczestnik może pominąć dowolny gest lub słowa, a obrzęd można skrócić albo przerwać.
+
+**Kan. 16². Błogosławieństwo korony — Nadzieja, woda, Mądrość i Proroctwo.**  
+§ 1. Błogosławieństwo korony odnosi się symbolicznie do poziomu koronnego (*Sahasrara*). Łączy się z cnotą Nadziei, wodą jako znakiem oczyszczenia i nowego życia, chrztem jako odniesieniem katechetycznym, Darem Mądrości oraz charyzmatem Proroctwa.  
+§ 2. Do obrzędu można przygotować naczynie z czystą wodą. Woda pozostaje znakiem modlitwy i pamięci o chrzcie; nie jest ponownym chrztem ani środkiem o automatycznej skuteczności. Nie należy wylewać jej na głowę, jeżeli osoba tego nie chce lub gdy mogłoby to naruszyć jej bezpieczeństwo.  
+§ 3. Zalecanym czytaniem jest Rz 15,13 albo inny fragment o nadziei, świetle i życiu w Bogu. Po czytaniu przewodniczący może wypowiedzieć modlitwę:
+
+*Boże nadziei, źródło życia i światła, umocnij tę osobę w nadziei, aby nie utraciła zaufania pośród trudności. Udziel jej mądrości do rozpoznawania dobra i odwagi, by wypowiadała słowa prawdy, które budują, pocieszają i prowadzą ku Tobie. Niech pamięć o chrzcie przypomina jej o godności i nowym życiu. Przez Chrystusa, Pana naszego. Amen.*
+
+§ 4. Znak krzyża można uczynić nad głową bez dotykania jej. Jeżeli osoba wyraża zgodę, można podać jej wodę do wykonania znaku krzyża. Nie wolno przedstawiać tego gestu jako udzielenia chrztu ani jako potwierdzenia szczególnego objawienia lub charyzmatu.
+
+**Kan. 16³. Błogosławieństwo czoła — Roztropność, sól, Rozum i Rozróżnianie Duchów.**  
+§ 1. Błogosławieństwo czoła odnosi się symbolicznie do poziomu trzeciego oka (*Ajna*). Łączy się z cnotą Roztropności, solą jako znakiem ochrony i rozeznania, bierzmowaniem jako odniesieniem katechetycznym, Darem Rozumu oraz charyzmatem Rozróżniania Duchów.  
+§ 2. Do obrzędu można przygotować niewielką ilość soli w osobnym naczyniu, ustawionym obok miejsca modlitwy. Soli nie nakłada się na czoło, skórę ani w okolice oczu; nie należy jej spożywać w ramach obrzędu.  
+§ 3. Zalecanym czytaniem jest Jk 1,5 albo 1 Tes 5,21. Po czytaniu przewodniczący może wypowiedzieć modlitwę:
+
+*Duchu Święty, Dawco światła i prawdy, obdarz tę osobę roztropnością i rozumem. Ucz ją odróżniać prawdę od pozoru, dobro od zła, natchnienie od własnego pragnienia, a świadectwo od przypuszczenia. Zachowaj ją od lęku, łatwowierności i osądzania innych. Niech każde rozeznanie prowadzi do pokory, wolności i dobra. Amen.*
+
+§ 4. Znak krzyża można uczynić w kierunku czoła, bez dotykania. Obrzęd nie jest bierzmowaniem, nie potwierdza nieomylności sądów ani nie daje prawa do rozstrzygania za innych o ich sumieniu.
+
+**Kan. 16⁴. Błogosławieństwo gardła — Skrupulatność, chleb, Rada i Języki.**  
+§ 1. Błogosławieństwo gardła odnosi się symbolicznie do poziomu gardłowego (*Vishuddha*). Łączy się z cnotą Skrupulatności rozumianej jako troska sumienia, chlebem jako znakiem wspólnoty i dziękczynienia, Eucharystią jako odniesieniem katechetycznym, Darem Rady oraz charyzmatem Języków.  
+§ 2. Do obrzędu można przygotować zwykły chleb jako znak codziennego pokarmu, wspólnoty i odpowiedzialnego słowa. Błogosławieństwo chleba nie jest konsekracją eucharystyczną ani Komunią Świętą. Chleba nie przykłada się do gardła ani nie wkłada do ust uczestnika bez jego dobrowolnej decyzji; wspólne spożycie może nastąpić po zakończeniu modlitwy jako zwykły posiłek.  
+§ 3. Zalecanym czytaniem jest Ef 4,29 albo Jk 3,9–10. Po czytaniu przewodniczący może wypowiedzieć modlitwę:
+
+*Panie, który jesteś Słowem życia, oczyść nasze słowa z kłamstwa, pogardy i pochopnego osądu. Udziel tej osobie Rady, aby umiała mówić prawdę z miłością, słuchać z uwagą, milczeć bez lęku i zabierać głos w obronie dobra. Niech jej słowo będzie pokarmem, pociechą i świadectwem, a język służy pojednaniu, nie przemocy. Amen.*
+
+§ 4. Znak krzyża można uczynić w kierunku gardła bez dotykania szyi. Nikt nie może być zmuszany do mówienia, śpiewania, publicznego wyznania ani ujawniania spraw osobistych. Obrzęd nie jest Eucharystią, nie zastępuje przyjęcia Komunii i nie stanowi diagnozy ani terapii zaburzeń głosu, mowy lub połykania.
 
 ---
 
@@ -827,7 +862,7 @@
 
 **2.** Usunięto powtórzenia dotyczące szafarstwa, celebracji, formacji i obowiązków Głowy Rodu. Przepisy o podobnej treści scalono w jednym miejscu.
 
-**3.** Dawny tekst zawierał trzy nieuzupełnione pozycje „Kan. XXX — Błogosławieństwo korony/czoła/gardła”. Nie odtworzono ich treści, ponieważ materiał źródłowy nie zawierał przepisów, które można by wiernie przenieść. Mogą zostać opracowane w osobnym etapie.
+**3.** Dawny tekst zawierał trzy nieuzupełnione pozycje „Kan. XXX — Błogosławieństwo korony/czoła/gardła”. W niniejszej redakcji opracowano je jako kan. 16¹–16⁴ na podstawie aktualnej macierzy formacyjnej Księgi IVa, katalogów Księgi XII oraz rozróżnień sakramentalnych Księgi XIII. Nie jest to odzyskanie nieistniejącego pierwotnego brzmienia, lecz jawnie oznaczona rekonstrukcja redakcyjna.
 
 **4.** Dawny kan. 163 zawierał wartości procentowe dla tradycji religijnych, których suma przekraczała 100% i które nie tworzyły spójnego podziału. Księga IVa zachowuje zasadę dialogu i otwartości, ale nie ustanawia tych wartości jako wiążących proporcji.
 
