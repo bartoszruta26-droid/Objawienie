@@ -311,25 +311,35 @@
 
 ## Tytuł VI: WŁADZA RZĄDZENIA W ODNIESIENIU DO PRAWA KOŚCIELNEGO
 
-**Kan. 117 § 1.** Kościół Domowy uznaje, że władza rządzenia, która jest w Kościele z Bożego ustanowienia i nazywana jest również władzą jurysdykcji, przysługuje w zakresie powszechnym Biskupowi Rzymskiemu i Kolegium Biskupów, a w zakresie partykularnym biskupom diecezjalnym i innym przełożonym kościelnym w tym biskupowi tytularnemu subdiecezji Kościoła Domowego i Kościołowi Królestwa Niebieskiego zgodnie z prawem (por. kan. 129 KPK). Władza rządzenia, przysługująca Biskupowi Rzymskiemu i Kolegium Biskupów oraz biskupowi tytularnego subdiecezji Kościoła Domowego i Kościoła Królestwa Niebieskiego, sprawowana jest na każdym szczeblu jako posługa pierwszego z równych.
+**Kan. 117 § 1.** Kościół Domowy rozróżnia Boże powołanie i natchnienie Ducha Świętego, sakrament kapłaństwa, konsekrację, urząd, misję pasterską oraz władzę rządzenia (jurysdykcję). Pojęcia te pozostają ze sobą związane, lecz nie są tożsame. Władza rządzenia w wewnętrznym porządku Kościoła Domowego jest wykonywana przez osoby i organy, którym została powierzona zgodnie z prawem tego porządku; jej zakres, sposób wykonywania i granice wynikają z właściwych norm oraz aktu ustanowienia lub powierzenia urzędu.
 
-**§ 2.** Głowa Rodu jako biskup tytularny domostwa, subdiecezji i Królestwa Niebieskiego , ustanowiony przez Ojca z Nieba i natchniony Duchem Świętym i domyślnie zatwierdzony przez Biskupa Rzymskiego jeżeli jego wybór z Bożego nadania został dokonany zgodnie z prawem, sprawuje władzę rządzenia w zakresie subdiecezji domowej i Królestwem Niebieskim zgodnie z niniejszym Kanonem, w hierarchicznej wspólnocie z Biskupem Rzymskim i Kolegium Biskupów przez partykularny akt oddania się władzom kościoła powszechnego (por. kan. 5 § 2 KPK).
+**§ 2.** W teologii wewnętrznej Kościoła Domowego Głowa Rodu może być rozpoznawana jako biskup tytularny subdiecezji na mocy Bożego ustanowienia, powołania i natchnienia Ducha Świętego. Zachowuje się pełną definicję biskupa tytularnego określoną w Księdze I i rozwiniętą w kan. 10a Księgi Ia oraz kan. 319 Księgi VI; nie wolno jej zawężać do tytułu administracyjnego ani funkcji organizacyjnej. Sakrament kapłaństwa i konsekracja, według wewnętrznej teologii Kościoła Domowego, pochodzą od działania Ducha Świętego i nie są udzielane przez sam akt administracyjny ani przez obrzęd święceń (Księga XIII, kan. 713–714).
 
-**§ 2a.** Głowa Rodu jako hierarcha subdiecezji (biskup tytularny subdiecezji) sprawuje władzę rządzenia w zakresie subdiecezji na mocy wyłącznej woli Bożej w tym Triarchii Ojca z Nieba, Ducha Świętego i Syna Bożego i ustanowienia hierarchy subdiecezji macierzystej; dotyczy to także subdiecezji z hierarchą biskupa i związek subdiecezjatów z hierarchą związku subdiecezjatów — przy czym subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji, a związkiem subdiecezjatów kieruje hierarcha związku subdiecezjatów wybrany spośród synodu biskupów tytularnych subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu (por. Księga VI oraz Preambuła IV do Księgi I, kan. 1zk–1zn). Ustanawiając subdiecezję i jej hierarchy, hierarcha macierzysty działa jako pierwszy z równych; przepis o „pominięciu pierwszego hierarchy związku subdiecezjatów” należy czytać jako wyraz porządku służebnego, nie hierarchii wartości osób — wierni przyjęci wolą Triarchii Domowej lub na chwilę wolą władzy Kościoła Domowego nie tracą nic z równości wobec nowego hierarchy.
+**§ 3.** Boże powołanie, natchnienie, sakrament kapłaństwa ani konsekracja nie powodują same przez się automatycznego objęcia każdego urzędu, uzyskania każdej kompetencji ani nabycia jurysdykcji we wszystkich wspólnotach lub terytoriach. Urząd i konkretny zakres jurysdykcji określa właściwe prawo wewnętrzne oraz zgodny z nim akt ustanowienia, wyboru, zatwierdzenia lub powierzenia — stosownie do rodzaju urzędu.
 
-**§ 3.** W wykonywaniu władzy rządzenia mogą współdziałać wierni świeccy zgodnie z przepisami prawa (por. kan. 129 § 2 KPK).
+**§ 4.** W wewnętrznej interpretacji Kościoła Domowego posługa biskupa tytularnego jest rozumiana jako posługa ustanowiona z Bożego postanowienia i natchnienia Ducha Świętego. Przyjęte w Księdze VI domniemanie przyjęcia tej posługi przez Biskupa Rzymu pozostaje zasadą wykładni wewnętrznej i komunii. Nie wolno przedstawiać go jako dowodu wydania konkretnego dekretu, aktu nominacji lub potwierdzenia, którego faktycznie nie wydano. Nie przesądza ono samo przez się o uznaniu statusu, urzędu lub jurysdykcji w porządku prawnym Kościoła katolickiego.
 
-**Kan. 118.** Władza rządzenia w Kościele Domowym dzieli się na ustawodawczą, wykonawczą i sądowniczą (por. kan. 135 § 1 KPK):
+**§ 5.** W wykonywaniu władzy rządzenia Głowa Rodu działa w zakresie powierzonym jej przez prawo Kościoła Domowego. Kompetencje hierarchy subdiecezji, hierarchy Związku Subdiecezjatów, synodu i innych organów należy ustalać zgodnie z Księgą VI i Księgą VIII; nie wolno domniemywać kompetencji wyłącznie z tytułu, godności, sakramentu kapłaństwa lub duchowej misji.
 
-1° władzę ustawodawczą wykonuje Głowa Rodu jako prawodawca domowy;
+**§ 6.** Władza rządzenia jest służbą dobru wspólnoty, prawdzie i zbawieniu dusz. Wierni świeccy mogą współdziałać w jej wykonywaniu w zakresie przewidzianym prawem wewnętrznym. Żadna kompetencja nie upoważnia do naruszania sumienia, wolności, godności, zdrowia, prywatności, majątku ani praw innych osób. W porządku Kościoła katolickiego status i kompetencje ustala się według jego własnego prawa i przez właściwą władzę, zgodnie z Księgą XIII, kan. 718, 725, 760 i 771.
 
-2° władzę wykonawczą wykonuje Głowa Rodu osobiście lub przez delegowanych członków wspólnoty;
 
-3° władzę sądowniczą wykonuje Głowa Rodu osobiście lub przez wyznaczonego sędziego domowego.
+**Kan. 118.** Wewnętrzna władza rządzenia w Kościele Domowym obejmuje funkcje ustawodawcze, wykonawcze i sądownicze, rozdzielone zgodnie z prawem tego Kościoła. Samo posiadanie sakramentu kapłaństwa, tytułu biskupiego, konsekracji lub misji pasterskiej nie oznacza automatycznego skupienia wszystkich tych funkcji w jednej osobie.
 
-**Kan. 119.** Władza ustawodawcza w Kościele Domowym winna być wykonywana w sposób przepisany niniejszym Kanonem. Niższy prawodawca domowy nie może ważnie wydać ustawy przeciwnej wyższemu prawu (por. kan. 135 § 2 KPK).
+1° władzę ustawodawczą wykonuje prawodawca wewnętrzny w granicach kompetencji określonych prawem;
 
-**Kan. 120.** W tym, co dotyczy posługiwania się władzą wykonawczą w Kościele Domowym, należy zachować przepisy kanonów 136-144 KPK, zastosowane analogicznie do warunków wspólnoty domowej.
+2° władzę wykonawczą wykonuje właściwy przełożony osobiście albo przez osoby prawidłowo delegowane;
+
+3° władzę sądowniczą wykonuje właściwy organ lub sędzia ustanowiony zgodnie z prawem, z zachowaniem bezstronności, prawa do wysłuchania i możliwości przedstawienia stanowiska.
+
+Kompetencje organów oraz relacje między Głową Rodu, hierarchą subdiecezji, hierarchą Związku Subdiecezjatów i synodem określają Księgi VI i VIII. Nie wolno przenosić kompetencji jednego organu na inny bez podstawy prawnej.
+
+
+**Kan. 119.** Władza ustawodawcza w Kościele Domowym jest wykonywana zgodnie z procedurą i zakresem kompetencji określonymi w niniejszym Kodeksie. Niższy prawodawca wewnętrzny nie może wydawać norm sprzecznych z normą wyższą w ramach tego samego porządku prawnego. Przy ustalaniu relacji między normami należy uwzględniać ich zakres podmiotowy, przedmiotowy i terytorialny, a także przepisy szczególne oraz prawa nabyte. Norma wewnętrzna nie może sama przez się zmieniać kompetencji ani skutków prawnych w porządku innego Kościoła lub państwa.
+
+
+**Kan. 120.** Władza wykonawcza w Kościele Domowym jest wykonywana przez kompetentny organ lub osobę w granicach prawa, na podstawie właściwego tytułu kompetencyjnego. Delegacja powinna określać zakres, czas i warunki działania. Nie domniemywa się uprawnienia do podejmowania czynności zastrzeżonych innemu organowi. Zasady KPK dotyczące wykonywania władzy wykonawczej mogą służyć jako punkt odniesienia analogicznego, o ile nie prowadzi to do twierdzenia, że niniejsza norma jest autentyczną interpretacją lub zmianą prawa Kościoła katolickiego.
+
 
 **Kan. 121.** W przypadku błędu powszechnego, faktycznego czy prawnego, a także w przypadku wątpliwości pozytywnej i prawdopodobnej, prawnej lub faktycznej, Kościół uzupełnia wykonawczą władzę rządzenia Głowy Rodu, zarówno w zakresie zewnętrznym, jak i wewnętrznym (por. kan. 4 § 1 KPK).
 
@@ -387,117 +397,85 @@
 
 ## Tytuł X: OBOWIĄZEK RESPEKTOWANIA PRAWA POWSZECHNEGO
 
-**Kan. 132 § 1.** Kościół Domowy jako partykularna wspólnota Ludu Bożego uznaje i respektuje cały porządek prawny Kościoła Katolickiego, wyrażony w szczególności w:
+**Kan. 132 § 1.** Kościół Domowy uwzględnia w swojej autentycznej interpretacji wewnętrznej Prawo Boże, prawo naturalne, prawo stanowione państwa, wiążące normy prawa międzynarodowego oraz prawo Kościoła katolickiego — w tym KPK, KKKW, prawo powszechne i właściwe prawo partykularne — w zakresie, w jakim dotyczą rozpatrywanej sprawy. Źródła te należy odczytywać łącznie, z uwzględnieniem ich właściwego zakresu, adresatów, przedmiotu i kompetencji prawodawców.
 
-1° Kodeksie Prawa Kanonicznego z 1983 roku i Kodeksu Kanonicznego Kościołów Wschodnich;
+**§ 2.** Wewnętrzna interpretacja Kościoła Domowego rozpoznaje i uzgadnia znaczenie tych źródeł dla własnego porządku. Nie może jednak sama zmienić treści prawa państwowego lub prawa Kościoła katolickiego, zastąpić aktu zastrzeżonego właściwej władzy ani przypisać zewnętrznemu podmiotowi skutku prawnego, którego ten porządek nie ustanawia.
 
-2° Konstytucjach Apostolskich;
+**§ 3.** Głowa Rodu i właściwe organy Kościoła Domowego mają obowiązek uwzględniać przepisy dotyczące ochrony życia, zdrowia, godności, wolności sumienia, małżeństwa, dzieci, własności, danych osobowych i bezpieczeństwa. Wątpliwości co do skutków w zewnętrznym porządku prawnym należy kierować do właściwej władzy tego porządku.
 
-3° Encyklikach i Adhortacjach Apostolskich;
 
-4° Dekretach Soborowych;
+**Kan. 133 § 1.** W ramach wewnętrznej interpretacji Kościół Domowy uwzględnia w szczególności następujące dziedziny prawa:
 
-5° Dekretach i Deklaracjach Dykasterii Kurii Rzymskiej;
+1° prawo sakramentalne — status sakramentów, warunki ich sprawowania i przyjmowania oraz właściwość szafarzy;
 
-6° Instrukcjach Stolicy Apostolskiej;
+2° prawo liturgiczne — kult Boży, rok liturgiczny, Liturgię Godzin, sakramentalia i błogosławieństwa;
 
-7° Dekretach Konferencji Episkopatu;
+3° prawo nauczania — głoszenie Słowa, katechezę, formację i misję;
 
-8° Ustawach i dekretach biskupa diecezjalnego, na którego terytorium znajduje się dom rodzinny;
+4° prawo małżeńskie i rodzinne — zawarcie małżeństwa, jego skutki, prawa małżonków i ochronę dzieci;
 
-9° Prawie partykularnym diecezji, na której terytorium znajduje się Kościół Domowy.
+5° prawo karne — odpowiedzialność za czyny zabronione w danym porządku;
 
-**§ 2.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek czuwać, by żaden przepis prawa partykularnego Kościoła Domowego nie był sprzeczny z prawem powszechnym Kościoła, a w przypadku wątpliwości pierwszeństwo przysługuje prawu powszechnemu.
+6° prawo procesowe — postępowania sądowe i administracyjne;
 
-**Kan. 133 § 1.** Kościół Domowy respektuje w szczególności następujące obszary prawa powszechnego:
+7° prawo dóbr doczesnych — nabywanie, zarządzanie i rozporządzanie dobrami.
 
-1° **Prawo sakramentalne** — wszystkie przepisy dotyczące siedmiu sakramentów, ich sprawowania, przyjmowania i skutków (kan. 840-1165 KPK) w interpretacji jaka wskazano w księgach kodeksu kanonicznego kosciola domowego ;
+**§ 2.** Wewnętrzne normy dotyczące sakramentów, szafarzy i jurysdykcji należy odczytywać łącznie z Księgą XIII, w szczególności kan. 713–725 oraz 758–771. Własna terminologia Kościoła Domowego nie może być przedstawiana jako automatycznie zmieniająca status kanoniczny w Kościele katolickim.
 
-2° **Prawo liturgiczne** — przepisy dotyczące kultu Bożego, roku liturgicznego, Liturgii Godzin, sakramentaliów błogosławienia osób, uczynków, przedmiotów i miejsc oraz pogrzebu kościelnego a takze liturgi zycia będącej liturgią godzin (kan. 834-839 KPK);
+**§ 3.** Jeżeli sprawa dotyczy skutków w porządku Kościoła katolickiego, rozstrzygające znaczenie mają jego własne normy i kompetentna władza. Jeżeli dotyczy wewnętrznego porządku Kościoła Domowego, stosuje się jego kodeks i promulgowane akty właściwego ustawodawcy.
 
-3° **Prawo nauczania** — przepisy dotyczące posługi słowa, nauczania katechetycznego, misji, wychowania katolickiego i środków społecznego przekazu (kan. 3 KPK);
 
-4° **Prawo małżeńskie** — wszystkie przepisy dotyczące małżeństwa, jego zawierania, przeszkód, zgody, formy, skutków i separacji (kan. 185-1165 KPK);
+**Kan. 134 § 1.** Głowa Rodu oraz właściwe organy Kościoła Domowego mają obowiązek:
 
-5° **Prawo karne** — przepisy dotyczące przestępstw i kar w Kościele (kan. 1311-1752 KPK);
+1° znać normy odnoszące się do sprawy i rozpoznawać ich zakres zastosowania;
 
-6° **Prawo procesowe** — przepisy dotyczące postępowań sądowych i administracyjnych (kan. 1400-1752 KPK);
+2° informować członków wspólnoty o normach i zmianach mających dla nich znaczenie;
 
-7° **Prawo dóbr doczesnych** — przepisy dotyczące nabywania, zarządzania i alienacji dóbr kościelnych (kan. 1254-1310 KPK).
+3° dostosowywać prawo wewnętrzne w trybie właściwym dla jego ustanowienia i zmiany;
 
-**§ 2.** W sprawach nieuregulowanych niniejszym Kanonem Kościoła Domowego stosuje się bezpośrednio przepisy Kodeksu Prawa Kanonicznego z 1983 roku.
+4° nie przypisywać sobie kompetencji należących do innego organu lub porządku prawnego;
 
-**Kan. 134 § 1.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
+5° kierować sprawy wymagające zewnętrznego rozstrzygnięcia do właściwej władzy.
 
-1° znać i stosować prawo powszechne Kościoła w zakresie dotyczącym wspólnoty domowej;
+**§ 2.** Małżonka i Potomek uczestniczą w konsultacji i rozeznaniu w zakresie przewidzianym prawem, z poszanowaniem ich godności, praw, wieku i dojrzałości. Konsultacja nie może być pozorna ani zastępować wymaganej zgody, jeżeli prawo wyraźnie jej wymaga.
 
-2° czuwać nad tym, by członkowie wspólnoty domowej przestrzegali prawa powszechnego;
 
-3° informować członków wspólnoty o zmianach w prawie powszechnym;
+**Kan. 135.** Kościół Domowy przyjmuje, że Prawo Boże, prawo naturalne, prawo państwowe, prawo międzynarodowe oraz prawo Kościoła katolickiego stanowią źródła uwzględniane łącznie w autentycznej interpretacji wewnętrznej. Nie ustanawia się przez to fikcyjnej, uniwersalnej hierarchii kompetencji między odmiennymi porządkami prawnymi. W razie pozornego konfliktu należy najpierw ustalić:
 
-4° dostosowywać prawo partykularne Kościoła Domowego do zmian w prawie powszechnym;
+1° którego porządku prawnego dotyczy dana norma;
 
-5° rozstrzygać wątpliwości prawne zgodnie z ogólnymi zasadami prawa kanonicznego.
+2° kto jest jej adresatem i jaki jest jej zakres przedmiotowy oraz terytorialny;
 
-**§ 2.** Małżonka jako współszafarka łaski ma obowiązek współdziałać z Głową Rodu w respektowaniu prawa powszechnego i czuwać nad jego przestrzeganiem w codziennym życiu wspólnoty.
+3° jaki organ jest właściwy do jej ustanowienia, interpretacji i zastosowania;
 
-**Kan. 135.** Kościół Domowy uznaje, że:
+4° czy istnieje rzeczywista sprzeczność, czy jedynie różnica zakresu lub celu;
 
-1° prawo Boże stoi ponad prawem naturalnym;
+5° jakie rozwiązanie najlepiej chroni życie, godność, wolność, prawa dziecka, sprawiedliwość i dobro wspólne.
 
-2° prawo naturalne stoi ponad prawem stanowionym;
+Żadna interpretacja wewnętrzna nie może upoważniać do naruszenia obowiązującego prawa przez osobę, której ono dotyczy, ani do przypisywania sobie zewnętrznej kompetencji.
 
-3° prawo powszechne Kościoła stoi ponad prawem partykularnym Kościoła Domowego;
-
-4° prawo partykularne Kościoła Domowego uzupełnia i konkretyzuje prawo powszechne w zakresie dotyczącym wspólnoty domowej;
-
-5° żadne prawo partykularne nie może uchylać prawa Bożego, naturalnego ani powszechnego prawa kościelnego;
-
-6° w przypadku konfliktu norm pierwszeństwo przysługuje normie wyższej.
 
 ## Tytuł XI: RELACJA DO PRAWA PARTYKULARNEGO DIECEZJI
 
-**Kan. 136 § 1.** Kościół Domowy, znajdujący się na terytorium określonej diecezji, respektuje prawo partykularne tej diecezji w zakresie, w jakim dotyczy ono:
+**Kan. 136 § 1.** Kościół Domowy rozpoznaje przepisy prawa partykularnego diecezji, w której znajduje się dom rodzinny, w zakresie, w jakim zgodnie z prawem danego Kościoła odnoszą się one do osób, czynności lub miejsc objętych tym prawem. Wewnętrzna interpretacja Kościoła Domowego uwzględnia te przepisy łącznie z własnym prawem, bez przesądzania samym aktem wewnętrznym o ich zewnętrznym skutku.
 
-1° sprawowania sakramentów i salramentaliow blogosławienia osób, przedmiotow i miejsc z uwzględnieniem interpretacji wymienionej w KKKD;
+**§ 2.** W razie wątpliwości dotyczącej kompetencji lub skutku kanonicznego należy zwrócić się do właściwej władzy diecezjalnej lub innego właściwego organu. Wewnętrzne organy Kościoła Domowego mogą prowadzić dialog i uzgadniać praktykę, lecz nie mogą jednostronnie zmieniać prawa diecezjalnego.
 
-2° dyscypliny kościelnej;
 
-3° formacji i nauczania;
+**Kan. 137 § 1.** Kościół Domowy rozpoznaje zarządzenia biskupa diecezjalnego w zakresie, w jakim zgodnie z prawem Kościoła katolickiego dotyczą one osób lub spraw podlegających jego kompetencji, w szczególności nauczania, dyscypliny sakramentalnej, liturgii, dóbr kościelnych i stowarzyszeń wiernych.
 
-4° kultu Bożego i roku liturgicznego w tym prawa do sprawowania liturgii obrządku domowego Pawlowego, Marii Magdaleny, Tomaszowego i liturgii życia będacej liturgią godzin;
+**§ 2.** Głowa Rodu może zwrócić się do biskupa diecezjalnego o wyjaśnienie lub rozstrzygnięcie kwestii należącej do jego kompetencji. Samo wystąpienie ani wewnętrzna interpretacja nie zawieszają skutków zarządzenia, chyba że właściwe prawo lub kompetentna władza stanowi inaczej.
 
-5° zarządu dobrami kościelnymi;
 
-6° spraw małżeńskich i rodzinnych.
+**Kan. 138.** Wizytacja, nadzór i wydawanie zarządzeń przez biskupa diecezjalnego wobec osób, instytucji lub spraw podlegających jego kompetencji odbywają się na zasadach określonych prawem Kościoła katolickiego. Kościół Domowy może opisywać własne zasady współpracy i ochrony prywatności, lecz nie może samodzielnie rozszerzać ani ograniczać kompetencji zewnętrznej władzy. Współpraca powinna respektować godność osób, ochronę dzieci, tajemnicę prawnie chronioną i właściwe granice wizytacji.
 
-**§ 2.** W przypadku konfliktu między prawem partykularnym diecezji a prawem partykularnym subdiecezji Kościoła Domowego, Głowa Rodu jako biskup tytularny domostwa winien dążyć do uzgodnienia z biskupem diecezjalnym, mając na uwadze dobro wspólnoty i jedność Kościoła.
-
-**Kan. 137 § 1.** Kościół Domowy respektuje zarządzenia biskupa diecezjalnego dotyczące:
-
-1° norm katechetycznych i formacyjnych;
-
-2° dyscypliny sakramentalnej;
-
-3° przepisów liturgicznych;
-
-4° zarządzeń dotyczących kultu Bożego;
-
-5° norm dotyczących środków społecznego przekazu;
-
-6° przepisów dotyczących dóbr doczesnych;
-
-7° zarządzeń dotyczących stowarzyszeń wiernych.
-
-**§ 2.** Głowa Rodu jako biskup tytularny domostwa ma prawo zwrócić się do biskupa diecezjalnego o wyjaśnienie lub interpretację zarządzeń diecezjalnych w zakresie dotyczącym subdiecezji Kościoła Domowego.
-
-**Kan. 138.** Kościół Domowy respektuje prawo biskupa diecezjalnego do wizytacji wspólnoty domowej w zakresie określonym prawem powszechnym (por. kan. 8 KPK), a także prawo do wydawania zarządzeń dotyczących dyscypliny kościelnej na terenie diecezji.
 
 ## Tytuł XII: PRZEPISY KOŃCOWE
 
 **Kan. 139.** Niniejsza Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa tytularnego domostwa, po konsultacji z Triarchią Domową.
 
-**Kan. 140.** W sprawach nieuregulowanych niniejszą Księgą stosuje się bezpośrednio przepisy Kodeksu Prawa Kanonicznego z 1983 roku, a w sprawach nieuregulowanych także przez Kodeks — przepisy Prawa Bożego, Naturalnego i praw człowieka.
+**Kan. 140.** W sprawach nieuregulowanych niniejszą Księgą należy dokonać łącznej interpretacji właściwych źródeł wymienionych w kan. 132 i 135. Wewnętrzne luki prawne uzupełnia się zgodnie z prawem Kościoła Domowego, jego promulgowanymi zasadami i autentyczną interpretacją właściwego ustawodawcy. Jeżeli rozstrzygnięcie ma wywołać skutek w porządku państwowym lub w Kościele katolickim, należy uwzględnić prawo tego porządku i kompetencję jego właściwej władzy.
+
 
 **Kan. 141.** Żaden przepis niniejszej Księgi nie może być interpretowany w sposób:
 
@@ -517,17 +495,21 @@
 
 **Kan. 142.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek czuwać, by wszystkie przepisy niniejszej Księgi były stosowane w duchu miłości, sprawiedliwości i miłosierdzia, mając zawsze przed oczyma najwyższą zasadę: *salus animarum suprema lex* (zbawienie dusz najwyższym prawem, por. kan. 882 KPK).
 
-**Kan. 143.** W przypadku wątpliwości co do stosowania prawa powszechnego w Kościele Domowym, Głowa Rodu jako biskup tytularny domostwa winien:
+**Kan. 143.** W przypadku wątpliwości co do stosowania prawa Głowa Rodu lub właściwy organ Kościoła Domowego powinien:
 
-1° zwrócić się o wyjaśnienie do kompetentnej władzy kościelnej w tym małżonki i potomka;
+1° ustalić, czy wątpliwość dotyczy wewnętrznego porządku Kościoła Domowego, czy także skutków w porządku państwowym albo w Kościele katolickim;
 
-2° stosować ogólną zasadę, że w wątpliwości prawnej ustawy nie obowiązują (kan. 14 KPK);
+2° zwrócić się o stanowisko do osób, których prawa lub obowiązki dotyczą sprawy, w tym — stosownie do jej charakteru — do Małżonki i Potomka;
 
-3° orzekać na korzyść strony słabszej;
+3° w sprawie należącej do kompetencji zewnętrznej władzy zwrócić się do tej władzy o wyjaśnienie lub rozstrzygnięcie;
 
-4° mieć na uwadze dobro wspólnoty i zbawienie dusz;
+4° nie domniemywać kompetencji ani jurysdykcji, których prawo lub akt powierzenia nie ustanawia;
 
-5° nie podejmować decyzji, które mogłyby naruszyć jedność z Kościołem Powszechnym.
+5° rozstrzygać w granicach własnej kompetencji, z uwzględnieniem praw nabytych, zasady proporcjonalności i ochrony strony słabszej;
+
+6° mieć przed oczyma dobro człowieka, dobro wspólnoty i zasadę *salus animarum suprema lex*;
+
+7° nie podejmować działań naruszających godność, bezpieczeństwo, wolność sumienia lub prawa dziecka.
 
 
 ---
