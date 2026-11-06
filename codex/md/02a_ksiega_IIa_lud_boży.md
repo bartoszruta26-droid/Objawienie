@@ -447,3 +447,60 @@ Dawna Księga II zawierała liczne powtórzenia dotyczące przyjęcia do wspóln
 Zachowano duchowy sens zasad „Gość w dom, Bóg w dom”, „Ziemia to świętość”, „Trud i praca to świętość” oraz *primus inter pares*. Jednocześnie doprecyzowano, że gościnność nie znosi praw domowników i właścicieli, praca nie może być przymusowa, przewodzenie jest służbą, a równość godności nie zależy od członkostwa.
 
 Najważniejszą miarą wspólnoty pozostaje miłość, która nie przymusza; prawda, która nie manipuluje; sprawiedliwość, która nie wybiera uprzywilejowanych; oraz miłosierdzie, które chroni człowieka bez zaprzeczania odpowiedzialności.
+
+
+---
+
+## ANEKS I. ZACHOWANE PRZEPISY KSIĘGI II
+
+Poniższe postanowienia zostały przywrócone z odpowiadającej Księgi źródłowej. Zachowano ich treść merytoryczną i pierwotne oznaczenia, aby nie zatrzeć ich pochodzenia. W razie nakładania się zakresów należy czytać je łącznie z przepisami redakcji uporządkowanej.
+
+**Kan. 17.** § 1 Potomek, po osiągnięciu używania rozumu (siódmy rok życia, por. kan. 97 § 2 KPK), ma prawo uczestniczenia rozumnie w życiu liturgicznym i decyzyjnym Kościoła Domowego stosownie do swojego wieku i dojrzałości.
+
+§2 Potomek przed osiągnięciem używania rozumu ma prawo do uczestniczenia emocjonalnie i przez dowolne zachowanie się w życiu liturgicznym i decyzyjnym Kościoła Domowego a wola ta powinna być jak najwłaściwiej rozpoznana przez wspólnotę Kościoła Domowego przyznając pierwszeństwo władzy rodzicieli.
+
+**Kan. 27 § 1.** Małżonka pełni funkcję nadzorczą nad Głową Rodu. Jest szyją, która kieruje głową, duszą wspólnoty i strażniczką ogniska domowego.
+
+**§ 2.** Żadne działanie Głowy Rodu w charakterze biskupa domowego nie powinno być podejmowane bez wysłuchania opinii Małżonki, szczególnie w sprawach dotyczących:
+
+1° wychowania i formacji Potomstwa;
+
+2° przyjmowania nowych członków do wspólnoty;
+
+3° zmian w obrządku domowym;
+
+4° zarządzania dobrami materialnymi wspólnoty;
+
+5° relacji z Kościołem Powszechnym i innymi wspólnotami.
+
+**§ 3.** Małżonka ma prawo i obowiązek wyrażania opinii, składania propozycji oraz wnoszenia sprzeciwu wobec decyzji, które uznaje za sprzeczne z Prawem Bożym, Naturalnym lub dobrem wspólnoty. Zgoda albo sprzeciw Małżonki dotyczące przyjmowania nowych członków (kan. 27 § 2 pkt 2°) odnoszą się wyłącznie do wymiaru domowego (partykularnego) przyjęcia; nie mogą one skutkować podważeniem domyślnego przyjęcia osoby ochrzczonej i pozostającej w komunii do Kościoła Katolickiego.
+
+**Kan. 29.** Małżonka jako współszafarka łaski ma prawo i obowiązek:
+
+1° współuczestniczenia w codziennej modlitwie rodzinnej;
+
+2° prowadzenia modlitwy w nieobecności Głowy Rodu;
+
+3° błogosławienia dzieci;
+
+4° organizowania modlitwy w intencjach rodziny;
+
+5° czuwania nad duchową atmosferą domu.
+
+---
+
+### Tytuł VI: Równość godności i komplementarność ról
+
+**Kan. 40 § 1.** Kościół Domowy uznaje, że małżeństwo zawarte i dopełnione nie może być rozwiązane żadną ludzką władzą i z żadnej przyczyny, oprócz śmierci (kan. 251 KPK).
+
+**§ 2.** Żadna decyzja Głowy Rodu, żadna uchwała Triarchii Domowej ani żaden akt organizacyjny nie może rozwiązać ważnego małżeństwa sakramentalnego.
+
+**§ 3.** W przypadku poważnych trudności małżeńskich, Kościół Domowy winien:
+
+1° najpierw dążyć do pojednania i przebaczenia;
+
+2° korzystać z pomocy duszpasterskiej Kościoła Powszechnego;
+
+3° w przypadku separacji — zachować przepisy prawa kanonicznego (kan. 261-1155 KPK);
+
+4° nigdy nie dopuszczać do sytuacji, w której dzieci stają się narzędziem konfliktu.
