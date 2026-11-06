@@ -859,23 +859,25 @@
 
 # ANEKS II — UWAGI REDAKCYJNE I ZAKRES ZACHOWANIA MATERIAŁU
 
-**1.** Księga IVa zachowuje główne obszary dawnej Księgi IV: liturgię domową, modlitwę i rok liturgiczny, trzy obrządki, miejsce kultu, siedem cnót, siedem przedmiotów rzeczowych, Dary, charyzmaty, błogosławieństwa osób, uczynków i miejsc, narzędzia pracy, przedmioty kultowe, integrację symboli, formację i celebracje.
+**1.** Księga IVa zachowuje pełną materię normatywną Księgi IV. Wszystkie 145 dawnych kanonów, od 144 do 288, zostało włączonych do nowej numeracji jako kan. 99–243. Żaden dawny kanon nie został pominięty.
 
-**2.** Usunięto powtórzenia dotyczące szafarstwa, celebracji, formacji i obowiązków Głowy Rodu. Przepisy o podobnej treści scalono w jednym miejscu.
+**2.** Dawne obowiązki zachowują charakter obowiązkowy. Przeniesienie przepisu, zmiana jego miejsca lub połączenie z przepisem pokrewnym nie może samo przez się zmienić obowiązku w zalecenie. Kanony 1–98 porządkują i uzupełniają materiał, natomiast kan. 99–243 przywracają pełne brzmienie źródłowych norm w jednej, ciągłej numeracji.
 
-**3.** Dawny tekst zawierał trzy nieuzupełnione pozycje „Kan. XXX — Błogosławieństwo korony/czoła/gardła”. W niniejszej redakcji opracowano je jako kan. 16¹–16⁴ na podstawie aktualnej macierzy formacyjnej Księgi IVa, katalogów Księgi XII oraz rozróżnień sakramentalnych Księgi XIII. Nie jest to odzyskanie nieistniejącego pierwotnego brzmienia, lecz jawnie oznaczona rekonstrukcja redakcyjna.
+**3.** Pełne katalogi, definicje, przyporządkowania i szczegółowe opisy formacyjne zostały odtworzone przez włączenie kanonów źródłowych. Dotyczy to w szczególności trzech obrządków, siedmiu cnót, siedmiu Darów Ducha Świętego, siedmiu charyzmatów, osób, uczynków, przedmiotów i miejsc błogosławionych, przedmiotów rzeczowych, narzędziowych i kultowych, ich obrzędów, obowiązków szafarzy oraz celebracji.
 
-**4.** Dawny kan. 163 zawierał wartości procentowe dla tradycji religijnych, których suma przekraczała 100% i które nie tworzyły spójnego podziału. Księga IVa zachowuje zasadę dialogu i otwartości, ale nie ustanawia tych wartości jako wiążących proporcji.
+**4.** Dawne kanony 145, 153, 163, 179, 188, 190, 192, 194, 196, 198, 200, 202, 260, 268, 269 i 287 nie występują już jako odrębny blok o dawnej numeracji. Zostały włączone do ciągu kan. 99–243, odpowiednio jako kan. 100, 108, 118, 134, 143, 145, 147, 149, 151, 153, 155, 157, 215, 223, 224 i 242.
 
-**5.** Dawny wykaz Darów zawierał rozbieżności: w różnych miejscach wymieniał Pobożność lub Wiedzę, a jednocześnie przypisywał Cierpliwość do cnoty Pobożności. Księga IVa stosuje rozstrzygnięcie przyjęte w audycie zgodności Księgi IV i XII: Pobożność jest cnotą, Cierpliwość siódmym Darem, Dociekliwość szóstym Darem.
+**5.** Trzy nienumerowane pozycje „Kan. XXX — Błogosławieństwo korony/czoła/gardła” nie zawierały pełnego tekstu źródłowego. Zostały jawnie opracowane jako kan. 16¹–16⁴ na podstawie macierzy formacyjnej Księgi IVa, katalogów Księgi XII i rozróżnień sakramentalnych Księgi XIII. Jest to rekonstrukcja redakcyjna, a nie twierdzenie o odzyskaniu nieistniejącego pierwotnego brzmienia.
 
-**6.** Powiązania poziomów symbolicznych, czakr, cnót i sakramentów zachowano jako wewnętrzną macierz katechetyczną. Nie przedstawia się ich jako nauki medycznej, dogmatu katolickiego ani dowodu ważności sakramentów.
+**6.** Dawny kan. 163, obecnie kan. 118, zachowuje wartości procentowe dotyczące dialogu międzywyznaniowego. Ponieważ wartości te nie tworzą sumującego się podziału 100%, kan. 245 wyjaśnia ich charakter jako wskaźników otwartości, a nie matematycznej alokacji osób, praw lub przynależności. Sam katalog źródłowy pozostaje zachowany.
 
-**7.** W dawnym tekście niektóre narzędzia i przedmioty kultowe opisywano bardzo rozbudowanymi formułami błogosławieństw. Księga IVa zachowuje ich podstawową symbolikę, funkcje i powiązania, lecz porządkuje je w zwięzłym katalogu. Szczegółowe formuły mogą zostać zebrane w osobnym rytuale obrzędów domowych.
+**7.** W źródłowej Księdze IV występują rozbieżności w nazwach i przyporządkowaniach Darów, cnót i charyzmatów. Nie zostały one usunięte przez ciche zastąpienie jednej nazwy drugą. Zachowano pełne źródłowe brzmienia, a kan. 250 nakazuje ujawniać rozbieżność i dodawać objaśnienie, zamiast usuwać element katalogu. Zgodność z Księgą XII wymaga odrębnego, jawnego rozstrzygnięcia ustawodawczego.
 
-**8.** Przepisy o prowadzeniu ksiąg formacyjnych i rejestrów zostały ograniczone zasadą prywatności: nie wolno dokumentować tajemnicy spowiedzi, wymuszonych wyznań ani danych wrażliwych bez podstawy prawnej.
+**8.** Powiązania poziomów symbolicznych, czakr, cnót i sakramentów pozostają wewnętrzną macierzą katechetyczną. Nie są przedstawiane jako nauka medyczna, dogmat Kościoła katolickiego ani dowód ważności sakramentów.
 
----
+**9.** Obowiązki dokumentacyjne, prowadzenia ksiąg, corocznych celebracji i formacji pozostają zachowane. Wykonuje się je z poszanowaniem prywatności, tajemnicy spowiedzi, ochrony danych i godności osób. Nie dokumentuje się wymuszonych wyznań ani danych wrażliwych bez właściwej podstawy prawnej.
+
+**10.** Przepisy źródłowe dotyczące publicznego wyznawania win, pojednania, namaszczenia, dotyku, postu i udziału dzieci należy wykonywać łącznie z kan. 94–98 i kan. 244–250. Zachowanie obowiązku organizatora nie tworzy prawa do przymuszania uczestników ani do naruszania ich zdrowia, sumienia, wolności lub bezpieczeństwa.
 
 ## FORMUŁA KOŃCOWA
 
