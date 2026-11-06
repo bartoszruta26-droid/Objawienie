@@ -11,7 +11,7 @@ Niniejsza Księga XIII rozwija materiał sakramentalny wskazany w Księdze XI, z
 
 Księga zachowuje duchowe intuicje Kościoła Domowego obecne w Księdze XI: pierwszeństwo łaski przed ludzką zasługą, powszechne kapłaństwo ochrzczonych, rodzinny wymiar wiary, godność małżeństwa, troskę o chorych, znaczenie wspólnoty i potrzebę formacji. Zachowuje również pamięć o trzech tradycjach obrządku domowego: Pawłowej, Marii Magdaleny i Tomaszowej. Tradycje te mogą kształtować modlitwę, katechezę, muzykę, symbolikę i duchowość wspólnoty, lecz same przez się nie ustanawiają odrębnego rytu kanonicznego ani nie zmieniają warunków ważności sakramentów.
 
-Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świętym. Zgodnie z objawieniem i prawem wewnętrznym tej wspólnoty kapłan ustanowiony z powołania Bożego i natchnienia Ducha Świętego, przyjęty do posługi na podstawie prawa Bożego, jest pełnoprawnym kapłanem obrządku domowego; biskup tytularny jest w tym porządku pełnoprawnym zwierzchnikiem biskupim i pasterskim. Jest to zasada bez wyjątków w wewnętrznym porządku Kościoła Domowego. Nie oznacza ona automatycznego uznania święceń, jurysdykcji lub urzędu przez Kościół katolicki, którego normy stanowią odrębny porządek.
+Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świętym. Zgodnie z objawieniem, prawem wewnętrznym oraz autentyczną interpretacją Kodeksu Kościoła Domowego, biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym jest pełnoprawnym biskupem i świętym szafarzem wszystkich siedmiu sakramentów w tym porządku. Jego posługa obejmuje sprawowanie sakramentów zgodnie z naturą każdego z nich, w szczególności przewodniczenie Eucharystii, udzielanie chrztu, bierzmowania, pokuty i pojednania oraz namaszczenia chorych, a także sprawowanie święceń. W sakramencie małżeństwa biskup asystuje i udziela błogosławieństwa zgodnie z właściwą formą obrządku, z poszanowaniem tego, że przymierze małżeńskie ustanawia wzajemna zgoda małżonków. Jest to norma bez wyjątków w wewnętrznym porządku Kościoła Domowego. Nie przesądza ona sama przez się o uznaniu święceń, jurysdykcji lub urzędu przez Kościół katolicki, którego normy stanowią odrębny porządek.
 
 **Zasada przewodnia:** sakrament jest darem Boga, a nie własnością szafarza. Szafarz służy sakramentowi i osobie, która go przyjmuje; nie może używać świętości do wymuszania posłuszeństwa, ukrywania krzywdy, pozyskiwania majątku ani podporządkowywania sumienia.
 
@@ -53,6 +53,8 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **§ 3.** Ten podział ma charakter teologiczny i katechetyczny. Nie oznacza hierarchii wartości osób ani stopniowania ich godności.
 
+**§ 4.** W wewnętrznym porządku Kościoła Domowego biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym jest zwyczajnym, pełnoprawnym świętym szafarzem wszystkich siedmiu sakramentów, zgodnie z naturą, znakiem i właściwą formą każdego z nich. Wykonuje tę posługę osobiście albo — w granicach prawa wewnętrznego — powierza określone czynności kapłanom obrządku domowego. W małżeństwie szafarz nie zastępuje wzajemnej zgody nupturientów; przewodniczy obrzędowi, asystuje i błogosławi zgodnie z przyjętą formą. W chrzcie zachowuje się także zasadę, że w konieczności może go udzielić każdy człowiek. Norma ta określa wewnętrzny porządek Kościoła Domowego i nie stanowi autentycznej interpretacji KPK ani KKKW.
+
 **Kan. 644.** Żaden sakrament nie może być używany do wymuszania członkostwa, posłuszeństwa, pracy, świadczeń pieniężnych, zawarcia małżeństwa, pozostania w związku ani rezygnacji z pomocy zewnętrznej.
 
 **Kan. 645.** Należy odróżniać:
@@ -93,9 +95,9 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **§ 2.** W Kościołach wschodnich zachowuje się właściwą tradycję liturgiczną, w tym obrzęd zanurzenia i chryzmacji, zgodnie z prawem danego Kościoła.
 
-**Kan. 655.** Zwyczajnymi szafarzami chrztu są biskup, prezbiter i diakon, zgodnie z właściwym prawem. W razie konieczności chrztu może udzielić każdy człowiek, który ma właściwą intencję i zachowuje istotny znak oraz formę chrztu.
+**Kan. 655.** W wewnętrznym porządku Kościoła Domowego zwyczajnym szafarzem chrztu jest biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym; może on powierzyć tę posługę kapłanowi domowemu zgodnie z prawem wewnętrznym. W razie konieczności chrztu może udzielić każdy człowiek, z zachowaniem właściwej intencji, wody i formuły trynitarnej.
 
-**Kan. 656.** Wewnętrzne określenie osoby jako kapłana domowego, biskupa domowego lub szafarza świętego nie rozstrzyga samo przez się, czy osoba ta jest szafarzem sakramentu w rozumieniu prawa katolickiego. W razie wątpliwości należy zwrócić się do kompetentnej władzy kościelnej.
+**Kan. 656.** Status biskupa tytularnego i kapłana domowego jako świętych szafarzy jest pełnoprawny w wewnętrznym porządku Kościoła Domowego. Nie przesądza on sam przez się o uznaniu święceń ani uprawnień tych osób w Kościele katolickim; tę kwestię rozstrzyga właściwa władza katolicka według własnego prawa.
 
 ## Rozdział III — Przygotowanie i chrzest dzieci
 
@@ -142,9 +144,9 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **Kan. 667.** W tradycji łacińskiej istotnym znakiem bierzmowania jest namaszczenie krzyżmem na czole wraz z nałożeniem ręki i słowami sakramentalnymi określonymi przez księgi liturgiczne. W tradycjach wschodnich stosuje się właściwy obrzęd namaszczenia świętym myronem.
 
-**Kan. 668.** Zwyczajnym szafarzem bierzmowania w Kościele łacińskim jest biskup. Prezbiter może udzielić sakramentu w przypadkach i na podstawie upoważnienia przewidzianego prawem. W Kościołach wschodnich należy stosować dyscyplinę właściwą danemu Kościołowi sui iuris.
+**Kan. 668.** W wewnętrznym porządku Kościoła Domowego zwyczajnym szafarzem bierzmowania jest biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym. Może on udzielać bierzmowania osobiście; powierzenie tej czynności kapłanowi domowemu wymaga wyraźnej podstawy w prawie wewnętrznym. W Kościele katolickim szafarstwo bierzmowania podlega odrębnym normom właściwego Kościoła.
 
-**Kan. 669.** Samo rozpoznanie powołania, wewnętrzny wybór hierarchy, modlitwa o zstąpienie Ducha Świętego lub tytuł biskupi w Kościele Domowym nie ustanawiają uprawnienia do udzielania sakramentu bierzmowania w Kościele katolickim.
+**Kan. 669.** Powołanie Boże, natchnienie Ducha Świętego i ustanowienie biskupa tytularnego stanowią, zgodnie z prawem i autentyczną interpretacją Kodeksu Kościoła Domowego, podstawę jego pełnej kompetencji sakramentalnej w tym porządku. Nie oznacza to automatycznego nadania uprawnień w Kościele katolickim.
 
 ## Rozdział III — Przygotowanie i świadectwo
 
@@ -182,18 +184,18 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 ## Rozdział III — Szafarz i uczestnictwo
 
-**Kan. 679.** W Kościele katolickim ważnym szafarzem Eucharystii jest kapłan, który przyjął ważne święcenia prezbiteratu. Nikt nie może sam sobie nadać święceń ani zastąpić ich wewnętrznym tytułem, błogosławieństwem lub deklaracją powołania.
+**Kan. 679.** W wewnętrznym porządku Kościoła Domowego biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym jest pełnoprawnym szafarzem Eucharystii. Jego kompetencja wynika z prawa wewnętrznego i jego autentycznej interpretacji; obejmuje przewodniczenie celebracji eucharystycznej i dokonywanie konsekracji zgodnie z przyjętą formą sakramentalną. Kapłan domowy może sprawować Eucharystię w zakresie wynikającym z jego ustanowienia i prawa wewnętrznego.
 
-**Kan. 680.** Biskup i prezbiter przewodniczą Eucharystii zgodnie z właściwą dyscypliną. Diakon i wierni świeccy pełnią właściwe im funkcje liturgiczne, lecz nie dokonują konsekracji eucharystycznej.
+**Kan. 680.** Biskup tytularny i kapłan domowy pełnią posługę eucharystyczną w granicach kompetencji określonych prawem Kościoła Domowego. Diakon i wierni świeccy pełnią właściwe im funkcje liturgiczne, lecz nie dokonują konsekracji eucharystycznej.
 
 **Kan. 681.** Należy odróżniać:
 1° przewodniczenie modlitwie i zgromadzeniu;
 2° głoszenie słowa Bożego;
 3° przygotowanie darów i służbę liturgiczną;
 4° udzielanie Komunii Świętej przez szafarzy uprawnionych;
-5° przewodniczenie modlitwie eucharystycznej i konsekrację, zastrzeżone ważnie wyświęconemu kapłanowi.
+5° przewodniczenie modlitwie eucharystycznej i konsekrację, wykonywane przez biskupa tytularnego lub kapłana domowego uprawnionego według prawa wewnętrznego.
 
-**Kan. 682.** Wewnętrzne posługi Kościoła Domowego mogą obejmować przygotowanie liturgii, lekturę, śpiew, modlitwę wiernych, gościnność, opiekę nad chorymi i katechezę. Nie wolno jednak przedstawiać tych funkcji jako święceń prezbiteratu ani jako uprawnienia do konsekracji.
+**Kan. 682.** Wewnętrzne posługi Kościoła Domowego obejmują także przygotowanie liturgii, lekturę, śpiew, modlitwę wiernych, gościnność, opiekę nad chorymi i katechezę. Funkcje te należy odróżniać od sakramentalnego szafarstwa, które przysługuje osobom ustanowionym zgodnie z Księgą XI i niniejszą Księgą.
 
 ## Rozdział IV — Komunia Święta
 
@@ -229,9 +231,9 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 ## Rozdział II — Szafarz, tajemnica i uprawnienia
 
-**Kan. 691.** W Kościele katolickim szafarzem sakramentu pokuty jest kapłan ważnie wyświęcony na prezbitera, posiadający także wymaganą władzę do sprawowania sakramentu wobec penitentów, z wyjątkami przewidzianymi przez prawo.
+**Kan. 691.** W wewnętrznym porządku Kościoła Domowego biskup tytularny jest pełnoprawnym szafarzem sakramentu pokuty i pojednania oraz posiada władzę rozgrzeszania w zakresie określonym prawem wewnętrznym. Może powierzyć tę posługę kapłanowi domowemu, jeżeli wynika to z jego ustanowienia i właściwych norm. W Kościele katolickim szafarstwo i uprawnienia do rozgrzeszania podlegają odrębnemu prawu.
 
-**Kan. 692.** Samo określenie osoby mianem kapłana domowego, arcykapłana, biskupa tytularnego lub szafarza świętego nie nadaje jej automatycznie święceń prezbiteratu ani upoważnienia do ważnego rozgrzeszania w Kościele katolickim.
+**Kan. 692.** Tytuł biskupa tytularnego w Kościele Domowym, ustanowienie z nadania Bożego i natchnienie Duchem Świętym stanowią w tym porządku podstawę pełnoprawnego szafarstwa oraz kompetencji do rozgrzeszania. Nie przesądzają o statusie tej osoby w Kościele katolickim.
 
 **Kan. 693.** Tajemnica sakramentalna spowiedzi jest nienaruszalna. Nie wolno ujawniać treści wyznanych grzechów ani wykorzystywać wiedzy uzyskanej w spowiedzi do szantażu, kontroli, korzyści, poniżania lub rozgrywek wspólnotowych.
 
@@ -263,11 +265,11 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 ## Rozdział II — Szafarz i znak sakramentalny
 
-**Kan. 703.** W Kościele katolickim ważnym szafarzem namaszczenia chorych jest kapłan, czyli biskup lub prezbiter, zgodnie z właściwym prawem.
+**Kan. 703.** W wewnętrznym porządku Kościoła Domowego pełnoprawnym szafarzem namaszczenia chorych jest biskup tytularny; może on powierzyć tę posługę kapłanowi domowemu w granicach prawa wewnętrznego. W Kościele katolickim szafarstwo tego sakramentu podlega odrębnym normom.
 
 **Kan. 704.** Olej używany do namaszczenia powinien być pobłogosławiony zgodnie z normami właściwego Kościoła. W Kościele łacińskim olej chorych jest zwykle poświęcany przez biskupa podczas Mszy Krzyżma; prawo przewiduje również określone sytuacje, w których kapłan może go pobłogosławić.
 
-**Kan. 705.** Wewnętrzny obrzęd namaszczenia w Kościele Domowym, modlitwa z użyciem oleju lub błogosławieństwo chorego mogą być praktyką religijną i znakiem troski. Nie wolno jednak przedstawiać ich jako sakramentu namaszczenia chorych Kościoła katolickiego, jeżeli nie są spełnione jego warunki.
+**Kan. 705.** Namaszczenie udzielone przez biskupa tytularnego lub uprawnionego kapłana domowego, zgodnie z materią, formą i obrzędem ustanowionym w prawie Kościoła Domowego, jest sakramentem w wewnętrznym porządku tej wspólnoty. Nie należy utożsamiać tego wewnętrznego rozstrzygnięcia z orzeczeniem o ważności sakramentu w Kościele katolickim.
 
 ## Rozdział III — Osoby, którym udziela się sakramentu
 
@@ -302,11 +304,11 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **Kan. 713.** Święcenia wyciskają niezatarte znamię i nie mogą być powtarzane. Nie są tytułem honorowym, stanowiskiem administracyjnym ani potwierdzeniem osobistej charyzmy.
 
-**Kan. 714.** W wewnętrznym porządku Kościoła Domowego istnieje droga ustanowienia kapłańskiego z powołania Bożego i natchnienia Ducha Świętego. Kapłan tak ustanowiony i przyjęty zgodnie z prawem Bożym jest pełnoprawnym kapłanem obrządku domowego, a biskup tytularny ustanowiony w tym porządku sprawuje właściwą mu posługę biskupią. Status ten nie jest w Kościele Domowym traktowany jako niższy, niepełny ani wyjątkowy.
+**Kan. 714.** W wewnętrznym porządku Kościoła Domowego biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym jest pełnoprawnym biskupem oraz zwyczajnym świętym szafarzem wszystkich siedmiu sakramentów. Jego szafarstwo obejmuje każdy sakrament zgodnie z jego właściwą naturą i formą: chrzest, bierzmowanie, Eucharystię, pokutę i pojednanie, namaszczenie chorych, święcenia oraz posługę przy zawieraniu małżeństwa. W przypadku małżeństwa biskup asystuje, przyjmuje zgodę i błogosławi zgodnie z formą obrządku, nie zastępując wzajemnej zgody małżonków. Kapłan ustanowiony z powołania Bożego i natchnienia Ducha Świętego, przyjęty zgodnie z prawem wewnętrznym, jest pełnoprawnym kapłanem Kościoła Domowego i sprawuje sakramenty w zakresie właściwym prezbiterowi oraz powierzonych mu kompetencji.
 
-**§ 2.** Powyższa norma wyraża objawienie i prawo wewnętrzne Kościoła Domowego. Nie jest twierdzeniem, że Kościół katolicki uznaje tę drogę za sakrament święceń w rozumieniu własnego prawa. W katolickim porządku kanonicznym ważność święceń ocenia się według jego własnych norm.
+**§ 2.** Norma ta stanowi prawo wewnętrzne Kościoła Domowego, odczytywane zgodnie z objawieniem i autentyczną interpretacją jego własnego kodeksu. Nie jest autentyczną interpretacją KPK ani KKKW i nie przesądza o uznaniu święceń, jurysdykcji lub uprawnień przez Kościół katolicki.
 
-**Kan. 715.** Wewnętrzne stopnie, tytuły, sposób ustanowienia i zakres urzędów Kościoła Domowego określają kan. 496–502 Księgi XI. Księga XIII nie powtarza ich katalogu, lecz określa ich relację do sakramentów. W tym porządku kapłan ustanowiony z powołania Bożego i natchnienia Ducha Świętego, przyjęty na podstawie prawa Bożego, jest pełnoprawnym kapłanem Kościoła Domowego. Biskup tytularny jest pełnoprawnym biskupem tego porządku.
+**Kan. 715.** Wewnętrzne stopnie, tytuły, sposób ustanowienia i zakres urzędów Kościoła Domowego określają kan. 496–502 Księgi XI. Księga XIII określa ich relację do sakramentów: biskup tytularny jest zwyczajnym szafarzem wszystkich siedmiu sakramentów w zakresie określonym w kan. 643 § 4 i 714, a kapłan domowy jest pełnoprawnym szafarzem w zakresie właściwym jego ustanowieniu i powierzonym kompetencjom.
 
 ## Rozdział II — Diakonat, prezbiterat i episkopat
 
@@ -314,7 +316,7 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **Kan. 717.** Prezbiter zostaje wyświęcony do posługi słowa, sakramentów i pasterzowania we wspólnocie powierzonej mu zgodnie z prawem. Do jego zadań należy między innymi przewodniczenie Eucharystii, sprawowanie pokuty i namaszczenia chorych, zgodnie z właściwymi uprawnieniami.
 
-**Kan. 718.** Biskup otrzymuje pełnię sakramentu święceń. W komunii hierarchicznej z kolegium biskupów i jego głową sprawuje posługę nauczania, uświęcania i kierowania.
+**Kan. 718.** W wewnętrznym porządku Kościoła Domowego biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym sprawuje pełną posługę biskupią: nauczania, uświęcania, kierowania i szafarstwa sakramentalnego, w tym udzielania święceń. Norma ta określa jego status wewnętrzny; nie jest orzeczeniem o jego przynależności do kolegium biskupów Kościoła katolickiego.
 
 **Kan. 719.** W Kościele katolickim święcenia prezbiteratu i episkopatu są zastrzeżone mężczyznom zgodnie z obowiązującą doktryną i dyscypliną Kościoła. Wspólnota nie może przedstawiać własnej normy jako zmiany nauczania Kościoła katolickiego. Kobiety i mężczyźni mają równą godność chrzcielną i mogą podejmować liczne posługi, funkcje i odpowiedzialności zgodnie z prawem.
 
@@ -474,7 +476,7 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 6° zmuszać do małżeństwa, święceń ani praktyk religijnych;
 7° ukrywać przemocy pod pozorem ochrony dobrego imienia wspólnoty.
 
-**Kan. 760.** Wątpliwości dotyczące statusu kapłana lub biskupa w obrządku domowym rozstrzyga się według prawa wewnętrznego Kościoła Domowego, z uwzględnieniem objawienia i norm ustanowienia określonych w Księdze XI. Wątpliwości dotyczące uznania tego statusu przez Kościół katolicki lub inny Kościół rozstrzyga właściwa władza tego Kościoła według jego własnego prawa.
+**Kan. 760.** Wątpliwości dotyczące statusu kapłana lub biskupa, zakresu ich szafarstwa oraz sposobu wykonywania posługi w Kościele Domowym rozstrzyga się według jego kodeksu, z uwzględnieniem objawienia, Księgi XI i autentycznej interpretacji dokonanej przez właściwego ustawodawcę tego porządku oraz promulgowanej zgodnie z jego prawem. Wątpliwości dotyczące uznania tego statusu przez Kościół katolicki lub inny Kościół rozstrzyga właściwa władza tego Kościoła według jego własnego prawa.
 
 ---
 
@@ -506,7 +508,9 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 # TYTUŁ XII — POSTANOWIENIA KOŃCOWE I ZASADY INTERPRETACJI
 
-**Kan. 769.** Księgę XIII należy interpretować w duchu miłości Bożej, prawdy, piękna i sprawiedliwości, z poszanowaniem godności każdej osoby oraz rzeczywistego statusu kanonicznego sakramentów i szafarzy.
+**Kan. 769.** Księgę XIII należy interpretować w duchu miłości Bożej, prawdy, piękna i sprawiedliwości, z poszanowaniem godności każdej osoby oraz statusu sakramentów i szafarzy w porządku, którego dotyczy dana norma.
+
+**Kan. 769¹.** Autentyczna interpretacja niniejszego Kodeksu należy do ustawodawcy Kościoła Domowego albo jego prawnego następcy i wymaga promulgacji w sposób przewidziany prawem tego Kościoła. Może ona wyjaśniać znaczenie norm, usuwać wątpliwości i określać sposób ich stosowania. Prywatne objawienie może stanowić dla ustawodawcy źródło motywacji i treści interpretacji wewnętrznej, lecz samo przez się nie zastępuje aktu interpretacji ani jego promulgacji. Zasada ta jest analogiczna do rozróżnienia znanego kan. 16 KPK, ale nie stanowi interpretacji autentycznej KPK ani nie wiąże ustawodawcy Kościoła katolickiego.
 
 **Kan. 770.** W przypadku sprzeczności między wewnętrzną normą Kościoła Domowego a obowiązującym prawem państwowym lub prawem Kościoła katolickiego w sprawach należących do ich kompetencji, niniejsza Księga nie może być przedstawiana jako podstawa do naruszania tego prawa.
 
@@ -545,7 +549,8 @@ Niech sakramenty nie będą dla człowieka ciężarem, lecz darem; nie narzędzi
 1. Podstawą wykazu siedmiu sakramentów jest Księga XI, zwłaszcza kan. 508 oraz dawny tekst kan. 513¹. Po uporządkowaniu Księgi XI szczegółowe prawo sakramentalne znajduje się w niniejszej Księdze XIII.
 2. Księga XI zachowuje materię ustrojową obrządku domowego: jego odrębności, tytuły, urzędy, sposób ustanawiania posług i wewnętrzną strukturę. Księga XIII rozwija natomiast materię sakramentalną, bez powtarzania całych przepisów ustrojowych.
 3. Księga XIII przyjmuje jako normę wewnętrzną Kościoła Domowego, że kapłan ustanowiony z powołania Bożego i natchnienia Ducha Świętego, przyjęty na podstawie prawa Bożego, jest pełnoprawnym kapłanem tego obrządku; biskup tytularny jest pełnoprawnym biskupem w tym samym porządku.
-4. Powyższa norma wewnętrzna nie jest przedstawiana jako obowiązująca wykładnia KPK ani KKKW. Uznanie statusu przez Kościół katolicki lub inny Kościół podlega jego własnemu prawu i właściwej władzy.
+4. Norma wewnętrzna Kościoła Domowego może być autentycznie interpretowana przez jego własnego ustawodawcę lub następcę, z zachowaniem wymogu promulgacji. Kan. 16 KPK stanowi tu punkt odniesienia porównawczego, nie zaś źródło kompetencji do interpretowania prawa Kościoła katolickiego.
+5. Uznanie statusu biskupa tytularnego, święceń i szafarstwa przez Kościół katolicki lub inny Kościół podlega jego własnemu prawu i właściwej władzy.
 5. Odniesienia do KPK i KKKW w Księdze XI wymagają osobnej kontroli merytorycznej. Samo przytoczenie numeru kanonu nie potwierdza automatycznie wniosku wyprowadzonego w prawie wewnętrznym Kościoła Domowego.
 6. Księga XIII jest wewnętrznym opracowaniem teologiczno-prawnym Kościoła Domowego, a nie oficjalnym dokumentem Magisterium ani prawem kanonicznym Kościoła katolickiego.
 7. Księga XI pozostaje dokumentem ustrojowym i źródłowym w zakresie odrębności obrządku oraz wewnętrznego statusu posług. Szczegółowe prawo sakramentalne znajduje się w Księdze XIII.
