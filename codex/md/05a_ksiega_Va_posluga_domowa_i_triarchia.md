@@ -42,10 +42,10 @@
 4. Potomstwo jest pełnoprawnym członkiem rodziny, a nie przedmiotem władzy. Jego udział w praktykach religijnych i decyzjach dostosowuje się do wieku, rozeznania i osobistej gotowości.
 
 **Kan. 290.**
-1. Kapłaństwo domowe jest w Kościele Domowym nazwą wspólnej służby modlitwy, świadectwa, błogosławienia w znaczeniu modlitewnym, formacji i miłości bliźniego.
-2. Żadna osoba Triarchii nie jest właścicielem łaski ani nie może przypisywać sobie wyłącznej kontroli nad sumieniem pozostałych.
-3. W sprawach istotnych dla wspólnego życia duchowego należy wysłuchać Głowy Rodu, Małżonki i — stosownie do wieku — Potomstwa.
-4. W nagłej potrzebie każdy członek rodziny może podjąć niezbędne działanie służące ochronie życia, zdrowia i bezpieczeństwa, bez oczekiwania na zgodę pozostałych.
+1. Kapłaństwo domowe w Kościele Domowym jest nazwą wspólnej, kolegialnej służby modlitwy, świadectwa, błogosławienia w znaczeniu modlitewnym, formacji i miłości bliźniego, sprawowanej przez Triarchię Domową stosownie do właściwych ról, wieku i dojrzałości jej członków.
+2. Żadna z trzech osób Triarchii nie posiada wyłączności na uczestnictwo w tych wspólnych czynnościach kapłaństwa domowego, szafarstwa modlitewnego i błogosławieństw ani nie jest właścicielem łaski lub sumienia pozostałych osób. Norma ta nie znosi odrębnego sakramentu kapłaństwa, Bożego powołania i konsekracji ani urzędu i kompetencji określonych w innych księgach Kodeksu.
+3. Kolegialność Triarchii urzeczywistnia się przez wspólną modlitwę przed istotnymi decyzjami, wysłuchanie każdej osoby, wzajemne upominanie w duchu Ewangelii (por. Mt 18,15–17) oraz solidarną odpowiedzialność za dobro wspólnoty.
+4. W sprawach istotnych dla wspólnego życia duchowego należy wysłuchać Głowy Rodu, Małżonki i — stosownie do wieku — Potomstwa. W nagłej potrzebie każdy członek rodziny może podjąć niezbędne działanie służące ochronie życia, zdrowia i bezpieczeństwa, bez oczekiwania na zgodę pozostałych.
 
 **Kan. 291.**
 1. Małżonkowie wspierają się w modlitwie, wzajemnym uświęcaniu, wychowaniu potomstwa i trosce o dom.
