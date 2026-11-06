@@ -698,7 +698,7 @@
 
 **Kan. 80.** Przedmiotów kultowych nie wolno sprzedawać dla zysku jako rzekomo posiadających moc nadprzyrodzoną, używać do manipulacji, profanować ani traktować jak talizmanów. Nie mogą zastępować sakramentów.
 
-**Kan. 81.** W przypadku zużycia lub zniszczenia przedmiotu należy postąpić z szacunkiem i zgodnie z jego materiałem oraz miejscowym prawem. Nie wolno zatruwać środowiska ani stwarzać zagrożenia przez spalanie lub zakopywanie materiałów, które tego wymagającej utylizacji.
+**Kan. 81.** W przypadku zużycia lub zniszczenia przedmiotu należy postąpić z szacunkiem i zgodnie z jego materiałem oraz miejscowym prawem. Nie wolno zatruwać środowiska ani stwarzać zagrożenia przez spalanie lub zakopywanie materiałów, które wymagają specjalnej utylizacji.
 
 ---
 
