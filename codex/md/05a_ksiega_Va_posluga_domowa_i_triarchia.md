@@ -298,9 +298,10 @@
    3° wypowiedzieć prośbę do Boga;
    4° wykonać bezpieczny i dobrowolny gest;
    5° zakończyć modlitwę wspólnym „Amen”.
-2. Określenie „egzorcyzm błogosławieństwa” nie powinno być używane w znaczeniu egzorcyzmu większego ani jako twierdzenie o usuwaniu złych duchów mocą własnego urzędu. Zaleca się określenie „modlitwa błogosławieństwa” lub „modlitwa zawierzenia”.
-3. Żaden gest nie może być wykonywany wobec drugiej osoby bez jej zgody.
-4. Przedmioty używane podczas modlitwy należy dobierać i stosować w sposób bezpieczny.
+2. W typowym przebiegu wspólnej modlitwy Głowa Rodu może przewodniczyć modlitwie błogosławieństwa i wypowiadać modlitwę poświęcenia; Małżonka może przygotować i podać przedmioty lub materię używaną w modlitwie; Potomek może przyjąć błogosławieństwo i uczestniczyć w pokropieniu, stosownie do wieku, chęci i zgody. Role te mają charakter opisowy i służebny, mogą być dostosowane do okoliczności i nie tworzą obowiązku ani wyłączności.
+3. Określenia „egzorcyzm błogosławieństwa” nie używa się jako nazwy egzorcyzmu większego ani jako twierdzenia o usuwaniu złych duchów mocą własnego urzędu. Właściwe określenia to „modlitwa błogosławieństwa”, „modlitwa poświęcenia” lub „modlitwa zawierzenia”.
+4. Każdy członek Triarchii może prosić o błogosławieństwo i je przyjąć. Zaniedbanie lub odmowa udziału w błogosławieństwie nie podlega karze; może być przedmiotem dobrowolnej rozmowy i troski, bez przymusu.
+5. Żaden gest, dotyk, namaszczenie ani pokropienie nie może być wykonywane wobec drugiej osoby bez jej zgody. Przedmioty używane podczas modlitwy należy dobierać i stosować w sposób bezpieczny.
 
 **Kan. 314.**
 1. Każdy członek rodziny może prosić o modlitwę i błogosławieństwo dla siebie.
