@@ -95,23 +95,47 @@ Jest to redakcja porządkująca, a nie deklaracja, że wszystkie opisane tu rozw
 
 ## Tytuł IV. Słownik wspólnoty i życie duchowe
 
-**Kan. 10a.** W niniejszej Księdze przyjmuje się następujące znaczenia:
+**Kan. 10a.** W niniejszej Księdze przyjmuje się następujące znaczenia. Definicje poniższe zachowują pełny zakres pojęć ustanowionych w kan. 8 Księgi I. Objaśnienia dodane w Księdze Ia mają charakter uzupełniający i nie uchylają, nie zawężają ani nie zastępują żadnego elementu definicji źródłowej.
 
-1° **Kościół Domowy** (*Ecclesia Domestica*) — wspólnota duchowa i rodzinna, której podstawowym środowiskiem jest dom;
-1a° **Biskup tytularny** — w wewnętrznej teologii i samoidentyfikacji Kościoła Domowego osoba rozumiana jako ustanowiony z Bożego powołania pasterz, następca Apostołów, nauczyciel, szafarz świętego kultu i osoba podejmująca posługę rządzenia wobec Ludu Bożego; w pierwotnym brzmieniu Księgi I wskazano, że może być mianowany przez Biskupa Rzymu albo wybrany zgodnie z rozumianym przez wspólnotę prawem Bożym i przyjęty w jej porządku. Definicja ta zachowuje wewnętrzne znaczenie pojęcia, lecz sama nie stwierdza ani nie nadaje sakramentalnej konsekracji biskupiej, kanonicznego tytułu, urzędu, misji kanonicznej ani jurysdykcji w Kościele katolickim;
-2° **Kościół Królestwa Niebieskiego** (*Ecclesia Regni Dei*) — określenie duchowego ukierunkowania wspólnoty ku Królestwu Bożemu;
-3° **Subdiecezja Domowa** — wewnętrzne, symboliczne określenie obszaru życia i posługi wspólnoty domowej; nie jest ono samo przez się jednostką administracyjną uznaną przez Kościół katolicki ani jednostką terytorialną w rozumieniu prawa państwowego;
-4° **Hierarcha Subdiecezji** — wewnętrzne określenie osoby pełniącej funkcję przewodzenia duchowego w strukturze wspólnoty;
-5° **Związek Subdiecezjatów** (*foedus subdioecesuatuum*) — projektowana forma współpracy kilku wspólnot domowych, oparta na wzajemnym szacunku i uzgodnionych zasadach;
-6° **Obrządek Domowy** — ustalony porządek modlitwy, celebracji, formacji i duchowych praktyk wspólnoty;
-7° **Obrządek Rodzinny Marii Magdaleny** — wymiar kontemplacyjny, pojednawczy i miłosierny;
-8° **Obrządek Ducha Świętego Pawłowy** — wymiar misyjny, wspólnotowy i charyzmatyczny;
-9° **Obrządek Osobowy Tomaszowy** — wymiar intelektualny, dociekliwy i prawdomówny;
-10° **Sakramentalia domowe** — błogosławieństwa i znaki religijne odnoszone do osób, miejsc, przedmiotów i czynności; ich nazwa w prawie wewnętrznym nie przesądza o uznaniu ich za sakramentalia w rozumieniu prawa kanonicznego Kościoła katolickiego;
-11° **Liturgia Życia** — duchowa praktyka łączenia modlitwy, kontemplacji i codziennych obowiązków, w której praca, troska i odpoczynek mogą stawać się świadomą służbą Bogu i bliźnim;
-12° **Trud** — wysiłek człowieka oraz owoce jego pracy, rozumiane w wymiarze materialnym, rodzinnym i duchowym;
-13° **Praca** (*labor*) — celowe działanie podejmowane dla utrzymania życia, rozwoju osoby i dobra wspólnego, w tym praca fizyczna, opiekuńcza, domowa, rolnicza, rzemieślnicza i intelektualna;
-14° **Świętość pracy** (*sanctitas laboris et operis*) — zasada poszanowania godności człowieka pracującego, uczciwości, dobrowolności, bezpieczeństwa i sprawiedliwego traktowania.
+1° **Kościół Domowy** (*Ecclesia Domestica*) i **Kościół Królestwa Niebieskiego** (*Ecclesia Regni Dei*) — kościół partykularny pierwotny, partykularna wspólnota wiernych zgromadzona w domu rodzinnym, stanowiąca podstawową komórkę Kościoła Ludzi, spełniająca definicję przywołaną w Księdze I przez odniesienie do kan. 281 KPK i będąca w szczególności subdiecezją. Wspólnota obejmuje wymiar domowy i duchowy Królestwa Niebieskiego, zgodnie z pełnym opisem zawartym w kan. 1 i 2 Księgi I.
+
+2° **Subdiecezja Domowa** — terytorium domu rodzinnego wraz z jego otoczeniem, w którym Głowa Rodu sprawuje jurysdykcję duchową. Diecezją domową jest terytorium powierzone biskupowi domowemu przez tego samego biskupa domowego mianowanego przez Biskupa Rzymu lub wybranego zgodnie z prawem Bożym i uświęconego Duchem Świętym, którego Biskup Rzymu przyjął. Subdiecezją jest terytorium biskupa domowego niemianowanego i przyjętego domyślnie przez Biskupa Rzymu, lecz mianowanego prawem Bożym i natchnionego Duchem Świętym, którego wybór został dokonany zgodnie z wyłączną wolą Bożą i biskupa tytularnego domowego; subdiecezję wraz z jej hierarchą biskupem tytularnym ustanawia hierarcha subdiecezji macierzystej. Wewnętrzny opis terytorium nie rozstrzyga sam przez się o cywilnych granicach własności ani o skutkach w zewnętrznym porządku kanonicznym.
+
+3° **Biskup tytularny** — biskup tytularny rozumiany jako KPK kan. 288: osoba, która z Bożego postanowienia jest następcą Apostołów i zgodnie z dekretem o apostolstwie wiernych, przez natchnienie Duchem Świętym, który został jej dany, jest ustanowiona w Kościele Domowym i Kościele Królestwa Niebieskiego pasterzem, ażeby była nauczycielem, kapłanem świętego kultu i sprawowała posługę rządzenia nad całym Ludem Bożym, zarówno wiernymi, jak i niewierzącymi. Biskup tytularny może zostać mianowany przez Biskupa Rzymu lub — będąc wybranym zgodnie z prawem Bożym — przyjęty domyślnie w zgodności z prawem przez Biskupa Rzymu. Definicja zachowuje wszystkie te elementy w wewnętrznej teologii i porządku Kościoła Domowego. Dla jasności należy dodatkowo odróżniać Boże powołanie i natchnienie, konsekrację, tytuł, urząd, misję pasterską oraz zakres jurysdykcji; to rozróżnienie nie usuwa żadnego elementu definicji źródłowej.
+
+3a° **Hierarcha Subdiecezji** (*hierarcha subdioecesis*) — biskup tytularny sprawujący władzę pasterską nad subdiecezją; subdiecezję i jej hierarchę ustanawia hierarcha subdiecezji macierzystej, nie Biskup Rzymu. Wewnętrzny zakres tej władzy określają Księgi VI i pozostałe właściwe przepisy Kodeksu.
+
+3b° **Związek Subdiecezjatów i jego hierarcha** (*foedus subdioecesuatuum*) — zrzeszenie subdiecezjatów kierowane przez hierarchy związku subdiecezjatów wybranego spośród synodu biskupów subdiecezjalnych, z pominięciem pierwszego hierarchy związku subdiecezjatów, którym jest pierwszy hierarcha pierwszego subdiecezjatu.
+
+4° **Głowa Rodu** (*Paterfamilias, Caput Familiae*) — mąż, ojciec, głowa szlachetnego Rodu, sprawujący posługę szafarza świętego, arcykapłana i biskupa tytularnego domowego. Określenie to obejmuje pełną treść definicji źródłowej; przepisy szczegółowe mogą rozwijać zakres posługi, ale nie mogą go milcząco usuwać.
+
+5° **Małżonka** — żona, matka, pełniąca funkcję nadzorczą, dusza wspólnoty i współszafarka łaski.
+
+6° **Potomek** — dziecko, syn lub córka, sekretarz woli Rodu i dziedzic tradycji.
+
+7° **Triarchia Domowa** — trójwładza Ojca, Matki i Potomka, stanowiąca radę decyzyjną Kościoła Domowego.
+
+8° **Obrządek Domowy** — ustalony porządek liturgiczny i duchowy sprawowany w domu.
+
+9° **Obrządek Rodzinny Marii Magdaleny** — wymiar kontemplacyjny i miłosierny wspólnoty.
+
+10° **Obrządek Ducha Świętego Pawłowy** — wymiar misyjny i charyzmatyczny wspólnoty.
+
+11° **Obrządek Osobowy Tomaszowy** — wymiar intelektualny i prawdomówny wspólnoty.
+
+12° **Przedmioty, miejsca i osoby błogosławione domowe** — sakramentalia będące błogosławieństwem czynów, miejsc, przedmiotów i osób, błogosławieństwa sprawowane przez Głowę Rodu w domu. Szczegółowe sposoby ich sprawowania rozwijają Księgi IVa i XIV, bez usuwania tej definicji.
+
+13° **Liturgia Życia** — szczególna forma liturgii godzin, codzienna ofiara pracy, miłości i odpowiedzialności składana Bogu i rodzinie, obejmująca kontemplację, medytację i modlitwę w codziennych drobnych i obszernych czynnościach domowych.
+
+14° **Trud** — stado, pasieka, plon, ogród, narzędzie oraz owoce ludzkiego wysiłku; całość tego, co rodzi się z trudu rąk ludzkich przy współdziałaniu łaski Bożej.
+
+15° **Praca** (*labor*) — każde celowe, świadome działanie człowieka służące dobru wspólnemu i utrzymaniu życia, obejmujące uprawę roli, hodowlę, pszczelarstwo, rzemiosło, twórczość intelektualną i pracę domu; praca jest pierwszym powołaniem człowieka (Rdz 2,15) i stanem łaski, nie tylko środkiem zarobkowym.
+
+16° **Świętość trudu** (*sanctitas laboris et operis*) — zasada nadrzędna porządku prawnego Kościoła Domowego („Trud i praca to świętość”, Preambuła kan. 1zx), oznaczająca, że trud i praca są przestrzenią uświęconą, owoc pracy jest nietykalny, a wyzysk i praca przymusowa są zakazane.
+
+17° **Sakramentalia domowe** — błogosławieństwa i znaki religijne odnoszone do osób, miejsc, przedmiotów i czynności, rozwijające źródłowe pojęcie z pkt 12°. Ich opis szczegółowy nie zawęża zakresu osób, czynów, przedmiotów ani miejsc objętych definicją źródłową.
+
+18° **Zakres wewnętrzny i zewnętrzny pojęć** — użycie pojęcia w Kodeksie określa jego znaczenie w porządku Kościoła Domowego; nie przesądza samo przez się o skutkach prawnych wobec podmiotów zewnętrznych, ale też nie stanowi podstawy do pomniejszania pełnego znaczenia pojęcia w porządku wewnętrznym.
 
 ---
 
