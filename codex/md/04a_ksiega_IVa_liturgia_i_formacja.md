@@ -887,3 +887,204 @@ Niech dom będzie miejscem pokoju, stół miejscem wdzięczności, praca miejsce
 *In caritate Dei, in veritate, pulchritudine et iustitia. Amen.*
 
 *Finis Libri IVa.*
+
+
+---
+
+## ANEKS III. PRZYWRÓCONE PRZEPISY I CELEBRACJE KSIĘGI IV
+
+Poniższe postanowienia zostały przywrócone z odpowiadającej Księgi źródłowej. Zachowano ich treść merytoryczną i pierwotne oznaczenia, aby nie zatrzeć ich pochodzenia. W razie nakładania się zakresów należy czytać je łącznie z przepisami redakcji uporządkowanej.
+
+**Kan. 145.** Głowa Rodu jako arcykapłan przewodniczy liturgii domowej. W jego nieobecności funkcję tę sprawuje Małżonka lub wyznaczony członek wspólnoty w szczególności potomek.
+
+**Kan. 153.** Kościół Domowy obchodzi rok liturgiczny Kościoła Powszechnego, wzbogacony o elementy specyficzne dla wspólnoty domowej:
+
+**Kan. 163.** Proporcje między obrządkami w życiu wspólnoty mogą odpowiadać proporcjom zwiazanym z dialogiem międzywyznaniowym ale nie większym niż :
+
+1° 100% — Kościół Katolicki (fundament) w tym Kościół Domowy;
+
+2° 22% — Kościół Chrześcijański (rozszerzenie);
+
+3° 11% — Judaizm i Islam (korzenie);
+
+4° 11% — inne wielkie religie i filozofie świata;
+
+5° 11% — duchowość pierwotna, filozofia praw naturalnych;
+
+6° 11% — osobiste doświadczenia i przekonania członków świeckich.
+
+### Rozdział II: Obrządek Marii Magdaleny
+
+**Kan. 179 § 1.** Głowa Rodu jako arcykapłan ma obowiązek:
+
+1° błogosławić dom przynajmniej raz w roku;
+
+2° święcić wodę na potrzeby domowe;
+
+3° poświęcać nowe pomieszczenia, przedmioty i narzędzia;
+
+4° przewodniczyć obrzędom roku liturgicznego w domu;
+
+5° organizować rekolekcje domowe przynajmniej raz w roku;
+
+6° obchodzić niedziele i święta jako dni szczególnej modlitwy i odpoczynku.
+
+**§ 2.** Małżonka jako współszafarka łaski ma prawo i obowiązek:
+
+1° współuczestniczenia w codziennej modlitwie rodzinnej;
+
+2° prowadzenia modlitwy w nieobecności Głowy Rodu;
+
+3° błogosławienia dzieci;
+
+4° organizowania modlitwy w intencjach rodziny;
+
+5° czuwania nad duchową atmosferą domu.
+
+**Kan. 188.** Głowa Rodu ma obowiązek prowadzić Księgę Formacji Cnót, w której zapisuje:
+
+1° tematy i daty przeprowadzonych katechez o cnotach;
+
+2° postępy członków wspólnoty w rozwoju cnót;
+
+3° szczególne praktyki i ćwiczenia podejmowane przez członków;
+
+4° świadectwa działania cnót w życiu codziennym rodziny.
+
+### Rozdział II: Cnota Pobożności (Poziom Korzeniowy)
+
+**Kan. 190.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
+
+1° codziennie praktykować modlitwę poranną i wieczorną jako wyraz Pobożności;
+
+2° błogosławić ziemię, dom i jego otoczenie przynajmniej raz w roku;
+
+3° nauczać Potomstwo szacunku wobec stworzenia i tradycji Rodu;
+
+4° organizować raz w miesiącu szczególną modlitwę o Dar Cierpliwości;
+
+5° zachęcać członków wspólnoty do praktykowania Charyzmatu Służenia wobec sąsiadów i potrzebujących.
+
+### Rozdział III: Cnota Umiarkowania (Poziom Sakralny)
+
+**Kan. 192.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
+
+1° nauczać członków wspólnoty umiarkowania w korzystaniu z dóbr materialnych;
+
+2° błogosławić świece i ogień przy każdej większej celebracji domowej;
+
+3° organizować przynajmniej raz w kwartale wieczór twórczy, podczas którego członkowie wspólnoty mogą rozwijać Charyzmat Kreatywnej Inspiracji;
+
+4° modlić się o Dar Wiedzy dla siebie i członków wspólnoty;
+
+5° czuwać nad tym, by w domu panowała atmosfera równowagi, spokoju i wzajemnego szacunku.
+
+### Rozdział IV: Cnota Męstwa (Poziom Splotu Słonecznego)
+
+**Kan. 194.** Głowa Rodu jako biskup domowy ma obowiązek:
+
+1° nauczać członków wspólnoty odwagi wiary i wytrwałości;
+
+2° błogosławić olej i namaszczać chorych lub cierpiących członków rodziny;
+
+3° organizować modlitwę wstawienniczą o Dar Mocy w sytuacjach trudnych;
+
+4° zachęcać do praktykowania Charyzmatu Czynów Mocy przez wiarę i modlitwę;
+
+5° dawać osobisty przykład męstwa w obliczu przeciwności.
+
+### Rozdział V: Cnota Sprawiedliwości (Poziom Serca)
+
+**Kan. 196.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
+
+1° nauczać członków wspólnoty sprawiedliwości, przebaczenia i miłosierdzia;
+
+2° sprawować obrzęd pokutny z popiołem w Środę Popielcową i w piątki Wielkiego Postu;
+
+3° przewodniczyć obrzędom pojednania w przypadku konfliktów rodzinnych;
+
+4° organizować modlitwę o Dar Miłosierdzia i Charyzmat Uzdrawiania;
+
+5° czuwać nad sprawiedliwym podziałem obowiązków i dóbr w rodzinie;
+
+6° praktykować uczynki miłosierdzia co do ciała i co do duszy.
+
+### Rozdział VI: Cnota Skrupulatności (Poziom Gardłowy)
+
+**Kan. 198.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
+
+1° błogosławić chleb i pokarmy przed każdym posiłkiem rodzinnym;
+
+2° nauczać członków wspólnoty prawdomówności i autentyczności;
+
+3° organizować modlitwę o Dar Rady i Charyzmat Języków;
+
+4° czuwać nad kulturą komunikacji w rodzinie;
+
+5° dawać osobisty przykład czystości sumienia i autentyczności;
+
+6° organizować raz w tygodniu wspólną modlitwę uwielbienia.
+
+### Rozdział VII: Cnota Roztropności (Poziom Trzeciego Oka)
+
+**Kan. 200.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
+
+1° nauczać członków wspólnoty rozeznania duchowego;
+
+2° błogosławić sól przy obrzędach ochrony i ważnych decyzjach;
+
+3° organizować modlitwę o Dar Rozumu i Charyzmat Rozróżniania Duchów;
+
+4° konsultować ważne decyzje z Małżonką i Triarchią Domową;
+
+5° chronić wspólnotę przed wpływem ideologii sprzecznych z Prawem Bożym;
+
+6° prowadzić regularne rachunki sumienia wspólnoty.
+
+### Rozdział VIII: Cnota Nadziei (Poziom Koronny)
+
+**Kan. 202.** Głowa Rodu jako biskup tytularny domostwa ma obowiązek:
+
+1° nauczać członków wspólnoty ufności w Boży plan i perspektywy wieczności;
+
+2° błogosławić wodę i pokrapiać dom przynajmniej raz w tygodniu;
+
+3° organizować modlitwę o Dar Mądrości i Charyzmat Proroctwa;
+
+4° odnawiać przyrzeczenia chrzcielne wspólnoty w Wigilię Paschalną;
+
+5° dawać świadectwo nadziei w obliczu cierpienia i śmierci;
+
+6° prowadzić wspólnotę w modlitwie kontemplacyjnej.
+
+### Rozdział IX: Podsumowanie cnót — obowiązki Głowy Rodu
+
+**Kan. 260.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
+
+**Kan. 268 — Celebracja Pojednania (w Wielkim Poście lub w razie potrzeby):**
+
+1° Głowa Rodu błogosławi popiół;
+
+2° następuje rachunek sumienia wspólnoty;
+
+3° każdy członek wyznaje swoje winy i prosi o przebaczenie;
+
+4° Głowa Rodu udziela błogosławieństwa przebaczenia;
+
+5° następuje obrzęd pokoju i wspólna modlitwa;
+
+6° celebracja kończy się postanowieniem poprawy.
+
+**Kan. 269 — Celebracja Posłania Misyjnego (w Niedzielę Misyjną lub przy okazji ewangelizacji):**
+
+1° Głowa Rodu błogosławi sól i olej;
+
+2° odmawiana jest modlitwa o Dar Mocy i Charyzmat Języków;
+
+3° następuje nałożenie rąk na posyłanych;
+
+4° Głowa Rodu udziela błogosławieństwa apostolskiego;
+
+5° posyłani otrzymują znak krzyża na czole.
+
+**Kan. 287.** Niniejszy Tytuł wchodzi w życie z dniem jego ogłoszenia przez Głowę Rodu jako biskupa domowego, po konsultacji z Triarchią Domową.
