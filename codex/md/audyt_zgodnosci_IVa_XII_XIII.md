@@ -121,3 +121,23 @@ Po dodaniu kan. 16¹–16⁴ Księga IVa ma opis trzech brakujących błogosław
 **Nie wprowadzono zmian do Księgi XII ani XIII.** W zakresie objętym audytem nie stwierdzono potrzeby ich nowelizacji. Księga IVa wymaga jedynie pamiętania, że jej macierz sakramentalna jest analogią katechetyczną, a nie aktem udzielania sakramentów.
 
 *Status: audyt wykonany; trzy błogosławieństwa odtworzone jako rekonstrukcja redakcyjna.*
+
+
+## UZGODNIENIE KATALOGÓW CNÓT, DARÓW I CHARYZMATÓW — KSIĘGI IVa I XII
+
+### Wynik porównania
+
+1. **Cnoty:** katalog obu Ksiąg jest zgodny: Pobożność (*Pietas*), Umiarkowanie (*Temperantia*), Męstwo (*Fortitudo*), Sprawiedliwość (*Iustitia*), Skrupulatność / troska sumienia (*Sollicitudo*), Roztropność (*Prudentia*), Nadzieja (*Spes*). Rozwinięto definicje w kan. 36–42 Księgi IVa, aby zachować pełniejsze ujęcie Księgi XII (kan. 529³).
+2. **Dary:** aktualny katalog jest zgodny: Mądrość (*Sapientia*), Rozum (*Intellectus*), Rada (*Consilium*), Miłosierdzie (*Misericordia*), Moc (*Fortitudo*), Dociekliwość (*Investigatio*), Cierpliwość (*Patientia*). Definicje i rozwinięcia Księgi IVa (kan. 55) uzupełniono o pełne znaczenia podane w Księdze XII (kan. 529⁴).
+3. **Charyzmaty:** katalog jest zgodny: Proroctwo (*Prophetia*), Rozróżnianie Duchów (*Discretio Spirituum*), Języki (*Linguae*), Uzdrawianie (*Sanatio*), Czyny Mocy (*Virtutes*), Kreatywna Inspiracja (*Inspiratio Creativa*), Służenie (*Diakonia*). Rozwinięcia kan. 60 Księgi IVa uzupełniono o pełne definicje z kan. 529⁵ Księgi XII.
+4. **Macierz:** obie Księgi zachowują ten sam układ siedmiu powiązań: Pobożność—Ziemia—Cierpliwość—Służenie; Umiarkowanie—Świeca i ogień—Dociekliwość—Kreatywna Inspiracja; Męstwo—Olej—Moc—Czyny Mocy; Sprawiedliwość—Popiół—Miłosierdzie—Uzdrawianie; Skrupulatność—Chleb—Rada—Języki; Roztropność—Sól—Rozum—Rozróżnianie Duchów; Nadzieja—Woda—Mądrość—Proroctwo.
+5. **Kolejność:** katalog charyzmatów pozostaje w kolejności Proroctwo → Służenie, natomiast macierz biegnie odwrotnie, od Służenia do Proroctwa. Jest to zamierzone rozróżnienie kolejności wykazu i przyporządkowania.
+6. **Warianty historyczne:** dawne kanony Księgi IV, zachowane w IVa w pełnym brzmieniu, zawierają określenia „Wiedza” (*Scientia*) oraz „Pobożność” w dawnym zestawieniu Darów. Nie usunięto ich z tekstu źródłowego. Kan. 250 §§2–5 IVa wyjaśnia, że są to warianty wcześniejszej redakcji, a aktualny Dar przyporządkowany Umiarkowaniu to Dociekliwość (*Investigatio*); Pobożność pozostaje cnotą, a Cierpliwość siódmym Darem.
+7. **Błąd redakcyjny Księgi XII:** w kan. 549²² §2 występowało słowo „Wiedza” w opisie przyporządkowania Kreatywnej Inspiracji. Zastąpiono je aktualną nazwą „Dociekliwość”. W kan. 549²² §3 poprawiono także odesłanie do macierzy: właściwe odesłanie prowadzi do kan. 529⁵, nie do kan. 535.
+8. **Rozróżnienie porządków:** cnota jest trwałą dyspozycją moralną, Dar jest darem Ducha Świętego, a charyzmat służy określonej posłudze i dobru wspólnoty. Żadna z tych kategorii nie jest urzędem, rangą ani dowodem wyższości osoby.
+
+### Zakres zmian
+
+- Księga IVa: rozwinięto definicje cnót (kan. 36–42), pełne opisy Darów (kan. 55) i charyzmatów (kan. 60); dodano normę interpretacyjną w kan. 250 §§2–5, która zachowuje historyczne warianty źródłowe bez mieszania ich z aktualnym katalogiem.
+- Księga XII: poprawiono rozbieżność „Wiedza” → „Dociekliwość” w kan. 549²² §2 oraz błędne odesłanie do macierzy w §3.
+- Nie usunięto żadnej pozycji katalogu ani historycznego brzmienia dawnych przepisów.
