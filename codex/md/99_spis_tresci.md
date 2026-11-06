@@ -13,6 +13,7 @@
 | [`05_ksiega_V_prawo_sakramentalne.md`](./05_ksiega_V_prawo_sakramentalne.md) | Księga V — Posługa kapłańska i współudział Małżonki i Potomka | kan. 289–318 |
 | [`06_ksiega_VI_subdiecezja_i_patriarchat.md`](./06_ksiega_VI_subdiecezja_i_patriarchat.md) | Księga VI — Subdiecezja domowa i patriarchat | kan. 319–344 |
 | [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 345–379 |
+| [`07a_ksiega_VIIa_przyjecie_oddalenie_i_ochrona_dziedzictwa.md`](./07a_ksiega_VIIa_przyjecie_oddalenie_i_ochrona_dziedzictwa.md) | Księga VIIa — Przyjęcie, oddalenie i ochrona dziedzictwa subdiecezji domowej (uporządkowana redakcja Księgi VII) | kan. 345–379 |
 | [`08_ksiega_VIII_przekazanie_hierarchi.md`](./08_ksiega_VIII_przekazanie_hierarchi.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
@@ -147,7 +148,16 @@
 - **Tytuł VIII: INSYGNIA I TYTUŁY HIERARCHY ZWIĄZKU SUBDIECEZJATÓW** — kan. 340–341
 - **Tytuł IX: HIERARCHA SYNODALNY KOŚCIOŁÓW DOMOWYCH ORAZ PRZEPISY KOŃCOWE** — kan. 342–344
 
-## Księga VII — Przyjęcie biskupa i oddalenie
+## Księga VII — Przyjęcie biskupa i oddalenie (tekst źródłowy)
+
+## Księga VIIa — Przyjęcie, oddalenie i ochrona dziedzictwa subdiecezji domowej
+- **Tytuł I: PRZYJĘCIE DO KOMUNII I UZNANIE POSŁUGI** — kan. 345–349
+- **Tytuł II: ODDALENIE, ROZDZIELNOŚĆ SKUTKÓW I PRAWO DO OBRONY** — kan. 350–357
+- **Tytuł III: ZACHOWANIE I OCHRONA DÓBR PO ODDALENIU** — kan. 358–367
+- **Tytuł IV: OCHRONA OBRZĄDKU, ARCHIWÓW, PRAW OSOBISTYCH I DOBREGO IMIENIA** — kan. 368–373
+- **Tytuł V: PRZEPISY KOŃCOWE I ZASADY WYKŁADNI** — kan. 374–379
+
+## Księga VII — dawny układ źródłowy (zestawienie tytułów)
 - **Tytuł I: PRZYJĘCIE BISKUPA TYTULARNEGO SUBDIECEZJALNEGO DO KOŚCIOŁA KATOLICKIEGO Z POSŁUGĄ, MAJĄTKIEM I OBRZĄDKIEM** — kan. 345–350
 - **Tytuł II: WYŁĄCZNA KOMPETENCJA BISKUPA RZYMSKIEGO W PRZEDMIOCIE ODDALENIA** — kan. 351–358
 - **Tytuł III: SKUTKI ODDALENIA ORAZ ZACHOWANIE WŁADANIA DOBRAMI DOCZESNYMI, DUCHOWYMI I INTELEKTUALNYMI** — kan. 359–367
