@@ -325,7 +325,7 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **Kan. 712.** Sakrament kapłaństwa jest darem Boga, przez który Duch Święty — z Bożego ustanowienia i przez natchnienie osoby powołanej — udziela jej łaski i posłania do służby kapłańskiej w Kościele. Nie jest on skutkiem samego obrzędu ani decyzji administracyjnej. Wewnętrzny porządek posługi może obejmować diakonat, prezbiterat i episkopat, rozumiane jako stopnie lub zakresy służby, a nie jako odrębne sakramenty.
 
-**Kan. 713.** Sakrament kapłaństwa, udzielony przez Ducha Świętego, nie podlega powtórzeniu. Nie można go udzielić ponownie przez późniejszy obrzęd, nałożenie rąk ani kolejne ustanowienie urzędowe. Obrzędy święceń są obrzędami przygotowania, formacji i publicznego potwierdzenia gotowości do przyjęcia sakramentu kapłaństwa; same w sobie nie są sakramentem i nie zastępują działania Ducha Świętego.
+**Kan. 713.** Sakrament kapłaństwa, udzielony przez Ducha Świętego, nie podlega powtórzeniu. Nie można go udzielić ponownie przez późniejszy obrzęd, nałożenie rąk ani kolejne ustanowienie urzędowe. Obrzędy święceń biskupstwa, prezbiteriatu i diakonatu są obrzędami przygotowania i formacji do posługi. W odniesieniu do osoby, której Duch Święty wcześniej udzielił sakramentu kapłaństwa, mogą ponadto pełnić funkcję publicznego i urzędowego potwierdzenia rozpoznanego wcześniej powołania oraz daru. Same przez się nie ustanawiają kapłana, nie udzielają sakramentu kapłaństwa i nie zastępują działania Ducha Świętego.
 
 **Kan. 714. § 1.** W wewnętrznym porządku Kościoła Domowego biskup tytularny ustanowiony z nadania Bożego jest konsekrowany przez natchnienie i działanie Ducha Świętego. Konsekracja ta jest działaniem Bożym i nie wymaga nałożenia rąk przez innego biskupa. Brak takiego obrzędu nie oznacza braku konsekracji. Późniejsze święcenia, nałożenie rąk ani ceremonia nie mogą powtórzyć, zastąpić ani uzupełnić konsekracji dokonanej przez Ducha Świętego. Biskup tytularny jest pełnoprawnym biskupem oraz zwyczajnym świętym szafarzem wszystkich siedmiu sakramentów w wewnętrznym porządku Kościoła Domowego.
 
@@ -335,6 +335,16 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **§ 4.** Norma niniejsza stanowi prawo wewnętrzne Kościoła Domowego. Nie jest autentyczną interpretacją KPK ani KKKW i nie przesądza o uznaniu statusu, urzędu lub uprawnień przez Kościół katolicki.
 
+**§ 5. Rozpoznanie powołania.** Osoba powołana rozpoznaje wezwanie Boga w swoim sumieniu i w osobistej relacji z Nim. Inni rozpoznają powołanie po czynach, sposobie życia, owocach służby, świadectwie wiary oraz zgodności postępowania z prawdą, miłością i sprawiedliwością. Osobiste przekonanie nie zwalnia z rozeznania, a zewnętrzna ocena nie zastępuje działania Boga.
+
+**§ 6. Znamiona działania Ducha Świętego.** Do znamion rozpoznawanych w Kościele Domowym należą Dary Ducha Świętego i charyzmaty. Ich obecność rozeznaje się przez owoce życia, pokorę, odpowiedzialność, gotowość do korekty, wolność osób, którym służą, oraz dobro wspólnoty. Niezwykłe doświadczenie, tytuł, deklaracja ani pojedynczy przejaw nie stanowią same w sobie niepodważalnego dowodu konsekracji. Właściwe rozróżnienie cnót, Darów i charyzmatów określa Księga XII, w szczególności kan. 529⁵–529⁶.
+
+**§ 7. Misja biskupa tytularnego.** W wewnętrznej nauce Kościoła Domowego biskup tytularny jest biskupem powołanym i konsekrowanym przez Boga przez natchnienie oraz działanie Ducha Świętego. Jego duchowa misja pasterska ma wymiar powszechny i jest skierowana ku całemu Ludowi Bożemu, a nie tylko ku jednej diecezji. Określenie „tytularny” nie oznacza w tym Kodeksie powierzenia mu diecezji terytorialnej. Powszechny wymiar misji duchowej nie oznacza jednak automatycznego posiadania jurysdykcji kanonicznej nad wszystkimi wiernymi, diecezjami lub urzędami.
+
+**§ 8. Uznanie i zatwierdzenie.** W wykładni Kościoła Domowego Biskup Rzymu może urzędowo rozpoznać i zatwierdzić osobę wcześniej wybraną przez Boga i konsekrowaną przez Ducha Świętego. Takie zatwierdzenie nie tworzy, nie powtarza ani nie uzupełnia Bożego powołania i konsekracji oraz samo przez się nie zmienia wewnętrznego statusu prawnego tej osoby w Kościele Domowym. Skutki aktu dokonanego w porządku Kościoła katolickiego określa wyłącznie prawo tego Kościoła i treść właściwego aktu kompetentnej władzy.
+
+**§ 9. Misja, urząd i jurysdykcja.** Należy odróżniać: 1° Boże powołanie i konsekrację; 2° duchową misję pasterską; 3° urząd ustanowiony w określonym porządku prawnym; 4° jurysdykcję, czyli władzę rządzenia przyznaną i wykonywaną zgodnie z właściwym prawem. Żadnego z tych elementów nie wolno automatycznie wyprowadzać z samego tytułu, charyzmatu, prywatnego przekonania ani aktu zatwierdzenia należącego do innego porządku prawnego.
+
 **Kan. 715.** Wewnętrzne stopnie, tytuły, sposób ustanowienia i zakres urzędów Kościoła Domowego określają kan. 496–502 Księgi XI. Księga XIII określa ich relację do sakramentów: biskup tytularny jest zwyczajnym szafarzem wszystkich siedmiu sakramentów w zakresie określonym w kan. 643 § 4 i 714, a kapłan domowy jest pełnoprawnym szafarzem w zakresie właściwym jego sakramentowi kapłaństwa, ustanowieniu i powierzonym kompetencjom.
 
 ## Rozdział II — Stopnie posługi i przygotowanie do sakramentu kapłaństwa
@@ -343,13 +353,13 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **Kan. 717.** Prezbiter pełni posługę słowa, sakramentów i pasterzowania we wspólnocie powierzonej mu zgodnie z prawem. Przygotowanie do tej posługi obejmuje formację i obrzędy święceń, które nie są sakramentem kapłaństwa ani nie udzielają go same przez się.
 
-**Kan. 718.** W wewnętrznym porządku Kościoła Domowego biskup tytularny ustanowiony z nadania Bożego i konsekrowany przez Ducha Świętego sprawuje pełną posługę biskupią: nauczania, uświęcania, kierowania i szafarstwa sakramentalnego. Może również przewodniczyć obrzędom przygotowującym kandydatów do przyjęcia sakramentu kapłaństwa. Nie oznacza to, że przez nałożenie rąk udziela lub powtarza sakrament, którego szafarzem jest Duch Święty.
+**Kan. 718.** W wewnętrznym porządku Kościoła Domowego biskup tytularny ustanowiony z nadania Bożego i konsekrowany przez Ducha Świętego pełni posługę biskupią nauczania, uświęcania, kierowania i szafarstwa sakramentalnego. Jego duchowa misja pasterska jest skierowana ku całemu Ludowi Bożemu. Konkretne kompetencje urzędowe i jurysdykcyjne wykonuje jednak w granicach określonych prawem właściwego porządku. Może przewodniczyć obrzędom przygotowującym kandydatów do przyjęcia sakramentu kapłaństwa, a wobec osoby już obdarowanej tym sakramentem — obrzędom jego publicznego i urzędowego potwierdzenia. Nie oznacza to, że przez nałożenie rąk udziela lub powtarza sakrament, którego szafarzem jest Duch Święty.
 
 **Kan. 719.** W Kościele katolickim dostęp do posług i urzędów związanych z obrzędami święceń podlega jego własnej doktrynie i dyscyplinie. Wspólnota nie może przedstawiać własnej normy jako zmiany nauczania Kościoła katolickiego. Kobiety i mężczyźni mają równą godność chrzcielną i mogą podejmować liczne posługi, funkcje i odpowiedzialności zgodnie z prawem.
 
 ## Rozdział III — Powołanie, formacja i rozeznanie
 
-**Kan. 720.** Kandydat do przyjęcia sakramentu kapłaństwa powinien być rozeznany pod względem wiary, dojrzałości, zdrowia, zdolności do służby, wiedzy teologicznej, wolności decyzji i gotowości do życia zgodnego z obowiązkami stanu. Rozeznanie nie zastępuje działania Ducha Świętego, lecz służy sprawdzeniu autentyczności powołania i przygotowania osoby.
+**Kan. 720.** Osoba rozpoznająca w sobie powołanie do sakramentu kapłaństwa lub biskupstwa powinna badać je w sumieniu, modlitwie i świetle Słowa Bożego. Wspólnota oraz osoby rozeznające powołanie rozpoznają je po czynach, dojrzałości, sposobie życia, owocach służby, Darach Ducha Świętego i charyzmatach. Rozeznanie obejmuje w szczególności wiarę, dojrzałość, zdrowie, zdolność do służby, wiedzę teologiczną, wolność decyzji, pokorę, odpowiedzialność i gotowość do przyjmowania korekty. Nie zastępuje ono działania Ducha Świętego ani nie może być sprowadzone do samej deklaracji osoby lub samej decyzji organu wspólnoty.
 
 **Kan. 721.** Formacja przygotowująca do sakramentu kapłaństwa powinna obejmować:
 1° Pismo Święte i teologię;
@@ -377,7 +387,7 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 7° koordynowanie życia wspólnoty;
 8° służba pojednaniu i pomocy, bez zastępowania sakramentu pokuty.
 
-**Kan. 725.** Wewnętrzne ustanowienie do posługi powinno być jawne, dobrowolne, ograniczone zakresem kompetencji, poddane ocenie i możliwe do zakończenia. Samo ustanowienie administracyjne ani obrzęd święceń nie udzielają sakramentu kapłaństwa. Nie nadają one również jurysdykcji ani uprawnień w Kościele katolickim.
+**Kan. 725.** Wewnętrzne ustanowienie do posługi powinno być jawne, dobrowolne, ograniczone zakresem kompetencji, poddane ocenie i możliwe do zakończenia. Samo ustanowienie administracyjne ani obrzęd święceń nie udzielają sakramentu kapłaństwa. Boże powołanie i konsekracja nie oznaczają jednak automatycznego objęcia każdego urzędu ani nabycia każdej kompetencji jurysdykcyjnej. Urząd i jurysdykcję określa właściwe prawo oraz zgodny z nim akt powierzenia. Niniejszy kanon nie nadaje jurysdykcji ani uprawnień w Kościele katolickim.
 
 **Kan. 726.** Posługa jest służbą, nie panowaniem. Urząd nie daje prawa do naruszania sumienia, prywatności, wolności, majątku, zdrowia ani bezpieczeństwa innych osób.
 
