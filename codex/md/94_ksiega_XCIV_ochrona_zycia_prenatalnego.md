@@ -52,7 +52,7 @@ Niniejsza księga wyraża wewnętrzne zasady Kościoła Domowego dotyczące ochr
 
 ### Kan. 5. Masa urodzeniowa dziecka
 
-§ 1. Masa 600 gramów może być istotną informacją kliniczną, lecz nie stanowi uniwersalnej granicy zdolności dziecka do życia poza organizmem matki.
+§ 1. Masa 600 gramów może być istotną informacją kliniczną i postulowanym w niniejszej tradycji punktem odniesienia dla szczególnej troski o możliwość żywego urodzenia, lecz nie stanowi uniwersalnej granicy zdolności dziecka do życia poza organizmem matki ani samodzielnej podstawy do wywołania porodu.
 
 § 2. O rokowaniu wcześniaka decyduje wiele czynników, w szczególności:
 1. wiek ciążowy ustalony na podstawie najlepszych dostępnych danych;
@@ -117,9 +117,13 @@ Niniejsza księga wyraża wewnętrzne zasady Kościoła Domowego dotyczące ochr
 
 § 3. Samo ryzyko utraty ciąży, nieosiągnięcie określonej masy płodu, niezgoda na proponowane leczenie ani decyzja niezgodna z oczekiwaniami wspólnoty religijnej nie stanowią samodzielnej podstawy do przymusowego zamkniętego leczenia.
 
-§ 4. Przymusowe badanie, hospitalizacja lub leczenie mogą być stosowane wyłącznie w granicach obowiązującego prawa, przez uprawnione osoby, z zachowaniem wymaganych procedur, kontroli i prawa do zaskarżenia.
+§ 4. Jeżeli zachowanie lub stan zdrowia kobiety stwarza konkretne, rzeczywiste i poważne zagrożenie dla życia lub zdrowia innej osoby, należy niezwłocznie rozpoznać zagrożenie i uruchomić środki ochronne przewidziane prawem. Jeżeli zagrożenie dotyczy dziecka prenatalnego, jego życie i zdrowie podlegają ochronie wskazanej w art. 1 ustawy o planowaniu rodziny.
 
-§ 5. Wewnętrzne prawo Kościoła Domowego nie może nakazywać lekarzowi, rodzinie ani władzom publicznym pozbawienia kobiety wolności z powodu zagrożenia ciąży.
+§ 5. Samo stwierdzenie, że zachowanie albo stan kobiety może zagrażać dziecku prenatalnemu, nie przesądza jeszcze o dopuszczalności przymusowego badania, hospitalizacji lub leczenia. Konieczna jest konkretna podstawa ustawowa, spełnienie jej przesłanek, ocena proporcjonalności oraz zastosowanie właściwej procedury. Nie wolno przyjmować bez wyraźnej podstawy prawnej, że pojęcie „innej osoby” w każdej ustawie obejmuje dziecko prenatalne w identyczny sposób.
+
+§ 6. Przymusowe badanie, hospitalizacja lub leczenie mogą być stosowane wyłącznie w granicach obowiązującego prawa, przez uprawnione osoby, z zachowaniem wymaganych procedur, kontroli i prawa do zaskarżenia. Przymus nie może być ustanawiany przez wspólnotę religijną ani stosowany jako kara za zachowanie oceniane moralnie.
+
+§ 7. Wewnętrzne prawo Kościoła Domowego nie może nakazywać lekarzowi, rodzinie ani władzom publicznym pozbawienia kobiety wolności bez podstawy ustawowej. Może natomiast zobowiązywać wspólnotę do podjęcia działań pomocowych, wezwania właściwych służb i niezwłocznego zapewnienia profesjonalnej opieki.
 
 ### Kan. 11. Wsparcie zamiast karania
 
@@ -185,17 +189,23 @@ Niniejsza księga wyraża wewnętrzne zasady Kościoła Domowego dotyczące ochr
 
 ### Kan. 16. Zasady prawa polskiego
 
-§ 1. Warunki dopuszczalności przerwania ciąży w Polsce określa przede wszystkim ustawa z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży, z uwzględnieniem obowiązującego brzmienia przepisów i orzecznictwa.
+§ 1. Warunki dopuszczalności przerwania ciąży w Polsce określa przede wszystkim ustawa z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży, z uwzględnieniem obowiązującego brzmienia przepisów, orzecznictwa i oficjalnych wytycznych.
 
-§ 2. Ustawa przewiduje przesłankę zagrożenia życia lub zdrowia kobiety ciężarnej oraz przesłankę uzasadnionego podejrzenia, że ciąża powstała w wyniku czynu zabronionego. Nie jest zatem prawdą, że polskie prawo dopuszcza przerwanie ciąży wyłącznie jako działanie lecznicze wobec dziecka.
+§ 2. Art. 38 Konstytucji Rzeczypospolitej Polskiej stanowi, że Rzeczpospolita Polska zapewnia każdemu człowiekowi prawną ochronę życia. Art. 1 ustawy o planowaniu rodziny stanowi, że każda istota ludzka ma od chwili poczęcia przyrodzone prawo do życia, a życie i zdrowie dziecka poczętego pozostają pod ochroną prawa.
 
-§ 3. Ustawa przewiduje dokonywanie przerwania ciąży przez lekarza w szpitalu w przypadkach wskazanych w przepisach, z zachowaniem warunków ustawowych, w tym wymogów dotyczących zgody, z wyjątkami przewidzianymi prawem.
+§ 3. Prawną podstawę ochrony prenatalnej należy wiązać z przyrodzonym prawem do życia oraz przepisami chroniącymi życie i zdrowie od poczęcia. Nie należy utożsamiać zdolności prawnej ze zdolnością do czynności prawnych ani wyprowadzać zakresu ochrony prenatalnej z samego braku tej drugiej.
 
-§ 4. Kodeks karny przewiduje odpowiedzialność za przerwanie ciąży z naruszeniem warunków ustawowych, pomoc w takim działaniu oraz przerwanie ciąży bez zgody kobiety.
+§ 4. W aktualnym brzmieniu art. 4a ustawy przewiduje przesłankę zagrożenia życia lub zdrowia kobiety ciężarnej oraz przesłankę uzasadnionego podejrzenia, że ciąża powstała w wyniku czynu zabronionego. Ustawa wskazuje, że przerwania ciąży dokonuje lekarz, a w przypadkach określonych w przepisie — w szpitalu. Wystąpienie przesłanek stwierdza co do zasady inny lekarz niż dokonujący przerwania ciąży, z wyjątkiem bezpośredniego zagrożenia życia kobiety.
 
-§ 5. Lekarz ma obowiązek udzielić pomocy, gdy zwłoka mogłaby spowodować niebezpieczeństwo utraty życia, ciężkiego uszkodzenia ciała lub pogorszenia zdrowia. Obowiązek ten nie oznacza jednak, że każda interwencja kończąca ciążę jest automatycznie dopuszczalna albo że każda interwencja jest automatycznie zakazana.
+§ 5. Ustawa nie posługuje się odrębnymi kategoriami „aborcji żywej” i „aborcji martwej” ani nie określa wprost jednej techniki zakończenia ciąży właściwej dla wszystkich przypadków. Z samego braku szczegółowego opisu techniki nie wolno wyprowadzać wniosku, że każda metoda jest dozwolona albo że każda metoda jest zakazana. Kwalifikacja konkretnej procedury wymaga łącznej oceny przepisów, wskazań medycznych, celu i przewidywalnych skutków działania oraz standardów wykonywania zawodu lekarza.
 
-§ 6. Niniejsza księga nie zastępuje opinii prawnej w konkretnej sprawie ani nie ustanawia nowych przesłanek dopuszczalności przerwania ciąży w prawie polskim.
+§ 6. Jeżeli zakończenie ciąży jest konieczne, lekarz powinien ocenić, czy w danych okolicznościach możliwe jest doprowadzenie do urodzenia żywego dziecka i zapewnienie mu opieki neonatologicznej, a także czy takie postępowanie nie zwiększa nieproporcjonalnie ryzyka dla kobiety lub dziecka. Ustawa nie ustanawia ogólnego obowiązku oczekiwania do 25. tygodnia ciąży ani do osiągnięcia masy 600 gramów.
+
+§ 7. Decyzja o metodzie i czasie interwencji należy do osób wykonujących świadczenie zdrowotne w granicach ich kompetencji, po rozpoznaniu konkretnego zagrożenia i przy zachowaniu praw pacjentki. W sytuacji bezpośredniego zagrożenia życia nie wolno opóźniać koniecznej pomocy.
+
+§ 8. Kodeks karny przewiduje odpowiedzialność za przerwanie ciąży z naruszeniem warunków ustawowych, pomoc w takim działaniu oraz przerwanie ciąży bez zgody kobiety. W konkretnym przypadku kwalifikacja prawna wymaga analizy czynu, okoliczności, przesłanek ustawowych i aktualnego stanu prawnego.
+
+§ 9. Niniejsza księga nie zastępuje opinii prawnej w konkretnej sprawie ani nie ustanawia nowych przesłanek dopuszczalności przerwania ciąży.
 
 ### Kan. 17. Zgoda i prawa pacjentki
 
