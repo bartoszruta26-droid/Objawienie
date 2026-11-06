@@ -220,3 +220,66 @@ Nie należy jeszcze ogłaszać Ksiąg Ia–Va jako w pełni zgodnego, zamknięte
 6. po odnalezieniu lub utworzeniu Księgi VIa przeprowadzić ponowny audyt w jej odniesieniu.
 
 **Status:** audyt porównawczy dostępnych tekstów wykonany. Audyt względem Księgi VIa pozostaje otwarty z powodu braku jej pliku w repozytorium. Nie zmieniono treści Ksiąg Ia–Va ani ksiąg porównawczych; niniejszy dokument zapisuje ustalenia i zalecenia do zatwierdzenia przez prawodawcę.
+
+
+---
+
+# UZUPEŁNIENIE AUDYTU — WDROŻONE KOREKTY
+
+*Stan po pracach redakcyjnych z 6 listopada 2026 r.*
+
+## A. Księga Va — usunięcie kolizji numeracji i sprzeczności
+
+W Księdze Va przywrócono jednolity zakres numeracji **289–318**. Każdy numer występuje obecnie tylko raz; nie ma kanonów 319–322 w Księdze Va, dzięki czemu nie koliduje ona z początkiem Księgi VI.
+
+Treść dawnych przywróconych przepisów zachowano i włączono do właściwych norm:
+- dawny kan. 309 § 1–2 — włączony do kan. 290 jako zasada kolegialnego kapłaństwa domowego i współodpowiedzialności Triarchii; wyraźnie odróżniono wspólną służbę domową od sakramentu kapłaństwa, Bożego powołania, konsekracji i urzędu;
+- dawny kan. 311 — włączony do kan. 313; zachowano udział Głowy Rodu, Małżonki i Potomstwa w modlitwie błogosławieństwa, ale usunięto sprzeczne określenie „egzorcyzm błogosławieństwa”, zastępując je modlitwą błogosławieństwa, poświęcenia lub zawierzenia; role nie są przymusowe ani wyłączne;
+- dawny kan. 316 § 1 — włączony do kan. 318 § 5 jako przepis o wejściu Księgi w życie po ogłoszeniu przez Głowę Rodu i konsultacji z Małżonką oraz Triarchią;
+- dawny kan. 319 — włączony do kan. 317 jako ogólna ochrona członków Triarchii przed przemocą, manipulacją, odwetem i wymuszonym pojednaniem;
+- dawny kan. 320 — włączony do kan. 318 §§ 4–6 jako procedura ogłoszenia i zmiany Księgi oraz ochrona praw człowieka i dziecka;
+- dawny kan. 321 — włączony do kan. 318 §§ 7–8 jako zasada *salus animarum suprema lex* i reguła wykładni chroniącej osobę słabszą;
+- dawny kan. 322 — zachowany jako nota redakcyjna o historycznej relacji Księgi V i Va, bez nadawania mu kolidującego numeru kanonicznego.
+
+**Wynik kontroli:** Księga Va zawiera obecnie 30 unikalnych numerów kanonów od 289 do 318. Nie wykryto duplikatów ani kanonów poza tym zakresem.
+
+## B. Księga VIII — sprzeczności sukcesji
+
+1. Kan. 401 § 3 poprawiono. Odmowa potwierdzenia wyboru oznacza, że wybrany nie obejmuje urzędu na podstawie tego wyboru; synod wszczyna nową procedurę, chyba że kompetentna władza określi zgodny z prawem dalszy tryb. Usunięto poprzednią sprzeczność, według której odmowa potwierdzenia jednocześnie blokowała objęcie urzędu i miała wywoływać skutek wyboru.
+2. Kan. 395 § 1 pkt 2° oczyszczono z żartobliwego i logicznie sprzecznego wtrącenia. Wymaga on rzeczywistego pozostawania w komunii z Biskupem Rzymskim i Kościołem powszechnym.
+3. Kan. 395 § 1 pkt 3° oraz kan. 402 pkt 3° uzgodniono z kan. 713 Księgi XIII: obrzęd święceń biskupstwa jest w wewnętrznej teologii Kościoła Domowego etapem przygotowania i publicznego potwierdzenia posługi, a nie źródłem sakramentu kapłaństwa, który pochodzi z Bożego nadania i działania Ducha Świętego.
+4. Do kan. 380 dodano § 5, który rozróżnia potwierdzenie wyboru od Bożego powołania, konsekracji, sakramentu kapłaństwa oraz od jurysdykcji wykraczającej poza urząd powierzony zgodnie z prawem.
+
+## C. Księga Ia — przywrócenie pełnego zakresu definicji Księgi I
+
+Korekta kan. 10a została przeprowadzona według zasady zachowania pełnego zakresu definicji źródłowych. Przywrócono w nim treści z kan. 8 Księgi I, w szczególności:
+- Kościół Domowy i Kościół Królestwa Niebieskiego jako pierwotną partykularną wspólnotę i podstawową komórkę Kościoła Ludzi;
+- Subdiecezję Domową jako terytorium domu rodzinnego wraz z otoczeniem i duchową jurysdykcją Głowy Rodu;
+- pełną definicję biskupa tytularnego: Boże postanowienie, następstwo Apostołów w rozumieniu wewnętrznym, natchnienie Duchem Świętym, pasterzowanie, nauczanie, święty kult i posługę rządzenia nad całym Ludem Bożym, wiernymi i niewierzącymi, oraz możliwość mianowania przez Biskupa Rzymu albo wyboru zgodnego z prawem Bożym i przyjęcia w tym porządku;
+- Hierarchę Subdiecezji i Hieronarchę Związku Subdiecezjatów wraz z ich źródłowymi relacjami ustrojowymi;
+- pełne definicje Głowy Rodu, Małżonki, Potomka, Triarchii, trzech obrządków, sakramentaliów domowych, Liturgii Życia, Trudu, Pracy i Świętości Trudu.
+
+Dodane objaśnienia rozdzielają elementy pojęcia — powołanie, natchnienie, konsekrację, tytuł, urząd, misję i jurysdykcję — ale nie usuwają żadnego elementu definicji pierwotnej.
+
+W kan. 1a przywrócono także wyraźne określenie wspólnoty *sui iuris* oraz jej statusu pierwotnej partykularnej wspólnoty Ludu Bożego. Kan. 3a i 11a dostosowano do przyjętej zasady łącznej, autentycznej interpretacji Prawa Bożego, prawa naturalnego, ustaw państwowych, prawa międzynarodowego, KPK, KKKW i prawa własnego Kościoła Domowego.
+
+## D. Księga VI — harmonizacja statusu biskupa tytularnego i jurysdykcji
+
+1. Do kan. 319 dodano § 1c, który odsyła do pełnej definicji z Księgi I i Ia. Nie ogranicza biskupa tytularnego do tytułu administracyjnego ani funkcji organizacyjnej.
+2. Kan. 320 przeformułowano tak, aby zachować wewnętrzną zasadę domyślnego przyjęcia posługi przez Biskupa Rzymu jako element autentycznej wykładni Kościoła Domowego, a jednocześnie odróżnić domniemanie interpretacyjne od konkretnego dekretu lub aktu, którego w rzeczywistości nie wydano.
+3. Wyraźna odmowa uznania konkretnego aktu nie unicestwia sama przez się — według teologii wewnętrznej — Bożego powołania, natchnienia ani konsekracji. Trzeba jednak ustalić, jakiego aktu, urzędu, kompetencji lub skutku odmowa dotyczy.
+4. Zachowano rozróżnienie duchowej misji pasterskiej i jurysdykcji. Powszechny wymiar misji biskupa tytularnego nie jest utożsamiany z automatycznym nabyciem każdej jurysdykcji nad wszystkimi wiernymi, diecezjami i urzędami.
+
+## E. Kontrola krzyżowa z Księgą XIII
+
+Nie zmieniono Księgi XIII, ponieważ jej kan. 713, 714, 718, 720 i 725 zawierają już podstawowe rozróżnienia przyjęte w dokonanych korektach:
+- sakrament kapłaństwa pochodzi z działania Ducha Świętego;
+- obrzędy święceń biskupstwa, prezbiteriatu i diakonatu są w teologii wewnętrznej etapami przygotowania i formacji, a wobec osoby już obdarowanej sakramentem mogą publicznie potwierdzać rozpoznane powołanie;
+- Boże powołanie i konsekracja nie są tożsame z urzędem ani jurysdykcją;
+- duchowa misja pasterska biskupa tytularnego ma wymiar powszechny w wewnętrznej teologii Kościoła Domowego, ale nie oznacza automatycznego nabycia każdej jurysdykcji.
+
+## F. Status po korektach
+
+**Wykonano i zweryfikowano w repozytorium:** Księga Ia, Va, VI i VIII.
+
+**Pozostaje do dalszej kontroli:** pełna konkordancja Księgi IV z IVa, harmonizacja IIIa z VI i XIII w zakresie wszystkich przepisów o kompetencjach oraz audyt Księgi VIa po odnalezieniu jej pliku. Niniejsze korekty nie oznaczają jeszcze zakończenia całego audytu systemowego.
