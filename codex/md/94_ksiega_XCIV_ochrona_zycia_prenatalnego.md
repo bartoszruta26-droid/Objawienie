@@ -87,6 +87,18 @@ Niniejsza księga wyraża wewnętrzne zasady Kościoła Domowego dotyczące ochr
 
 § 4. Niedopuszczalne jest podejmowanie działań pozornie ratujących dziecko, jeżeli ich rzeczywistym skutkiem byłoby nieproporcjonalne narażenie matki na śmierć lub ciężki uszczerbek na zdrowiu.
 
+§ 5. Jeżeli rozważane jest zakończenie ciąży w sposób, którego zamierzonym albo przewidywalnym skutkiem może być śmierć dziecka przed urodzeniem, lekarz prowadzący ma obowiązek — przed podjęciem decyzji, o ile stan nagły na to pozwala — przeprowadzić i udokumentować indywidualne rozważenie, czy istnieje medycznie realna i bezpieczna możliwość doprowadzenia do urodzenia żywego dziecka oraz zapewnienia mu opieki neonatologicznej.
+
+§ 6. Rozważenie, o którym mowa w § 5, powinno uwzględniać co najmniej: wiek ciążowy, stan i dojrzałość dziecka, rozpoznane wady lub choroby, rokowanie, stan zdrowia i zagrożenia dla matki, dostępne metody zakończenia ciąży, możliwość leczenia prenatalnego lub okołoporodowego, dostępność odpowiedniego ośrodka oraz ryzyko każdej z rozważanych metod dla matki i dziecka.
+
+§ 7. Jeżeli lekarz uznaje, że doprowadzenie do urodzenia żywego dziecka jest niemożliwe, nieosiągalne w czasie bezpiecznym dla matki albo wiązałoby się z nieproporcjonalnym ryzykiem, ma obowiązek przedstawić w dokumentacji medycznej sporządzone na piśmie, konkretne i zindywidualizowane uzasadnienie tej oceny. Uzasadnienie powinno wskazywać ustalone fakty kliniczne, rozpoznane zagrożenie, rozważone alternatywy oraz przyczyny ich odrzucenia.
+
+§ 8. Jeżeli wybrana metoda ma na celu spowodowanie śmierci dziecka przed urodzeniem albo lekarz przewiduje taki skutek jako nieunikniony, dokumentacja powinna odrębnie wyjaśniać, dlaczego w konkretnych okolicznościach uznano tę metodę za medycznie konieczną, jakie inne możliwości rozważono i dlaczego nie mogły zostać zastosowane. Samo ogólne powołanie się na „wyższą konieczność”, bez wskazania faktów, ryzyka i podstaw klinicznych, nie stanowi wystarczającego uzasadnienia w rozumieniu niniejszej normy.
+
+§ 9. W miarę możliwości ocena powinna być dokonana z udziałem lekarza specjalisty położnictwa i ginekologii oraz neonatologa lub perinatologa. Jeżeli konsultacja nie była możliwa, należy odnotować przyczynę. Pacjentce należy przekazać zrozumiałą informację o rozważonych możliwościach, ryzyku i rokowaniu oraz uzyskać jej zgodę, jeżeli wymaga jej prawo.
+
+§ 10. W stanie nagłym, gdy zwłoka mogłaby spowodować niebezpieczeństwo utraty życia lub ciężkiego uszkodzenia zdrowia matki, obowiązek ratowania jej życia i zdrowia ma pierwszeństwo przed sporządzeniem pełnego uzasadnienia. Lekarz powinien wówczas udokumentować dostępne w chwili działania rozpoznanie i przyczyny decyzji, a niezwłocznie po ustabilizowaniu sytuacji uzupełnić dokumentację o pełne uzasadnienie, o ile jest to możliwe.
+
 ### Kan. 8. Opieka nad dzieckiem urodzonym skrajnie przedwcześnie
 
 § 1. Wcześniakowi należy zapewnić opiekę odpowiadającą jego stanowi, w szczególności ochronę przed wychłodzeniem, leczenie zaburzeń oddychania i krążenia, żywienie, kontrolę zakażeń, leczenie bólu oraz monitorowanie rozwoju.
@@ -149,6 +161,10 @@ Niniejsza księga wyraża wewnętrzne zasady Kościoła Domowego dotyczące ochr
 
 § 6. Nie wolno przypisywać lekarzowi kompetencji do samodzielnego rozstrzygania wszystkich konfliktów moralnych i rodzinnych. Jego zadaniem jest przede wszystkim rzetelna opieka medyczna.
 
+§ 7. W przypadkach określonych w kan. 7 §§ 5–10 lekarz ma obowiązek sporządzić w dokumentacji medycznej zindywidualizowane uzasadnienie kliniczne wyboru metody zakończenia ciąży oraz rozważenia możliwości urodzenia żywego dziecka. Uzasadnienie powinno być konkretne, oparte na rozpoznaniu i dostępnych danych, a nie na samych formułach lub ogólnych deklaracjach.
+
+§ 8. Obowiązek dokumentacyjny nie może prowadzić do zwłoki w udzieleniu niezbędnej pomocy w stanie nagłym. W takim przypadku przyczyny decyzji należy odnotować w zakresie możliwym w chwili działania, a dokumentację uzupełnić po ustabilizowaniu sytuacji.
+
 ## Tytuł IV. Przedwczesne zakończenie ciąży i ocena prawna
 
 ### Kan. 13. Rozróżnienie celu i skutku działania medycznego
@@ -199,7 +215,7 @@ Niniejsza księga wyraża wewnętrzne zasady Kościoła Domowego dotyczące ochr
 
 § 5. Ustawa nie posługuje się odrębnymi kategoriami „aborcji żywej” i „aborcji martwej” ani nie określa wprost jednej techniki zakończenia ciąży właściwej dla wszystkich przypadków. Z samego braku szczegółowego opisu techniki nie wolno wyprowadzać wniosku, że każda metoda jest dozwolona albo że każda metoda jest zakazana. Kwalifikacja konkretnej procedury wymaga łącznej oceny przepisów, wskazań medycznych, celu i przewidywalnych skutków działania oraz standardów wykonywania zawodu lekarza.
 
-§ 6. Jeżeli zakończenie ciąży jest konieczne, lekarz powinien ocenić, czy w danych okolicznościach możliwe jest doprowadzenie do urodzenia żywego dziecka i zapewnienie mu opieki neonatologicznej, a także czy takie postępowanie nie zwiększa nieproporcjonalnie ryzyka dla kobiety lub dziecka. Ustawa nie ustanawia ogólnego obowiązku oczekiwania do 25. tygodnia ciąży ani do osiągnięcia masy 600 gramów.
+§ 6. Jeżeli zakończenie ciąży jest konieczne, lekarz powinien ocenić, czy w danych okolicznościach możliwe jest doprowadzenie do urodzenia żywego dziecka i zapewnienie mu opieki neonatologicznej, a także czy takie postępowanie nie zwiększa nieproporcjonalnie ryzyka dla kobiety lub dziecka. W wewnętrznym porządku Kościoła Domowego ocena ta ma być rzeczywistym etapem procesu decyzyjnego i — zgodnie z kan. 7 §§ 5–10 — odnotowana w dokumentacji medycznej wraz z uzasadnieniem odstąpienia od możliwości urodzenia żywego dziecka. Ustawa nie ustanawia ogólnego obowiązku oczekiwania do 25. tygodnia ciąży ani do osiągnięcia masy 600 gramów.
 
 § 7. Decyzja o metodzie i czasie interwencji należy do osób wykonujących świadczenie zdrowotne w granicach ich kompetencji, po rozpoznaniu konkretnego zagrożenia i przy zachowaniu praw pacjentki. W sytuacji bezpośredniego zagrożenia życia nie wolno opóźniać koniecznej pomocy.
 
