@@ -253,46 +253,69 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 ---
 
-# TYTUŁ VI — NAMASZCZENIE CHORYCH: UMOCNIENIE W SŁABOŚCI
+# TYTUŁ VI — NAMASZCZENIE CHORYCH: UMOCNIENIE, UZDROWIENIE I MISTYCZNE ODRODZENIE
 
-## Rozdział I — Znaczenie sakramentu
+## Rozdział I — Znaczenie i cel namaszczenia
 
-**Kan. 700.** Namaszczenie chorych jest sakramentem umocnienia, pocieszenia i łaski dla wiernego dotkniętego poważną chorobą lub podeszłym wiekiem. Nie jest wyłącznie sakramentem umierających i nie należy odkładać go do ostatnich chwil życia.
+**Kan. 700.** Namaszczenie chorych jest sakramentem umocnienia, pocieszenia i łaski dla wiernego dotkniętego poważną chorobą, osłabieniem lub podeszłym wiekiem. Nie jest wyłącznie sakramentem umierających i nie należy odkładać go do ostatnich chwil życia. W wewnętrznej tradycji Kościoła Domowego sakrament ten może być otoczony rozbudowaną drogą modlitwy, pojednania, błogosławieństwa i mistycznego odrodzenia.
 
-**Kan. 701.** Sakrament ten łączy chorego z modlitwą Kościoła, umacnia jego ufność w Bogu, przynosi pociechę w cierpieniu, odpuszczenie grzechów, jeśli chory nie mógł go otrzymać przez sakrament pokuty, oraz może przynieść poprawę zdrowia, jeśli służy to zbawieniu człowieka.
+**Kan. 701.** Namaszczenie łączy chorego z modlitwą wspólnoty, umacnia ufność w Bogu i przynosi pociechę w cierpieniu. Właściwa mu łaska może obejmować odpuszczenie grzechów, jeżeli chory nie mógł otrzymać go przez sakrament pokuty, oraz umocnienie w chorobie. Nie stanowi gwarancji fizycznego uzdrowienia ani nie zastępuje leczenia.
 
-**Kan. 702.** Namaszczenie nie jest gwarancją fizycznego uzdrowienia. Brak poprawy stanu zdrowia nie świadczy o braku wiary, winie chorego ani nieskuteczności modlitwy wspólnoty.
+**Kan. 702.** Brak poprawy stanu zdrowia nie świadczy o braku wiary, winie chorego ani nieskuteczności modlitwy. Nikt nie może obiecywać pewnego uzdrowienia, obwiniać chorego za utrzymywanie się choroby ani nakłaniać go do przerwania leczenia, rehabilitacji, przyjmowania leków lub psychoterapii.
 
-## Rozdział II — Szafarz i znak sakramentalny
+## Rozdział II — Szafarz, olej i granice obrzędu
 
-**Kan. 703.** W wewnętrznym porządku Kościoła Domowego pełnoprawnym szafarzem namaszczenia chorych jest biskup tytularny; może on powierzyć tę posługę kapłanowi domowemu w granicach prawa wewnętrznego. W Kościele katolickim szafarstwo tego sakramentu podlega odrębnym normom.
+**Kan. 703.** W wewnętrznym porządku Kościoła Domowego pełnoprawnym szafarzem namaszczenia chorych jest biskup tytularny; może on powierzyć tę posługę kapłanowi domowemu w granicach prawa wewnętrznego. W Kościele katolickim szafarstwo tego sakramentu podlega odrębnym normom prawa kanonicznego.
 
-**Kan. 704.** Olej używany do namaszczenia powinien być pobłogosławiony zgodnie z normami właściwego Kościoła. W Kościele łacińskim olej chorych jest zwykle poświęcany przez biskupa podczas Mszy Krzyżma; prawo przewiduje również określone sytuacje, w których kapłan może go pobłogosławić.
+**Kan. 704.** Olej używany do namaszczenia sakramentalnego powinien być pobłogosławiony zgodnie z normami właściwego Kościoła. W Kościele łacińskim olej chorych jest zwykle poświęcany przez biskupa podczas Mszy Krzyżma; prawo przewiduje również określone sytuacje, w których może go pobłogosławić kapłan. Wewnętrzny obrzęd Kościoła Domowego nie może być przedstawiany jako poświęcenie oleju dokonane w imieniu Kościoła katolickiego, jeżeli nie zachowano jego prawa.
 
-**Kan. 705.** Namaszczenie udzielone przez biskupa tytularnego lub uprawnionego kapłana domowego, zgodnie z materią, formą i obrzędem ustanowionym w prawie Kościoła Domowego, jest sakramentem w wewnętrznym porządku tej wspólnoty. Nie należy utożsamiać tego wewnętrznego rozstrzygnięcia z orzeczeniem o ważności sakramentu w Kościele katolickim.
+**Kan. 705.** Namaszczenie udzielone przez szafarza Kościoła Domowego zgodnie z materią, formą i obrzędem ustanowionym w jego prawie jest sakramentem w wewnętrznym porządku tej wspólnoty. Rozstrzygnięcie wewnętrzne nie jest orzeczeniem o ważności sakramentu w Kościele katolickim. Należy wyraźnie odróżniać sakramentalne namaszczenie chorych od dodatkowych modlitw, błogosławieństw i namaszczeń symbolicznych.
 
-## Rozdział III — Osoby, którym udziela się sakramentu
+## Rozdział III — Osoby, przygotowanie i troska o chorego
 
 **Kan. 706.** Namaszczenia można udzielić wiernemu, który z powodu choroby lub starości znajduje się w poważnym niebezpieczeństwie. Sakrament można powtórzyć, jeżeli chory po wyzdrowieniu ponownie ciężko zachoruje albo jeśli w tej samej chorobie stan ulegnie znacznemu pogorszeniu.
 
-**Kan. 707.** Nie należy udzielać sakramentu osobie, która trwa w oczywistym uporze w grzechu ciężkim bez oznak nawrócenia; ocenę należy jednak prowadzić roztropnie, z uwzględnieniem stanu świadomości i możliwości chorego, bez osądzania jego wnętrza.
+**Kan. 707.** Przygotowanie do obrzędu uwzględnia stan zdrowia, świadomość, wolę i możliwości chorego. Spowiedź, rozmowa, modlitwa i pozostałe elementy drogi mogą być skrócone, rozłożone na kilka spotkań albo pominięte, jeżeli wymaga tego stan chorego. Nie wolno opóźniać koniecznej pomocy medycznej ani obciążać chorego obowiązkiem wykonania wszystkich części obrzędu.
 
-**Kan. 708.** W razie nagłej choroby, wypadku lub pogorszenia stanu zdrowia należy niezwłocznie wezwać pomoc medyczną i, jeśli chory tego pragnie, kapłana. Modlitwa nie zastępuje pogotowia, leczenia, leków ani opieki paliatywnej.
-
-## Rozdział IV — Duszpasterstwo chorych
+**Kan. 708.** W razie nagłej choroby, wypadku lub pogorszenia stanu zdrowia należy niezwłocznie wezwać odpowiednią pomoc medyczną i — jeśli chory tego pragnie — szafarza. Modlitwa, błogosławieństwo i namaszczenie nie zastępują pogotowia, diagnozy, leczenia, leków ani opieki paliatywnej.
 
 **Kan. 709.** Troska o chorego obejmuje:
-1° obecność i wysłuchanie;
+1° obecność, wysłuchanie i poszanowanie jego decyzji;
 2° wezwanie odpowiedniej pomocy medycznej;
-3° poszanowanie decyzji chorego i jego godności;
-4° pomoc w przyjęciu sakramentów, jeśli tego pragnie;
-5° wsparcie rodziny i opiekunów;
-6° ochronę przed samotnością, zaniedbaniem i przemocą;
+3° pomoc w przyjęciu sakramentów, jeśli chory tego pragnie;
+4° wsparcie rodziny i opiekunów;
+5° ochronę przed samotnością, zaniedbaniem i przemocą;
+6° poszanowanie prywatności, granic ciała i prawa do odmowy dotyku;
 7° towarzyszenie także wtedy, gdy uzdrowienie nie następuje.
 
-**Kan. 710.** Chory nie jest ciężarem ani osobą mniej wartościową. Nie wolno przypisywać jego cierpieniu ukrytej winy, nakazywać odstawienia leków, odradzać konsultacji medycznej ani obiecywać pewnego uzdrowienia.
+**Kan. 710.** Chory nie jest ciężarem ani osobą mniej wartościową. Nie wolno przypisywać jego cierpieniu ukrytej winy, nakazywać odstawienia leków, odradzać konsultacji medycznej ani uzależniać pomocy od udziału w obrzędzie.
 
-**Kan. 711.** Namaszczenie chorych może duchowo poprzedzać drogę odnowienia i powstania człowieka po kryzysie, opisaną w Księdze XII jako mistyczna rezurekcja. Nie jest jednak jej warunkiem w sensie sakramentalnym ani automatyczną przyczyną poprawy zdrowia.
+**Kan. 711.** Wewnętrzna droga namaszczenia może być przeżywana jako przygotowanie do mistycznej rezurekcji opisanej w Księdze XII, kan. 533, oraz jako otwarcie na siedem sposobów działania miłości Bożej z kan. 534 tej Księgi. Rezurekcja oznacza w tym ujęciu duchowe odrodzenie; nie jest obietnicą wskrzeszenia fizycznego ani automatycznym skutkiem namaszczenia.
+
+## Rozdział IV — Stopnie drogi namaszczenia i odrodzenia
+
+**Kan. 711¹. § 1.** Wewnętrzna celebracja i towarzysząca jej formacja mogą obejmować dziewięć stopni. Są one uporządkowaną drogą duszpasterską, modlitewną i katechetyczną, a nie dziewięcioma odrębnymi sakramentami ani warunkami ważności sakramentu namaszczenia chorych.
+
+**§ 2.** Stopnie drogi są następujące:
+1° **Spowiedź — wyznanie prawdy:** dobrowolne wyznanie grzechów, błędów, zaniedbań i ciężarów sumienia przed uprawnionym szafarzem sakramentu pokuty, z zachowaniem tajemnicy spowiedzi. Jeżeli chory nie może mówić, należy uszanować jego możliwości i nie wymuszać wyznania.
+2° **Wyjaśnienie zniesienia grzechu — przywrócenie nadziei:** objaśnienie nauki Księgi XII, zwłaszcza kan. 518, że zdanie „grzech został zniesiony” oznacza zniesienie logiki ostatecznego potępienia człowieka i otwarcie drogi miłosierdzia. Nie oznacza uznania każdego czynu za dobry, zaprzeczenia krzywdzie ani uchylenia odpowiedzialności i obowiązku naprawienia szkody.
+3° **Pokuta — odpowiedź i naprawa:** przyjęcie odpowiedniej, możliwej do wykonania pokuty oraz podjęcie naprawy wyrządzonego zła, o ile jest to możliwe i bezpieczne. Pokuta nie może szkodzić choremu, opóźniać leczenia ani przyjmować postaci upokorzenia, przemocy lub przymusu.
+4° **Eucharystia — komunia z Chrystusem:** uczestnictwo w Eucharystii i, jeśli osoba jest do tego właściwie przygotowana oraz może ją przyjąć, przyjęcie Komunii Świętej. Eucharystia pozostaje odrębnym sakramentem; nie jest materią ani formą namaszczenia chorych. Jeżeli stan chorego uniemożliwia przyjęcie Komunii, nie stanowi to przeszkody do udzielenia namaszczenia.
+5° **Odpuszczenie grzechów — słowo miłosierdzia:** w sakramencie pokuty uprawniony szafarz wypowiada formułę rozgrzeszenia po wyznaniu grzechów i spełnieniu warunków tego sakramentu. Jeżeli chory nie może przystąpić do spowiedzi, należy postępować zgodnie z właściwym prawem i nie symulować rozgrzeszenia. Namaszczenie chorych ma własną łaskę, w tym możliwość odpuszczenia grzechów w sytuacji, gdy chory nie mógł otrzymać go przez sakrament pokuty.
+6° **Błogosławieństwo siedmiu czakr i kończyn:** modlitwa błogosławieństwa obejmująca siedem symbolicznych centrów ciała oraz kończyny, jako znak powierzenia Bogu całej osoby — jej myśli, uczuć, działania, ruchu i zdolności służenia. Wewnętrzny obrzęd może posługiwać się nazwami i symboliką siedmiu czakr przyjętymi w formacji Kościoła Domowego. Nie należy przedstawiać tej symboliki jako nauki dogmatycznej Kościoła katolickiego ani jako diagnozy medycznej. Gesty wykonuje się bezpiecznie, za zgodą chorego i bez wymuszania dotyku.
+7° **Namaszczenie olejem świętym:** właściwy obrzęd namaszczenia chorych olejem pobłogosławionym zgodnie z prawem danego porządku kościelnego, z modlitwą o umocnienie, pocieszenie i łaskę. Dodatkowe symboliczne użycie oleju w praktyce domowej należy wyraźnie odróżnić od sakramentalnego namaszczenia.
+8° **Namaszczenie i siedem rezurekcji ciała, rozumu i ducha:** modlitwa o odnowienie całego człowieka, obejmującego cielesność, poznanie i życie duchowe, połączona z rozważeniem siedmiu sposobów mistycznego odrodzenia z Księgi XII, kan. 533: przebudzenia sumienia (*experrectio conscientiae*), skruchy i zwrotu ku Bogu (*contritio et conversio*), uzdrowienia zranienia (*sanatio vulneris*), uwolnienia od więzów (*liberatio*), pojednania i naprawienia krzywdy (*reconciliatio et reparatio*), odzyskania godności i powołania (*restitutio dignitatis et vocationis*) oraz życia odnowionego w miłości (*vita nova in caritate*). Są to wymiary duchowego odrodzenia, które mogą zachodzić równolegle i w różnym tempie; nie oznaczają siedmiu gwarantowanych uzdrowień ciała ani zastąpienia terapii.
+9° **Namaszczenie i siedem sposobów miłości Bożej:** modlitwa końcowa, która powierza chorego jednej miłości Boga, rozważanej w siedmiu działaniach wymienionych w Księdze XII, kan. 534: miłości stwarzającej (*Caritas creans*), opatrznościowej (*Caritas providens*), odkupieńczej (*Caritas redimens*), powołującej (*Caritas vocans*), usprawiedliwiającej (*Caritas iustificans*), uświęcającej (*Caritas sanctificans*) i uwielbiającej (*Caritas glorificans*). Nie są to siedem odrębnych miłości ani siedem źródeł, lecz siedem sposobów opisu działania jednej miłości Bożej.
+
+**§ 3.** Dziewięć stopni nie musi być wykonywanych podczas jednego spotkania ani w podanej kolejności czasowej. Ich kolejność porządkuje treść formacji i modlitwy, nie ustanawia bezwzględnego porządku udzielania sakramentów. W szczególności Eucharystia, pokuta i namaszczenie chorych pozostają odrębnymi sakramentami, każdy z własnymi warunkami i obrzędem.
+
+**§ 4.** W nagłej sytuacji szafarz udziela sakramentu zgodnie z właściwym obrzędem, bez zwłoki i bez wymagania wcześniejszego przejścia wszystkich stopni. Nie wolno odmawiać namaszczenia dlatego, że chory nie może się wyspowiadać, przyjąć Komunii, wykonać gestów ani uczestniczyć w pełnej formacji.
+
+**Kan. 711².** Błogosławieństwo siedmiu czakr i kończyn jest w tym porządku modlitwą o integralne dobro człowieka. Nie stanowi manipulacji energią, diagnozy choroby ani obietnicy skutku fizjologicznego. Nie wolno uciskać, masować, nakłuwać ani smarować miejsc chorych bez zgody osoby i bez uwzględnienia zaleceń medycznych. W razie bólu, urazu, zaburzeń czucia lub ograniczeń ruchowych gest należy zastąpić modlitwą bez dotyku.
+
+**Kan. 711³.** Siedem rezurekcji oraz siedem sposobów miłości Bożej należy przytaczać zgodnie z treścią Księgi XII. Nie wolno łączyć ani zamieniać tych dwóch odrębnych serii. Pierwsza opisuje drogę mistycznego odrodzenia człowieka, druga — siedem działań jednej miłości Bożej. Ich zastosowanie do ciała, rozumu i ducha ma charakter modlitewno-formacyjny, a nie medyczny ani gwarantujący nadzwyczajny skutek.
+
+**Kan. 711⁴.** Po zakończeniu obrzędu wspólnota zapewnia choremu dalszą opiekę, możliwość przyjęcia zaleconego leczenia, odpoczynek, pomoc w codziennych czynnościach i wsparcie duchowe zgodne z jego wolą. Owoców namaszczenia nie mierzy się natychmiastowym ustąpieniem objawów, lecz także umocnieniem, pociechą, odzyskiwaniem nadziei, godności i więzi.
 
 ---
 
