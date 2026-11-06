@@ -214,13 +214,13 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 6° wykonywania szafarstwa siedmiu sakramentów zgodnie z Księgą XIII.
 
+**§ 4.** Na potrzeby wykładni wewnętrznej biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym jest tym samym urzędem biskupim, o którym mowa w niniejszym kanonie jako o biskupie uświęconym Duchem Świętym (subdiecezjalnym), z tym że tytuł tytularny może istnieć także bez objęcia konkretnej subdiecezji. Zakres jego szafarstwa sakramentalnego określają łącznie kan. 500 i Księga XIII.
+
 **Kan. 501 § 1.** Biskup uświęcony Duchem Świętym (subdiecezjalny) może dążyć do uznania jego statusu lub święceń biskupich przez Kościół katolicki, zgodnie z przepisami Księgi IX niniejszego Kodeksu i prawem właściwym dla Kościoła, do którego uznania się ubiega. Samo ubieganie się o uznanie nie zawiesza ani nie warunkuje jego urzędu i kompetencji w wewnętrznym porządku Kościoła Domowego.
 
 **§ 2.** Przyjęcie sakramentalnych święceń biskupich z rąk biskupa nie jest warunkiem sprawowania urzędu biskupa tytularnego lub subdiecezjalnego w wewnętrznym porządku Kościoła Domowego. Nie oznacza to, że urząd wewnętrzny jest równoznaczny ze święceniami uznawanymi przez Kościół katolicki.
 
 **§ 3.** Biskup wyświęcony rękami biskupa, który jednocześnie sprawuje funkcję w Kościele Domowym, zachowuje pełnię władzy wynikającej ze święceń oraz władzę jurysdykcyjną wynikającą z niniejszego Kanonu.
-
-**§ 4.** Na potrzeby wykładni wewnętrznej biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym jest tym samym urzędem biskupim, o którym mowa w niniejszym kanonie jako o biskupie uświęconym Duchem Świętym (subdiecezjalnym), z tym że tytuł tytularny może istnieć także bez objęcia konkretnej subdiecezji. Zakres jego szafarstwa sakramentalnego określają łącznie kan. 500 i Księga XIII.
 
 **Kan. 502.** Biskup uświęcony Duchem Swięttm (subdiecezjalny) może być:
 
