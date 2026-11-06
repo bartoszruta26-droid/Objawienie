@@ -514,7 +514,7 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **Kan. 770.** W przypadku sprzeczności między wewnętrzną normą Kościoła Domowego a obowiązującym prawem państwowym lub prawem Kościoła katolickiego w sprawach należących do ich kompetencji, niniejsza Księga nie może być przedstawiana jako podstawa do naruszania tego prawa.
 
-**Kan. 771.** Księga XIII jest wewnętrznym dokumentem teologiczno-formacyjnym i normatywnym projektu Kościoła Domowego. Nie jest promulgowanym dokumentem Kościoła katolickiego, nie ustanawia nowego obrządku kanonicznego i nie nadaje święceń, jurysdykcji ani uprawnień sakramentalnych.
+**Kan. 771.** Księga XIII jest wewnętrznym dokumentem teologiczno-formacyjnym i normatywnym Kościoła Domowego. Wraz z Księgą XI oraz aktami ustanowienia i promulgowanymi interpretacjami właściwego ustawodawcy określa wewnętrzny status szafarzy, zakres ich kompetencji i sposób sprawowania sakramentów w tym porządku. Nie jest jednak promulgowanym dokumentem Kościoła katolickiego, nie ustanawia nowego obrządku kanonicznego Kościoła katolickiego i nie nadaje święceń, jurysdykcji ani uprawnień w jego strukturach. Uznanie statusu i skutków kanonicznych w Kościele katolickim podlega wyłącznie jego własnemu prawu i właściwej władzy.
 
 **Kan. 772.** Księga XI pozostaje dokumentem źródłowym, z którego wydobyto wykaz siedmiu sakramentów i zasadnicze intuicje dotyczące ich przeżywania w obrządku domowym. Niniejsza Księga rozwija ten materiał, porządkuje go i wyraźnie oddziela sakramenty od wewnętrznych posług, błogosławieństw i obrzędów.
 
