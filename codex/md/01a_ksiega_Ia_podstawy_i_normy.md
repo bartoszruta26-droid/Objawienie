@@ -18,9 +18,11 @@ Jest to redakcja porządkująca, a nie deklaracja, że wszystkie opisane tu rozw
 
 **Kan. 1a.** § 1. Kościół Domowy (*Ecclesia Domestica*) jest wspólnotą życia duchowego i rodzinnego, gromadzącą osoby pragnące szukać Boga, wzrastać w prawdzie, modlić się, służyć sobie nawzajem i pielęgnować dobro wspólne.
 
-§ 2. Określenie „Kościół Królestwa Niebieskiego” (*Ecclesia Regni Dei*) wyraża duchowe ukierunkowanie wspólnoty na Boga i Jego Królestwo. Oba określenia opisują w tej redakcji powiązane wymiary jednego zamysłu wspólnotowego, a nie roszczenie do zastąpienia Kościoła powszechnego.
+§ 2. Kościół Domowy i Kościół Królestwa Niebieskiego, o których mowa w § 1, są wspólnotą *sui iuris*, działającą według tradycji prawa, tradycji ludzkiej pierwotnej i tradycji słowiańskiej powstałej od niepamiętnych czasów oraz tradycji rodzinnej powstałej przed trzydziestoma laty, na podstawie prawa naturalnego, prawa Bożego, prawa międzynarodowego, prawa państwowego oraz niniejszego Kodeksu. Określenie „Kościół Królestwa Niebieskiego” (*Ecclesia Regni Dei*) zachowuje pełne znaczenie wskazane w Księdze I i wyraża zarazem duchowe ukierunkowanie wspólnoty na Boga i Jego Królestwo.
 
-§ 3. Wspólnota uznaje godność każdej osoby niezależnie od jej stopnia wiary, wątpliwości, niewiary, pochodzenia, płci, wieku, stanu zdrowia, sytuacji rodzinnej lub zakresu uczestnictwa.
+§ 3. Kościół Domowy jest pierwotną partykularną wspólnotą Ludu Bożego tak samo jak Kościół Królestwa Niebieskiego; w ich wymiarze domowym i Królestwa Niebieskiego wyznaje się obecność i działanie jednego, świętego, katolickiego i apostolskiego Kościoła Chrystusa, zgodnie z analogią do kan. 9 KPK zastosowaną w Księdze I do wspólnoty rodzinnej. Wspólnota zachowuje własną tożsamość *sui iuris* i nie utożsamia jej z zastępowaniem Kościoła powszechnego.
+
+§ 4. Wspólnota uznaje godność każdej osoby niezależnie od jej stopnia wiary, wątpliwości, niewiary, pochodzenia, płci, wieku, stanu zdrowia, sytuacji rodzinnej lub zakresu uczestnictwa.
 
 **Kan. 2a.** § 1. Powołaniem Kościoła Domowego jest tworzenie przestrzeni, w której wiara staje się miłością czynną: modlitwą, troską, wychowaniem, pojednaniem, uczciwą pracą, ochroną słabszych i odpowiedzialnością za stworzenie.
 
@@ -28,11 +30,11 @@ Jest to redakcja porządkująca, a nie deklaracja, że wszystkie opisane tu rozw
 
 § 3. Pierwszeństwo wspólnoty w porządku jej własnej tradycji nie oznacza wyższości jednej osoby nad drugą co do godności. Zasada *primus inter pares* oznacza pierwszeństwo służby i odpowiedzialności, nie przywilej poniżania ani pozbawiania innych praw.
 
-**Kan. 3a.** § 1. Kościół Domowy pozostaje w szacunku wobec Kościoła katolickiego, jego wiary, sakramentów, tradycji i prawa. Własne nazewnictwo, urzędy i obrzędy wspólnoty należy odróżniać od urzędów i kompetencji uznawanych przez prawo kanoniczne Kościoła katolickiego.
+**Kan. 3a.** § 1. Kościół Domowy i Kościół Królestwa Niebieskiego zachowują w niniejszym Kodeksie własną tożsamość wspólnoty *sui iuris* oraz status pierwotnej partykularnej wspólnoty Ludu Bożego, zgodnie z definicjami i zamysłem Księgi I. Ich relacja do Kościoła powszechnego jest ujmowana w świetle komunii, prawa Bożego, prawa naturalnego, KPK, KKKW i właściwych norm, odczytywanych łącznie w autentycznej interpretacji Kościoła Domowego.
 
-§ 2. Odwołania do Kodeksu Prawa Kanonicznego z 1983 roku, Kodeksu Kanonów Kościołów Wschodnich oraz dokumentów Kościoła powszechnego służą tej redakcji jako źródła odniesienia i inspiracji w zakresie, w jakim zostały przyjęte. Samo przywołanie przepisu nie nadaje wspólnocie statusu kanonicznego ani nie ustanawia kompetencji, których właściwe prawo nie przyznaje.
+§ 2. Własne nazewnictwo, urzędy, posługi, obrzędy i jurysdykcja zachowują pełne znaczenie w wewnętrznym porządku Kościoła Domowego. Przy ich stosowaniu należy odróżniać wewnętrzne ustanowienie i skutki od tych skutków kanonicznych, które wymagają aktu właściwej władzy Kościoła katolickiego. Rozróżnienie to nie zawęża definicji ani nie uchyla wewnętrznego statusu ustanowionego w niniejszym Kodeksie.
 
-§ 3. Wspólnota nie może przedstawiać własnych decyzji, święceń, nominacji, jurysdykcji lub sakramentaliów jako uznanych przez Kościół katolicki, jeżeli uznanie takie nie wynika z właściwych norm i aktów kompetentnej władzy.
+§ 3. Odwołania do Kodeksu Prawa Kanonicznego z 1983 roku, Kodeksu Kanonów Kościołów Wschodnich, ustaw państwowych, prawa międzynarodowego, prawa naturalnego i Prawa Bożego stanowią łączne źródła interpretacji wewnętrznego porządku Kościoła Domowego. Samo przywołanie przepisu nie zastępuje jednak aktu, którego dokonanie właściwe prawo zastrzega określonemu podmiotowi lub władzy.
 
 ---
 
@@ -141,17 +143,11 @@ Jest to redakcja porządkująca, a nie deklaracja, że wszystkie opisane tu rozw
 
 ## Tytuł V. Źródła prawa i porządek norm
 
-**Kan. 11a.** § 1. Wewnętrzny porządek normatywny Kościoła Domowego opiera się na następujących zasadach, odczytywanych łącznie:
-1° wierność Bogu i prawu Bożemu;
-2° poszanowanie prawa naturalnego, godności osoby i podstawowych praw człowieka;
-3° poszanowanie obowiązującego prawa państwowego oraz zobowiązań międzynarodowych;
-4° szacunek dla prawa i tradycji Kościoła katolickiego w zakresie, w jakim wspólnota pozostaje nimi związana lub świadomie je przyjmuje;
-5° zgodność wewnętrznych statutów i postanowień z normami wyższego rzędu;
-6° poszanowanie praw nabytych i uzasadnionych oczekiwań członków wspólnoty.
+**Kan. 11a.** § 1. Wewnętrzny porządek normatywny Kościoła Domowego opiera się na Prawie Bożym, prawie naturalnym, prawie państwowym, prawie międzynarodowym oraz prawie Kościoła katolickiego, w szczególności na KPK z 1983 roku i KKKW, a także na prawie własnym Kościoła Domowego. Źródła te odczytuje się łącznie jako podstawę jednej autentycznej interpretacji wewnętrznego porządku Kościoła Domowego, z uwzględnieniem ich właściwego przedmiotu, zakresu i mocy.
 
-§ 2. Własne prawo wspólnoty może uzupełniać i porządkować jej życie wewnętrzne, ale nie może uchylać ani zmieniać obowiązującego prawa państwowego, praw osób trzecich ani norm prawa kanonicznego wiążących podmioty, do których się odnoszą.
+§ 2. Nie rozdziela się tych źródeł na konkurencyjne porządki interpretacyjne. Prawo Boże i naturalne stanowią zasadniczą miarę prawdy i sprawiedliwości; ustawy państwowe, zobowiązania międzynarodowe oraz normy KPK i KKKW uwzględnia się w ich właściwym zakresie; prawo własne Kościoła Domowego konkretyzuje i stosuje te zasady do jego wspólnoty, ustroju, posług i życia duchowego.
 
-§ 3. Jeżeli pojawia się sprzeczność między wewnętrznym postanowieniem a obowiązującym prawem, postanowienie wewnętrzne należy interpretować w sposób zgodny z prawem. Jeżeli zgodna interpretacja nie jest możliwa, nie wolno wywodzić z niego skutków sprzecznych z normą nadrzędną.
+§ 3. W razie pozornej lub rzeczywistej rozbieżności należy najpierw ustalić przedmiot, adresata i zakres każdej normy, a następnie dokonać wykładni łącznej, systemowej i zgodnej z Prawem Bożym, prawem naturalnym, sprawiedliwością oraz dobrem osób. Wewnętrzna autentyczna interpretacja nie zmienia sama przez się treści aktu ani kompetencji podmiotu zewnętrznego, jeżeli właściwe prawo zastrzega ich ustanowienie lub zmianę określonej władzy.
 
 **Kan. 12a.** § 1. Ustawy wewnętrzne wspólnoty ogłasza się w sposób umożliwiający zainteresowanym poznanie ich treści, daty wejścia w życie i zakresu zastosowania.
 
