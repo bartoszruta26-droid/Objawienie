@@ -256,7 +256,7 @@ Korekta kan. 10a została przeprowadzona według zasady zachowania pełnego zakr
 - Kościół Domowy i Kościół Królestwa Niebieskiego jako pierwotną partykularną wspólnotę i podstawową komórkę Kościoła Ludzi;
 - Subdiecezję Domową jako terytorium domu rodzinnego wraz z otoczeniem i duchową jurysdykcją Głowy Rodu;
 - pełną definicję biskupa tytularnego: Boże postanowienie, następstwo Apostołów w rozumieniu wewnętrznym, natchnienie Duchem Świętym, pasterzowanie, nauczanie, święty kult i posługę rządzenia nad całym Ludem Bożym, wiernymi i niewierzącymi, oraz możliwość mianowania przez Biskupa Rzymu albo wyboru zgodnego z prawem Bożym i przyjęcia w tym porządku;
-- Hierarchę Subdiecezji i Hieronarchę Związku Subdiecezjatów wraz z ich źródłowymi relacjami ustrojowymi;
+- Hierarchę Subdiecezji i Hierarchy Związku Subdiecezjatów wraz z ich źródłowymi relacjami ustrojowymi;
 - pełne definicje Głowy Rodu, Małżonki, Potomka, Triarchii, trzech obrządków, sakramentaliów domowych, Liturgii Życia, Trudu, Pracy i Świętości Trudu.
 
 Dodane objaśnienia rozdzielają elementy pojęcia — powołanie, natchnienie, konsekrację, tytuł, urząd, misję i jurysdykcję — ale nie usuwają żadnego elementu definicji pierwotnej.
