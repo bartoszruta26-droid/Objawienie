@@ -534,4 +534,4 @@
 
 ## Nota redakcyjna Księgi IIIa
 
-Księga IIIa została utworzona, ponieważ w katalogu `/codex/md` nie istniał odrębny plik Księgi IIIa. Zachowuje wszystkie 143 kanony Księgi III w ich dotychczasowym brzmieniu. Nie usuwa ani nie zastępuje Księgi III. Jej dalsza redakcja powinna polegać na harmonizacji terminologii i numeracji z Księgami Ia, IIa, IVa, Va oraz VIa, bez pomijania norm źródłowych.
+Księga IIIa została utworzona, ponieważ w katalogu `/codex/md` nie istniał odrębny plik Księgi IIIa. Zachowuje wszystkie 95 ponumerowanych kanonów Księgi III (kan. 49–143) w ich dotychczasowym brzmieniu. Nie usuwa ani nie zastępuje Księgi III. Jej dalsza redakcja powinna polegać na harmonizacji terminologii i numeracji z Księgami Ia, IIa, IVa, Va oraz VIa, bez pomijania norm źródłowych.
