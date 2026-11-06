@@ -19,9 +19,13 @@
 
 4. Wspólnota Rodu jest w tej Księdze rozumiana jako wspólnota Ojca, Matki i Potomstwa. Triarchia Domowa oznacza ich współodpowiedzialność za duchowe dobro domu, z uwzględnieniem odmiennych ról, wieku, dojrzałości i możliwości każdej osoby.
 
-5. Określenia takie jak „kapłaństwo domowe”, „arcykapłan domowy”, „współszafarka”, „współpasterka” i „biskupstwo domowe” opisują wewnętrzną, duchową i organizacyjną symbolikę Kościoła Domowego. Same przez się nie oznaczają przyjęcia święceń, urzędu kanonicznego ani uprawnień zastrzeżonych przez prawo Kościoła Powszechnego duchownym lub innym upoważnionym szafarzom.
+5. Określenia takie jak „kapłaństwo domowe”, „arcykapłan domowy”, „współszafarka”, „współpasterka” i „biskupstwo domowe” opisują wewnętrzną, duchową i organizacyjną rzeczywistość Kościoła Domowego. Nie oznaczają same przez się otrzymania sakramentu kapłaństwa ani nabycia urzędu kanonicznego lub uprawnień, które prawo Kościoła Powszechnego wiąże z określonymi posługami.
 
-6. Niniejsza Księga reguluje życie wewnętrzne Kościoła Domowego. Nie zmienia prawa Kościoła Powszechnego, nie nadaje święceń i nie ustanawia sakramentów. Domowe modlitwy i błogosławieństwa pozostają praktykami religijnymi wspólnoty, a nie zamiennikami sakramentów.
+6. W teologii Kościoła Domowego należy odróżniać sakrament kapłaństwa od święceń. Sakrament kapłaństwa jest darem Bożego nadania, konsekracji i natchnienia Duchem Świętym. Święcenia biskupstwa, prezbiteriatu i diakonatu, występujące w porządku Kościoła Powszechnego, są — w rozumieniu przyjętym w niniejszym Kodeksie — stopniami przygotowania do otrzymania sakramentu kapłaństwa, a nie samym sakramentem kapłaństwa. Otrzymanie sakramentu kapłaństwa pochodzi z Bożego działania, nie z samego aktu administracyjnego, tytułu, nominacji ani ludzkiego roszczenia.
+
+7. Niniejsza Księga reguluje życie wewnętrzne Kościoła Domowego. Nie ustanawia sakramentu kapłaństwa ani nie może zastąpić Bożego nadania, konsekracji i natchnienia Duchem Świętym. Nie nadaje też święceń biskupstwa, prezbiteriatu ani diakonatu w porządku Kościoła Powszechnego. Domowe modlitwy i błogosławieństwa pozostają praktykami religijnymi wspólnoty, a nie zamiennikami sakramentów.
+
+8. Powyższe rozróżnienie przedstawia wewnętrzną naukę Kościoła Domowego. Nie należy przedstawiać go jako oficjalnej wykładni doktryny lub prawa kanonicznego Kościoła Katolickiego, jeżeli nie zostało to odrębnie potwierdzone przez właściwą władzę tego Kościoła.
 
 7. Najwyższą zasadą stosowania niniejszych przepisów jest służba Bogu i człowiekowi w prawdzie, miłości, sprawiedliwości i miłosierdziu. Żadnego przepisu nie wolno interpretować jako przyzwolenia na przemoc, przymus sumienia, poniżanie, manipulację lub dominację.
 
@@ -83,7 +87,7 @@
    5° prowadzić modlitwę przed posiłkiem, pracą, podróżą i odpoczynkiem;
    6° modlić się o błogosławieństwo dla Potomstwa i pozostałych członków rodziny;
    7° przewodniczyć domowej modlitwie słowa podczas nieobecności Głowy Rodu.
-2. Czynności te są posługą modlitewną wspólnoty. Nie oznaczają udzielania sakramentów ani przejęcia święceń lub urzędu kościelnego.
+2. Czynności te są posługą modlitewną wspólnoty. Nie oznaczają same przez się udzielania sakramentów, otrzymania sakramentu kapłaństwa ani przyjęcia święceń biskupstwa, prezbiteriatu lub diakonatu.
 
 **Kan. 295.**
 1. Małżonka współtworzy treść i formę domowych celebracji.
@@ -161,7 +165,7 @@
    6° zwołać rozmowę Triarchii w sprawach pilnych;
    7° prowadzić kronikę z odnotowaniem okresu zastępstwa.
 2. Nie może jednak na podstawie samego zastępstwa:
-   1° twierdzić, że otrzymała święcenia lub sakramentalne uprawnienia Głowy Rodu;
+   1° twierdzić, że przez samo zastępstwo otrzymała sakrament kapłaństwa, święcenia biskupstwa, prezbiteriatu lub diakonatu albo sakramentalne uprawnienia Głowy Rodu;
    2° sprawować sakramentów, do których nie jest uprawniona według prawa Kościoła Powszechnego;
    3° udzielać rozgrzeszenia sakramentalnego ani sprawować Eucharystii;
    4° ustanawiać trwałych norm wiążących wspólnotę bez właściwego trybu;
@@ -217,7 +221,7 @@
    3° od około piętnastego roku życia — przygotowywanie rozważań, pomoc młodszym w nauce i opieka nad przedmiotami modlitwy;
    4° po osiągnięciu pełnoletności — pełniejsze współdecydowanie o sprawach wspólnoty, z poszanowaniem praw pozostałych osób.
 2. Wiek wskazany w § 1 ma charakter orientacyjny i nie zastępuje oceny dojrzałości, zdolności, bezpieczeństwa ani dobrowolnej zgody.
-3. Samo osiągnięcie określonego wieku nie nadaje święceń, urzędu kościelnego ani władzy nad innymi osobami.
+3. Samo osiągnięcie określonego wieku nie powoduje Bożego nadania sakramentu kapłaństwa, nie stanowi przyjęcia święceń biskupstwa, prezbiteriatu lub diakonatu, nie nadaje urzędu kościelnego ani władzy nad innymi osobami.
 
 **Kan. 307.**
 1. Potomek ma prawo wyrażać opinię w sprawach, które go dotyczą.
@@ -400,7 +404,7 @@ Niech Triarchia Domowa będzie wspólnotą modlitwy, wzajemnego szacunku, odpowi
 2. Każdy uczestnik może odmówić udziału lub przerwać go bez poniżenia i kary.
 3. Dotyk, namaszczenie, pokropienie i inne gesty wobec osoby wymagają jej zgody.
 4. Domowe błogosławieństwo jest modlitwą, a nie sakramentem, magią ani gwarancją określonego skutku.
-5. Nie wolno nazywać domowej modlitwy rozgrzeszeniem sakramentalnym, Eucharystią, święceniami ani sakramentem namaszczenia chorych.
+5. Nie wolno utożsamiać domowej modlitwy z rozgrzeszeniem sakramentalnym, Eucharystią, sakramentem kapłaństwa ani sakramentem namaszczenia chorych. Święcenia biskupstwa, prezbiteriatu i diakonatu należy odróżniać od sakramentu kapłaństwa zgodnie z rozróżnieniem przyjętym w preambule.
 6. Choroba wymaga właściwej opieki medycznej. Modlitwa może jej towarzyszyć, ale nie może jej zastępować ani opóźniać.
 7. W sytuacji zagrożenia życia należy niezwłocznie wezwać pomoc.
 8. Kronika domowa powinna zawierać wyłącznie informacje potrzebne i uzgodnione; nie należy zapisywać w niej intymnych wyznań ani danych, których ujawnienie mogłoby kogoś skrzywdzić.
