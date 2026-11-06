@@ -311,3 +311,17 @@ Zharmonizowano kan. 117–120 oraz 132–138, 140 i 143. Zmiany obejmują:
 ### C. Weryfikacja techniczna
 
 Po zapisaniu ponownie pobrano oba pliki. Księga IIIa zawiera po jednej wystąpieniu kan. 117 i 143 w miejscach poddanych zmianie. Konkordancja zawiera 145 wierszy tabeli, od kan. 144 do kan. 288, bez brakujących numerów. Pełna ocena równoważności każdej normy wymaga jeszcze decyzji prawodawcy w kwestiach wskazanych w konkordancji.
+
+
+## UZUPEŁNIENIE AUDYTU — PEŁNE WŁĄCZENIE KSIĘGI IV DO IVa
+
+Na wyraźne rozstrzygnięcie prawodawcy przyjęto następujące zasady:
+1. wszystkie dawne obowiązki Księgi IV zachowują charakter obowiązkowy w Księdze IVa;
+2. wszystkie 145 dawnych kanonów Księgi IV (144–288) włączono do jednolitej numeracji IVa jako kan. 99–243, według reguły: nowy numer = dawny numer minus 45;
+3. dawne kanony przywrócone wcześniej w osobnym bloku zostały włączone do właściwego ciągu numeracyjnego; nie pozostają jako drugi, konkurencyjny zestaw;
+4. pełne katalogi, definicje, przyporządkowania i szczegółowe opisy formacyjne zachowano przez włączenie pełnych tekstów źródłowych;
+5. kan. 244–250 IVa regulują rekonstrukcję trzech nieuzupełnionych pozycji „Kan. XXX”, zachowanie dawnego wykazu proporcji, dobrowolność wyznań i pojednania, ochronę dzieci i bezpieczeństwo narzędzi, konwersję odesłań oraz zakaz cichego zawężania definicji.
+
+**Weryfikacja techniczna:** źródłowa Księga IV zawiera 145 ponumerowanych kanonów (144–288). W Księdze IVa wszystkie te teksty zostały przeniesione do nowej numeracji 99–243. Konkordancja została zaktualizowana i zawiera 145 wierszy, każdy z numerem źródłowym i nowym numerem IVa.
+
+**Zastrzeżenie redakcyjne:** dawne sformułowania zachowano w pełnej treści, lecz ich stosowanie podlega ogólnym zasadom ochrony życia, zdrowia, godności, wolności sumienia, praw dziecka i dobrowolnej zgody. Obowiązek organizatora lub szafarza pozostaje obowiązkiem; nie staje się jednak uprawnieniem do przymuszania uczestników. Rozbieżności źródłowe w katalogach Darów i przyporządkowaniach zostały jawnie wskazane, a nie usunięte przez cichą zamianę nazw.
