@@ -86,7 +86,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 4° **Arcykapłan Kościoła Domowego** (*archipresbyter domesticus*) — szafarz święty sprawujący najwyższą władzę kapłańską w Kościele Domowym biskupa tytularnego;
 
-5° **Biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan sprawujący władzę pasterską nad subdiecezją domową lub posiadający tytuł z nadania Bożego i uświęcenia Duchem Święttm nie obejmujący lub obejmujaxy subdiecezję; 
+5° **Biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus*) — arcykapłan ustanowiony do pełnienia urzędu biskupiego z nadania Bożego i natchnienia Ducha Świętego; może sprawować władzę pasterską nad powierzoną mu subdiecezją albo posiadać tytuł biskupi bez objęcia konkretnej subdiecezji; 
 
 6° **Hierarcha Związku Subdiecezjatów** (*hierarcha foederis subdioecesuatuum*)  — biskup tytularny subdiecezjalny wybrany spośród synodu biskupów subdiecezjalnych, sprawujący władzę koordynacyjną nad wszystkimi subdiecezjami domowymi zrzeszonymi w związku subdiecezjatów; pierwszy hierarcha związku subdiecezjatów jest pierwszym hierarchą pierwszego subdiecezjatu i jako taki nie bierze udziału w głosowaniu nad swoim następcą.
 
@@ -166,13 +166,13 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **§ 3.** Jeden kapłan domowy może sprawować funkcje kilku szafarzy świętych. Arcykapłan Kościoła Domowego sprawuje funkcje wszystkich szafarzy.
 
-### Rozdział IV: Biskupi uświęceni Duchem Święttm (tytularni i subdiecezjalni) i wyświęceni reką biskupa (tytularni i diecezjalni)
+### Rozdział IV: Biskupi uświęceni Duchem Świętym (tytularni i subdiecezjalni) oraz biskupi wyświęceni przez biskupa (tytularni i diecezjalni)
 
 **Kan. 500 § 1.** W obrządku domowym rozróżnia się dwa rodzaje biskupstwa:
 
-1° **Biskup uświęcony Duchem Świętym — biskup tyrularny lub  subdiecezjalny** (*episcopus titularis subdioecesanus non consecratus*):
+1° **Biskup uświęcony Duchem Świętym — biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus non consecratus*):
 
-   a) sprawuje władzę jurysdykcyjną, nauczycielską i uświęcającą w subdiecezji domowej;
+   a) sprawuje władzę jurysdykcyjną, nauczycielską i uświęcającą w zakresie urzędu powierzonego mu przez prawo wewnętrzne; jeżeli obejmuje subdiecezję domową, wykonuje tę władzę nad tą subdiecezją;
 
    b) posiada w wewnętrznym porządku Kościoła Domowego pełny urząd i godność biskupią, ustanowione z nadania Bożego i natchnienia Ducha Świętego; określenie to nie jest samo przez się stwierdzeniem przyjęcia sakramentalnych święceń biskupich w rozumieniu KPK;
 
