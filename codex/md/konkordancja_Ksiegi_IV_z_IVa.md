@@ -164,24 +164,26 @@ Księga IV zawiera również trzy nagłówki „Kan. XXX” dotyczące błogosł
 
 Dawne kanony **145, 153, 163, 179, 188, 190, 192, 194, 196, 198, 200, 202, 260, 268, 269 i 287** zostały włączone do jednolitej numeracji IVa odpowiednio jako kan. **100, 108, 118, 134, 143, 145, 147, 149, 151, 153, 155, 157, 215, 223, 224 i 242**. Nie funkcjonują już jako odrębny blok o dawnej numeracji.
 
-## 5. Najważniejsze różnice materialne
+## 5. Relacja między redakcją porządkującą (kan. 1–98) a pełnym tekstem źródłowym (kan. 99–243)
 
-1. **Przewodniczenie liturgii i status Głowy Rodu (IV 145, 159–161, 178–180; IVa 5–10).** IVa zachowuje możliwość organizowania i przewodniczenia modlitwie, ale przesuwa akcent z obowiązku Głowy Rodu i jej statusu „arcykapłana” na służebne przewodniczenie oraz dobrowolność udziału. To nie jest wyłącznie zmiana stylistyczna: zmienia sposób sformułowania obowiązku i ogranicza możliwość odczytania go jako przymusu wobec domowników.
+1. **Przewodniczenie liturgii i status Głowy Rodu.** Kanony 1–10 IVa ujmują organizację modlitwy w języku służby i współodpowiedzialności. Pełne źródłowe obowiązki Głowy Rodu i Małżonki zachowano dodatkowo w kan. 100, 114–116 i 133–135. Należy czytać je łącznie: redakcja porządkująca nie uchyla obowiązków źródłowych.
 
-2. **Sakramentalia i błogosławieństwa (IV 148–152, 203–216, 242–261, 271–288; IVa 3–4, 16²–16⁴, 44–56, 63–81).** IVa wyraźniej przedstawia przedmioty i błogosławieństwa jako znaki modlitewne i katechetyczne, nie jako przedmioty o automatycznej mocy. Jest to doprecyzowanie ochronne, lecz część dawnej terminologii „szafarza”, „biskupa tytularnego domostwa” i szczegółowych kompetencji nie została przeniesiona wprost.
+2. **Sakramentalia i błogosławieństwa.** Kanony 3–4, 16¹–16⁴ oraz 44–56 porządkują ogólne zasady, natomiast pełne dawne formuły, katalogi, funkcje i obowiązki pozostają w kan. 103–107, 164–178 oraz dalszych normach źródłowych. Nowe objaśnienia dotyczące zgody i bezpieczeństwa regulują sposób wykonywania, nie skreślają obowiązku przygotowania i sprawowania obrzędu.
 
-3. **Trzy obrządki (IV 162–175; IVa 17–29).** Zasadniczy podział na obrządek Marii Magdaleny, Pawłowy i Tomaszowy został zachowany. IVa skraca i porządkuje opisy teologii, praktyk i celebracji. Szczegółowe listy praktyk należy porównywać punkt po punkcie, jeżeli mają być zachowane jako obowiązujące normy, a nie jedynie jako materiał formacyjny.
+3. **Trzy obrządki.** Kanony 17–29 zawierają redakcję porządkującą, a kan. 117–130 zachowują pełne źródłowe opisy teologii, praktyk i celebracji Obrządku Marii Magdaleny, Pawłowego i Tomaszowego.
 
-4. **Cnoty, Dary i charyzmaty (IV 181–241; IVa 34–68, 82–98).** Zachowano zasadniczy układ siedmiu cnót, Darów, charyzmatów oraz macierzy ich powiązań. Zmieniono część nazw i objaśnień, w tym opis skrupulatności, Daru związanego ze świecą oraz sposobu rozumienia charyzmatów. Nie należy zakładać pełnej tożsamości każdej dawnej definicji z nową bez osobnego porównania definicji.
+4. **Cnoty, Dary i charyzmaty.** Kanony 34–68, 82–86 i 92–98 należy odczytywać razem z kan. 136–196. Pełne definicje, obowiązki formacyjne, katalogi, celebracje i przyporządkowania zostały zachowane w nowej numeracji. Rozbieżności źródłowe w nazwach i przyporządkowaniach nie zostały po cichu usunięte; wskazano je do jawnego rozstrzygnięcia.
 
-5. **Przedmioty narzędziowe i kultowe (IV 242–288; IVa 69–81).** IVa zachowuje rozróżnienie narzędzi pracy i przedmiotów kultowych oraz podstawowe zasady ich błogosławienia i bezpiecznego używania. Dawne szczegółowe katalogi, obowiązki prowadzenia ksiąg, coroczne celebracje i część sankcji zostały skrócone, połączone lub nie mają jednoznacznego odpowiednika. Wymagają decyzji prawodawcy, jeżeli mają nadal obowiązywać.
+5. **Przedmioty narzędziowe i kultowe.** Kanony 69–81 porządkują zasady ogólne. Pełne katalogi przedmiotów, ich przyporządkowania, obrzędy, obowiązki szafarzy, ewidencja i celebracje zachowano w kan. 197–243.
 
-## 6. Ustalenia wymagające decyzji prawodawcy
+## 6. Wynik i zasady dalszego stosowania
 
-1. Czy dawne obowiązki Głowy Rodu dotyczące codziennego przewodniczenia, nauczania, prowadzenia ksiąg i corocznych celebracji mają pozostać obowiązkami, czy zostać przekształcone w zalecenia?
-2. Czy dawne szczegółowe katalogi cnót, Darów, charyzmatów, narzędzi i przedmiotów kultowych mają pozostać pełnym katalogiem normatywnym, czy IVa ma być jedynie skróconym podręcznikiem formacyjnym?
-3. Czy nazwy i przyporządkowania z Księgi IV, które zmieniono w IVa, mają zostać zachowane w pełnym brzmieniu jako definicje źródłowe, z nowymi objaśnieniami dodanymi rozszerzająco?
-4. Czy 16 przywróconych kanonów ma zostać włączonych w odpowiednie miejsca nowej numeracji, czy pozostać w bloku źródłowym wyraźnie oznaczonym jako nieoperatywny tekst historyczny?
+1. Wszystkie 145 dawnych kanonów Księgi IV zostało włączonych do IVa w nowej numeracji 99–243. Nie ma kanonu źródłowego bez odpowiednika tekstowego.
+2. Dawne obowiązki, uprawnienia, zakazy, definicje i katalogi zachowują swój pierwotny charakter normatywny. Nie są jedynie materiałem historycznym ani nieoperatywnym aneksem.
+3. Kanony 1–98 stanowią uporządkowaną redakcję ogólną; kanony 99–243 przywracają pełne normy źródłowe i rozwijają szczegóły.
+4. Kanony 244–250 zawierają przepisy porządkujące, które zabezpieczają interpretację źródeł, konwersję numeracji oraz ochronę wolności, zdrowia, godności i praw dziecka.
+5. Pozostaje do odrębnego, jawnego rozstrzygnięcia jedynie merytoryczna niespójność niektórych źródłowych przyporządkowań Darów, cnót i charyzmatów względem Księgi XII. Nie wolno jej usuwać przez ciche zawężenie lub podmianę katalogu.
+6. Odesłania wewnątrz dawnych kanonów do Księgi IV podlegają konwersji określonej w kan. 249 IVa; odesłania do zewnętrznych kodeksów i źródeł pozostają bez zmian.
 
 ## 7. Numeracja i integralność tekstu
 
