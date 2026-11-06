@@ -3708,9 +3708,9 @@ Niech dom będzie miejscem pokoju, stół miejscem wdzięczności, praca miejsce
 
 **Kan. 248.** W przypadku przedmiotów narzędziowych, ostrych, gorących, ciężkich, chemicznych lub w inny sposób niebezpiecznych, błogosławieństwo i formacja nie uchylają zasad bezpieczeństwa, nadzoru dorosłych ani wymagań prawa. Nieletni nie mogą być zachęcani do używania niebezpiecznych narzędzi bez właściwego nadzoru i przygotowania.
 
-**Kan. 249.** W razie rozbieżności między dawnym katalogiem a późniejszym objaśnieniem należy zachować nazwę, kolejność, pełny wykaz i zasadniczą treść źródłową, a następnie dodać objaśnienie wyjaśniające różnicę. Nie wolno usuwać elementu źródłowego przez zastąpienie go inną nazwą bez wyraźnego aktu zmiany ustawodawczej.
+**Kan. 249.** Jeżeli dawne kanony odwołują się do innych kanonów Księgi IV, odesłania te należy odczytywać według tabeli konwersji: numer dawnego kanonu należy pomniejszyć o 45, aby uzyskać jego numer w Księdze IVa (np. dawny kan. 181 odpowiada kan. 136). Odesłania do KPK, KKKW i innych źródeł zewnętrznych zachowują swoje pierwotne numery i nie podlegają tej konwersji.
 
----
+**Kan. 250.** W razie rozbieżności między dawnym katalogiem a późniejszym objaśnieniem należy zachować nazwę, kolejność, pełny wykaz i zasadniczą treść źródłową, a następnie dodać objaśnienie wyjaśniające różnicę. Nie wolno usuwać elementu źródłowego przez zastąpienie go inną nazwą bez wyraźnego aktu zmiany ustawodawczej.
 
 ## FORMUŁA KOŃCOWA — UZUPEŁNIENIE
 
