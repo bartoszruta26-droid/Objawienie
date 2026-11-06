@@ -914,7 +914,7 @@ Są to odrębne serie, a ich wspólną zasadą jest służba prawdzie, pięknu, 
 
 **§ 2.** Cnoty i charyzmaty nie są kolejnymi stopniami skali ani dowodem wyższości. Są odpowiednio dyspozycjami moralnymi i posługami dla dobra wspólnoty. Przyporządkowanie charyzmatów do cnót przebiega w kolejności odwrotnej do katalogu charyzmatów: Służenie łączy się z Pobożnością i Cierpliwością, a następnie Kreatywna Inspiracja z Umiarkowaniem i Dociekliwością, Czyny Mocy z Męstwem i Mocą, Uzdrawianie ze Sprawiedliwością i Miłosierdziem, Języki ze Skrupulatnością i Radą, Rozróżnianie Duchów z Roztropnością i Rozumem, a Proroctwo z Nadzieją i Mądrością. Pełna macierz obejmująca także siedem przedmiotów błogosławionych znajduje się w kan. 529⁵.
 
-**§ 3.** Septenarium należy czytać w kolejności: najpierw oś siedmiu stopni, następnie każdą serię oddzielnie, a na końcu macierz z kan. 535. W ten sposób uniknie się mieszania nazw, funkcji i źródeł.
+**§ 3.** Septenarium należy czytać w kolejności: najpierw oś siedmiu stopni, następnie każdą serię oddzielnie, a na końcu macierz przyporządkowania z kan. 529⁵. W ten sposób uniknie się mieszania nazw, funkcji i źródeł.
 
 **§ 4.** Każda seria wymaga osobnego źródła i osobnego objaśnienia. Jeżeli lista ma charakter biblijny, należy podać tekst biblijny; jeżeli jest tradycyjna, należy podać tradycję; jeżeli jest konstrukcją redakcyjną, należy to wyraźnie zaznaczyć.
 
