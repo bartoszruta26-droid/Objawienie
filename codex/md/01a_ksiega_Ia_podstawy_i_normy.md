@@ -206,21 +206,16 @@ Przyjęto również, że żadna symboliczna ani duchowa rola nie może ogranicza
 
 ---
 
+---
+
 ## ANEKS I. ZACHOWANE PRZEPISY KSIĘGI I
 
-Poniższe postanowienia zostały przywrócone z odpowiadającej Księgi źródłowej. Zachowano ich treść merytoryczną i pierwotne oznaczenia, aby nie zatrzeć ich pochodzenia. W razie nakładania się zakresów należy czytać je łącznie z przepisami redakcji uporządkowanej.
+Poniższe postanowienia zostały przywrócone z Księgi I. Zachowano ich pierwotną numerację i sens, aby nie zatrzeć pochodzenia. Należy je czytać łącznie z uporządkowanymi przepisami Księgi Ia.
 
 **Kan. 4.** Ustawy niniejszego Kanonu odnoszą się do przyszłości, i do przeszłości w związku z autentyczną interpretacją prawa i tradycją istniejącą od niepamiętnych czasów, chyba że wyraźnie zastrzega się w nich inaczej (por. kan. 9 KPK).
 
 **Kan. 12.** W razie rozbieżności między przepisami różnych ksiąg niniejszego Kodeksu dotyczącymi tego samego przedmiotu stosuje się reguły kolizji określone w kan. 58–60 Księgi III (porządkowanie ustaw, późniejsza ustawa derogująca, charakter personalny ustaw partykularnych), a ponadto w kan. 139–143 Księgi III oraz w kan. 344 Księgi VI; pierwszeństwo ma norma późniejsza i bardziej szczególna, byleby była zgodna z kan. 10 § 1 (hierarchia źródeł prawa).
 
----
-
-### Tytuł IV: Celibat i drobne postanowienia ogólne
-
 **Kan. 13.** § 1. Zgodnie z KKKW kan. 373  Celibat duchownych, wybrany ze względu na Królestwo niebieskie i tak stosowny kapłaństwu, wszędzie powinien być tak wysoko ceniony jak nakazuje tradycja Kościoła powszechnego; również powinien być w poważaniu stan duchownych związanych małżeństwem, usankcjonowany przez praktykę Kościoła pierwotnego i Kościołów wschodnich. Za celibat uznaje się wstrzemięźliwość płciową czyli zachowanie umiaru w kontaktach płciowych.
 
 § 2. Zgodnie z KKKW Kan. 387  W tym, co dotyczy stroju duchownego, należy zachować prawo partykularne.
-
-
----
