@@ -426,3 +426,42 @@ Niniejsza redakcja zachowuje zasadnicze elementy pierwotnej Księgi V:
 10. zasadę, że posługa ma służyć uświęceniu i dobru osób, a nie panowaniu nad nimi.
 
 Redakcja usuwa lub porządkuje w szczególności: żartobliwe wtrącenie dotyczące utraty używania rozumu, niejasne i nieograniczone sformułowania o przejmowaniu „pełnej władzy”, błędne utożsamianie zastępstwa z sakramentalnymi uprawnieniami oraz nieprecyzyjne odwołania do kanonów prawa Kościoła Powszechnego. Nie rozstrzyga natomiast zagadnień, których pierwotna Księga V nie określała dostatecznie jasno.
+
+
+---
+
+## ANEKS III. ZACHOWANE PRZEPISY KSIĘGI V
+
+Poniższe postanowienia zostały przywrócone z odpowiadającej Księgi źródłowej. Zachowano ich treść merytoryczną i pierwotne oznaczenia, aby nie zatrzeć ich pochodzenia. W razie nakładania się zakresów należy czytać je łącznie z przepisami redakcji uporządkowanej.
+
+**Kan. 309 § 1.** Kapłaństwo domowe w Kościele Domowym jest sprawowane kolegialnie przez Triarchię Domową. Żadna z trzech osób Triarchii nie posiada wyłączności na sprawowanie funkcji kapłańskich, szafarskich ani biskupich.
+
+**§ 2.** Kolegialność Triarchii urzeczywistnia się przez:
+
+1° wspólną modlitwę przed każdą istotną decyzją;
+
+2° wysłuchanie każdej osoby Triarchii przed działaniem;
+
+3° zgodność działań liturgicznych z przepisami niniejszego Kanonu;
+
+4° wzajemne upominanie w duchu Ewangelii (por. Mt 18,15-17);
+
+5° solidarną odpowiedzialność za dobro wspólnoty.
+
+**Kan. 311.** W sprawowaniu osob, uczynkow, przedmiotów i miejsc błogosławionych Triarchia działa wspólnie:
+
+1° Głowa Rodu sprawuje egzorcyzm błogosławieństwa i modlitwę poświęcenia;
+
+2° Małżonka przygotowuje materię i podaje ją do błogosławieństwa;
+
+3° Potomstwo przyjmuje błogosławieństwo i uczestniczy w pokropieniu;
+
+4° każdy członek Triarchii może otrzymać własne błogosławieństwa osób, uczynków, przedmiotów i miejsc błogosławionych ku budowaniu wspólnoty;
+
+5° zaniedbanie wspólnoty przy sprawowaniu osób, uczynkow, przedmiotów i miejsc błogosławionych wymaga napomnienia, nie kary.
+
+---
+
+## Tytuł VII: MISYJNY CHARAKTER POSŁUGI DOMOWEJ
+
+**Kan. 316 § 1.** Niniejsze przepisy wchodzą w życie z dniem ich ogłoszenia przez Głowę Rodu jako biskupa tytularnego domostwa, po konsultacji z Małżonką jako współszafarką i Triarchią Domową.
