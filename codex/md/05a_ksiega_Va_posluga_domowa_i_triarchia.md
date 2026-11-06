@@ -347,6 +347,8 @@
    6° rzetelnej informacji o wspólnych dobrach i zobowiązaniach;
    7° korzystania z pomocy zewnętrznej i właściwych środków prawnych.
 2. Wierność małżeńska i szacunek są wzajemnymi zobowiązaniami. Nie wolno interpretować ich jednostronnie ani używać jako narzędzia kontroli.
+3. Wszyscy członkowie Triarchii są zobowiązani do powstrzymywania się od przemocy, poniżania, gróźb, manipulacji, izolowania od pomocy i wykorzystywania zależności. Władza rozumiana jako służba wymaga odpowiedzialności, jawności w sprawach wspólnych i gotowości do przyjęcia uzasadnionej krytyki.
+4. Osoba zgłaszająca krzywdę ma prawo zostać wysłuchana bez odwetu i bez wymuszania pojednania. Przebaczenie nie oznacza obowiązku powrotu do sytuacji niebezpiecznej ani rezygnacji z ochrony prawnej.
 
 **Kan. 318.**
 1. Potomek ma prawo do:
@@ -359,33 +361,11 @@
    7° dziedziczenia tradycji rodzinnej w duchu wolności, a nie wymuszonego obowiązku.
 2. Żadna praktyka religijna nie może naruszać praw dziecka ani zastępować należnej mu opieki.
 3. W razie zagrożenia należy skorzystać z odpowiedniej pomocy medycznej, psychologicznej, społecznej lub prawnej.
-
-**Kan. 319.**
-1. Wszyscy członkowie Triarchii są zobowiązani do powstrzymywania się od przemocy, poniżania, gróźb, manipulacji, izolowania od pomocy i wykorzystywania zależności.
-2. Władza rozumiana jako służba wymaga odpowiedzialności, jawności w sprawach wspólnych i gotowości do przyjęcia uzasadnionej krytyki.
-3. Osoba zgłaszająca krzywdę ma prawo zostać wysłuchana bez odwetu i bez wymuszania pojednania.
-4. Przebaczenie nie oznacza obowiązku powrotu do sytuacji niebezpiecznej ani rezygnacji z ochrony prawnej.
-
----
-
-## TYTUŁ IX. PRZEPISY KOŃCOWE I INTERPRETACJA
-
-**Kan. 320.**
-1. Niniejsza Księga Va jest wewnętrznym aktem porządkującym życie Kościoła Domowego.
-2. Jej wejście w życie, ogłoszenie i ewentualne zmiany powinny być poprzedzone przedstawieniem tekstu Małżonce oraz umożliwieniem jej zgłoszenia uwag.
-3. W sprawach dotyczących Potomstwa należy wysłuchać go stosownie do wieku i dojrzałości.
-4. Żadna procedura przyjęcia lub zmiany Księgi nie może uchylać praw człowieka, praw dziecka ani przepisów powszechnie obowiązującego prawa.
-
-**Kan. 321.**
-1. Najwyższą zasadą interpretacji niniejszej Księgi jest dobro osób i zbawienie dusz: *salus animarum suprema lex*.
-2. Przepis należy rozumieć w taki sposób, aby służył prawdzie, miłości, sprawiedliwości, miłosierdziu, wolności sumienia i ochronie życia.
-3. W razie wątpliwości należy wybrać wykładnię, która lepiej chroni osobę słabszą i zapobiega krzywdzie.
-4. Żaden przepis nie może być użyty do usprawiedliwienia przemocy, przymusu, oszustwa ani przywłaszczenia sobie sakramentalnych uprawnień.
-
-**Kan. 322.**
-1. Księga V pozostaje zachowanym świadectwem wcześniejszej redakcji i źródłem historycznym dla niniejszej Księgi Va.
-2. Księga Va jest redakcją uporządkowaną. Nie należy odczytywać jej jako dowodu, że wszystkie wcześniejsze sformułowania Księgi V miały jednakowe znaczenie lub były wolne od niejasności.
-3. W razie rozbieżności w wewnętrznym porządku Kościoła Domowego pierwszeństwo ma późniejsza i wyraźnie ogłoszona redakcja Księgi Va, z zachowaniem nadrzędności prawa powszechnie obowiązującego i norm Kościoła Powszechnego w zakresie, w jakim mają zastosowanie.
+4. Niniejsza Księga Va jest wewnętrznym aktem porządkującym życie Kościoła Domowego. Jej ogłoszenie i zmiany powinny być poprzedzone przedstawieniem tekstu Małżonce oraz umożliwieniem jej zgłoszenia uwag. W sprawach dotyczących Potomstwa należy wysłuchać go stosownie do wieku i dojrzałości.
+5. Księga wchodzi w życie z dniem jej ogłoszenia przez Głowę Rodu jako biskupa tytularnego domostwa, po konsultacji z Małżonką jako współszafarką i Triarchią Domową. Ogłoszenie powinno umożliwiać zainteresowanym poznanie treści, daty wejścia w życie i zakresu zastosowania przepisów.
+6. Żadna procedura przyjęcia lub zmiany Księgi nie może uchylać praw człowieka, praw dziecka ani przepisów powszechnie obowiązującego prawa.
+7. Najwyższą zasadą interpretacji niniejszej Księgi jest dobro osób i zbawienie dusz: *salus animarum suprema lex*. Każdy przepis należy rozumieć w taki sposób, aby służył prawdzie, miłości, sprawiedliwości, miłosierdziu, wolności sumienia i ochronie życia.
+8. W razie wątpliwości należy wybrać wykładnię, która lepiej chroni osobę słabszą i zapobiega krzywdzie. Żaden przepis nie może być użyty do usprawiedliwienia przemocy, przymusu, oszustwa ani przywłaszczenia sobie sakramentalnych uprawnień.
 
 ### Zakończenie
 
@@ -431,38 +411,7 @@ Redakcja usuwa lub porządkuje w szczególności: żartobliwe wtrącenie dotycz�
 
 ---
 
-## ANEKS III. ZACHOWANE PRZEPISY KSIĘGI V
+## Nota redakcyjna o zachowaniu treści źródłowej
 
-Poniższe postanowienia zostały przywrócone z odpowiadającej Księgi źródłowej. Zachowano ich treść merytoryczną i pierwotne oznaczenia, aby nie zatrzeć ich pochodzenia. W razie nakładania się zakresów należy czytać je łącznie z przepisami redakcji uporządkowanej.
+Księga V pozostaje zachowanym świadectwem wcześniejszej redakcji i źródłem historycznym dla niniejszej Księgi Va. Księga Va jest redakcją uporządkowaną; nie należy odczytywać jej jako dowodu, że wszystkie wcześniejsze sformułowania Księgi V miały jednakowe znaczenie lub były wolne od niejasności. Treść dawnego kan. 309 § 1–2 została włączona do kan. 290, treść dawnego kan. 311 została włączona do kan. 313 po uzgodnieniu terminologii i zasad dobrowolności, a treść dawnego kan. 316 została włączona do kan. 318 § 5. Nie ustanawia się odrębnych, powtórzonych numerów dla tych postanowień.
 
-**Kan. 309 § 1.** Kapłaństwo domowe w Kościele Domowym jest sprawowane kolegialnie przez Triarchię Domową. Żadna z trzech osób Triarchii nie posiada wyłączności na sprawowanie funkcji kapłańskich, szafarskich ani biskupich.
-
-**§ 2.** Kolegialność Triarchii urzeczywistnia się przez:
-
-1° wspólną modlitwę przed każdą istotną decyzją;
-
-2° wysłuchanie każdej osoby Triarchii przed działaniem;
-
-3° zgodność działań liturgicznych z przepisami niniejszego Kanonu;
-
-4° wzajemne upominanie w duchu Ewangelii (por. Mt 18,15-17);
-
-5° solidarną odpowiedzialność za dobro wspólnoty.
-
-**Kan. 311.** W sprawowaniu osob, uczynkow, przedmiotów i miejsc błogosławionych Triarchia działa wspólnie:
-
-1° Głowa Rodu sprawuje egzorcyzm błogosławieństwa i modlitwę poświęcenia;
-
-2° Małżonka przygotowuje materię i podaje ją do błogosławieństwa;
-
-3° Potomstwo przyjmuje błogosławieństwo i uczestniczy w pokropieniu;
-
-4° każdy członek Triarchii może otrzymać własne błogosławieństwa osób, uczynków, przedmiotów i miejsc błogosławionych ku budowaniu wspólnoty;
-
-5° zaniedbanie wspólnoty przy sprawowaniu osób, uczynkow, przedmiotów i miejsc błogosławionych wymaga napomnienia, nie kary.
-
----
-
-## Tytuł VII: MISYJNY CHARAKTER POSŁUGI DOMOWEJ
-
-**Kan. 316 § 1.** Niniejsze przepisy wchodzą w życie z dniem ich ogłoszenia przez Głowę Rodu jako biskupa tytularnego domostwa, po konsultacji z Małżonką jako współszafarką i Triarchią Domową.
