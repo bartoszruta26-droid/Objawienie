@@ -897,7 +897,7 @@ Niech dom będzie miejscem pokoju, stół miejscem wdzięczności, praca miejsce
 
 ## Rozdział I — Zasady włączenia i zachowania mocy normatywnej
 
-**Kan. 99.** Wszystkie poniższe kanony stanowią integralną i obowiązującą część Księgi IVa. Zostały włączone do nowej numeracji przez przyporządkowanie: nowy kan. 99 odpowiada dawnemu kan. 144, a każdy następny kanon zachowuje kolejność źródłową aż do nowego kan. 243, odpowiadającego dawnemu kan. 288. Dawne oznaczenia podano w nawiasach kwadratowych wyłącznie dla identyfikacji pochodzenia normy.
+**Zasada włączenia i zachowania mocy normatywnej. § 1.** Wszystkie poniższe kanony stanowią integralną i obowiązującą część Księgi IVa. Zostały włączone do nowej numeracji przez przyporządkowanie: nowy kan. 99 odpowiada dawnemu kan. 144, a każdy następny kanon zachowuje kolejność źródłową aż do nowego kan. 243, odpowiadającego dawnemu kan. 288. Dawne oznaczenia podano w nawiasach kwadratowych wyłącznie dla identyfikacji pochodzenia normy.
 
 **§ 2.** Włączenie kanonu do niniejszej Księgi nie przekształca obowiązku w zalecenie, możliwości w zakaz ani uprawnienia w obowiązek. Jeżeli dawny przepis nakładał obowiązek na Głowę Rodu, Małżonkę, wspólnotę lub inny wskazany podmiot, obowiązek ten pozostaje wiążący w zakresie określonym jego treścią, z uwzględnieniem kan. 94–98 i przepisów ochronnych niniejszej Księgi.
 
