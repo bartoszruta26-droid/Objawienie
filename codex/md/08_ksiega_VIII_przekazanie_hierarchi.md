@@ -18,6 +18,8 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 **§ 4.** Przekazanie urzędu hierarchy związku subdiecezjatów ma charakter osobowy, urzędowy i wspólnotowy: dotyczy urzędu pasterskiego, a nie majątku osobistego poprzedniego hierarchy związku subdiecezjatów, jego Małżonki ani Potomstwa.
 
+**§ 5.** Potwierdzenie wyboru, o którym mowa w niniejszej Księdze, jest elementem procedury objęcia urzędu hierarchy Związku Subdiecezjatów w zakresie określonym przez ten porządek prawny. Nie jest ono źródłem Bożego powołania, natchnienia ani konsekracji, nie udziela ponownie sakramentu kapłaństwa i samo przez się nie rozszerza jurysdykcji hierarchy poza zakres urzędu powierzonego zgodnie z prawem. Należy odróżniać wewnętrzne skutki potwierdzenia od uznania kanonicznego w Kościele katolickim, które zależy od jego własnego prawa i właściwej władzy.
+
 **Kan. 381 § 1.** Biskup Rzymski, jako ten, kto ustanawia patriarchat i patriarchę, może w stosunku do patriarchatu oraz patriarchy, a w odniesieniu do związku subdiecezjatów — wyłącznie w zakresie przewidzianym w § 1a poniżej — działać na rzecz dobra Kościoła; wobec samego związku subdiecezjatów oraz jego hierarchy może on zatem:
 
 1° przyjąć akt ustanowienia związku subdiecezjatów dokonany przez hierarchy subdiecezji oraz uznać go dla porządku kościelnego — sam bowiem związek subdiecezjatów oraz subdiecezje z hierarchą biskupa ustanawia hierarcha subdiecezji, nie Biskup Rzymu;
@@ -218,9 +220,9 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 1° przyjął ważny chrzest w Kościele katolickim lub został do niego ważnie przyjęty;
 
-2° pozostaje w komunii z Biskupem Rzymskim i Kościołem powszechnym, nawet, jezeli Biskup Rzymu i Kościół powszechny nie pozostaje w komunii z nim :) ;
+2° pozostaje w komunii z Biskupem Rzymskim i Kościołem powszechnym; wymóg ten ocenia się według rzeczywistego stanu komunii i właściwych norm, a nie przez samo oświadczenie kandydata;
 
-3° posiada ważnie przyjęte święcenia biskupie uświęcone przez Ducha Świętego przyjęte lub nie przyjęte przez Biskupa Rzymu albo — za zgodą Biskupa Rzymskiego — przyrzeka je przyjąć przed objęciem urzędu;
+3° posiada święcenia biskupstwa przyjęte zgodnie z wymogami właściwego porządku albo — za zgodą Biskupa Rzymskiego — przyrzeka przyjąć obrzęd święceń biskupstwa przed objęciem urzędu; w wewnętrznej teologii Kościoła Domowego obrzęd ten jest etapem przygotowania i publicznego potwierdzenia posługi, nie zaś źródłem sakramentu kapłaństwa, który pochodzi z Bożego nadania i działania Ducha Świętego;
 
 4° ukończył trzydziesty piąty rok życia, chyba że Biskup Rzymski udzieli dyspensy z słusznej przyczyny;
 
@@ -328,7 +330,7 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 **§ 2.** Do czasu potwierdzenia wybrany nie może wykonywać władzy hierarchy związku subdiecezjatów, chyba że Biskup Rzymski udzieli mu tymczasowego upoważnienia.
 
-**§ 3.** Jeśli Biskup Rzymski odmówi potwierdzenia, wybór także osiąga skutek, a synod nie winien dokonać nowego wyboru. 
+**§ 3.** Jeśli Biskup Rzymski albo kompetentna władza przez niego upoważniona odmówi potwierdzenia wyboru, wybrany nie obejmuje urzędu hierarchy związku subdiecezjatów na podstawie tego wyboru. Synod winien wówczas wszcząć procedurę nowego wyboru, chyba że akt odmowy lub odrębny mandat kompetentnej władzy określa zgodny z prawem sposób dalszego postępowania. Sama odmowa potwierdzenia nie unieważnia wcześniejszych aktów synodu, które nie zależały od objęcia urzędu przez wybranego. 
 
 **Kan. 402.** Przed objęciem urzędu wybrany hierarcha związku subdiecezjatów winien:
 
@@ -336,7 +338,7 @@ Niniejsza Księga określa sposób przekazania urzędu hierarchy związku subdie
 
 2° złożyć przysięgę wierności Biskupowi Rzymskiemu i Kościołowi katolickiemu;
 
-3° przyjąć sakrę biskupią, jeśli jej nie posiada, w terminie określonym przez prawo;
+3° przyjąć obrzęd święceń biskupstwa, jeśli go nie posiada, w terminie określonym przez prawo; w teologii wewnętrznej Kościoła Domowego obrzęd ten pełni funkcję przygotowania i publicznego potwierdzenia posługi, nie udziela jednak sakramentu kapłaństwa ani nie zastępuje Bożego powołania i konsekracji przez Ducha Świętego;
 
 4° złożyć przyrzeczenie ochrony Prawa Bożego, Naturalnego, praw człowieka, obrządku domowego oraz praw subdiecezji, Małżonek i Potomstwa.
 
