@@ -15,6 +15,7 @@
 | [`07_ksiega_VII_przyjecie_i_oddalenie.md`](./07_ksiega_VII_przyjecie_i_oddalenie.md) | Księga VII — Przyjęcie biskupa i oddalenie | kan. 345–379 |
 | [`07a_ksiega_VIIa_przyjecie_oddalenie_i_ochrona_dziedzictwa.md`](./07a_ksiega_VIIa_przyjecie_oddalenie_i_ochrona_dziedzictwa.md) | Księga VIIa — Przyjęcie, oddalenie i ochrona dziedzictwa subdiecezji domowej (uporządkowana redakcja Księgi VII) | kan. 345–379 |
 | [`08_ksiega_VIII_przekazanie_hierarchi.md`](./08_ksiega_VIII_przekazanie_hierarchi.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
+| [`08a_ksiega_VIIIa_sukcesja_i_przekazanie_urzedu.md`](./08a_ksiega_VIIIa_sukcesja_i_przekazanie_urzedu.md) | Księga VIIIa — Sukcesja, wybór i przekazanie urzędu hierarchy Związku Subdiecezjatów (uporządkowana redakcja Księgi VIII) | kan. 380–433 |
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
@@ -164,7 +165,22 @@
 - **Tytuł IV: OCHRONA OBRZĄDKU, DZIEDZICTWA INTELEKTUALNEGO I PRAW OSOBOWYCH** — kan. 368–373
 - **Tytuł V: PRZEPISY PRZEJŚCIOWE, DEROGACYJNE I KOŃCOWE** — kan. 374–379
 
-## Księga VIII — Przekazanie patriarchatu i przepisy końcowe
+## Księga VIII — Przekazanie patriarchatu i przepisy końcowe (tekst źródłowy)
+
+## Księga VIIIa — Sukcesja, wybór i przekazanie urzędu hierarchy Związku Subdiecezjatów
+- **Tytuł I: NATURA URZĘDU I ZASADY SUKCESJI** — kan. 380–385
+- **Tytuł II: WAKANS I ZARZĄD TYMCZASOWY** — kan. 386–389
+- **Tytuł III: SYNOD WYBORCZY** — kan. 390–394
+- **Tytuł IV: KANDYDACI I ROZEZNANIE** — kan. 395–398
+- **Tytuł V: GŁOSOWANIE I PRZYJĘCIE WYBORU** — kan. 399–403
+- **Tytuł VI: PRZEKAZANIE URZĘDU I DÓBR POWIERZONYCH** — kan. 404–412
+- **Tytuł VII: OCHRONA POPRZEDNIKA, MAŁŻONKI I POTOMSTWA** — kan. 413–416
+- **Tytuł VIII: RELACJE HIERARCHY ZWIĄZKU Z SUBDIECEZJATAMI** — kan. 417–419
+- **Tytuł IX: PRZYPADKI SZCZEGÓLNE I NIEMOŻNOŚĆ WYBORU** — kan. 420–425
+- **Tytuł X: ODPOWIEDZIALNOŚĆ ZA NARUSZENIE SUKCESJI** — kan. 426–428
+- **Tytuł XI: WYKŁADNIA I PRZEPISY KOŃCOWE** — kan. 429–433
+
+## Księga VIII — dawny układ źródłowy (zestawienie tytułów)
 - **Tytuł I: ZASADY OGÓLNE PRZEKAZANIA PATRIARCHATU** — kan. 380–385
 - **Tytuł II: WAKANS PATRIARCHATU I RZĄDY TYMCZASOWE** — kan. 386–389
 - **Tytuł III: SYNOD PATRIARCHALNY WYBORCZY** — kan. 390–394
