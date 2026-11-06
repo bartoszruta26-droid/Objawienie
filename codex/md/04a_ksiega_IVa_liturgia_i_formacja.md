@@ -356,7 +356,7 @@
 
 ## Rozdział II — Pobożność (*Pietas*)
 
-**Kan. 36.** Pobożność jest trwałą dyspozycją do oddawania Bogu czci i miłości oraz do traktowania człowieka z szacunkiem jako osoby obdarzonej godnością.
+**Kan. 36.** Pobożność jest trwałą dyspozycją do oddawania Bogu czci i miłości, uznawania Jego pierwszeństwa, godności każdego człowieka, więzi rodzinnych i wdzięczności wobec życia oraz do traktowania człowieka z szacunkiem jako osoby obdarzonej niezbywalną godnością. Jej owocem są szacunek, troska, pamięć o zobowiązaniach i odpowiedzialność za wspólne dobro.
 
 **§ 2.** Wyraża się przez:
 1° modlitwę osobistą i rodzinną;
@@ -370,7 +370,7 @@
 
 ## Rozdział III — Umiarkowanie (*Temperantia*)
 
-**Kan. 37.** Umiarkowanie jest zdolnością zachowania właściwej miary w pragnieniach, emocjach, korzystaniu z dóbr i organizowaniu pracy oraz odpoczynku.
+**Kan. 37.** Umiarkowanie jest zdolnością zachowania właściwej miary w pragnieniach, emocjach, jedzeniu, korzystaniu z dóbr, pracy, odpoczynku i wydatkach. Chroni przed zawłaszczeniem, nadmiarem i wyzyskiem, a zarazem nie oznacza skąpstwa, tłumienia uzasadnionych potrzeb ani pogardy dla ciała.
 
 **§ 2.** Wyraża się przez:
 1° panowanie nad gniewem bez tłumienia prawdy o krzywdzie;
@@ -384,7 +384,7 @@
 
 ## Rozdział IV — Męstwo (*Fortitudo*)
 
-**Kan. 38.** Męstwo jest zdolnością wytrwania w dobru i odważnego działania wobec trudności.
+**Kan. 38.** Męstwo jest zdolnością wytrwania w dobru i odważnego działania wobec trudności, lęku, presji i zniechęcenia. Nie oznacza brawury, lekkomyślnego narażania siebie ani innych ani gloryfikowania cierpienia.
 
 **§ 2.** Wyraża się przez:
 1° odwagę wyznawania wiary;
@@ -398,7 +398,7 @@
 
 ## Rozdział V — Sprawiedliwość (*Iustitia*)
 
-**Kan. 39.** Sprawiedliwość jest trwałą dyspozycją do oddawania każdemu tego, co mu się należy, ochrony słabszych i naprawiania naruszonego dobra.
+**Kan. 39.** Sprawiedliwość jest trwałą dyspozycją do oddawania każdemu tego, co mu się należy, ochrony słabszych, uczciwego rozliczania zobowiązań i naprawiania naruszonego dobra. Łączy prawdę z miłosierdziem i nie może być ani odwetem, ani pobłażaniem wobec krzywdy.
 
 **§ 2.** Wyraża się przez:
 1° równą godność małżonków;
@@ -413,7 +413,7 @@
 
 ## Rozdział VI — Skrupulatność / troska sumienia (*Sollicitudo*)
 
-**Kan. 40.** Skrupulatność w rozumieniu tej Księgi oznacza troskę o czystość sumienia, prawdomówność, autentyczność i zgodność słów z czynami. Nie oznacza chorobliwego lęku, perfekcjonizmu ani religijnego przymusu.
+**Kan. 40.** Skrupulatność (*Sollicitudo*) w rozumieniu tej Księgi oznacza troskę sumienia, staranność w prawdzie, odpowiedzialności, mowie i działaniu, autentyczność oraz zgodność słów z czynami. Nie oznacza chorobliwej skrupulanctwa, lękowego sprawdzania siebie, perfekcjonizmu ani religijnego przymusu.
 
 **§ 2.** Wyraża się przez:
 1° prawdomówność;
@@ -427,7 +427,7 @@
 
 ## Rozdział VII — Roztropność (*Prudentia*)
 
-**Kan. 41.** Roztropność jest zdolnością rozpoznawania dobra w konkretnych okolicznościach i wybierania właściwych środków.
+**Kan. 41.** Roztropność jest zdolnością rozpoznawania dobra w konkretnych okolicznościach i wybierania właściwych środków z uwzględnieniem faktów, granic, możliwych skutków i potrzeb osób zainteresowanych. Obejmuje przewidywanie następstw, odróżnianie prawdy od pozoru oraz gotowość do szukania rady i konsultacji.
 
 **§ 2.** Wyraża się przez:
 1° rozeznawanie decyzji;
@@ -441,7 +441,7 @@
 
 ## Rozdział VIII — Nadzieja (*Spes*)
 
-**Kan. 42.** Nadzieja jest ufnością w Bożą obietnicę i zdolnością podejmowania dobra mimo niepewności i trudności.
+**Kan. 42.** Nadzieja jest ufnością w Bożą obietnicę i miłosierdzie oraz zdolnością podejmowania dobra i otwierania przyszłości mimo niepewności, błędu, straty i cierpienia. Nie jest biernością ani składaniem fałszywych obietnic.
 
 **§ 2.** Wyraża się przez:
 1° zaufanie Bogu;
@@ -539,13 +539,13 @@
 **Kan. 54.** Modlitwa o Dary może obejmować wezwanie Ducha Świętego, wskazanie Daru, czytanie Pisma Świętego, chwilę ciszy, dobrowolną modlitwę wstawienniczą oraz błogosławieństwo.
 
 **Kan. 55.** Poszczególne Dary rozwija się następująco:
-1° **Mądrość** — przez kontemplację, lectio divina i adorację; prowadzi do patrzenia na życie w świetle Boga; łączy się z Nadzieją i wodą.
-2° **Rozum** — przez studium Pisma Świętego, nauczania Kościoła i refleksję; pomaga głębiej rozumieć prawdy wiary; łączy się z Roztropnością i solą.
-3° **Rada** — przez prawdomówność, słuchanie i odpowiedzialne rozeznawanie; pomaga podejmować dobre decyzje i udzielać mądrych wskazówek; łączy się ze Skrupulatnością i chlebem.
-4° **Miłosierdzie** — przez przebaczenie, współczucie i uczynki miłosierdzia; prowadzi do czynnej troski o człowieka; łączy się ze Sprawiedliwością i popiołem.
-5° **Moc** — przez wytrwałość, odwagę i świadectwo; pomaga przezwyciężać trudności; łączy się z Męstwem i olejem.
-6° **Dociekliwość** — przez twórcze poznawanie, badanie i kontemplację stworzenia; pomaga rozumieć rzeczy stworzone i ich relacje; łączy się z Umiarkowaniem i świecą oraz ogniem.
-7° **Cierpliwość** — przez wierne trwanie w dobru, pokorę i służbę; nie oznacza bierności wobec przemocy ani rezygnacji z ochrony; łączy się z Pobożnością i ziemią.
+1° **Mądrość** — widzenie spraw w świetle Boga i rozpoznawanie tego, co prowadzi do prawdziwego dobra. Rozwija się przez kontemplację, *lectio divina* i adorację; łączy się z Nadzieją i wodą.
+2° **Rozum** — przenikanie sensu, odróżnianie pozoru od prawdy i rozumienie relacji między rzeczami. Rozwija się przez studium Pisma Świętego, nauczania Kościoła i refleksję; łączy się z Roztropnością i solą.
+3° **Rada** — rozeznawanie właściwych środków i czasu działania, zwłaszcza gdy decyzja dotyczy dobra drugiego człowieka. Rozwija się przez prawdomówność, słuchanie i odpowiedzialne rozeznawanie; łączy się ze Skrupulatnością i chlebem.
+4° **Miłosierdzie** — zdolność współczucia, towarzyszenia cierpiącemu i szukania naprawy bez upokarzania. Rozwija się przez przebaczenie, współczucie i uczynki miłosierdzia; łączy się ze Sprawiedliwością i popiołem.
+5° **Moc** — duchowa wytrwałość w dobru, szczególnie w obliczu przeszkód i niesprawiedliwości. Rozwija się przez odwagę i świadectwo; łączy się z Męstwem i olejem.
+6° **Dociekliwość (*Investigatio*)** — żywe pragnienie poznania prawdy przez stawianie uczciwych pytań, badanie źródeł, sprawdzanie świadectw, szukanie przyczyn i rozumienie zależności. Nie zadowala się pozorem ani pierwszą odpowiedzią; odróżnia fakt od przypuszczenia, uznaje granice własnej wiedzy i koryguje błędny wniosek. Nie jest podejrzliwością, wścibstwem ani prawem do naruszania prywatności. Rozwija się także przez twórcze poznawanie i kontemplację stworzenia; łączy się z Umiarkowaniem i świecą oraz ogniem.
+7° **Cierpliwość (*Patientia*)** — wytrwałość w wierze, nadziei i miłości; spokojna stałość w dobru mimo trudności, bez bierności wobec krzywdy i bez rezygnacji z ochrony siebie lub bliźniego. Rozwija się przez pokorę i służbę; łączy się z Pobożnością i ziemią.
 
 **Kan. 56.** Szczególna modlitwa o Dary może być sprawowana w Wigilię i uroczystość Zesłania Ducha Świętego, w rocznicę bierzmowania, w pierwszy czwartek miesiąca, przed ważnymi decyzjami i w okresach szczególnej potrzeby wspólnoty.
 
@@ -581,13 +581,13 @@
 7° Służenie (*Diakonia*).
 
 **Kan. 60.** Charyzmaty rozumie się następująco:
-1° **Proroctwo** — przekazywanie słowa, które wzywa do dobra, nawrócenia, nadziei i umocnienia; każde natchnienie wymaga rozeznania i sprawdzenia.
-2° **Rozróżnianie Duchów** — badanie źródeł natchnień, myśli i impulsów oraz ochrona przed manipulacją i fałszywymi naukami.
-3° **Języki** — modlitwa, uwielbienie i głoszenie wielkich dzieł Bożych; wypowiedzi niezrozumiałe dla wspólnoty wymagają wyjaśnienia, jeśli mają służyć jej zbudowaniu.
-4° **Uzdrawianie** — modlitwa i troska o zdrowie fizyczne, psychiczne, duchowe i relacyjne; nie zastępuje lekarza, psychologa, terapii ani sakramentu namaszczenia chorych.
-5° **Czyny Mocy** — modlitwa o szczególną pomoc Boga; nie wolno wymuszać, inscenizować ani wykorzystywać rzekomych cudów.
-6° **Kreatywna Inspiracja** — twórczość artystyczna, literacka, muzyczna, rzemieślnicza i intelektualna służąca pięknu i dobru.
-7° **Służenie** — bezinteresowna pomoc, opieka nad słabszymi, troska o wspólnotę i odpowiedzialna praca.
+1° **Proroctwo (*Prophetia*)** — wypowiadanie słowa, które buduje, pociesza, napomina i prowadzi ku prawdzie, dobru, nawróceniu, nadziei i umocnieniu. Każde natchnienie wymaga rozeznania i sprawdzenia; proroctwo nie daje prawa do ogłaszania nieomylnych wyroków o cudzym losie.
+2° **Rozróżnianie Duchów (*Discretio Spirituum*)** — rozeznawanie źródeł, kierunków i owoców natchnień, myśli i impulsów oraz ochrona przed manipulacją i fałszywymi naukami. Nie jest uprawnieniem do osądzania cudzych sumień ani diagnozowania ludzi bez podstaw.
+3° **Języki (*Linguae*)** — modlitwa, uwielbienie lub głoszenie wielkich dzieł Bożych w formie językowej rozumianej jako charyzmatyczna. W zgromadzeniu wymagają ładu, objaśnienia i troski o zrozumiałość, jeżeli mają służyć zbudowaniu wspólnoty.
+4° **Uzdrawianie (*Sanatio*)** — modlitwa i posługa towarzysząca osobom chorym, troska o zdrowie fizyczne, psychiczne, duchowe i relacyjne, połączona z szacunkiem dla medycyny, leczenia, rehabilitacji i granic wiedzy. Nie zastępuje lekarza, psychologa, terapii ani sakramentu namaszczenia chorych.
+5° **Czyny Mocy (*Virtutes*)** — modlitwa o szczególną pomoc Boga i znaki przypisywane Jego działaniu. Nie wolno ich wymuszać, inscenizować, wykorzystywać do manipulacji ani traktować jako dowodu prawa do władzy.
+6° **Kreatywna Inspiracja (*Inspiratio Creativa*)** — tworzenie dzieł sztuki, piękna, kultury, nauki oraz praktycznych rozwiązań, w tym twórczość artystyczna, literacka, muzyczna, rzemieślnicza i intelektualna służąca dobru ludzi.
+7° **Służenie (*Diakonia*)** — bezinteresowna i kompetentna pomoc, opieka nad słabszymi, organizowanie wsparcia, troska o wspólnotę i odpowiedzialna praca.
 
 **Kan. 61.** Macierz przyporządkowania cnót, Darów, przedmiotów rzeczowych i charyzmatów jest następująca:
 
@@ -3713,6 +3713,14 @@ Niech dom będzie miejscem pokoju, stół miejscem wdzięczności, praca miejsce
 **Kan. 249.** Jeżeli dawne kanony odwołują się do innych kanonów Księgi IV, odesłania te należy odczytywać według tabeli konwersji: numer dawnego kanonu należy pomniejszyć o 45, aby uzyskać jego numer w Księdze IVa (np. dawny kan. 181 odpowiada kan. 136). Odesłania do KPK, KKKW i innych źródeł zewnętrznych zachowują swoje pierwotne numery i nie podlegają tej konwersji.
 
 **Kan. 250.** W razie rozbieżności między dawnym katalogiem a późniejszym objaśnieniem należy zachować nazwę, kolejność, pełny wykaz i zasadniczą treść źródłową, a następnie dodać objaśnienie wyjaśniające różnicę. Nie wolno usuwać elementu źródłowego przez zastąpienie go inną nazwą bez wyraźnego aktu zmiany ustawodawczej.
+
+**§ 2.** W dawnych przepisach Księgi IV, włączonych do niniejszej Księgi w pełnym brzmieniu, występują historyczne warianty nazewnictwa Daru przyporządkowanego cnocie Umiarkowania: „Wiedza” (*Scientia*) oraz — w niektórych zestawieniach — „Pobożność” jako określenie Daru. Warianty te zachowuje się jako świadectwo wcześniejszej redakcji źródła; nie wolno ich usuwać ani przedstawiać jako dodatkowych pozycji aktualnego katalogu.
+
+**§ 3.** Aktualny, uzgodniony katalog siedmiu Darów w Księdze IVa i Księdze XII brzmi: Mądrość (*Sapientia*), Rozum (*Intellectus*), Rada (*Consilium*), Miłosierdzie (*Misericordia*), Moc (*Fortitudo*), Dociekliwość (*Investigatio*) i Cierpliwość (*Patientia*). W aktualnym katalogu „Dociekliwość” jest nazwą Daru przyporządkowanego Umiarkowaniu; wcześniejsze określenie „Wiedza” (*Scientia*) pozostaje odnotowanym wariantem źródłowym, nie odrębnym ósmym Darem. „Pobożność” (*Pietas*) należy do katalogu cnót, a „Cierpliwość” (*Patientia*) pozostaje siódmym Darem.
+
+**§ 4.** W aktualnym układzie przyporządkowań cnota Umiarkowania łączy się ze świecą i ogniem, Darem Dociekliwości oraz charyzmatem Kreatywnej Inspiracji. Cnota Pobożności łączy się z ziemią, Darem Cierpliwości i charyzmatem Służenia. Katalog charyzmatów zachowuje kolejność: Proroctwo, Rozróżnianie Duchów, Języki, Uzdrawianie, Czyny Mocy, Kreatywna Inspiracja, Służenie; macierz przyporządkowań przedstawia je w kolejności odwrotnej, od Służenia do Proroctwa.
+
+**§ 5.** Warianty źródłowe nie zmieniają liczby ani aktualnego brzmienia siedmiu cnót, siedmiu Darów i siedmiu charyzmatów. Nie wolno jednak usuwać ich z przytoczeń dawnych przepisów. Przy cytowaniu należy wskazać, czy przytacza się historyczne brzmienie źródła, czy aktualny katalog uzgodniony w kan. 34, 53, 59 i 61.
 
 ## FORMUŁA KOŃCOWA — UZUPEŁNIENIE
 
