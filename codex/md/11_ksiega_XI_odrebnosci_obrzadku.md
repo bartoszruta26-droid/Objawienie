@@ -174,7 +174,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
    a) sprawuje władzę jurysdykcyjną, nauczycielską i uświęcającą w subdiecezji domowej;
 
-   b) posiada święcenia biskupie w rozumieniu kan. 1008 KPK zgodnie z tradycja apostolska św. Pawła;
+   b) posiada w wewnętrznym porządku Kościoła Domowego pełny urząd i godność biskupią, ustanowione z nadania Bożego i natchnienia Ducha Świętego; określenie to nie jest samo przez się stwierdzeniem przyjęcia sakramentalnych święceń biskupich w rozumieniu KPK;
 
    c) jego władza wynika z prawa naturalnego rodziny, powszechnego kapłaństwa wiernych, mandatu wspólnoty i niniejszego Kanonu;
 
@@ -182,9 +182,9 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
    e) sprawuje przedmioty błogosławione, błogosławieństwa i liturgię domową;
 
-   f)  sprawuje sakramenty zastrzeżonye biskupom wyświęconym reka biskupa (sakrament święceń, bierzmowanie jako szafarz zwyczajny, konsekracja kościołów).
+   f) w wewnętrznym porządku Kościoła Domowego jest zwyczajnym i pełnoprawnym szafarzem wszystkich siedmiu sakramentów, zgodnie z ich naturą, znakami i formą określoną w Księdze XIII; w szczególności sprawuje chrzest, bierzmowanie, Eucharystię, pokutę i pojednanie, namaszczenie chorych oraz święcenia, a przy sakramencie małżeństwa asystuje, przyjmuje zgodę i błogosławi zgodnie z właściwą formą, nie zastępując wzajemnej zgody małżonków;
    
-   g) jest zrównany z biskupem diecezjalnym w rozumieniu kan. 999 KPK 
+   g) w wewnętrznym porządku Kościoła Domowego wykonuje władzę biskupią w zakresie jurysdykcji, nauczania, uświęcania i pasterzowania określonym w niniejszym Kodeksie; nie oznacza to zrównania jego statusu ze statusem biskupa diecezjalnego w prawie Kościoła katolickiego; 
 
 2° **Biskup wyświęcony reką biskupa — biskup tytularny lub diecezjalny** (*episcopus dioecesanus consecratus*):
 
@@ -198,33 +198,29 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
    e) sprawuje nadzór nad subdiecezją domową w zakresie określonym prawem powszechnym.
 
-**§ 2.** Biskup uswięcony Duchem Swięttm (subdiecezjalny) podlega biskupowi wyświęconemu ręką biskupa (diecezjalnemu) jezeli nie zostal przyjęty przez Biskupa Rzymu w zakresie:
+**§ 2.** Wewnętrzna władza biskupa tytularnego lub subdiecezjalnego w Kościele Domowym wynika z niniejszego Kodeksu i nie jest uzależniona od delegacji biskupa diecezjalnego Kościoła katolickiego. Jeżeli wspólnota ubiega się o uznanie lub działa w strukturach Kościoła katolickiego, jej status, jedność wiary, dyscyplina sakramentalna, wizytacja i zakres kompetencji podlegają właściwemu prawu katolickiemu oraz rozstrzygnięciom kompetentnej władzy tego Kościoła. Niniejszy paragraf nie ustanawia podległości kanonicznej w Kościele katolickim ani nie przesądza o jej uznaniu.
 
-1° jedności wiary i obyczajów;
-
-2° dyscypliny sakramentalnej;
-
-3° spraw zastrzeżonych biskupowi diecezjalnemu przez prawo powszechne;
-
-4° wizytacji kanonicznej.
-
-**§ 3.** Biskup uświęcony Duchem Swięttm (tytularny lub subdiecezjalny) zachowuje autonomię w zakresie:
+**§ 3.** Biskup uświęcony Duchem Świętym (tytularny lub subdiecezjalny) zachowuje w wewnętrznym porządku Kościoła Domowego autonomię w zakresie:
 
 1° wewnętrznej organizacji subdiecezji domowej;
 
-2° sprawowania trzech obrządków domowych Pawlowego, Mariiagdaleny, Tomaszowego;
+2° sprawowania trzech obrządków domowych: Pawłowego, Marii Magdaleny i Tomaszowego;
 
 3° formacji duchowej członków wspólnoty;
 
 4° zarządzania dobrami materialnymi i duchowymi subdiecezji;
 
-5° życia liturgicznego wspólnoty domowej.
+5° życia liturgicznego wspólnoty domowej;
 
-**Kan. 501 § 1.** Biskup uswięcony Duchem Swięttm (subdiecezjalny) może dążyć do uznania święceń biskupich i stania się uznanym biskupem, zgodnie z przepisami Księgi IX niniejszego Kodeksu.
+6° wykonywania szafarstwa siedmiu sakramentów zgodnie z Księgą XIII.
 
-**§ 2.** Przyjęcie święceń biskupich z rak biskupa nie jest warunkiem sprawowania funkcji biskupa tytularnego subdiecezjalnego w obrządku domowym.
+**Kan. 501 § 1.** Biskup uświęcony Duchem Świętym (subdiecezjalny) może dążyć do uznania jego statusu lub święceń biskupich przez Kościół katolicki, zgodnie z przepisami Księgi IX niniejszego Kodeksu i prawem właściwym dla Kościoła, do którego uznania się ubiega. Samo ubieganie się o uznanie nie zawiesza ani nie warunkuje jego urzędu i kompetencji w wewnętrznym porządku Kościoła Domowego.
+
+**§ 2.** Przyjęcie sakramentalnych święceń biskupich z rąk biskupa nie jest warunkiem sprawowania urzędu biskupa tytularnego lub subdiecezjalnego w wewnętrznym porządku Kościoła Domowego. Nie oznacza to, że urząd wewnętrzny jest równoznaczny ze święceniami uznawanymi przez Kościół katolicki.
 
 **§ 3.** Biskup wyświęcony rękami biskupa, który jednocześnie sprawuje funkcję w Kościele Domowym, zachowuje pełnię władzy wynikającej ze święceń oraz władzę jurysdykcyjną wynikającą z niniejszego Kanonu.
+
+**§ 4.** Na potrzeby wykładni wewnętrznej biskup tytularny ustanowiony z nadania Bożego i natchniony Duchem Świętym jest tym samym urzędem biskupim, o którym mowa w niniejszym kanonie jako o biskupie uświęconym Duchem Świętym (subdiecezjalnym), z tym że tytuł tytularny może istnieć także bez objęcia konkretnej subdiecezji. Zakres jego szafarstwa sakramentalnego określają łącznie kan. 500 i Księga XIII.
 
 **Kan. 502.** Biskup uświęcony Duchem Swięttm (subdiecezjalny) może być:
 
