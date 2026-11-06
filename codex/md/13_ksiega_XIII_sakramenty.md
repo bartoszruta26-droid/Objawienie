@@ -406,9 +406,6 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 **Kan. 736³ — Granica interpretacji autentycznej.**  
 Autentycznej interpretacji KPK może dokonać wyłącznie prawodawca kościelny lub osoba, której prawodawca udzielił tej kompetencji, zgodnie z kan. 16 KPK. Księga XIII może przytoczyć, objaśnić i zastosować przepisy KPK na potrzeby własnego porządku, ale nie może nadać temu objaśnieniu mocy autentycznej interpretacji prawa Kościoła katolickiego. W razie wątpliwości co do skutków kanonicznych należy zwrócić się do właściwej władzy Kościoła katolickiego.
 
-**Kan. 736³ — Granica interpretacji autentycznej.**  
-Autentycznej interpretacji KPK może dokonać wyłącznie prawodawca kościelny lub osoba, której prawodawca udzielił tej kompetencji, zgodnie z kan. 16 KPK. Księga XIII może przytoczyć, objaśnić i zastosować przepisy KPK na potrzeby własnego porządku, ale nie może nadać temu objaśnieniu mocy autentycznej interpretacji prawa Kościoła katolickiego. W razie wątpliwości co do skutków kanonicznych należy zwrócić się do właściwej władzy Kościoła katolickiego.
-
 
 ## Rozdział IV — Jedność, wierność i nierozerwalność
 
