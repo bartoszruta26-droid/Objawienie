@@ -413,7 +413,7 @@
 
 ## Rozdział VI — Skrupulatność / troska sumienia (*Sollicitudo*)
 
-**Kan. 40.** Skrupulatność (*Sollicitudo*) w rozumieniu tej Księgi oznacza troskę sumienia, staranność w prawdzie, odpowiedzialności, mowie i działaniu, autentyczność oraz zgodność słów z czynami. Nie oznacza chorobliwej skrupulanctwa, lękowego sprawdzania siebie, perfekcjonizmu ani religijnego przymusu.
+**Kan. 40.** Skrupulatność (*Sollicitudo*) w rozumieniu tej Księgi oznacza troskę sumienia, staranność w prawdzie, odpowiedzialności, mowie i działaniu, autentyczność oraz zgodność słów z czynami. Nie oznacza chorobliwego skrupulanctwa, lękowego sprawdzania siebie, perfekcjonizmu ani religijnego przymusu.
 
 **§ 2.** Wyraża się przez:
 1° prawdomówność;
