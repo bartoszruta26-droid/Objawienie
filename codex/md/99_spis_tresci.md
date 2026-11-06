@@ -232,6 +232,19 @@
 -   **ANEKS: TABELA ROZWIĄZAŃ DLA NIERUCHOMOŚCI NIEPODZIELNYCH**
 
 
+## Księga Xa — Nieruchomości Kościoła Domowego i subdiecezji
+- **Tytuł I: Natura nieruchomości i prawo własności** — kan. 463–465
+- **Tytuł II: Dom rodzinny i siedziba Kościoła Domowego** — kan. 466–470
+- **Tytuł III: Współwłasność i prawo korzystania** — kan. 471–474
+- **Tytuł IV: Kaplica domowa i nieruchomości o przeznaczeniu sakralnym** — kan. 475
+- **Tytuł V: Zbycie, obciążenie i zmiana przeznaczenia nieruchomości** — kan. 476–478
+- **Tytuł VI: Dziedziczenie i ciągłość nieruchomości po śmierci rodziców** — kan. 479–481
+- **Tytuł VII: Nieruchomości nowych Kościołów Domowych** — kan. 482–484
+- **Tytuł VIII: Zarząd, utrzymanie, ochrona i rozstrzyganie sporów** — kan. 485–489
+- **Tytuł IX: Przepisy końcowe i zasady wykładni** — kan. 490–491
+- **Aneks: Tabela korespondencji z Księgą X**
+
+
 ## Księga XI — Odrębności obrządku domowego od obrządku łacińskiego
 
 - **Tytuł I: Celibat i małżeństwo w obrządku domowym** — kan. 492–495
