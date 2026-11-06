@@ -170,11 +170,11 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **Kan. 500 § 1.** W obrządku domowym rozróżnia się dwa rodzaje biskupstwa:
 
-1° **Biskup uświęcony Duchem Świętym — biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus non consecratus*):
+1° **Biskup uświęcony Duchem Świętym — biskup tytularny lub subdiecezjalny** (*episcopus titularis subdioecesanus Spiritu Sancto consecratus*):
 
    a) sprawuje władzę jurysdykcyjną, nauczycielską i uświęcającą w zakresie urzędu powierzonego mu przez prawo wewnętrzne; jeżeli obejmuje subdiecezję domową, wykonuje tę władzę nad tą subdiecezją;
 
-   b) posiada w wewnętrznym porządku Kościoła Domowego pełny urząd i godność biskupią, ustanowione z nadania Bożego i natchnienia Ducha Świętego; określenie to nie jest samo przez się stwierdzeniem przyjęcia sakramentalnych święceń biskupich w rozumieniu KPK;
+   b) jest konsekrowany w sposób właściwy temu powołaniu: nie przez nałożenie rąk innego biskupa, lecz przez natchnienie i działanie Ducha Świętego, który udziela mu święceń biskupich w porządku Kościoła Domowego; jego konsekracja jest rzeczywistą konsekracją duchową i podstawą pełnienia urzędu biskupiego w tym porządku;
 
    c) jego władza wynika z prawa naturalnego rodziny, powszechnego kapłaństwa wiernych, mandatu wspólnoty i niniejszego Kanonu;
 
@@ -218,7 +218,7 @@ Niniejsza Księga nie uchyla dyscypliny celibatu obowiązującej w obrządku ła
 
 **Kan. 501 § 1.** Biskup uświęcony Duchem Świętym (subdiecezjalny) może dążyć do uznania jego statusu lub święceń biskupich przez Kościół katolicki, zgodnie z przepisami Księgi IX niniejszego Kodeksu i prawem właściwym dla Kościoła, do którego uznania się ubiega. Samo ubieganie się o uznanie nie zawiesza ani nie warunkuje jego urzędu i kompetencji w wewnętrznym porządku Kościoła Domowego.
 
-**§ 2.** Przyjęcie sakramentalnych święceń biskupich z rąk biskupa nie jest warunkiem sprawowania urzędu biskupa tytularnego lub subdiecezjalnego w wewnętrznym porządku Kościoła Domowego. Nie oznacza to, że urząd wewnętrzny jest równoznaczny ze święceniami uznawanymi przez Kościół katolicki.
+**§ 2.** Konsekracja biskupa tytularnego lub subdiecezjalnego dokonuje się przez natchnienie i działanie Ducha Świętego, a nie przez nałożenie rąk innego biskupa. Brak obrzędu nałożenia rąk nie oznacza braku konsekracji: biskup jest konsekrowany Duchem Świętym i otrzymuje święcenia biskupie w rozumieniu wewnętrznego prawa Kościoła Domowego. Uznanie tej konsekracji i jej skutków przez Kościół katolicki pozostaje odrębną kwestią, rozstrzyganą według jego własnego prawa.
 
 **§ 3.** Biskup wyświęcony rękami biskupa, który jednocześnie sprawuje funkcję w Kościele Domowym, zachowuje pełnię władzy wynikającej ze święceń oraz władzę jurysdykcyjną wynikającą z niniejszego Kanonu.
 
