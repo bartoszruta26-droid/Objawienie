@@ -387,6 +387,21 @@ Księga XIII przedstawia wewnętrzną naukę Kościoła Domowego o szafarzu świ
 
 **Kan. 736.** Wewnętrzna ceremonia Kościoła Domowego może wyrażać błogosławieństwo, przymierze i publiczne zobowiązanie małżonków. Sama przez się nie zastępuje formy kanonicznej wymaganej do zawarcia małżeństwa katolickiego.
 
+**Kan. 736¹ — Odniesienie do prawa kanonicznego Kościoła katolickiego.**  
+§ 1. Kan. 1087 KPK stanowi, że nieważnie usiłują zawrzeć małżeństwo ci, którzy otrzymali święcenia. Jest to przeszkoda zrywająca wynikająca z prawa kościelnego; jej skutki oraz możliwość dyspensy należy oceniać według właściwych przepisów i kompetencji władzy kościelnej.  
+§ 2. Kan. 194 § 1, 3° KPK stanowi, że mocą samego prawa zostaje usunięty z urzędu kościelnego duchowny, który usiłował zawrzeć małżeństwo, choćby tylko cywilne. Zgodnie z kan. 194 § 2 skutek ten może być egzekwowany dopiero po stwierdzeniu faktu przez właściwą władzę. Nie należy utożsamiać tej normy z samym zawieszeniem wykonywania urzędu ani z automatycznym odzyskaniem urzędu po późniejszym zawarciu małżeństwa.  
+§ 3. KPK nie podaje jako motywu kan. 194 zasady, że duchowny traci urząd po to, aby stać się równy współmałżonkowi. Takie uzasadnienie może być przyjęte jako teologiczna i ustrojowa zasada Kościoła Domowego, lecz nie wolno przedstawiać go jako dosłownej ani autentycznej interpretacji KPK.
+
+**Kan. 736² — Równość małżonków a urząd duchownego w Kościele Domowym.**  
+§ 1. W porządku wewnętrznym Kościoła Domowego duchowny, który podejmuje zamiar zawarcia małżeństwa, nie może wykorzystywać swojego urzędu, świętego statusu ani kompetencji duszpasterskich do wywierania zwierzchnictwa nad osobą, z którą zamierza zawrzeć małżeństwo. Od chwili formalnego zgłoszenia zamiaru zawarcia małżeństwa do czasu jego dokonania zawiesza się wykonywanie wszelkiej władzy urzędowej wobec przyszłego współmałżonka.  
+§ 2. Z chwilą ważnego i zgodnego z prawem dokonania małżeństwa duchowny odzyskuje urząd wewnętrzny, który sprawował przed okresem przygotowania do małżeństwa, o ile nie zachodzi inna, niezależna przeszkoda prawna. Odzyskanie urzędu nie przywraca ani nie ustanawia zwierzchnictwa nad współmałżonkiem.  
+§ 3. Małżonkowie pozostają równi w godności, prawach i obowiązkach. Urząd kościelny jednego z nich nie ustanawia władzy nad sumieniem, decyzjami, ciałem, majątkiem ani osobistą wolnością drugiego.  
+§ 4. Norma niniejsza reguluje wyłącznie wewnętrzny porządek Kościoła Domowego. Nie uchyla skutków kan. 1087 ani kan. 194 KPK i nie może być przedstawiana jako przywrócenie urzędu w Kościele katolickim.
+
+**Kan. 736³ — Granica interpretacji autentycznej.**  
+Autentycznej interpretacji KPK może dokonać wyłącznie prawodawca kościelny lub osoba, której prawodawca udzielił tej kompetencji, zgodnie z kan. 16 KPK. Księga XIII może przytoczyć, objaśnić i zastosować przepisy KPK na potrzeby własnego porządku, ale nie może nadać temu objaśnieniu mocy autentycznej interpretacji prawa Kościoła katolickiego. W razie wątpliwości co do skutków kanonicznych należy zwrócić się do właściwej władzy Kościoła katolickiego.
+
+
 ## Rozdział IV — Jedność, wierność i nierozerwalność
 
 **Kan. 737.** Małżeństwo wymaga wzajemnej wierności i troski. Jedność nie oznacza wymazania osobowości, sumienia, praw ani odrębności każdego z małżonków.
