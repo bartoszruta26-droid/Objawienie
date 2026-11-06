@@ -283,3 +283,31 @@ Nie zmieniono Księgi XIII, ponieważ jej kan. 713, 714, 718, 720 i 725 zawieraj
 **Wykonano i zweryfikowano w repozytorium:** Księga Ia, Va, VI i VIII.
 
 **Pozostaje do dalszej kontroli:** pełna konkordancja Księgi IV z IVa, harmonizacja IIIa z VI i XIII w zakresie wszystkich przepisów o kompetencjach oraz audyt Księgi VIa po odnalezieniu jej pliku. Niniejsze korekty nie oznaczają jeszcze zakończenia całego audytu systemowego.
+
+
+## UZUPEŁNIENIE AUDYTU — KONKORDANCJA IV/IVa I HARMONIZACJA IIIa
+
+### A. Księga IV → Księga IVa
+
+Utworzono osobny dokument: `codex/md/konkordancja_Ksiegi_IV_z_IVa.md`. Zawiera 145 odrębnych pozycji odpowiadających wszystkim kanonom źródłowym Księgi IV od 144 do 288, wskazanie tematycznych odpowiedników w Księdze IVa, status zachowania oraz omówienie głównych różnic. Uwzględniono także trzy nienumerowane nagłówki „Kan. XXX” i 16 dawnych kanonów przywróconych w końcowym bloku IVa.
+
+**Wynik:** IVa jest nową, przeorganizowaną i miejscami skróconą redakcją. Konkordancja wskazuje odpowiedniki tematyczne, ale nie stwierdza automatycznie pełnej równoważności norm. W szczególności do decyzji prawodawcy pozostają: siła obowiązku dawnych przepisów, zakres kompetencji Głowy Rodu, pełne katalogi formacyjne, szczegółowe obowiązki dokumentacyjne i celebracyjne oraz status przywróconych kanonów. Nie należy uznawać treści za zachowaną tylko dlatego, że nowy kanon dotyczy podobnego tematu.
+
+### B. Księga IIIa — kompetencje i jurysdykcja
+
+Zharmonizowano kan. 117–120 oraz 132–138, 140 i 143. Zmiany obejmują:
+- wyraźne rozróżnienie Bożego powołania, natchnienia Ducha Świętego, sakramentu kapłaństwa, konsekracji, urzędu, misji pasterskiej i jurysdykcji;
+- zachowanie pełnej definicji biskupa tytularnego przez odesłanie do Księgi I, kan. 10a Księgi Ia i kan. 319 Księgi VI, bez zawężenia jej do tytułu administracyjnego;
+- wskazanie, że sakrament kapłaństwa i konsekracja — w teologii wewnętrznej — pochodzą od Ducha Świętego, a nie z samego aktu administracyjnego lub obrzędu święceń (Księga XIII, kan. 713–714);
+- rozdzielenie duchowej misji biskupa tytularnego od konkretnego objęcia urzędu i nabycia kompetencji jurysdykcyjnych, zgodnie z Księgą XIII, kan. 718 i 725;
+- określenie, że domniemanie przyjęcia posługi przez Biskupa Rzymu z Księgi VI jest zasadą wewnętrznej wykładni i komunii, a nie dowodem wydania nieistniejącego dekretu;
+- uporządkowanie kompetencji ustawodawczej, wykonawczej i sądowniczej oraz zakaz domniemywania kompetencji bez podstawy prawnej;
+- zastąpienie uproszczonego schematu pierwszeństwa źródeł zasadą ich łącznej interpretacji wewnętrznej, z rozpoznaniem zakresu, adresata i właściwej władzy każdego porządku prawnego;
+- doprecyzowanie relacji z prawem diecezjalnym i kompetencjami biskupa diecezjalnego bez przypisywania wewnętrznemu kodeksowi mocy zmieniania prawa zewnętrznego;
+- wzmocnienie ochrony praw małżonki, potomstwa, strony słabszej, wolności sumienia, godności i bezpieczeństwa.
+
+**Granica harmonizacji:** zmiany dotyczą wewnętrznego porządku Kościoła Domowego. Nie stanowią autentycznej interpretacji KPK ani nie nadają kompetencji w strukturach Kościoła katolickiego. W tym zakresie zachowano rozróżnienie z Księgi XIII, kan. 760 i 771.
+
+### C. Weryfikacja techniczna
+
+Po zapisaniu ponownie pobrano oba pliki. Księga IIIa zawiera po jednej wystąpieniu kan. 117 i 143 w miejscach poddanych zmianie. Konkordancja zawiera 145 wierszy tabeli, od kan. 144 do kan. 288, bez brakujących numerów. Pełna ocena równoważności każdej normy wymaga jeszcze decyzji prawodawcy w kwestiach wskazanych w konkordancji.
