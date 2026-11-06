@@ -141,3 +141,22 @@ Po dodaniu kan. 16¹–16⁴ Księga IVa ma opis trzech brakujących błogosław
 - Księga IVa: rozwinięto definicje cnót (kan. 36–42), pełne opisy Darów (kan. 55) i charyzmatów (kan. 60); dodano normę interpretacyjną w kan. 250 §§2–5, która zachowuje historyczne warianty źródłowe bez mieszania ich z aktualnym katalogiem.
 - Księga XII: poprawiono rozbieżność „Wiedza” → „Dociekliwość” w kan. 549²² §2 oraz błędne odesłanie do macierzy w §3.
 - Nie usunięto żadnej pozycji katalogu ani historycznego brzmienia dawnych przepisów.
+
+## NOWA REDAKCJA KSIĘGI VI — KSIĘGA VIa
+
+Utworzono plik `codex/md/06a_ksiega_VIa_subdiecezja_i_patriarchat.md` jako uporządkowaną redakcję Księgi VI. Nowa Księga zawiera 33 kanony w dziewięciu tytułach oraz konkordancję dawnej numeracji 319–344.
+
+Zachowane zagadnienia:
+- pełna wewnętrzna definicja biskupa tytularnego subdiecezjalnego i zasada *primus inter pares*;
+- rozróżnienie powołania, natchnienia, konsekracji, obrzędu ordynacji, urzędu i jurysdykcji;
+- subdiecezja domowa, jej zakres przestrzenny i trzy wspólnoty obrządkowe: Marii Magdaleny, Pawłowa i Tomaszowa;
+- obowiązki pasterskie i dostęp do sakramentów;
+- relacja do diecezji, Biskupa Rzymskiego i Kościoła powszechnego;
+- Związek Subdiecezjatów, pierwszy hierarcha, następstwo urzędu i kompetencje wewnętrzne;
+- synod, jego skład i głos doradczy;
+- powołanie biskupów tytularnych, rozwiązywanie sporów i ustanie urzędu;
+- otwartość na inne tradycje, insygnia, tytuły i formuła błogosławieństwa.
+
+Jawnie objaśniono niejasności dawnego tekstu: cywilna osobowość prawna nie powstaje przez samą deklarację wewnętrzną; kompetencje zewnętrzne wymagają podstawy w prawie właściwym; wymienione w dawnym kan. 335 drogi ustanowienia biskupa nie są kumulatywnym zestawem warunków; procenty dawnego kan. 339 nie tworzą spójnego rachunku udziałów; pusty kan. 344 nie zawiera normy i nie został uzupełniony fikcyjną treścią.
+
+Księga VIa nie zmienia źródłowej Księgi VI. Zachowano ją jako materiał źródłowy, a konkordancja wskazuje, gdzie jej materia została przeniesiona i uporządkowana.
