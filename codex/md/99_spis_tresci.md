@@ -17,6 +17,7 @@
 | [`08_ksiega_VIII_przekazanie_hierarchi.md`](./08_ksiega_VIII_przekazanie_hierarchi.md) | Księga VIII — Przekazanie patriarchatu i przepisy końcowe | kan. 380–433 |
 | [`08a_ksiega_VIIIa_sukcesja_i_przekazanie_urzedu.md`](./08a_ksiega_VIIIa_sukcesja_i_przekazanie_urzedu.md) | Księga VIIIa — Sukcesja, wybór i przekazanie urzędu hierarchy Związku Subdiecezjatów (uporządkowana redakcja Księgi VIII) | kan. 380–433 |
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
+| [`09a_ksiega_IXa_rozmnazanie_dobr_i_nowe_koscioly_domowe.md`](./09a_ksiega_IXa_rozmnazanie_dobr_i_nowe_koscioly_domowe.md) | Księga IXa — Rozmnażanie dóbr i powstawanie nowych Kościołów Domowych (uporządkowana redakcja Księgi IX) | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
 | [`13_ksiega_XIII_sakramenty.md`](./13_ksiega_XIII_sakramenty.md) | Księga XIII — Sakramenty Święte: natura, siedem sakramentów, celebracja, szafarze, przygotowanie i życie sakramentalne | kan. 640–773 |
@@ -206,6 +207,17 @@
 - **Tytuł VIII: PRZEPISY KOŃCOWE** — kan. 460–462
 -   **ANEKS: TABELA ROZMNAŻANIA DÓBR**
 
+
+## Księga IXa — Rozmnażanie dóbr i powstawanie nowych Kościołów Domowych
+- **Tytuł I: Dobra duchowe — przekazywanie i rozeznawanie posług** — kan. 434–438
+- **Tytuł II: Dobra intelektualne, tradycja i dokumentacja** — kan. 439–441
+- **Tytuł III: Powstawanie nowych Kościołów Domowych** — kan. 442–445
+- **Tytuł IV: Posługa biskupa tytularnego i wewnętrzne ustanawianie subdiecezji** — kan. 446–449
+- **Tytuł V: Komunia z Kościołem katolickim i status zewnętrzny** — kan. 450–452
+- **Tytuł VI: Rozmnażanie, podział i ochrona dóbr materialnych** — kan. 453–456
+- **Tytuł VII: Ciągłość wspólnoty i sukcesja po śmierci rodziców** — kan. 457–459
+- **Tytuł VIII: Przepisy końcowe i zasady wykładni** — kan. 460–462
+- **Aneks: Tabela korespondencji z Księgą IX**
 
 ## Księga X — Nieruchomości Kościoła Domowego i subdiecezji
 - **Tytuł I: ZASADY OGÓLNE DOTYCZĄCE NIERUCHOMOŚCI** — kan. 463–465
