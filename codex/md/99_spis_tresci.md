@@ -19,6 +19,7 @@
 | [`09_ksiega_IX_rozmnazanie_dobr.md`](./09_ksiega_IX_rozmnazanie_dobr.md) | Księga IX — Rozmnażanie dóbr oraz ustanawianie nowych Kościołów Domowych, subdiecezji i diecezji | kan. 434–462 |
 | [`09a_ksiega_IXa_rozmnazanie_dobr_i_nowe_koscioly_domowe.md`](./09a_ksiega_IXa_rozmnazanie_dobr_i_nowe_koscioly_domowe.md) | Księga IXa — Rozmnażanie dóbr i powstawanie nowych Kościołów Domowych (uporządkowana redakcja Księgi IX) | kan. 434–462 |
 | [`10_ksiega_X_nieruchomosci.md`](./10_ksiega_X_nieruchomosci.md) | Księga X — Nieruchomości Kościoła Domowego i subdiecezji | kan. 463–491 |
+| [`10a_ksiega_Xa_nieruchomosci_kosciola_domowego_i_subdiecezji.md`](./10a_ksiega_Xa_nieruchomosci_kosciola_domowego_i_subdiecezji.md) | Księga Xa — Nieruchomości Kościoła Domowego i subdiecezji (uporządkowana redakcja Księgi X) | kan. 463–491 |
 | [`11_ksiega_XI_odrebnosci_obrzadku.md`](./11_ksiega_XI_odrebnosci_obrzadku.md) | Księga XI — Odrębności obrządku domowego od obrządku łacińskiego | kan. 492–517 oraz kan. 513¹ |
 | [`13_ksiega_XIII_sakramenty.md`](./13_ksiega_XIII_sakramenty.md) | Księga XIII — Sakramenty Święte: natura, siedem sakramentów, celebracja, szafarze, przygotowanie i życie sakramentalne | kan. 640–773 |
 | [`12_ksiega_XII_objawienia.md`](./12_ksiega_XII_objawienia.md) | Księga XII — Księga Objawień: Tytuły I–XIX; zniesienie grzechu, spektrum prawdy, piękna i sprawiedliwości w miłości Bożej, siedem stopni jednego aktu oraz odrębne serie duchowe | kan. 518–549²⁴ oraz kanony uzupełniające wskazane w strukturze szczegółowej |
