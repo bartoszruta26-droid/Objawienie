@@ -710,6 +710,8 @@ Ustawa o gwarancjach wolności sumienia i wyznania przewiduje szczególne gwaran
 
 Kapelan jest określeniem używanym w wielu środowiskach instytucjonalnych, ale nie powinno się zakładać, że ma identyczny status prawny w każdym miejscu. Zakres jego uprawnień zależy od przepisów dotyczących danej instytucji, zasad wspólnoty i procedur placówki.
 
+Uzupełniająco należy uwzględnić art. 36–38 ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta. Pacjent przebywający w podmiocie leczniczym wykonującym stacjonarne i całodobowe świadczenia zdrowotne ma prawo do opieki duszpasterskiej. W razie pogorszenia stanu zdrowia lub zagrożenia życia podmiot ma obowiązek umożliwić mu kontakt z duchownym jego wyznania, a koszty realizacji tych praw ponosi podmiot leczniczy, chyba że przepisy odrębne stanowią inaczej. Uprawnienie należy realizować z poszanowaniem woli pacjenta, jego prawa do odmowy kontaktu i zasad bezpieczeństwa placówki. [Oficjalny tekst ustawy – art. 36–38](https://eli.gov.pl/api/acts/DU/2024/581/text.html).
+
 Przed rozpoczęciem posługi należy ustalić:
 
 - kto jest uprawniony do kontaktu z placówką;
