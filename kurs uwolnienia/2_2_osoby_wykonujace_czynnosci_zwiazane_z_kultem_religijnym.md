@@ -90,7 +90,7 @@ W zakresie podmiotowości, osobowości prawnej, reprezentacji i pełnomocnictw n
 
 # 2. Dwie płaszczyzny oceny osoby wykonującej czynności religijne
 
-### 2.1. Płaszczyzna wewnętrzna – prawo i zasady wspólnoty
+## 2.1. Płaszczyzna wewnętrzna – prawo i zasady wspólnoty
 
 Każda wspólnota religijna może mieć własne pojęcia, strukturę, zasady przyjmowania członków, sposób ustanawiania osób pełniących funkcje religijne i reguły sprawowania obrzędów. W jednej wspólnocie określona czynność może być zastrzeżona dla osoby wyświęconej; w innej może być wykonywana przez pastora, starszego, rabina, imama, diakona, nauczyciela religijnego albo osobę świecką wyznaczoną do określonego zadania.
 
@@ -109,7 +109,7 @@ Nie można automatycznie przenosić zasad jednej religii na inną. Różne wspó
 
 Dlatego pierwszym źródłem ustalenia statusu religijnego jest właściwe prawo wewnętrzne wspólnoty: statut, konstytucja, regulamin, kanony, uchwały, zasady ordynacji, decyzje właściwych władz lub inne dokumenty, które dana wspólnota uznaje za miarodajne.
 
-### 2.2. Płaszczyzna państwowa – prawo powszechnie obowiązujące
+## 2.2. Płaszczyzna państwowa – prawo powszechnie obowiązujące
 
 Prawo państwowe chroni wolność religijną i autonomię kościołów oraz innych związków wyznaniowych, ale reguluje również skutki czynności podejmowanych w życiu publicznym, gospodarczym, rodzinnym i społecznym.
 
@@ -124,7 +124,7 @@ Ustawa z 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania przewiduje 
 
 Zakres tych uprawnień należy odczytywać z uwzględnieniem art. 18 tej ustawy: część kościołów i związków wyznaniowych ma sytuację prawną uregulowaną odrębnymi ustawami. Wtedy trzeba sprawdzić ustawę właściwą dla konkretnej wspólnoty, a przepisy ogólne stosować w zakresie, w jakim mają zastosowanie.
 
-### 2.3. Dlaczego nie wolno utożsamiać obu płaszczyzn
+## 2.3. Dlaczego nie wolno utożsamiać obu płaszczyzn
 
 Uznanie osoby przez wspólnotę za duchownego nie oznacza automatycznie, że osoba ta:
 
@@ -138,7 +138,7 @@ Uznanie osoby przez wspólnotę za duchownego nie oznacza automatycznie, że oso
 
 Analogicznie, posiadanie funkcji prezesa, dyrektora, fundatora, członka zarządu lub kierownika jednostki organizacyjnej nie tworzy samo przez się statusu duchownego ani nie zastępuje upoważnienia udzielonego według prawa wewnętrznego wspólnoty.
 
-### 2.4. Model czterech pytań
+## 2.4. Model czterech pytań
 
 Przed powierzeniem osobie czynności związanej z kultem należy odpowiedzieć na cztery odrębne pytania:
 
@@ -153,7 +153,7 @@ Przed powierzeniem osobie czynności związanej z kultem należy odpowiedzieć n
 
 # 3. Podstawy prawne wykonywania funkcji religijnych
 
-### 3.1. Konstytucja Rzeczypospolitej Polskiej
+## 3.1. Konstytucja Rzeczypospolitej Polskiej
 
 Podstawowe znaczenie mają:
 
@@ -164,7 +164,7 @@ Podstawowe znaczenie mają:
 
 Wolność religijna obejmuje zarówno osobę prowadzącą modlitwę, jak i osobę uczestniczącą w niej, osobę, która odmawia udziału, oraz osobę, która nie chce ujawniać swoich przekonań. Nie można wyprowadzać z funkcji religijnej prawa do przymuszania innych do praktyk, podporządkowania ich woli ani naruszania ich godności.
 
-### 3.2. Ustawa o gwarancjach wolności sumienia i wyznania
+## 3.2. Ustawa o gwarancjach wolności sumienia i wyznania
 
 Szczególne znaczenie mają następujące przepisy:
 
@@ -181,7 +181,7 @@ Szczególne znaczenie mają następujące przepisy:
 
 Nie należy odczytywać tych przepisów jako nadania każdej osobie deklarującej posługę nieograniczonego uprawnienia do reprezentowania wspólnoty. Ustawa chroni autonomię wspólnot, a jednocześnie pozostawia w mocy ogólne przepisy dotyczące obrotu prawnego, bezpieczeństwa i odpowiedzialności.
 
-### 3.3. Ustawy szczególne i ratyfikowane umowy międzynarodowe
+## 3.3. Ustawy szczególne i ratyfikowane umowy międzynarodowe
 
 Sytuacja prawna niektórych kościołów i związków wyznaniowych jest uregulowana odrębnymi ustawami. Przykładem jest ustawa z 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej. Inne wspólnoty mogą mieć własne ustawy regulujące ich sytuację prawną.
 
@@ -194,7 +194,7 @@ W zależności od rodzaju wspólnoty należy sprawdzić:
 5. zasady reprezentacji kościelnych osób prawnych;
 6. przepisy dotyczące poszczególnych czynności, np. małżeństwa wyznaniowego, duszpasterstwa w instytucjach lub nauczania religii.
 
-### 3.4. Prawo wewnętrzne wspólnoty a prawo państwowe
+## 3.4. Prawo wewnętrzne wspólnoty a prawo państwowe
 
 Prawo wewnętrzne wspólnoty może określać, kto jest duchownym, jak uzyskuje urząd, kto może przewodniczyć liturgii, kto udziela błogosławieństwa i kto ma prawo nauczać. Nie oznacza to, że każda norma wewnętrzna automatycznie wywołuje skutki w obrocie cywilnym.
 
@@ -204,7 +204,7 @@ Jeżeli czynność ma wywołać skutek przewidziany w prawie państwowym, należ
 
 # 4. Podstawowe kategorie osób uczestniczących w czynnościach religijnych
 
-### 4.1. Duchowny
+## 4.1. Duchowny
 
 Pojęcie duchownego nie ma jednego, identycznego znaczenia teologicznego i organizacyjnego we wszystkich religiach. W polskim prawie ustawa o gwarancjach wolności sumienia i wyznania posługuje się pojęciem duchownych oraz osób zakonnych ustanowionych według przepisów prawa wewnętrznego kościoła lub innego związku wyznaniowego.
 
@@ -220,19 +220,19 @@ Oznacza to, że przy ocenie statusu konkretnej osoby należy ustalić:
 
 Nie wolno zakładać, że każda osoba używająca tytułu duchownego posiada status rozpoznawany przez daną wspólnotę. Nie wolno też zakładać, że brak typowego tytułu lub stroju oznacza brak rzeczywistej funkcji religijnej.
 
-### 4.2. Kapłan
+## 4.2. Kapłan
 
 Słowo „kapłan” ma znaczenie właściwe określonym tradycjom religijnym i ich teologii. W niektórych wspólnotach jest ściśle związane z sakramentalnym rozumieniem święceń; w innych wspólnotach podstawową rolę pełnią pastorzy, starsi, rabini, imamowie, nauczyciele, przewodniczący zgromadzeń lub inne osoby.
 
 Nie należy używać słowa „kapłan” jako automatycznego synonimu każdego duchownego. Przy dokumentowaniu czynności trzeba posługiwać się nazwą stanowiska właściwą dla danej wspólnoty i wyjaśnić jej zakres, jeżeli jest to potrzebne dla odbiorcy zewnętrznego.
 
-### 4.3. Osoba zakonna
+## 4.3. Osoba zakonna
 
 Osoba zakonna to osoba należąca do określonej wspólnoty życia zakonnego lub monastycznego, zgodnie z jej prawem wewnętrznym. Nie każda osoba zakonna jest duchownym w znaczeniu właściwym danej religii. W niektórych tradycjach życie zakonne i stan duchowny są rozróżniane; w innych mogą się częściowo pokrywać.
 
 Samo złożenie ślubów, przyjęcie reguły, zamieszkanie we wspólnocie lub noszenie stroju zakonnego nie przesądza o prawie do wykonywania każdej czynności liturgicznej. Należy ustalić konkretne uprawnienia i zakres posługi.
 
-### 4.4. Diakon, pastor, prezbiter, starszy, rabin, imam i inne funkcje
+## 4.4. Diakon, pastor, prezbiter, starszy, rabin, imam i inne funkcje
 
 Nazwy funkcji religijnych różnią się między wspólnotami. Nie można zakładać, że osoba nosząca podobny tytuł w dwóch różnych tradycjach ma identyczne kompetencje.
 
@@ -248,7 +248,7 @@ Przykładowo:
 
 Powyższe przykłady mają charakter orientacyjny. Nie zastępują analizy prawa wewnętrznego konkretnej wspólnoty.
 
-### 4.5. Osoba świecka
+## 4.5. Osoba świecka
 
 Osoba świecka jest członkiem lub uczestnikiem wspólnoty, który nie posiada statusu duchownego w rozumieniu jej prawa wewnętrznego. Może jednak wykonywać wiele zadań związanych z życiem religijnym.
 
@@ -267,13 +267,13 @@ Do takich zadań mogą należeć:
 
 Nie każda czynność wykonywana przez osobę świecką wymaga formalnego ustanowienia. Jeżeli jednak dana wspólnota zastrzega określoną funkcję dla osoby posiadającej szczególny status, organizator powinien respektować tę zasadę.
 
-### 4.6. Osoba prowadząca modlitwę lub spotkanie duchowe
+## 4.6. Osoba prowadząca modlitwę lub spotkanie duchowe
 
 Prowadzenie modlitwy nie jest automatycznie równoznaczne z pełnieniem urzędu duchownego. Osoba może prowadzić modlitwę w domu, rodzinie, grupie przyjaciół, fundacji lub wspólnocie nieformalnej w granicach wolności religijnej.
 
 Jeżeli spotkanie jest organizowane przez formalną wspólnotę, trzeba dodatkowo sprawdzić jej wewnętrzne zasady. Jeżeli wydarzenie jest przedstawiane jako oficjalna liturgia, nabożeństwo lub obrzęd konkretnego kościoła, nie należy sugerować, że prowadzący ma upoważnienie tej wspólnoty, jeżeli go nie posiada.
 
-### 4.7. Organizator, koordynator i obsługa wydarzenia
+## 4.7. Organizator, koordynator i obsługa wydarzenia
 
 Organizator odpowiada za przygotowanie wydarzenia, miejsce, harmonogram, komunikację, bezpieczeństwo, dokumentację i podział zadań. Nie musi być duchownym.
 
@@ -290,7 +290,7 @@ Koordynator może odpowiadać za:
 
 Osoby obsługujące wydarzenie nie uzyskują przez to prawa do wykonywania czynności religijnych zastrzeżonych przez wspólnotę dla innych osób.
 
-### 4.8. Wolontariusz i osoba wspierająca
+## 4.8. Wolontariusz i osoba wspierająca
 
 Wolontariusz może pomagać przy organizacji wydarzenia, transporcie, przygotowaniu posiłków, opiece logistycznej, obsłudze technicznej lub działaniach pomocowych. Sam status wolontariusza nie daje prawa do reprezentowania fundacji ani do wykonywania funkcji religijnych.
 
@@ -300,13 +300,13 @@ Zakres zadań powinien być określony w porozumieniu lub innym właściwym doku
 
 # 5. Rodzaje posług i czynności religijnych
 
-### 5.1. Posługa liturgiczna lub obrzędowa
+## 5.1. Posługa liturgiczna lub obrzędowa
 
 Obejmuje czynności, których znaczenie i zasady wykonywania wynikają z liturgii, doktryny lub tradycji konkretnej wspólnoty. Może obejmować przewodniczenie obrzędowi, wypowiadanie określonych formuł, wykonywanie gestów, udzielanie sakramentów lub uczestniczenie w obrzędzie w określonej funkcji.
 
 Zakres uprawnienia należy ustalać na podstawie prawa wewnętrznego. Nie wolno zakładać, że osoba upoważniona do prowadzenia modlitwy jest jednocześnie upoważniona do wszystkich czynności sakramentalnych lub obrzędowych.
 
-### 5.2. Posługa modlitewna
+## 5.2. Posługa modlitewna
 
 Może polegać na:
 
@@ -319,7 +319,7 @@ Może polegać na:
 
 Należy jasno określić, czy jest to modlitwa prywatna, spotkanie nieformalne, oficjalne nabożeństwo czy część wydarzenia organizowanego przez kościół lub inny związek wyznaniowy.
 
-### 5.3. Posługa nauczania i formacji
+## 5.3. Posługa nauczania i formacji
 
 Nauczanie religii, przekazywanie wiedzy o wierze, prowadzenie grup formacyjnych, katecheza i przygotowanie do praktyk religijnych mogą podlegać odmiennym zasadom w poszczególnych wspólnotach.
 
@@ -332,7 +332,7 @@ Osoba prowadząca zajęcia powinna:
 5. informować uczestników o charakterze spotkania;
 6. stosować zasady ochrony małoletnich, jeżeli w zajęciach uczestniczą dzieci lub młodzież.
 
-### 5.4. Posługa duszpasterska i towarzyszenie duchowe
+## 5.4. Posługa duszpasterska i towarzyszenie duchowe
 
 Może obejmować rozmowę, modlitwę, wsparcie w kryzysie, przygotowanie do praktyk religijnych, odwiedziny osób chorych, pocieszenie i pomoc w odnalezieniu wspólnoty.
 
@@ -347,7 +347,7 @@ Należy odróżnić towarzyszenie duchowe od:
 
 Osoba wykonująca posługę religijną nie powinna przedstawiać swoich działań jako świadczeń zdrowotnych, jeśli nie posiada odpowiednich kwalifikacji i podstawy prawnej do ich udzielania. Nie może też zniechęcać uczestnika do koniecznej pomocy medycznej, psychologicznej lub prawnej.
 
-### 5.5. Błogosławieństwo i modlitwa wstawiennicza
+## 5.5. Błogosławieństwo i modlitwa wstawiennicza
 
 Błogosławieństwo może mieć różne znaczenie w różnych tradycjach. W niektórych wspólnotach określone formy błogosławieństwa są zastrzeżone dla duchownych, w innych dopuszcza się szerszy udział osób świeckich.
 
@@ -362,7 +362,7 @@ Organizator powinien ustalić:
 
 Nie wolno wykorzystywać błogosławieństwa do wywierania presji, uzależniania pomocy od wpłaty ani nakłaniania osoby chorej do rezygnacji z leczenia.
 
-### 5.6. Posługa charytatywna i opiekuńcza
+## 5.6. Posługa charytatywna i opiekuńcza
 
 Działalność charytatywna może być prowadzona przez duchownych, osoby zakonne i świeckie. Jej religijna motywacja nie zwalnia z przestrzegania przepisów dotyczących pomocy społecznej, ochrony danych, bezpieczeństwa, rachunkowości i działalności leczniczej.
 
@@ -382,13 +382,13 @@ Każda z tych czynności może mieć odrębną podstawę prawną i wymagać inne
 
 # 6. Ustanawianie, kształcenie i upoważnianie duchownych
 
-### 6.1. Autonomia wspólnoty
+## 6.1. Autonomia wspólnoty
 
 Ustawa o gwarancjach wolności sumienia i wyznania przyznaje kościołom i innym związkom wyznaniowym swobodę określania doktryny, liturgii, wykonywania funkcji religijnych oraz ustanawiania, kształcenia i zatrudniania duchownych. Państwo nie zastępuje wspólnoty w ocenie, czy dana osoba spełnia jej wewnętrzne wymagania religijne.
 
 Autonomia nie oznacza jednak wyłączenia spod prawa powszechnie obowiązującego. Wspólnota i osoby wykonujące posługi muszą respektować przepisy dotyczące ochrony życia, zdrowia, godności, praw dziecka, bezpieczeństwa, majątku, zobowiązań i odpowiedzialności.
 
-### 6.2. Typowe drogi uzyskania funkcji
+## 6.2. Typowe drogi uzyskania funkcji
 
 W zależności od tradycji religijnej funkcja może wynikać z:
 
@@ -405,7 +405,7 @@ W zależności od tradycji religijnej funkcja może wynikać z:
 
 Nie należy zakładać, że każda z tych dróg występuje w każdej religii. Niektóre wspólnoty nie posługują się pojęciem ordynacji, a inne nie uznają świeckiego certyfikatu za podstawę wykonywania urzędu.
 
-### 6.3. Kształcenie i przygotowanie
+## 6.3. Kształcenie i przygotowanie
 
 Kształcenie duchownych może obejmować studia teologiczne, naukę tekstów religijnych, przygotowanie liturgiczne, praktykę duszpasterską, formację etyczną i przygotowanie do pracy z osobami w różnych sytuacjach życiowych.
 
@@ -422,7 +422,7 @@ W organizacji prowadzącej działalność religijną warto dokumentować równie
 
 Kształcenie teologiczne nie zastępuje kwalifikacji wymaganych do wykonywania zawodów regulowanych.
 
-### 6.4. Upoważnienie stałe i czasowe
+## 6.4. Upoważnienie stałe i czasowe
 
 Należy rozróżnić:
 
@@ -435,7 +435,7 @@ Należy rozróżnić:
 
 Upoważnienie powinno być zgodne z prawem wewnętrznym wspólnoty. Jeżeli ma znaczenie dla zewnętrznego podmiotu, warto posiadać dokument potwierdzający jego zakres i okres obowiązywania.
 
-### 6.5. Odwołanie, zawieszenie i utrata uprawnienia
+## 6.5. Odwołanie, zawieszenie i utrata uprawnienia
 
 Osoba może utracić określone uprawnienie wskutek:
 
@@ -454,13 +454,13 @@ Organizator powinien mieć procedurę aktualizacji list osób upoważnionych. Ni
 
 # 7. Dokumentowanie statusu i zakresu upoważnienia
 
-### 7.1. Cel weryfikacji
+## 7.1. Cel weryfikacji
 
 Weryfikacja nie służy ocenianiu wartości duchowej człowieka ani rozstrzyganiu prawdziwości jego przekonań. Jej celem jest ustalenie, czy dana osoba ma podstawę do wykonywania konkretnego zadania w określonym kontekście.
 
 Zakres weryfikacji powinien być proporcjonalny. Przy prywatnej modlitwie rodzinnej nie ma potrzeby tworzenia dokumentacji właściwej dla oficjalnej posługi w imieniu dużej organizacji. Przy oficjalnym wydarzeniu, zawieraniu umowy, przyjmowaniu darowizn lub pracy z małoletnimi należy jednak wykazać odpowiednie uprawnienia i zabezpieczenia.
 
-### 7.2. Dokumenty, które mogą potwierdzać status
+## 7.2. Dokumenty, które mogą potwierdzać status
 
 W zależności od wspólnoty i rodzaju czynności mogą to być:
 
@@ -474,7 +474,7 @@ W zależności od wspólnoty i rodzaju czynności mogą to być:
 | Statut lub regulamin | Zasady powoływania, kompetencje i procedury | Aktualnego powołania konkretnej osoby |
 | Wpis rejestrowy | Dane ujawniane w danym rejestrze | Wszystkich wewnętrznych uprawnień religijnych |
 
-### 7.3. Minimalna karta weryfikacji
+## 7.3. Minimalna karta weryfikacji
 
 Dla osoby wykonującej oficjalne zadania religijne na rzecz organizacji można przygotować kartę zawierającą:
 
@@ -493,13 +493,13 @@ Dla osoby wykonującej oficjalne zadania religijne na rzecz organizacji można p
 
 Nie należy gromadzić nadmiarowych danych osobowych. W szczególności nie należy kopiować dokumentów tożsamości, dokumentacji medycznej lub danych o życiu prywatnym, jeżeli nie ma do tego podstawy i rzeczywistej potrzeby.
 
-### 7.4. Weryfikacja w rejestrach
+## 7.4. Weryfikacja w rejestrach
 
 Rejestr kościołów i innych związków wyznaniowych prowadzony przez właściwego ministra zawiera informacje dotyczące wspólnot, ich władz i przewidzianych jednostek organizacyjnych. Nie jest to jednak powszechny rejestr wszystkich duchownych i wszystkich osób upoważnionych do prowadzenia modlitwy.
 
 W przypadku wspólnot o sytuacji prawnej uregulowanej odrębną ustawą należy korzystać z właściwych przepisów i dokumentów. Przy sprawach majątkowych trzeba odrębnie sprawdzić osobowość prawną, organy i sposób reprezentacji.
 
-### 7.5. Weryfikacja proporcjonalna do ryzyka
+## 7.5. Weryfikacja proporcjonalna do ryzyka
 
 | Sytuacja | Zalecany zakres weryfikacji |
 |---|---|
@@ -516,7 +516,7 @@ W przypadku wspólnot o sytuacji prawnej uregulowanej odrębną ustawą należy 
 
 # 8. Zakres posługi religijnej a reprezentacja prawna
 
-### 8.1. Dwa różne rodzaje umocowania
+## 8.1. Dwa różne rodzaje umocowania
 
 Osoba może być upoważniona do prowadzenia nabożeństwa, ale nie mieć prawa do zawarcia umowy najmu sali. Inna osoba może być prezesem fundacji i mieć prawo reprezentacji fundacji, ale nie być upoważniona przez wspólnotę do wykonywania jej czynności liturgicznych.
 
@@ -527,7 +527,7 @@ Należy rozdzielić:
 - **umocowanie cywilnoprawne** – prawo do składania oświadczeń woli w imieniu podmiotu;
 - **upoważnienie techniczne** – prawo do wykonania określonego zadania bez samodzielnego podejmowania decyzji.
 
-### 8.2. Przykład
+## 8.2. Przykład
 
 Pastor lokalnej wspólnoty został wyznaczony do prowadzenia nabożeństwa w sali wynajętej przez fundację. Może posiadać upoważnienie do prowadzenia nabożeństwa. Nie oznacza to jednak, że może samodzielnie:
 
@@ -540,7 +540,7 @@ Pastor lokalnej wspólnoty został wyznaczony do prowadzenia nabożeństwa w sal
 
 Do tych czynności potrzebna jest odrębna podstawa prawna.
 
-### 8.3. Uchwała a reprezentacja
+## 8.3. Uchwała a reprezentacja
 
 Uchwała organu może wyrażać zgodę na określoną czynność, ale nie zawsze zastępuje sposób reprezentacji przewidziany w ustawie lub statucie. Przed podpisaniem dokumentu należy sprawdzić:
 
@@ -551,7 +551,7 @@ Uchwała organu może wyrażać zgodę na określoną czynność, ale nie zawsze
 5. czy osoba podpisująca działa w granicach umocowania;
 6. czy umowa nie wymaga szczególnej formy.
 
-### 8.4. Zakaz sugerowania nieistniejących uprawnień
+## 8.4. Zakaz sugerowania nieistniejących uprawnień
 
 W dokumentach, ogłoszeniach i materiałach promocyjnych nie należy używać sformułowań sugerujących, że osoba reprezentuje kościół, fundację, państwo lub inną instytucję, jeśli nie ma do tego podstawy.
 
@@ -561,13 +561,13 @@ Nie należy również używać tytułów zawodowych lub publicznych, które mog�
 
 # 9. Osoby wykonujące posługę w fundacji i organizacji pozarządowej
 
-### 9.1. Fundacja jako podmiot wspierający działalność religijną
+## 9.1. Fundacja jako podmiot wspierający działalność religijną
 
 Fundacja może realizować cele statutowe związane z religią, kulturą, edukacją, pomocą społeczną lub ochroną zdrowia, o ile pozwalają na to przepisy i jej statut. Może również wspierać organizację praktyk religijnych, udostępniać pomieszczenia, finansować określone koszty, prowadzić działalność informacyjną i współpracować ze wspólnotą.
 
 Nie oznacza to automatycznie, że fundacja staje się kościołem lub innym związkiem wyznaniowym. Osobowość prawna fundacji nie zastępuje statusu wspólnoty religijnej, a statut fundacji nie zastępuje prawa wewnętrznego kościoła.
 
-### 9.2. Rozdzielenie ról
+## 9.2. Rozdzielenie ról
 
 W fundacji warto rozdzielić co najmniej następujące funkcje:
 
@@ -584,7 +584,7 @@ W fundacji warto rozdzielić co najmniej następujące funkcje:
 
 Jedna osoba może pełnić więcej niż jedną funkcję, jeżeli nie narusza to prawa, statutu, zasad reprezentacji, wymogów bezpieczeństwa i zasad kontroli wewnętrznej. W organizacji o małym składzie osobowym należy wprowadzić szczególnie jasne zasady zatwierdzania wydatków i dokumentowania decyzji.
 
-### 9.3. Współpraca z kościołem lub innym związkiem wyznaniowym
+## 9.3. Współpraca z kościołem lub innym związkiem wyznaniowym
 
 Współpraca powinna być opisana w umowie, porozumieniu lub innym właściwym dokumencie, jeżeli wymaga tego charakter przedsięwzięcia. Dokument powinien wskazywać:
 
@@ -601,7 +601,7 @@ Współpraca powinna być opisana w umowie, porozumieniu lub innym właściwym d
 
 Nie należy zakładać, że duchowny może zawrzeć taką umowę tylko dlatego, że pełni funkcję religijną. Trzeba sprawdzić, czy jest uprawniony do reprezentowania właściwej osoby prawnej.
 
-### 9.4. Działalność prywatna osoby duchownej
+## 9.4. Działalność prywatna osoby duchownej
 
 Osoba duchowna może podejmować także czynności prywatne, rodzinne, społeczne lub gospodarcze, jeżeli pozwala na to prawo powszechnie obowiązujące i prawo wewnętrzne wspólnoty. Należy jednak jasno określić, czy działa:
 
@@ -619,13 +619,13 @@ Nie wolno mieszać majątku osobistego z majątkiem fundacji lub wspólnoty. Ka�
 
 # 10. Posługa, zatrudnienie, umowa cywilnoprawna i wolontariat
 
-### 10.1. Status duchowny nie jest równoznaczny ze statusem pracownika
+## 10.1. Status duchowny nie jest równoznaczny ze statusem pracownika
 
 Sam fakt pełnienia funkcji duchownej nie przesądza, czy dana osoba pozostaje w stosunku pracy, wykonuje zlecenie, świadczy usługę na podstawie innej umowy, działa jako wolontariusz czy wykonuje zadania w ramach wewnętrznego porządku wspólnoty.
 
 O charakterze relacji decydują rzeczywiste warunki wykonywania zadań i właściwe przepisy. Nie należy nazywać każdej formy wsparcia „wolontariatem”, jeśli w rzeczywistości występują cechy zatrudnienia lub odpłatnego świadczenia.
 
-### 10.2. Możliwe podstawy wykonywania zadań
+## 10.2. Możliwe podstawy wykonywania zadań
 
 | Forma | Charakter | Dokumentowanie |
 |---|---|---|
@@ -637,7 +637,7 @@ O charakterze relacji decydują rzeczywiste warunki wykonywania zadań i właśc
 | Darowizna | Nieodpłatne przysporzenie bez świadczenia wzajemnego | Umowa lub potwierdzenie darowizny |
 | Zwrot kosztów | Rozliczenie uzasadnionych wydatków poniesionych w związku z zadaniem | Dowody wydatków i zasady rozliczenia |
 
-### 10.3. Zwrot kosztów a wynagrodzenie
+## 10.3. Zwrot kosztów a wynagrodzenie
 
 Zwrot kosztów nie powinien być automatycznie nazywany wynagrodzeniem. Z kolei stałe świadczenie pieniężne nie staje się zwrotem kosztów tylko dlatego, że tak nazwano je w regulaminie.
 
@@ -651,7 +651,7 @@ Należy określić:
 6. czy występuje świadczenie wzajemne;
 7. jakie skutki podatkowe i ubezpieczeniowe mogą powstać.
 
-### 10.4. Darowizna dla osoby wykonującej posługę
+## 10.4. Darowizna dla osoby wykonującej posługę
 
 Darowizna osobista dla duchownego lub osoby świeckiej jest czymś innym niż wynagrodzenie za usługę, zwrot kosztów albo wpłata na rachunek wspólnoty. O kwalifikacji decyduje rzeczywista treść i okoliczności przekazania środków.
 
@@ -661,13 +661,13 @@ Organizator nie powinien sugerować, że uczestnik musi przekazać pieniądze, a
 
 # 11. Szczególne czynności religijne wywołujące skutki w prawie państwowym
 
-### 11.1. Zasada ogólna
+## 11.1. Zasada ogólna
 
 Większość czynności religijnych wywołuje skutki w porządku religijnym lub społecznym. Nie oznacza to, że każda z nich automatycznie tworzy, zmienia lub znosi prawa i obowiązki w prawie państwowym.
 
 Skutek cywilnoprawny może powstać tylko wtedy, gdy ustawa lub ratyfikowana umowa międzynarodowa przewiduje taką możliwość i spełnione są wszystkie wymagane warunki.
 
-### 11.2. Małżeństwo zawierane w formie wyznaniowej ze skutkami cywilnymi
+## 11.2. Małżeństwo zawierane w formie wyznaniowej ze skutkami cywilnymi
 
 Małżeństwo zawierane przed duchownym może wywołać skutki w prawie polskim na zasadach określonych w Kodeksie rodzinnym i opiekuńczym oraz w przepisach dotyczących aktów stanu cywilnego.
 
@@ -682,7 +682,7 @@ Nie wystarcza samo odprawienie ceremonii religijnej. Konieczne jest spełnienie 
 
 Wykaz stanowisk upoważniających do przyjmowania oświadczeń nie jest uniwersalnym wykazem wszystkich duchownych. Obejmuje określone stanowiska w konkretnych wspólnotach. Przed uroczystością należy sprawdzić aktualny wykaz oraz ustawę właściwą dla danej wspólnoty.
 
-### 11.3. Inne czynności
+## 11.3. Inne czynności
 
 W innych dziedzinach również mogą występować przepisy szczególne dotyczące osób wykonujących funkcje religijne, np. w zakresie:
 
@@ -700,13 +700,13 @@ Każdorazowo należy ustalić, czy przepis dotyczy wszystkich wspólnot, określ
 
 # 12. Posługa w instytucjach publicznych i placówkach opieki
 
-### 12.1. Zasada ochrony wolności religijnej
+## 12.1. Zasada ochrony wolności religijnej
 
 Osoba przebywająca w szpitalu, zakładzie opieki, jednostce pomocy społecznej, zakładzie karnym, areszcie, jednostce wojskowej lub innej instytucji nie traci przez sam fakt pobytu wolności sumienia i religii.
 
 Ustawa o gwarancjach wolności sumienia i wyznania przewiduje szczególne gwarancje dla określonych kategorii osób. Sposób realizacji tych uprawnień regulują przepisy odrębne.
 
-### 12.2. Kapelan i osoba udzielająca posługi
+## 12.2. Kapelan i osoba udzielająca posługi
 
 Kapelan jest określeniem używanym w wielu środowiskach instytucjonalnych, ale nie powinno się zakładać, że ma identyczny status prawny w każdym miejscu. Zakres jego uprawnień zależy od przepisów dotyczących danej instytucji, zasad wspólnoty i procedur placówki.
 
@@ -720,7 +720,7 @@ Przed rozpoczęciem posługi należy ustalić:
 - czy osoba zainteresowana wyraziła wolę kontaktu;
 - czy istnieją zasady odwiedzin osób w stanie nagłym lub terminalnym.
 
-### 12.3. Posługa religijna a świadczenie zdrowotne
+## 12.3. Posługa religijna a świadczenie zdrowotne
 
 Modlitwa, rozmowa duchowa i błogosławieństwo nie są świadczeniem zdrowotnym tylko dlatego, że odbywają się w szpitalu. Nie zastępują badania, diagnozy, leczenia, rehabilitacji ani opieki pielęgniarskiej.
 
@@ -733,7 +733,7 @@ Osoba prowadząca posługę powinna:
 5. nie ujawniać informacji o stanie zdrowia bez podstawy prawnej;
 6. nie wykonywać czynności medycznych bez odpowiednich kwalifikacji i uprawnień.
 
-### 12.4. Posługa wobec osób w kryzysie
+## 12.4. Posługa wobec osób w kryzysie
 
 Osoba wykonująca posługę może zauważyć sytuację wymagającą interwencji medycznej, psychologicznej, socjalnej lub prawnej. Powinna wówczas skierować uczestnika do właściwej pomocy, a w sytuacji bezpośredniego zagrożenia życia lub zdrowia uruchomić odpowiednie procedury ratunkowe.
 
@@ -743,7 +743,7 @@ Nie wolno uzależniać udzielenia pomocy od przynależności religijnej, wyznani
 
 # 13. Poufność, tajemnica spowiedzi i ochrona informacji
 
-### 13.1. Różne rodzaje poufności
+## 13.1. Różne rodzaje poufności
 
 W działalności religijnej mogą występować różne podstawy poufności:
 
@@ -756,7 +756,7 @@ W działalności religijnej mogą występować różne podstawy poufności:
 
 Nie wolno utożsamiać wszystkich tych kategorii. Mają różne podstawy, zakres i skutki prawne.
 
-### 13.2. Zakaz przesłuchiwania duchownego co do faktów poznanych przy spowiedzi
+## 13.2. Zakaz przesłuchiwania duchownego co do faktów poznanych przy spowiedzi
 
 Art. 178 pkt 2 Kodeksu postępowania karnego przewiduje zakaz przesłuchiwania jako świadka duchownego co do faktów, o których dowiedział się przy spowiedzi.
 
@@ -764,13 +764,13 @@ Zakaz ten należy odczytywać zgodnie z jego treścią. Nie jest to ogólny, aut
 
 W razie wątpliwości co do kwalifikacji konkretnej rozmowy, obowiązków zawiadomienia lub zakresu ochrony prawnej należy uzyskać indywidualną opinię prawną. Nie należy samodzielnie rozszerzać ani zawężać ustawowego zakazu.
 
-### 13.3. Rozmowa duszpasterska a spowiedź
+## 13.3. Rozmowa duszpasterska a spowiedź
 
 Rozmowa duszpasterska może dotyczyć wiary, rodziny, zdrowia, konfliktów, problemów psychicznych, przemocy lub innych spraw osobistych. Nie każda taka rozmowa jest spowiedzią w rozumieniu właściwej tradycji i przepisów prawa.
 
 Osoba prowadząca rozmowę powinna poinformować o zasadach poufności, nie obiecywać ochrony szerszej niż rzeczywiście istniejąca i nie wykorzystywać zaufania uczestnika do uzyskania korzyści.
 
-### 13.4. Rejestrowanie i przekazywanie informacji
+## 13.4. Rejestrowanie i przekazywanie informacji
 
 Nie należy nagrywać rozmów duchowych, modlitw indywidualnych ani wypowiedzi uczestników bez właściwej podstawy. Dokumentacja organizacyjna powinna ograniczać się do informacji niezbędnych dla celu działania.
 
@@ -782,7 +782,7 @@ W szczególności należy unikać:
 - udostępniania list uczestników bez podstawy prawnej;
 - łączenia danych o przekonaniach religijnych z danymi zdrowotnymi bez odpowiedniej podstawy i zabezpieczeń.
 
-### 13.5. Dane dotyczące przekonań religijnych
+## 13.5. Dane dotyczące przekonań religijnych
 
 Dane ujawniające przekonania religijne należą do szczególnych kategorii danych osobowych w rozumieniu art. 9 RODO. Ich przetwarzanie jest co do zasady zabronione, chyba że zachodzi jedna z przesłanek przewidzianych w tym przepisie.
 
@@ -794,13 +794,13 @@ Nie należy zakładać, że każda fundacja może bez ograniczeń korzystać z t
 
 # 14. Ochrona małoletnich i osób szczególnie zależnych
 
-### 14.1. Obowiązki organizatora działalności religijnej
+## 14.1. Obowiązki organizatora działalności religijnej
 
 Ustawa o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich przewiduje obowiązek wprowadzenia standardów ochrony małoletnich między innymi dla placówek religijnych i organizatorów działalności religijnej, w której uczestniczą lub mogą uczestniczyć małoletni.
 
 Obowiązek ten nie zależy od tego, czy osobą prowadzącą zajęcia jest duchowny, osoba zakonna, katecheta, nauczyciel, wolontariusz czy inna osoba. Liczy się charakter placówki lub działalności oraz przesłanki określone w ustawie.
 
-### 14.2. Standardy ochrony małoletnich
+## 14.2. Standardy ochrony małoletnich
 
 Standardy powinny określać co najmniej:
 
@@ -817,13 +817,13 @@ Standardy powinny określać co najmniej:
 
 Standardy powinny być dostosowane do wieku, możliwości i potrzeb dzieci, w tym dzieci z niepełnosprawnościami i szczególnymi potrzebami edukacyjnymi.
 
-### 14.3. Weryfikacja osób dopuszczanych do działalności z dziećmi
+## 14.3. Weryfikacja osób dopuszczanych do działalności z dziećmi
 
 Przed dopuszczeniem osoby do działalności związanej z wychowaniem, edukacją, wypoczynkiem, leczeniem, świadczeniem porad psychologicznych, rozwojem duchowym, sportem lub opieką nad małoletnimi należy sprawdzić, czy zachodzą obowiązki weryfikacyjne przewidziane w art. 21 ustawy o ochronie małoletnich.
 
 Zakres wymaganych sprawdzeń zależy od charakteru czynności, statusu osoby i przepisów. Nie należy ograniczać się do zapewnienia ustnego, że dana osoba jest godna zaufania. Nie należy też zakładać, że status duchownego zwalnia z obowiązków ustawowych.
 
-### 14.4. Zasady bezpiecznego kontaktu
+## 14.4. Zasady bezpiecznego kontaktu
 
 Organizator powinien wprowadzić jasne zasady:
 
@@ -836,7 +836,7 @@ Organizator powinien wprowadzić jasne zasady:
 - nie przenosi się dziecka do innej grupy lub wspólnoty w celu ukrycia zdarzenia;
 - nie utrudnia się kontaktu dziecka z rodzicem lub opiekunem, chyba że zachodzi prawna podstawa do innego działania.
 
-### 14.5. Ochrona osób zależnych
+## 14.5. Ochrona osób zależnych
 
 Szczególnej ostrożności wymagają osoby chore, starsze, z niepełnosprawnościami, w kryzysie psychicznym, pozbawione wolności, zależne ekonomicznie lub pozostające pod silnym wpływem autorytetu prowadzącego.
 
@@ -855,7 +855,7 @@ W takich relacjach należy zadbać o:
 
 # 15. Granice kompetencji, odpowiedzialność i etyka posługi
 
-### 15.1. Odpowiedzialność osobista
+## 15.1. Odpowiedzialność osobista
 
 Osoba wykonująca czynności religijne odpowiada za własne zachowanie na zasadach wynikających z prawa powszechnie obowiązującego i właściwych przepisów wewnętrznych. Funkcja religijna nie daje ogólnego immunitetu od odpowiedzialności cywilnej, karnej, administracyjnej ani pracowniczej.
 
@@ -872,7 +872,7 @@ Odpowiedzialność może dotyczyć między innymi:
 - nadużycia zaufania;
 - naruszenia umowy lub obowiązków organizacyjnych.
 
-### 15.2. Odpowiedzialność organizatora
+## 15.2. Odpowiedzialność organizatora
 
 Organizator odpowiada za działania i zaniechania w zakresie, w jakim nakładają na niego obowiązki przepisy prawa, umowa, statut lub ogólne zasady odpowiedzialności.
 
@@ -889,7 +889,7 @@ Powinien w szczególności:
 - dokumentować decyzje i incydenty;
 - rozliczać środki zgodnie z ich przeznaczeniem.
 
-### 15.3. Granice autorytetu religijnego
+## 15.3. Granice autorytetu religijnego
 
 Autorytet duchowny lub lidera wspólnoty nie powinien być wykorzystywany do:
 
@@ -903,7 +903,7 @@ Autorytet duchowny lub lidera wspólnoty nie powinien być wykorzystywany do:
 - uniemożliwiania zgłaszania nieprawidłowości;
 - przypisywania sobie uprawnień, których dana osoba nie posiada.
 
-### 15.4. Konflikt interesów
+## 15.4. Konflikt interesów
 
 Konflikt interesów może wystąpić, gdy osoba prowadząca posługę jednocześnie podejmuje decyzje o przyznaniu pomocy, przyjmowaniu darowizn, zakupie usług lub wyborze wykonawcy, z którym jest powiązana.
 
@@ -920,7 +920,7 @@ W takiej sytuacji należy:
 
 # 16. Procedura powierzania czynności religijnych
 
-### 16.1. Etap pierwszy – opis czynności
+## 16.1. Etap pierwszy – opis czynności
 
 Przed wyznaczeniem osoby należy opisać zadanie w sposób konkretny:
 
@@ -933,7 +933,7 @@ Przed wyznaczeniem osoby należy opisać zadanie w sposób konkretny:
 - czy czynność ma wywołać skutki prawne;
 - czy przewidziane są płatności, darowizny lub zwrot kosztów.
 
-### 16.2. Etap drugi – określenie wymaganej kompetencji
+## 16.2. Etap drugi – określenie wymaganej kompetencji
 
 Należy ustalić, czy zadanie wymaga:
 
@@ -949,7 +949,7 @@ Należy ustalić, czy zadanie wymaga:
 
 Nie należy wymagać statusu duchownego, jeżeli dana czynność nie wymaga go według zasad wspólnoty. Nie należy też powierzać czynności zastrzeżonej osobie, która nie posiada właściwego upoważnienia.
 
-### 16.3. Etap trzeci – sprawdzenie dokumentów
+## 16.3. Etap trzeci – sprawdzenie dokumentów
 
 Należy sprawdzić:
 
@@ -964,7 +964,7 @@ Należy sprawdzić:
 9. wymagania dotyczące ochrony małoletnich;
 10. zgodę uczestnika, jeśli jest wymagana.
 
-### 16.4. Etap czwarty – przygotowanie organizacyjne
+## 16.4. Etap czwarty – przygotowanie organizacyjne
 
 Przed rozpoczęciem zadania należy ustalić:
 
@@ -978,7 +978,7 @@ Przed rozpoczęciem zadania należy ustalić:
 - procedurę zgłoszenia problemu;
 - sposób zakończenia lub zmiany upoważnienia.
 
-### 16.5. Etap piąty – nadzór i przegląd
+## 16.5. Etap piąty – nadzór i przegląd
 
 Po wykonaniu zadania należy ocenić, czy:
 
@@ -989,7 +989,7 @@ Po wykonaniu zadania należy ocenić, czy:
 - dokumentacja jest kompletna;
 - konieczna jest aktualizacja upoważnienia lub procedury.
 
-### 16.6. Schemat decyzyjny
+## 16.6. Schemat decyzyjny
 
 ~~~mermaid
 flowchart TD
@@ -1018,7 +1018,7 @@ flowchart TD
 
 # 17. Praktyczna macierz odpowiedzialności
 
-### 17.1. Przykładowy podział zadań
+## 17.1. Przykładowy podział zadań
 
 | Zadanie | Osoba prowadząca posługę | Zarząd fundacji | Koordynator | Wolontariusz |
 |---|---|---|---|---|
@@ -1031,7 +1031,7 @@ flowchart TD
 | Dokumentacja finansowa | Dostarcza dowody kosztów | Nadzoruje i zatwierdza | Przygotowuje | Przekazuje dokumenty |
 | Reagowanie na incydent | Zgłasza i współpracuje | Zapewnia procedurę | Uruchamia procedurę | Niezwłocznie zgłasza |
 
-### 17.2. Zasada rozdzielenia kompetencji
+## 17.2. Zasada rozdzielenia kompetencji
 
 Dla przejrzystości należy oddzielić:
 
@@ -1133,7 +1133,7 @@ Fundacja oferuje płatne spotkania, podczas których osoba prowadząca deklaruje
 
 # 20. Wzory dokumentów i procedur
 
-### 20.1. Karta zakresu posługi
+## 20.1. Karta zakresu posługi
 
 **Nazwa dokumentu:** Karta zakresu posługi religijnej
 
@@ -1153,7 +1153,7 @@ Fundacja oferuje płatne spotkania, podczas których osoba prowadząca deklaruje
 
 Karta nie tworzy statusu duchownego i nie zastępuje aktu ustanowienia. Jest dokumentem pomocniczym organizatora, służącym do uporządkowania informacji o zakresie powierzonych zadań.
 
-### 20.2. Upoważnienie do wykonania określonego zadania
+## 20.2. Upoważnienie do wykonania określonego zadania
 
 Upoważnienie powinno zawierać:
 
@@ -1169,7 +1169,7 @@ Upoważnienie powinno zawierać:
 
 Jeżeli dokument dotyczy funkcji religijnej, powinien zostać sporządzony przez podmiot właściwy według prawa wewnętrznego wspólnoty. Fundacja nie powinna wystawiać dokumentu sugerującego, że ustanawia duchownego wspólnoty, jeśli nie ma do tego kompetencji.
 
-### 20.3. Protokół weryfikacji osoby
+## 20.3. Protokół weryfikacji osoby
 
 Protokół może zawierać:
 
@@ -1186,7 +1186,7 @@ Protokół może zawierać:
 
 Nie należy wpisywać do protokołu ocen doktrynalnych, prywatnych poglądów ani danych, które nie są potrzebne do ustalenia uprawnienia.
 
-### 20.4. Procedura cofnięcia upoważnienia
+## 20.4. Procedura cofnięcia upoważnienia
 
 Po otrzymaniu informacji o odwołaniu lub zawieszeniu upoważnienia należy:
 
