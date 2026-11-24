@@ -814,7 +814,7 @@ Kto sprawdzi zgodność działania z prawem i zatwierdzi wynik?
 
 ### 18.2. Schemat decyzyjny
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["Planowane działanie fundacji"] --> B["Ustal podmiot i jego umocowanie"]
     B --> C["Ustal rzeczywistą treść czynności"]
@@ -827,11 +827,11 @@ flowchart TD
     H --> I["Przygotuj umowę, procedurę i ewidencję"]
     I --> J["Zatwierdź, wykonaj i monitoruj"]
     J --> K["Archiwizuj dowody i kontroluj zgodność"]
-\`\`\`
+```
 
 ### 18.3. Mapa podstawowych zależności
 
-\`\`\`mermaid
+```mermaid
 flowchart TB
     K["Konstytucja RP i prawo UE"] --> U["Ustawy"]
     U --> R["Rozporządzenia i akty wykonawcze"]
@@ -841,7 +841,7 @@ flowchart TB
     P --> D["Codzienne działania i dokumentacja"]
     U --> T["Podatki, rachunkowość, dane, bezpieczeństwo"]
     T --> D
-\`\`\`
+```
 
 ---
 
