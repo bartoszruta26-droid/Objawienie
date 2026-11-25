@@ -181,21 +181,23 @@ W szczególności trzeba zbadać, czy świadczenie jest przyznawane na podstawie
 
 ### 3.8. Schemat decyzji
 
-    flowchart TD
-      A[Przekazanie pieniędzy osobie prowadzącej praktyki religijne] --> B{Czy osoba otrzymuje środki do własnego majątku?}
-      B -->|Tak| C{Czy ma wykonać świadczenie wzajemne?}
-      C -->|Nie| D[Analiza darowizny osobistej]
-      C -->|Tak| E[Analiza wynagrodzenia lub umowy odpłatnej]
-      B -->|Nie| F{Czy działa w imieniu organizacji?}
-      F -->|Tak| G[Weryfikacja umocowania i odbiorcy instytucjonalnego]
-      F -->|Nie| H{Czy ma rozliczyć wydatki?}
-      H -->|Tak| I[Zaliczka, powierzenie środków lub zwrot kosztów]
-      H -->|Nie| J[Ustalenie rzeczywistej podstawy prawnej]
-      D --> K[Dokumentacja i ocena podatkowa]
-      E --> K
-      G --> K
-      I --> K
-      J --> K
+```mermaid
+flowchart TD
+  A[Przekazanie pieniędzy osobie prowadzącej praktyki religijne] --> B{Czy osoba otrzymuje środki do własnego majątku?}
+  B -->|Tak| C{Czy ma wykonać świadczenie wzajemne?}
+  C -->|Nie| D[Analiza darowizny osobistej]
+  C -->|Tak| E[Analiza wynagrodzenia lub umowy odpłatnej]
+  B -->|Nie| F{Czy działa w imieniu organizacji?}
+  F -->|Tak| G[Weryfikacja umocowania i odbiorcy instytucjonalnego]
+  F -->|Nie| H{Czy ma rozliczyć wydatki?}
+  H -->|Tak| I[Zaliczka, powierzenie środków lub zwrot kosztów]
+  H -->|Nie| J[Ustalenie rzeczywistej podstawy prawnej]
+  D --> K[Dokumentacja i ocena podatkowa]
+  E --> K
+  G --> K
+  I --> K
+  J --> K
+```
 
 ---
 
