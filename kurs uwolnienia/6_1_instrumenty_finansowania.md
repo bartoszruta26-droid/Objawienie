@@ -158,7 +158,7 @@ Przed wyborem instrumentu organizacja powinna przeprowadzić krótką diagnozę:
 
 ### 3.2. Schemat wstępnej kwalifikacji
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["Planowane pozyskanie środków"] --> B{"Czy finansujący kupuje towar lub usługę dla siebie?"}
     B -->|Tak| C["Zbadaj zamówienie, usługę lub umowę odpłatną"]
@@ -174,7 +174,7 @@ flowchart TD
     J --> L
     K --> L
     C --> L
-\`\`\`
+```
 
 Schemat ma charakter orientacyjny. W praktyce niektóre programy łączą kilka konstrukcji, a kwalifikacja wymaga analizy przepisów szczególnych i treści dokumentów.
 
@@ -1094,7 +1094,7 @@ Organizacja powinna posiadać procedurę, która:
 
 ### 18.2. Schemat cyklu
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["Potrzeba społeczna lub organizacyjna"] --> B["Diagnoza i cel"]
     B --> C["Dobór źródła i instrumentu"]
@@ -1107,7 +1107,7 @@ flowchart TD
     I --> J["Kontrola i rozliczenie"]
     J --> K["Ewaluacja i trwałość"]
     J --> L["Zwrot środków, jeśli wymagany"]
-\`\`\`
+```
 
 ### 18.3. Punkty kontrolne
 
