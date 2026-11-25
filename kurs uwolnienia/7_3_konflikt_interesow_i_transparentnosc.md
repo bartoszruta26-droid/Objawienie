@@ -680,6 +680,30 @@ Jeżeli pojawia się uzasadnione podejrzenie przestępstwa, nie należy prowadzi
 7. zapewnić ochronę osobie zgłaszającej w granicach prawa;
 8. zachować poufność i nie rozpowszechniać niezweryfikowanych oskarżeń.
 
+### 8.7. Kanały zgłoszeń i ochrona sygnalistów
+
+W organizacji należy odróżnić zwykłe zgłoszenie konfliktu interesów od zgłoszenia naruszenia prawa dokonywanego w trybie ustawy o ochronie sygnalistów. Te procedury mogą się uzupełniać, ale nie są tożsame.
+
+Ustawa z 14 czerwca 2024 r. o ochronie sygnalistów obejmuje zgłaszanie informacji o naruszeniach prawa w określonych dziedzinach, w tym korupcji, zamówień publicznych oraz naruszeń dotyczących konstytucyjnych wolności i praw człowieka i obywatela w zakresie wskazanym w ustawie. Ochrona zależy od spełnienia ustawowych warunków, w tym od uzasadnionych podstaw do uznania, że informacja jest prawdziwa i dotyczy naruszenia prawa. Nie każda skarga pracownicza, różnica zdań ani zgłoszenie niezadowolenia automatycznie nadaje zgłaszającemu status sygnalisty.
+
+Podmioty prawne, na rzecz których pracę zarobkową wykonuje co najmniej 50 osób, co do zasady mają obowiązek ustanowienia procedury zgłoszeń wewnętrznych i działań następczych. Ustawa przewiduje również szczególne kategorie podmiotów, dla których obowiązek może istnieć niezależnie od tego progu. Organy publiczne mają odrębne obowiązki dotyczące przyjmowania zgłoszeń zewnętrznych. Organizacja, która nie ma ustawowego obowiązku ustanowienia kanału wewnętrznego, może rozważyć jego dobrowolne wprowadzenie, jeżeli skala działalności i ryzyko to uzasadniają.
+
+Prawidłowy kanał zgłoszeń powinien zapewniać:
+- możliwość bezpiecznego przekazania informacji;
+- ochronę poufności tożsamości zgłaszającego i osób wymienionych w zgłoszeniu w zakresie wymaganym ustawą;
+- dostęp do zgłoszenia wyłącznie osób upoważnionych;
+- bezstronne działania następcze;
+- dokumentowanie czynności i terminów;
+- ochronę przed działaniami odwetowymi;
+- informację zwrotną w granicach przewidzianych prawem;
+- bezpieczne przechowywanie dokumentacji.
+
+Kanał sygnalistyczny nie powinien być wykorzystywany do rozpowszechniania niezweryfikowanych oskarżeń, uzyskiwania przewagi w sporze osobistym ani obchodzenia zwykłych procedur. Z drugiej strony nie wolno zniechęcać do zgłoszenia, ujawniać tożsamości bez podstawy prawnej ani podejmować odwetu wobec osoby korzystającej z ustawowej ochrony.
+
+Jeżeli zgłoszenie wskazuje na możliwe przestępstwo, organizacja powinna zabezpieczyć dokumenty, zachować poufność, ocenić obowiązki zawiadomienia i nie prowadzić działań, które mogłyby utrudnić właściwym organom ustalenie faktów. Procedura wewnętrzna nie zastępuje zawiadomienia organów ścigania, jeżeli istnieje ustawowy obowiązek jego złożenia.
+
+**Źródło:** ustawa z dnia 14 czerwca 2024 r. o ochronie sygnalistów, Dz.U. z 2024 r. poz. 928; informacje Ministerstwa Rodziny, Pracy i Polityki Społecznej dotyczące zakresu ustawy i kanałów zgłoszeń.
+
 ---
 
 ## 9. Transparentność źródeł finansowania
@@ -1818,14 +1842,15 @@ System można uznać za funkcjonalny, jeżeli:
 1. **Konstytucja Rzeczypospolitej Polskiej** z dnia 2 kwietnia 1997 r., w szczególności zasady legalizmu, równości, dobra wspólnego, kontroli parlamentarnej i ochrony praw jednostki. Tekst i informacje o akcie: [Internetowy System Aktów Prawnych / ELI](https://eli.gov.pl/).
 2. **Ustawa z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora**, tekst jednolity: Dz.U. z 2026 r. poz. 1282, w szczególności art. 33, 34, 35 i 35a. [ELI – Dz.U. 2026 poz. 1282](https://eli.gov.pl/eli/DU/2026/1282/ogl).
 3. **Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 17 lipca 1998 r. – Zasady Etyki Poselskiej**, M.P. z 1998 r. Nr 24, poz. 338. [ELI – Zasady Etyki Poselskiej](https://eli.gov.pl/eli/MP/1998/338/ogl).
-4. **Uchwała Senatu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie zmiany Regulaminu Senatu**, wprowadzająca Zasady Etyki Senatorskiej jako załącznik nr 2. [Dokument Senatu](https://www.senat.gov.pl/gfx/senat/userfiles/_public/k11/dokumenty/uchwaly/045/516uch.pdf).
+4. **Regulamin Senatu**, tekst jednolity ogłoszony obwieszczeniem Marszałka Senatu z dnia 20 listopada 2025 r., M.P. z 2025 r. poz. 1251, z załącznikiem nr 2 zawierającym Zasady Etyki Senatorskiej, wprowadzone uchwałą z 7 listopada 2025 r. [ELI – M.P. 2025 poz. 1251](https://eli.gov.pl/eli/MP/2025/1251/ogl).
 5. **Ustawa z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne**, tekst jednolity: Dz.U. z 2025 r. poz. 499, z uwzględnieniem nowelizacji z 9 stycznia 2026 r., Dz.U. z 2026 r. poz. 177. [ELI – tekst jednolity](https://eli.gov.pl/eli/DU/2025/499/ogl); [ELI – nowelizacja z 2026 r.](https://eli.gov.pl/eli/DU/2026/177/ogl).
 6. **Ustawa z dnia 6 czerwca 1997 r. – Kodeks karny**, tekst jednolity: Dz.U. z 2026 r. poz. 1342, z późniejszymi zmianami, w szczególności art. 228–231. [ELI – Dz.U. 2026 poz. 1342](https://eli.gov.pl/eli/DU/2026/1342/ogl).
 7. **Ustawa z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa**, tekst jednolity: Dz.U. z 2026 r. poz. 936. [ELI – Dz.U. 2026 poz. 936](https://eli.gov.pl/eli/DU/2026/936/ogl).
 8. **Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej**, w szczególności art. 4 i 5. [ELI – akt i teksty](https://eli.gov.pl/eli/DU/2001/1198/ogl).
 9. **Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie**, tekst jednolity: Dz.U. z 2024 r. poz. 1491, z uwzględnieniem późniejszych zmian, w szczególności przepisów o współpracy z administracją, dotacjach i sprawozdawczości OPP. [ELI – tekst jednolity](https://eli.gov.pl/eli/DU/2024/1491/ogl); [nowelizacja z 19 czerwca 2026 r.](https://eli.gov.pl/eli/DU/2026/1040/ogl).
-10. **Ustawa z dnia 11 września 2019 r. – Prawo zamówień publicznych**, w szczególności art. 56. [Komentarz Urzędu Zamówień Publicznych do art. 56](https://ekomentarzpzp.uzp.gov.pl/prawo-zamowien-publicznych/art-56).
+10. **Ustawa z dnia 11 września 2019 r. – Prawo zamówień publicznych**, tekst jednolity: Dz.U. z 2026 r. poz. 793, w szczególności art. 56. [ELI – Dz.U. 2026 poz. 793](https://eli.gov.pl/eli/DU/2026/793/ogl). Pomocniczo: [Komentarz Urzędu Zamówień Publicznych do art. 56](https://ekomentarzpzp.uzp.gov.pl/prawo-zamowien-publicznych/art-56).
 11. **Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679** z dnia 27 kwietnia 2016 r. – ogólne rozporządzenie o ochronie danych (RODO), w szczególności art. 5, 6, 9, 13, 25 i 32. [EUR-Lex – polska wersja RODO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/pol).
+12. **Ustawa z dnia 14 czerwca 2024 r. o ochronie sygnalistów**, Dz.U. z 2024 r. poz. 928, w szczególności przepisy o warunkach ochrony, zgłoszeniach wewnętrznych i zewnętrznych oraz zakazie działań odwetowych. [ELI – Dz.U. 2024 poz. 928](https://eli.gov.pl/eli/DU/2024/928/ogl); [Ministerstwo Rodziny, Pracy i Polityki Społecznej – ochrona sygnalistów](https://www.gov.pl/web/rodzina/ochrona-sygnalistow).
 
 ### 24.2. Materiały instytucjonalne i standardy międzynarodowe
 
