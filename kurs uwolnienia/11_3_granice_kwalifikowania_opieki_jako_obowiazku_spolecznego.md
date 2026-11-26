@@ -709,7 +709,7 @@ Prawidłowa kwalifikacja wymaga spojrzenia na fakty, a nie wyłącznie na nazwę
 
 Poniższy schemat służy wstępnej kwalifikacji. Nie zastępuje analizy przepisów szczególnych ani dokumentów.
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["Opis rzeczywistych czynności"] --> B{"Czy istnieje szczególny przepis, orzeczenie lub decyzja?"}
     B -->|Tak| C["Zbadaj zakres i warunki tytułu ustawowego"]
@@ -727,7 +727,7 @@ flowchart TD
     J --> L["Udokumentuj podstawę, zakres i odpowiedzialność"]
     K --> L
     L --> M["Okresowo weryfikuj rzeczywisty charakter relacji"]
-\`\`\`
+```
 
 ### 10.3. Test rozbieżności między dokumentem a praktyką
 
