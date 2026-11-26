@@ -1579,24 +1579,29 @@ Stan prawny przyjęty w rozdziale: 26 listopada 2026 r. Przed zastosowaniem wzor
 2. Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, tekst jednolity: Dz. U. z 2026 r. poz. 478, w szczególności art. 1, 5–9, 14–17a. [ELI – podatek od spadków i darowizn, Dz. U. 2026 poz. 478](https://eli.gov.pl/eli/DU/2026/478/ogl).
 3. Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, tekst jednolity: Dz. U. z 2026 r. poz. 592, w szczególności art. 2, 10–13, 20, 21 i 41. [ELI – PIT, Dz. U. 2026 poz. 592](https://eli.gov.pl/eli/DU/2026/592/ogl).
 4. Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, tekst jednolity: Dz. U. z 2025 r. poz. 1338, z późniejszymi zmianami, w szczególności art. 2, 6–10, 42–46. [ELI – działalność pożytku publicznego, Dz. U. 2025 poz. 1338](https://eli.gov.pl/eli/DU/2025/1338/ogl).
-5. Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy, tekst jednolity: Dz. U. z 2026 r. poz. 1245, w szczególności art. 22, 77⁵, 78 i 80. [ELI – Kodeks pracy, Dz. U. 2026 poz. 1245](https://eli.gov.pl/eli/DU/1974/141).
-6. Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, tekst jednolity: Dz. U. z 2026 r. poz. 1474. [ELI – system ubezpieczeń społecznych, Dz. U. 2026 poz. 1474](https://eli.gov.pl/api/acts/DU/2026/1474/text/O/D20261474.pdf).
-7. Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług, tekst jednolity: Dz. U. z 2026 r. poz. 1263, z późniejszymi zmianami. [ELI – VAT, Dz. U. 2026 poz. 1263](https://eli.gov.pl/eli/DU/2026/1263/ogl).
-8. Ustawa z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, w szczególności art. 618a–618e. [ELI – Kodeks postępowania karnego](https://eli.gov.pl/eli/DU/1997/555/ogl).
-9. Ustawa z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, tekst jednolity: Dz. U. z 2026 r. poz. 468, w szczególności art. 277. [ELI – Kodeks postępowania cywilnego, Dz. U. 2026 poz. 468](https://eli.gov.pl/eli/DU/2026/468/ogl).
-10. Ustawa z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych, w szczególności art. 15 i 15a. [ELI – ustawa o ochotniczych strażach pożarnych](https://eli.gov.pl/eli/DU/2021/2490/ogl).
-11. Rozporządzenie Rady Ministrów z dnia 11 września 2025 r. w sprawie wysokości minimalnego wynagrodzenia za pracę oraz wysokości minimalnej stawki godzinowej w 2026 r., Dz. U. z 2025 r. poz. 1242. [ELI – Dz. U. 2025 poz. 1242](https://eli.gov.pl/eli/DU/2025/1242/ogl).
-12. Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o grach hazardowych, Dz. U. z 2026 r. poz. 1040. [ELI – Dz. U. 2026 poz. 1040](https://eli.gov.pl/eli/DU/2026/1040/ogl).
+5. Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, tekst jednolity: Dz. U. z 2026 r. poz. 554, z późniejszymi zmianami. [ELI – CIT, Dz. U. 2026 poz. 554](https://eli.gov.pl/eli/DU/2026/554/ogl).
+6. Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy, tekst jednolity: Dz. U. z 2026 r. poz. 1245, w szczególności art. 22, 77⁵, 78 i 80. [ELI – Kodeks pracy, Dz. U. 2026 poz. 1245](https://eli.gov.pl/eli/DU/2026/1245/ogl).
+7. Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, tekst jednolity: Dz. U. z 2026 r. poz. 1474. [ELI – system ubezpieczeń społecznych, Dz. U. 2026 poz. 1474](https://eli.gov.pl/api/acts/DU/2026/1474/text/O/D20261474.pdf).
+8. Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług, tekst jednolity: Dz. U. z 2026 r. poz. 1263, z późniejszymi zmianami. [ELI – VAT, Dz. U. 2026 poz. 1263](https://eli.gov.pl/eli/DU/2026/1263/ogl).
+9. Ustawa z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, tekst jednolity: Dz. U. z 2026 r. poz. 490, w szczególności art. 618a–618e. [ELI – Kodeks postępowania karnego, Dz. U. 2026 poz. 490](https://eli.gov.pl/eli/DU/2026/490/ogl).
+10. Ustawa z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, tekst jednolity: Dz. U. z 2026 r. poz. 468, w szczególności art. 277. [ELI – Kodeks postępowania cywilnego, Dz. U. 2026 poz. 468](https://eli.gov.pl/eli/DU/2026/468/ogl).
+11. Ustawa z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych, w szczególności art. 15 i 15a. [ELI – ustawa o ochotniczych strażach pożarnych](https://eli.gov.pl/eli/DU/2021/2490/ogl).
+12. Ustawa z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, tekst jednolity: Dz. U. z 2024 r. poz. 1773, z późniejszymi zmianami. [ELI – minimalne wynagrodzenie, Dz. U. 2024 poz. 1773](https://eli.gov.pl/eli/DU/2024/1773/ogl).
+13. Rozporządzenie Rady Ministrów z dnia 11 września 2025 r. w sprawie wysokości minimalnego wynagrodzenia za pracę oraz wysokości minimalnej stawki godzinowej w 2026 r., Dz. U. z 2025 r. poz. 1242. [ELI – Dz. U. 2025 poz. 1242](https://eli.gov.pl/eli/DU/2025/1242/ogl).
+14. Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2013 r. w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej, Dz. U. z 2013 r. poz. 167, z późniejszymi zmianami. [ELI – Dz. U. 2013 poz. 167](https://eli.gov.pl/eli/DU/2013/167/ogl).
+15. Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o grach hazardowych, Dz. U. z 2026 r. poz. 1040. [ELI – Dz. U. 2026 poz. 1040](https://eli.gov.pl/eli/DU/2026/1040/ogl).
 
 ### 24.2. Interpretacje i źródła urzędowe
 
-13. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna dotycząca darowizny od fundacji na rzecz osoby fizycznej, identyfikator EUREKA 656690. [EUREKA Ministerstwa Finansów](https://eureka.mf.gov.pl/informacje/podglad/656690). Interpretacja ma charakter indywidualny i nie zastępuje analizy własnego stanu faktycznego.
-14. Ministerstwo Finansów, serwis podatkowy – informacje o podatku PIT i obowiązkach płatników. [podatki.gov.pl](https://podatki.gov.pl/).
-15. Ministerstwo Finansów, EUREKA – baza interpretacji indywidualnych i informacji podatkowych. [EUREKA](https://eureka.mf.gov.pl/).
-16. Zakład Ubezpieczeń Społecznych, zasady podlegania ubezpieczeniom społecznym i zdrowotnym oraz ustalania podstawy wymiaru składek. [ZUS](https://www.zus.pl/).
-17. Ministerstwo Rodziny, Pracy i Polityki Społecznej – informacje o programach pomocy i świadczeniach. [gov.pl](https://www.gov.pl/web/rodzina).
+16. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna dotycząca darowizny od fundacji na rzecz osoby fizycznej, identyfikator EUREKA 656690. [EUREKA Ministerstwa Finansów](https://eureka.mf.gov.pl/informacje/podglad/656690). Interpretacja ma charakter indywidualny i nie zastępuje analizy własnego stanu faktycznego.
+17. Ministerstwo Finansów, serwis podatkowy – informacje o podatku PIT i obowiązkach płatników. [podatki.gov.pl](https://podatki.gov.pl/).
+18. Ministerstwo Finansów, EUREKA – baza interpretacji indywidualnych i informacji podatkowych. [EUREKA](https://eureka.mf.gov.pl/).
+19. Zakład Ubezpieczeń Społecznych, zasady podlegania ubezpieczeniom społecznym i zdrowotnym oraz ustalania podstawy wymiaru składek. [ZUS](https://www.zus.pl/).
+20. Ministerstwo Rodziny, Pracy i Polityki Społecznej – informacje o programach pomocy i świadczeniach. [gov.pl](https://www.gov.pl/web/rodzina).
 
 ### 24.3. Zasady korzystania ze źródeł
+
+Teksty jednolite wskazane w bibliografii należy czytać łącznie z późniejszymi nowelizacjami. W szczególności ustawa o PIT z Dz. U. 2026 poz. 592 była później zmieniana m.in. ustawami ogłoszonymi w Dz. U. 2026 poz. 779, 1354, 1371 i 1541; część przepisów tych ustaw wchodzi w życie dopiero 1 stycznia 2027 r. Przed wypłatą należy sprawdzić datę wejścia w życie konkretnej zmiany, a nie stosować przyszłego brzmienia przepisu do wcześniejszego zdarzenia. Nowelizacja ustawy o działalności pożytku publicznego z Dz. U. 2026 poz. 1040 obowiązuje zasadniczo od 1 września 2026 r., przy czym wskazane w niej przepisy dotyczące m.in. art. 19a i zmian w systemie funduszy wchodzą w życie 1 stycznia 2027 r.
 
 - Interpretacja indywidualna dotyczy opisanego w niej stanu faktycznego i nie daje automatycznej ochrony innemu podmiotowi.
 - Tekst jednolity nie zawsze uwzględnia zmiany ogłoszone po dacie jego stanu prawnego; trzeba sprawdzać późniejsze akty zmieniające.
