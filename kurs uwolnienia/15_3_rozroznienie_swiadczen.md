@@ -223,6 +223,18 @@ Obowiązek podatkowy w podatku od spadków i darowizn ciąży na nabywcy. W razi
 
 Nie należy mylić tego obowiązku z sześciomiesięcznym zgłoszeniem SD-Z2 przewidzianym dla określonych członków najbliższej rodziny. Osoba otrzymująca darowiznę od fundacji nie uzyskuje zwolnienia rodzinnego tylko dlatego, że fundacja realizuje cel społeczny.
 
+### 3.6a. Szczególne zwolnienie dla darowizn związanych z usuwaniem skutków powodzi
+
+W 2026 r. należy dodatkowo sprawdzić art. 19a ustawy o podatku od spadków i darowizn, dodany ustawą z 15 maja 2026 r., Dz. U. z 2026 r. poz. 775. Przepis ma charakter epizodyczny: zwalnia od podatku określone darowizny, jeżeli obdarowany przeznaczy je w okresie od 1 stycznia do 31 grudnia 2026 r. na usunięcie skutków powodzi z września 2024 r. na terenie gmin wskazanych w przepisach określających wykaz gmin objętych szczególnymi rozwiązaniami powodziowymi.
+
+Nie jest to ogólne zwolnienie wszystkich darowizn na cele dobroczynne ani wszystkich darowizn od fundacji. Przed zastosowaniem art. 19a trzeba potwierdzić, że:
+- darowizna mieści się w zakresie przepisu;
+- miejsce i cel wydatkowania odpowiadają ustawowym warunkom;
+- obdarowany wykorzystuje środki w okresie wskazanym w ustawie;
+- istnieją dowody pozwalające wykazać przeznaczenie darowizny.
+
+Jeżeli fundacja przekazuje pomoc w związku z powodzią, powinna oddzielić dokumentację tego szczególnego zwolnienia od dokumentacji zwykłych darowizn i nie rozszerzać go na inne zdarzenia losowe. Po 31 grudnia 2026 r. nie należy zakładać możliwości stosowania tego epizodycznego zwolnienia do nowych wydatków, bez sprawdzenia przepisów przejściowych i ewentualnych zmian prawa.
+
 ### 3.7. Darowizna rzeczowa
 
 Darowizna może polegać na przekazaniu sprzętu, wyposażenia, odzieży, żywności, środków pomocniczych albo innego przedmiotu. Należy ustalić:
@@ -1585,23 +1597,25 @@ Stan prawny przyjęty w rozdziale: 26 listopada 2026 r. Przed zastosowaniem wzor
 8. Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług, tekst jednolity: Dz. U. z 2026 r. poz. 1263, z późniejszymi zmianami. [ELI – VAT, Dz. U. 2026 poz. 1263](https://eli.gov.pl/eli/DU/2026/1263/ogl).
 9. Ustawa z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, tekst jednolity: Dz. U. z 2026 r. poz. 490, w szczególności art. 618a–618e. [ELI – Kodeks postępowania karnego, Dz. U. 2026 poz. 490](https://eli.gov.pl/eli/DU/2026/490/ogl).
 10. Ustawa z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, tekst jednolity: Dz. U. z 2026 r. poz. 468, w szczególności art. 277. [ELI – Kodeks postępowania cywilnego, Dz. U. 2026 poz. 468](https://eli.gov.pl/eli/DU/2026/468/ogl).
-11. Ustawa z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych, w szczególności art. 15 i 15a. [ELI – ustawa o ochotniczych strażach pożarnych](https://eli.gov.pl/eli/DU/2021/2490/ogl).
+11. Ustawa z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych, tekst jednolity: Dz. U. z 2025 r. poz. 244, z późniejszymi zmianami, w szczególności art. 15 i 15a. [ELI – ustawa o ochotniczych strażach pożarnych, Dz. U. 2025 poz. 244](https://eli.gov.pl/eli/DU/2025/244/ogl).
 12. Ustawa z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, tekst jednolity: Dz. U. z 2024 r. poz. 1773, z późniejszymi zmianami. [ELI – minimalne wynagrodzenie, Dz. U. 2024 poz. 1773](https://eli.gov.pl/eli/DU/2024/1773/ogl).
 13. Rozporządzenie Rady Ministrów z dnia 11 września 2025 r. w sprawie wysokości minimalnego wynagrodzenia za pracę oraz wysokości minimalnej stawki godzinowej w 2026 r., Dz. U. z 2025 r. poz. 1242. [ELI – Dz. U. 2025 poz. 1242](https://eli.gov.pl/eli/DU/2025/1242/ogl).
 14. Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2013 r. w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej, Dz. U. z 2013 r. poz. 167, z późniejszymi zmianami. [ELI – Dz. U. 2013 poz. 167](https://eli.gov.pl/eli/DU/2013/167/ogl).
 15. Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o grach hazardowych, Dz. U. z 2026 r. poz. 1040. [ELI – Dz. U. 2026 poz. 1040](https://eli.gov.pl/eli/DU/2026/1040/ogl).
+16. Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o podatku od spadków i darowizn, Dz. U. z 2026 r. poz. 775, w szczególności art. 19a – czasowe zwolnienie określonych darowizn przeznaczonych na usuwanie skutków powodzi z września 2024 r. [ELI – Dz. U. 2026 poz. 775](https://eli.gov.pl/eli/DU/2026/775/ogl).
+17. Ustawa z dnia 22 października 2026 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw, Dz. U. z 2026 r. poz. 1509; zasadniczo wchodzi w życie 1 stycznia 2027 r., z wyjątkami wskazanymi w art. 8. [ELI – Dz. U. 2026 poz. 1509](https://eli.gov.pl/eli/DU/2026/1509/ogl).
 
 ### 24.2. Interpretacje i źródła urzędowe
 
-16. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna dotycząca darowizny od fundacji na rzecz osoby fizycznej, identyfikator EUREKA 656690. [EUREKA Ministerstwa Finansów](https://eureka.mf.gov.pl/informacje/podglad/656690). Interpretacja ma charakter indywidualny i nie zastępuje analizy własnego stanu faktycznego.
-17. Ministerstwo Finansów, serwis podatkowy – informacje o podatku PIT i obowiązkach płatników. [podatki.gov.pl](https://podatki.gov.pl/).
-18. Ministerstwo Finansów, EUREKA – baza interpretacji indywidualnych i informacji podatkowych. [EUREKA](https://eureka.mf.gov.pl/).
-19. Zakład Ubezpieczeń Społecznych, zasady podlegania ubezpieczeniom społecznym i zdrowotnym oraz ustalania podstawy wymiaru składek. [ZUS](https://www.zus.pl/).
-20. Ministerstwo Rodziny, Pracy i Polityki Społecznej – informacje o programach pomocy i świadczeniach. [gov.pl](https://www.gov.pl/web/rodzina).
+18. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna dotycząca darowizny od fundacji na rzecz osoby fizycznej, identyfikator EUREKA 656690. [EUREKA Ministerstwa Finansów](https://eureka.mf.gov.pl/informacje/podglad/656690). Interpretacja ma charakter indywidualny i nie zastępuje analizy własnego stanu faktycznego.
+19. Ministerstwo Finansów, serwis podatkowy – informacje o podatku PIT i obowiązkach płatników. [podatki.gov.pl](https://podatki.gov.pl/).
+20. Ministerstwo Finansów, EUREKA – baza interpretacji indywidualnych i informacji podatkowych. [EUREKA](https://eureka.mf.gov.pl/).
+21. Zakład Ubezpieczeń Społecznych, zasady podlegania ubezpieczeniom społecznym i zdrowotnym oraz ustalania podstawy wymiaru składek. [ZUS](https://www.zus.pl/).
+22. Ministerstwo Rodziny, Pracy i Polityki Społecznej – informacje o programach pomocy i świadczeniach. [gov.pl](https://www.gov.pl/web/rodzina).
 
 ### 24.3. Zasady korzystania ze źródeł
 
-Teksty jednolite wskazane w bibliografii należy czytać łącznie z późniejszymi nowelizacjami. W szczególności ustawa o PIT z Dz. U. 2026 poz. 592 była później zmieniana m.in. ustawami ogłoszonymi w Dz. U. 2026 poz. 779, 1354, 1371 i 1541; część przepisów tych ustaw wchodzi w życie dopiero 1 stycznia 2027 r. Przed wypłatą należy sprawdzić datę wejścia w życie konkretnej zmiany, a nie stosować przyszłego brzmienia przepisu do wcześniejszego zdarzenia. Nowelizacja ustawy o działalności pożytku publicznego z Dz. U. 2026 poz. 1040 obowiązuje zasadniczo od 1 września 2026 r., przy czym wskazane w niej przepisy dotyczące m.in. art. 19a i zmian w systemie funduszy wchodzą w życie 1 stycznia 2027 r.
+Teksty jednolite wskazane w bibliografii należy czytać łącznie z późniejszymi nowelizacjami. Ustawa o podatku od spadków i darowizn z Dz. U. 2026 poz. 478 została następnie uzupełniona m.in. o art. 19a ustawą z Dz. U. 2026 poz. 775; jest to czasowe zwolnienie dotyczące określonych darowizn na usuwanie skutków powodzi z września 2024 r. Ustawa o VAT z Dz. U. 2026 poz. 1263 została zmieniona ustawą z Dz. U. 2026 poz. 1509, której zasadnicza część wchodzi w życie 1 stycznia 2027 r.; nie należy stosować tych przyszłych zmian przed ich wejściem w życie. W szczególności ustawa o PIT z Dz. U. 2026 poz. 592 była później zmieniana m.in. ustawami ogłoszonymi w Dz. U. 2026 poz. 779, 1354, 1371 i 1541; część przepisów tych ustaw wchodzi w życie dopiero 1 stycznia 2027 r. Przed wypłatą należy sprawdzić datę wejścia w życie konkretnej zmiany, a nie stosować przyszłego brzmienia przepisu do wcześniejszego zdarzenia. Nowelizacja ustawy o działalności pożytku publicznego z Dz. U. 2026 poz. 1040 obowiązuje zasadniczo od 1 września 2026 r., przy czym wskazane w niej przepisy dotyczące m.in. art. 19a i zmian w systemie funduszy wchodzą w życie 1 stycznia 2027 r.
 
 - Interpretacja indywidualna dotyczy opisanego w niej stanu faktycznego i nie daje automatycznej ochrony innemu podmiotowi.
 - Tekst jednolity nie zawsze uwzględnia zmiany ogłoszone po dacie jego stanu prawnego; trzeba sprawdzać późniejsze akty zmieniające.
