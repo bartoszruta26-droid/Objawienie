@@ -800,7 +800,7 @@ Fundacja może finansować uzasadnione potrzeby opiekuna lub chorego, jeżeli wy
 
 Poniższy schemat przedstawia kolejność analizy. Nie zastępuje indywidualnej oceny prawnej ani podatkowej.
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["Osoba sprawuje opiekę nad osobą chorą"] --> B["Ustalenie rzeczywistego zakresu opieki"]
     B --> C["Ustalenie statusu opiekuna"]
@@ -816,7 +816,7 @@ flowchart TD
     J -->|Nie| L["Rozliczenie według właściwych zasad podatkowych"]
     K --> M["Kontrola, ewidencja i archiwizacja"]
     L --> M
-\`\`\`
+```
 
 ### 14.1. Etap pierwszy – rozpoznanie osoby i potrzeb
 
