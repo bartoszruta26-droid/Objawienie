@@ -123,7 +123,7 @@ Jeżeli osoba zaczyna pobierać wynagrodzenie za świadczenie usług opiekuńczy
 
 Opiekun prawny jest ustanawiany przez właściwy sąd w przypadkach przewidzianych prawem. Nie jest nim automatycznie członek rodziny, osoba zamieszkująca z chorym, wolontariusz ani osoba posiadająca upoważnienie do kontaktu z placówką medyczną.
 
-Opieka prawna wiąże się z określonym zakresem obowiązków i nadzorem sądu. W przypadku osoby dorosłej wymaga spełnienia przesłanek wynikających z przepisów o zdolności do czynności prawnych i opiece. Sama diagnoza choroby przewlekłej nie ustanawia opieki prawnej.
+Opieka prawna wiąże się z określonym zakresem obowiązków i nadzorem sądu. W przypadku osoby dorosłej opiekę prawną należy odróżnić od kurateli. Opieka nad osobą ubezwłasnowolnioną całkowicie podlega odpowiedniemu stosowaniu przepisów o opiece nad małoletnim (art. 175 KRO). Natomiast art. 183 KRO przewiduje ustanowienie kuratora dla pełnoletniej osoby z niepełnosprawnością, która potrzebuje wsparcia w prowadzeniu wszystkich spraw, spraw określonego rodzaju albo załatwieniu konkretnej sprawy. Sąd określa zakres obowiązków i uprawnień kuratora; kurator reprezentuje tę osobę tylko wtedy, gdy sąd tak postanowi. Kurator nie jest zatem automatycznie opiekunem prawnym ani przedstawicielem ustawowym. Sama diagnoza choroby przewlekłej lub niepełnosprawność nie ustanawia opieki prawnej ani kurateli.
 
 ### 4.5. Wolontariusz
 
@@ -537,7 +537,7 @@ To zwolnienie nie jest dietą z art. 21 ust. 1 pkt 17. Jego zastosowanie wynika 
 
 Art. 162 KRO przewiduje możliwość przyznania opiekunowi wynagrodzenia okresowego albo jednorazowego na jego żądanie. Kodeks określa także przesłanki odmowy i źródła pokrycia wynagrodzenia.[4]
 
-W interpretacji z 28 stycznia 2025 r., sygn. 0115-KDIT2.4011.577.2024.1.MM, Dyrektor KIS potwierdził zastosowanie zwolnienia z art. 21 ust. 1 pkt 79a do wynagrodzenia kuratora osoby częściowo ubezwłasnowolnionej, jeżeli wynagrodzenie zostało przyznane na podstawie art. 162 KRO w związku z art. 178 § 2 i art. 179 KRO.[12]
+W interpretacji z 28 stycznia 2025 r., sygn. 0115-KDIT2.4011.577.2024.1.MM, Dyrektor KIS potwierdził zastosowanie zwolnienia z art. 21 ust. 1 pkt 79a do wynagrodzenia kuratora osoby częściowo ubezwłasnowolnionej, jeżeli w konkretnym stanie faktycznym wynagrodzenie przyznane na podstawie art. 179 KRO było pokrywane ze środków publicznych z zastosowaniem art. 162 KRO w związku z art. 178 § 2 KRO.[12] Interpretacja dotyczy opisanego w niej stanu faktycznego i nie uzasadnia automatycznego rozszerzenia zwolnienia na każdą kuratelę, w szczególności na odmienny model kuratora ustanawianego na podstawie art. 183 KRO; w takim przypadku należy odrębnie zbadać postanowienie sądu, podstawę wynagrodzenia i aktualne przepisy.
 
 To szczególny przykład ustawowego wynagrodzenia za opiekę, a nie podstawa do wypłacania diet wszystkim osobom opiekującym się chorymi.
 
@@ -655,7 +655,7 @@ Wynagrodzenie to korzysta ze szczególnego zwolnienia podatkowego określonego w
 
 Kurator nie jest tym samym co opiekun prawny. Jego zadania wynikają z postanowienia sądu i właściwych przepisów.
 
-Art. 178 § 2 KRO przewiduje odpowiednie stosowanie przepisów o opiece do kurateli w zakresie nieuregulowanym odrębnie. KIS w interpretacji z 28 stycznia 2025 r. potwierdził możliwość zastosowania art. 21 ust. 1 pkt 79a do wynagrodzenia kuratora, jeżeli przyznano je na podstawie art. 162 KRO w związku z przepisami o kurateli.[12]
+Art. 178 § 2 KRO przewiduje odpowiednie stosowanie przepisów o opiece do kurateli w zakresie nieuregulowanym odrębnie. KIS w interpretacji z 28 stycznia 2025 r. potwierdził możliwość zastosowania art. 21 ust. 1 pkt 79a w konkretnym przypadku kuratora osoby częściowo ubezwłasnowolnionej, gdy wynagrodzenie przyznane na podstawie art. 179 KRO było pokrywane ze środków publicznych z zastosowaniem art. 162 KRO.[12] Nie należy automatycznie przenosić tej interpretacji na inne rodzaje kurateli, w tym kuratelę ustanawianą na podstawie art. 183 KRO.
 
 Nie należy rozszerzać tego zwolnienia na każdą osobę, która pomaga osobie częściowo lub całkowicie niesamodzielnej.
 
@@ -988,7 +988,7 @@ Sąd ustanowił opiekuna prawnego i przyznał mu okresowe wynagrodzenie na podst
 
 Sąd ustanowił kuratora, a następnie przyznał mu wynagrodzenie na podstawie art. 162 KRO stosowanego w związku z przepisami o kurateli.
 
-**Rozwiązanie:** interpretacja KIS z 28 stycznia 2025 r., sygn. 0115-KDIT2.4011.577.2024.1.MM, potwierdza możliwość zastosowania zwolnienia z art. 21 ust. 1 pkt 79a w opisanym stanie faktycznym. Należy jednak sprawdzić, czy rzeczywista sytuacja odpowiada przesłankom interpretacji i postanowieniu sądu.
+**Rozwiązanie:** interpretacja KIS z 28 stycznia 2025 r., sygn. 0115-KDIT2.4011.577.2024.1.MM, potwierdza możliwość zastosowania zwolnienia z art. 21 ust. 1 pkt 79a w opisanym stanie faktycznym dotyczącym kuratora osoby częściowo ubezwłasnowolnionej. Należy jednak sprawdzić, czy rzeczywista sytuacja odpowiada przesłankom interpretacji, aktualnym przepisom i postanowieniu sądu; nie należy automatycznie rozszerzać jej na inne rodzaje kurateli.
 
 ### Przypadek 7. Fundacja realizuje usługi w ramach Bonu Senioralnego
 
@@ -1208,8 +1208,8 @@ Dokumentacja opieki powinna służyć przede wszystkim bezpieczeństwu i jakośc
 ### 22.1. Akty prawne
 
 1. Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, tekst jednolity Dz. U. z 2026 r. poz. 592, w szczególności art. 9, 10, 11, 13 pkt 5–7, art. 20, art. 21 ust. 1 pkt 17, 79a i 113 oraz art. 41–42. [Elektroniczny Dziennik Ustaw – ELI](https://eli.gov.pl/eli/DU/2026/592/ogl).
-2. Ustawa z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w szczególności art. 23, 27, 87, 128–135, 155–162, 178–181. [ELI – tekst jednolity](https://eli.gov.pl/eli/DU/2023/2809/ogl).
-3. Ustawa z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, w szczególności art. 3 ust. 1 pkt 1. [ELI – Dz. U. 2024 poz. 581](https://eli.gov.pl/eli/DU/2024/581/ogl).
+2. Ustawa z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, tekst jednolity Dz. U. z 2026 r. poz. 236, w szczególności art. 23, 27, 87, 128–135, 145–183. [ELI – tekst jednolity](https://eli.gov.pl/eli/DU/2026/236/ogl).
+3. Ustawa z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, w szczególności art. 3 ust. 1 pkt 1; tekst jednolity Dz. U. z 2024 r. poz. 581 ze zmianami, w tym Dz. U. z 2026 r. poz. 26 i 791. [ELI](https://eli.gov.pl/eli/DU/2024/581/ogl).
 4. Ustawa z dnia 11 czerwca 2026 r. o osobach starszych i koordynacji opieki długoterminowej, w szczególności art. 1–18 i 24–30; Dz. U. 2026 poz. 986. [ELI](https://eli.gov.pl/eli/DU/2026/986/ogl).
 5. Ustawa z dnia 12 marca 2004 r. o pomocy społecznej, w szczególności art. 50, 50a i przepisy dotyczące usług opiekuńczych; tekst jednolity Dz. U. 2026 poz. 639 z późniejszymi zmianami. [ELI](https://eli.gov.pl/eli/DU/2026/639/ogl).
 6. Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, w szczególności art. 2, 42, 44–46; tekst jednolity Dz. U. 2025 poz. 1338. [ELI](https://eli.gov.pl/eli/DU/2025/1338/ogl).
