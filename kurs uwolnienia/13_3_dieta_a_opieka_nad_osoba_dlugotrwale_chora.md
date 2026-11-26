@@ -158,7 +158,7 @@ Kodeks rodzinny i opiekuńczy określa obowiązki małżonków oraz rodziców i 
 - art. 27 KRO dotyczy przyczyniania się do zaspokajania potrzeb rodziny;
 - art. 87 KRO wskazuje obowiązek wzajemnego szacunku i wspierania się rodziców oraz dzieci;
 - art. 128 i następne KRO regulują obowiązek alimentacyjny;
-- art. 135 § 2 KRO przewiduje, że wykonanie obowiązku alimentacyjnego może polegać w całości lub części na osobistych staraniach o utrzymanie lub wychowanie uprawnionego.[4]
+- art. 135 § 2 KRO przewiduje, że wykonanie obowiązku alimentacyjnego względem dziecka, które nie jest jeszcze w stanie utrzymać się samodzielnie, albo wobec osoby niepełnosprawnej może polegać w całości lub części na osobistych staraniach o utrzymanie lub wychowanie uprawnionego.[4]
 
 Przepisy te dotyczą stosunków rodzinnych. Nie należy automatycznie przekształcać obowiązków rodzinnych w obowiązki publiczne lub obywatelskie.
 
