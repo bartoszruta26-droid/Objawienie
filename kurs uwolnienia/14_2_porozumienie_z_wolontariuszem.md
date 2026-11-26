@@ -719,14 +719,27 @@ Nie należy jednak przerzucać na wolontariusza całego ryzyka organizacyjnego, 
 
 ### 12.8. Ubezpieczenie nie zastępuje odpowiedzialności
 
-Art. 46 przewiduje określone uprawnienia wypadkowe oraz możliwość zapewnienia ubezpieczenia OC. Należy rozróżnić:
+Art. 46 ustawy o wolontariacie przewiduje określone uprawnienia zdrowotne i wypadkowe oraz możliwość zapewnienia ubezpieczenia OC. Należy rozróżnić:
 
 - NNW – ubezpieczenie następstw nieszczęśliwych wypadków;
 - świadczenia z ustawy o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach;
 - OC – ubezpieczenie odpowiedzialności cywilnej za szkody wyrządzone innym osobom;
 - ubezpieczenie kosztów leczenia za granicą.
 
-Każdy z tych instrumentów ma inny zakres. Ubezpieczenie NNW nie zastępuje OC, a OC nie zastępuje obowiązku zapewnienia bezpiecznych warunków.
+Art. 46 ust. 3 nakłada na korzystającego obowiązek zapewnienia NNW wolontariuszowi, który wykonuje świadczenia przez okres nie dłuższy niż 30 dni. Art. 46 ust. 2 odsyła natomiast do odrębnych przepisów dotyczących zaopatrzenia z tytułu wypadku, z zastrzeżeniem ust. 3. W ustawie z 30 października 2002 r. art. 2 ust. 1 pkt 12 wymienia wypadek przy wykonywaniu świadczeń przez wolontariusza jako zdarzenie mogące uzasadniać świadczenia na podstawie tej ustawy.
+
+Nie należy jednak utożsamiać ustawowego zaopatrzenia z pełną komercyjną polisą NNW. Ustawa z 2002 r. przewiduje świadczenia po spełnieniu określonych przesłanek, m.in. rentę w razie niezdolności do pracy, świadczenia zdrowotne w zakresie wskazanym w ustawie, świadczenia dla rodziny w razie śmierci oraz jednorazowe odszkodowanie w warunkach określonych w art. 4. Nie jest to automatyczna wypłata za każdy uraz ani za każde zdarzenie bez względu na jego skutki.
+
+W praktyce pojawiały się pytania o znaczenie progu 30 dni i o to, jak dokumentować początek ochrony wypadkowej. Komunikat z posiedzenia Grupy roboczej ds. aktywizmu i wolontariatu z 8 października 2025 r. odnotowuje stanowisko uczestników, że ustawa z 2002 r. nie zawiera w art. 2 ust. 1 pkt 12 osobnego progu 30 dni, a dla postępowania dowodowego istotne jest wykazanie porozumienia i rzeczywistego wykonywania świadczeń. Komunikat z posiedzenia nie jest jednak wiążącą wykładnią prawa ani decyzją ZUS w konkretnej sprawie.
+
+Dlatego korzystający powinien:
+1. zawierać i przechowywać porozumienie w formie umożliwiającej wykazanie jego treści, daty i stron;
+2. sprawdzić aktualne zasady stosowania art. 46 ustawy o wolontariacie i ustawy z 2002 r.;
+3. rozważyć dodatkową polisę NNW, szczególnie gdy zadania wiążą się z ryzykiem urazów, których skutki mogą nie spełniać przesłanek świadczeń ustawowych;
+4. rozważyć OC wolontariusza lub organizacji, jeżeli charakter zadań może powodować szkody u osób trzecich;
+5. nie obiecywać określonego świadczenia przed sprawdzeniem przesłanek ustawowych i warunków polisy.
+
+Każdy z instrumentów ma inny zakres. NNW nie zastępuje OC, OC nie zastępuje obowiązku zapewnienia bezpiecznych warunków, a świadczenia z ustawy wypadkowej nie są równoznaczne z pełną ochroną ubezpieczeniową.
 
 ### 12.9. Wypadek wolontariusza
 
@@ -1426,8 +1439,8 @@ Fundacja chce zawrzeć porozumienie, na podstawie którego wolontariusz będzie 
    [ELI – Dz. U. 2026 poz. 795](https://eli.gov.pl/eli/DU/2026/795/ogl)  
    [Oficjalny tekst PDF](https://eli.gov.pl/api/acts/DU/2026/795/text/O/D20260795.pdf)
 
-4. Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy, w szczególności art. 22.  
-   [ELI – Elektroniczny Dziennik Ustaw](https://eli.gov.pl/)
+4. Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy, tekst jednolity: Dz. U. z 2026 r. poz. 1245, w szczególności art. 22.  
+   [ELI – Dz. U. 2026 poz. 1245](https://eli.gov.pl/eli/DU/2026/1245/ogl)
 
 5. Ustawa z dnia 15 kwietnia 2011 r. o działalności leczniczej, tekst jednolity: Dz. U. z 2026 r. poz. 156, w szczególności art. 2 i art. 21.  
    [ELI – Dz. U. 2026 poz. 156](https://eli.gov.pl/eli/DU/2026/156/ogl)  
