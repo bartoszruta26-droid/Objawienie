@@ -1836,13 +1836,13 @@ Fundacja zakupiła sprzęt, ale po miesiącu beneficjent nie korzysta z niego.
    https://eli.gov.pl/eli/DU/2026/884/ogl
 
 7. **Ustawa z 15 kwietnia 2011 r. o działalności leczniczej**, tekst jednolity: Dz. U. z 2026 r. poz. 156, z późniejszymi zmianami – w zakresie statusu podmiotów wykonujących działalność leczniczą i organizacji świadczeń zdrowotnych.  
-   https://eli.gov.pl/
+   https://eli.gov.pl/eli/DU/2026/156/ogl
 
 8. **Ustawa z 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta**, tekst jednolity: Dz. U. z 2024 r. poz. 581, z późniejszymi zmianami, w tym Dz. U. z 2026 r. poz. 26 i 791 – w zakresie praw pacjenta, informacji, zgody i poszanowania intymności.  
-   https://eli.gov.pl/
+   https://eli.gov.pl/eli/DU/2024/581/ogl
 
 9. **Ustawa z 23 października 2018 r. o Funduszu Solidarnościowym**, tekst jednolity: Dz. U. z 2024 r. poz. 1848, z późniejszymi zmianami – w zakresie programów finansujących wsparcie społeczne osób z niepełnosprawnościami.  
-   https://eli.gov.pl/
+   https://eli.gov.pl/eli/DU/2024/1848/ogl
 
 10. **Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO)** – w zakresie ochrony danych osobowych, w tym danych dotyczących zdrowia.  
     https://eur-lex.europa.eu/eli/reg/2016/679/oj
