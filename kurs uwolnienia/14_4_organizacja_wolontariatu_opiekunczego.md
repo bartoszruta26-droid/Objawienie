@@ -83,7 +83,7 @@ Nie wolno utożsamiać gotowości do pomocy z kwalifikacją do wykonywania czynn
 
 ### 2.1. Wolontariat ustawowy a program pomocy opiekuńczej
 
-Podstawą wolontariatu ustawowego są przepisy działu III ustawy z 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, w szczególności art. 42–50. Wolontariusz wykonuje świadczenia na rzecz uprawnionego korzystającego, w zakresie, sposobie i czasie uzgodnionych w porozumieniu. Szczegółowe kwestie porozumienia oraz kosztów zostały omówione w rozdziałach 14.2 i 14.3.
+Podstawą wolontariatu ustawowego są przepisy działu III ustawy z 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, w szczególności art. 42–50. Tekst jednolity Dz. U. z 2025 r. poz. 1338 należy czytać z uwzględnieniem ustawy zmieniającej Dz. U. z 2026 r. poz. 1040: zasadnicza część tej nowelizacji weszła w życie 1 września 2026 r., a wskazane w niej przepisy – 1 stycznia 2027 r. W konkretnym przypadku trzeba sprawdzić datę wejścia w życie przepisu właściwego dla danej czynności. Wolontariusz wykonuje świadczenia na rzecz uprawnionego korzystającego, w zakresie, sposobie i czasie uzgodnionych w porozumieniu. Szczegółowe kwestie porozumienia oraz kosztów zostały omówione w rozdziałach 14.2 i 14.3.
 
 Program opiekuńczy fundacji jest natomiast rozwiązaniem organizacyjnym. Może obejmować wolontariat ustawowy, pomoc nieformalną, wsparcie rzeczowe, działania edukacyjne, współpracę z jednostką pomocy społecznej lub skierowanie do profesjonalnego świadczeniodawcy. Sama nazwa programu nie rozstrzyga o statusie prawnym każdej wykonywanej czynności.
 
@@ -1486,23 +1486,22 @@ Przed uruchomieniem programu zarząd powinien potwierdzić:
 ### 24.1. Akty prawne – źródła urzędowe
 
 1. Ustawa z 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, tekst jednolity: Dz. U. z 2025 r. poz. 1338, z późniejszymi zmianami. [Elektroniczny Dziennik Ustaw – ELI](https://eli.gov.pl/eli/DU/2025/1338/ogl).
-2. Ustawa z 12 marca 2004 r. o pomocy społecznej, tekst jednolity: Dz. U. z 2026 r. poz. 639, z późniejszymi zmianami.
+2. Ustawa z 12 marca 2004 r. o pomocy społecznej, tekst jednolity: Dz. U. z 2026 r. poz. 639, z późniejszymi zmianami, w tym ustawami Dz. U. z 2026 r. poz. 974 i 986.
 3. Ustawa z 11 czerwca 2026 r. o zmianie ustawy o pomocy społecznej, Dz. U. z 2026 r. poz. 974. [Tekst urzędowy](https://eli.gov.pl/api/acts/DU/2026/974/text/T/D20260974L.pdf).
 4. Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z 4 sierpnia 2026 r. w sprawie usług opiekuńczych w miejscu zamieszkania, Dz. U. z 2026 r. poz. 1067. [Tekst urzędowy](https://eli.gov.pl/eli/DU/2026/1067/ogl).
 5. Ustawa z 11 czerwca 2026 r. o osobach starszych i koordynacji opieki długoterminowej, Dz. U. z 2026 r. poz. 986. [Tekst urzędowy](https://eli.gov.pl/eli/DU/2026/986/ogl).
 6. Ustawa z 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, tekst jednolity: Dz. U. z 2026 r. poz. 110. [Tekst urzędowy](https://eli.gov.pl/eli/DU/2026/110/ogl).
 7. Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z 27 kwietnia 2016 r. (RODO). [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
-8. Ustawa z 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta. [Internetowy System Aktów Prawnych](https://isap.sejm.gov.pl/).
-9. Ustawa z 15 kwietnia 2011 r. o działalności leczniczej, w szczególności art. 21 dotyczący świadczeń zdrowotnych w ramach wolontariatu. [ELI](https://eli.gov.pl/).
-10. Ustawa z 15 lipca 2011 r. o zawodach pielęgniarki i położnej oraz przepisy regulujące pozostałe zawody medyczne. [ELI](https://eli.gov.pl/).
+8. Ustawa z 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, tekst jednolity: Dz. U. z 2024 r. poz. 581, z późniejszymi zmianami. [ELI](https://eli.gov.pl/eli/DU/2024/581/ogl).
+9. Ustawa z 15 kwietnia 2011 r. o działalności leczniczej, tekst jednolity: Dz. U. z 2026 r. poz. 156, w szczególności art. 21 dotyczący świadczeń zdrowotnych w ramach wolontariatu. [ELI](https://eli.gov.pl/eli/DU/2026/156/ogl).
+10. Ustawa z 15 lipca 2011 r. o zawodach pielęgniarki i położnej, tekst jednolity: Dz. U. z 2026 r. poz. 15, z późniejszymi zmianami, oraz przepisy regulujące pozostałe zawody medyczne. [ELI](https://eli.gov.pl/eli/DU/2026/15/ogl).
 
 ### 24.2. Źródła urzędowe i instytucjonalne
 
 11. Ministerstwo Sprawiedliwości, „Wyjaśnienia do ustawy o ochronie dzieci” – pytania dotyczące weryfikacji osób dopuszczanych do działalności z małoletnimi. [Gov.pl](https://www.gov.pl/web/sprawiedliwosc/pytania-do-ustawy-o-ochronie-dzieci2).
 12. Urząd Ochrony Danych Osobowych, „Nowy poradnik dla kościelnych podmiotów działających w obszarze pomocy społecznej”, 2 czerwca 2026 r. [UODO](https://www.uodo.gov.pl/pl/598/4411).
 13. Ministerstwo Rodziny, Pracy i Polityki Społecznej, „Program Korpus Wsparcia Seniorów na rok 2026”, 23 grudnia 2025 r. [Gov.pl](https://www.gov.pl/web/rodzina/program-korpus-wsparcia-seniorow-na-rok-2026).
-14. Urząd Ochrony Danych Osobowych, wyjaśnienia dotyczące podstaw przetwarzania danych wolontariuszy w programie „Wspieraj Seniora”. [UODO](https://www.uodo.gov.pl/pl/674/4210).
-15. Rzecznik Praw Pacjenta, materiały dotyczące wolontariatu i praw pacjenta. [Gov.pl](https://www.gov.pl/web/rpp/e-wolontariat).
+14. Rzecznik Praw Pacjenta, „e-Wolontariat” – przykład organizacji naboru, szkoleń, przydzielania zadań, wsparcia koordynatora i zawierania porozumień. [Gov.pl](https://www.gov.pl/web/rpp/e-wolontariat).
 
 ### 24.3. Źródła naukowe i międzynarodowe
 
@@ -1513,6 +1512,7 @@ Przed uruchomieniem programu zarząd powinien potwierdzić:
 20. Sherrington C, Fairhall NJ, Wallbank GK, Tiedemann A, Michaleff ZA, Howard K, et al. Exercise for preventing falls in older people living in the community. *Cochrane Database Syst Rev*. 2019;1:CD012424. doi:10.1002/14651858.CD012424.pub2.
 21. Clemson L, Stark S, Pighills AC, Fairhall NJ, Lamb SE, Ali J, et al. Environmental interventions for preventing falls in older people living in the community. *Cochrane Database Syst Rev*. 2023;3:CD013258. doi:10.1002/14651858.CD013258.pub2.
 22. Montero-Odasso M, van der Velde N, Martin FC, Petrovic M, Tan MP, Ryg J, et al. World guidelines for falls prevention and management for older adults: a global initiative. *Age Ageing*. 2022;51(9):afac205. doi:10.1093/ageing/afac205.
+23. Ustawa z 19 czerwca 2026 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o grach hazardowych, Dz. U. z 2026 r. poz. 1040. [ELI](https://eli.gov.pl/eli/DU/2026/1040/ogl).
 
 ### 24.4. Zasady korzystania ze źródeł
 
