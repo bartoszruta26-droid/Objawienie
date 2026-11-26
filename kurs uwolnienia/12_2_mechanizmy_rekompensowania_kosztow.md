@@ -10,6 +10,25 @@ Rozdział rozwija dwanaście zagadnień wskazanych w spisie treści: zwrot koszt
 
 **Stan prawny i informacyjny opracowania: 26 listopada 2026 r.** Przed zastosowaniem procedury w konkretnej sprawie należy sprawdzić aktualne brzmienie przepisów, regulamin konkursu, umowę dotacyjną, program finansujący oraz wewnętrzne akty organizacji. Rozdział ma charakter dydaktyczny i organizacyjny; nie zastępuje indywidualnej porady prawnej, podatkowej ani księgowej.
 
+## Mapa zgodności z aktualnym konspektem
+
+| Punkt spisu treści | Miejsce rozwinięcia |
+|---|---|
+| 1. Zwrot kosztów podróży | Rozdział 4 |
+| 2. Zwrot kosztów transportu | Rozdział 5 |
+| 3. Zwrot kosztów zakwaterowania | Rozdział 6 |
+| 4. Zwrot kosztów wyżywienia | Rozdział 7 |
+| 5. Zwrot uzasadnionych wydatków | Rozdział 8 |
+| 6. Finansowanie materiałów i środków pomocniczych | Rozdział 9 |
+| 7. Pokrywanie kosztów szkoleń | Rozdział 10 |
+| 8. Finansowanie zastępstwa opiekuńczego | Rozdział 11 |
+| 9. Wsparcie rzeczowe | Rozdział 12 |
+| 10. Świadczenia pieniężne | Rozdział 13 |
+| 11. Zasady rozliczania wydatków | Rozdział 14 oraz 18–19 |
+| 12. Różnice między refundacją, ryczałtem i świadczeniem pieniężnym | Rozdział 2 oraz 16 |
+
+Każdy punkt konspektu został omówiony oddzielnie, a następnie powiązany z procedurami, przykładami, dokumentami i ćwiczeniami. Rozdziały 2, 14–18 rozwijają zagadnienia przekrojowe, nie zastępując żadnego z dwunastu punktów.
+
 ## 1. Cele kształcenia i zakres kompetencji
 
 Po ukończeniu rozdziału uczestnik powinien umieć:
