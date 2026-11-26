@@ -117,6 +117,10 @@ Z tego wynikają cztery praktyczne reguły:
 3. pisemne zrzeczenie się przez wolontariusza dotyczy obowiązku wskazanego w art. 45 ust. 1 pkt 3, a nie wszystkich praw wolontariusza;
 4. zwrot kosztów nie może służyć do ukrywania wynagrodzenia za pracę.
 
+Pisemne zwolnienie, o którym mowa w art. 45 ust. 4, dotyczy wyłącznie obowiązku pokrywania kosztów podróży służbowych i diet wskazanego w art. 45 ust. 1 pkt 3. Nie znosi ono obowiązku informowania o ryzyku ani zapewnienia bezpiecznych i higienicznych warunków. Nie jest też automatycznym zrzeczeniem się innych świadczeń, które korzystający może przyznać na podstawie art. 45 ust. 2 lub 3.
+
+Art. 46 reguluje ponadto świadczenia zdrowotne i następstwa wypadków przy wykonywaniu świadczeń wolontariackich. W szczególności przy świadczeniach wykonywanych przez okres nie dłuższy niż 30 dni korzystający ma obowiązek zapewnić ubezpieczenie NNW; przy dłuższym okresie zastosowanie mają odrębne przepisy o zaopatrzeniu z tytułu wypadku. Szczególne obowiązki ubezpieczeniowe występują również przy delegowaniu w warunkach konfliktu zbrojnego, klęski żywiołowej lub katastrofy naturalnej. Zakres ubezpieczenia należy sprawdzić przed rozpoczęciem świadczeń, a nie dopiero po zdarzeniu.
+
 Wydatki na cele wskazane w art. 45 ust. 1 i 3 oraz art. 46 ust. 3 i 6 są traktowane jako koszty prowadzenia działalności statutowej organizacji pozarządowej lub koszty właściwego korzystającego. Nie oznacza to jednak, że każdy wydatek można automatycznie sfinansować z każdej dotacji. Nadal trzeba zbadać cel statutowy, źródło środków, umowę i warunki programu.
 
 ### 3.2. Pracownik
@@ -648,9 +652,9 @@ Jeżeli koszt jest potrzebny, ale nie został przewidziany w budżecie, należy 
 
 ### 15.5. Zmiany przepisów w 2026 r.
 
-Ustawa z 19 czerwca 2026 r. nowelizująca ustawę o działalności pożytku publicznego i o wolontariacie weszła zasadniczo w życie 1 września 2026 r.; część przepisów ma odroczony termin wejścia w życie. Zmiany dotyczą między innymi zasad zlecania zadań publicznych, wkładów własnych, małych grantów, treści ofert i sprawozdań. Dla zadań opartych na ofertach złożonych przed 1 września 2026 r. przewidziano przepisy przejściowe.
+Ustawa z 19 czerwca 2026 r. nowelizująca ustawę o działalności pożytku publicznego i o wolontariacie weszła zasadniczo w życie 1 września 2026 r.; część przepisów ma odroczony termin wejścia w życie 1 stycznia 2027 r. Zmiany obejmują między innymi wkłady rzeczowe i osobowe oraz możliwość zastąpienia ich środkami finansowymi, treść ofert i sprawozdań, a także tryb małych grantów. W art. 19a zmieniono limit wartości zadania z 20 000 zł do 40 000 zł, a także limit udziału środków z art. 19a ust. 7. Dla zadań opartych na ofertach złożonych przed 1 września 2026 r. przewidziano przepisy przejściowe.
 
-30 października 2026 r. Komitet do spraw Pożytku Publicznego poinformował o zakończeniu konsultacji i opiniowania projektów nowych wzorów ofert, umów i sprawozdań. Przed przygotowaniem dokumentów do nowego konkursu należy sprawdzić, czy projekty zostały już ogłoszone w Dzienniku Ustaw. Nie należy opierać się wyłącznie na projekcie rozporządzenia ani na formularzu pobranym w poprzednim roku.
+30 października 2026 r. Komitet do spraw Pożytku Publicznego poinformował o zakończeniu konsultacji i opiniowania projektów nowych wzorów ofert, umów i sprawozdań. W komunikacie z 2 września 2026 r. wskazano, że do czasu ogłoszenia nowych rozporządzeń należy stosować dotychczasowe wzory, z wyłączeniem postanowień sprzecznych ze zmienioną ustawą. Na dzień opracowania nie należy zakładać, że sam projekt konsultowany w Rządowym Procesie Legislacyjnym jest już obowiązującym wzorem. Przed przygotowaniem dokumentów do nowego konkursu należy sprawdzić Dziennik Ustaw i stronę właściwego organu.
 
 ## 16. Różnice między refundacją, ryczałtem i świadczeniem pieniężnym
 
