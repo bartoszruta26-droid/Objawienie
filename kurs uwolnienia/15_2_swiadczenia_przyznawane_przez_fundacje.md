@@ -112,7 +112,7 @@ System świadczeń powinien opierać się na następujących zasadach:
 
 ### 2.1. Fundacja działa w granicach ustawy i statutu
 
-Ustawa z dnia 6 kwietnia 1984 r. o fundacjach określa fundację jako osobę prawną ustanawianą dla realizacji społecznie lub gospodarczo użytecznych celów. W art. 1 wymieniono między innymi ochronę zdrowia, oświatę, kulturę, opiekę i pomoc społeczną. Zgodnie z art. 5 fundacja działa na podstawie ustawy i statutu, a art. 6 wymaga określenia w statucie celów, zasad, form i zakresu działalności oraz organizacji zarządu.
+Ustawa z dnia 6 kwietnia 1984 r. o fundacjach określa fundację jako osobę prawną ustanawianą dla realizacji społecznie lub gospodarczo użytecznych celów. W art. 1 wymieniono między innymi ochronę zdrowia, oświatę, kulturę, opiekę i pomoc społeczną. Zgodnie z art. 4 fundacja działa na podstawie ustawy i statutu, a art. 5 wymaga określenia w statucie celów, zasad, form i zakresu działalności oraz organizacji zarządu.
 
 Z tego wynikają cztery praktyczne obowiązki:
 
