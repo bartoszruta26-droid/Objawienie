@@ -1835,13 +1835,13 @@ Fundacja zakupiła sprzęt, ale po miesiącu beneficjent nie korzysta z niego.
 6. **Ustawa z 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych**, tekst jednolity: Dz. U. z 2026 r. poz. 884, z późniejszymi zmianami.  
    https://eli.gov.pl/eli/DU/2026/884/ogl
 
-7. **Ustawa z 15 kwietnia 2011 r. o działalności leczniczej** – w zakresie statusu podmiotów wykonujących działalność leczniczą i organizacji świadczeń zdrowotnych.  
+7. **Ustawa z 15 kwietnia 2011 r. o działalności leczniczej**, tekst jednolity: Dz. U. z 2026 r. poz. 156, z późniejszymi zmianami – w zakresie statusu podmiotów wykonujących działalność leczniczą i organizacji świadczeń zdrowotnych.  
    https://eli.gov.pl/
 
-8. **Ustawa z 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta** – w zakresie praw pacjenta, informacji, zgody i poszanowania intymności.  
+8. **Ustawa z 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta**, tekst jednolity: Dz. U. z 2024 r. poz. 581, z późniejszymi zmianami, w tym Dz. U. z 2026 r. poz. 26 i 791 – w zakresie praw pacjenta, informacji, zgody i poszanowania intymności.  
    https://eli.gov.pl/
 
-9. **Ustawa z 23 października 2018 r. o Funduszu Solidarnościowym** – w zakresie programów finansujących wsparcie społeczne osób z niepełnosprawnościami.  
+9. **Ustawa z 23 października 2018 r. o Funduszu Solidarnościowym**, tekst jednolity: Dz. U. z 2024 r. poz. 1848, z późniejszymi zmianami – w zakresie programów finansujących wsparcie społeczne osób z niepełnosprawnościami.  
    https://eli.gov.pl/
 
 10. **Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO)** – w zakresie ochrony danych osobowych, w tym danych dotyczących zdrowia.  
