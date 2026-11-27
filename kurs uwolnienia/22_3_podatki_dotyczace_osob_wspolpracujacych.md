@@ -361,7 +361,9 @@ Przed przyjęciem założenia o braku składek fundacja powinna ustalić, czy ni
 
 Płatnik składek lub osoba fizyczna zlecająca dzieło ma obowiązek poinformować ZUS o zawarciu umowy o dzieło w terminie 7 dni od jej zawarcia, jeżeli spełnione są przesłanki ustawowe.
 
-Obowiązek nie dotyczy m.in. umów zawartych z własnym pracownikiem lub wykonywanych na rzecz własnego pracodawcy, a ustawa przewiduje także inne wyłączenia. Należy każdorazowo sprawdzić aktualny art. 36 ust. 17 ustawy o systemie ubezpieczeń społecznych oraz status podmiotu zobowiązanego.
+Ważne rozróżnienie praktyczne: ZUS wyjaśnia, że fundacja lub inna jednostka organizacyjna, która nie jest płatnikiem składek (nie zgłasza do ubezpieczeń społecznych co najmniej jednego ubezpieczonego i nie musi rejestrować się jako płatnik), nie ma obowiązku zgłaszania zawieranych umów o dzieło. Osoba fizyczna zlecająca dzieło zgłasza je niezależnie od tego, czy jest zarejestrowana jako płatnik składek. Jeżeli fundacja jest płatnikiem składek, należy sprawdzić, czy konkretna umowa nie podlega ustawowemu wyłączeniu.
+
+Obowiązek nie dotyczy m.in. umów zawartych z własnym pracownikiem, wykonywanych na rzecz własnego pracodawcy albo zawartych z przedsiębiorcą na wykonanie usług wchodzących w zakres jego działalności gospodarczej. Należy każdorazowo sprawdzić aktualny art. 36 ust. 17 ustawy o systemie ubezpieczeń społecznych oraz aktualne wyjaśnienia i formularz RUD ZUS.
 
 Dokumentem jest formularz ZUS RUD. Zgłoszenie nie jest zgłoszeniem do ubezpieczeń i samo w sobie nie przesądza, że umowa podlega składkom. ZUS może badać rzeczywisty charakter umowy niezależnie od jej zgłoszenia.
 
@@ -1385,7 +1387,7 @@ Dokumentacja powinna być wystarczająca do wykazania prawidłowości wypłaty, 
 1. [Zgłoszenie ubezpieczonego – terminy i formularze](https://www.zus.pl/firmy/zgloszenie-platnika/firmy/zgloszenie-ubezpieczonego/czlonka-rodziny-ubezpieczonego).
 2. [Zbieg tytułów do ubezpieczeń społecznych](https://psz.zus.pl/pl/web/guest/pracujacy/system-ubezpieczen-spolecznych-w-polsce/zbieg-tytulow-do-ubezpieczen-spolecznych).
 3. [FAQ ZUS – osoby powołane do pełnienia funkcji i ubezpieczenie zdrowotne](https://psz.zus.pl/en/web/guest/o-zus/o-nas/programy-transformacji-cyfrowej-zus/zmiany-od-2022-r./faq).
-4. [ZUS – rejestr umów o dzieło](https://www.zus.pl/documents/10182/24154/Rejestr%2Bum%C3%B3w%2Bo%2Bdzie%C5%82o_final.pdf/8be0afe1-218d-cfdc-eee3-f3227abb8ead).
+4. [ZUS – aktualny formularz RUD, zgłoszenie umowy o dzieło (aktualizacja 30 czerwca 2026 r.)](https://www.zus.pl/wzory-formularzy/firmy/inne/-/asset_publisher/odPdnjlEHeEH/).
 5. [ZUS – terminy dokumentów rozliczeniowych i opłacania składek](https://www.zus.pl/firmy/rozliczenia-z-zus/dokumenty-rozliczeniowe/termin-skladania-dokumentow-i-oplacania-skladek).
 6. [ZUS – zasady pracy studentów i umów cywilnoprawnych](https://www.zus.pl/-/studencki-portfel-w-wakacje.-kiedy-praca-sezonowa-zasili-twoje-konto-w-zus-a-kiedy-do-twojego-portfela-trafi-%E2%80%9Eca%C5%82a%E2%80%9D-pensja-).
 
