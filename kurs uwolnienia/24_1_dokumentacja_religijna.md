@@ -127,6 +127,8 @@ Nie należy w dokumentach przypisywać fundacji statusu, którego nie posiada. J
 
 W praktyce podatkowej również trzeba rozdzielić status odbiorcy i cel wydatku. Ministerstwo Finansów wskazuje możliwość zwolnienia dochodu fundacji przeznaczonego na określone cele statutowe, w tym kult religijny, na podstawie art. 17 ust. 1 pkt 4 ustawy o CIT. Nie oznacza to jednak, że każda fundacja jest kościelną osobą prawną ani że darczyńca zawsze może odliczyć darowiznę przekazaną fundacji jako darowiznę na cele kultu religijnego. Są to odrębne zagadnienia.
 
+Jako przykład praktycznego rozróżnienia można wskazać materiał interpretacyjny opublikowany w bazie EUREKA pod numerem 699780: opisuje on model, w którym czynności religijne wykonuje kościół, a fundacja udostępnia mu pomieszczenie. Materiał ten nie jest uniwersalnym rozstrzygnięciem dla wszystkich fundacji; jego znaczenie zależy od przedstawionego stanu faktycznego. Własną sytuację trzeba ocenić na podstawie statutu, faktycznego sposobu działania i właściwych przepisów.
+
 ### 2.4. Kontrola umocowania i reprezentacji
 
 Przed podpisaniem dokumentu należy sprawdzić:
@@ -1537,7 +1539,12 @@ Stan prawny i materiały informacyjne sprawdzono na dzień **27 listopada 2026 r
 3. Ustawa z dnia 6 kwietnia 1984 r. o fundacjach, tekst jednolity Dz. U. z 2023 r. poz. 166, z późniejszymi zmianami, w szczególności art. 1–7.  
    [Elektroniczny Dziennik Ustaw – tekst jednolity](https://eli.gov.pl/eli/DU/2023/166)
 
-4. Ustawa z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych, w szczególności art. 1–6.  
+   Nowelizacja: ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach, Dz. U. z 2026 r. poz. 316.  
+   [Elektroniczny Dziennik Ustaw – nowelizacja](https://eli.gov.pl/eli/DU/2026/316)
+
+4. Ustawa z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych, w szczególności art. 1–6.
+
+   Baza interpretacji i informacji podatkowych: [EUREKA – materiał nr 699780](https://eureka.mf.gov.pl/informacje/podglad/699780).  
    [Elektroniczny Dziennik Ustaw](https://eli.gov.pl/eli/DU/2014/498/ogl)
 
 5. Ustawa z dnia 29 września 1994 r. o rachunkowości, tekst jednolity Dz. U. z 2026 r. poz. 522, w szczególności art. 20–24, 71–74.  
