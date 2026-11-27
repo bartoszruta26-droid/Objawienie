@@ -418,7 +418,7 @@ Ustawa z 9 maja 1996 r. o wykonywaniu mandatu posła i senatora przewiduje międ
 - ograniczenia dotyczące działalności gospodarczej z wykorzystaniem mienia państwowego lub komunalnego;
 - obowiązek składania oświadczenia majątkowego.
 
-Podstawowe znaczenie mają art. 33–35 ustawy. Ustawa nie ustanawia prostego, ogólnego zakazu wszelkiego społecznego udziału parlamentarzysty w każdej fundacji. Nie oznacza to jednak, że każda funkcja doradcza, honorowa, odpłatna lub nieodpłatna jest automatycznie dozwolona.
+Podstawowe znaczenie mają art. 33–35 ustawy. Ustawa nie ustanawia prostego, ogólnego zakazu wszelkiego społecznego udziału parlamentarzysty w każdej fundacji. Nie oznacza to jednak, że każda funkcja doradcza, honorowa, odpłatna lub nieodpłatna jest automatycznie dozwolona. Dodatkowo art. 35a ustanawia Rejestr Korzyści. Obejmuje on m.in. określone stanowiska i zajęcia, materialne wspieranie działalności publicznej, darowizny i inne korzyści przekraczające ustawowy próg, wybrane wyjazdy oraz udział w organach fundacji, spółek handlowych i spółdzielni – także wtedy, gdy udział w organie jest nieodpłatny. Zmiany danych objętych Rejestrem należy zgłaszać w terminie 30 dni. Przed rozpoczęciem udziału w organie fundacji parlamentarzysta powinien zatem zbadać obowiązek wpisu do Rejestru Korzyści niezależnie od tego, czy otrzyma wynagrodzenie.
 
 Przed przyjęciem roli należy ustalić, czy konkretna aktywność jest „dodatkowym zajęciem” w rozumieniu przepisów i praktyki właściwych organów parlamentarnych. W razie wątpliwości należy uzyskać pisemną opinię prawną i dopełnić obowiązku informacyjnego, jeżeli ma zastosowanie.
 
@@ -1741,15 +1741,15 @@ Osoba publiczna może wspierać inicjatywy społeczne w granicach prawa, ale urz
 
 ### 25.1. Akty prawne Rzeczypospolitej Polskiej
 
-1. Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, tekst jednolity: Dz.U. z 2026 r. poz. 554 ze zm. – [ELI, tekst jednolity](https://eli.gov.pl/api/acts/DU/2026/554/text.pdf).
-2. Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług, tekst jednolity: Dz.U. z 2026 r. poz. 1263 – [Dziennik Ustaw](https://api.sejm.gov.pl/eli/acts/DU/2026/1263/text/O/D20261263.pdf).
-3. Ustawa z dnia 29 września 1994 r. o rachunkowości, tekst jednolity: Dz.U. z 2026 r. poz. 522 – [Dziennik Ustaw](https://api.sejm.gov.pl/eli/acts/DU/2026/522/text/T/D20260522L.pdf).
+1. Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, tekst jednolity: Dz.U. z 2026 r. poz. 554 ze zm. – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2026/554/ogl).
+2. Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług, tekst jednolity: Dz.U. z 2026 r. poz. 1263 – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2026/1263/ogl).
+3. Ustawa z dnia 29 września 1994 r. o rachunkowości, tekst jednolity: Dz.U. z 2026 r. poz. 522 – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2026/522/ogl).
 4. Ustawa z dnia 6 kwietnia 1984 r. o fundacjach – [ELI](https://eli.gov.pl/eli/DU/1984/203/ogl).
-5. Ustawa z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, tekst jednolity: Dz.U. z 2024 r. poz. 907 – [Sejm, tekst ustawy](https://api.sejm.gov.pl/eli/acts/DU/2024/907/text.html).
-6. Ustawa z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, tekst jednolity: Dz.U. z 2025 r. poz. 499 ze zm. – [Dziennik Ustaw](https://api.sejm.gov.pl/eli/acts/DU/2025/499/text.pdf).
+5. Ustawa z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, tekst jednolity: Dz.U. z 2026 r. poz. 1282, uwzględniający stan prawny na 14 września 2026 r. – [ELI, tekst jednolity](https://eli.gov.pl/api/acts/DU/2026/1282/text.html).
+6. Ustawa z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, tekst jednolity: Dz.U. z 2025 r. poz. 499 ze zm., w tym zmianą z Dz.U. z 2026 r. poz. 177 – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2025/499/ogl).
 7. Ustawa z dnia 9 stycznia 2026 r. o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, Dz.U. z 2026 r. poz. 177 – [ELI](https://eli.gov.pl/eli/DU/2026/177/ogl).
 8. Ustawa z dnia 8 marca 1990 r. o samorządzie gminnym, tekst jednolity: Dz.U. z 2024 r. poz. 609 ze zm. – [Sejm, tekst ustawy](https://api.sejm.gov.pl/eli/acts/DU/2024/609/text.html).
-9. Ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy, tekst jednolity: Dz.U. z 2026 r. poz. 1261 – [Dziennik Ustaw](https://api.sejm.gov.pl/eli/acts/DU/2026/1261/text/T/D20261261L.pdf).
+9. Ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy, tekst jednolity: Dz.U. z 2026 r. poz. 1261 – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2026/1261/ogl).
 10. Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie – [ELI](https://api.sejm.gov.pl/eli/acts/DU/2024/1491/text.html).
 
 ### 25.2. Prawo Unii Europejskiej i dokumenty Komisji Europejskiej
@@ -1766,7 +1766,7 @@ Osoba publiczna może wspierać inicjatywy społeczne w granicach prawa, ale urz
 17. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna z 4 listopada 2026 r., sygn. 0111-KDIB1-1.4010.570.2026.2.LG – [Eureka MF](https://eureka.mf.gov.pl/informacje/podglad/718164).
 18. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna z 4 listopada 2026 r., sygn. 0111-KDIB1-1.4010.571.2026.2.LG – [Eureka MF](https://eureka.mf.gov.pl/informacje/podglad/718168).
 19. Ministerstwo Sprawiedliwości, dostęp do Krajowego Rejestru Sądowego – [Portal Rejestrów Sądowych](https://prs.ms.gov.pl/krs).
-20. Ministerstwo Spraw Zagranicznych, informacje o fundacjach i obowiązkach sprawozdawczych – [gov.pl](https://www.gov.pl/web/dyplomacja/fundacje).
+20. Ministerstwo Sprawiedliwości, „Fundacje – nadzór” – informacje o organie nadzoru, rocznych sprawozdaniach, KRS i CRBR – [gov.pl](https://www.gov.pl/web/sprawiedliwosc/fundacje-nadzor).
 21. Ministerstwo Spraw Zagranicznych, sankcje międzynarodowe – [gov.pl](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe).
 22. Ministerstwo Spraw Wewnętrznych i Administracji, krajowa lista osób i podmiotów objętych sankcjami – [gov.pl](https://www.gov.pl/web/mswia/lista-osob-i-podmiotow-objetych-sankcjami).
 23. Narodowy Bank Polski, tabela A kursów średnich – [NBP](https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/tabela-a/).
