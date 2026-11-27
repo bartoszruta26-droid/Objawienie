@@ -457,7 +457,7 @@ Samo prowadzenie szkoleń, działalności charytatywnej lub usług społecznych 
 
 Fundacja nie jest zatem objęta nieograniczoną kontrolą NIK wyłącznie dlatego, że jest fundacją. Może jednak podlegać kontroli w ustawowo określonym zakresie, np. w związku z korzystaniem z publicznych środków lub majątku.
 
-**Regionalna izba obrachunkowa** kontroluje gospodarkę finansową jednostek samorządu terytorialnego i innych podmiotów wskazanych w ustawie. Nie jest powszechnym organem nadzoru nad prywatnymi fundacjami. Jej kontrola może dotyczyć sposobu udzielania, ewidencjonowania i rozliczania dotacji przez JST. Nie należy automatycznie utożsamiać kontroli grantodawcy samorządowego z bezpośrednią kontrolą fundacji przez RIO.
+**Regionalna izba obrachunkowa** sprawuje nadzór nad działalnością JST w sprawach finansowych określonych ustawą oraz kontroluje gospodarkę finansową i zamówienia publiczne podmiotów wymienionych w art. 1 ust. 2 ustawy o RIO. Katalog ten obejmuje również – w art. 1 ust. 2 pkt 7 – inne podmioty, w zakresie wykorzystywania przez nie dotacji przyznawanych z budżetów JST. Oznacza to, że fundacja będąca beneficjentem dotacji samorządowej może podlegać bezpośredniej kontroli RIO w zakresie wykorzystania tej dotacji. Art. 7 ust. 2 pkt 1 przewiduje możliwość przeprowadzenia kontroli podmiotów z art. 1 ust. 2 pkt 6 i 7 na wniosek jednostek samorządu terytorialnego lub ich związków. RIO nie uzyskuje jednak przez to ogólnej kompetencji do badania całej działalności fundacji ani wydatków finansowanych wyłącznie ze źródeł prywatnych. Trzeba odróżnić kontrolę fundacji jako odbiorcy dotacji JST od kontroli samej JST jako grantodawcy.
 
 ---
 
@@ -1992,6 +1992,7 @@ Uczestnik tworzy roczny kalendarz sprawozdawczości fundacji, OPP, KRS i projekt
 12. Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/1060 ustanawiające wspólne przepisy dotyczące funduszy europejskich na lata 2021–2027. [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2021/1060/oj).
 13. Ustawa z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, tekst jednolity: Dz. U. z 2025 r. poz. 1733. [ELI](https://eli.gov.pl/eli/DU/2025/1733/ogl).
 14. Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 – ogólne rozporządzenie o ochronie danych (RODO). [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
+15. Ustawa z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, tekst jednolity: Dz. U. z 2025 r. poz. 7, w szczególności art. 1, 3, 5, 7 i 7a. [ELI – tekst aktu](https://eli.gov.pl/api/acts/DU/2025/7/text.pdf).
 
 ## 20.2. Źródła urzędowe i materiały praktyczne
 
