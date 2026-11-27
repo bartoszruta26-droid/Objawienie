@@ -433,11 +433,11 @@ W praktyce oznacza to konieczność sprawdzenia dwóch elementów:
 1. czy dana osoba należy do kategorii wymienionej w art. 1 lub 2 ustawy;
 2. czy fundacja rzeczywiście prowadzi działalność gospodarczą w rozumieniu właściwych przepisów.
 
-Nie wolno rozszerzać tego zakazu na każdą osobę, która w potocznym znaczeniu pełni funkcję publiczną. Nie wolno również pomijać zakazu, jeżeli osoba jest objęta ustawą i fundacja prowadzi działalność gospodarczą.
+Nie wolno rozszerzać tego zakazu na każdą osobę, która w potocznym znaczeniu pełni funkcję publiczną. Nie wolno również pomijać zakazu, jeżeli osoba jest objęta ustawą i fundacja prowadzi działalność gospodarczą. Należy odrębnie sprawdzić obowiązki ujawniania korzyści z art. 12 tej ustawy. Po nowelizacji z Dz.U. z 2026 r. poz. 160 próg darowizny podlegającej zgłoszeniu wynosi 25% minimalnego wynagrodzenia za pracę. Nie należy mylić tego progu z odrębną regulacją Rejestru Korzyści parlamentarzystów z art. 35a ustawy o wykonywaniu mandatu posła i senatora.
 
 Wśród osób objętych ustawą znajdują się m.in. wójtowie, burmistrzowie, prezydenci miast, ich zastępcy, skarbnicy i sekretarze gmin, określone osoby zarządzające jednostkami samorządowymi, członkowie zarządów powiatów i województw oraz inne kategorie wymienione w art. 2.
 
-W 2026 r. ustawa była nowelizowana, między innymi ustawą z 9 stycznia 2026 r. ogłoszoną w Dz.U. z 2026 r. poz. 177 oraz zmianami ogłoszonymi w Dz.U. z 2026 r. poz. 1003. Zmiany te dotyczą w szczególności obowiązków oświadczeniowych; przy ocenie zakazu z art. 4 pkt 4 należy korzystać z aktualnego tekstu ustawy, a nie z nieaktualnego wydruku.
+W 2026 r. ustawę nowelizowano m.in. ustawą z 9 stycznia 2026 r., Dz.U. z 2026 r. poz. 160, która zmieniła art. 12 ust. 3 pkt 3 w zakresie progu darowizny ujawnianej w Rejestrze Korzyści prowadzonym na podstawie tej ustawy: próg określono jako 25% minimalnego wynagrodzenia za pracę. Ustawa z 9 stycznia 2026 r., Dz.U. z 2026 r. poz. 177, rozszerzyła z kolei niektóre obowiązki oświadczeniowe Rzecznika Praw Dziecka. Te nowelizacje nie zmieniły zakazu z art. 4 pkt 4, lecz mają znaczenie dla aktualnego zakresu obowiązków oświadczeniowych. Przy ocenie należy sprawdzić, czy po dacie opracowania nie weszła w życie kolejna nowelizacja.
 
 ### 6.4. Radny gminy
 
@@ -1746,8 +1746,9 @@ Osoba publiczna może wspierać inicjatywy społeczne w granicach prawa, ale urz
 3. Ustawa z dnia 29 września 1994 r. o rachunkowości, tekst jednolity: Dz.U. z 2026 r. poz. 522 – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2026/522/ogl).
 4. Ustawa z dnia 6 kwietnia 1984 r. o fundacjach – [ELI](https://eli.gov.pl/eli/DU/1984/203/ogl).
 5. Ustawa z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, tekst jednolity: Dz.U. z 2026 r. poz. 1282, uwzględniający stan prawny na 14 września 2026 r. – [ELI, tekst jednolity](https://eli.gov.pl/api/acts/DU/2026/1282/text.html).
-6. Ustawa z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, tekst jednolity: Dz.U. z 2025 r. poz. 499 ze zm., w tym zmianą z Dz.U. z 2026 r. poz. 177 – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2025/499/ogl).
-7. Ustawa z dnia 9 stycznia 2026 r. o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, Dz.U. z 2026 r. poz. 177 – [ELI](https://eli.gov.pl/eli/DU/2026/177/ogl).
+6. Ustawa z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, tekst jednolity: Dz.U. z 2025 r. poz. 499 ze zm. – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2025/499/ogl).
+7. Ustawa z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej, Dz.U. z 2026 r. poz. 160, art. 3 – [ELI](https://eli.gov.pl/eli/DU/2026/160/ogl).
+8. Ustawa z dnia 9 stycznia 2026 r. o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, Dz.U. z 2026 r. poz. 177 – [ELI](https://eli.gov.pl/eli/DU/2026/177/ogl).
 8. Ustawa z dnia 8 marca 1990 r. o samorządzie gminnym, tekst jednolity: Dz.U. z 2024 r. poz. 609 ze zm. – [Sejm, tekst ustawy](https://api.sejm.gov.pl/eli/acts/DU/2024/609/text.html).
 9. Ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy, tekst jednolity: Dz.U. z 2026 r. poz. 1261 – [ELI, tekst jednolity](https://eli.gov.pl/eli/DU/2026/1261/ogl).
 10. Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie – [ELI](https://api.sejm.gov.pl/eli/acts/DU/2024/1491/text.html).
