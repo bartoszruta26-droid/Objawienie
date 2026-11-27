@@ -786,7 +786,7 @@ Inna sytuacja może wystąpić, gdy zagraniczna organizacja działa jako upoważ
 - brak odpłatnego świadczenia odrębnych usług na rzecz pośrednika, jeśli ma to znaczenie dla kwalifikacji;
 - zasady rozliczenia i zwrotu.
 
-W listopadzie 2026 r. Dyrektor Krajowej Informacji Skarbowej wydał interpretacje indywidualne dotyczące zastosowania art. 17 ust. 1 pkt 23 do środków pochodzących z projektów finansowanych z budżetu UE, przekazywanych beneficjentom przez upoważnionych koordynatorów. W interpretacjach o sygnaturach 0111-KDIB1-1.4010.570.2026.2.LG i 0111-KDIB1-1.4010.571.2026.2.LG istotne były między innymi źródło finansowania, status beneficjenta, mechanizm przekazywania środków i fakt, czy odbiorca wykonuje własne zadania projektowe, czy odrębne usługi.
+W listopadzie 2026 r. Dyrektor Krajowej Informacji Skarbowej wydał interpretacje indywidualne dotyczące zastosowania art. 17 ust. 1 pkt 23 do środków pochodzących z projektów finansowanych z budżetu UE, przekazywanych beneficjentom przez upoważnionych koordynatorów. W interpretacjach o sygnaturach 0111-KDIB1-1.4010.570.2026.2.LG i 0111-KDIB1-1.4010.571.2026.2.LG istotne były między innymi źródło finansowania, status beneficjenta, mechanizm przekazywania środków i fakt, czy odbiorca wykonuje własne zadania projektowe, czy odrębne usługi na rzecz pośrednika. Obie interpretacje dotyczyły konkretnego podatnika będącego spółką z ograniczoną odpowiedzialnością i opisanych w nich projektów. Nie stanowią automatycznej ochrony dla fundacji ani dla innego stanu faktycznego; mogą jedynie wskazywać kierunek analizy, jeżeli fakty i podstawa prawna są porównywalne.
 
 Interpretacja indywidualna chroni w granicach przepisów i opisanego stanu faktycznego przede wszystkim jej adresata. Nie można przenieść jej skutku automatycznie na każdą fundację i każdy grant.
 
@@ -1764,8 +1764,8 @@ Osoba publiczna może wspierać inicjatywy społeczne w granicach prawa, ale urz
 ### 25.3. Źródła urzędowe i interpretacje
 
 16. Ministerstwo Finansów, „Fundacja” – poradnik podatkowy, publikacja 20 maja 2026 r., aktualizacja 13 lipca 2026 r. – [podatki.gov.pl](https://podatki.gov.pl/poradniki-i-informatory/fundacja).
-17. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna z 4 listopada 2026 r., sygn. 0111-KDIB1-1.4010.570.2026.2.LG – [Eureka MF](https://eureka.mf.gov.pl/informacje/podglad/718164).
-18. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna z 4 listopada 2026 r., sygn. 0111-KDIB1-1.4010.571.2026.2.LG – [Eureka MF](https://eureka.mf.gov.pl/informacje/podglad/718168).
+17. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna z 5 listopada 2026 r., sygn. 0111-KDIB1-1.4010.570.2026.2.LG – [Eureka MF](https://eureka.mf.gov.pl/informacje/podglad/718164).
+18. Dyrektor Krajowej Informacji Skarbowej, interpretacja indywidualna z 5 listopada 2026 r., sygn. 0111-KDIB1-1.4010.571.2026.2.LG – [Eureka MF](https://eureka.mf.gov.pl/informacje/podglad/718168).
 19. Ministerstwo Sprawiedliwości, dostęp do Krajowego Rejestru Sądowego – [Portal Rejestrów Sądowych](https://prs.ms.gov.pl/krs).
 20. Ministerstwo Sprawiedliwości, „Fundacje – nadzór” – informacje o organie nadzoru, rocznych sprawozdaniach, KRS i CRBR – [gov.pl](https://www.gov.pl/web/sprawiedliwosc/fundacje-nadzor).
 21. Ministerstwo Spraw Zagranicznych, sankcje międzynarodowe – [gov.pl](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe).
