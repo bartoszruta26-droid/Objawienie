@@ -1540,7 +1540,7 @@ Stan prawny i materiały informacyjne sprawdzono na dzień **27 listopada 2026 r
    [Elektroniczny Dziennik Ustaw – tekst jednolity](https://eli.gov.pl/eli/DU/2023/166)
 
    Nowelizacja: ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach, Dz. U. z 2026 r. poz. 316.  
-   [Elektroniczny Dziennik Ustaw – nowelizacja](https://eli.gov.pl/eli/DU/2026/316)
+   [Elektroniczny Dziennik Ustaw – nowelizacja](https://eli.gov.pl/eli/DU/2026/316/ogl)
 
 4. Ustawa z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych, w szczególności art. 1–6.
 
