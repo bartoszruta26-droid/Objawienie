@@ -141,7 +141,7 @@ Nie należy dobierać nazwy świadczenia wyłącznie po to, aby osiągnąć korz
 
 ### 2.5. Minimalna mapa dokumentów
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
  A[Uchwała i budżet programu] --> B[Regulamin pomocy opiekunom]
  B --> C[Regulamin przyznawania świadczeń]
@@ -154,7 +154,7 @@ flowchart TD
  I --> J[Ewidencja wykonania świadczeń]
  J --> K[Kontrola proporcjonalna]
  K --> L[Protokół kontroli i zamknięcie sprawy]
-\`\`\`
+```
 
 Nie każda sprawa wymaga wszystkich dokumentów w pełnym zakresie. Zestaw powinien być proporcjonalny do kwoty, ryzyka, rodzaju wsparcia, źródła finansowania i obowiązków prawnych.
 
@@ -1525,7 +1525,7 @@ Odpowiedzialności nie można przenieść wyłącznie na beneficjenta lub wolont
 
 ### 16.1. Etapy postępowania
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
  A[Kontakt z opiekunem] --> B[Wstępne rozpoznanie potrzeby]
  B --> C{Czy Program obejmuje potrzebę?}
@@ -1545,7 +1545,7 @@ flowchart TD
  O --> P[Ewidencja i rozliczenie]
  P --> Q[Kontrola proporcjonalna]
  Q --> R[Zamknięcie sprawy]
-\`\`\`
+```
 
 ### 16.2. Terminy wewnętrzne
 
