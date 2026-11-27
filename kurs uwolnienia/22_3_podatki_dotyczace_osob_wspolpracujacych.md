@@ -1366,8 +1366,8 @@ Dokumentacja powinna być wystarczająca do wykazania prawidłowości wypłaty, 
 2. Ustawa z 13 października 1998 r. o systemie ubezpieczeń społecznych, tekst jednolity: Dz. U. 2026 poz. 1474. [ELI – tekst jednolity SUS](https://eli.gov.pl/eli/DU/2026/1474/ogl).
 3. Ustawa z 26 czerwca 1974 r. – Kodeks pracy, tekst jednolity: Dz. U. 2026 poz. 1245. [ELI – Kodeks pracy](https://eli.gov.pl/eli/DU/2026/1245/ogl).
 4. Ustawa z 23 kwietnia 1964 r. – Kodeks cywilny, tekst jednolity: Dz. U. 2026 poz. 795. [ELI – Kodeks cywilny](https://eli.gov.pl/eli/DU/2026/795/ogl).
-5. Ustawa z 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. [ELI – ustawa o świadczeniach opieki zdrowotnej](https://eli.gov.pl/eli/DU/2004/2135/ogl).
-6. Ustawa z 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, tekst jednolity: Dz. U. 2024 poz. 1491. [ELI – ustawa o pożytku publicznym i wolontariacie](https://eli.gov.pl/eli/DU/2024/1491/ogl).
+5. Ustawa z 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, tekst jednolity: Dz. U. 2025 poz. 1461, z późniejszymi zmianami. [ELI – tekst jednolity Dz. U. 2025 poz. 1461](https://eli.gov.pl/eli/DU/2025/1461/ogl).
+6. Ustawa z 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, tekst jednolity: Dz. U. 2025 poz. 1338, z późniejszymi zmianami. [ELI – tekst jednolity Dz. U. 2025 poz. 1338](https://eli.gov.pl/eli/DU/2025/1338/ogl).
 7. Rozporządzenie Rady Ministrów z 11 września 2025 r. w sprawie minimalnego wynagrodzenia i minimalnej stawki godzinowej w 2026 r., Dz. U. 2025 poz. 1242. [Dziennik Ustaw](https://dziennikustaw.gov.pl/D2025000124201.pdf).
 8. Ustawa z 11 marca 2026 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw, Dz. U. 2026 poz. 473. [ELI – nowelizacja PIP](https://eli.gov.pl/eli/DU/2026/473/ogl).
 9. Rozporządzenie Ministra Pracy i Polityki Społecznej z 29 stycznia 2013 r. w sprawie należności przysługujących pracownikowi z tytułu podróży służbowej, z późniejszymi zmianami.
