@@ -537,6 +537,8 @@ Działalność gospodarcza nie staje się działalnością statutową tylko dlat
 
 Dochód nie jest przeznaczony do podziału między fundatora, członków organów lub inne osoby tylko z powodu prowadzenia działalności gospodarczej przez fundację. Zasady przeznaczania dochodu wynikają z ustawy, statutu i właściwych regulacji.
 
+Jeżeli fundacja posiada status organizacji pożytku publicznego, należy dodatkowo stosować art. 20 ustawy o działalności pożytku publicznego i o wolontariacie. Działalność gospodarcza OPP może być prowadzona wyłącznie jako dodatkowa w stosunku do działalności pożytku publicznego, a nadwyżka przychodów nad kosztami musi być przeznaczana na działalność pożytku publicznego. OPP musi także spełniać wymagania dotyczące statutowego, kolegialnego i odrębnego od organu zarządzającego organu kontroli lub nadzoru oraz pozostałe warunki ustawowe. Jest to odrębny test statusowy – nie zastępuje ogólnych wymagań dotyczących działalności gospodarczej fundacji.
+
 ### 8.2. Przykładowa działalność gospodarcza
 
 Fundacja może prowadzić odpłatną sprzedaż usług lub produktów, jeżeli:
@@ -2025,7 +2027,7 @@ Ostatecznym miernikiem jakości nie jest liczba regulaminów, kont księgowych a
 
 ### 31.1. Akty prawne – źródła urzędowe
 
-1. Ustawa z dnia 6 kwietnia 1984 r. o fundacjach, z uwzględnieniem zmian obowiązujących w dacie opracowania. [Elektroniczny Dziennik Ustaw – akt podstawowy](https://eli.gov.pl/eli/DU/1984/97/ogl).
+1. Ustawa z dnia 6 kwietnia 1984 r. o fundacjach, tekst jednolity: Dz.U. 2023 poz. 166, z uwzględnieniem nowelizacji Dz.U. 2026 poz. 316. [ELI – tekst jednolity](https://eli.gov.pl/eli/DU/2023/166/ogl); [ELI – nowelizacja z 2026 r.](https://eli.gov.pl/eli/DU/2026/316/ogl).
 2. Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, tekst jednolity: Dz.U. 2025 poz. 1338. [ELI – tekst jednolity](https://eli.gov.pl/eli/DU/2025/1338/ogl).
 3. Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o grach hazardowych, Dz.U. 2026 poz. 1040. [ELI – akt nowelizujący](https://eli.gov.pl/eli/DU/2026/1040/ogl).
 4. Ustawa z dnia 29 września 1994 r. o rachunkowości, tekst jednolity: Dz.U. 2026 poz. 522, z późniejszymi zmianami. [ELI – tekst jednolity](https://eli.gov.pl/eli/DU/2026/522/ogl).
