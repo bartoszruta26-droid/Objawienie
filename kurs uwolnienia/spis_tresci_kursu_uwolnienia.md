@@ -1254,6 +1254,12 @@ Uczestnik opracowuje kompletny model działalności organizacji obejmujący:
 17. Roczny plan działalności.
 18. Roczny plan finansowy.
 
+### 26.1. Wzorcowe opracowanie końcowego projektu organizacyjnego
+
+[Otwórz pełny projekt organizacyjny](26_1_koncowy_projekt_organizacyjny.md)
+
+Dokument integruje wszystkie osiemnaście elementów zadania końcowego i zawiera model wdrożenia, budżet, strukturę odpowiedzialności, procedury kontroli oraz kryteria odbioru.
+
 ---
 
 # CZĘŚĆ VIII. WERYFIKACJA KOMPETENCJI I ZAKOŃCZENIE KURSU
